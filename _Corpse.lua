@@ -1,0 +1,2 @@
+
+_CorpseLocale = nil

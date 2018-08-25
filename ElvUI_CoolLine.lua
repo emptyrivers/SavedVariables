@@ -1,0 +1,4 @@
+
+ElvUICoolLineConfig = {
+	["Installed"] = true,
+}
