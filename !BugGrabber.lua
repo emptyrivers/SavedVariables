@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 3487,
+	["session"] = 3489,
 	["errors"] = {
 		{
 			["message"] = "...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-66.lua:203: attempt to index local 'group' (a nil value)",
