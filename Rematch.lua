@@ -166,9 +166,9 @@ RematchSaved = {
 		["minHP"] = 500,
 		["notes"] = "Turn 1    Pump\nTurn 2    Cleansing Rain\nTurns 3+    Water Jet until Sunny dies\nRoots comes in\nTurn 1    Pump\nTurn 2    Water Jet - Roots dies\nBeaky comes in\nTurn 1    Swap to your Level Pet\nTurn 2    Swap to Chrominius\nTurn 3    Howl\nTurn 4    Surge of Power",
 		["teamName"] = "Training with Durian",
-		["tab"] = 2,
-		["allowMM"] = true,
 		["expectedDD"] = 7,
+		["allowMM"] = true,
+		["tab"] = 2,
 	},
 	[142096] = {
 		{
@@ -1731,26 +1731,26 @@ RematchSaved = {
 		["notes"] = "Turn 1    Unholy Ascension\nBring in Ikky\nTurn 2    Black Claw\nTurns 3-5    Flock - Blottis dies",
 		["teamName"] = "Size Doesn't Matter",
 	},
-	[142114] = {
+	[141879] = {
 		{
-			"BattlePet-0-00000E0BBCAD", -- [1]
-			1002, -- [2]
-			392, -- [3]
-			985, -- [4]
-			1320, -- [5]
+			"BattlePet-0-00000E0BBD0E", -- [1]
+			421, -- [2]
+			440, -- [3]
+			595, -- [4]
+			557, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			122, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
+			"BattlePet-0-00000E0BBE35", -- [1]
+			355, -- [2]
+			490, -- [3]
+			124, -- [4]
+			514, -- [5]
 		}, -- [3]
 		["tab"] = 5,
-		["teamName"] = "Add More to the Collection",
+		["teamName"] = "Keeyo’s Champions of Vol’dun",
 		["minXP"] = 1,
 	},
 	[68565] = {
@@ -1815,22 +1815,25 @@ RematchSaved = {
 		["tab"] = 2,
 		["teamName"] = "Tiny Apparition",
 	},
-	[65655] = {
+	[66636] = {
 		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			777, -- [2]
-			647, -- [3]
-			334, -- [4]
-			339, -- [5]
+			0, -- [1]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD85", -- [1]
+			228, -- [2]
+			123, -- [3]
+			232, -- [4]
+			542, -- [5]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBC88", -- [1]
+			228, -- [2]
+			123, -- [3]
+			232, -- [4]
+			419, -- [5]
 		}, -- [3]
-		["maxXP"] = 4,
-		["teamName"] = "Eric Davidson",
+		["teamName"] = "Nearly Headless Jacob",
 	},
 	[87124] = {
 		{
@@ -1893,45 +1896,53 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Buggy fight",
 	},
-	["Erris / Kura"] = {
+	[105093] = {
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD0E", -- [1]
+			421, -- [2]
+			440, -- [3]
+			595, -- [4]
+			557, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			299, -- [2]
-			611, -- [3]
-			593, -- [4]
-			1152, -- [5]
-		}, -- [2]
-		{
 			0, -- [1]
-		}, -- [3]
-	},
-	[128008] = {
-		{
-			"BattlePet-0-00000E0BBCF3", -- [1]
-			921, -- [2]
-			364, -- [3]
-			919, -- [4]
-			1211, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD2F", -- [1]
-			110, -- [2]
-			919, -- [3]
-			364, -- [4]
-			1180, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD97", -- [1]
-			429, -- [2]
-			492, -- [3]
-			538, -- [4]
-			40, -- [5]
+			"BattlePet-0-00000E0BBD5E", -- [1]
+			445, -- [2]
+			369, -- [3]
+			564, -- [4]
+			493, -- [5]
 		}, -- [3]
 		["tab"] = 2,
-		["teamName"] = "Foulclaw",
+		["teamName"] = "Only Pets Can Prevent Forest Fires",
+	},
+	[105352] = {
+		{
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBCA9", -- [1]
+			384, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
+		}, -- [3]
+		["minHP"] = 350,
+		["notes"] = "Turn 1    Decoy\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your Mechanical Pandaren Dragonling\nTurns 4+    Breath until your Dragonling dies. Feel free to put up another Decoy if it comes off cooldown.\nOften the Dragonling finishes the fight on its own. If not:\nBring in your Clockwork Gnome\nTurn 1    Build Turret\nTurns 2+    Keep Turrets on cooldown and use Metal Fist in between until the fight is done.",
+		["teamName"] = "Mana Tap",
+		["expectedDD"] = 6,
+		["tab"] = 2,
 	},
 	[85419] = {
 		{
@@ -1957,30 +1968,16 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Gnawface",
 	},
-	[117951] = {
-		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			777, -- [2]
-			282, -- [3]
-			334, -- [4]
-			339, -- [5]
-		}, -- [2]
+	["Generic Leveling"] = {
 		{
 			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
+		}, -- [1]
+		{
+			"random:0", -- [1]
+		}, -- [2]
+		{
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Turn 1    Decoy\nTurns 2+    Breath until Fido dies\nSeer's Eye comes in\nTurn 1    Thunderbolt\nTurn 2+    Use Decoy and Thunderbolt whenever available, otherwise Breath until your Mechanical Pandaren Dragonling dies\nThis will take care of Seer's Eye as well\nBring in your Darkmoon Zeppelin\nTurn 1    Missile until Flickering Fel drops below 618 health\nThen:    Explode, your Level Pet will get the full experience",
-		["teamName"] = "Illidari Masters: Nameless Mystic",
 	},
 	[115286] = {
 		{
@@ -2050,17 +2047,63 @@ RematchSaved = {
 			479, -- [5]
 		}, -- [3]
 		["minHP"] = 200,
-		["tab"] = 2,
-		["teamName"] = "All Pets Go to Heaven",
 		["allowMM"] = true,
+		["teamName"] = "All Pets Go to Heaven",
+		["tab"] = 2,
 	},
-	[83837] = {
+	[99880] = {
 		{
-			"BattlePet-0-00000E0BBE55", -- [1]
-			356, -- [2]
-			511, -- [3]
-			513, -- [4]
-			746, -- [5]
+			"BattlePet-0-00000E0BBDEE", -- [1]
+			406, -- [2]
+			453, -- [3]
+			814, -- [4]
+			1155, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [3]
+		["tab"] = 2,
+		["teamName"] = "Oh, Ominitron",
+		["minXP"] = 15,
+	},
+	[68562] = {
+		{
+			"BattlePet-0-00000E0BBE51", -- [1]
+			504, -- [2]
+			506, -- [3]
+			508, -- [4]
+			1325, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBD1C", -- [1]
+			504, -- [2]
+			506, -- [3]
+			508, -- [4]
+			718, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBE56", -- [1]
+			504, -- [2]
+			506, -- [3]
+			508, -- [4]
+			1324, -- [5]
+		}, -- [3]
+		["teamName"] = "Ti'un the Wanderer",
+	},
+	[68462] = {
+		{
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			504, -- [2]
+			312, -- [3]
+			802, -- [4]
+			1416, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
@@ -2069,61 +2112,15 @@ RematchSaved = {
 			0, -- [4]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD07", -- [1]
-			122, -- [2]
-			168, -- [3]
-			405, -- [4]
-			1161, -- [5]
-		}, -- [3]
-		["notes"] = "Turn 1    Whirlpool\nTurn 2    Snap\nTurn 3    Snap\nNOTE: If your Crab has 1481 maximum health and you got a critical hit earlier and Idol of Decay is below 450 HP (an estimate), DO NOT do Turn 4, skip to Turn 5.\nTurn 4    Snap\nImportant: If your Crab has 1806 maximum health (H/H Breed), do one more Snap. BUT If you got a critical hit earlier and the Idol of Decay is below 450 HP (an estimate), DO NOT do one more snap, skip to turn 5.\nTurn 5    Swap to your Leveling Pet\nTurn 6    Swap back to Emperor Crab\nTurn 7    Renewing Mists\nTurn 8    Snap - the Idol dies and resurrects for one round\nTurn 9    Swap to Infinite Whelpling - Idol dies\nWishbright Lantern comes in\nTurn 1    Healing Flame\nTurn 2    Tail Sweep\nTurn 3    Tail Sweep\nTurn 4    Tail Sweep - the Lantern dies\nGyrexle comes in\nTurn 1    Early Advantage\nTurn 2    Tail Sweep\nTurn 3    Tail Sweep - done!",
-		["teamName"] = "Cymre Brightblade",
-		["minXP"] = 2,
-	},
-	[106542] = {
-		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			122, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
-		}, -- [1]
-		{
 			0, -- [1]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBD22", -- [1]
-			202, -- [2]
-			314, -- [3]
-			124, -- [4]
-			1166, -- [5]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [3]
-		["tab"] = 2,
-		["teamName"] = "Help a Whelp",
-		["minXP"] = 15,
-	},
-	[94642] = {
-		{
-			"BattlePet-0-00000E0BBD13", -- [1]
-			118, -- [2]
-			513, -- [3]
-			418, -- [4]
-			868, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			110, -- [2]
-			362, -- [3]
-			593, -- [4]
-			1152, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
-		}, -- [3]
-		["teamName"] = "Direflame",
+		["minHP"] = 450,
+		["expectedDD"] = 9,
+		["teamName"] = "Flowing Pandaren Spirit",
+		["notes"] = "Turn 1    Alpha Strike\nTurn 2    Alpha Strike\nTurn 3    Dodge\nTurn 4    Alpha Strike - Marley dies.\nTiptoe comes in.\nTurn 1    Alpha Strike\nTurn 2    Alpha Strike\nTurn 3    Alpha Strike\nTurn 4    Dodge\nTurn 5+6    Ravage\nPandaren Water Spirit comes in.\nTurn 1    Swap to your Level Pet.\nTurn 2    Swap back to your Teroclaw Hatchling\nTurn 3    Alpha Strike\nTurn 4    Dodge\nTurns 5+    Alpha Strike until the fight is won.",
 	},
 	[141002] = {
 		{
@@ -2168,27 +2165,30 @@ RematchSaved = {
 		["tab"] = 5,
 		["teamName"] = "Pack Leader",
 	},
-	[140461] = {
+	[105779] = {
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			184, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBCAD", -- [1]
-			983, -- [2]
-			392, -- [3]
-			985, -- [4]
-			1320, -- [5]
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			504, -- [2]
+			312, -- [3]
+			574, -- [4]
+			1416, -- [5]
 		}, -- [3]
-		["tab"] = 5,
-		["teamName"] = "Night Horrors",
-		["minXP"] = 1,
+		["tab"] = 2,
+		["notes"] = "Turn 1    Decoy\nTurns 2+    Breath until Eye of Inquisition dies\nEye of Interrogation comes in\nTurns 1+    Breath until Eye of Interrogation dies\nEye of Impetration comes in\nTurn 1    Breath\nTurn 2    Breath\nTurn 3    Decoy\nTurn 4    Swap to your Level Pet\nTurn 5    Swap to your Teroclaw Hatchling\nTurn 6    Dodge\nTurn 7    Alpha Strike\nTurn 8    Nature's Ward\nTurns 9+    Alpha Strike until Eye of Impetration dies",
+		["teamName"] = "Threads of Fate",
 	},
 	[87125] = {
 		{
@@ -2214,8 +2214,8 @@ RematchSaved = {
 		["minHP"] = 220,
 		["notes"] = "Turn 1    Pass\nTurn 2    Swap to Clockwork Gnome\nTurn 3    Build Turret\nTurn 4    Metal Fist - this will get interrupted\nTurns 5-6    Repair\nTurn 7    Build Turret\nTurn 8    Metal Fist\nTurn 9    Metal Fist\nTurn 10    Build Turret - Serendipity dies\nGrace comes in\nTurn 11    Metal Fist - Grace will cast Lightning, sealing its own fate thanks to your turrets ^^\nTurn 12    Metal Fist - don't bother repairing again. Your gnome won't survive long enough.\nIf your Clockwork Gnome survived, build another turret and keep using Metal Fist until it dies.\nAtonement should be out when you switch to your Pandaren Water Spirit\nDepending on how much life Atonement still has, you can either Water Jet it down (less than 500 HP) or use Geyser, Dive, Water Jet to finish the fight",
 		["allowMM"] = true,
-		["teamName"] = "Taralune",
 		["expectedDD"] = 6,
+		["teamName"] = "Taralune",
 	},
 	[73626] = {
 		{
@@ -2281,25 +2281,27 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Gorespine",
 	},
-	[91014] = {
+	[140461] = {
 		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			515, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			184, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBDEA", -- [1]
-			384, -- [2]
-			392, -- [3]
-			1398, -- [4]
-			1672, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBCAD", -- [1]
+			983, -- [2]
+			392, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [3]
-		["teamName"] = "Erris the Collector",
+		["tab"] = 5,
+		["teamName"] = "Night Horrors",
+		["minXP"] = 1,
 	},
 	[66550] = {
 		{
@@ -2343,28 +2345,29 @@ RematchSaved = {
 		["tab"] = 2,
 		["teamName"] = "Watcher",
 	},
-	["Goodbye clonedance"] = {
+	[94643] = {
 		{
-			"BattlePet-0-00000E0BBC79", -- [1]
-			319, -- [2]
-			811, -- [3]
-			330, -- [4]
-			297, -- [5]
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			110, -- [2]
+			362, -- [3]
+			593, -- [4]
+			1152, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD0F", -- [1]
-			393, -- [2]
-			256, -- [3]
-			668, -- [4]
-			538, -- [5]
+			"BattlePet-0-00000E0BBD13", -- [1]
+			118, -- [2]
+			513, -- [3]
+			418, -- [4]
+			868, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDEA", -- [1]
-			384, -- [2]
-			392, -- [3]
-			1398, -- [4]
-			1672, -- [5]
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
 		}, -- [3]
+		["teamName"] = "Mirecroak",
 	},
 	[94648] = {
 		{
@@ -2412,29 +2415,22 @@ RematchSaved = {
 		["teamName"] = "Shipwrecked Captive",
 		["tab"] = 2,
 	},
-	[106476] = {
+	[66518] = {
 		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			504, -- [2]
-			312, -- [3]
-			574, -- [4]
-			1416, -- [5]
+			"BattlePet-0-00000E0BBD3A", -- [1]
+			219, -- [2]
+			1054, -- [3]
+			1052, -- [4]
+			1343, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
 		}, -- [2]
 		{
 			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
 		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Turn 1    Dodge\nTurn 2    Alpha Strike\nTurn 3    Nature's Ward\nTurn 4    Alpha Strike until the Allured Tadpole is dead\nConfused Tadpole comes in\nTurn 1    Nature's Ward\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your Teroclaw Hatchling\nTurn 4    Dodge\nTurn 5    Alpha Strike\nTurn 6    Alpha Strike\nTurn 7    Nature's Ward\nTurns 8+    Alpha Strike until this Tadpole is dead as well (pass when you get stunned)\nSubjugated Tadpole comes in\nTurn 1    Alpha Strike\nTurn 2    Dodge\nTurns 3+    Alpha Strike until the fight is done",
-		["teamName"] = "Dazed and Confused and Adorable",
+		["teamName"] = "Everessa",
+		["maxXP"] = 16,
 	},
 	[66478] = {
 		{
@@ -2477,22 +2473,29 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Carrotus Maximus",
 	},
-	[66520] = {
+	[68560] = {
 		{
-			"BattlePet-0-00000E0BBDD0", -- [1]
-			1407, -- [2]
-			179, -- [3]
-			503, -- [4]
-			1544, -- [5]
+			"BattlePet-0-00000E0BBCAD", -- [1]
+			1002, -- [2]
+			392, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD09", -- [1]
+			777, -- [2]
+			646, -- [3]
+			209, -- [4]
+			338, -- [5]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBCA9", -- [1]
+			384, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
 		}, -- [3]
-		["teamName"] = "Durin Darkhammer",
-		["maxXP"] = 17,
+		["teamName"] = "Greyhoof",
 	},
 	[64330] = {
 		{
@@ -2533,29 +2536,26 @@ RematchSaved = {
 		["teamName"] = "Rogue Azerite",
 		["minXP"] = 10,
 	},
-	[85629] = {
+	[105009] = {
 		{
-			"BattlePet-0-00000E0BBCAA", -- [1]
-			118, -- [2]
-			230, -- [3]
-			297, -- [4]
-			836, -- [5]
+			"BattlePet-0-00000E0BBEAC", -- [1]
+			499, -- [2]
+			998, -- [3]
+			652, -- [4]
+			1442, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBE6D", -- [1]
-			803, -- [2]
-			423, -- [3]
-			906, -- [4]
-			1179, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			1370, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD49", -- [1]
-			118, -- [2]
-			230, -- [3]
-			297, -- [4]
-			383, -- [5]
+			0, -- [1]
 		}, -- [3]
-		["teamName"] = "Challenge Post",
+		["tab"] = 2,
+		["teamName"] = "Thistleleaf Bully",
 	},
 	[66487] = {
 		{
@@ -2574,28 +2574,28 @@ RematchSaved = {
 		["maxXP"] = 16,
 		["teamName"] = "Carrion",
 	},
-	[87110] = {
+	[85685] = {
 		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			422, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
+			"BattlePet-0-00000E0BBDBB", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBC81", -- [1]
-			648, -- [2]
-			214, -- [3]
-			649, -- [4]
-			266, -- [5]
+			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [2]
 		{
 			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [3]
-		["minHP"] = 1000,
-		["notes"] = "1. Haunt, swap to hatchling\n2. BONESTORM\n3. Death & Decay\n4. Swap to carry (absorbs stun)\n5. Swap to hatchling\nNow, BONESTORM > Bone Bite, when hatchling dies, bring out unborn val'kyr and spam shadow shock.",
-		["teamName"] = "Tarr the Terrible",
-		["maxXP"] = 23,
+		["teamName"] = "Stitches Jr.",
+		["notes"] = "Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Pass\nTurn 4    Wind-Up\nTurn 5    Supercharge\nTurn 6    Wind-Up",
 	},
 	[68559] = {
 		{
@@ -2687,25 +2687,29 @@ RematchSaved = {
 		["tab"] = 3,
 		["teamName"] = "Pilfer",
 	},
-	[85659] = {
+	[104992] = {
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			115, -- [2]
+			597, -- [3]
+			612, -- [4]
+			1167, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBD2E", -- [1]
 			122, -- [2]
-			489, -- [3]
-			589, -- [4]
+			763, -- [3]
+			592, -- [4]
 			1165, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD0E", -- [1]
-			421, -- [2]
-			277, -- [3]
-			595, -- [4]
-			557, -- [5]
+			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [3]
-		["teamName"] = "The Beakinator",
+		["tab"] = 2,
+		["teamName"] = "Meet The Maw",
 	},
 	[94649] = {
 		{
@@ -2731,29 +2735,22 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Skrillix",
 	},
-	[105841] = {
+	[66515] = {
 		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			210, -- [2]
-			218, -- [3]
-			321, -- [4]
-			1238, -- [5]
+			"BattlePet-0-00000E0BBD3A", -- [1]
+			219, -- [2]
+			1054, -- [3]
+			1052, -- [4]
+			1343, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			1370, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
 			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
 		}, -- [3]
-		["tab"] = 2,
-		["teamName"] = "It's Illid... Wait.",
+		["teamName"] = "Kortas Darkhammer",
+		["maxXP"] = 15,
 	},
 	[71927] = {
 		{
@@ -2803,28 +2800,6 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Carroteye",
 	},
-	[117934] = {
-		{
-			"BattlePet-0-00000E0BBF21", -- [1]
-			1773, -- [2]
-			1758, -- [3]
-			518, -- [4]
-			1975, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDBB", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
-		}, -- [3]
-		["minHP"] = 360,
-		["teamName"] = "Illidari Masters: Sissix",
-		["tab"] = 2,
-	},
 	[68464] = {
 		{
 			0, -- [1]
@@ -2848,6 +2823,28 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Whispering Pandaren Spirit",
 		["notes"] = "Turn 1    Pass\nTurn 2    Swap to Chrominius\nTurn 3    Ancient Blessing\nTurns 4+    Use Arcane Explosion and Ancient Blessing every time it is available.\nOften Chrominius finishes the fight on its own. If he dies too early, bring in your Nexus Whelpling and mop up with Arcane Storm followed by Mana Surge.",
+	},
+	[117934] = {
+		{
+			"BattlePet-0-00000E0BBF21", -- [1]
+			1773, -- [2]
+			1758, -- [3]
+			518, -- [4]
+			1975, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBDBB", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+		["minHP"] = 360,
+		["teamName"] = "Illidari Masters: Sissix",
+		["tab"] = 2,
 	},
 	[117950] = {
 		{
@@ -2873,81 +2870,17 @@ RematchSaved = {
 		["minHP"] = 300,
 		["notes"] = "Turn 1    Pass - your Unborn Val'kyr is swapped in\nTurn 2    Curse of Doom\nTurn 3    Shadow Slash\nTurn 4    Shadow Slash\nTurn 5    Haunt\nBring in your Mechanical Pandaren Dragonling\nTurn 1    Decoy - Imply dies\nRover comes in\nTurn 1+    Breath until Rover is dead\nSeduction comes in\nTurn 1    Thunderbolt\nTurn 2+    Breath until your Mechanical Pandaren Dragonling dies\nBring back your Unborn Val'kyr\nTurn 1+    Shadow Slash until the fight is won",
 		["teamName"] = "Illidari Masters: Madam Viciosa",
-		["tab"] = 2,
-		["allowMM"] = true,
 		["expectedDD"] = 6,
-	},
-	[66515] = {
-		{
-			"BattlePet-0-00000E0BBD3A", -- [1]
-			219, -- [2]
-			1054, -- [3]
-			1052, -- [4]
-			1343, -- [5]
-		}, -- [1]
-		{
-			0, -- [1]
-		}, -- [2]
-		{
-			0, -- [1]
-		}, -- [3]
-		["teamName"] = "Kortas Darkhammer",
-		["maxXP"] = 15,
-	},
-	[104992] = {
-		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			115, -- [2]
-			597, -- [3]
-			612, -- [4]
-			1167, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			122, -- [2]
-			763, -- [3]
-			592, -- [4]
-			1165, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
-		}, -- [3]
+		["allowMM"] = true,
 		["tab"] = 2,
-		["teamName"] = "Meet The Maw",
 	},
-	[85685] = {
+	[105841] = {
 		{
-			"BattlePet-0-00000E0BBDBB", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
-		}, -- [1]
-		{
-			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
-		}, -- [2]
-		{
-			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
-		}, -- [3]
-		["teamName"] = "Stitches Jr.",
-		["notes"] = "Turn 1    Wind-Up\nTurn 2    Wind-Up\nTurn 3    Pass\nTurn 4    Wind-Up\nTurn 5    Supercharge\nTurn 6    Wind-Up",
-	},
-	[105009] = {
-		{
-			"BattlePet-0-00000E0BBEAC", -- [1]
-			499, -- [2]
-			998, -- [3]
-			652, -- [4]
-			1442, -- [5]
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			210, -- [2]
+			218, -- [3]
+			321, -- [4]
+			1238, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBDCE", -- [1]
@@ -2958,33 +2891,96 @@ RematchSaved = {
 		}, -- [2]
 		{
 			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [3]
 		["tab"] = 2,
-		["teamName"] = "Thistleleaf Bully",
+		["teamName"] = "It's Illid... Wait.",
 	},
-	[68560] = {
+	[85659] = {
 		{
-			"BattlePet-0-00000E0BBCAD", -- [1]
-			1002, -- [2]
-			392, -- [3]
-			985, -- [4]
-			1320, -- [5]
+			0, -- [1]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD09", -- [1]
-			777, -- [2]
-			646, -- [3]
-			209, -- [4]
-			338, -- [5]
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBCA9", -- [1]
-			384, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000E0BBD0E", -- [1]
+			421, -- [2]
+			277, -- [3]
+			595, -- [4]
+			557, -- [5]
 		}, -- [3]
-		["teamName"] = "Greyhoof",
+		["teamName"] = "The Beakinator",
+	},
+	[87110] = {
+		{
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			422, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBC81", -- [1]
+			648, -- [2]
+			214, -- [3]
+			649, -- [4]
+			266, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+		["minHP"] = 1000,
+		["notes"] = "1. Haunt, swap to hatchling\n2. BONESTORM\n3. Death & Decay\n4. Swap to carry (absorbs stun)\n5. Swap to hatchling\nNow, BONESTORM > Bone Bite, when hatchling dies, bring out unborn val'kyr and spam shadow shock.",
+		["teamName"] = "Tarr the Terrible",
+		["maxXP"] = 23,
+	},
+	[85629] = {
+		{
+			"BattlePet-0-00000E0BBCAA", -- [1]
+			118, -- [2]
+			230, -- [3]
+			297, -- [4]
+			836, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBE6D", -- [1]
+			803, -- [2]
+			423, -- [3]
+			906, -- [4]
+			1179, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBD49", -- [1]
+			118, -- [2]
+			230, -- [3]
+			297, -- [4]
+			383, -- [5]
+		}, -- [3]
+		["teamName"] = "Challenge Post",
+	},
+	[66520] = {
+		{
+			"BattlePet-0-00000E0BBDD0", -- [1]
+			1407, -- [2]
+			179, -- [3]
+			503, -- [4]
+			1544, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+		["teamName"] = "Durin Darkhammer",
+		["maxXP"] = 17,
 	},
 	[91016] = {
 		{
@@ -3026,46 +3022,52 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Narrok",
 	},
-	[66518] = {
+	[106476] = {
 		{
-			"BattlePet-0-00000E0BBD3A", -- [1]
-			219, -- [2]
-			1054, -- [3]
-			1052, -- [4]
-			1343, -- [5]
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			504, -- [2]
+			312, -- [3]
+			574, -- [4]
+			1416, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [2]
 		{
 			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
 		}, -- [3]
-		["teamName"] = "Everessa",
-		["maxXP"] = 16,
+		["tab"] = 2,
+		["notes"] = "Turn 1    Dodge\nTurn 2    Alpha Strike\nTurn 3    Nature's Ward\nTurn 4    Alpha Strike until the Allured Tadpole is dead\nConfused Tadpole comes in\nTurn 1    Nature's Ward\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your Teroclaw Hatchling\nTurn 4    Dodge\nTurn 5    Alpha Strike\nTurn 6    Alpha Strike\nTurn 7    Nature's Ward\nTurns 8+    Alpha Strike until this Tadpole is dead as well (pass when you get stunned)\nSubjugated Tadpole comes in\nTurn 1    Alpha Strike\nTurn 2    Dodge\nTurns 3+    Alpha Strike until the fight is done",
+		["teamName"] = "Dazed and Confused and Adorable",
 	},
-	[94643] = {
+	["Goodbye clonedance"] = {
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			110, -- [2]
-			362, -- [3]
-			593, -- [4]
-			1152, -- [5]
+			"BattlePet-0-00000E0BBC79", -- [1]
+			319, -- [2]
+			811, -- [3]
+			330, -- [4]
+			297, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD13", -- [1]
-			118, -- [2]
-			513, -- [3]
-			418, -- [4]
-			868, -- [5]
+			"BattlePet-0-00000E0BBD0F", -- [1]
+			393, -- [2]
+			256, -- [3]
+			668, -- [4]
+			538, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			"BattlePet-0-00000E0BBDEA", -- [1]
+			384, -- [2]
+			392, -- [3]
+			1398, -- [4]
+			1672, -- [5]
 		}, -- [3]
-		["teamName"] = "Mirecroak",
 	},
 	[94650] = {
 		{
@@ -3091,101 +3093,96 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Defiled Earth",
 	},
-	[105779] = {
+	[91014] = {
 		{
 			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
+			515, -- [2]
 			779, -- [3]
 			334, -- [4]
 			844, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
+			"BattlePet-0-00000E0BBDEA", -- [1]
+			384, -- [2]
+			392, -- [3]
+			1398, -- [4]
+			1672, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			504, -- [2]
-			312, -- [3]
-			574, -- [4]
-			1416, -- [5]
+			0, -- [1]
+		}, -- [3]
+		["teamName"] = "Erris the Collector",
+	},
+	[94642] = {
+		{
+			"BattlePet-0-00000E0BBD13", -- [1]
+			118, -- [2]
+			513, -- [3]
+			418, -- [4]
+			868, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			110, -- [2]
+			362, -- [3]
+			593, -- [4]
+			1152, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
+		}, -- [3]
+		["teamName"] = "Direflame",
+	},
+	[106542] = {
+		{
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBD22", -- [1]
+			202, -- [2]
+			314, -- [3]
+			124, -- [4]
+			1166, -- [5]
 		}, -- [3]
 		["tab"] = 2,
-		["notes"] = "Turn 1    Decoy\nTurns 2+    Breath until Eye of Inquisition dies\nEye of Interrogation comes in\nTurns 1+    Breath until Eye of Interrogation dies\nEye of Impetration comes in\nTurn 1    Breath\nTurn 2    Breath\nTurn 3    Decoy\nTurn 4    Swap to your Level Pet\nTurn 5    Swap to your Teroclaw Hatchling\nTurn 6    Dodge\nTurn 7    Alpha Strike\nTurn 8    Nature's Ward\nTurns 9+    Alpha Strike until Eye of Impetration dies",
-		["teamName"] = "Threads of Fate",
-	},
-	[68462] = {
-		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			504, -- [2]
-			312, -- [3]
-			802, -- [4]
-			1416, -- [5]
-		}, -- [1]
-		{
-			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
-		}, -- [2]
-		{
-			0, -- [1]
-			0, -- [2]
-			0, -- [3]
-			0, -- [4]
-		}, -- [3]
-		["minHP"] = 450,
-		["expectedDD"] = 9,
-		["teamName"] = "Flowing Pandaren Spirit",
-		["notes"] = "Turn 1    Alpha Strike\nTurn 2    Alpha Strike\nTurn 3    Dodge\nTurn 4    Alpha Strike - Marley dies.\nTiptoe comes in.\nTurn 1    Alpha Strike\nTurn 2    Alpha Strike\nTurn 3    Alpha Strike\nTurn 4    Dodge\nTurn 5+6    Ravage\nPandaren Water Spirit comes in.\nTurn 1    Swap to your Level Pet.\nTurn 2    Swap back to your Teroclaw Hatchling\nTurn 3    Alpha Strike\nTurn 4    Dodge\nTurns 5+    Alpha Strike until the fight is won.",
-	},
-	[68562] = {
-		{
-			"BattlePet-0-00000E0BBE51", -- [1]
-			504, -- [2]
-			506, -- [3]
-			508, -- [4]
-			1325, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD1C", -- [1]
-			504, -- [2]
-			506, -- [3]
-			508, -- [4]
-			718, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBE56", -- [1]
-			504, -- [2]
-			506, -- [3]
-			508, -- [4]
-			1324, -- [5]
-		}, -- [3]
-		["teamName"] = "Ti'un the Wanderer",
-	},
-	[99880] = {
-		{
-			"BattlePet-0-00000E0BBDEE", -- [1]
-			406, -- [2]
-			453, -- [3]
-			814, -- [4]
-			1155, -- [5]
-		}, -- [1]
-		{
-			0, -- [1]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
-		}, -- [3]
-		["tab"] = 2,
-		["teamName"] = "Oh, Ominitron",
+		["teamName"] = "Help a Whelp",
 		["minXP"] = 15,
+	},
+	[83837] = {
+		{
+			"BattlePet-0-00000E0BBE55", -- [1]
+			356, -- [2]
+			511, -- [3]
+			513, -- [4]
+			746, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0, -- [4]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBD07", -- [1]
+			122, -- [2]
+			168, -- [3]
+			405, -- [4]
+			1161, -- [5]
+		}, -- [3]
+		["notes"] = "Turn 1    Whirlpool\nTurn 2    Snap\nTurn 3    Snap\nNOTE: If your Crab has 1481 maximum health and you got a critical hit earlier and Idol of Decay is below 450 HP (an estimate), DO NOT do Turn 4, skip to Turn 5.\nTurn 4    Snap\nImportant: If your Crab has 1806 maximum health (H/H Breed), do one more Snap. BUT If you got a critical hit earlier and the Idol of Decay is below 450 HP (an estimate), DO NOT do one more snap, skip to turn 5.\nTurn 5    Swap to your Leveling Pet\nTurn 6    Swap back to Emperor Crab\nTurn 7    Renewing Mists\nTurn 8    Snap - the Idol dies and resurrects for one round\nTurn 9    Swap to Infinite Whelpling - Idol dies\nWishbright Lantern comes in\nTurn 1    Healing Flame\nTurn 2    Tail Sweep\nTurn 3    Tail Sweep\nTurn 4    Tail Sweep - the Lantern dies\nGyrexle comes in\nTurn 1    Early Advantage\nTurn 2    Tail Sweep\nTurn 3    Tail Sweep - done!",
+		["teamName"] = "Cymre Brightblade",
+		["minXP"] = 2,
 	},
 	[72290] = {
 		{
@@ -3211,18 +3208,7 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Zao, Calfling of Niuzao",
 	},
-	["Generic Leveling"] = {
-		{
-			0, -- [1]
-		}, -- [1]
-		{
-			"random:0", -- [1]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-	},
-	[105352] = {
+	[117951] = {
 		{
 			"BattlePet-0-00000E0BBCC3", -- [1]
 			115, -- [2]
@@ -3231,64 +3217,78 @@ RematchSaved = {
 			844, -- [5]
 		}, -- [1]
 		{
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			777, -- [2]
+			282, -- [3]
+			334, -- [4]
+			339, -- [5]
+		}, -- [2]
+		{
 			0, -- [1]
 			0, -- [2]
 			0, -- [3]
 			0, -- [4]
+		}, -- [3]
+		["tab"] = 2,
+		["notes"] = "Turn 1    Decoy\nTurns 2+    Breath until Fido dies\nSeer's Eye comes in\nTurn 1    Thunderbolt\nTurn 2+    Use Decoy and Thunderbolt whenever available, otherwise Breath until your Mechanical Pandaren Dragonling dies\nThis will take care of Seer's Eye as well\nBring in your Darkmoon Zeppelin\nTurn 1    Missile until Flickering Fel drops below 618 health\nThen:    Explode, your Level Pet will get the full experience",
+		["teamName"] = "Illidari Masters: Nameless Mystic",
+	},
+	[128008] = {
+		{
+			"BattlePet-0-00000E0BBCF3", -- [1]
+			921, -- [2]
+			364, -- [3]
+			919, -- [4]
+			1211, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBD2F", -- [1]
+			110, -- [2]
+			919, -- [3]
+			364, -- [4]
+			1180, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBCA9", -- [1]
-			384, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000E0BBD97", -- [1]
+			429, -- [2]
+			492, -- [3]
+			538, -- [4]
+			40, -- [5]
 		}, -- [3]
-		["minHP"] = 350,
-		["notes"] = "Turn 1    Decoy\nTurn 2    Swap to your Level Pet\nTurn 3    Swap back to your Mechanical Pandaren Dragonling\nTurns 4+    Breath until your Dragonling dies. Feel free to put up another Decoy if it comes off cooldown.\nOften the Dragonling finishes the fight on its own. If not:\nBring in your Clockwork Gnome\nTurn 1    Build Turret\nTurns 2+    Keep Turrets on cooldown and use Metal Fist in between until the fight is done.",
-		["teamName"] = "Mana Tap",
 		["tab"] = 2,
-		["expectedDD"] = 6,
+		["teamName"] = "Foulclaw",
 	},
-	[105093] = {
+	["Erris / Kura"] = {
 		{
-			"BattlePet-0-00000E0BBD0E", -- [1]
-			421, -- [2]
-			440, -- [3]
-			595, -- [4]
-			557, -- [5]
+			0, -- [1]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			299, -- [2]
+			611, -- [3]
+			593, -- [4]
+			1152, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
+		}, -- [3]
+	},
+	[65655] = {
+		{
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			777, -- [2]
+			647, -- [3]
+			334, -- [4]
+			339, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD5E", -- [1]
-			445, -- [2]
-			369, -- [3]
-			564, -- [4]
-			493, -- [5]
-		}, -- [3]
-		["tab"] = 2,
-		["teamName"] = "Only Pets Can Prevent Forest Fires",
-	},
-	[66636] = {
-		{
 			0, -- [1]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD85", -- [1]
-			228, -- [2]
-			123, -- [3]
-			232, -- [4]
-			542, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBC88", -- [1]
-			228, -- [2]
-			123, -- [3]
-			232, -- [4]
-			419, -- [5]
 		}, -- [3]
-		["teamName"] = "Nearly Headless Jacob",
+		["maxXP"] = 4,
+		["teamName"] = "Eric Davidson",
 	},
 	[85630] = {
 		{
@@ -3334,26 +3334,26 @@ RematchSaved = {
 		}, -- [3]
 		["teamName"] = "Lucky Yi",
 	},
-	[141879] = {
+	[142114] = {
 		{
-			"BattlePet-0-00000E0BBD0E", -- [1]
-			421, -- [2]
-			440, -- [3]
-			595, -- [4]
-			557, -- [5]
+			"BattlePet-0-00000E0BBCAD", -- [1]
+			1002, -- [2]
+			392, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [1]
 		{
 			0, -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBE35", -- [1]
-			355, -- [2]
-			490, -- [3]
-			124, -- [4]
-			514, -- [5]
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
 		}, -- [3]
 		["tab"] = 5,
-		["teamName"] = "Keeyo’s Champions of Vol’dun",
+		["teamName"] = "Add More to the Collection",
 		["minXP"] = 1,
 	},
 }
@@ -3812,48 +3812,13 @@ RematchSettings = {
 	["BackupCount"] = 277,
 	["SafariHatShine"] = true,
 	["Minimized"] = true,
-	["PetNotes"] = {
-	},
+	["HideMenuHelp"] = true,
 	["ShowLevelingSlot"] = true,
 	["AllowHiddenPetsDefaulted"] = true,
 	["HiddenPets"] = {
 		[331] = true,
 	},
-	["FavoriteFilters"] = {
-		{
-			"non-rare in queue", -- [1]
-			{
-				["Other"] = {
-					["Leveling"] = true,
-				},
-				["Strong"] = {
-				},
-				["Rarity"] = {
-					true, -- [1]
-					true, -- [2]
-					true, -- [3]
-				},
-				["Favorite"] = {
-				},
-				["Collected"] = {
-				},
-				["Similar"] = {
-				},
-				["Breed"] = {
-				},
-				["Script"] = {
-				},
-				["Sources"] = {
-				},
-				["Level"] = {
-				},
-				["Tough"] = {
-				},
-				["Types"] = {
-				},
-			}, -- [2]
-		}, -- [1]
-	},
+	["ClickPetCard"] = false,
 	["PreferredMode"] = 1,
 	["DontIncludePreferences"] = false,
 	["Sanctuary"] = {
@@ -4217,35 +4182,25 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF17"] = {
+		["BattlePet-0-00000E0BBD5A"] = {
 			1, -- [1]
 			true, -- [2]
-			186, -- [3]
+			499, -- [3]
+			15, -- [4]
+			768, -- [5]
+			126, -- [6]
+			128, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBDBA"] = {
+			1, -- [1]
+			true, -- [2]
+			122, -- [3]
 			1, -- [4]
-			149, -- [5]
-			12, -- [6]
-			12, -- [7]
+			152, -- [5]
+			10, -- [6]
+			13, -- [7]
 			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD76"] = {
-			1, -- [1]
-			true, -- [2]
-			544, -- [3]
-			22, -- [4]
-			1444, -- [5]
-			255, -- [6]
-			212, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBC83"] = {
-			1, -- [1]
-			true, -- [2]
-			387, -- [3]
-			7, -- [4]
-			389, -- [5]
-			62, -- [6]
-			81, -- [7]
-			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBC95"] = {
 			1, -- [1]
@@ -4257,14 +4212,14 @@ RematchSettings = {
 			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCC8"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD42"] = {
+			2, -- [1]
 			true, -- [2]
-			90, -- [3]
-			1, -- [4]
-			151, -- [5]
-			12, -- [6]
-			11, -- [7]
+			1328, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			289, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDC2"] = {
@@ -4287,14 +4242,14 @@ RematchSettings = {
 			325, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCD1"] = {
+		["BattlePet-0-00000E0BBF47"] = {
 			1, -- [1]
 			true, -- [2]
-			409, -- [3]
-			25, -- [4]
-			1237, -- [5]
-			289, -- [6]
-			322, -- [7]
+			347, -- [3]
+			1, -- [4]
+			155, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE63"] = {
@@ -4317,14 +4272,14 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD00"] = {
-			4, -- [1]
+		["BattlePet-0-00000E0BBCD1"] = {
+			1, -- [1]
 			true, -- [2]
-			401, -- [3]
+			409, -- [3]
 			25, -- [4]
-			1806, -- [5]
-			260, -- [6]
-			244, -- [7]
+			1237, -- [5]
+			289, -- [6]
+			322, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD06"] = {
@@ -4357,15 +4312,15 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBEBB"] = {
+		["BattlePet-0-00000E0BBF11"] = {
 			1, -- [1]
 			true, -- [2]
-			513, -- [3]
-			16, -- [4]
-			780, -- [5]
-			136, -- [6]
-			136, -- [7]
-			1, -- [8]
+			233, -- [3]
+			1, -- [4]
+			142, -- [5]
+			11, -- [6]
+			11, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBF2F"] = {
 			1, -- [1]
@@ -4377,24 +4332,24 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDE3"] = {
+		["BattlePet-0-00000E0BBD39"] = {
 			1, -- [1]
 			true, -- [2]
-			1690, -- [3]
-			1, -- [4]
-			147, -- [5]
-			13, -- [6]
-			12, -- [7]
+			752, -- [3]
+			23, -- [4]
+			1520, -- [5]
+			239, -- [6]
+			239, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE40"] = {
+		["BattlePet-0-00000E0BBF3F"] = {
 			1, -- [1]
 			true, -- [2]
-			330, -- [3]
+			1233, -- [3]
 			1, -- [4]
-			155, -- [5]
+			159, -- [5]
 			12, -- [6]
-			11, -- [7]
+			9, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE47"] = {
@@ -4407,15 +4362,15 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC8B"] = {
+		["BattlePet-0-00000E0BBD63"] = {
 			1, -- [1]
 			true, -- [2]
-			160, -- [3]
-			1, -- [4]
-			152, -- [5]
-			13, -- [6]
-			10, -- [7]
-			4, -- [8]
+			540, -- [3]
+			20, -- [4]
+			1108, -- [5]
+			202, -- [6]
+			214, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD86"] = {
 			1, -- [1]
@@ -4457,14 +4412,14 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD15"] = {
-			2, -- [1]
+		["BattlePet-0-00000E0BBC8B"] = {
+			1, -- [1]
 			true, -- [2]
-			699, -- [3]
-			25, -- [4]
-			1384, -- [5]
-			276, -- [6]
-			305, -- [7]
+			160, -- [3]
+			1, -- [4]
+			152, -- [5]
+			13, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC94"] = {
@@ -4487,14 +4442,14 @@ RematchSettings = {
 			266, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCAD"] = {
-			7, -- [1]
+		["BattlePet-0-00000E0BBD15"] = {
+			2, -- [1]
 			true, -- [2]
-			1320, -- [3]
+			699, -- [3]
 			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
+			1384, -- [5]
+			276, -- [6]
+			305, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD67"] = {
@@ -4507,14 +4462,24 @@ RematchSettings = {
 			196, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBF15"] = {
+		["BattlePet-0-00000E0BBCAD"] = {
+			7, -- [1]
+			true, -- [2]
+			1320, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E6C5505"] = {
 			1, -- [1]
 			true, -- [2]
-			1968, -- [3]
+			1953, -- [3]
 			1, -- [4]
 			152, -- [5]
-			11, -- [6]
-			12, -- [7]
+			10, -- [6]
+			13, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF38"] = {
@@ -4527,25 +4492,25 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E956926"] = {
+		["BattlePet-0-00000E8245F7"] = {
 			1, -- [1]
 			true, -- [2]
-			382, -- [3]
-			1, -- [4]
-			154, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
+			2123, -- [3]
+			23, -- [4]
+			1239, -- [5]
+			205, -- [6]
+			161, -- [7]
+			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBCD8"] = {
+		["BattlePet-0-00000E0BBD71"] = {
 			1, -- [1]
 			true, -- [2]
-			396, -- [3]
-			6, -- [4]
-			389, -- [5]
-			69, -- [6]
-			73, -- [7]
-			4, -- [8]
+			477, -- [3]
+			1, -- [4]
+			147, -- [5]
+			9, -- [6]
+			12, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBE82"] = {
 			1, -- [1]
@@ -4557,64 +4522,54 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD57"] = {
+		["BattlePet-0-00000E0BBE51"] = {
+			4, -- [1]
+			true, -- [2]
+			1325, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			260, -- [6]
+			289, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD81"] = {
 			1, -- [1]
 			true, -- [2]
-			469, -- [3]
-			20, -- [4]
-			940, -- [5]
-			252, -- [6]
-			204, -- [7]
+			739, -- [3]
+			23, -- [4]
+			905, -- [5]
+			205, -- [6]
+			228, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBD0F"] = {
+			2, -- [1]
+			true, -- [2]
+			538, -- [3]
+			25, -- [4]
+			1806, -- [5]
+			276, -- [6]
+			227, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE5B"] = {
+			1, -- [1]
+			true, -- [2]
+			1515, -- [3]
+			1, -- [4]
+			148, -- [5]
+			11, -- [6]
+			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBF40"] = {
+		["BattlePet-0-00000E0BBD3D"] = {
 			1, -- [1]
 			true, -- [2]
-			1967, -- [3]
+			1213, -- [3]
 			1, -- [4]
-			154, -- [5]
+			145, -- [5]
 			11, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD0C"] = {
-			15, -- [1]
-			true, -- [2]
-			1238, -- [3]
-			25, -- [4]
-			1562, -- [5]
-			292, -- [6]
-			244, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE46"] = {
-			1, -- [1]
-			true, -- [2]
-			145, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD6C"] = {
-			1, -- [1]
-			true, -- [2]
-			468, -- [3]
-			2, -- [4]
-			192, -- [5]
-			19, -- [6]
-			20, -- [7]
-			2, -- [8]
-		},
-		["BattlePet-0-00000E0BBEB0"] = {
-			1, -- [1]
-			true, -- [2]
-			1545, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			11, -- [7]
+			14, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC6D"] = {
@@ -4627,15 +4582,15 @@ RematchSettings = {
 			322, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEC2"] = {
+		["BattlePet-0-00000E0BBCEA"] = {
 			1, -- [1]
 			true, -- [2]
-			1727, -- [3]
-			1, -- [4]
-			144, -- [5]
-			11, -- [6]
-			11, -- [7]
-			3, -- [8]
+			631, -- [3]
+			17, -- [4]
+			1028, -- [5]
+			177, -- [6]
+			208, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBEB8"] = {
 			1, -- [1]
@@ -4647,25 +4602,25 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE0C"] = {
+		["BattlePet-0-00000E0BBC97"] = {
 			1, -- [1]
 			true, -- [2]
-			425, -- [3]
-			18, -- [4]
-			775, -- [5]
-			160, -- [6]
-			169, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBC74"] = {
-			1, -- [1]
-			true, -- [2]
-			485, -- [3]
-			17, -- [4]
-			1222, -- [5]
-			153, -- [6]
-			153, -- [7]
+			138, -- [3]
+			1, -- [4]
+			156, -- [5]
+			9, -- [6]
+			10, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBD9B"] = {
+			1, -- [1]
+			true, -- [2]
+			494, -- [3]
+			14, -- [4]
+			870, -- [5]
+			123, -- [6]
+			123, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBDA4"] = {
 			1, -- [1]
@@ -4687,24 +4642,24 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC7F"] = {
+		["BattlePet-0-0000101269C8"] = {
 			1, -- [1]
 			true, -- [2]
-			260, -- [3]
+			2188, -- [3]
 			1, -- [4]
 			148, -- [5]
 			11, -- [6]
-			10, -- [7]
+			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE17"] = {
+		["BattlePet-0-00000E0BBDFC"] = {
 			1, -- [1]
 			true, -- [2]
-			645, -- [3]
-			21, -- [4]
-			1108, -- [5]
-			224, -- [6]
-			224, -- [7]
+			1537, -- [3]
+			1, -- [4]
+			160, -- [5]
+			10, -- [6]
+			10, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD5F"] = {
@@ -4717,34 +4672,34 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDF9"] = {
+		["BattlePet-0-00000E0BBDC3"] = {
 			1, -- [1]
 			true, -- [2]
-			1622, -- [3]
+			649, -- [3]
+			20, -- [4]
+			1145, -- [5]
+			176, -- [6]
+			176, -- [7]
+			2, -- [8]
+		},
+		["BattlePet-0-00000E0BBC87"] = {
+			1, -- [1]
+			true, -- [2]
+			671, -- [3]
+			20, -- [4]
+			1140, -- [5]
+			231, -- [6]
+			231, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE46"] = {
+			1, -- [1]
+			true, -- [2]
+			145, -- [3]
 			1, -- [4]
-			168, -- [5]
-			10, -- [6]
-			10, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E6B269A"] = {
-			1, -- [1]
-			true, -- [2]
-			2122, -- [3]
-			23, -- [4]
-			1445, -- [5]
-			266, -- [6]
-			236, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD0F"] = {
-			2, -- [1]
-			true, -- [2]
-			538, -- [3]
-			25, -- [4]
-			1806, -- [5]
-			276, -- [6]
-			227, -- [7]
+			155, -- [5]
+			11, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBEF7"] = {
@@ -4757,25 +4712,25 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE5B"] = {
+		["BattlePet-0-00000E0BBEC2"] = {
 			1, -- [1]
 			true, -- [2]
-			1515, -- [3]
+			1727, -- [3]
 			1, -- [4]
-			148, -- [5]
+			144, -- [5]
 			11, -- [6]
 			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC97"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD0C"] = {
+			15, -- [1]
 			true, -- [2]
-			138, -- [3]
-			1, -- [4]
-			156, -- [5]
-			9, -- [6]
-			10, -- [7]
-			3, -- [8]
+			1238, -- [3]
+			25, -- [4]
+			1562, -- [5]
+			292, -- [6]
+			244, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC65"] = {
 			1, -- [1]
@@ -4787,25 +4742,25 @@ RematchSettings = {
 			338, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBECD"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBDB3"] = {
+			3, -- [1]
 			true, -- [2]
-			1719, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			11, -- [7]
+			1387, -- [3]
+			25, -- [4]
+			1725, -- [5]
+			276, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF16"] = {
+		["BattlePet-0-00000E0BBE45"] = {
 			1, -- [1]
 			true, -- [2]
-			1966, -- [3]
+			55, -- [3]
 			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			12, -- [7]
-			4, -- [8]
+			151, -- [5]
+			8, -- [6]
+			13, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBDC0"] = {
 			1, -- [1]
@@ -4817,25 +4772,25 @@ RematchSettings = {
 			232, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBECA"] = {
+		["BattlePet-0-00000E0BBE26"] = {
 			1, -- [1]
 			true, -- [2]
-			1716, -- [3]
-			1, -- [4]
-			152, -- [5]
-			13, -- [6]
-			10, -- [7]
+			555, -- [3]
+			22, -- [4]
+			1601, -- [5]
+			200, -- [6]
+			243, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE4F"] = {
+		["BattlePet-0-00000E0BBDF9"] = {
 			1, -- [1]
 			true, -- [2]
-			1330, -- [3]
+			1622, -- [3]
 			1, -- [4]
-			157, -- [5]
+			168, -- [5]
 			10, -- [6]
 			10, -- [7]
-			3, -- [8]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC7D"] = {
 			1, -- [1]
@@ -4847,15 +4802,15 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCA3"] = {
+		["BattlePet-0-00000E0BBD84"] = {
 			1, -- [1]
 			true, -- [2]
-			628, -- [3]
-			5, -- [4]
-			392, -- [5]
-			55, -- [6]
-			52, -- [7]
-			4, -- [8]
+			518, -- [3]
+			17, -- [4]
+			1222, -- [5]
+			173, -- [6]
+			133, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBEDE"] = {
 			1, -- [1]
@@ -4907,35 +4862,35 @@ RematchSettings = {
 			140, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBEB9"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD08"] = {
+			3, -- [1]
 			true, -- [2]
-			1530, -- [3]
-			1, -- [4]
-			152, -- [5]
-			13, -- [6]
-			10, -- [7]
+			547, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			244, -- [6]
+			309, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC68"] = {
+		["BattlePet-0-00000E0BBD6B"] = {
 			1, -- [1]
 			true, -- [2]
-			404, -- [3]
-			1, -- [4]
-			145, -- [5]
-			8, -- [6]
-			9, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBF0E"] = {
-			1, -- [1]
-			true, -- [2]
-			1885, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			12, -- [7]
+			633, -- [3]
+			17, -- [4]
+			1083, -- [5]
+			186, -- [6]
+			186, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE36"] = {
+			1, -- [1]
+			true, -- [2]
+			529, -- [3]
+			20, -- [4]
+			1168, -- [5]
+			214, -- [6]
+			192, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD50"] = {
 			1, -- [1]
@@ -4967,14 +4922,14 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDB3"] = {
-			3, -- [1]
+		["BattlePet-0-00000E6B269A"] = {
+			1, -- [1]
 			true, -- [2]
-			1387, -- [3]
-			25, -- [4]
-			1725, -- [5]
-			276, -- [6]
-			244, -- [7]
+			2122, -- [3]
+			23, -- [4]
+			1445, -- [5]
+			266, -- [6]
+			236, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE02"] = {
@@ -4987,15 +4942,15 @@ RematchSettings = {
 			179, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD96"] = {
+		["BattlePet-0-00000E0BBDCB"] = {
 			1, -- [1]
 			true, -- [2]
-			1329, -- [3]
+			1446, -- [3]
 			1, -- [4]
-			152, -- [5]
-			12, -- [6]
-			12, -- [7]
-			4, -- [8]
+			150, -- [5]
+			11, -- [6]
+			10, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBCD0"] = {
 			1, -- [1]
@@ -5007,64 +4962,64 @@ RematchSettings = {
 			149, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBE31"] = {
+		["BattlePet-0-00000E0BBCEC"] = {
 			1, -- [1]
 			true, -- [2]
-			535, -- [3]
-			22, -- [4]
-			1373, -- [5]
-			229, -- [6]
-			255, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE97"] = {
-			1, -- [1]
-			true, -- [2]
-			1464, -- [3]
-			23, -- [4]
-			1163, -- [5]
-			213, -- [6]
-			225, -- [7]
+			498, -- [3]
+			14, -- [4]
+			793, -- [5]
+			131, -- [6]
+			123, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBC91"] = {
+		["BattlePet-0-00000E0BBDEB"] = {
 			1, -- [1]
 			true, -- [2]
-			141, -- [3]
-			1, -- [4]
-			148, -- [5]
-			10, -- [6]
-			11, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBE49"] = {
-			1, -- [1]
-			true, -- [2]
-			78, -- [3]
-			1, -- [4]
-			150, -- [5]
-			11, -- [6]
-			10, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBDE5"] = {
-			1, -- [1]
-			true, -- [2]
-			1691, -- [3]
-			1, -- [4]
-			152, -- [5]
-			12, -- [6]
-			12, -- [7]
+			1466, -- [3]
+			11, -- [4]
+			701, -- [5]
+			120, -- [6]
+			127, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000010125055"] = {
+		["BattlePet-0-00000E0BBD20"] = {
 			1, -- [1]
 			true, -- [2]
-			2157, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			10, -- [7]
+			717, -- [3]
+			22, -- [4]
+			1172, -- [5]
+			243, -- [6]
+			286, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBCA3"] = {
+			1, -- [1]
+			true, -- [2]
+			628, -- [3]
+			5, -- [4]
+			392, -- [5]
+			55, -- [6]
+			52, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE71"] = {
+			1, -- [1]
+			true, -- [2]
+			722, -- [3]
+			21, -- [4]
+			1158, -- [5]
+			224, -- [6]
+			212, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBDA1"] = {
+			2, -- [1]
+			true, -- [2]
+			213, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBED2"] = {
@@ -5077,35 +5032,35 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCA9"] = {
-			11, -- [1]
-			true, -- [2]
-			277, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD84"] = {
+		["BattlePet-0-00000E0BBEC1"] = {
 			1, -- [1]
 			true, -- [2]
-			518, -- [3]
-			17, -- [4]
-			1222, -- [5]
-			173, -- [6]
-			133, -- [7]
-			3, -- [8]
+			1753, -- [3]
+			1, -- [4]
+			150, -- [5]
+			12, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDBC"] = {
+		["BattlePet-0-00000E0BBC9B"] = {
 			1, -- [1]
 			true, -- [2]
-			731, -- [3]
-			20, -- [4]
-			1127, -- [5]
-			221, -- [6]
-			244, -- [7]
+			128, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBC85"] = {
+			1, -- [1]
+			true, -- [2]
+			646, -- [3]
+			6, -- [4]
+			352, -- [5]
+			50, -- [6]
+			53, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD5B"] = {
 			1, -- [1]
@@ -5137,10 +5092,10 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD9D"] = {
+		["BattlePet-0-00000E0BBD96"] = {
 			1, -- [1]
 			true, -- [2]
-			1117, -- [3]
+			1329, -- [3]
 			1, -- [4]
 			152, -- [5]
 			12, -- [6]
@@ -5167,13 +5122,13 @@ RematchSettings = {
 			292, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF39"] = {
+		["BattlePet-0-00000E0BBD19"] = {
 			1, -- [1]
 			true, -- [2]
-			1715, -- [3]
+			1176, -- [3]
 			1, -- [4]
-			152, -- [5]
-			12, -- [6]
+			155, -- [5]
+			11, -- [6]
 			11, -- [7]
 			4, -- [8]
 		},
@@ -5187,14 +5142,14 @@ RematchSettings = {
 			196, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBDD1"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBCE7"] = {
+			25, -- [1]
 			true, -- [2]
-			1451, -- [3]
+			1152, -- [3]
 			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
+			1644, -- [5]
+			276, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD78"] = {
@@ -5237,14 +5192,14 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD98"] = {
+		["BattlePet-0-00000E0BBD1A"] = {
 			1, -- [1]
 			true, -- [2]
-			1332, -- [3]
+			298, -- [3]
 			1, -- [4]
-			152, -- [5]
-			13, -- [6]
-			10, -- [7]
+			155, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF1B"] = {
@@ -5277,14 +5232,14 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE08"] = {
+		["BattlePet-0-00000E0BBE31"] = {
 			1, -- [1]
 			true, -- [2]
-			416, -- [3]
-			16, -- [4]
-			984, -- [5]
-			177, -- [6]
-			177, -- [7]
+			535, -- [3]
+			22, -- [4]
+			1373, -- [5]
+			229, -- [6]
+			255, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD1C"] = {
@@ -5297,24 +5252,24 @@ RematchSettings = {
 			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEA0"] = {
+		["BattlePet-0-00000E0BBF12"] = {
 			1, -- [1]
 			true, -- [2]
-			1578, -- [3]
-			21, -- [4]
-			1045, -- [5]
-			277, -- [6]
-			189, -- [7]
+			340, -- [3]
+			9, -- [4]
+			559, -- [5]
+			92, -- [6]
+			92, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE71"] = {
+		["BattlePet-0-00000E0BBC91"] = {
 			1, -- [1]
 			true, -- [2]
-			722, -- [3]
-			21, -- [4]
-			1158, -- [5]
-			224, -- [6]
-			212, -- [7]
+			141, -- [3]
+			1, -- [4]
+			148, -- [5]
+			10, -- [6]
+			11, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBE14"] = {
@@ -5337,25 +5292,25 @@ RematchSettings = {
 			58, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE7B"] = {
+		["BattlePet-0-00000E0BBDE5"] = {
 			1, -- [1]
 			true, -- [2]
-			680, -- [3]
-			23, -- [4]
-			1296, -- [5]
-			239, -- [6]
-			299, -- [7]
+			1691, -- [3]
+			1, -- [4]
+			152, -- [5]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEC1"] = {
+		["BattlePet-0-00000E0BBE2F"] = {
 			1, -- [1]
 			true, -- [2]
-			1753, -- [3]
-			1, -- [4]
-			150, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
+			521, -- [3]
+			19, -- [4]
+			803, -- [5]
+			188, -- [6]
+			160, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBCBD"] = {
 			1, -- [1]
@@ -5367,14 +5322,14 @@ RematchSettings = {
 			13, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD77"] = {
+		["BattlePet-0-00000E0BBE20"] = {
 			1, -- [1]
 			true, -- [2]
-			511, -- [3]
-			16, -- [4]
-			795, -- [5]
-			148, -- [6]
-			165, -- [7]
+			475, -- [3]
+			15, -- [4]
+			843, -- [5]
+			124, -- [6]
+			149, -- [7]
 			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBD37"] = {
@@ -5417,73 +5372,73 @@ RematchSettings = {
 			211, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCCA"] = {
+		["BattlePet-0-00000E0BBE69"] = {
 			1, -- [1]
 			true, -- [2]
-			405, -- [3]
-			7, -- [4]
-			380, -- [5]
-			60, -- [6]
-			63, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBD19"] = {
-			1, -- [1]
-			true, -- [2]
-			1176, -- [3]
+			1570, -- [3]
 			1, -- [4]
-			155, -- [5]
-			11, -- [6]
+			149, -- [5]
+			13, -- [6]
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC85"] = {
+		["BattlePet-0-00000E0BBC9D"] = {
 			1, -- [1]
 			true, -- [2]
-			646, -- [3]
-			6, -- [4]
-			352, -- [5]
-			50, -- [6]
-			53, -- [7]
-			1, -- [8]
+			440, -- [3]
+			1, -- [4]
+			151, -- [5]
+			10, -- [6]
+			10, -- [7]
+			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBEE5"] = {
+		["BattlePet-0-000010125055"] = {
 			1, -- [1]
 			true, -- [2]
-			267, -- [3]
+			2157, -- [3]
 			1, -- [4]
 			155, -- [5]
-			11, -- [6]
-			11, -- [7]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDDD"] = {
+		["BattlePet-0-00000E0BBEFC"] = {
 			1, -- [1]
 			true, -- [2]
-			1565, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			12, -- [7]
+			1714, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			266, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCE7"] = {
-			25, -- [1]
-			true, -- [2]
-			1152, -- [3]
-			25, -- [4]
-			1644, -- [5]
-			276, -- [6]
-			260, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD1A"] = {
+		["BattlePet-0-00000E7AF086"] = {
 			1, -- [1]
 			true, -- [2]
-			298, -- [3]
+			2133, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			254, -- [6]
+			269, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDBC"] = {
+			1, -- [1]
+			true, -- [2]
+			731, -- [3]
+			20, -- [4]
+			1127, -- [5]
+			221, -- [6]
+			244, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF39"] = {
+			1, -- [1]
+			true, -- [2]
+			1715, -- [3]
 			1, -- [4]
-			155, -- [5]
-			11, -- [6]
+			152, -- [5]
+			12, -- [6]
 			11, -- [7]
 			4, -- [8]
 		},
@@ -5497,35 +5452,35 @@ RematchSettings = {
 			158, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC76"] = {
+		["BattlePet-0-00000E0BBF02"] = {
 			1, -- [1]
 			true, -- [2]
-			385, -- [3]
-			1, -- [4]
-			143, -- [5]
-			8, -- [6]
-			9, -- [7]
+			1735, -- [3]
+			23, -- [4]
+			1181, -- [5]
+			196, -- [6]
+			182, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBE2F"] = {
+		["BattlePet-0-00000E0BBDD1"] = {
 			1, -- [1]
 			true, -- [2]
-			521, -- [3]
-			19, -- [4]
-			803, -- [5]
-			188, -- [6]
-			160, -- [7]
-			1, -- [8]
+			1451, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD01"] = {
+		["BattlePet-0-00000E0BBEA0"] = {
 			1, -- [1]
 			true, -- [2]
-			570, -- [3]
-			22, -- [4]
-			1129, -- [5]
-			206, -- [6]
-			206, -- [7]
-			2, -- [8]
+			1578, -- [3]
+			21, -- [4]
+			1045, -- [5]
+			277, -- [6]
+			189, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD79"] = {
 			1, -- [1]
@@ -5537,24 +5492,24 @@ RematchSettings = {
 			224, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCD9"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBDC4"] = {
+			26, -- [1]
 			true, -- [2]
-			509, -- [3]
-			8, -- [4]
-			492, -- [5]
-			78, -- [6]
-			70, -- [7]
-			2, -- [8]
+			1167, -- [3]
+			25, -- [4]
+			1465, -- [5]
+			305, -- [6]
+			257, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE20"] = {
+		["BattlePet-0-00000E0BBD77"] = {
 			1, -- [1]
 			true, -- [2]
-			475, -- [3]
-			15, -- [4]
-			843, -- [5]
-			124, -- [6]
-			149, -- [7]
+			511, -- [3]
+			16, -- [4]
+			795, -- [5]
+			148, -- [6]
+			165, -- [7]
 			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBE75"] = {
@@ -5567,14 +5522,14 @@ RematchSettings = {
 			212, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD22"] = {
-			5, -- [1]
+		["BattlePet-0-00000E0BBCBA"] = {
+			1, -- [1]
 			true, -- [2]
-			1166, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			305, -- [6]
-			273, -- [7]
+			792, -- [3]
+			1, -- [4]
+			155, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE2D"] = {
@@ -5597,15 +5552,15 @@ RematchSettings = {
 			198, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBE0F"] = {
+		["BattlePet-0-00000E0BBEC4"] = {
 			1, -- [1]
 			true, -- [2]
-			428, -- [3]
-			14, -- [4]
-			618, -- [5]
-			125, -- [6]
-			132, -- [7]
-			1, -- [8]
+			1921, -- [3]
+			1, -- [4]
+			154, -- [5]
+			13, -- [6]
+			10, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD6D"] = {
 			1, -- [1]
@@ -5617,25 +5572,25 @@ RematchSettings = {
 			55, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDB6"] = {
+		["BattlePet-0-00000E0BBCEB"] = {
 			1, -- [1]
 			true, -- [2]
-			175, -- [3]
-			1, -- [4]
-			149, -- [5]
-			11, -- [6]
-			13, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE39"] = {
-			1, -- [1]
-			true, -- [2]
-			380, -- [3]
-			22, -- [4]
-			1275, -- [5]
-			222, -- [6]
-			222, -- [7]
+			648, -- [3]
+			15, -- [4]
+			991, -- [5]
+			142, -- [6]
+			142, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBCA9"] = {
+			11, -- [1]
+			true, -- [2]
+			277, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE3E"] = {
 			1, -- [1]
@@ -5647,15 +5602,15 @@ RematchSettings = {
 			224, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC6B"] = {
+		["BattlePet-0-00000E0BBC81"] = {
 			1, -- [1]
 			true, -- [2]
-			675, -- [3]
-			1, -- [4]
-			142, -- [5]
-			8, -- [6]
-			9, -- [7]
-			1, -- [8]
+			266, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			305, -- [6]
+			257, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCBE"] = {
 			1, -- [1]
@@ -5667,55 +5622,55 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC98"] = {
+		["BattlePet-0-00000E0BBD4B"] = {
 			1, -- [1]
 			true, -- [2]
-			1208, -- [3]
-			1, -- [4]
-			151, -- [5]
-			11, -- [6]
-			12, -- [7]
+			403, -- [3]
+			17, -- [4]
+			929, -- [5]
+			177, -- [6]
+			232, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE43"] = {
+		["BattlePet-0-00000E0BBD28"] = {
 			1, -- [1]
 			true, -- [2]
-			572, -- [3]
-			21, -- [4]
-			1082, -- [5]
-			231, -- [6]
-			173, -- [7]
+			744, -- [3]
+			23, -- [4]
+			1328, -- [5]
+			204, -- [6]
+			259, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBC76"] = {
+			1, -- [1]
+			true, -- [2]
+			385, -- [3]
+			1, -- [4]
+			143, -- [5]
+			8, -- [6]
+			9, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBCD9"] = {
+			1, -- [1]
+			true, -- [2]
+			509, -- [3]
+			8, -- [4]
+			492, -- [5]
+			78, -- [6]
+			70, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBCA5"] = {
+		["BattlePet-0-00000E0BBD83"] = {
 			1, -- [1]
 			true, -- [2]
-			1042, -- [3]
-			25, -- [4]
-			1197, -- [5]
-			370, -- [6]
-			249, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBDED"] = {
-			1, -- [1]
-			true, -- [2]
-			1395, -- [3]
-			1, -- [4]
-			165, -- [5]
-			10, -- [6]
-			10, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE44"] = {
-			1, -- [1]
-			true, -- [2]
-			1581, -- [3]
-			25, -- [4]
-			1319, -- [5]
-			357, -- [6]
-			244, -- [7]
-			4, -- [8]
+			741, -- [3]
+			22, -- [4]
+			1177, -- [5]
+			203, -- [6]
+			203, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E762BF6"] = {
 			1, -- [1]
@@ -5737,54 +5692,54 @@ RematchSettings = {
 			147, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC79"] = {
+		["BattlePet-0-00000E0BBE0F"] = {
 			1, -- [1]
 			true, -- [2]
-			297, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			374, -- [6]
-			211, -- [7]
+			428, -- [3]
+			14, -- [4]
+			618, -- [5]
+			125, -- [6]
+			132, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBDE4"] = {
+			1, -- [1]
+			true, -- [2]
+			1688, -- [3]
+			2, -- [4]
+			207, -- [5]
+			24, -- [6]
+			22, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCBB"] = {
+		["BattlePet-0-00000E0BBCB7"] = {
 			1, -- [1]
 			true, -- [2]
-			86, -- [3]
-			1, -- [4]
-			161, -- [5]
-			11, -- [6]
-			10, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD40"] = {
-			1, -- [1]
-			true, -- [2]
-			1212, -- [3]
-			1, -- [4]
-			145, -- [5]
-			14, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBCEB"] = {
-			1, -- [1]
-			true, -- [2]
-			648, -- [3]
-			15, -- [4]
-			991, -- [5]
-			142, -- [6]
-			142, -- [7]
+			386, -- [3]
+			4, -- [4]
+			292, -- [5]
+			36, -- [6]
+			50, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE8D"] = {
+		["BattlePet-0-00000E0BBDB6"] = {
 			1, -- [1]
 			true, -- [2]
-			1582, -- [3]
-			22, -- [4]
-			925, -- [5]
-			242, -- [6]
-			165, -- [7]
+			175, -- [3]
+			1, -- [4]
+			149, -- [5]
+			11, -- [6]
+			13, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBCE2"] = {
+			1, -- [1]
+			true, -- [2]
+			422, -- [3]
+			15, -- [4]
+			663, -- [5]
+			141, -- [6]
+			134, -- [7]
 			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBE05"] = {
@@ -5807,25 +5762,25 @@ RematchSettings = {
 			246, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD4B"] = {
+		["BattlePet-0-00000E0BBC6B"] = {
 			1, -- [1]
 			true, -- [2]
-			403, -- [3]
-			17, -- [4]
-			929, -- [5]
-			177, -- [6]
-			232, -- [7]
-			4, -- [8]
+			675, -- [3]
+			1, -- [4]
+			142, -- [5]
+			8, -- [6]
+			9, -- [7]
+			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBD28"] = {
+		["BattlePet-0-00000E0BBEE5"] = {
 			1, -- [1]
 			true, -- [2]
-			744, -- [3]
-			23, -- [4]
-			1328, -- [5]
-			204, -- [6]
-			259, -- [7]
-			3, -- [8]
+			267, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDEA"] = {
 			2, -- [1]
@@ -5847,15 +5802,15 @@ RematchSettings = {
 			212, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD1F"] = {
+		["BattlePet-0-00000E0BBE43"] = {
 			1, -- [1]
 			true, -- [2]
-			723, -- [3]
-			23, -- [4]
-			1411, -- [5]
-			221, -- [6]
-			221, -- [7]
-			3, -- [8]
+			572, -- [3]
+			21, -- [4]
+			1082, -- [5]
+			231, -- [6]
+			173, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBD62"] = {
 			1, -- [1]
@@ -5867,15 +5822,15 @@ RematchSettings = {
 			290, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBEF5"] = {
+		["BattlePet-0-00000E0BBCD6"] = {
 			1, -- [1]
 			true, -- [2]
-			1627, -- [3]
-			1, -- [4]
-			158, -- [5]
-			10, -- [6]
-			12, -- [7]
-			4, -- [8]
+			406, -- [3]
+			15, -- [4]
+			805, -- [5]
+			113, -- [6]
+			134, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBEA1"] = {
 			1, -- [1]
@@ -5897,25 +5852,25 @@ RematchSettings = {
 			268, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDAA"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD2E"] = {
+			12, -- [1]
 			true, -- [2]
-			279, -- [3]
-			1, -- [4]
-			152, -- [5]
-			12, -- [6]
-			12, -- [7]
+			1165, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			341, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCB7"] = {
+		["BattlePet-0-00000E0BBE8D"] = {
 			1, -- [1]
 			true, -- [2]
-			386, -- [3]
-			4, -- [4]
-			292, -- [5]
-			36, -- [6]
-			50, -- [7]
-			3, -- [8]
+			1582, -- [3]
+			22, -- [4]
+			925, -- [5]
+			242, -- [6]
+			165, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD80"] = {
 			1, -- [1]
@@ -5927,24 +5882,24 @@ RematchSettings = {
 			171, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBDC7"] = {
+		["BattlePet-0-00000E0BBCBB"] = {
 			1, -- [1]
 			true, -- [2]
-			1226, -- [3]
+			86, -- [3]
 			1, -- [4]
-			149, -- [5]
-			12, -- [6]
-			12, -- [7]
+			161, -- [5]
+			11, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD2A"] = {
-			2, -- [1]
+		["BattlePet-0-00000E0BBC84"] = {
+			1, -- [1]
 			true, -- [2]
-			724, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
+			51, -- [3]
+			5, -- [4]
+			392, -- [5]
+			55, -- [6]
+			52, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD29"] = {
@@ -5957,34 +5912,34 @@ RematchSettings = {
 			195, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD24"] = {
+		["BattlePet-0-00000E0BBEF5"] = {
 			1, -- [1]
 			true, -- [2]
-			743, -- [3]
-			25, -- [4]
-			1790, -- [5]
-			289, -- [6]
-			208, -- [7]
+			1627, -- [3]
+			1, -- [4]
+			158, -- [5]
+			10, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCCC"] = {
+		["BattlePet-0-00000E0BBC90"] = {
 			1, -- [1]
 			true, -- [2]
-			399, -- [3]
-			6, -- [4]
-			325, -- [5]
-			48, -- [6]
-			63, -- [7]
-			1, -- [8]
+			236, -- [3]
+			1, -- [4]
+			157, -- [5]
+			10, -- [6]
+			10, -- [7]
+			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCF3"] = {
-			11, -- [1]
+		["BattlePet-0-00000E0BBDC7"] = {
+			1, -- [1]
 			true, -- [2]
-			1211, -- [3]
-			25, -- [4]
-			1237, -- [5]
-			341, -- [6]
-			276, -- [7]
+			1226, -- [3]
+			1, -- [4]
+			149, -- [5]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE25"] = {
@@ -6007,25 +5962,25 @@ RematchSettings = {
 			264, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDA7"] = {
+		["BattlePet-0-00000E0BBCD7"] = {
 			1, -- [1]
 			true, -- [2]
-			209, -- [3]
-			1, -- [4]
-			151, -- [5]
-			10, -- [6]
-			10, -- [7]
+			418, -- [3]
+			7, -- [4]
+			432, -- [5]
+			71, -- [6]
+			79, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBF13"] = {
+		["BattlePet-0-00000E0BBE30"] = {
 			1, -- [1]
 			true, -- [2]
-			173, -- [3]
-			1, -- [4]
-			158, -- [5]
-			12, -- [6]
-			10, -- [7]
-			4, -- [8]
+			837, -- [3]
+			20, -- [4]
+			1228, -- [5]
+			202, -- [6]
+			190, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBCE4"] = {
 			1, -- [1]
@@ -6037,25 +5992,25 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEBF"] = {
+		["BattlePet-0-00000E0BBE0A"] = {
 			1, -- [1]
 			true, -- [2]
-			1922, -- [3]
-			1, -- [4]
-			150, -- [5]
-			12, -- [6]
-			12, -- [7]
-			4, -- [8]
+			402, -- [3]
+			15, -- [4]
+			805, -- [5]
+			126, -- [6]
+			119, -- [7]
+			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBC6C"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD2A"] = {
+			2, -- [1]
 			true, -- [2]
-			488, -- [3]
-			5, -- [4]
-			331, -- [5]
-			46, -- [6]
-			49, -- [7]
-			2, -- [8]
+			724, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE7D"] = {
 			1, -- [1]
@@ -6067,44 +6022,44 @@ RematchSettings = {
 			179, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBCD6"] = {
+		["BattlePet-0-00000E0BBC89"] = {
 			1, -- [1]
 			true, -- [2]
-			406, -- [3]
-			15, -- [4]
-			805, -- [5]
-			113, -- [6]
-			134, -- [7]
-			1, -- [8]
+			392, -- [3]
+			5, -- [4]
+			355, -- [5]
+			48, -- [6]
+			54, -- [7]
+			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD99"] = {
+		["BattlePet-0-00000E0BBD89"] = {
 			1, -- [1]
 			true, -- [2]
-			59, -- [3]
+			1162, -- [3]
 			1, -- [4]
-			161, -- [5]
-			10, -- [6]
-			11, -- [7]
+			145, -- [5]
+			13, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBED0"] = {
+		["BattlePet-0-00000E0BBE94"] = {
 			1, -- [1]
 			true, -- [2]
-			1974, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
+			1463, -- [3]
+			23, -- [4]
+			1356, -- [5]
+			251, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCC1"] = {
+		["BattlePet-0-00000E0BBCFE"] = {
 			1, -- [1]
 			true, -- [2]
-			149, -- [3]
-			1, -- [4]
-			155, -- [5]
-			9, -- [6]
-			14, -- [7]
+			423, -- [3]
+			14, -- [4]
+			955, -- [5]
+			155, -- [6]
+			144, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD1B"] = {
@@ -6127,15 +6082,15 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF1E"] = {
+		["BattlePet-0-00000E0BBE24"] = {
 			1, -- [1]
 			true, -- [2]
-			1623, -- [3]
-			1, -- [4]
-			158, -- [5]
-			11, -- [6]
-			11, -- [7]
-			4, -- [8]
+			454, -- [3]
+			2, -- [4]
+			184, -- [5]
+			16, -- [6]
+			19, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBE58"] = {
 			1, -- [1]
@@ -6157,45 +6112,45 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF29"] = {
+		["BattlePet-0-00000E0BBECC"] = {
 			1, -- [1]
 			true, -- [2]
-			1711, -- [3]
+			1907, -- [3]
 			1, -- [4]
 			152, -- [5]
-			11, -- [6]
-			9, -- [7]
+			12, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF0B"] = {
+			1, -- [1]
+			true, -- [2]
+			1763, -- [3]
+			23, -- [4]
+			1342, -- [5]
+			235, -- [6]
+			221, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE8E"] = {
+		["BattlePet-0-00000E0BBEBF"] = {
 			1, -- [1]
 			true, -- [2]
-			1455, -- [3]
-			23, -- [4]
-			1163, -- [5]
-			213, -- [6]
-			225, -- [7]
-			2, -- [8]
-		},
-		["BattlePet-0-00000E0BBE0A"] = {
-			1, -- [1]
-			true, -- [2]
-			402, -- [3]
-			15, -- [4]
-			805, -- [5]
-			126, -- [6]
-			119, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBE62"] = {
-			1, -- [1]
-			true, -- [2]
-			142, -- [3]
+			1922, -- [3]
 			1, -- [4]
-			152, -- [5]
-			11, -- [6]
+			150, -- [5]
+			12, -- [6]
 			12, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBC7A"] = {
+			1, -- [1]
+			true, -- [2]
+			452, -- [3]
+			2, -- [4]
+			207, -- [5]
+			20, -- [6]
+			20, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD2C"] = {
 			1, -- [1]
@@ -6217,14 +6172,14 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE94"] = {
+		["BattlePet-0-00000E0BBD99"] = {
 			1, -- [1]
 			true, -- [2]
-			1463, -- [3]
-			23, -- [4]
-			1356, -- [5]
-			251, -- [6]
-			266, -- [7]
+			59, -- [3]
+			1, -- [4]
+			161, -- [5]
+			10, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDCD"] = {
@@ -6257,45 +6212,45 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD30"] = {
+		["BattlePet-0-00000E0BBE66"] = {
 			1, -- [1]
 			true, -- [2]
-			644, -- [3]
-			19, -- [4]
-			1058, -- [5]
-			192, -- [6]
-			203, -- [7]
+			43, -- [3]
+			1, -- [4]
+			145, -- [5]
+			11, -- [6]
+			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE5F"] = {
+		["BattlePet-0-00000E0BBE88"] = {
 			1, -- [1]
 			true, -- [2]
-			50, -- [3]
+			1596, -- [3]
 			1, -- [4]
-			156, -- [5]
-			10, -- [6]
-			9, -- [7]
+			145, -- [5]
+			12, -- [6]
+			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE24"] = {
+		["BattlePet-0-00000E0BBCC1"] = {
 			1, -- [1]
 			true, -- [2]
-			454, -- [3]
-			2, -- [4]
-			184, -- [5]
-			16, -- [6]
-			19, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBD87"] = {
-			1, -- [1]
-			true, -- [2]
-			748, -- [3]
+			149, -- [3]
 			1, -- [4]
-			148, -- [5]
-			10, -- [6]
+			155, -- [5]
+			9, -- [6]
+			14, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF1E"] = {
+			1, -- [1]
+			true, -- [2]
+			1623, -- [3]
+			1, -- [4]
+			158, -- [5]
+			11, -- [6]
 			11, -- [7]
-			3, -- [8]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD21"] = {
 			2, -- [1]
@@ -6307,14 +6262,14 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCC3"] = {
-			14, -- [1]
+		["BattlePet-0-00000E0BBCAB"] = {
+			1, -- [1]
 			true, -- [2]
-			844, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			276, -- [6]
-			309, -- [7]
+			652, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE2E"] = {
@@ -6327,35 +6282,35 @@ RematchSettings = {
 			170, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBE83"] = {
+		["BattlePet-0-00000E0BBED1"] = {
 			1, -- [1]
 			true, -- [2]
-			1587, -- [3]
-			21, -- [4]
-			1260, -- [5]
-			232, -- [6]
-			232, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBCCD"] = {
-			1, -- [1]
-			true, -- [2]
-			259, -- [3]
+			1723, -- [3]
 			1, -- [4]
-			161, -- [5]
-			10, -- [6]
-			11, -- [7]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE9F"] = {
+		["BattlePet-0-00000E0BBCC3"] = {
+			14, -- [1]
+			true, -- [2]
+			844, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			276, -- [6]
+			309, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBCB0"] = {
 			1, -- [1]
 			true, -- [2]
-			1599, -- [3]
-			23, -- [4]
-			1492, -- [5]
-			190, -- [6]
-			190, -- [7]
-			2, -- [8]
+			1151, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD6E"] = {
 			1, -- [1]
@@ -6387,14 +6342,14 @@ RematchSettings = {
 			184, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBE66"] = {
+		["BattlePet-0-00000E0BBF29"] = {
 			1, -- [1]
 			true, -- [2]
-			43, -- [3]
+			1711, -- [3]
 			1, -- [4]
-			145, -- [5]
+			152, -- [5]
 			11, -- [6]
-			10, -- [7]
+			9, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBCA1"] = {
@@ -6407,45 +6362,45 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE88"] = {
+		["BattlePet-0-00000E0BBE62"] = {
 			1, -- [1]
 			true, -- [2]
-			1596, -- [3]
+			142, -- [3]
 			1, -- [4]
-			145, -- [5]
-			12, -- [6]
-			10, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBCFA"] = {
-			1, -- [1]
-			true, -- [2]
-			381, -- [3]
-			1, -- [4]
-			158, -- [5]
-			10, -- [6]
+			152, -- [5]
+			11, -- [6]
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE2A"] = {
+		["BattlePet-0-00000E0BBE4C"] = {
 			1, -- [1]
 			true, -- [2]
-			553, -- [3]
-			21, -- [4]
-			993, -- [5]
-			168, -- [6]
-			189, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBF3D"] = {
-			1, -- [1]
-			true, -- [2]
-			1755, -- [3]
+			44, -- [3]
 			1, -- [4]
-			156, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
+			142, -- [5]
+			10, -- [6]
+			13, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBC71"] = {
+			1, -- [1]
+			true, -- [2]
+			482, -- [3]
+			14, -- [4]
+			730, -- [5]
+			134, -- [6]
+			176, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBE1A"] = {
+			1, -- [1]
+			true, -- [2]
+			461, -- [3]
+			5, -- [4]
+			385, -- [5]
+			51, -- [6]
+			45, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBC75"] = {
 			1, -- [1]
@@ -6487,14 +6442,14 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDFD"] = {
+		["BattlePet-0-00000E0BBDA0"] = {
 			1, -- [1]
 			true, -- [2]
-			1467, -- [3]
+			1346, -- [3]
 			1, -- [4]
-			152, -- [5]
-			13, -- [6]
-			10, -- [7]
+			158, -- [5]
+			10, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCAA"] = {
@@ -6517,15 +6472,15 @@ RematchSettings = {
 			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCB0"] = {
+		["BattlePet-0-00000E0BBC6E"] = {
 			1, -- [1]
 			true, -- [2]
-			1151, -- [3]
-			1, -- [4]
-			158, -- [5]
-			12, -- [6]
-			10, -- [7]
-			4, -- [8]
+			483, -- [3]
+			15, -- [4]
+			805, -- [5]
+			119, -- [6]
+			126, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E7AEFC3"] = {
 			1, -- [1]
@@ -6587,14 +6542,14 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBED1"] = {
+		["BattlePet-0-00000E0BBE83"] = {
 			1, -- [1]
 			true, -- [2]
-			1723, -- [3]
-			1, -- [4]
-			158, -- [5]
-			12, -- [6]
-			10, -- [7]
+			1587, -- [3]
+			21, -- [4]
+			1260, -- [5]
+			232, -- [6]
+			232, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDD2"] = {
@@ -6617,44 +6572,54 @@ RematchSettings = {
 			33, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCF4"] = {
+		["BattlePet-0-00000E0BBCCD"] = {
 			1, -- [1]
 			true, -- [2]
-			1143, -- [3]
+			259, -- [3]
+			1, -- [4]
+			161, -- [5]
+			10, -- [6]
+			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE80"] = {
+			1, -- [1]
+			true, -- [2]
+			1664, -- [3]
 			1, -- [4]
 			152, -- [5]
 			12, -- [6]
-			12, -- [7]
+			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD5E"] = {
+		["BattlePet-0-00000E0BBE9F"] = {
 			1, -- [1]
 			true, -- [2]
-			493, -- [3]
+			1599, -- [3]
+			23, -- [4]
+			1492, -- [5]
+			190, -- [6]
+			190, -- [7]
+			2, -- [8]
+		},
+		["BattlePet-0-00000E0BBD2F"] = {
+			5, -- [1]
+			true, -- [2]
+			1180, -- [3]
 			25, -- [4]
-			1969, -- [5]
-			276, -- [6]
-			195, -- [7]
+			1237, -- [5]
+			305, -- [6]
+			305, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE4C"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD13"] = {
+			18, -- [1]
 			true, -- [2]
-			44, -- [3]
-			1, -- [4]
-			142, -- [5]
-			10, -- [6]
-			13, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBDA0"] = {
-			1, -- [1]
-			true, -- [2]
-			1346, -- [3]
-			1, -- [4]
-			158, -- [5]
-			10, -- [6]
-			12, -- [7]
+			868, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			260, -- [6]
+			289, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE4A"] = {
@@ -6667,18 +6632,15 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD3C"] = {
+		["BattlePet-0-00000E0BBCB5"] = {
 			1, -- [1]
 			true, -- [2]
-			306, -- [3]
+			120, -- [3]
 			1, -- [4]
-			144, -- [5]
+			155, -- [5]
 			11, -- [6]
 			11, -- [7]
-			3, -- [8]
-		},
-		["random:0"] = {
-			11, -- [1]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE32"] = {
 			1, -- [1]
@@ -6710,15 +6672,15 @@ RematchSettings = {
 			9, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCB5"] = {
+		["BattlePet-0-00000E0BBE5F"] = {
 			1, -- [1]
 			true, -- [2]
-			120, -- [3]
+			50, -- [3]
 			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			11, -- [7]
-			4, -- [8]
+			156, -- [5]
+			10, -- [6]
+			9, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBEAC"] = {
 			1, -- [1]
@@ -6740,25 +6702,25 @@ RematchSettings = {
 			187, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBC99"] = {
+		["BattlePet-0-00000E0BBE0E"] = {
 			1, -- [1]
 			true, -- [2]
-			162, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			10, -- [7]
-			4, -- [8]
+			438, -- [3]
+			16, -- [4]
+			772, -- [5]
+			128, -- [6]
+			150, -- [7]
+			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBD7B"] = {
+		["BattlePet-0-00000E0BBE33"] = {
 			1, -- [1]
 			true, -- [2]
-			543, -- [3]
-			21, -- [4]
-			1108, -- [5]
-			227, -- [6]
-			214, -- [7]
-			3, -- [8]
+			558, -- [3]
+			20, -- [4]
+			900, -- [5]
+			178, -- [6]
+			178, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBE70"] = {
 			1, -- [1]
@@ -6770,25 +6732,25 @@ RematchSettings = {
 			243, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC6E"] = {
+		["BattlePet-0-00000E0BBDFD"] = {
 			1, -- [1]
 			true, -- [2]
-			483, -- [3]
-			15, -- [4]
-			805, -- [5]
-			119, -- [6]
-			126, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBDBB"] = {
-			4, -- [1]
-			true, -- [2]
-			1387, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			305, -- [6]
-			244, -- [7]
+			1467, -- [3]
+			1, -- [4]
+			152, -- [5]
+			13, -- [6]
+			10, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDB5"] = {
+			1, -- [1]
+			true, -- [2]
+			1013, -- [3]
+			22, -- [4]
+			1145, -- [5]
+			176, -- [6]
+			176, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD97"] = {
 			2, -- [1]
@@ -6820,35 +6782,35 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF43"] = {
+		["BattlePet-0-00000E0BBC8C"] = {
 			1, -- [1]
 			true, -- [2]
-			2071, -- [3]
+			158, -- [3]
 			1, -- [4]
-			158, -- [5]
-			12, -- [6]
+			151, -- [5]
+			10, -- [6]
 			10, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBD18"] = {
+			1, -- [1]
+			true, -- [2]
+			309, -- [3]
+			1, -- [4]
+			142, -- [5]
+			13, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE33"] = {
+		["BattlePet-0-00000E7AF511"] = {
 			1, -- [1]
 			true, -- [2]
-			558, -- [3]
-			20, -- [4]
-			900, -- [5]
-			178, -- [6]
-			178, -- [7]
+			2129, -- [3]
+			23, -- [4]
+			1020, -- [5]
+			205, -- [6]
+			205, -- [7]
 			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBDC5"] = {
-			1, -- [1]
-			true, -- [2]
-			730, -- [3]
-			21, -- [4]
-			1158, -- [5]
-			186, -- [6]
-			249, -- [7]
-			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBC8E"] = {
 			1, -- [1]
@@ -6880,35 +6842,35 @@ RematchSettings = {
 			180, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBF42"] = {
+		["BattlePet-0-00000E0BBD33"] = {
 			1, -- [1]
 			true, -- [2]
-			1656, -- [3]
-			2, -- [4]
-			230, -- [5]
-			21, -- [6]
-			21, -- [7]
+			536, -- [3]
+			20, -- [4]
+			1322, -- [5]
+			208, -- [6]
+			218, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD72"] = {
+		["BattlePet-0-00000E0BBE0B"] = {
 			1, -- [1]
 			true, -- [2]
-			1158, -- [3]
-			17, -- [4]
-			1008, -- [5]
-			171, -- [6]
-			171, -- [7]
-			3, -- [8]
+			429, -- [3]
+			15, -- [4]
+			793, -- [5]
+			155, -- [6]
+			132, -- [7]
+			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBE0E"] = {
+		["BattlePet-0-00000E0BBD85"] = {
 			1, -- [1]
 			true, -- [2]
-			438, -- [3]
-			16, -- [4]
-			772, -- [5]
-			128, -- [6]
-			150, -- [7]
-			1, -- [8]
+			542, -- [3]
+			25, -- [4]
+			1562, -- [5]
+			260, -- [6]
+			276, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBEC6"] = {
 			1, -- [1]
@@ -6930,35 +6892,35 @@ RematchSettings = {
 			177, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCF1"] = {
+		["BattlePet-0-00000E0BBDA9"] = {
 			1, -- [1]
 			true, -- [2]
-			491, -- [3]
-			14, -- [4]
-			639, -- [5]
-			139, -- [6]
-			154, -- [7]
-			2, -- [8]
+			709, -- [3]
+			22, -- [4]
+			1222, -- [5]
+			211, -- [6]
+			238, -- [7]
+			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCF0"] = {
+		["BattlePet-0-00000E0BBCDC"] = {
 			1, -- [1]
 			true, -- [2]
-			414, -- [3]
-			16, -- [4]
-			932, -- [5]
-			185, -- [6]
-			185, -- [7]
+			420, -- [3]
+			6, -- [4]
+			451, -- [5]
+			62, -- [6]
+			66, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E7AF511"] = {
+		["BattlePet-0-00000E0BBD72"] = {
 			1, -- [1]
 			true, -- [2]
-			2129, -- [3]
-			23, -- [4]
-			1020, -- [5]
-			205, -- [6]
-			205, -- [7]
-			1, -- [8]
+			1158, -- [3]
+			17, -- [4]
+			1008, -- [5]
+			171, -- [6]
+			171, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBE07"] = {
 			1, -- [1]
@@ -6970,15 +6932,25 @@ RematchSettings = {
 			248, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBED6"] = {
+		["BattlePet-0-00000E0BBCF1"] = {
 			1, -- [1]
 			true, -- [2]
-			1705, -- [3]
-			1, -- [4]
-			161, -- [5]
-			12, -- [6]
-			10, -- [7]
-			4, -- [8]
+			491, -- [3]
+			14, -- [4]
+			639, -- [5]
+			139, -- [6]
+			154, -- [7]
+			2, -- [8]
+		},
+		["BattlePet-0-00000E0BBC7C"] = {
+			1, -- [1]
+			true, -- [2]
+			395, -- [3]
+			4, -- [4]
+			310, -- [5]
+			32, -- [6]
+			30, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBC9F"] = {
 			1, -- [1]
@@ -6990,25 +6962,15 @@ RematchSettings = {
 			21, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD7D"] = {
+		["BattlePet-0-00000E0BBE1B"] = {
 			1, -- [1]
 			true, -- [2]
-			545, -- [3]
-			21, -- [4]
-			1108, -- [5]
-			224, -- [6]
-			224, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBE8C"] = {
-			1, -- [1]
-			true, -- [2]
-			1615, -- [3]
-			23, -- [4]
-			1259, -- [5]
-			246, -- [6]
-			235, -- [7]
-			3, -- [8]
+			463, -- [3]
+			5, -- [4]
+			422, -- [5]
+			58, -- [6]
+			45, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF01"] = {
 			1, -- [1]
@@ -7020,35 +6982,35 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDA9"] = {
+		["BattlePet-0-00000E0BBF19"] = {
 			1, -- [1]
 			true, -- [2]
-			709, -- [3]
-			22, -- [4]
-			1222, -- [5]
-			211, -- [6]
-			238, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBE1F"] = {
-			1, -- [1]
-			true, -- [2]
-			400, -- [3]
-			7, -- [4]
-			345, -- [5]
-			74, -- [6]
-			60, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBEA5"] = {
-			1, -- [1]
-			true, -- [2]
-			1495, -- [3]
+			1546, -- [3]
 			1, -- [4]
-			153, -- [5]
-			11, -- [6]
-			12, -- [7]
+			155, -- [5]
+			12, -- [6]
+			11, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBC9E"] = {
+			1, -- [1]
+			true, -- [2]
+			465, -- [3]
+			5, -- [4]
+			327, -- [5]
+			68, -- [6]
+			55, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF25"] = {
+			1, -- [1]
+			true, -- [2]
+			1749, -- [3]
+			23, -- [4]
+			1009, -- [5]
+			205, -- [6]
+			205, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBDD0"] = {
 			2, -- [1]
@@ -7100,15 +7062,15 @@ RematchSettings = {
 			244, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF19"] = {
+		["BattlePet-0-00000E0BBD7D"] = {
 			1, -- [1]
 			true, -- [2]
-			1546, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
+			545, -- [3]
+			21, -- [4]
+			1108, -- [5]
+			224, -- [6]
+			224, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD70"] = {
 			1, -- [1]
@@ -7200,14 +7162,14 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC88"] = {
+		["BattlePet-0-00000E0BBE59"] = {
 			1, -- [1]
 			true, -- [2]
-			419, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
+			1230, -- [3]
+			1, -- [4]
+			159, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC77"] = {
@@ -7220,25 +7182,18 @@ RematchSettings = {
 			54, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBF3E"] = {
+		["random:7"] = {
 			1, -- [1]
-			true, -- [2]
-			1963, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			11, -- [7]
-			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD1D"] = {
+		["BattlePet-0-00000E0BBEF6"] = {
 			1, -- [1]
 			true, -- [2]
-			711, -- [3]
-			21, -- [4]
-			1260, -- [5]
-			232, -- [6]
-			232, -- [7]
-			4, -- [8]
+			1713, -- [3]
+			23, -- [4]
+			1135, -- [5]
+			196, -- [6]
+			184, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBC92"] = {
 			1, -- [1]
@@ -7250,17 +7205,24 @@ RematchSettings = {
 			11, -- [7]
 			3, -- [8]
 		},
-		["random:7"] = {
-			1, -- [1]
-		},
-		["BattlePet-0-00000E0BBD94"] = {
+		["BattlePet-0-00000E0BBEBE"] = {
 			1, -- [1]
 			true, -- [2]
-			528, -- [3]
-			18, -- [4]
-			932, -- [5]
-			166, -- [6]
-			176, -- [7]
+			1934, -- [3]
+			1, -- [4]
+			161, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD64"] = {
+			1, -- [1]
+			true, -- [2]
+			539, -- [3]
+			21, -- [4]
+			1024, -- [5]
+			173, -- [6]
+			243, -- [7]
 			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBD7E"] = {
@@ -7273,16 +7235,6 @@ RematchSettings = {
 			9, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E6B38DE"] = {
-			1, -- [1]
-			true, -- [2]
-			1430, -- [3]
-			1, -- [4]
-			158, -- [5]
-			10, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBEA6"] = {
 			1, -- [1]
 			true, -- [2]
@@ -7291,6 +7243,16 @@ RematchSettings = {
 			1506, -- [5]
 			297, -- [6]
 			260, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE23"] = {
+			1, -- [1]
+			true, -- [2]
+			855, -- [3]
+			1, -- [4]
+			152, -- [5]
+			12, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF2E"] = {
@@ -7313,25 +7275,25 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E6C2894"] = {
+		["BattlePet-0-00000E0BBE11"] = {
 			1, -- [1]
 			true, -- [2]
-			1709, -- [3]
-			23, -- [4]
-			1112, -- [5]
-			266, -- [6]
-			190, -- [7]
+			823, -- [3]
+			21, -- [4]
+			1024, -- [5]
+			185, -- [6]
+			231, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBD5C"] = {
+		["BattlePet-0-00000E0BBCA6"] = {
 			1, -- [1]
 			true, -- [2]
-			439, -- [3]
-			19, -- [4]
-			1397, -- [5]
-			198, -- [6]
-			185, -- [7]
-			4, -- [8]
+			46, -- [3]
+			1, -- [4]
+			150, -- [5]
+			9, -- [6]
+			11, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD4C"] = {
 			1, -- [1]
@@ -7373,44 +7335,44 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD66"] = {
+		["BattlePet-0-00000E0BBD5C"] = {
 			1, -- [1]
 			true, -- [2]
-			626, -- [3]
-			21, -- [4]
-			1045, -- [5]
-			252, -- [6]
-			214, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBEEC"] = {
-			1, -- [1]
-			true, -- [2]
-			1624, -- [3]
-			9, -- [4]
-			568, -- [5]
-			117, -- [6]
-			94, -- [7]
+			439, -- [3]
+			19, -- [4]
+			1397, -- [5]
+			198, -- [6]
+			185, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD88"] = {
+		["BattlePet-0-00000E0BBE6C"] = {
 			1, -- [1]
 			true, -- [2]
-			740, -- [3]
-			22, -- [4]
-			1373, -- [5]
-			226, -- [6]
-			255, -- [7]
+			1434, -- [3]
+			1, -- [4]
+			152, -- [5]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBECB"] = {
+		["BattlePet-0-00000E0BBCE0"] = {
 			1, -- [1]
 			true, -- [2]
-			1928, -- [3]
+			443, -- [3]
+			14, -- [4]
+			873, -- [5]
+			155, -- [6]
+			155, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDDA"] = {
+			1, -- [1]
+			true, -- [2]
+			1403, -- [3]
 			1, -- [4]
 			155, -- [5]
-			12, -- [6]
-			10, -- [7]
+			11, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC7E"] = {
@@ -7423,14 +7385,14 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD0E"] = {
-			9, -- [1]
+		["BattlePet-0-00000E0BBD09"] = {
+			8, -- [1]
 			true, -- [2]
-			557, -- [3]
+			338, -- [3]
 			25, -- [4]
-			1319, -- [5]
-			276, -- [6]
-			325, -- [7]
+			1627, -- [5]
+			273, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDA3"] = {
@@ -7463,55 +7425,55 @@ RematchSettings = {
 			9, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDDA"] = {
+		["BattlePet-0-00000E0BBD0E"] = {
+			9, -- [1]
+			true, -- [2]
+			557, -- [3]
+			25, -- [4]
+			1319, -- [5]
+			276, -- [6]
+			325, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBECB"] = {
 			1, -- [1]
 			true, -- [2]
-			1403, -- [3]
+			1928, -- [3]
 			1, -- [4]
 			155, -- [5]
-			11, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD09"] = {
-			8, -- [1]
-			true, -- [2]
-			338, -- [3]
-			25, -- [4]
-			1627, -- [5]
-			273, -- [6]
-			260, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBCA6"] = {
-			1, -- [1]
-			true, -- [2]
-			46, -- [3]
-			1, -- [4]
-			150, -- [5]
-			9, -- [6]
-			11, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBCE0"] = {
-			1, -- [1]
-			true, -- [2]
-			443, -- [3]
-			14, -- [4]
-			873, -- [5]
-			155, -- [6]
-			155, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE6C"] = {
-			1, -- [1]
-			true, -- [2]
-			1434, -- [3]
-			1, -- [4]
-			152, -- [5]
 			12, -- [6]
-			12, -- [7]
+			10, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD88"] = {
+			1, -- [1]
+			true, -- [2]
+			740, -- [3]
+			22, -- [4]
+			1373, -- [5]
+			226, -- [6]
+			255, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBEEC"] = {
+			1, -- [1]
+			true, -- [2]
+			1624, -- [3]
+			9, -- [4]
+			568, -- [5]
+			117, -- [6]
+			94, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD66"] = {
+			1, -- [1]
+			true, -- [2]
+			626, -- [3]
+			21, -- [4]
+			1045, -- [5]
+			252, -- [6]
+			214, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBC69"] = {
 			1, -- [1]
@@ -7533,14 +7495,14 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE11"] = {
+		["BattlePet-0-00000E6C2894"] = {
 			1, -- [1]
 			true, -- [2]
-			823, -- [3]
-			21, -- [4]
-			1024, -- [5]
-			185, -- [6]
-			231, -- [7]
+			1709, -- [3]
+			23, -- [4]
+			1112, -- [5]
+			266, -- [6]
+			190, -- [7]
 			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBE42"] = {
@@ -7553,45 +7515,45 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE23"] = {
+		["BattlePet-0-00000E6B38DE"] = {
 			1, -- [1]
 			true, -- [2]
-			855, -- [3]
+			1430, -- [3]
 			1, -- [4]
-			152, -- [5]
-			12, -- [6]
-			11, -- [7]
+			158, -- [5]
+			10, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD64"] = {
+		["BattlePet-0-00000E0BBD94"] = {
 			1, -- [1]
 			true, -- [2]
-			539, -- [3]
-			21, -- [4]
-			1024, -- [5]
-			173, -- [6]
-			243, -- [7]
+			528, -- [3]
+			18, -- [4]
+			932, -- [5]
+			166, -- [6]
+			176, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBEBE"] = {
+		["BattlePet-0-00000E0BBD1D"] = {
 			1, -- [1]
 			true, -- [2]
-			1934, -- [3]
-			1, -- [4]
-			161, -- [5]
-			12, -- [6]
-			10, -- [7]
+			711, -- [3]
+			21, -- [4]
+			1260, -- [5]
+			232, -- [6]
+			232, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEF6"] = {
+		["BattlePet-0-00000E0BBF3E"] = {
 			1, -- [1]
 			true, -- [2]
-			1713, -- [3]
-			23, -- [4]
-			1135, -- [5]
-			196, -- [6]
-			184, -- [7]
-			1, -- [8]
+			1963, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD4A"] = {
 			1, -- [1]
@@ -7603,34 +7565,34 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC9E"] = {
+		["BattlePet-0-00000E0BBC88"] = {
 			1, -- [1]
 			true, -- [2]
-			465, -- [3]
-			5, -- [4]
-			327, -- [5]
-			68, -- [6]
-			55, -- [7]
+			419, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF25"] = {
+		["BattlePet-0-00000E0BBE1F"] = {
 			1, -- [1]
 			true, -- [2]
-			1749, -- [3]
-			23, -- [4]
-			1009, -- [5]
-			205, -- [6]
-			205, -- [7]
+			400, -- [3]
+			7, -- [4]
+			345, -- [5]
+			74, -- [6]
+			60, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBE59"] = {
+		["BattlePet-0-00000E0BBEA5"] = {
 			1, -- [1]
 			true, -- [2]
-			1230, -- [3]
+			1495, -- [3]
 			1, -- [4]
-			159, -- [5]
+			153, -- [5]
 			11, -- [6]
-			11, -- [7]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE41"] = {
@@ -7653,34 +7615,34 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC7C"] = {
+		["BattlePet-0-00000E0BBCF0"] = {
 			1, -- [1]
 			true, -- [2]
-			395, -- [3]
-			4, -- [4]
-			310, -- [5]
-			32, -- [6]
-			30, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBCDC"] = {
-			1, -- [1]
-			true, -- [2]
-			420, -- [3]
-			6, -- [4]
-			451, -- [5]
-			62, -- [6]
-			66, -- [7]
+			414, -- [3]
+			16, -- [4]
+			932, -- [5]
+			185, -- [6]
+			185, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE1B"] = {
+		["BattlePet-0-00000E0BBE8C"] = {
 			1, -- [1]
 			true, -- [2]
-			463, -- [3]
-			5, -- [4]
-			422, -- [5]
-			58, -- [6]
-			45, -- [7]
+			1615, -- [3]
+			23, -- [4]
+			1259, -- [5]
+			246, -- [6]
+			235, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBED6"] = {
+			1, -- [1]
+			true, -- [2]
+			1705, -- [3]
+			1, -- [4]
+			161, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD8C"] = {
@@ -7693,55 +7655,55 @@ RematchSettings = {
 			122, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBE0B"] = {
+		["BattlePet-0-00000E0BBF42"] = {
 			1, -- [1]
 			true, -- [2]
-			429, -- [3]
-			15, -- [4]
-			793, -- [5]
-			155, -- [6]
-			132, -- [7]
-			2, -- [8]
-		},
-		["BattlePet-0-00000E0BBD33"] = {
-			1, -- [1]
-			true, -- [2]
-			536, -- [3]
-			20, -- [4]
-			1322, -- [5]
-			208, -- [6]
-			218, -- [7]
+			1656, -- [3]
+			2, -- [4]
+			230, -- [5]
+			21, -- [6]
+			21, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE80"] = {
+		["BattlePet-0-00000E0BBDC5"] = {
 			1, -- [1]
 			true, -- [2]
-			1664, -- [3]
+			730, -- [3]
+			21, -- [4]
+			1158, -- [5]
+			186, -- [6]
+			249, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBC99"] = {
+			1, -- [1]
+			true, -- [2]
+			162, -- [3]
 			1, -- [4]
-			152, -- [5]
+			155, -- [5]
 			12, -- [6]
-			11, -- [7]
+			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD18"] = {
+		["BattlePet-0-00000E0BBD3C"] = {
 			1, -- [1]
 			true, -- [2]
-			309, -- [3]
+			306, -- [3]
 			1, -- [4]
-			142, -- [5]
-			13, -- [6]
-			12, -- [7]
-			4, -- [8]
+			144, -- [5]
+			11, -- [6]
+			11, -- [7]
+			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDB5"] = {
+		["BattlePet-0-00000E0BBD7B"] = {
 			1, -- [1]
 			true, -- [2]
-			1013, -- [3]
-			22, -- [4]
-			1145, -- [5]
-			176, -- [6]
-			176, -- [7]
-			1, -- [8]
+			543, -- [3]
+			21, -- [4]
+			1108, -- [5]
+			227, -- [6]
+			214, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBCBF"] = {
 			1, -- [1]
@@ -7773,34 +7735,34 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD85"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBDBB"] = {
+			4, -- [1]
 			true, -- [2]
-			542, -- [3]
-			25, -- [4]
-			1562, -- [5]
-			260, -- [6]
-			276, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBC8C"] = {
-			1, -- [1]
-			true, -- [2]
-			158, -- [3]
-			1, -- [4]
-			151, -- [5]
-			10, -- [6]
-			10, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBD13"] = {
-			18, -- [1]
-			true, -- [2]
-			868, -- [3]
+			1387, -- [3]
 			25, -- [4]
 			1546, -- [5]
-			260, -- [6]
-			289, -- [7]
+			305, -- [6]
+			244, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF43"] = {
+			1, -- [1]
+			true, -- [2]
+			2071, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD5E"] = {
+			1, -- [1]
+			true, -- [2]
+			493, -- [3]
+			25, -- [4]
+			1969, -- [5]
+			276, -- [6]
+			195, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD9E"] = {
@@ -7813,45 +7775,38 @@ RematchSettings = {
 			79, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD2F"] = {
-			5, -- [1]
+		["random:0"] = {
+			11, -- [1]
+		},
+		["BattlePet-0-00000E0BBF3D"] = {
+			1, -- [1]
 			true, -- [2]
-			1180, -- [3]
-			25, -- [4]
-			1237, -- [5]
-			305, -- [6]
-			305, -- [7]
+			1755, -- [3]
+			1, -- [4]
+			156, -- [5]
+			12, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBECE"] = {
+		["BattlePet-0-00000E0BBE2A"] = {
 			1, -- [1]
 			true, -- [2]
-			1884, -- [3]
-			24, -- [4]
-			1488, -- [5]
-			278, -- [6]
-			250, -- [7]
+			553, -- [3]
+			21, -- [4]
+			993, -- [5]
+			168, -- [6]
+			189, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBCFA"] = {
+			1, -- [1]
+			true, -- [2]
+			381, -- [3]
+			1, -- [4]
+			158, -- [5]
+			10, -- [6]
+			12, -- [7]
 			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE1A"] = {
-			1, -- [1]
-			true, -- [2]
-			461, -- [3]
-			5, -- [4]
-			385, -- [5]
-			51, -- [6]
-			45, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBC71"] = {
-			1, -- [1]
-			true, -- [2]
-			482, -- [3]
-			14, -- [4]
-			730, -- [5]
-			134, -- [6]
-			176, -- [7]
-			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBF0C"] = {
 			1, -- [1]
@@ -7873,14 +7828,14 @@ RematchSettings = {
 			119, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBECC"] = {
+		["BattlePet-0-00000E0BBCF4"] = {
 			1, -- [1]
 			true, -- [2]
-			1907, -- [3]
+			1143, -- [3]
 			1, -- [4]
 			152, -- [5]
 			12, -- [6]
-			11, -- [7]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE13"] = {
@@ -7903,15 +7858,15 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCAB"] = {
+		["BattlePet-0-00000E0BBD30"] = {
 			1, -- [1]
 			true, -- [2]
-			652, -- [3]
-			1, -- [4]
-			155, -- [5]
-			11, -- [6]
-			12, -- [7]
-			4, -- [8]
+			644, -- [3]
+			19, -- [4]
+			1058, -- [5]
+			192, -- [6]
+			203, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBCEF"] = {
 			1, -- [1]
@@ -7923,15 +7878,15 @@ RematchSettings = {
 			192, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC7A"] = {
+		["BattlePet-0-00000E0BBE8E"] = {
 			1, -- [1]
 			true, -- [2]
-			452, -- [3]
-			2, -- [4]
-			207, -- [5]
-			20, -- [6]
-			20, -- [7]
-			3, -- [8]
+			1455, -- [3]
+			23, -- [4]
+			1163, -- [5]
+			213, -- [6]
+			225, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBDA5"] = {
 			1, -- [1]
@@ -7943,14 +7898,14 @@ RematchSettings = {
 			153, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF0B"] = {
+		["BattlePet-0-00000E0BBD87"] = {
 			1, -- [1]
 			true, -- [2]
-			1763, -- [3]
-			23, -- [4]
-			1342, -- [5]
-			235, -- [6]
-			221, -- [7]
+			748, -- [3]
+			1, -- [4]
+			148, -- [5]
+			10, -- [6]
+			11, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD45"] = {
@@ -7963,14 +7918,14 @@ RematchSettings = {
 			287, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCFE"] = {
+		["BattlePet-0-00000E0BBED0"] = {
 			1, -- [1]
 			true, -- [2]
-			423, -- [3]
-			14, -- [4]
-			955, -- [5]
-			155, -- [6]
-			144, -- [7]
+			1974, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDA8"] = {
@@ -7993,54 +7948,74 @@ RematchSettings = {
 			242, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBD89"] = {
+		["BattlePet-0-00000E0BBF13"] = {
 			1, -- [1]
 			true, -- [2]
-			1162, -- [3]
+			173, -- [3]
 			1, -- [4]
-			145, -- [5]
-			13, -- [6]
-			12, -- [7]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE30"] = {
+		["BattlePet-0-00000E0BBDA7"] = {
 			1, -- [1]
 			true, -- [2]
-			837, -- [3]
-			20, -- [4]
-			1228, -- [5]
-			202, -- [6]
-			190, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBCD7"] = {
-			1, -- [1]
-			true, -- [2]
-			418, -- [3]
-			7, -- [4]
-			432, -- [5]
-			71, -- [6]
-			79, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBC90"] = {
-			1, -- [1]
-			true, -- [2]
-			236, -- [3]
+			209, -- [3]
 			1, -- [4]
-			157, -- [5]
+			151, -- [5]
 			10, -- [6]
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD2E"] = {
-			12, -- [1]
+		["BattlePet-0-00000E0BBCCC"] = {
+			1, -- [1]
 			true, -- [2]
-			1165, -- [3]
+			399, -- [3]
+			6, -- [4]
+			325, -- [5]
+			48, -- [6]
+			63, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBC6C"] = {
+			1, -- [1]
+			true, -- [2]
+			488, -- [3]
+			5, -- [4]
+			331, -- [5]
+			46, -- [6]
+			49, -- [7]
+			2, -- [8]
+		},
+		["BattlePet-0-00000E0BBCF3"] = {
+			11, -- [1]
+			true, -- [2]
+			1211, -- [3]
 			25, -- [4]
-			1400, -- [5]
+			1237, -- [5]
 			341, -- [6]
-			244, -- [7]
+			276, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDAA"] = {
+			1, -- [1]
+			true, -- [2]
+			279, -- [3]
+			1, -- [4]
+			152, -- [5]
+			12, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD24"] = {
+			1, -- [1]
+			true, -- [2]
+			743, -- [3]
+			25, -- [4]
+			1790, -- [5]
+			289, -- [6]
+			208, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBECF"] = {
@@ -8053,26 +8028,6 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBC84"] = {
-			1, -- [1]
-			true, -- [2]
-			51, -- [3]
-			5, -- [4]
-			392, -- [5]
-			55, -- [6]
-			52, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBC89"] = {
-			1, -- [1]
-			true, -- [2]
-			392, -- [3]
-			5, -- [4]
-			355, -- [5]
-			48, -- [6]
-			54, -- [7]
-			3, -- [8]
-		},
 		["BattlePet-0-00000E0BBC64"] = {
 			1, -- [1]
 			true, -- [2]
@@ -8083,15 +8038,15 @@ RematchSettings = {
 			43, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCE2"] = {
+		["BattlePet-0-00000E0BBD40"] = {
 			1, -- [1]
 			true, -- [2]
-			422, -- [3]
-			15, -- [4]
-			663, -- [5]
-			141, -- [6]
-			134, -- [7]
-			1, -- [8]
+			1212, -- [3]
+			1, -- [4]
+			145, -- [5]
+			14, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF21"] = {
 			2, -- [1]
@@ -8103,25 +8058,25 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDE4"] = {
+		["BattlePet-0-00000E0BBE44"] = {
 			1, -- [1]
 			true, -- [2]
-			1688, -- [3]
-			2, -- [4]
-			207, -- [5]
-			24, -- [6]
-			22, -- [7]
+			1581, -- [3]
+			25, -- [4]
+			1319, -- [5]
+			357, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD83"] = {
+		["BattlePet-0-00000E0BBD1F"] = {
 			1, -- [1]
 			true, -- [2]
-			741, -- [3]
-			22, -- [4]
-			1177, -- [5]
-			203, -- [6]
-			203, -- [7]
-			2, -- [8]
+			723, -- [3]
+			23, -- [4]
+			1411, -- [5]
+			221, -- [6]
+			221, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBE50"] = {
 			1, -- [1]
@@ -8153,24 +8108,24 @@ RematchSettings = {
 			196, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBC81"] = {
+		["BattlePet-0-00000E0BBC79"] = {
 			1, -- [1]
 			true, -- [2]
-			266, -- [3]
+			297, -- [3]
 			25, -- [4]
-			1481, -- [5]
-			305, -- [6]
-			257, -- [7]
+			1400, -- [5]
+			374, -- [6]
+			211, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEC4"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD22"] = {
+			5, -- [1]
 			true, -- [2]
-			1921, -- [3]
-			1, -- [4]
-			154, -- [5]
-			13, -- [6]
-			10, -- [7]
+			1166, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			305, -- [6]
+			273, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD55"] = {
@@ -8183,64 +8138,64 @@ RematchSettings = {
 			151, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDC4"] = {
-			26, -- [1]
+		["BattlePet-0-00000E0BBCA5"] = {
+			1, -- [1]
 			true, -- [2]
-			1167, -- [3]
+			1042, -- [3]
 			25, -- [4]
-			1465, -- [5]
-			305, -- [6]
-			257, -- [7]
+			1197, -- [5]
+			370, -- [6]
+			249, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF02"] = {
+		["BattlePet-0-00000E0BBDDD"] = {
 			1, -- [1]
 			true, -- [2]
-			1735, -- [3]
-			23, -- [4]
-			1181, -- [5]
-			196, -- [6]
-			182, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E7AF086"] = {
-			1, -- [1]
-			true, -- [2]
-			2133, -- [3]
-			23, -- [4]
-			1296, -- [5]
-			254, -- [6]
-			269, -- [7]
+			1565, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEFC"] = {
+		["BattlePet-0-00000E0BBC98"] = {
 			1, -- [1]
 			true, -- [2]
-			1714, -- [3]
-			23, -- [4]
-			1296, -- [5]
-			266, -- [6]
-			266, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBC9D"] = {
-			1, -- [1]
-			true, -- [2]
-			440, -- [3]
+			1208, -- [3]
 			1, -- [4]
 			151, -- [5]
-			10, -- [6]
-			10, -- [7]
-			3, -- [8]
+			11, -- [6]
+			12, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE69"] = {
+		["BattlePet-0-00000E0BBE39"] = {
 			1, -- [1]
 			true, -- [2]
-			1570, -- [3]
+			380, -- [3]
+			22, -- [4]
+			1275, -- [5]
+			222, -- [6]
+			222, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBCCA"] = {
+			1, -- [1]
+			true, -- [2]
+			405, -- [3]
+			7, -- [4]
+			380, -- [5]
+			60, -- [6]
+			63, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBDED"] = {
+			1, -- [1]
+			true, -- [2]
+			1395, -- [3]
 			1, -- [4]
-			149, -- [5]
-			13, -- [6]
-			11, -- [7]
+			165, -- [5]
+			10, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD61"] = {
@@ -8253,15 +8208,15 @@ RematchSettings = {
 			234, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCBA"] = {
+		["BattlePet-0-00000E0BBD01"] = {
 			1, -- [1]
 			true, -- [2]
-			792, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			10, -- [7]
-			4, -- [8]
+			570, -- [3]
+			22, -- [4]
+			1129, -- [5]
+			206, -- [6]
+			206, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBCFC"] = {
 			1, -- [1]
@@ -8273,15 +8228,15 @@ RematchSettings = {
 			146, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF12"] = {
+		["BattlePet-0-00000E0BBD98"] = {
 			1, -- [1]
 			true, -- [2]
-			340, -- [3]
-			9, -- [4]
-			559, -- [5]
-			92, -- [6]
-			92, -- [7]
-			3, -- [8]
+			1332, -- [3]
+			1, -- [4]
+			152, -- [5]
+			13, -- [6]
+			10, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCFF"] = {
 			1, -- [1]
@@ -8333,14 +8288,14 @@ RematchSettings = {
 			13, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDA1"] = {
-			2, -- [1]
+		["BattlePet-0-00000E0BBE7B"] = {
+			1, -- [1]
 			true, -- [2]
-			213, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
+			680, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			239, -- [6]
+			299, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDFB"] = {
@@ -8353,105 +8308,105 @@ RematchSettings = {
 			162, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBD20"] = {
+		["BattlePet-0-00000E0BBECA"] = {
 			1, -- [1]
 			true, -- [2]
-			717, -- [3]
-			22, -- [4]
-			1172, -- [5]
-			243, -- [6]
-			286, -- [7]
+			1716, -- [3]
+			1, -- [4]
+			152, -- [5]
+			13, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDEB"] = {
+		["BattlePet-0-00000E0BBE08"] = {
 			1, -- [1]
 			true, -- [2]
-			1466, -- [3]
-			11, -- [4]
-			701, -- [5]
-			120, -- [6]
-			127, -- [7]
+			416, -- [3]
+			16, -- [4]
+			984, -- [5]
+			177, -- [6]
+			177, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCEC"] = {
+		["BattlePet-0-00000E0BBD9D"] = {
 			1, -- [1]
 			true, -- [2]
-			498, -- [3]
-			14, -- [4]
-			793, -- [5]
-			131, -- [6]
-			123, -- [7]
-			2, -- [8]
+			1117, -- [3]
+			1, -- [4]
+			152, -- [5]
+			12, -- [6]
+			12, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDCB"] = {
+		["BattlePet-0-00000E0BBF0E"] = {
 			1, -- [1]
 			true, -- [2]
-			1446, -- [3]
+			1885, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBC68"] = {
+			1, -- [1]
+			true, -- [2]
+			404, -- [3]
+			1, -- [4]
+			145, -- [5]
+			8, -- [6]
+			9, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBEB9"] = {
+			1, -- [1]
+			true, -- [2]
+			1530, -- [3]
+			1, -- [4]
+			152, -- [5]
+			13, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE49"] = {
+			1, -- [1]
+			true, -- [2]
+			78, -- [3]
 			1, -- [4]
 			150, -- [5]
 			11, -- [6]
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE36"] = {
+		["BattlePet-0-00000E0BBE97"] = {
 			1, -- [1]
 			true, -- [2]
-			529, -- [3]
-			20, -- [4]
-			1168, -- [5]
-			214, -- [6]
-			192, -- [7]
-			3, -- [8]
+			1464, -- [3]
+			23, -- [4]
+			1163, -- [5]
+			213, -- [6]
+			225, -- [7]
+			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBD6B"] = {
+		["BattlePet-0-00000E0BBF16"] = {
 			1, -- [1]
 			true, -- [2]
-			633, -- [3]
-			17, -- [4]
-			1083, -- [5]
-			186, -- [6]
-			186, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD08"] = {
-			3, -- [1]
-			true, -- [2]
-			547, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			244, -- [6]
-			309, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBC9B"] = {
-			1, -- [1]
-			true, -- [2]
-			128, -- [3]
+			1966, -- [3]
 			1, -- [4]
 			155, -- [5]
 			11, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBECD"] = {
+			1, -- [1]
+			true, -- [2]
+			1719, -- [3]
+			1, -- [4]
+			155, -- [5]
+			12, -- [6]
 			11, -- [7]
 			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE26"] = {
-			1, -- [1]
-			true, -- [2]
-			555, -- [3]
-			22, -- [4]
-			1601, -- [5]
-			200, -- [6]
-			243, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE45"] = {
-			1, -- [1]
-			true, -- [2]
-			55, -- [3]
-			1, -- [4]
-			151, -- [5]
-			8, -- [6]
-			13, -- [7]
-			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBE15"] = {
 			4, -- [1]
@@ -8463,33 +8418,33 @@ RematchSettings = {
 			227, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBC87"] = {
+		["BattlePet-0-00000E0BBE4F"] = {
 			1, -- [1]
 			true, -- [2]
-			671, -- [3]
-			20, -- [4]
-			1140, -- [5]
-			231, -- [6]
-			231, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBDC3"] = {
-			1, -- [1]
-			true, -- [2]
-			649, -- [3]
-			20, -- [4]
-			1145, -- [5]
-			176, -- [6]
-			176, -- [7]
-			2, -- [8]
-		},
-		["BattlePet-0-00000E0BBDFC"] = {
-			1, -- [1]
-			true, -- [2]
-			1537, -- [3]
+			1330, -- [3]
 			1, -- [4]
-			160, -- [5]
+			157, -- [5]
 			10, -- [6]
+			10, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBE17"] = {
+			1, -- [1]
+			true, -- [2]
+			645, -- [3]
+			21, -- [4]
+			1108, -- [5]
+			224, -- [6]
+			224, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBC7F"] = {
+			1, -- [1]
+			true, -- [2]
+			260, -- [3]
+			1, -- [4]
+			148, -- [5]
+			11, -- [6]
 			10, -- [7]
 			3, -- [8]
 		},
@@ -8503,15 +8458,15 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD9B"] = {
+		["BattlePet-0-00000E0BBE0C"] = {
 			1, -- [1]
 			true, -- [2]
-			494, -- [3]
-			14, -- [4]
-			870, -- [5]
-			123, -- [6]
-			123, -- [7]
-			2, -- [8]
+			425, -- [3]
+			18, -- [4]
+			775, -- [5]
+			160, -- [6]
+			169, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBCAC"] = {
 			1, -- [1]
@@ -8523,25 +8478,25 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCEA"] = {
+		["BattlePet-0-00000E0BBEB0"] = {
 			1, -- [1]
 			true, -- [2]
-			631, -- [3]
-			17, -- [4]
-			1028, -- [5]
-			177, -- [6]
-			208, -- [7]
+			1545, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD3D"] = {
+		["BattlePet-0-00000E0BBD6C"] = {
 			1, -- [1]
 			true, -- [2]
-			1213, -- [3]
-			1, -- [4]
-			145, -- [5]
-			11, -- [6]
-			14, -- [7]
-			4, -- [8]
+			468, -- [3]
+			2, -- [4]
+			192, -- [5]
+			19, -- [6]
+			20, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBC66"] = {
 			1, -- [1]
@@ -8553,35 +8508,35 @@ RematchSettings = {
 			171, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-0000101269C8"] = {
+		["BattlePet-0-00000E0BBC74"] = {
 			1, -- [1]
 			true, -- [2]
-			2188, -- [3]
-			1, -- [4]
-			148, -- [5]
-			11, -- [6]
-			11, -- [7]
+			485, -- [3]
+			17, -- [4]
+			1222, -- [5]
+			153, -- [6]
+			153, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD81"] = {
+		["BattlePet-0-00000E0BBF40"] = {
 			1, -- [1]
 			true, -- [2]
-			739, -- [3]
-			23, -- [4]
-			905, -- [5]
-			205, -- [6]
-			228, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBE51"] = {
-			4, -- [1]
-			true, -- [2]
-			1325, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			260, -- [6]
-			289, -- [7]
+			1967, -- [3]
+			1, -- [4]
+			154, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD57"] = {
+			1, -- [1]
+			true, -- [2]
+			469, -- [3]
+			20, -- [4]
+			940, -- [5]
+			252, -- [6]
+			204, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBCED"] = {
 			1, -- [1]
@@ -8593,25 +8548,25 @@ RematchSettings = {
 			159, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBD71"] = {
+		["BattlePet-0-00000E0BBCD8"] = {
 			1, -- [1]
 			true, -- [2]
-			477, -- [3]
-			1, -- [4]
-			147, -- [5]
-			9, -- [6]
-			12, -- [7]
-			3, -- [8]
+			396, -- [3]
+			6, -- [4]
+			389, -- [5]
+			69, -- [6]
+			73, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E8245F7"] = {
+		["BattlePet-0-00000E956926"] = {
 			1, -- [1]
 			true, -- [2]
-			2123, -- [3]
-			23, -- [4]
-			1239, -- [5]
-			205, -- [6]
-			161, -- [7]
-			1, -- [8]
+			382, -- [3]
+			1, -- [4]
+			154, -- [5]
+			12, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDFE"] = {
 			1, -- [1]
@@ -8623,14 +8578,14 @@ RematchSettings = {
 			9, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E6C5505"] = {
+		["BattlePet-0-00000E0BBF15"] = {
 			1, -- [1]
 			true, -- [2]
-			1953, -- [3]
+			1968, -- [3]
 			1, -- [4]
 			152, -- [5]
-			10, -- [6]
-			13, -- [7]
+			11, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD69"] = {
@@ -8663,45 +8618,45 @@ RematchSettings = {
 			208, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD63"] = {
+		["BattlePet-0-00000E0BBE40"] = {
 			1, -- [1]
 			true, -- [2]
-			540, -- [3]
-			20, -- [4]
-			1108, -- [5]
-			202, -- [6]
-			214, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBF3F"] = {
-			1, -- [1]
-			true, -- [2]
-			1233, -- [3]
+			330, -- [3]
 			1, -- [4]
-			159, -- [5]
+			155, -- [5]
 			12, -- [6]
-			9, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD39"] = {
-			1, -- [1]
-			true, -- [2]
-			752, -- [3]
-			23, -- [4]
-			1520, -- [5]
-			239, -- [6]
-			239, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBF11"] = {
-			1, -- [1]
-			true, -- [2]
-			233, -- [3]
-			1, -- [4]
-			142, -- [5]
-			11, -- [6]
 			11, -- [7]
-			3, -- [8]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDE3"] = {
+			1, -- [1]
+			true, -- [2]
+			1690, -- [3]
+			1, -- [4]
+			147, -- [5]
+			13, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBEBB"] = {
+			1, -- [1]
+			true, -- [2]
+			513, -- [3]
+			16, -- [4]
+			780, -- [5]
+			136, -- [6]
+			136, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-00000E0BBD00"] = {
+			4, -- [1]
+			true, -- [2]
+			401, -- [3]
+			25, -- [4]
+			1806, -- [5]
+			260, -- [6]
+			244, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBEF0"] = {
 			1, -- [1]
@@ -8713,54 +8668,54 @@ RematchSettings = {
 			250, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBF47"] = {
+		["BattlePet-0-00000E0BBCC8"] = {
 			1, -- [1]
 			true, -- [2]
-			347, -- [3]
+			90, -- [3]
 			1, -- [4]
-			155, -- [5]
+			151, -- [5]
 			12, -- [6]
-			10, -- [7]
+			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD42"] = {
-			2, -- [1]
-			true, -- [2]
-			1328, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBDBA"] = {
+		["BattlePet-0-00000E0BBC83"] = {
 			1, -- [1]
 			true, -- [2]
-			122, -- [3]
+			387, -- [3]
+			7, -- [4]
+			389, -- [5]
+			62, -- [6]
+			81, -- [7]
+			2, -- [8]
+		},
+		["BattlePet-0-00000E0BBD76"] = {
+			1, -- [1]
+			true, -- [2]
+			544, -- [3]
+			22, -- [4]
+			1444, -- [5]
+			255, -- [6]
+			212, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF17"] = {
+			1, -- [1]
+			true, -- [2]
+			186, -- [3]
 			1, -- [4]
-			152, -- [5]
-			10, -- [6]
-			13, -- [7]
+			149, -- [5]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD5A"] = {
-			1, -- [1]
-			true, -- [2]
-			499, -- [3]
-			15, -- [4]
-			768, -- [5]
-			126, -- [6]
-			128, -- [7]
-			1, -- [8]
 		},
 	},
-	["NotesLeft"] = 1549.99975585938,
-	["ConflictOverwrite"] = true,
-	["SlimListButtons"] = true,
+	["QueueNoPreferences"] = false,
+	["LockWindow"] = true,
+	["UseMiniQueue"] = true,
 	["FixedPetCard"] = true,
 	["YPos"] = 216.760818481445,
 	["LowerStrata"] = true,
-	["QueueSortOrder"] = 1,
+	["loadedTeam"] = 140315,
 	["ScriptFilters"] = {
 		{
 			"Unnamed Pets", -- [1]
@@ -8787,30 +8742,22 @@ RematchSettings = {
 			"-- Lvl 25 pets that need an upgrade to rare.\nlocal rarity\nif petID then\n rarity = select(5,C_PetJournal.GetPetStats(petID))\nend\nreturn level == 25 and (rarity or 0) ~= 4", -- [2]
 		}, -- [6]
 	},
-	["loadedTeam"] = 142096,
-	["SelectedTab"] = 5,
+	["QueueSortOrder"] = 1,
+	["PetCardYPos"] = 720.75,
 	["CollectionChartType"] = 3,
-	["CollapsedOptHeaders"] = {
-		true, -- [1]
-		true, -- [2]
-		true, -- [3]
-		nil, -- [4]
-		true, -- [5]
-		true, -- [6]
-		true, -- [7]
-		true, -- [8]
-		true, -- [9]
-		true, -- [10]
+	["NotesNoESC"] = true,
+	["SpecialSlots"] = {
+		[2] = "random:7",
+		[3] = "random:0",
 	},
-	["QueueDoubleClick"] = true,
-	["DontIncludeNotes"] = true,
-	["MiniMinimized"] = true,
-	["DontWarnMissing"] = false,
 	["NotesWidth"] = 370.000122070313,
+	["MiniMinimized"] = true,
 	["DialogXPos"] = 1123.81066894531,
-	["HideTooltips"] = false,
-	["PromptToLoad"] = true,
+	["DontIncludeNotes"] = true,
+	["DontWarnMissing"] = false,
 	["SinglePanel"] = false,
+	["PromptToLoad"] = true,
+	["HideTooltips"] = false,
 	["TeamGroups"] = {
 		{
 			"General", -- [1]
@@ -8838,45 +8785,89 @@ RematchSettings = {
 		},
 		["Strong"] = {
 		},
-		["Types"] = {
+		["Moveset"] = {
 		},
-		["Tough"] = {
+		["Favorite"] = {
 		},
-		["Level"] = {
+		["Collected"] = {
+		},
+		["Rarity"] = {
 		},
 		["Similar"] = {
-		},
-		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Script"] = {
 		},
-		["Rarity"] = {
+		["Sources"] = {
 		},
-		["Collected"] = {
+		["Level"] = {
 		},
-		["Favorite"] = {
+		["Tough"] = {
 		},
-		["Moveset"] = {
+		["Types"] = {
 		},
 	},
 	["StayForBattle"] = false,
 	["OverwriteNotes"] = true,
 	["NotesBottom"] = 0,
-	["SpecialSlots"] = {
-		[2] = 0,
+	["QueueDoubleClick"] = true,
+	["CollapsedOptHeaders"] = {
+		true, -- [1]
+		true, -- [2]
+		true, -- [3]
+		nil, -- [4]
+		true, -- [5]
+		true, -- [6]
+		true, -- [7]
+		true, -- [8]
+		true, -- [9]
+		true, -- [10]
 	},
-	["NotesNoESC"] = true,
-	["PetCardYPos"] = 720.75,
+	["SelectedTab"] = 5,
 	["QueueSkipDead"] = true,
 	["LockNotesPosition"] = true,
-	["UseMiniQueue"] = true,
-	["LockWindow"] = true,
-	["QueueNoPreferences"] = false,
-	["ClickPetCard"] = false,
+	["SlimListButtons"] = true,
+	["ConflictOverwrite"] = true,
+	["NotesLeft"] = 1549.99975585938,
+	["FavoriteFilters"] = {
+		{
+			"non-rare in queue", -- [1]
+			{
+				["Other"] = {
+					["Leveling"] = true,
+				},
+				["Strong"] = {
+				},
+				["Rarity"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+				},
+				["Tough"] = {
+				},
+				["Level"] = {
+				},
+				["Similar"] = {
+				},
+				["Breed"] = {
+				},
+				["Sources"] = {
+				},
+				["Script"] = {
+				},
+				["Collected"] = {
+				},
+				["Favorite"] = {
+				},
+				["Types"] = {
+				},
+			}, -- [2]
+		}, -- [1]
+	},
 	["minimapButtonPosition"] = 179.419279382929,
 	["ShowAbilityNumbers"] = true,
 	["ReverseToolbar"] = false,
-	["HideMenuHelp"] = true,
+	["PetNotes"] = {
+	},
 }

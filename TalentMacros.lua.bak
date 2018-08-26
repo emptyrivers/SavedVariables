@@ -9,8 +9,8 @@ TalentMacrosDB = {
 	},
 	["profiles"] = {
 		["Emptyrivers - Arthas"] = {
-			["disablepush"] = true,
 			["advanced"] = false,
+			["disablepush"] = true,
 		},
 	},
 }
