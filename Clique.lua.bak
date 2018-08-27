@@ -25,12 +25,12 @@ CliqueDB3 = {
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
 		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
-		["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
+		["Testes - Arthas"] = "Testes - Arthas",
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
-		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
+		["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Testes - Arthas"] = "Testes - Arthas",
+		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
 		["Evilrivers - Sargeras"] = "Evilrivers - Sargeras",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
@@ -230,13 +230,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Greedyrivers - Arthas"] = {
+		["Testes - Arthas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -287,13 +287,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Blindrivers - Arthas"] = {
+		["Greedyrivers - Arthas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -325,7 +325,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Testes - Arthas"] = {
+		["Blindrivers - Arthas"] = {
 			["bindings"] = {
 				{
 					["sets"] = {

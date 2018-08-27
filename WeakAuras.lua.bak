@@ -784,17 +784,17 @@ WeakAurasSaved = {
 		["Ironskin Brew"] = {
 			[215479] = 1360979,
 		},
-		["Regrowth"] = {
-			[8936] = "Interface\\Icons\\Spell_Nature_ResistNature",
-		},
-		["Dispersed Spores"] = {
-			[215845] = "Interface\\Icons\\sha_ability_rogue_sturdyrecuperate_nightmare",
+		["Crimson Fury"] = {
+			[16843] = 135818,
 		},
 		["Chronometric Particles"] = {
 			[206607] = "Interface\\Icons\\Spell_Holy_BorrowedTime",
 		},
-		["Crimson Fury"] = {
-			[16843] = 135818,
+		["Dispersed Spores"] = {
+			[215845] = "Interface\\Icons\\sha_ability_rogue_sturdyrecuperate_nightmare",
+		},
+		["Regrowth"] = {
+			[8936] = "Interface\\Icons\\Spell_Nature_ResistNature",
 		},
 		["Ablating Explosion"] = {
 			[209973] = "Interface\\Icons\\Spell_Arcane_Arcane01",
@@ -879,12 +879,11 @@ WeakAurasSaved = {
 		["Rejuvenation"] = {
 			[774] = "Interface\\Icons\\Spell_Nature_Rejuvenation",
 		},
+		["Exoskeletal Vulnerability"] = {
+			[204459] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
+		},
 		["Four of Immortality"] = {
 			[191627] = 1392941,
-		},
-		["Thorns"] = {
-			[188652] = "Interface\\Icons\\Spell_Nature_Thorns",
-			[22696] = 136104,
 		},
 		["Crystal Bloom"] = {
 			[48058] = 136079,
@@ -922,8 +921,9 @@ WeakAurasSaved = {
 		["Arcane Empowerment"] = {
 			[58469] = "Interface\\Icons\\Spell_Arcane_ArcanePotency",
 		},
-		["Exoskeletal Vulnerability"] = {
-			[204459] = "Interface\\Icons\\Ability_Warrior_ShieldBreak",
+		["Thorns"] = {
+			[188652] = "Interface\\Icons\\Spell_Nature_Thorns",
+			[22696] = 136104,
 		},
 		["Blessing of Freedom"] = {
 			[1044] = "Interface\\Icons\\Spell_Holy_SealOfValor",
@@ -1188,11 +1188,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useTooltip"] = false,
-			["cooldownTextEnabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["useTooltip"] = false,
 			["text1Font"] = "Friz Quadrata TT",
 			["selfPoint"] = "CENTER",
 			["color"] = {
@@ -1284,9 +1284,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
 		},
 		["Revival"] = {
 			["text2Point"] = "CENTER",
@@ -1361,11 +1374,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["useTooltip"] = false,
-			["cooldownTextEnabled"] = true,
+			["text1Containment"] = "INSIDE",
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["useTooltip"] = false,
 			["text1Font"] = "Friz Quadrata TT",
 			["selfPoint"] = "CENTER",
 			["color"] = {
@@ -1457,9 +1470,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
 		},
 		["Black Ox Brew"] = {
 			["text2Point"] = "CENTER",
@@ -1526,11 +1552,11 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["cooldownTextEnabled"] = true,
-			["desaturate"] = false,
+			["internalVersion"] = 7,
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["text1Enabled"] = false,
+			["text2Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -1635,9 +1661,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 7,
+			["desaturate"] = false,
 		},
 		["Fist of the White Tiger"] = {
 			["text2Point"] = "CENTER",
@@ -1814,6 +1853,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["glow"] = false,
@@ -1890,6 +1942,17 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["useTooltip"] = false,
+			["parent"] = "monk",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["text2Containment"] = "INSIDE",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -1902,22 +1965,6 @@ WeakAurasSaved = {
 				["finish"] = {
 					["type"] = "none",
 					["duration_type"] = "seconds",
-				},
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-				},
-				["finish"] = {
 				},
 			},
 			["text1Color"] = {
@@ -2025,9 +2072,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["useTooltip"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Lifecycles"] = {
 			["text2Point"] = "CENTER",
@@ -2095,16 +2160,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["glow"] = false,
 			["text1Enabled"] = false,
-			["text2Containment"] = "INSIDE",
 			["text1Containment"] = "INSIDE",
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["cooldownTextEnabled"] = true,
 			["stickyDuration"] = false,
@@ -2160,9 +2220,40 @@ WeakAurasSaved = {
 				},
 			},
 			["conditions"] = {
+				{
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				}, -- [1]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Ring of Peace"] = {
 			["text2Point"] = "CENTER",
@@ -2229,6 +2320,10 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["desaturate"] = false,
+			["parent"] = "monk",
+			["text1Enabled"] = false,
+			["text2Containment"] = "INSIDE",
 			["animation"] = {
 				["start"] = {
 					["duration_type"] = "seconds",
@@ -2243,10 +2338,6 @@ WeakAurasSaved = {
 					["type"] = "none",
 				},
 			},
-			["text1Containment"] = "INSIDE",
-			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
-			["text1Enabled"] = false,
 			["text1Font"] = "Friz Quadrata TT",
 			["color"] = {
 				1, -- [1]
@@ -2343,9 +2434,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["text1Containment"] = "INSIDE",
 		},
 		["Leg Sweep"] = {
 			["text2Point"] = "CENTER",
@@ -2516,6 +2620,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["cooldownTextEnabled"] = true,
@@ -2585,17 +2702,17 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["text2Font"] = "Friz Quadrata TT",
-			["text2Containment"] = "INSIDE",
+			["desaturate"] = false,
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["cooldownTextEnabled"] = true,
+			["parent"] = "monk",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -2698,9 +2815,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["text2Font"] = "Friz Quadrata TT",
 		},
 		["Touch of Karma"] = {
 			["text2Point"] = "CENTER",
@@ -3022,6 +3152,17 @@ WeakAurasSaved = {
 					},
 				},
 			},
+			["useTooltip"] = false,
+			["parent"] = "monk",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
+			["text2Containment"] = "INSIDE",
 			["animation"] = {
 				["start"] = {
 					["type"] = "none",
@@ -3034,22 +3175,6 @@ WeakAurasSaved = {
 				["finish"] = {
 					["type"] = "none",
 					["duration_type"] = "seconds",
-				},
-			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
-			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-				},
-				["finish"] = {
 				},
 			},
 			["text1Color"] = {
@@ -3157,9 +3282,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["useTooltip"] = false,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Storm, Earth, and Fire"] = {
 			["text2Point"] = "CENTER",
@@ -3357,6 +3500,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["animation"] = {
@@ -3447,11 +3603,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = true,
-			["desaturate"] = false,
+			["selfPoint"] = "CENTER",
 			["useTooltip"] = false,
-			["text2Containment"] = "INSIDE",
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
 			["text1Font"] = "Friz Quadrata TT",
 			["parent"] = "monk",
 			["color"] = {
@@ -3544,9 +3700,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 		},
 		["Serenity"] = {
 			["text2Point"] = "CENTER",
@@ -3639,16 +3808,23 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["parent"] = "monk",
-			["selfPoint"] = "CENTER",
+			["actions"] = {
+				["start"] = {
+				},
+				["init"] = {
+				},
+				["finish"] = {
+				},
+			},
 			["desaturate"] = false,
-			["text2Containment"] = "INSIDE",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["text1Enabled"] = false,
 			["text1Containment"] = "INSIDE",
@@ -3759,16 +3935,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["actions"] = {
-				["start"] = {
-				},
-				["init"] = {
-				},
-				["finish"] = {
-				},
-			},
+			["selfPoint"] = "CENTER",
 		},
 		["Healing Elixir (MW)"] = {
 			["text2Point"] = "CENTER",
@@ -3851,16 +4033,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["selfPoint"] = "CENTER",
 			["text1Containment"] = "INSIDE",
-			["text2Containment"] = "INSIDE",
 			["text1Enabled"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["cooldownTextEnabled"] = true,
 			["glow"] = false,
@@ -3930,9 +4107,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [2]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Pet Battle Round #"] = {
 			["outline"] = "OUTLINE",
@@ -4007,6 +4202,7 @@ WeakAurasSaved = {
 			["font"] = "Friz Quadrata TT",
 			["selfPoint"] = "BOTTOM",
 			["anchorFrameType"] = "SCREEN",
+			["init_started"] = 1,
 			["fixedWidth"] = 200,
 			["load"] = {
 				["use_petbattle"] = true,
@@ -4100,14 +4296,19 @@ WeakAurasSaved = {
 			["text2Font"] = "Friz Quadrata TT",
 			["keepAspectRatio"] = false,
 			["selfPoint"] = "CENTER",
-			["cooldownTextEnabled"] = true,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["desaturate"] = false,
 			["progressPrecision"] = 0,
 			["text1Point"] = "CENTER",
-			["glow"] = false,
+			["wordWrap"] = "WordWrap",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 64,
-			["icon"] = true,
+			["cooldownTextEnabled"] = true,
 			["load"] = {
 				["ingroup"] = {
 					["multi"] = {
@@ -4212,13 +4413,8 @@ WeakAurasSaved = {
 			["inverse"] = false,
 			["text1Enabled"] = true,
 			["fixedWidth"] = 200,
-			["wordWrap"] = "WordWrap",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["icon"] = true,
+			["glow"] = false,
 		},
 		["_Misc things/minor projects"] = {
 			["backdropColor"] = {
@@ -4361,19 +4557,19 @@ WeakAurasSaved = {
 						["type"] = "status",
 						["event"] = "Cooldown Progress (Spell)",
 						["subeventSuffix"] = "_CAST_START",
-						["use_unit"] = true,
+						["subeventPrefix"] = "SPELL",
 						["use_genericShowOn"] = true,
 						["genericShowOn"] = "showAlways",
-						["unit"] = "player",
+						["names"] = {
+						},
 						["realSpellName"] = "Rushing Jade Wind",
 						["use_spellName"] = true,
 						["spellIds"] = {
 						},
 						["use_absorbMode"] = true,
 						["unevent"] = "auto",
-						["names"] = {
-						},
-						["subeventPrefix"] = "SPELL",
+						["unit"] = "player",
+						["use_unit"] = true,
 						["spellName"] = 261715,
 					},
 					["untrigger"] = {
@@ -4550,6 +4746,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["text2Font"] = "Friz Quadrata TT",
@@ -4766,6 +4975,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["actions"] = {
@@ -4857,11 +5079,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["selfPoint"] = "CENTER",
+			["glow"] = false,
 			["useTooltip"] = false,
-			["text2Containment"] = "INSIDE",
 			["text1Enabled"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["color"] = {
 				1, -- [1]
@@ -4953,9 +5175,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["selfPoint"] = "CENTER",
 		},
 		["Fortifying Brew (MW)"] = {
 			["text2Point"] = "CENTER",
@@ -5043,13 +5278,7 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["selfPoint"] = "CENTER",
 			["actions"] = {
 				["start"] = {
 				},
@@ -5058,8 +5287,9 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
-			["text2Containment"] = "INSIDE",
 			["text2Font"] = "Friz Quadrata TT",
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["glow"] = false,
 			["useTooltip"] = false,
@@ -5170,9 +5400,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Mana Tea"] = {
 			["text2Point"] = "CENTER",
@@ -5266,11 +5514,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["cooldownTextEnabled"] = true,
+			["desaturate"] = false,
 			["selfPoint"] = "CENTER",
-			["text2Containment"] = "INSIDE",
 			["text1Enabled"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["glow"] = false,
 			["color"] = {
@@ -5393,9 +5641,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["desaturate"] = false,
+			["cooldownTextEnabled"] = true,
 		},
 		["Rising Sun Kick"] = {
 			["text2Point"] = "CENTER",
@@ -5619,6 +5880,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [5]
+				[19] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["icon"] = true,
@@ -5815,11 +6089,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["cooldownTextEnabled"] = true,
-			["desaturate"] = false,
+			["selfPoint"] = "CENTER",
 			["useTooltip"] = false,
-			["text2Containment"] = "INSIDE",
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["cooldownTextEnabled"] = true,
 			["text1Font"] = "Friz Quadrata TT",
 			["parent"] = "monk",
 			["color"] = {
@@ -5911,9 +6185,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["selfPoint"] = "CENTER",
+			["desaturate"] = false,
 		},
 		["Brew charges"] = {
 			["text2Point"] = "CENTER",
@@ -5987,11 +6274,24 @@ WeakAurasSaved = {
 				["use_spec"] = true,
 				["use_talent"] = false,
 			},
-			["text1Enabled"] = false,
-			["desaturate"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["internalVersion"] = 7,
+			["text2Containment"] = "INSIDE",
+			["text1Enabled"] = false,
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6092,22 +6392,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[13] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["desaturate"] = false,
 		},
 		["miscellaneous UI pieces"] = {
 			["backdropColor"] = {
@@ -6529,11 +6829,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["desaturate"] = false,
+			["internalVersion"] = 7,
 			["text1Enabled"] = false,
-			["text2Containment"] = "INSIDE",
 			["cooldownTextEnabled"] = true,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6656,9 +6956,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 7,
+			["desaturate"] = false,
 		},
 		["Breath of Fire"] = {
 			["text2Point"] = "CENTER",
@@ -6719,11 +7032,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["desaturate"] = false,
+			["internalVersion"] = 7,
 			["text1Enabled"] = false,
-			["text2Containment"] = "INSIDE",
 			["cooldownTextEnabled"] = true,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -6828,9 +7141,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 7,
+			["desaturate"] = false,
 		},
 		["alerts"] = {
 			["grow"] = "HORIZONTAL",
@@ -6892,7 +7218,7 @@ WeakAurasSaved = {
 			},
 			["radius"] = 200,
 			["align"] = "CENTER",
-			["selfPoint"] = "CENTER",
+			["selfPoint"] = "LEFT",
 			["id"] = "alerts",
 			["stagger"] = 0,
 			["frameStrata"] = 1,
@@ -7145,6 +7471,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["animation"] = {
@@ -7416,6 +7755,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [2]
+				[15] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["color"] = {
@@ -7490,16 +7842,16 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["parent"] = "monk",
-			["useTooltip"] = false,
+			["cooldownTextEnabled"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Containment"] = "INSIDE",
 			["desaturate"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["text1Color"] = {
 				1, -- [1]
@@ -7604,9 +7956,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useTooltip"] = false,
 		},
 		["Healing Elixir (BrM)"] = {
 			["glow"] = false,
@@ -7650,7 +8015,7 @@ WeakAurasSaved = {
 			["text1Point"] = "BOTTOMRIGHT",
 			["text2FontFlags"] = "OUTLINE",
 			["height"] = 64,
-			["text1Enabled"] = false,
+			["internalVersion"] = 7,
 			["load"] = {
 				["use_class"] = true,
 				["size"] = {
@@ -7677,12 +8042,6 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
 			["parent"] = "monk",
 			["animation"] = {
 				["start"] = {
@@ -7698,6 +8057,7 @@ WeakAurasSaved = {
 					["duration_type"] = "seconds",
 				},
 			},
+			["text1Enabled"] = false,
 			["text2Containment"] = "INSIDE",
 			["desaturate"] = false,
 			["text1Color"] = {
@@ -7769,9 +8129,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [2]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 7,
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Summon Jade Serpent Statue"] = {
 			["text2Point"] = "CENTER",
@@ -7788,18 +8166,18 @@ WeakAurasSaved = {
 						["type"] = "custom",
 						["debuffType"] = "HELPFUL",
 						["subeventSuffix"] = "_CAST_START",
-						["dynamicDuration"] = true,
-						["subeventPrefix"] = "SPELL",
-						["event"] = "Health",
 						["unit"] = "player",
-						["customDuration"] = "function()\n    local hasted30 = 30 / (1 + GetHaste() * .01)\n    return hasted30, GetTime() + hasted30\nend\n\n\n\n\n\n",
-						["custom"] = "function(_, _, subEvent, _, _, _, sourceFlags)\n    -- JSS is a friendly guardian that is owned by me, so the sourceFlags should be 0x2111, or 8465 in decimal\n    -- since JSS only casts 1 spell, which is soothing mist, we don't need to check what spell he casted\n    return subEvent == \"SPELL_CAST_SUCCESS\" and sourceFlags == 8465\nend",
-						["spellIds"] = {
-						},
-						["customIcon"] = "function()\n    return 620831\nend",
-						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
 						["names"] = {
 						},
+						["event"] = "Health",
+						["dynamicDuration"] = true,
+						["customDuration"] = "function()\n    local hasted30 = 30 / (1 + GetHaste() * .01)\n    return hasted30, GetTime() + hasted30\nend\n\n\n\n\n\n",
+						["events"] = "COMBAT_LOG_EVENT_UNFILTERED",
+						["custom"] = "function(_, _, subEvent, _, _, _, sourceFlags)\n    -- JSS is a friendly guardian that is owned by me, so the sourceFlags should be 0x2111, or 8465 in decimal\n    -- since JSS only casts 1 spell, which is soothing mist, we don't need to check what spell he casted\n    return subEvent == \"SPELL_CAST_SUCCESS\" and sourceFlags == 8465\nend",
+						["customIcon"] = "function()\n    return 620831\nend",
+						["spellIds"] = {
+						},
+						["subeventPrefix"] = "SPELL",
 						["custom_type"] = "event",
 						["custom_hide"] = "timed",
 					},
@@ -7889,10 +8267,8 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["text2Font"] = "Friz Quadrata TT",
-			["useTooltip"] = false,
+			["parent"] = "monk",
 			["selfPoint"] = "CENTER",
-			["text2Containment"] = "INSIDE",
 			["actions"] = {
 				["start"] = {
 				},
@@ -7901,6 +8277,8 @@ WeakAurasSaved = {
 				["init"] = {
 				},
 			},
+			["text2Containment"] = "INSIDE",
+			["text2Font"] = "Friz Quadrata TT",
 			["text1Font"] = "Friz Quadrata TT",
 			["desaturate"] = false,
 			["color"] = {
@@ -8023,9 +8401,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [5]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["parent"] = "monk",
+			["useTooltip"] = false,
 		},
 		["Target"] = {
 			["sparkWidth"] = 10,
@@ -8517,11 +8908,11 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["cooldownTextEnabled"] = true,
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["text1Containment"] = "INSIDE",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8629,9 +9020,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["selfPoint"] = "CENTER",
 		},
 		["Brew charges (LB)"] = {
 			["text2Point"] = "CENTER",
@@ -8696,16 +9100,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Containment"] = "INSIDE",
 			["text1Enabled"] = false,
-			["text2Containment"] = "INSIDE",
 			["useTooltip"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -8819,9 +9218,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[13] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Chi Burst"] = {
 			["text2Point"] = "CENTER",
@@ -9002,6 +9419,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["cooldownTextEnabled"] = true,
@@ -9071,16 +9501,11 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["parent"] = "monk",
-			["color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["text1Containment"] = "INSIDE",
 			["text1Enabled"] = false,
-			["text2Containment"] = "INSIDE",
 			["useTooltip"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9180,9 +9605,27 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["text1Containment"] = "INSIDE",
+			["color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 		},
 		["Energizing Elixir"] = {
 			["text2Point"] = "CENTER",
@@ -9249,18 +9692,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["glow"] = false,
 			["useTooltip"] = false,
-			["text2Containment"] = "INSIDE",
 			["text1Containment"] = "INSIDE",
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9358,9 +9794,29 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["glow"] = false,
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 		},
 		["Keg Smash"] = {
 			["text2Point"] = "CENTER",
@@ -9421,11 +9877,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["desaturate"] = false,
+			["internalVersion"] = 7,
 			["text1Enabled"] = false,
-			["text2Containment"] = "INSIDE",
 			["cooldownTextEnabled"] = true,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9553,9 +10009,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 7,
+			["desaturate"] = false,
 		},
 		["Thunder Focus Tea"] = {
 			["text2Point"] = "CENTER",
@@ -9630,16 +10099,16 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["useTooltip"] = false,
+			["internalVersion"] = 7,
 			["text2Font"] = "Friz Quadrata TT",
-			["text2Containment"] = "INSIDE",
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -9765,9 +10234,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["internalVersion"] = 7,
+			["useTooltip"] = false,
 		},
 		["Diffuse Magic"] = {
 			["text2Point"] = "CENTER",
@@ -9861,16 +10343,23 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["selfPoint"] = "CENTER",
+			["actions"] = {
+				["start"] = {
+				},
+				["finish"] = {
+				},
+				["init"] = {
+				},
+			},
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Containment"] = "INSIDE",
 			["cooldownTextEnabled"] = true,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["glow"] = false,
 			["useTooltip"] = false,
@@ -9981,16 +10470,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["actions"] = {
-				["start"] = {
-				},
-				["finish"] = {
-				},
-				["init"] = {
-				},
-			},
+			["selfPoint"] = "CENTER",
 		},
 		["castbars"] = {
 			["backdropColor"] = {
@@ -10183,16 +10678,16 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["parent"] = "monk",
-			["useTooltip"] = false,
+			["cooldownTextEnabled"] = true,
 			["color"] = {
 				1, -- [1]
 				1, -- [2]
 				1, -- [3]
 				1, -- [4]
 			},
-			["text2Containment"] = "INSIDE",
 			["desaturate"] = false,
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["text1Color"] = {
 				1, -- [1]
@@ -10266,9 +10761,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [1]
+				[10] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["useTooltip"] = false,
 		},
 		["Summon Black Ox Statue"] = {
 			["text2Point"] = "CENTER",
@@ -10365,11 +10873,11 @@ WeakAurasSaved = {
 				},
 				["use_talent"] = true,
 			},
-			["text1Containment"] = "INSIDE",
-			["selfPoint"] = "CENTER",
+			["cooldownTextEnabled"] = true,
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["stickyDuration"] = false,
+			["text2Containment"] = "INSIDE",
+			["text1Containment"] = "INSIDE",
 			["text1Color"] = {
 				1, -- [1]
 				1, -- [2]
@@ -10495,9 +11003,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [5]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["cooldownTextEnabled"] = true,
+			["selfPoint"] = "CENTER",
 		},
 		["Player"] = {
 			["sparkWidth"] = 10,
@@ -10780,10 +11301,10 @@ WeakAurasSaved = {
 						["event"] = "Combat Log",
 						["use_itemName"] = true,
 						["custom_type"] = "event",
-						["events"] = "PLAYER_DEAD,UPDATE_INVENTORY_DURABILITY",
 						["spellIds"] = {
 						},
 						["custom"] = "function() \n    local i,cur,max;\n    for i=1,18 do\n        cur,max=GetInventoryItemDurability(i);\n        if cur and max then\n            if (cur/max) <= 0.2 then\n                return true;\n            end\n        end\n    end\n    return false;\nend",
+						["events"] = "PLAYER_DEAD,UPDATE_INVENTORY_DURABILITY",
 						["use_sourceUnit"] = true,
 						["use_unit"] = true,
 						["debuffType"] = "HELPFUL",
@@ -11124,6 +11645,19 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [4]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
 			["useTooltip"] = false,
@@ -11403,11 +11937,24 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["parent"] = "monk",
-			["text1Enabled"] = false,
+			["animation"] = {
+				["start"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["main"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+				["finish"] = {
+					["duration_type"] = "seconds",
+					["type"] = "none",
+				},
+			},
 			["useTooltip"] = false,
-			["text2Containment"] = "INSIDE",
 			["text1Containment"] = "INSIDE",
+			["text2Containment"] = "INSIDE",
+			["parent"] = "monk",
 			["text1Font"] = "Friz Quadrata TT",
 			["stickyDuration"] = false,
 			["color"] = {
@@ -11504,22 +12051,22 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["animation"] = {
-				["start"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["main"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-				["finish"] = {
-					["duration_type"] = "seconds",
-					["type"] = "none",
-				},
-			},
+			["text1Enabled"] = false,
 		},
 		["Invoke Chi-Ji, the Red Crane"] = {
 			["text2Point"] = "CENTER",
@@ -11587,11 +12134,11 @@ WeakAurasSaved = {
 					},
 				},
 			},
-			["internalVersion"] = 7,
-			["cooldownTextEnabled"] = true,
+			["useTooltip"] = false,
 			["parent"] = "monk",
-			["text2Containment"] = "INSIDE",
 			["text1Enabled"] = false,
+			["text2Containment"] = "INSIDE",
+			["internalVersion"] = 7,
 			["text1Font"] = "Friz Quadrata TT",
 			["stickyDuration"] = false,
 			["text1Containment"] = "INSIDE",
@@ -11701,13 +12248,26 @@ WeakAurasSaved = {
 						}, -- [1]
 					},
 				}, -- [3]
+				[18] = {
+					["check"] = {
+						["trigger"] = -1,
+						["variable"] = "hastarget",
+						["value"] = 0,
+					},
+					["changes"] = {
+						{
+							["value"] = 0.5,
+							["property"] = "alpha",
+						}, -- [1]
+					},
+				},
 			},
 			["cooldown"] = true,
-			["useTooltip"] = false,
+			["cooldownTextEnabled"] = true,
 		},
 		["family familiar helper"] = {
 			["outline"] = "None",
-			["parent"] = "_Misc things/minor projects",
+			["xOffset"] = 47.0004272460938,
 			["displayText"] = "%c",
 			["customText"] = "function()\n    if not IsShiftKeyDown() then \n        \n        local s = \"Needed families for \"..UnitName'mouseover'..':\\n'\n        local t = aura_env.getNPCNeededFamilies(UnitName'mouseover')\n        if not t then return UnitName'mouseover'..\" needs no more families!\" end\n        local refs = {\n            \"Aquatic\",\n            \"Beast\",\n            \"Critter\",\n            \"Dragonkin\",\n            \"Elemental\",\n            \"Flying\",\n            \"Humanoid\",\n            \"Magic\",\n            \"Mechanical\",\n            \"Undead\"\n        }\n        local icons = {\n            ['Critter'] = \"Interface\\\\Icons\\\\INV_Pet_Achievement_CatchPetFamily25\",\n            ['Beast'] = 618972,\n            ['Humanoid'] = 618977,\n            ['Flying'] = 618976,\n            ['Aquatic'] = 618981,\n            ['Elemental']= 618975,\n            ['Undead']= 618980,\n            ['Magic']= 618978,\n            ['Mechanical']= 618979,\n            ['Dragonkin']= 618974\n        }\n        for i=1,10 do\n            if t[i] then\n                s = s ..'\\124T'..icons[refs[i]]..':0:0:0:-6\\124t '.. refs[i] .. '\\n'\n            end\n        end\n        \n        return s    \n        \n    else\n        \n        local s = 'Family Familar\\n ----------------------------'\n        for i=1,10 do \n            local name,_,_, _, _, _, _, _, icon = select(2,GetAchievementInfo(9685 + i))\n            local complete, total = aura_env.getAchievmentprogress(i)\n            local status = (\"%s/%s\"):format(complete,total)\n            local color \n            if complete < 3 then\n                color = \"ffff0000\"\n            elseif complete < 6 then\n                color = \"ffff9900\"\n            elseif complete < 9 then\n                color = \"ffffff00\"\n            elseif complete < 12 then\n                color = \"ff00ff00\"\n            elseif complete <  15 then\n                color = \"ff00fcff\"\n            else\n                color = \"ffffffff\"\n            end\n            \n            status = WrapTextInColorCode(status,color)\n            local lpad = function(str, len, char)\n                if char == nil then char = ' ' end\n                return str .. string.rep(char, len - #str)\n            end\n            \n            local pad = lpad('', 40- #name, ' ')\n            \n            s = (\"%s\\n\\124T%s:0\\124t%s%s%s\"):format(s,icon,name,pad,status)\n        end\n        s = (\"%s\\n\\nFamily Fighter\\n ----------------------------\"):format(s)\n        for i = 1,10 do\n            local name,_,completed, _, _, _, _, _, icon = select(2,GetAchievementInfo(12089 + (i == 1 and 0 or i))) \n            local complete, total = aura_env.getAchievmentprogress(i,true)\n            local status = (\"%s/%s\"):format(complete,total)\n            local color \n            if complete < 3 then\n                color = \"ffff0000\"\n            elseif complete < 6 then\n                color = \"ffff9900\"\n            elseif complete < 9 then\n                color = \"ffffff00\"\n            elseif complete < 12 then\n                color = \"ff00ff00\"\n            elseif complete <  15 then\n                color = \"ff00fcff\"\n            else\n                color = \"ffffffff\"\n            end\n            \n            status = WrapTextInColorCode(status,color)\n            local lpad = function(str, len, char)\n                if char == nil then char = ' ' end\n                return str .. string.rep(char, len - #str)\n            end\n            \n            local pad = lpad('', 40- #name, ' ')\n            \n            s = (\"%s\\n\\124T%s:0\\124t%s%s%s\"):format(s,icon,name,pad,status)      \n        end\n        return s\n    end\n    \n    \n    \nend\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
 			["yOffset"] = 12.7518310546875,
@@ -11805,7 +12365,12 @@ WeakAurasSaved = {
 			["init_completed"] = 1,
 			["justify"] = "LEFT",
 			["id"] = "family familiar helper",
-			["xOffset"] = 47.0004272460938,
+			["color"] = {
+				0.47843137254902, -- [1]
+				0.74117647058824, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["frameStrata"] = 1,
 			["width"] = 18.7500076293945,
 			["animation"] = {
@@ -11823,12 +12388,7 @@ WeakAurasSaved = {
 				},
 			},
 			["wordWrap"] = "WordWrap",
-			["color"] = {
-				0.47843137254902, -- [1]
-				0.74117647058824, -- [2]
-				1, -- [3]
-				1, -- [4]
-			},
+			["parent"] = "_Misc things/minor projects",
 			["fixedWidth"] = 200,
 			["conditions"] = {
 			},
