@@ -92,7 +92,7 @@ ElvDB = {
 			["Serenerivers"] = 62534621,
 			["Shachein"] = 100000,
 			["Sassyrivers"] = 33391,
-			["Emptyrivers"] = 178464723,
+			["Emptyrivers"] = 177981319,
 			["Rapidrivers"] = 1116028022,
 			["Beefyrivers"] = 27858636,
 			["Blindrivers"] = 7610016,
@@ -413,7 +413,7 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Exquisite VanCleef Costume"] = {
+						["Food"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -441,7 +441,7 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Visions of Insanity"] = {
+						["Exquisite VanCleef Costume"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -453,11 +453,11 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Evangelism"] = {
+						["Glyph of Lightning Shield"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Well Fed"] = {
+						["Grimoire of Sacrifice"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -473,23 +473,23 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Essence Font"] = {
+						["Evangelism"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Slow Fall"] = {
-							["enable"] = true,
+						["Tiger Power"] = {
+							["enable"] = false,
 							["priority"] = 0,
 						},
 						["Sunrise Technique"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Food"] = {
+						["Essence Font"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Grimoire of Sacrifice"] = {
+						["Slow Fall"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -521,11 +521,11 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Cozy Fire"] = {
+						["Honorless Target"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Glyph of Lightning Shield"] = {
+						["Well Fed"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -533,7 +533,7 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Honorless Target"] = {
+						["Visions of Insanity"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -545,8 +545,8 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Tiger Power"] = {
-							["enable"] = false,
+						["Cozy Fire"] = {
+							["enable"] = true,
 							["priority"] = 0,
 						},
 					},
@@ -2652,9 +2652,9 @@ ElvDB = {
 				["panelBackdrop"] = "HIDEBOTH",
 				["socialQueueMessages"] = true,
 				["panelHeight"] = 168,
-				["timeStampFormat"] = "%H:%M ",
 				["numAllowedCombatRepeat"] = 4,
 				["copyChatLines"] = true,
+				["timeStampFormat"] = "%H:%M ",
 				["fadeTabsNoBackdrop"] = false,
 				["keywords"] = "%MYNAME%",
 			},
@@ -2678,7 +2678,7 @@ ElvDB = {
 				["LootFrameMover"] = "TOP,ElvUIParent,TOP,0,-49",
 				["ZoneAbility"] = "BOTTOM,ElvUIParent,BOTTOM,155,76",
 				["DigSiteProgressBarMover"] = "TOP,ElvUIParent,TOP,0,-69",
-				["MinimapMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,0,-11",
+				["MinimapMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,5,-5",
 				["PetAB"] = "BOTTOM,ElvUIParent,BOTTOM,-280,17",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,735",
 				["ElvUF_FocusTargetMover"] = "TOP,ElvUIParent,TOP,0,-73",
@@ -2704,7 +2704,7 @@ ElvDB = {
 				["BelowMinimapContainerMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,0,-199",
 				["ElvAB_4"] = "TOP,ElvUIParent,TOP,122,0",
 				["TalkingHeadFrameMover"] = "TOP,ElvUIParent,TOP,0,-37",
-				["AzeriteBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,142,-11",
+				["AzeriteBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,146,-5",
 				["AltPowerBarMover"] = "TOP,ElvUIParent,TOP,0,-41",
 				["ElvAB_3"] = "TOP,ElvUIParent,TOP,-120,0",
 				["ElvAB_5"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-475,0",
@@ -2714,7 +2714,7 @@ ElvDB = {
 				["ObjectiveFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-97,-34",
 				["BNETMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,0,-244",
 				["VOICECHAT"] = "TOPLEFT,ElvUIParent,TOPLEFT,0,-311",
-				["ReputationBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,0,-152",
+				["ReputationBarMover"] = "TOPLEFT,ElvUIParent,TOPLEFT,5,-147",
 				["HonorBarMover"] = "TOP,ElvUIParent,TOP,0,1",
 				["ElvAB_6"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-230,0",
 				["TooltipMover"] = "BOTTOMRIGHT,ElvUIParent,BOTTOMRIGHT,-4,0",
@@ -3305,10 +3305,10 @@ ElvDB = {
 							}, -- [3]
 						},
 					},
-					["healPrediction"] = {
-						["personal"] = {
-							["b"] = 0.50196078431373,
-						},
+					["health_backdrop_dead"] = {
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
 					},
 					["power"] = {
 						["MAELSTROM"] = {
@@ -3328,7 +3328,7 @@ ElvDB = {
 						["g"] = 0.6,
 						["b"] = 0.6,
 					},
-					["transparentCastbar"] = true,
+					["transparentHealth"] = true,
 					["frameGlow"] = {
 						["mainGlow"] = {
 							["enable"] = true,
@@ -3343,23 +3343,23 @@ ElvDB = {
 						["g"] = 0.2,
 						["b"] = 0.2,
 					},
-					["health"] = {
-						["r"] = 0,
-						["g"] = 0,
-						["b"] = 0,
-					},
-					["health_backdrop_dead"] = {
-						["r"] = 0,
-						["g"] = 0,
-						["b"] = 0,
-					},
+					["transparentAurabars"] = true,
 					["health_backdrop"] = {
 						["r"] = 0.047058823529412,
 						["g"] = 0.047058823529412,
 						["b"] = 0.047058823529412,
 					},
-					["transparentHealth"] = true,
-					["transparentAurabars"] = true,
+					["health"] = {
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+					["transparentCastbar"] = true,
+					["healPrediction"] = {
+						["personal"] = {
+							["b"] = 0.50196078431373,
+						},
+					},
 				},
 				["statusbar"] = "ElvUI Blank",
 				["fontOutline"] = "NONE",

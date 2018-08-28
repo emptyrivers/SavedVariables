@@ -113,11 +113,11 @@ AdiBagsDB = {
 				["Default"] = {
 					["splitBySubclass"] = {
 						["Recipe"] = true,
-						["Consumable"] = true,
-						["Item Enhancement!"] = true,
 						["Tradeskill"] = true,
 						["Gem"] = true,
+						["Consumable"] = true,
 						["Trade Goods"] = false,
+						["Item Enhancement!"] = true,
 						["Glyph"] = true,
 						["Miscellaneous"] = true,
 					},
