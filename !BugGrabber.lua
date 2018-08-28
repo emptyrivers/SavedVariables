@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 3542,
 	["lastSanitation"] = 3,
-	["session"] = 3541,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAurasOptions\\AuthorOptions.lua:207: attempt to index local 'data' (a nil value)",
