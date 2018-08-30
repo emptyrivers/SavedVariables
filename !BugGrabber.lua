@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 3582,
 	["lastSanitation"] = 3,
+	["session"] = 3583,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAurasOptions\\AuthorOptions.lua:60: bad argument #1 to 'unpack' (table expected, got nil)",
