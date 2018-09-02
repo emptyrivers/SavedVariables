@@ -100,20 +100,25 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Deathscreech",
 					["code"] = "ability(#2) [round=1] \nability(#3) [round=2] \nchange(#2) [self(#1).dead] \nability(#2) [self.round=1] \nability(#3)",
 				},
-				[105241] = {
-					["author"] = "Tinyrivers-Sargeras",
-					["name"] = "Fight Night: Rats!",
-					["code"] = "ability(919) [!enemy.aura(918).exists]\nability(921)",
-				},
 				[140813] = {
 					["author"] = "Emptyrivers-Arthas",
 					["name"] = "Rogue Azerite",
 					["code"] = "ability(Whirlpool:513) [self(Pandaren Water Spirit:868).active]\nability(Dive:564) [self(Pandaren Water Spirit:868).active]\nability(Water Jet:118) [self(Pandaren Water Spirit:868).active]\nchange(#2) [self(Pandaren Water Spirit:868).dead & !self(Rapana Whelk:743).active]\nchange(Rapana Whelk:743)\nability(Shell Shield:310) [self(Rapana Whelk:743).aura(Shell Shield:309).duration <2]\nability(Dive:564)\nability(Absorb:449)",
 				},
-				[142054] = {
+				[141969] = {
 					["author"] = "Emptyrivers-Arthas",
-					["name"] = "Desert Survivors",
-					["code"] = "quit [round=2 & enemy.hpp=100] \nif [enemy(Stinger:2358).active] \nability(Powerball:566) [enemy.round=1] \nendif \nchange(Iron Starlette:1387) [self(Ash'ana:1927).dead] \nability(Supercharge:208) [self.aura(Wind-Up:458).exists] \nability(Wind-Up:459) \nchange(#2) [round=5] \nchange(Ash'ana:1927) [self(#2).active] \nability(Moonfire:595) [round=1] \nability(Pounce:535) [enemy.aura(Speed Reduction:154).exists] \nability(Screech:357)",
+					["name"] = "What Do You Mean, Mind Controlling Plants?",
+					["code"] = "use(Curse of Doom:218)\nuse(Haunt:652)\nchange(#2) [self(#1).dead & !self(#2).active]\nuse(Black Claw:919) [round=3]\nuse(Black Claw:919) [round=9]\nstandby [self.aura(Stunned).duration>=1]\nuse(Savage Talon:518) [enemy.aura(Shattered Defenses:542).exists]\nuse(Flock:581)\nuse(Arcane Storm:589)\nchange(#3) [self(#2).dead & !self(#3).active]\nuse(Falcosaur Swarm!:1773)",
+				},
+				[105241] = {
+					["author"] = "Tinyrivers-Sargeras",
+					["name"] = "Fight Night: Rats!",
+					["code"] = "ability(919) [!enemy.aura(918).exists]\nability(921)",
+				},
+				[141292] = {
+					["author"] = "Emptyrivers-Arthas",
+					["name"] = "That’s a Big Carcass",
+					["code"] = "ability(Flock:581) [ enemy.aura(Black Claw:918).exists ]\nability(Black Claw:919)\nchange(#3)\nability(Predatory Strike:518) [ enemy.aura(Shattered Defenses:542).exists ]\nchange(#2) [ !self(#2).played ]\nability(Ironskin:1758) [ self.round=1 ]\nability(#1)",
 				},
 				[87124] = {
 					["author"] = "Emptyrivers-Bleeding Hollow",
@@ -140,15 +145,15 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Fight Night: Heliosus",
 					["code"] = "ability(218)\nability(652)\nchange(#2) \nability(919) [self.round=1]\nability(581)",
 				},
-				[142096] = {
-					["author"] = "Emptyrivers-Arthas",
-					["name"] = "Critters are Friends, Not Food",
-					["code"] = "ability(Decoy:334) [ enemy.aura(Bomb:819).duration=1 ]\nability(Bombing Run:647) [ enemy.round<3 ]\nability(Bombing Run:647) [ self.aura(Mechanical:244).exists & enemy(#1).hp<220 ]\nability(Missile:777)\nchange(#2) [ !self(#2).played ]\nchange(#3)\nability(Arcane Storm:589)\nability(Mana Surge:489)\nability(Tail Sweep:122)",
-				},
 				[141529] = {
 					["author"] = "Emptyrivers-Arthas",
 					["name"] = "Marshdwellers",
 					["code"] = "change(#3) [ self(#2).played ]\nability(Black Claw:919) [ self.round=1 ]\nability(Flock:581)\nability(Arcane Storm:589)\nability(Mana Surge:489)\nability(Tail Sweep:122)\nchange(#1)",
+				},
+				[142096] = {
+					["author"] = "Emptyrivers-Arthas",
+					["name"] = "Critters are Friends, Not Food",
+					["code"] = "ability(Decoy:334) [ enemy.aura(Bomb:819).duration=1 ]\nability(Bombing Run:647) [ enemy.round<3 ]\nability(Bombing Run:647) [ self.aura(Mechanical:244).exists & enemy(#1).hp<220 ]\nability(Missile:777)\nchange(#2) [ !self(#2).played ]\nchange(#3)\nability(Arcane Storm:589)\nability(Mana Surge:489)\nability(Tail Sweep:122)",
 				},
 				[105779] = {
 					["author"] = "Tinyrivers-Sargeras",
@@ -170,10 +175,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Sea Creatures Are Weird",
 					["code"] = "quit [ enemy(#1).active & !enemy.ability(Sweep:457).usable ]\nchange(#1) [ self(#3).active ]\nchange(#3) [ self(#1).dead ]\nif [ self(#1).active ]\n    ability(Supercharge:208) [ round~2,6 ]\n    ability(Wind-Up:459) [ enemy(#1).active ]\n    ability(Wind-Up:459) [ round>6 & self.aura(Mechanical:244).exists & self.aura(Wind-Up:458).exists ]\n    ability(Powerball:566)\nendif\nability(Explode:282) [ enemy(#3).active & enemy(#3).hp<561 ]\nability(Thunderbolt:779) [ !enemy(#2).dead & enemy(#2).hp<245 ]\nability(Thunderbolt:779) [ enemy(#3).active ]\nability(Breath:115)",
 				},
-				[141969] = {
+				[142054] = {
 					["author"] = "Emptyrivers-Arthas",
-					["name"] = "What Do You Mean, Mind Controlling Plants?",
-					["code"] = "use(Curse of Doom:218)\nuse(Haunt:652)\nchange(#2) [self(#1).dead & !self(#2).active]\nuse(Black Claw:919) [round=3]\nuse(Black Claw:919) [round=9]\nstandby [self.aura(Stunned).duration>=1]\nuse(Savage Talon:518) [enemy.aura(Shattered Defenses:542).exists]\nuse(Flock:581)\nuse(Arcane Storm:589)\nchange(#3) [self(#2).dead & !self(#3).active]\nuse(Falcosaur Swarm!:1773)",
+					["name"] = "Desert Survivors",
+					["code"] = "quit [round=2 & enemy.hpp=100] \nif [enemy(Stinger:2358).active] \nability(Powerball:566) [enemy.round=1] \nendif \nchange(Iron Starlette:1387) [self(Ash'ana:1927).dead] \nability(Supercharge:208) [self.aura(Wind-Up:458).exists] \nability(Wind-Up:459) \nchange(#2) [round=5] \nchange(Ash'ana:1927) [self(#2).active] \nability(Moonfire:595) [round=1] \nability(Pounce:535) [enemy.aura(Speed Reduction:154).exists] \nability(Screech:357)",
 				},
 			},
 		},
@@ -186,13 +191,13 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Dammedrivers - Exodar"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Feralrivers - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
-		["Boringrivers - Bleeding Hollow"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
+		["Mindrivers - Korgath"] = "Default",
 		["Luckyrivers - Sargeras"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Riversticks - Bleeding Hollow"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Testrivers - Bleeding Hollow"] = "Default",
@@ -207,7 +212,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Crazyrivers - Bleeding Hollow"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Mindrivers - Korgath"] = "Default",
+		["Boringrivers - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

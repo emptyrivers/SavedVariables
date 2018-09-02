@@ -25,8 +25,8 @@ CliqueDB3 = {
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
 		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
-		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Crazyrivers - Bleeding Hollow"] = "Crazyrivers - Bleeding Hollow",
+		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
 		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
@@ -230,7 +230,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Beefyrivers - Bleeding Hollow"] = {
+		["Crazyrivers - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -249,7 +249,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Crazyrivers - Bleeding Hollow"] = {
+		["Beefyrivers - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
