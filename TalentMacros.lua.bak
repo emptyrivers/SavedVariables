@@ -5,9 +5,12 @@ TalentMacrosDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 	},
 	["profiles"] = {
+		["Ragingrivers - Arthas"] = {
+		},
 		["Emptyrivers - Arthas"] = {
 			["disablepush"] = true,
 			["advanced"] = false,
