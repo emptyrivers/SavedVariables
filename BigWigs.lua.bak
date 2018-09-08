@@ -62,9 +62,9 @@ BigWigs3DB = {
 				["Default"] = {
 					["posx"] = 132.977780997753,
 					["fontSize"] = 12,
-					["font"] = "Friz Quadrata TT",
-					["fontOutline"] = "",
 					["posy"] = 745.777448614099,
+					["fontOutline"] = "",
+					["font"] = "Friz Quadrata TT",
 				},
 			},
 		},
@@ -115,8 +115,6 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Respawn"] = {
-		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -129,6 +127,8 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Common Auras"] = {
 			["reset"] = true,
 		},
+		["BigWigs_Plugins_Respawn"] = {
+		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -140,8 +140,6 @@ BigWigs3DB = {
 					["posy"] = 135.999048432022,
 				},
 			},
-		},
-		["BigWigs_Bosses_Vectis"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -179,11 +177,11 @@ BigWigs3DB = {
 			[74] = true,
 			[76] = true,
 			[686] = true,
-			[656] = true,
+			["930:3"] = true,
 			[-917] = true,
 			["993:2"] = true,
 			["953:2"] = true,
-			["930:3"] = true,
+			["800:1"] = true,
 			[549] = true,
 			["930:7"] = true,
 			["984:1"] = {
@@ -198,7 +196,7 @@ BigWigs3DB = {
 			[75] = true,
 			["1147:6"] = true,
 			[688] = true,
-			["800:1"] = true,
+			[656] = true,
 			["993:4"] = true,
 		},
 	},

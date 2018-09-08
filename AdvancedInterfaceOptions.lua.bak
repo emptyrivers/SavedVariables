@@ -334,7 +334,7 @@ AdvancedInterfaceOptionsSaved = {
 		["removeChatDelay"] = "1",
 		["RAIDterrainLodDist"] = "350.000000",
 		["UnitNameEnemyMinionName"] = "0",
-		["advJournalLastOpened"] = "1536203044",
+		["advJournalLastOpened"] = "1536355021",
 		["test_cameraHeadMovementFirstPersonDampRate"] = "20",
 		["Sound_AmbienceVolume"] = "0.80000001192093",
 		["displayFreeBagSlots"] = "0",
@@ -418,7 +418,7 @@ AdvancedInterfaceOptionsSaved = {
 		["UnitNameHostleNPC"] = "0",
 		["miniDressUpFrame"] = "0",
 		["miniCommunitiesFrame"] = "0",
-		["lastSelectedClubId"] = "2226591",
+		["lastSelectedClubId"] = "2369931",
 	},
 	["EnforceSettings"] = false,
 }
