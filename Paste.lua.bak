@@ -37,13 +37,13 @@ PasteDB = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
 		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
-		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
 		["Notariver - Arthas"] = "Notariver - Arthas",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Tinyrivers - Arthas"] = "Tinyrivers - Arthas",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Toofattohide - Kel'Thuzad"] = "Toofattohide - Kel'Thuzad",
-		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
@@ -166,8 +166,8 @@ PasteDB = {
 		},
 		["Emptyrivers - Arthas"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 			},
 		},
@@ -176,8 +176,8 @@ PasteDB = {
 		},
 		["Luckyrivers - Sargeras"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
 			["where"] = "Default",
+			["whispertarget"] = "",
 			["pos"] = {
 				["height"] = 320,
 				["top"] = 799.999816894531,
@@ -237,10 +237,22 @@ PasteDB = {
 		["Evilrivers - Korgath"] = {
 			["loaded"] = true,
 		},
-		["Crazyrivers - Arthas"] = {
+		["Angryrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Notariver - Arthas"] = {
+			["loaded"] = true,
+		},
+		["Crazyrivers - Arthas"] = {
+			["loaded"] = true,
+		},
+		["Tinyrivers - Arthas"] = {
+			["loaded"] = true,
+		},
+		["Serenerivers - Sargeras"] = {
+			["loaded"] = true,
+		},
+		["Toofattohide - Kel'Thuzad"] = {
 			["loaded"] = true,
 		},
 		["Emptyrivers - Sargeras"] = {
@@ -253,18 +265,6 @@ PasteDB = {
 				["left"] = 631.000061035156,
 				["width"] = 500.000030517578,
 			},
-		},
-		["Tinyrivers - Arthas"] = {
-			["loaded"] = true,
-		},
-		["Serenerivers - Sargeras"] = {
-			["loaded"] = true,
-		},
-		["Toofattohide - Kel'Thuzad"] = {
-			["loaded"] = true,
-		},
-		["Angryrivers - Korgath"] = {
-			["loaded"] = true,
 		},
 		["Mecharivers - Sargeras"] = {
 			["loaded"] = true,

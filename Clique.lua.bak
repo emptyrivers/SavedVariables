@@ -7,9 +7,9 @@ CliqueDB3 = {
 		},
 		["Emptyrivers - Arthas"] = {
 			["spec1_profileKey"] = "Emptyrivers - Arthas",
-			["fastooc"] = false,
 			["specswap"] = false,
 			["downclick"] = false,
+			["fastooc"] = false,
 			["spec3_profileKey"] = "Emptyrivers - Arthas",
 			["spec2_profileKey"] = "Emptyrivers - Arthas",
 		},

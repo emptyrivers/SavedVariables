@@ -57,7 +57,7 @@ CrucibleWeightDB = {
 			["relicCache"] = {
 			},
 		},
-		["Emptyrivers - Sargeras"] = {
+		["Crazyrivers - Arthas"] = {
 			["artifactWeight"] = {
 			},
 			["presets"] = {
@@ -107,9 +107,9 @@ CrucibleWeightDB = {
 							[197239] = "7.7",
 							[252922] = "3.55",
 							[210146] = "0",
-							[197386] = "4.55",
 							[197231] = "3.45",
 							[253093] = "7.21",
+							[197386] = "4.55",
 							[197235] = "4.58",
 							[253070] = "7.72",
 							[252888] = "6.72",
@@ -158,7 +158,7 @@ CrucibleWeightDB = {
 			[128872] = {
 			},
 		},
-		["Ragingrivers - Arthas"] = {
+		["Emptyrivers - Sargeras"] = {
 			["artifactWeight"] = {
 			},
 			["presets"] = {
@@ -601,7 +601,7 @@ CrucibleWeightDB = {
 			[128862] = {
 			},
 		},
-		["Crazyrivers - Arthas"] = {
+		["Ragingrivers - Arthas"] = {
 			["artifactWeight"] = {
 			},
 			["presets"] = {
