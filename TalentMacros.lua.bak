@@ -15,8 +15,8 @@ TalentMacrosDB = {
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Emptyrivers - Arthas"] = {
-			["disablepush"] = true,
 			["advanced"] = false,
+			["disablepush"] = true,
 		},
 	},
 }

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 3738,
 	["lastSanitation"] = 3,
+	["session"] = 3741,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:4203: bad argument #1 to 'pairs' (table expected, got boolean)",

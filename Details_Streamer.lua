@@ -5,8 +5,8 @@ Details_StreamerDB = {
 		["Savattellir - Arthas"] = "Emptyrivers - Sargeras",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Sargeras",
 		["Luckyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Ragingrivers - Arthas"] = "Emptyrivers - Sargeras",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 	},
 	["profiles"] = {
 		["Emptyrivers - Sargeras"] = {
@@ -36,12 +36,7 @@ Details_StreamerDB = {
 			["row_texture"] = "Details Vidro",
 			["arrow_anchor_y"] = 0,
 			["main_frame_locked"] = true,
-			["row_color"] = {
-				0.101960784313725, -- [1]
-				0.101960784313725, -- [2]
-				0.101960784313725, -- [3]
-				0.160000026226044, -- [4]
-			},
+			["main_frame_strata"] = "BACKGROUND",
 			["enabled"] = false,
 			["arrow_size"] = 10,
 			["per_second"] = {
@@ -62,14 +57,19 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.200000047683716, -- [4]
 			},
-			["main_frame_strata"] = "BACKGROUND",
+			["author"] = "Details! Team",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 10,
 			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["y"] = 66.4558715820313,
-			["author"] = "Details! Team",
+			["row_color"] = {
+				0.101960784313725, -- [1]
+				0.101960784313725, -- [2]
+				0.101960784313725, -- [3]
+				0.160000026226044, -- [4]
+			},
 			["point"] = "LEFT",
 			["row_height"] = 20,
 			["scale"] = 1,

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 3740,
 	["lastSanitation"] = 3,
-	["session"] = 3737,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:4203: bad argument #1 to 'pairs' (table expected, got boolean)",
@@ -11,5 +11,12 @@ BugGrabberDB = {
 			["session"] = 3737,
 			["counter"] = 3,
 		}, -- [1]
+		{
+			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'DialogKey' tried to call the protected function 'ForceQuit()'.",
+			["time"] = "2018/09/15 17:15:33",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `ForceQuit'\nInterface\\FrameXML\\StaticPopup.lua:1850: in function `OnAccept'\nInterface\\FrameXML\\StaticPopup.lua:4973: in function `StaticPopup_OnClick'\n[string \"*:OnClick\"]:1: in function <[string \"*:OnClick\"]:1>\n[C]: in function `Click'\nInterface\\AddOns\\DialogKey\\core.lua:794: in function `ClickButton'\nInterface\\AddOns\\DialogKey\\core.lua:733: in function `ClickButtons'\nInterface\\AddOns\\DialogKey\\core.lua:683: in function <Interface\\AddOns\\DialogKey\\core.lua:630>",
+			["session"] = 3738,
+			["counter"] = 1,
+		}, -- [2]
 	},
 }
