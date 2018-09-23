@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 3744,
 	["lastSanitation"] = 3,
-	["session"] = 3741,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:4203: bad argument #1 to 'pairs' (table expected, got boolean)",
@@ -18,5 +18,13 @@ BugGrabberDB = {
 			["session"] = 3738,
 			["counter"] = 1,
 		}, -- [2]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Ace3' tried to call the protected function 'PetActionButton8:Show()'.",
+			["time"] = "2018/09/18 12:40:23",
+			["locals"] = "InCombatSkipped",
+			["stack"] = "Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519: in function <Interface\\AddOns\\!BugGrabber\\BugGrabber.lua:519>\n[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:199: in function `PetActionBar_Update'\nInterface\\FrameXML\\SpellBookFrame.lua:518: in function <Interface\\FrameXML\\SpellBookFrame.lua:512>",
+			["session"] = 3742,
+			["counter"] = 1,
+		}, -- [3]
 	},
 }

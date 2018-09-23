@@ -7,6 +7,7 @@ TalentMacrosDB = {
 	["profileKeys"] = {
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
+		["Canerena - Arthas"] = "Canerena - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 	},
 	["profiles"] = {
@@ -14,9 +15,11 @@ TalentMacrosDB = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
+		["Canerena - Arthas"] = {
+		},
 		["Emptyrivers - Arthas"] = {
-			["disablepush"] = true,
 			["advanced"] = false,
+			["disablepush"] = true,
 		},
 	},
 }

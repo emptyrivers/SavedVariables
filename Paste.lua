@@ -4,61 +4,62 @@ PasteDB = {
 		["Boringrivers - Korgath"] = "Boringrivers - Korgath",
 		["Rapidrivers - Arthas"] = "Rapidrivers - Arthas",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
+		["Canerena - Arthas"] = "Canerena - Arthas",
 		["Beefyrivers - Thrall"] = "Beefyrivers - Thrall",
 		["Yandanderex - Moon Guard"] = "Yandanderex - Moon Guard",
 		["Mindrivers - Korgath"] = "Mindrivers - Korgath",
 		["Serenerivers - Arthas"] = "Serenerivers - Arthas",
 		["Sacredrivers - Korgath"] = "Sacredrivers - Korgath",
 		["Emptyrivers - Korgath"] = "Emptyrivers - Korgath",
-		["Testrivers - Bleeding Hollow"] = "Testrivers - Bleeding Hollow",
+		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
 		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
 		["Tinyrivers - Kel'Thuzad"] = "Tinyrivers - Kel'Thuzad",
-		["Sassyrivers - Arthas"] = "Sassyrivers - Arthas",
-		["Wildrivers - Korgath"] = "Wildrivers - Korgath",
 		["Crazyrivers - Bleeding Hollow"] = "Crazyrivers - Bleeding Hollow",
+		["Wildrivers - Korgath"] = "Wildrivers - Korgath",
+		["Sassyrivers - Arthas"] = "Sassyrivers - Arthas",
 		["Wildrivers - Bleeding Hollow"] = "Wildrivers - Bleeding Hollow",
 		["Serenerivers - Kel'Thuzad"] = "Serenerivers - Kel'Thuzad",
 		["Deadrivers - Korgath"] = "Deadrivers - Korgath",
 		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
-		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
 		["Hulyon - Kel'Thuzad"] = "Hulyon - Kel'Thuzad",
+		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Littlerivers - Kel'Thuzad"] = "Littlerivers - Kel'Thuzad",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
-		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
+		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
-		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Hiddenrivers - Korgath"] = "Hiddenrivers - Korgath",
+		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
-		["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
-		["Shachein - Arthas"] = "Shachein - Arthas",
-		["Boringrivers - Bleeding Hollow"] = "Boringrivers - Bleeding Hollow",
-		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
+		["Shachein - Arthas"] = "Shachein - Arthas",
+		["Notariver - Arthas"] = "Notariver - Arthas",
+		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
+		["Smaz - Mug'thol"] = "Smaz - Mug'thol",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
 		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
-		["Notariver - Arthas"] = "Notariver - Arthas",
+		["Boringrivers - Bleeding Hollow"] = "Boringrivers - Bleeding Hollow",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Tinyrivers - Arthas"] = "Tinyrivers - Arthas",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-		["Toofattohide - Kel'Thuzad"] = "Toofattohide - Kel'Thuzad",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
 		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
-		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Toofattohide - Kel'Thuzad"] = "Toofattohide - Kel'Thuzad",
 		["Serenerivers - Korgath"] = "Serenerivers - Korgath",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "Kdajshtlaiuw - Bleeding Hollow",
-		["Smaz - Mug'thol"] = "Smaz - Mug'thol",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Testes - Arthas"] = "Testes - Arthas",
-		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
 		["Riversticks - Bleeding Hollow"] = "Riversticks - Bleeding Hollow",
 		["Magicrivers - Korgath"] = "Magicrivers - Korgath",
-		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
+		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
 		["Skankyrivers - Arthas"] = "Skankyrivers - Arthas",
-		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
+		["Testrivers - Bleeding Hollow"] = "Testrivers - Bleeding Hollow",
 	},
 	["profiles"] = {
 		["Boringrivers - Korgath"] = {
@@ -76,6 +77,9 @@ PasteDB = {
 			},
 		},
 		["Naturerivers - Korgath"] = {
+			["loaded"] = true,
+		},
+		["Canerena - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Beefyrivers - Thrall"] = {
@@ -108,7 +112,7 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Testrivers - Bleeding Hollow"] = {
+		["Dammedrivers - Exodar"] = {
 			["loaded"] = true,
 		},
 		["Blindrivers - Sargeras"] = {
@@ -125,12 +129,6 @@ PasteDB = {
 				["width"] = 500.000091552734,
 			},
 		},
-		["Sassyrivers - Arthas"] = {
-			["loaded"] = true,
-		},
-		["Wildrivers - Korgath"] = {
-			["loaded"] = true,
-		},
 		["Crazyrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
@@ -141,6 +139,12 @@ PasteDB = {
 				["left"] = 1157.00012207031,
 				["width"] = 500.000061035156,
 			},
+		},
+		["Wildrivers - Korgath"] = {
+			["loaded"] = true,
+		},
+		["Sassyrivers - Arthas"] = {
+			["loaded"] = true,
 		},
 		["Wildrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
@@ -158,16 +162,16 @@ PasteDB = {
 		["Blindrivers - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Brightrivers - Korgath"] = {
+		["Hulyon - Kel'Thuzad"] = {
 			["loaded"] = true,
 		},
-		["Hulyon - Kel'Thuzad"] = {
+		["Brightrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Emptyrivers - Arthas"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 			},
 		},
@@ -185,32 +189,28 @@ PasteDB = {
 				["width"] = 500.000061035156,
 			},
 		},
-		["Serenerivers - Bleeding Hollow"] = {
+		["Beefyrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-			},
 		},
 		["Greedyrivers - Arthas"] = {
-			["loaded"] = true,
-		},
-		["Savattellir - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Hiddenrivers - Korgath"] = {
 			["loaded"] = true,
 		},
+		["Savattellir - Arthas"] = {
+			["loaded"] = true,
+		},
 		["Edgyrivers - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Edgyrivers - Kel'Thuzad"] = {
+		["Blindrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Shachein - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Boringrivers - Bleeding Hollow"] = {
+		["Notariver - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Wildrivers - Arthas"] = {
@@ -220,19 +220,15 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Evilrivers - Kel'Thuzad"] = {
+		["Smaz - Mug'thol"] = {
+			["loaded"] = true,
+		},
+		["Beefyrivers - Arthas"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
 			["where"] = "Default",
 			["pos"] = {
-				["height"] = 320,
-				["top"] = 865.999877929688,
-				["left"] = 847.99951171875,
-				["width"] = 500.000061035156,
 			},
-		},
-		["Blindrivers - Korgath"] = {
-			["loaded"] = true,
 		},
 		["Evilrivers - Korgath"] = {
 			["loaded"] = true,
@@ -240,7 +236,7 @@ PasteDB = {
 		["Crazyrivers - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Notariver - Arthas"] = {
+		["Boringrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
 		},
 		["Emptyrivers - Sargeras"] = {
@@ -260,25 +256,6 @@ PasteDB = {
 		["Serenerivers - Sargeras"] = {
 			["loaded"] = true,
 		},
-		["Toofattohide - Kel'Thuzad"] = {
-			["loaded"] = true,
-		},
-		["Angryrivers - Korgath"] = {
-			["loaded"] = true,
-		},
-		["Mecharivers - Sargeras"] = {
-			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-			},
-		},
-		["Ragingrivers - Arthas"] = {
-			["loaded"] = true,
-		},
-		["Luckyrivers - Korgath"] = {
-			["loaded"] = true,
-		},
 		["Emptyrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
@@ -290,31 +267,54 @@ PasteDB = {
 				["width"] = 500.000061035156,
 			},
 		},
+		["Angryrivers - Korgath"] = {
+			["loaded"] = true,
+		},
+		["Mecharivers - Sargeras"] = {
+			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
+		},
+		["Luckyrivers - Korgath"] = {
+			["loaded"] = true,
+		},
+		["Ragingrivers - Arthas"] = {
+			["loaded"] = true,
+		},
+		["Toofattohide - Kel'Thuzad"] = {
+			["loaded"] = true,
+		},
 		["Serenerivers - Korgath"] = {
 			["whispertarget"] = "",
 			["where"] = "Default",
 			["loaded"] = true,
+			["pos"] = {
+			},
 			["minimap"] = {
 				["hide"] = true,
-			},
-			["pos"] = {
 			},
 		},
 		["Kdajshtlaiuw - Bleeding Hollow"] = {
 			["loaded"] = true,
 		},
-		["Smaz - Mug'thol"] = {
-			["loaded"] = true,
-		},
-		["Testes - Arthas"] = {
-			["loaded"] = true,
-		},
-		["Beefyrivers - Arthas"] = {
+		["Evilrivers - Kel'Thuzad"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
 			["where"] = "Default",
 			["pos"] = {
+				["height"] = 320,
+				["top"] = 865.999877929688,
+				["left"] = 847.99951171875,
+				["width"] = 500.000061035156,
 			},
+		},
+		["Testes - Arthas"] = {
+			["loaded"] = true,
+		},
+		["Edgyrivers - Kel'Thuzad"] = {
+			["loaded"] = true,
 		},
 		["Riversticks - Bleeding Hollow"] = {
 			["loaded"] = true,
@@ -330,8 +330,12 @@ PasteDB = {
 		["Magicrivers - Korgath"] = {
 			["loaded"] = true,
 		},
-		["Beefyrivers - Bleeding Hollow"] = {
+		["Serenerivers - Bleeding Hollow"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
 		["Tinyrivers - Sargeras"] = {
 			["loaded"] = true,
@@ -347,7 +351,7 @@ PasteDB = {
 		["Skankyrivers - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Dammedrivers - Exodar"] = {
+		["Testrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
 		},
 	},
