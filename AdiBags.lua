@@ -64,7 +64,7 @@ AdiBagsDB = {
 						[128353] = "Item Enhancement!#Utility",
 						[116416] = "Miscellaneous#Pet stuff",
 						[87214] = "Item Enhancement!#Utility",
-						[94207] = "Miscellaneous#Pet stuff",
+						[92683] = "Miscellaneous#Pet stuff",
 						[108439] = "Item Enhancement!#Archaeology",
 						[92680] = "Miscellaneous#Pet stuff",
 						[122298] = "Miscellaneous#garrison shit",
@@ -76,13 +76,13 @@ AdiBagsDB = {
 						[112059] = "Item Enhancement!#Utility",
 						[101529] = "Miscellaneous#Pet stuff",
 						[111821] = "Item Enhancement!#Utility",
-						[89906] = "Miscellaneous#Pet stuff",
+						[18986] = "Item Enhancement!#Utility",
 						[87216] = "Item Enhancement!#Utility",
 						[116417] = "Miscellaneous#Pet stuff",
 						[87215] = "Item Enhancement!#Utility",
 						[44820] = "Miscellaneous#Pet stuff",
 						[116418] = "Miscellaneous#Pet stuff",
-						[18986] = "Item Enhancement!#Utility",
+						[89906] = "Miscellaneous#Pet stuff",
 						[114806] = "Miscellaneous#garrison shit",
 						[127895] = "Miscellaneous#garrison shit",
 						[40768] = "Item Enhancement!#Utility",
@@ -102,7 +102,7 @@ AdiBagsDB = {
 						[43626] = "Miscellaneous#Pet stuff",
 						[125787] = "Miscellaneous#garrison shit",
 						[40586] = "Item Enhancement!#Utility",
-						[92683] = "Miscellaneous#Pet stuff",
+						[94207] = "Miscellaneous#Pet stuff",
 						[92682] = "Miscellaneous#Pet stuff",
 						[92681] = "Miscellaneous#Pet stuff",
 					},
@@ -114,11 +114,11 @@ AdiBagsDB = {
 				["Default"] = {
 					["splitBySubclass"] = {
 						["Recipe"] = true,
-						["Tradeskill"] = true,
-						["Gem"] = true,
 						["Consumable"] = true,
-						["Glyph"] = true,
 						["Item Enhancement!"] = true,
+						["Tradeskill"] = true,
+						["Glyph"] = true,
+						["Gem"] = true,
 						["Trade Goods"] = false,
 						["Miscellaneous"] = true,
 					},
@@ -135,6 +135,8 @@ AdiBagsDB = {
 		["AdiBags_TooltipInfo"] = {
 		},
 		["Equipment"] = {
+		},
+		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -153,11 +155,11 @@ AdiBagsDB = {
 						["Seal of Broken Fate"] = false,
 						["Seal of Tempered Fate"] = false,
 						["Elder Charm of Good Fortune"] = false,
-						["Wakening Essence"] = false,
+						["Timeless Coin"] = false,
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
-						["Timeless Coin"] = false,
 						["Conquest Points"] = false,
+						["Wakening Essence"] = false,
 						["Essence of Corrupted Deathwing"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
@@ -171,8 +173,6 @@ AdiBagsDB = {
 			},
 		},
 		["DataSource"] = {
-		},
-		["ItemSets"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {

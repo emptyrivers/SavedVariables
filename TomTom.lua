@@ -50,7 +50,7 @@ TomTomDB = {
 		["Evilrivers - Korgath"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
 		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
@@ -65,7 +65,7 @@ TomTomDB = {
 		["Crazyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Luckyrivers - Korgath"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -88,8 +88,10 @@ TomTomWaypointsM = {
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Canerena - Arthas"] = "Canerena - Arthas",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 	},
 	["profiles"] = {
 		["Ragingrivers - Arthas"] = {
@@ -98,9 +100,13 @@ TomTomWaypointsM = {
 		},
 		["Emptyrivers - Arthas"] = {
 		},
+		["Emptyrivers - Bleeding Hollow"] = {
+		},
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Canerena - Arthas"] = {
+		},
+		["Beefyrivers - Arthas"] = {
 		},
 	},
 }

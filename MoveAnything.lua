@@ -18,7 +18,7 @@ MADB = {
 						0, -- [5]
 					},
 					["name"] = "ExtraActionBarFrame",
-					["orgScale"] = 1,
+					["orgScale"] = 0.400000005960465,
 					["scale"] = 0.904552780234651,
 					["orgAlpha"] = 1,
 					["alpha"] = 0.488420963287354,

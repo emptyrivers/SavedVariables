@@ -6,12 +6,6 @@ MacroToolkitDB = {
 			},
 		},
 	},
-	["global"] = {
-		["backups"] = {
-		},
-		["ebackups"] = {
-		},
-	},
 	["profileKeys"] = {
 		["Emptyrivers - Sargeras"] = "profile",
 		["Emptyrivers - Bleeding Hollow"] = "profile",
@@ -19,10 +13,16 @@ MacroToolkitDB = {
 		["Kdajshtlaiuw - Bleeding Hollow"] = "profile",
 		["Riversticks - Bleeding Hollow"] = "profile",
 		["Emptyrivers - Arthas"] = "profile",
-		["Crazyrivers - Bleeding Hollow"] = "profile",
+		["Boringrivers - Bleeding Hollow"] = "profile",
 		["Luckyrivers - Sargeras"] = "profile",
 		["Serenerivers - Bleeding Hollow"] = "profile",
-		["Boringrivers - Bleeding Hollow"] = "profile",
+		["Crazyrivers - Bleeding Hollow"] = "profile",
+	},
+	["global"] = {
+		["ebackups"] = {
+		},
+		["backups"] = {
+		},
 	},
 	["profiles"] = {
 		["profile"] = {

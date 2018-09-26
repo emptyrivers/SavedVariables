@@ -6,20 +6,26 @@ TalentMacrosDB = {
 	},
 	["profileKeys"] = {
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Canerena - Arthas"] = "Canerena - Arthas",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 	},
 	["profiles"] = {
 		["Ragingrivers - Arthas"] = {
+		},
+		["Emptyrivers - Arthas"] = {
+			["disablepush"] = true,
+			["advanced"] = false,
+		},
+		["Emptyrivers - Bleeding Hollow"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Canerena - Arthas"] = {
 		},
-		["Emptyrivers - Arthas"] = {
-			["disablepush"] = true,
-			["advanced"] = false,
+		["Beefyrivers - Arthas"] = {
 		},
 	},
 }
