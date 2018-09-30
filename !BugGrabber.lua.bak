@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 3780,
 	["lastSanitation"] = 3,
-	["session"] = 3769,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\Types.lua:5: Cannot find a library instance of \"LibBabble-Race-3.0\".",
@@ -21,8 +21,8 @@ BugGrabberDB = {
 		}, -- [2]
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\embeds.xml(21): error: mismatched tag",
-			["time"] = "2018/09/24 20:43:16",
 			["session"] = 3755,
+			["time"] = "2018/09/24 20:43:16",
 			["counter"] = 3,
 		}, -- [3]
 		{
@@ -43,14 +43,14 @@ BugGrabberDB = {
 		}, -- [5]
 		{
 			["message"] = "Error loading Interface\\AddOns\\WeakAuras\\Libs\\LibDeflate\\LibDeflate.lua",
-			["time"] = "2018/09/25 15:08:01",
 			["session"] = 3769,
+			["time"] = "2018/09/25 15:08:01",
 			["counter"] = 4,
 		}, -- [6]
 		{
 			["message"] = "(null)",
-			["time"] = "2018/09/24 20:43:16",
 			["session"] = 3769,
+			["time"] = "2018/09/24 20:43:16",
 			["counter"] = 8,
 		}, -- [7]
 		{
@@ -61,5 +61,44 @@ BugGrabberDB = {
 			["session"] = 3769,
 			["counter"] = 1,
 		}, -- [8]
+		{
+			["message"] = "...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:28: Usage: <unnamed>:SetSize(width, height)",
+			["time"] = "2018/09/26 13:04:29",
+			["locals"] = "(*temporary) = <unnamed> {\n 0 = <userdata>\n}\n(*temporary) = 16\n",
+			["stack"] = "[C]: in function `SetSize'\n...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:28: in function `create'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2794: in function `SetRegion'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2680: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2668>\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2756: in function `Add'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2558: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2537>\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2550: in function `load'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2564: in function `AddMany'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:1192: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1161>",
+			["session"] = 3772,
+			["counter"] = 1,
+		}, -- [9]
+		{
+			["message"] = "...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:410: attempt to index field 'trays' (a nil value)",
+			["time"] = "2018/09/26 13:05:00",
+			["locals"] = "self = <unnamed> {\n SoundRepeatStop = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:122\n GetYOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:259\n SetAnimAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:285\n xOffset = 0\n Expand = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:586\n yOffset = 350\n anchorPoint = \"CENTER\"\n DoControlChildren = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:686\n GetXOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:255\n SetYOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:251\n SetOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:238\n PositionActiveRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:246\n SetAnchor = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:216\n SetRegionAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:272\n AddControlledRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:158\n toShow = true\n Suspend = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:658\n SetOffsetAnim = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:263\n Collapse = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:583\n Resume = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:662\n Scale = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:791\n previousHeight = 1\n EnsureControlledRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:255\n cloneId = \"\"\n xOffsetAnim = 0\n yOffsetAnim = 0\n regionType = \"dynamicgroup\"\n inverse = false\n GetRegionAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:281\n relativePoint = \"CENTER\"\n PositionChildren = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:511\n SoundStop = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:131\n SoundPlay = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:170\n DoResize = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:428\n EnsureTrays = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:407\n relativeTo = WeakAurasFrame {\n }\n previousWidth = 1\n SortControlledRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:197\n id = \"alerts\"\n ResetPosition = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:210\n RemoveControlledRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:183\n ReloadControlledRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:128\n SetXOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:247\n 0 = <userdata>\n controlledRegions = <table> {\n }\n background = <unnamed> {\n }\n ControlChildren = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:673\n activeRegions = <table> {\n }\n SendChat = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:185\n RunCode = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:192\n}\n(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n 1 = <table> {\n }\n}\n(for control) = 1\nindex = 1\nregionData = <table> {\n key = \"table: 0000022D99641860\"\n region = <unnamed> {\n }\n id = \"Time To Repair!\"\n data = <table> {\n }\n dataIndex = 1\n}\n(*temporary) = nil\n(*temporary) = \"table: 0000022D99641860\"\n(*temporary) = <table> {\n key = \"table: 0000022D99641860\"\n region = <unnamed> {\n }\n id = \"Time To Repair!\"\n data = <table> {\n }\n dataIndex = 1\n}\n(*temporary) = <table> {\n outline = \"OUTLINE\"\n text2Point = \"CENTER\"\n text1FontSize",
+			["stack"] = "...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:410: in function `EnsureTrays'\n...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:512: in function `PositionChildren'\n...ace\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:499: in function `AddExpandFunction'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2823: in function `SetRegion'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2735: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2668>\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2756: in function `Add'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2558: in function `load'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2564: in function `AddMany'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:1192: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1161>",
+			["session"] = 3773,
+			["counter"] = 1,
+		}, -- [10]
+		{
+			["message"] = "...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:276: bad argument #2 to 'min' (number expected, got table)",
+			["time"] = "2018/09/29 00:43:24",
+			["locals"] = "(*temporary) = inf\n(*temporary) = <table> {\n}\n(*temporary) = \"number expected, got table\"\n",
+			["stack"] = "[C]: in function `min'\n...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:276: in function `growFunc'\n...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:632: in function `PositionActiveRegions'\n...erface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:833: in function `modify'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2820: in function `SetRegion'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2680: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:2668>\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2756: in function `Add'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2558: in function `load'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:2564: in function `AddMany'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:1192: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:1161>",
+			["session"] = 3775,
+			["counter"] = 1,
+		}, -- [11]
+		{
+			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:1249: attempt to call method 'Collapse' (a nil value)",
+			["time"] = "2018/09/29 00:43:31",
+			["locals"] = "(for generator) = <function> defined =[C]:-1\n(for state) = <table> {\n DG = <table> {\n }\n}\n(for control) = \"DG\"\nid = \"DG\"\nregion = <table> {\n regionType = \"dynamicgroup\"\n region = <unnamed> {\n }\n}\n(*temporary) = nil\n(*temporary) = <unnamed> {\n 0 = <userdata>\n GetYOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:259\n SetAnimAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:285\n growFunc = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:275\n xOffset = 0\n yOffset = 0\n updatedRegions = <table> {\n }\n DoControlChildren = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:720\n GetXOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:255\n background = <unnamed> {\n }\n SetOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:238\n PositionActiveRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:630\n SetAnchor = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:216\n sortFunc = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:147\n SendChat = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:185\n AddControlledRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:514\n toShow = true\n Suspend = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:440\n SetOffsetAnim = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:263\n Resume = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:444\n cloneId = \"\"\n xOffsetAnim = 0\n yOffsetAnim = 0\n regionType = \"dynamicgroup\"\n GetRegionAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:281\n relativePoint = \"CENTER\"\n inverse = false\n SoundStop = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:131\n SoundPlay = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:170\n SortUpdatedRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:602\n DeactivateRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:583\n relativeTo = WeakAurasFrame {\n }\n ActivateRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:556\n RemoveControlledRegion = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:542\n id = \"DG\"\n ResetPosition = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:210\n ReloadControlledRegions = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:455\n anchorPoint = \"TOP\"\n SetXOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:247\n SoundRepeatStop = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:122\n controlledRegions = <table> {\n }\n SetYOffset = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:251\n ControlChildren = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\DynamicGroup.lua:707\n activeRegions = <table> {\n }\n SetRegionAlpha = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:272\n RunCode = <function> defined @Interface\\AddOns\\WeakAuras\\RegionTypes\\RegionPrototype.lua:192\n}\n(*temporary) = \"attempt to call method 'Collapse' (a nil value)\"\npaused = true\nregions = <table> {\n DG = <table> {\n }\n}\nclones = <table> {\n}\n",
+			["stack"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:1249: in function `Pause'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1297: in function `ShowOptions'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1272: in function `ToggleOptions'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:70: in function `OpenOptions'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:88: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4734: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4396: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4432: in function <Interface\\FrameXML\\ChatFrame.lua:4428>\n[C]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 3775,
+			["counter"] = 1,
+		}, -- [12]
+		{
+			["message"] = "[string \"--[[ Error in 'q' ]] return function(_, uni...\"]:2: attempt to call global 'UnitisUnit' (a nil value)",
+			["time"] = "2018/09/29 00:45:07",
+			["stack"] = "[C]: in function `xpcall'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:548: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:513>\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:639: in function `ScanEventsInternal'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:626: in function `ScanEvents'\nInterface\\AddOns\\WeakAuras\\GenericTrigger.lua:686: in function <Interface\\AddOns\\WeakAuras\\GenericTrigger.lua:677>",
+			["session"] = 3776,
+			["counter"] = 1,
+		}, -- [13]
 	},
 }

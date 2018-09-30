@@ -6,10 +6,11 @@ Details_StreamerDB = {
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Sargeras",
 		["Canerena - Arthas"] = "Emptyrivers - Sargeras",
 		["Beefyrivers - Arthas"] = "Emptyrivers - Sargeras",
+		["Daedrasminia - Arthas"] = "Emptyrivers - Sargeras",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Sargeras",
 		["Luckyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-		["Blindrivers - Arthas"] = "Emptyrivers - Sargeras",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Blindrivers - Arthas"] = "Emptyrivers - Sargeras",
 	},
 	["profiles"] = {
 		["Emptyrivers - Sargeras"] = {
@@ -37,9 +38,9 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Vidro",
-			["arrow_anchor_y"] = 0,
-			["main_frame_locked"] = true,
-			["main_frame_strata"] = "BACKGROUND",
+			["scale"] = 1,
+			["point"] = "LEFT",
+			["y"] = 66.4558715820313,
 			["enabled"] = false,
 			["arrow_size"] = 10,
 			["author"] = "Details! Team",
@@ -50,17 +51,9 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.200000047683716, -- [4]
 			},
-			["row_color"] = {
-				0.101960784313725, -- [1]
-				0.101960784313725, -- [2]
-				0.101960784313725, -- [3]
-				0.160000026226044, -- [4]
-			},
+			["main_frame_strata"] = "BACKGROUND",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
-			["font_size"] = 10,
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
+			["row_height"] = 20,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "TOP",
@@ -68,14 +61,22 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = -41.8552565847785,
 				["x"] = -9.48024726720178,
-				["attribute_type"] = 1,
 				["update_speed"] = 0.05,
 				["size"] = 32,
+				["attribute_type"] = 1,
 			},
-			["y"] = 66.4558715820313,
-			["point"] = "LEFT",
-			["row_height"] = 20,
-			["scale"] = 1,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["row_color"] = {
+				0.101960784313725, -- [1]
+				0.101960784313725, -- [2]
+				0.101960784313725, -- [3]
+				0.160000026226044, -- [4]
+			},
+			["arrow_anchor_y"] = 0,
+			["use_spark"] = true,
+			["main_frame_locked"] = true,
+			["font_size"] = 10,
 		},
 	},
 }
