@@ -1,2 +1,0 @@
-
-BRMTOOL = nil

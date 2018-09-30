@@ -1,2 +1,0 @@
-
-ChefsHat_Option = "normal"

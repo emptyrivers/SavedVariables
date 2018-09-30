@@ -1,2 +1,0 @@
-
-FoglightMode = 1
