@@ -17,10 +17,10 @@ MADB = {
 						0, -- [4]
 						0, -- [5]
 					},
-					["orgAlpha"] = 1,
-					["orgScale"] = 1,
-					["scale"] = 0.904552780234651,
 					["name"] = "ExtraActionBarFrame",
+					["orgScale"] = 0.400000005960465,
+					["scale"] = 0.904552780234651,
+					["orgAlpha"] = 1,
 					["alpha"] = 0.488420963287354,
 					["pos"] = {
 						"CENTER", -- [1]
@@ -33,8 +33,8 @@ MADB = {
 			},
 		},
 	},
-	["tooltips"] = true,
-	["noBags"] = false,
-	["playSound"] = false,
 	["closeGUIOnEscape"] = false,
+	["playSound"] = false,
+	["noBags"] = false,
+	["tooltips"] = true,
 }

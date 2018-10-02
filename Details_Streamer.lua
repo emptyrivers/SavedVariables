@@ -9,8 +9,8 @@ Details_StreamerDB = {
 		["Daedrasminia - Arthas"] = "Emptyrivers - Sargeras",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Sargeras",
 		["Luckyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Blindrivers - Arthas"] = "Emptyrivers - Sargeras",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 	},
 	["profiles"] = {
 		["Emptyrivers - Sargeras"] = {
@@ -38,22 +38,11 @@ Details_StreamerDB = {
 			},
 			["arrow_anchor_x"] = 0,
 			["row_texture"] = "Details Vidro",
-			["scale"] = 1,
-			["point"] = "LEFT",
-			["y"] = 66.4558715820313,
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = true,
+			["author"] = "Details! Team",
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["author"] = "Details! Team",
-			["row_spacement"] = 21,
-			["main_frame_color"] = {
-				0, -- [1]
-				0, -- [2]
-				0, -- [3]
-				0.200000047683716, -- [4]
-			},
-			["main_frame_strata"] = "BACKGROUND",
-			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["row_height"] = 20,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "TOP",
@@ -61,22 +50,33 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = -41.8552565847785,
 				["x"] = -9.48024726720178,
+				["attribute_type"] = 1,
 				["update_speed"] = 0.05,
 				["size"] = 32,
-				["attribute_type"] = 1,
 			},
-			["x"] = 0,
-			["font_face"] = "Friz Quadrata TT",
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.200000047683716, -- [4]
+			},
 			["row_color"] = {
 				0.101960784313725, -- [1]
 				0.101960784313725, -- [2]
 				0.101960784313725, -- [3]
 				0.160000026226044, -- [4]
 			},
-			["arrow_anchor_y"] = 0,
-			["use_spark"] = true,
-			["main_frame_locked"] = true,
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["font_size"] = 10,
+			["use_spark"] = true,
+			["x"] = 0,
+			["font_face"] = "Friz Quadrata TT",
+			["y"] = 66.4558715820313,
+			["main_frame_strata"] = "BACKGROUND",
+			["point"] = "LEFT",
+			["row_height"] = 20,
+			["scale"] = 1,
 		},
 	},
 }

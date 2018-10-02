@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 3782,
 	["lastSanitation"] = 3,
-	["session"] = 3781,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\AdiBags\\widgets\\ContainerFrame.lua:997: AdiBagsSection4:SetPoint(): AdiBagsSection3 is dependent on this",
