@@ -136,6 +136,8 @@ AdiBagsDB = {
 		},
 		["Equipment"] = {
 		},
+		["DataSource"] = {
+		},
 		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
@@ -155,11 +157,11 @@ AdiBagsDB = {
 						["Seal of Broken Fate"] = false,
 						["Seal of Tempered Fate"] = false,
 						["Elder Charm of Good Fortune"] = false,
-						["Timeless Coin"] = false,
+						["Conquest Points"] = false,
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
-						["Conquest Points"] = false,
 						["Wakening Essence"] = false,
+						["Timeless Coin"] = false,
 						["Essence of Corrupted Deathwing"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
@@ -171,8 +173,6 @@ AdiBagsDB = {
 					},
 				},
 			},
-		},
-		["DataSource"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {

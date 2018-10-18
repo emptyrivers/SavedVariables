@@ -117,8 +117,8 @@ AdiBagsDB = {
 						["Consumable"] = true,
 						["Item Enhancement!"] = true,
 						["Tradeskill"] = true,
-						["Gem"] = true,
 						["Trade Goods"] = false,
+						["Gem"] = true,
 						["Glyph"] = true,
 						["Miscellaneous"] = true,
 					},
@@ -135,10 +135,6 @@ AdiBagsDB = {
 		["AdiBags_TooltipInfo"] = {
 		},
 		["MoneyFrame"] = {
-		},
-		["DataSource"] = {
-		},
-		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -161,18 +157,22 @@ AdiBagsDB = {
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
 						["Garrison Resources"] = false,
-						["Wakening Essence"] = false,
+						["Timeless Coin"] = false,
 						["Essence of Corrupted Deathwing"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
+						["Wakening Essence"] = false,
 						["Conquest Points"] = false,
-						["Timeless Coin"] = false,
 						["Elder Charm of Good Fortune"] = false,
 						["Champion's Seal"] = false,
 						["Seal of Broken Fate"] = false,
 					},
 				},
 			},
+		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {

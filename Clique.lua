@@ -22,10 +22,10 @@ CliqueDB3 = {
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Feralrivers - Sargeras"] = "Feralrivers - Sargeras",
 		["Mindrivers - Korgath"] = "Mindrivers - Korgath",
-		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
 		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
@@ -39,7 +39,7 @@ CliqueDB3 = {
 		["Evilrivers - Sargeras"] = "Evilrivers - Sargeras",
 		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Canerena - Arthas"] = "Canerena - Arthas",
 	},
 	["profiles"] = {
@@ -176,25 +176,6 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Crazyrivers - Arthas"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
 		["Serenerivers - Sargeras"] = {
 			["bindings"] = {
 				{
@@ -234,6 +215,25 @@ CliqueDB3 = {
 			},
 		},
 		["Blindrivers - Sargeras"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Ragingrivers - Arthas"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -499,13 +499,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Ragingrivers - Arthas"] = {
+		["Crazyrivers - Arthas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
