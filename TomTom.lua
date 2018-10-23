@@ -50,23 +50,23 @@ TomTomDB = {
 		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
-		["Blindrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Savattellir - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Notariver - Arthas"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Savattellir - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Blindrivers - Arthas"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -88,19 +88,19 @@ TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
-		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Canerena - Arthas"] = "Canerena - Arthas",
-		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 	},
 	["profiles"] = {
 		["Ragingrivers - Arthas"] = {
 		},
 		["Savattellir - Arthas"] = {
 		},
-		["Beefyrivers - Arthas"] = {
+		["Daedrasminia - Arthas"] = {
 		},
 		["Emptyrivers - Arthas"] = {
 		},
@@ -110,7 +110,7 @@ TomTomWaypointsM = {
 		},
 		["Canerena - Arthas"] = {
 		},
-		["Daedrasminia - Arthas"] = {
+		["Beefyrivers - Arthas"] = {
 		},
 	},
 }
