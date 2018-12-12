@@ -1,3 +1,2 @@
 
-oUF_NS = {
-}
+oUF_NS = nil
