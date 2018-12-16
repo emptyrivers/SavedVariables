@@ -11,6 +11,7 @@ TomTomDB = {
 		["Crazyrivers - Bleeding Hollow"] = "Default",
 		["Wildrivers - Bleeding Hollow"] = "Default",
 		["Deadrivers - Korgath"] = "Default",
+		["Testrivers - Arthas"] = "Default",
 		["Luckyrivers - Sargeras"] = "Default",
 		["Caladiir - Kel'Thuzad"] = "Default",
 		["Shachein - Arthas"] = "Default",
@@ -51,23 +52,23 @@ TomTomDB = {
 		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Blindrivers - Arthas"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Savattellir - Arthas"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
-		["Notariver - Arthas"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Notariver - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Savattellir - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Blindrivers - Arthas"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -96,6 +97,7 @@ TomTomWaypointsM = {
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
 	},
 	["profiles"] = {
 		["Ragingrivers - Arthas"] = {
@@ -115,6 +117,8 @@ TomTomWaypointsM = {
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Ailisuul - Arthas"] = {
+		},
+		["Testrivers - Arthas"] = {
 		},
 	},
 }

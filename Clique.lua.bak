@@ -5,13 +5,22 @@ CliqueDB3 = {
 		["Beefyrivers - Arthas"] = {
 			["alerthidden"] = true,
 		},
+		["Ailisuul - Arthas"] = {
+			["spec1_profileKey"] = "Ailisuul - Arthas",
+			["fastooc"] = false,
+			["spec2_profileKey"] = "Ailisuul - Arthas",
+			["downclick"] = false,
+			["spec4_profileKey"] = "Ailisuul - Arthas",
+			["spec3_profileKey"] = "Ailisuul - Arthas",
+			["specswap"] = false,
+		},
 		["Emptyrivers - Arthas"] = {
 			["spec1_profileKey"] = "Emptyrivers - Arthas",
 			["spec3_profileKey"] = "Emptyrivers - Arthas",
 			["downclick"] = false,
 			["fastooc"] = false,
-			["specswap"] = false,
 			["spec2_profileKey"] = "Emptyrivers - Arthas",
+			["specswap"] = false,
 		},
 	},
 	["profileKeys"] = {
@@ -21,36 +30,37 @@ CliqueDB3 = {
 		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Feralrivers - Sargeras"] = "Feralrivers - Sargeras",
+		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Mindrivers - Korgath"] = "Mindrivers - Korgath",
-		["Canerena - Arthas"] = "Canerena - Arthas",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
-		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
-		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
-		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
-		["Evilrivers - Sargeras"] = "Evilrivers - Sargeras",
-		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
-		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
-		["Testes - Arthas"] = "Testes - Arthas",
-		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
-		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
-		["Crazyrivers - Bleeding Hollow"] = "Crazyrivers - Bleeding Hollow",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
+		["Crazyrivers - Bleeding Hollow"] = "Crazyrivers - Bleeding Hollow",
+		["Testes - Arthas"] = "Testes - Arthas",
+		["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
+		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Evilrivers - Sargeras"] = "Evilrivers - Sargeras",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
+		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
+		["Canerena - Arthas"] = "Canerena - Arthas",
 	},
 	["profiles"] = {
 		["Savattellir - Arthas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -66,10 +76,10 @@ CliqueDB3 = {
 		["Edgyrivers - Arthas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -85,10 +95,10 @@ CliqueDB3 = {
 		["Shachein - Arthas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -104,10 +114,10 @@ CliqueDB3 = {
 		["Wildrivers - Arthas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -123,10 +133,10 @@ CliqueDB3 = {
 		["Beefyrivers - Arthas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -140,6 +150,25 @@ CliqueDB3 = {
 			},
 		},
 		["Feralrivers - Sargeras"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Ailisuul - Arthas"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -161,10 +190,10 @@ CliqueDB3 = {
 		["Mindrivers - Korgath"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -177,7 +206,45 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Canerena - Arthas"] = {
+		["Dammedrivers - Exodar"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Tinyrivers - Sargeras"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Serenerivers - Sargeras"] = {
 			["bindings"] = {
 				{
 					["sets"] = {
@@ -199,48 +266,10 @@ CliqueDB3 = {
 		["Ragingrivers - Arthas"] = {
 			["bindings"] = {
 				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Dammedrivers - Exodar"] = {
-			["bindings"] = {
-				{
 					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Luckyrivers - Sargeras"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -256,10 +285,10 @@ CliqueDB3 = {
 		["Blindrivers - Sargeras"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -272,32 +301,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Serenerivers - Bleeding Hollow"] = {
+		["Emptyrivers - Arthas"] = {
 			["bindings"] = {
 				{
-					["sets"] = {
-						["default"] = true,
-					},
 					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
 					["sets"] = {
 						["default"] = true,
 					},
-				}, -- [2]
-			},
-		},
-		["Evilrivers - Sargeras"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -313,10 +323,10 @@ CliqueDB3 = {
 		["Beefyrivers - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -332,10 +342,29 @@ CliqueDB3 = {
 		["Emptyrivers - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Crazyrivers - Bleeding Hollow"] = {
+			["bindings"] = {
+				{
 					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -349,44 +378,6 @@ CliqueDB3 = {
 			},
 		},
 		["Testes - Arthas"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Blindrivers - Arthas"] = {
-			["bindings"] = {
-				{
-					["sets"] = {
-						["default"] = true,
-					},
-					["type"] = "target",
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Evilrivers - Kel'Thuzad"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -408,6 +399,44 @@ CliqueDB3 = {
 		["Greedyrivers - Arthas"] = {
 			["bindings"] = {
 				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Evilrivers - Kel'Thuzad"] = {
+			["bindings"] = {
+				{
+					["sets"] = {
+						["default"] = true,
+					},
+					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Blindrivers - Arthas"] = {
+			["bindings"] = {
+				{
 					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
@@ -427,10 +456,10 @@ CliqueDB3 = {
 		["Daedrasminia - Arthas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -443,13 +472,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Crazyrivers - Bleeding Hollow"] = {
+		["Evilrivers - Sargeras"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -462,13 +491,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Emptyrivers - Arthas"] = {
+		["Testrivers - Arthas"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -484,10 +513,10 @@ CliqueDB3 = {
 		["Crazyrivers - Arthas"] = {
 			["bindings"] = {
 				{
-					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
+					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -500,7 +529,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Tinyrivers - Sargeras"] = {
+		["Luckyrivers - Sargeras"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -519,7 +548,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Serenerivers - Sargeras"] = {
+		["Serenerivers - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -538,7 +567,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Ailisuul - Arthas"] = {
+		["Canerena - Arthas"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
