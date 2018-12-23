@@ -1,6 +1,7 @@
 
 _detalhes_global = {
 	["npcid_pool"] = {
+		[103822] = "Treant",
 		[117251] = "Hellfire Infernal",
 		[119640] = "Felwing Terror",
 		[117286] = "Felwing Terror",
@@ -8,12 +9,14 @@ _detalhes_global = {
 		[108145] = "Bluewax Drumtaker",
 		[1860] = "Grimkath",
 		[78116] = "Water Elemental",
+		[5286] = "Takoda",
 		[6499] = "Devilsaur",
 		[117250] = "Infernal Crusher",
 		[54318] = "Spirit Beast",
 		[110496] = "Coldwater Goldscale",
 		[94688] = "Diseased Grub",
 		[102347] = "Bitestone Fishbrul",
+		[107680] = "Frightened Mountainstrider",
 		[106810] = "Quantum Devourer",
 		[1196] = "Killer",
 		[117421] = "Brutal Punisher",
@@ -641,7 +644,11 @@ _detalhes_global = {
 					["switch_damager"] = false,
 					["micro_displays_side"] = 2,
 					["strata"] = "LOW",
-					["window_scale"] = 1,
+					["row_show_animation"] = {
+						["anim"] = "Fade",
+						["options"] = {
+						},
+					},
 					["__snap"] = {
 					},
 					["ignore_mass_showhide"] = false,
@@ -667,11 +674,7 @@ _detalhes_global = {
 						},
 					},
 					["switch_damager_in_combat"] = false,
-					["row_show_animation"] = {
-						["anim"] = "Fade",
-						["options"] = {
-						},
-					},
+					["__snapV"] = false,
 					["hide_icon"] = true,
 					["auto_hide_menu"] = {
 						["left"] = false,
@@ -684,15 +687,15 @@ _detalhes_global = {
 						["scale"] = 1,
 					},
 					["grab_on_top"] = false,
+					["window_scale"] = 1,
 					["menu_anchor_down"] = {
 						16, -- [1]
 						-3, -- [2]
 					},
-					["bars_grow_direction"] = 1,
 					["auto_current"] = true,
 					["toolbar_side"] = 1,
 					["bg_g"] = 0.0941176470588235,
-					["__snapV"] = false,
+					["bars_grow_direction"] = 1,
 					["hide_in_combat"] = false,
 					["posicao"] = {
 						["normal"] = {
@@ -2829,7 +2832,7 @@ _detalhes_global = {
 	},
 	["tutorial"] = {
 		["unlock_button"] = 0,
-		["main_help_button"] = 248,
+		["main_help_button"] = 320,
 		["FULL_DELETE_WINDOW"] = true,
 		["alert_frames"] = {
 			false, -- [1]
@@ -2839,7 +2842,7 @@ _detalhes_global = {
 			false, -- [5]
 			false, -- [6]
 		},
-		["logons"] = 248,
+		["logons"] = 320,
 		["version_announce"] = 0,
 		["ctrl_click_close_tutorial"] = false,
 		["bookmark_tutorial"] = false,

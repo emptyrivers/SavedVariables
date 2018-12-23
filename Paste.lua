@@ -43,14 +43,14 @@ PasteDB = {
 		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
 		["Toofattohide - Kel'Thuzad"] = "Toofattohide - Kel'Thuzad",
 		["Notariver - Arthas"] = "Notariver - Arthas",
-		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
+		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Tinyrivers - Arthas"] = "Tinyrivers - Arthas",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
-		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
+		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Serenerivers - Korgath"] = "Serenerivers - Korgath",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "Kdajshtlaiuw - Bleeding Hollow",
@@ -262,7 +262,7 @@ PasteDB = {
 		["Notariver - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Angryrivers - Korgath"] = {
+		["Crazyrivers - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Tinyrivers - Arthas"] = {
@@ -271,10 +271,10 @@ PasteDB = {
 		["Serenerivers - Sargeras"] = {
 			["loaded"] = true,
 		},
-		["Crazyrivers - Arthas"] = {
+		["Luckyrivers - Korgath"] = {
 			["loaded"] = true,
 		},
-		["Luckyrivers - Korgath"] = {
+		["Ragingrivers - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Mecharivers - Sargeras"] = {
@@ -283,6 +283,9 @@ PasteDB = {
 			["where"] = "Default",
 			["pos"] = {
 			},
+		},
+		["Angryrivers - Korgath"] = {
+			["loaded"] = true,
 		},
 		["Emptyrivers - Sargeras"] = {
 			["loaded"] = true,
@@ -294,9 +297,6 @@ PasteDB = {
 				["left"] = 631.000061035156,
 				["width"] = 500.000030517578,
 			},
-		},
-		["Ragingrivers - Arthas"] = {
-			["loaded"] = true,
 		},
 		["Emptyrivers - Bleeding Hollow"] = {
 			["loaded"] = true,

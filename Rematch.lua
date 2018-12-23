@@ -3972,6 +3972,7 @@ RematchSettings = {
 	["Minimized"] = true,
 	["ShowLevelingSlot"] = true,
 	["AllowHiddenPetsDefaulted"] = true,
+	["ClickPetCard"] = false,
 	["HiddenPets"] = {
 		[331] = true,
 	},
@@ -4010,9 +4011,8 @@ RematchSettings = {
 			}, -- [2]
 		}, -- [1]
 	},
-	["DontIncludePreferences"] = false,
 	["PreferredMode"] = 1,
-	["NotesLeft"] = 1549.99975585938,
+	["DontIncludePreferences"] = false,
 	["Sanctuary"] = {
 		["BattlePet-0-00000E0BBE89"] = {
 			1, -- [1]
@@ -8942,12 +8942,11 @@ RematchSettings = {
 		},
 	},
 	["NotifiedExperimental"] = true,
+	["NotesLeft"] = 1549.99975585938,
 	["ConflictOverwrite"] = true,
-	["SlimListButtons"] = true,
 	["FixedPetCard"] = true,
 	["YPos"] = 240.011215209961,
 	["LowerStrata"] = true,
-	["loadedTeam"] = 141879,
 	["ScriptFilters"] = {
 		{
 			"Unnamed Pets", -- [1]
@@ -8974,7 +8973,8 @@ RematchSettings = {
 			"-- Lvl 25 pets that need an upgrade to rare.\nlocal rarity\nif petID then\n rarity = select(5,C_PetJournal.GetPetStats(petID))\nend\nreturn level == 25 and (rarity or 0) ~= 4", -- [2]
 		}, -- [6]
 	},
-	["QueueSortOrder"] = 1,
+	["PetCardYPos"] = 720.75,
+	["loadedTeam"] = 141879,
 	["CollapsedOptHeaders"] = {
 		true, -- [1]
 		true, -- [2]
@@ -8988,8 +8988,8 @@ RematchSettings = {
 		true, -- [10]
 	},
 	["CollectionChartType"] = 3,
+	["QueueSortOrder"] = 1,
 	["SelectedTab"] = 5,
-	["QueueDoubleClick"] = true,
 	["DontIncludeNotes"] = true,
 	["MiniMinimized"] = true,
 	["DontWarnMissing"] = false,
@@ -9051,17 +9051,17 @@ RematchSettings = {
 	["StayForBattle"] = false,
 	["OverwriteNotes"] = true,
 	["NotesBottom"] = 0,
+	["QueueDoubleClick"] = true,
+	["NotesNoESC"] = true,
 	["SpecialSlots"] = {
 		[2] = 0,
 	},
-	["NotesNoESC"] = true,
-	["PetCardYPos"] = 720.75,
 	["QueueSkipDead"] = true,
 	["LockNotesPosition"] = true,
-	["UseMiniQueue"] = true,
+	["SlimListButtons"] = true,
 	["QueueNoPreferences"] = false,
+	["UseMiniQueue"] = true,
 	["LockWindow"] = true,
-	["ClickPetCard"] = false,
 	["minimapButtonPosition"] = 179.419279382929,
 	["ShowAbilityNumbers"] = true,
 	["ReverseToolbar"] = false,
