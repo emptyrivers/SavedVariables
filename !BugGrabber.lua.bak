@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 580,
 	["lastSanitation"] = 3,
-	["session"] = 579,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\Profiling.lua:141: attempt to call field 'ramdom' (a nil value)",
@@ -121,5 +121,12 @@ BugGrabberDB = {
 			["session"] = 579,
 			["counter"] = 2,
 		}, -- [16]
+		{
+			["message"] = "integer overflow attempting to store 282559269083",
+			["time"] = "2019/01/19 15:47:34",
+			["stack"] = "[C]: in function `GetSpellInfo'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2203: in function `GetNameAndIconSimple'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2217: in function <Interface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2216>\n(tail call): ?\n(tail call): ?\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1645: in function `SetIconName'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1635: in function `SetIconNames'\nInterface\\AddOns\\WeakAurasOptions\\BuffTrigger2.lua:795: in function <Interface\\AddOns\\WeakAurasOptions\\BuffTrigger2.lua:786>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\nInterface\\AddOns\\Ace3\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <Interface\\AddOns\\Ace3\\AceGUI-3.0\\AceGUI-3.0.lua:69>\nInterface\\AddOns\\Ace3\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...Ons\\Ace3\\AceGUI-3.0-36\\widgets\\AceGUIWidget-EditBox.lua:74: in function <...Ons\\Ace3\\AceGUI-3.0\\widgets\\AceGUIWidget-EditBox.lua:71>\n...Ons\\Ace3\\AceGUI-3.0-36\\widgets\\AceGUIWidget-EditBox.lua:118: in function <...Ons\\Ace3\\AceGUI-3.0\\widgets\\AceGUIWidget-EditBox.lua:115>",
+			["session"] = 580,
+			["counter"] = 4,
+		}, -- [17]
 	},
 }

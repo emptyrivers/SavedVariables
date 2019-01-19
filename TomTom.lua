@@ -51,25 +51,25 @@ TomTomDB = {
 		["Wildrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Garumn - Arthas"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Treesurgeon - Korgath"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Savattellir - Arthas"] = "Default",
-		["Notariver - Arthas"] = "Default",
-		["Evilrivers - Kel'Thuzad"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Notariver - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Treesurgeon - Korgath"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Garumn - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -96,10 +96,10 @@ TomTomWaypointsM = {
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Garumn - Arthas"] = "Garumn - Arthas",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
-		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
 	},
 	["profiles"] = {
 		["Ragingrivers - Arthas"] = {
@@ -116,13 +116,13 @@ TomTomWaypointsM = {
 		},
 		["Emptyrivers - Arthas"] = {
 		},
-		["Testrivers - Arthas"] = {
+		["Garumn - Arthas"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Ailisuul - Arthas"] = {
 		},
-		["Garumn - Arthas"] = {
+		["Testrivers - Arthas"] = {
 		},
 	},
 }

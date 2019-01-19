@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
-	["session"] = 580,
 	["lastSanitation"] = 3,
+	["session"] = 581,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\Profiling.lua:141: attempt to call field 'ramdom' (a nil value)",
@@ -128,5 +128,37 @@ BugGrabberDB = {
 			["session"] = 580,
 			["counter"] = 4,
 		}, -- [17]
+		{
+			["message"] = "integer overflow attempting to store 17179869184",
+			["time"] = "2019/01/19 15:56:07",
+			["locals"] = "(*temporary) = 17179869184\n",
+			["stack"] = "[C]: in function `GetSpellInfo'\n[string \"GetSpellInfo(2^34)\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2155: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4757: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4418: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4454: in function <Interface\\FrameXML\\ChatFrame.lua:4450>\n[C]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 581,
+			["counter"] = 1,
+		}, -- [18]
+		{
+			["message"] = "integer overflow attempting to store 4294967296",
+			["time"] = "2019/01/19 15:56:36",
+			["locals"] = "(*temporary) = 4294967296\n",
+			["stack"] = "[C]: in function `GetSpellInfo'\n[string \"GetSpellInfo(2^32)\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2155: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4757: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4418: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4454: in function <Interface\\FrameXML\\ChatFrame.lua:4450>\n[C]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 581,
+			["counter"] = 1,
+		}, -- [19]
+		{
+			["message"] = "integer overflow attempting to store 4294967295",
+			["time"] = "2019/01/19 15:56:41",
+			["locals"] = "(*temporary) = 4294967295\n",
+			["stack"] = "[C]: in function `GetSpellInfo'\n[string \"GetSpellInfo(2^32 - 1)\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2155: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4757: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4418: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4454: in function <Interface\\FrameXML\\ChatFrame.lua:4450>\n[C]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 581,
+			["counter"] = 1,
+		}, -- [20]
+		{
+			["message"] = "integer overflow attempting to store 2147483648",
+			["time"] = "2019/01/19 15:56:52",
+			["locals"] = "(*temporary) = 2147483648\n",
+			["stack"] = "[C]: in function `GetSpellInfo'\n[string \"GetSpellInfo(2^31)\"]:1: in main chunk\n[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2155: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4757: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4418: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:4454: in function <Interface\\FrameXML\\ChatFrame.lua:4450>\n[C]: in function `ChatEdit_OnEnterPressed'\n[string \"*:OnEnterPressed\"]:1: in function <[string \"*:OnEnterPressed\"]:1>",
+			["session"] = 581,
+			["counter"] = 1,
+		}, -- [21]
 	},
 }
