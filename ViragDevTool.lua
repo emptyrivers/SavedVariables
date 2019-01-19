@@ -2,7 +2,48 @@
 ViragDevTool_Settings = {
 	["isSideBarOpen"] = true,
 	["fontSize"] = 15,
-	["isWndOpen"] = false,
+	["colors"] = {
+		["ok"] = "|cFF00FF00",
+		["string"] = {
+			0.670588235294118, -- [1]
+			0.831372549019608, -- [2]
+			0.450980392156863, -- [3]
+			1, -- [4]
+		},
+		["gray"] = "|cFFBEB9B5",
+		["parent"] = "|cFFBEB9B5",
+		["lightgreen"] = "|cFF98FB98",
+		["number"] = {
+			1, -- [1]
+			0.96, -- [2]
+			0.41, -- [3]
+			1, -- [4]
+		},
+		["lightblue"] = "|cFF96C0CE",
+		["function"] = {
+			1, -- [1]
+			0.490196078431373, -- [2]
+			0.0392156862745098, -- [3]
+			1, -- [4]
+		},
+		["table"] = {
+			0.411764705882353, -- [1]
+			0.8, -- [2]
+			0.941176470588235, -- [3]
+			1, -- [4]
+		},
+		["default"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+			1, -- [4]
+		},
+		["green"] = "|cFF00FF00",
+		["darkred"] = "|cFFC25B56",
+		["red"] = "|cFFFF0000",
+		["error"] = "|cFFFF0000",
+		["white"] = "|cFFFFFFFF",
+	},
 	["collResizerPosition"] = 450.000854492188,
 	["history"] = {
 		"wMapDB", -- [1]
@@ -56,47 +97,20 @@ ViragDevTool_Settings = {
 		"BrewmasterTools.util", -- [49]
 		"ViragDevTool.settings.history", -- [50]
 	},
-	["colors"] = {
-		["ok"] = "|cFF00FF00",
-		["string"] = {
-			0.670588235294118, -- [1]
-			0.831372549019608, -- [2]
-			0.450980392156863, -- [3]
-			1, -- [4]
-		},
-		["white"] = "|cFFFFFFFF",
-		["parent"] = "|cFFBEB9B5",
-		["lightgreen"] = "|cFF98FB98",
-		["number"] = {
-			1, -- [1]
-			0.96, -- [2]
-			0.41, -- [3]
-			1, -- [4]
-		},
-		["red"] = "|cFFFF0000",
-		["function"] = {
-			1, -- [1]
-			0.490196078431373, -- [2]
-			0.0392156862745098, -- [3]
-			1, -- [4]
-		},
-		["green"] = "|cFF00FF00",
-		["lightblue"] = "|cFF96C0CE",
-		["table"] = {
-			0.411764705882353, -- [1]
-			0.8, -- [2]
-			0.941176470588235, -- [3]
-			1, -- [4]
-		},
-		["darkred"] = "|cFFC25B56",
-		["default"] = {
-			1, -- [1]
-			1, -- [2]
-			1, -- [3]
-			1, -- [4]
-		},
-		["error"] = "|cFFFF0000",
-		["gray"] = "|cFFBEB9B5",
+	["events"] = {
+		{
+			["event"] = "CURSOR_UPDATE",
+			["active"] = false,
+		}, -- [1]
+		{
+			["unit"] = "player",
+			["event"] = "UNIT_AURA",
+			["active"] = false,
+		}, -- [2]
+		{
+			["event"] = "CHAT_MSG_CHANNEL",
+			["active"] = false,
+		}, -- [3]
 	},
 	["tArgs"] = {
 	},
@@ -104,19 +118,5 @@ ViragDevTool_Settings = {
 	},
 	["MAX_HISTORY_SIZE"] = 50,
 	["sideBarTabSelected"] = "history",
-	["events"] = {
-		{
-			["event"] = "CURSOR_UPDATE",
-			["active"] = false,
-		}, -- [1]
-		{
-			["active"] = false,
-			["event"] = "UNIT_AURA",
-			["unit"] = "player",
-		}, -- [2]
-		{
-			["event"] = "CHAT_MSG_CHANNEL",
-			["active"] = false,
-		}, -- [3]
-	},
+	["isWndOpen"] = false,
 }

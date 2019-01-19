@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
+	["session"] = 580,
 	["lastSanitation"] = 3,
-	["session"] = 565,
 	["errors"] = {
 		{
 			["message"] = "Interface\\AddOns\\WeakAuras\\Profiling.lua:141: attempt to call field 'ramdom' (a nil value)",
@@ -78,5 +78,55 @@ BugGrabberDB = {
 			["session"] = 562,
 			["counter"] = 4,
 		}, -- [10]
+		{
+			["message"] = "[C]: in function `yield'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1828: in function <...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1801>\n",
+			["time"] = "2019/01/19 15:25:03",
+			["stack"] = "",
+			["session"] = 574,
+			["counter"] = 1,
+		}, -- [11]
+		{
+			["message"] = "[C]: in function `GetSpellInfo'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2971: in function <Interface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2932>\n(tail call): ?\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:3923: in function `GetTriggerDescription'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:1059: in function `SetNormalTooltip'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:987: in function `Initialize'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:4195: in function `EnsureDisplayButton'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1807: in function <...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1801>\n",
+			["time"] = "2019/01/19 15:25:03",
+			["stack"] = "",
+			["session"] = 574,
+			["counter"] = 1,
+		}, -- [12]
+		{
+			["message"] = "attempt to call a boolean value\n[C]: in function `yield'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1828: in function <...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1801>\n",
+			["time"] = "2019/01/19 15:26:45",
+			["stack"] = "",
+			["session"] = 576,
+			["counter"] = 1,
+		}, -- [13]
+		{
+			["message"] = "attempt to call a boolean value\n[C]: in function `GetSpellInfo'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2971: in function <Interface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2932>\n(tail call): ?\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:3923: in function `GetTriggerDescription'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:1059: in function `SetNormalTooltip'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:987: in function `Initialize'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:4195: in function `EnsureDisplayButton'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1807: in function <...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1801>\n",
+			["time"] = "2019/01/19 15:26:45",
+			["stack"] = "",
+			["session"] = 576,
+			["counter"] = 1,
+		}, -- [14]
+		{
+			["message"] = "Interface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:4380: integer overflow attempting to store 282559269083",
+			["time"] = "2019/01/19 15:18:56",
+			["locals"] = "(*temporary) = false\n(*temporary) = \"integer overflow attempting to store 282559269083\"\n",
+			["stack"] = "[C]: in function `assert'\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:4380: in function <Interface\\AddOns\\WeakAuras\\WeakAuras.lua:4363>",
+			["session"] = 578,
+			["counter"] = 3,
+		}, -- [15]
+		{
+			["message"] = "integer overflow attempting to store 282559269083\n[C]: in function `GetSpellInfo'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2971: in function <Interface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2932>\n(tail call): ?\nInterface\\AddOns\\WeakAuras\\WeakAuras-@project-version@.lua:3923: in function `GetTriggerDescription'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:1059: in function `SetNormalTooltip'\n...eGUI-Widgets\\AceGUIWidget-WeakAurasDisplayButton.lua:987: in function `Initialize'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:4195: in function `EnsureDisplayButton'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1807: in function <...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions.lua:1801>\n",
+			["time"] = "2019/01/19 15:28:24",
+			["stack"] = "",
+			["session"] = 579,
+			["counter"] = 2,
+		}, -- [16]
+		{
+			["message"] = "integer overflow attempting to store 282559269083",
+			["time"] = "2019/01/19 15:47:34",
+			["stack"] = "[C]: in function `GetSpellInfo'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2203: in function `GetNameAndIconSimple'\nInterface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2217: in function <Interface\\AddOns\\WeakAuras\\BuffTrigger2.lua:2216>\n(tail call): ?\n(tail call): ?\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1645: in function `SetIconName'\n...terface\\AddOns\\WeakAurasOptions\\WeakAurasOptions-@project-version@.lua:1635: in function `SetIconNames'\nInterface\\AddOns\\WeakAurasOptions\\BuffTrigger2.lua:795: in function <Interface\\AddOns\\WeakAurasOptions\\BuffTrigger2.lua:786>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0-67.lua:789: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:610>\n[C]: ?\nInterface\\AddOns\\Ace3\\AceGUI-3.0\\AceGUI-3.0-36.lua:71: in function <Interface\\AddOns\\Ace3\\AceGUI-3.0\\AceGUI-3.0.lua:69>\nInterface\\AddOns\\Ace3\\AceGUI-3.0\\AceGUI-3.0-36.lua:285: in function `Fire'\n...Ons\\Ace3\\AceGUI-3.0-36\\widgets\\AceGUIWidget-EditBox.lua:74: in function <...Ons\\Ace3\\AceGUI-3.0\\widgets\\AceGUIWidget-EditBox.lua:71>\n...Ons\\Ace3\\AceGUI-3.0-36\\widgets\\AceGUIWidget-EditBox.lua:118: in function <...Ons\\Ace3\\AceGUI-3.0\\widgets\\AceGUIWidget-EditBox.lua:115>",
+			["session"] = 580,
+			["counter"] = 4,
+		}, -- [17]
 	},
 }

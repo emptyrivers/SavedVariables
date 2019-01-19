@@ -51,25 +51,25 @@ TomTomDB = {
 		["Wildrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
-		["Garumn - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
-		["Treesurgeon - Korgath"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Savattellir - Arthas"] = "Default",
-		["Edgyrivers - Kel'Thuzad"] = "Default",
-		["Evilrivers - Kel'Thuzad"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Notariver - Arthas"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
+		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Treesurgeon - Korgath"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Garumn - Arthas"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -96,10 +96,10 @@ TomTomWaypointsM = {
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Garumn - Arthas"] = "Garumn - Arthas",
 	},
 	["profiles"] = {
 		["Ragingrivers - Arthas"] = {
@@ -116,13 +116,13 @@ TomTomWaypointsM = {
 		},
 		["Emptyrivers - Arthas"] = {
 		},
-		["Garumn - Arthas"] = {
+		["Testrivers - Arthas"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Ailisuul - Arthas"] = {
 		},
-		["Testrivers - Arthas"] = {
+		["Garumn - Arthas"] = {
 		},
 	},
 }
