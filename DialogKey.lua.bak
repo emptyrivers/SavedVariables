@@ -1,6 +1,7 @@
 
 DialogKeyDB = {
 	["profileKeys"] = {
+		["Garumn - Arthas"] = "Default",
 		["Canerena - Arthas"] = "Default",
 		["Ailisuul - Arthas"] = "Default",
 		["Mindrivers - Korgath"] = "Default",
@@ -21,9 +22,9 @@ DialogKeyDB = {
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
 		["Crazyrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Testrivers - Arthas"] = "Default",
 		["Eysta - Sargeras"] = "Default",
-		["Blindrivers - Arthas"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "Default",
@@ -31,11 +32,11 @@ DialogKeyDB = {
 		["Testes - Arthas"] = "Default",
 		["Daedrasminia - Arthas"] = "Default",
 		["Riversticks - Bleeding Hollow"] = "Default",
-		["Holyrivers - Sargeras"] = "Default",
 		["Evilrivers - Sargeras"] = "Default",
+		["Holyrivers - Sargeras"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
-		["Testrivers - Arthas"] = "Default",
+		["Blindrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 	},
 	["global"] = {
 		["shownBindWarning"] = true,
