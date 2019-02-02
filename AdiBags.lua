@@ -136,6 +136,10 @@ AdiBagsDB = {
 		},
 		["Equipment"] = {
 		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
+		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -153,11 +157,11 @@ AdiBagsDB = {
 						["Seal of Broken Fate"] = false,
 						["Seal of Tempered Fate"] = false,
 						["Elder Charm of Good Fortune"] = false,
-						["Wakening Essence"] = false,
+						["Conquest Points"] = false,
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
+						["Wakening Essence"] = false,
 						["Timeless Coin"] = false,
-						["Conquest Points"] = false,
 						["Essence of Corrupted Deathwing"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
@@ -169,10 +173,6 @@ AdiBagsDB = {
 					},
 				},
 			},
-		},
-		["DataSource"] = {
-		},
-		["ItemSets"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {
@@ -246,8 +246,8 @@ AdiBagsDB = {
 		["Holyrivers - Sargeras"] = "Default",
 		["Savattellir - Arthas"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
@@ -257,7 +257,7 @@ AdiBagsDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",

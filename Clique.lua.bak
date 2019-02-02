@@ -33,11 +33,11 @@ CliqueDB3 = {
 		["Feralrivers - Sargeras"] = "Feralrivers - Sargeras",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Mindrivers - Korgath"] = "Mindrivers - Korgath",
-		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
 		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
-		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
+		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
+		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
 		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
@@ -49,9 +49,9 @@ CliqueDB3 = {
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Evilrivers - Sargeras"] = "Evilrivers - Sargeras",
 		["Testrivers - Arthas"] = "Testrivers - Arthas",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
-		["Dammedrivers - Exodar"] = "Dammedrivers - Exodar",
+		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Canerena - Arthas"] = "Canerena - Arthas",
 	},
 	["profiles"] = {
@@ -226,13 +226,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Serenerivers - Sargeras"] = {
+		["Serenerivers - Bleeding Hollow"] = {
 			["bindings"] = {
 				{
+					["type"] = "target",
 					["sets"] = {
 						["default"] = true,
 					},
-					["type"] = "target",
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -264,32 +264,13 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Serenerivers - Bleeding Hollow"] = {
+		["Dammedrivers - Exodar"] = {
 			["bindings"] = {
 				{
+					["sets"] = {
+						["default"] = true,
+					},
 					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
-					["key"] = "BUTTON1",
-					["unit"] = "mouseover",
-				}, -- [1]
-				{
-					["type"] = "menu",
-					["key"] = "BUTTON2",
-					["sets"] = {
-						["default"] = true,
-					},
-				}, -- [2]
-			},
-		},
-		["Blindrivers - Sargeras"] = {
-			["bindings"] = {
-				{
-					["type"] = "target",
-					["sets"] = {
-						["default"] = true,
-					},
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -309,6 +290,25 @@ CliqueDB3 = {
 						["default"] = true,
 					},
 					["type"] = "target",
+					["key"] = "BUTTON1",
+					["unit"] = "mouseover",
+				}, -- [1]
+				{
+					["type"] = "menu",
+					["key"] = "BUTTON2",
+					["sets"] = {
+						["default"] = true,
+					},
+				}, -- [2]
+			},
+		},
+		["Ragingrivers - Arthas"] = {
+			["bindings"] = {
+				{
+					["type"] = "target",
+					["sets"] = {
+						["default"] = true,
+					},
 					["key"] = "BUTTON1",
 					["unit"] = "mouseover",
 				}, -- [1]
@@ -530,7 +530,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Ragingrivers - Arthas"] = {
+		["Blindrivers - Sargeras"] = {
 			["bindings"] = {
 				{
 					["type"] = "target",
@@ -568,7 +568,7 @@ CliqueDB3 = {
 				}, -- [2]
 			},
 		},
-		["Dammedrivers - Exodar"] = {
+		["Serenerivers - Sargeras"] = {
 			["bindings"] = {
 				{
 					["sets"] = {

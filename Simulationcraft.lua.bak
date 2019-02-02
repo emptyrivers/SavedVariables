@@ -1,13 +1,19 @@
 
 SimulationCraftDB = {
 	["profileKeys"] = {
-		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 	},
 	["profiles"] = {
+		["Garumn - Arthas"] = {
+		},
 		["Ailisuul - Arthas"] = {
 		},
-		["Garumn - Arthas"] = {
+		["Beefyrivers - Arthas"] = {
+		},
+		["Emptyrivers - Arthas"] = {
 		},
 	},
 }
