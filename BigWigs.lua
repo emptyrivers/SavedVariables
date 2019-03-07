@@ -3,6 +3,11 @@ BigWigs3DB = {
 	["profileKeys"] = {
 		["Emptyrivers - Arthas"] = "Default",
 	},
+	["global"] = {
+		["watchedMovies"] = {
+			[-1152] = true,
+		},
+	},
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
@@ -12,7 +17,7 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Raid Icons"] = {
 		},
-		["BigWigs_Plugins_InfoBox"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
@@ -30,15 +35,15 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["LibDualSpec-1.0"] = {
-		},
-		["BigWigs_Plugins_Messages"] = {
-		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_InfoBox"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 		},
 		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Plugins_Messages"] = {
+		},
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
@@ -57,10 +62,11 @@ BigWigsIconDB = {
 }
 BigWigsStatsDB = {
 	[1861] = {
-		[2167] = {
+		[2147] = {
 			["LFR"] = {
-				["best"] = 296.486000000034,
-				["kills"] = 1,
+				["kills"] = 2,
+				["best"] = 494.016000000003,
+				["wipes"] = 1,
 			},
 		},
 		[2169] = {
@@ -69,10 +75,29 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2147] = {
+		[2146] = {
 			["LFR"] = {
-				["best"] = 541.165999999968,
+				["best"] = 128.481,
 				["kills"] = 1,
+			},
+		},
+		[2166] = {
+			["LFR"] = {
+				["best"] = 275.539000000004,
+				["kills"] = 1,
+			},
+		},
+		[2167] = {
+			["LFR"] = {
+				["best"] = 296.486000000034,
+				["kills"] = 1,
+			},
+		},
+		[2195] = {
+			["LFR"] = {
+				["kills"] = 1,
+				["wipes"] = 1,
+				["best"] = 225.87999999999,
 			},
 		},
 	},

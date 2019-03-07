@@ -44,7 +44,7 @@ ViragDevTool_Settings = {
 		["error"] = "|cFFFF0000",
 		["white"] = "|cFFFFFFFF",
 	},
-	["collResizerPosition"] = 450.000915527344,
+	["collResizerPosition"] = 450.0009765625,
 	["history"] = {
 		"WeakAuras.regions", -- [1]
 		"WeakAurasFrame", -- [2]

@@ -114,11 +114,11 @@ AdiBagsDB = {
 				["Default"] = {
 					["splitBySubclass"] = {
 						["Recipe"] = true,
+						["Consumable"] = true,
+						["Item Enhancement!"] = true,
 						["Tradeskill"] = true,
 						["Gem"] = true,
-						["Consumable"] = true,
 						["Trade Goods"] = false,
-						["Item Enhancement!"] = true,
 						["Glyph"] = true,
 						["Miscellaneous"] = true,
 					},
@@ -135,6 +135,10 @@ AdiBagsDB = {
 		["AdiBags_TooltipInfo"] = {
 		},
 		["MoneyFrame"] = {
+		},
+		["DataSource"] = {
+		},
+		["ItemSets"] = {
 		},
 		["CurrencyFrame"] = {
 			["profiles"] = {
@@ -157,22 +161,18 @@ AdiBagsDB = {
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
 						["Garrison Resources"] = false,
-						["Timeless Coin"] = false,
+						["Wakening Essence"] = false,
 						["Essence of Corrupted Deathwing"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
-						["Wakening Essence"] = false,
 						["Conquest Points"] = false,
+						["Timeless Coin"] = false,
 						["Elder Charm of Good Fortune"] = false,
 						["Champion's Seal"] = false,
 						["Seal of Broken Fate"] = false,
 					},
 				},
 			},
-		},
-		["DataSource"] = {
-		},
-		["ItemSets"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {
@@ -237,6 +237,7 @@ AdiBagsDB = {
 		["Littlerivers - Kel'Thuzad"] = "Default",
 		["Hiddenrivers - Korgath"] = "Default",
 		["Edgyrivers - Arthas"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
 		["Feralrivers - Sargeras"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
@@ -246,8 +247,8 @@ AdiBagsDB = {
 		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Savattellir - Arthas"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
@@ -256,8 +257,8 @@ AdiBagsDB = {
 		["Ragingrivers - Arthas"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Holyrivers - Sargeras"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",

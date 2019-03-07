@@ -22,6 +22,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
