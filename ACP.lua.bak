@@ -1,7 +1,9 @@
 
 ACP_Data = {
-	["sorter"] = "Default",
+	["sorter"] = "Separate LOD List",
 	["NoRecurse"] = false,
+	["NoChildren"] = true,
+	["scale"] = 0.8018255628683393,
 	["AddonSet"] = {
 		{
 			"AdiBags", -- [1]
@@ -518,7 +520,6 @@ ACP_Data = {
 			"ElvUI", -- [73]
 		},
 	},
-	["NoChildren"] = true,
 	["collapsed"] = {
 	},
 	["ProtectedAddons"] = {

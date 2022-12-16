@@ -1,6 +1,6 @@
 
 ACP_Data = {
-	["sorter"] = "Default",
+	["sorter"] = "Separate LOD List",
 	["NoRecurse"] = false,
 	["AddonSet"] = {
 		{
@@ -518,6 +518,7 @@ ACP_Data = {
 			"ElvUI", -- [73]
 		},
 	},
+	["scale"] = 0.8018255628683393,
 	["NoChildren"] = true,
 	["collapsed"] = {
 	},

@@ -114,11 +114,11 @@ AdiBagsDB = {
 				["Default"] = {
 					["splitBySubclass"] = {
 						["Recipe"] = true,
+						["Consumable"] = true,
+						["Item Enhancement!"] = true,
 						["Tradeskill"] = true,
 						["Gem"] = true,
-						["Consumable"] = true,
 						["Trade Goods"] = false,
-						["Item Enhancement!"] = true,
 						["Glyph"] = true,
 						["Miscellaneous"] = true,
 					},
@@ -135,6 +135,8 @@ AdiBagsDB = {
 		["AdiBags_TooltipInfo"] = {
 		},
 		["MoneyFrame"] = {
+		},
+		["DataSource"] = {
 		},
 		["ItemSets"] = {
 		},
@@ -159,20 +161,18 @@ AdiBagsDB = {
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
 						["Garrison Resources"] = false,
-						["Conquest Points"] = false,
+						["Wakening Essence"] = false,
 						["Essence of Corrupted Deathwing"] = false,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = false,
+						["Conquest Points"] = false,
 						["Timeless Coin"] = false,
-						["Wakening Essence"] = false,
 						["Elder Charm of Good Fortune"] = false,
 						["Champion's Seal"] = false,
 						["Seal of Broken Fate"] = false,
 					},
 				},
 			},
-		},
-		["DataSource"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {
@@ -219,7 +219,9 @@ AdiBagsDB = {
 		["Testes - Arthas"] = "Default",
 		["Daedrasminia - Arthas"] = "Default",
 		["Riversticks - Bleeding Hollow"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
 		["Skankyrivers - Arthas"] = "Default",
+		["Estuary - Argent Dawn"] = "Default",
 		["Boringrivers - Korgath"] = "Default",
 		["Rapidrivers - Arthas"] = "Default",
 		["Naturerivers - Korgath"] = "Default",
@@ -237,6 +239,7 @@ AdiBagsDB = {
 		["Littlerivers - Kel'Thuzad"] = "Default",
 		["Hiddenrivers - Korgath"] = "Default",
 		["Edgyrivers - Arthas"] = "Default",
+		["Alluvium - Argent Dawn"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
@@ -247,8 +250,8 @@ AdiBagsDB = {
 		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Savattellir - Arthas"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
 		["Crazyrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
@@ -256,8 +259,8 @@ AdiBagsDB = {
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Holyrivers - Sargeras"] = "Default",
@@ -283,14 +286,12 @@ AdiBagsDB = {
 			},
 			["positions"] = {
 				["Bank"] = {
-					["xOffset"] = 168.500112374129,
-					["point"] = "BOTTOMLEFT",
-					["yOffset"] = 361.369805189517,
+					["xOffset"] = 207.3573517226778,
+					["yOffset"] = -361.0835827818628,
 				},
 				["Backpack"] = {
-					["xOffset"] = -331.248706794511,
-					["point"] = "TOPRIGHT",
-					["yOffset"] = -156.446543855171,
+					["xOffset"] = -233.7251941449795,
+					["yOffset"] = 150.8483665056283,
 				},
 			},
 			["compactLayout"] = true,

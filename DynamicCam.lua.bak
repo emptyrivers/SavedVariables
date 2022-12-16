@@ -15,27 +15,30 @@ DynamicCamDB = {
 		["Wildrivers - Bleeding Hollow"] = "Default",
 		["Serenerivers - Kel'Thuzad"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
+		["Alluvium - Argent Dawn"] = "Default",
 		["Crazyrivers - Sargeras"] = "Default",
 		["Evilrivers - Sargeras"] = "Default",
 		["Littlerivers - Kel'Thuzad"] = "Default",
 		["Luckyrivers - Sargeras"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Sassyrivers - Arthas"] = "Serenerivers - Arthas",
 		["Emptyrivers - Arthas"] = "Default",
 		["Savattellir - Arthas"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Serenerivers - Arthas",
-		["Edgyrivers - Arthas"] = "Default",
-		["Shachein - Arthas"] = "Default",
 		["Dammedrivers - Exodar"] = "Default",
-		["Wildrivers - Arthas"] = "Serenerivers - Arthas",
-		["Feralrivers - Sargeras"] = "Default",
+		["Shachein - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
+		["Wildrivers - Arthas"] = "Serenerivers - Arthas",
 		["Evilrivers - Korgath"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Feralrivers - Sargeras"] = "Default",
 		["Crazyrivers - Bleeding Hollow"] = "Default",
 		["Holyrivers - Sargeras"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Tinyrivers - Arthas"] = "Serenerivers - Arthas",
 		["Serenerivers - Sargeras"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Crazyrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
@@ -46,445 +49,278 @@ DynamicCamDB = {
 		["Testes - Arthas"] = "Default",
 		["Daedrasminia - Arthas"] = "Default",
 		["Riversticks - Bleeding Hollow"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
+		["Edgyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Skankyrivers - Arthas"] = "Default",
-		["Sassyrivers - Arthas"] = "Serenerivers - Arthas",
+		["Estuary - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Serenerivers - Arthas"] = {
-			["defaultCvars"] = {
-				["test_cameraDynamicPitchBaseFovPad"] = 0.05,
-				["test_cameraDynamicPitch"] = 1,
+			["standardSettings"] = {
+				["reactiveZoomAddIncrements"] = 3,
+				["cvars"] = {
+					["test_cameraDynamicPitchBaseFovPad"] = 0.05,
+					["test_cameraDynamicPitch"] = 1,
+					["cameraDistanceMaxZoomFactor"] = 2.6,
+				},
+				["reactiveZoomEnabled"] = false,
+				["reactiveZoomIncAddDifference"] = 4,
+				["reactiveZoomMaxZoomTime"] = 0.25,
+				["shoulderOffsetZoomUpperBound"] = 8,
 			},
-			["version"] = 2,
 			["situations"] = {
 				["033"] = {
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and IsEncounterInProgress();",
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
 					["name"] = "Raid (Combat, Boss)",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-						"ENCOUNTER_START", -- [4]
-						"ENCOUNTER_END", -- [5]
-						"INSTANCE_ENCOUNTER_ENGAGE_UNIT", -- [6]
-					},
-					["priority"] = 303,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and IsEncounterInProgress();",
 				},
 				["023"] = {
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and UnitAffectingCombat(\"player\") and IsEncounterInProgress();",
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
 					["name"] = "Dungeon (Combat, Boss)",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-						"ENCOUNTER_START", -- [4]
-						"ENCOUNTER_END", -- [5]
-						"INSTANCE_ENCOUNTER_ENGAGE_UNIT", -- [6]
-					},
-					["priority"] = 302,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and UnitAffectingCombat(\"player\") and IsEncounterInProgress();",
 				},
 				["006"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomFitUseCurAsMin"] = true,
-						["zoomMax"] = 35,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-					},
-					["name"] = "World (Combat)",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
 					["condition"] = "return not IsInInstance() and UnitAffectingCombat(\"player\");",
-					["priority"] = 50,
-					["extras"] = {
-					},
-					["view"] = {
+					["name"] = "World (Combat)",
+					["viewZoom"] = {
+						["viewZoomType"] = "view",
+						["viewRestore"] = false,
+						["viewNumber"] = 5,
 						["enabled"] = true,
 					},
 				},
 				["302"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 1,
+						},
+					},
+					["viewZoom"] = {
+						["enabled"] = true,
 						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "set",
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 7,
 					},
-					["name"] = "Fishing",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 1,
-					},
-					["extras"] = {
-					},
-					["events"] = {
-						"UNIT_SPELLCAST_START", -- [1]
-						"UNIT_SPELLCAST_STOP", -- [2]
-						"UNIT_SPELLCAST_SUCCEEDED", -- [3]
-						"UNIT_SPELLCAST_CHANNEL_START", -- [4]
-						"UNIT_SPELLCAST_CHANNEL_STOP", -- [5]
-						"UNIT_SPELLCAST_CHANNEL_UPDATE", -- [6]
-						"UNIT_SPELLCAST_INTERRUPTED", -- [7]
-					},
-					["priority"] = 20,
 					["delay"] = 2,
 					["condition"] = "return (UnitChannelInfo(\"player\") == GetSpellInfo(7620))",
 				},
-				["031"] = {
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
-					["name"] = "Raid (Outdoors)",
-					["cameraActions"] = {
+				["005"] = {
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "in",
 						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
 					},
-					["events"] = {
-						"ZONE_CHANGED_INDOORS", -- [1]
-						"ZONE_CHANGED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-						"SPELL_UPDATE_USABLE", -- [4]
-					},
-					["priority"] = 13,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
+					["condition"] = "return not IsResting() and not IsInInstance() and IsIndoors();",
+					["name"] = "World (Indoors)",
 				},
 				["002"] = {
-					["enabled"] = false,
-					["name"] = "City (Indoors)",
-					["events"] = {
-						"PLAYER_UPDATE_RESTING", -- [1]
-						"ZONE_CHANGED_INDOORS", -- [2]
-						"ZONE_CHANGED", -- [3]
-						"SPELL_UPDATE_USABLE", -- [4]
-					},
-					["cameraActions"] = {
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "in",
 						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "in",
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 8,
 					},
-					["priority"] = 11,
-					["extras"] = {
-					},
 					["condition"] = "return IsResting() and IsIndoors();",
+					["name"] = "City (Indoors)",
 				},
-				["021"] = {
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and IsOutdoors();",
-					["name"] = "Dungeon (Outdoors)",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
+				["034"] = {
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
-					["events"] = {
-						"ZONE_CHANGED_INDOORS", -- [1]
-						"ZONE_CHANGED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-						"SPELL_UPDATE_USABLE", -- [4]
-					},
-					["priority"] = 12,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
+					["name"] = "Raid (Combat, Trash)",
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
 				},
 				["100"] = {
-					["enabled"] = false,
-					["name"] = "Mounted",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = 0,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = 0,
+						},
 					},
-					["cameraActions"] = {
+					["condition"] = "return IsMounted();",
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "out",
 						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "out",
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 30,
 					},
 					["events"] = {
 						"SPELL_UPDATE_USABLE", -- [1]
 						"UNIT_AURA", -- [2]
 					},
-					["priority"] = 100,
-					["extras"] = {
-					},
-					["condition"] = "return IsMounted();",
 				},
 				["102"] = {
-					["enabled"] = false,
-					["name"] = "Vehicle",
-					["cameraCVars"] = {
-						["test_cameraOverShoulder"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraDynamicPitch"] = 0,
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"UNIT_ENTERED_VEHICLE", -- [1]
-						"UNIT_EXITED_VEHICLE", -- [2]
-					},
-					["priority"] = 1000,
-					["extras"] = {
-					},
 					["condition"] = "return UnitUsingVehicle(\"player\");",
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraOverShoulder"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
 				},
 				["050"] = {
-					["enabled"] = false,
-					["name"] = "Arena",
-					["events"] = {
-						"ZONE_CHANGED_NEW_AREA", -- [1]
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["priority"] = 3,
-					["extras"] = {
-					},
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"arena\");",
 				},
 				["200"] = {
-					["enabled"] = false,
-					["executeOnInit"] = "this.spells = {136508, 189838, 54406, 94719, 556, 168487, 168499, 171253, 50977, 8690, 222695, 171253, 224869, 53140, 3565, 32271, 193759, 3562, 3567, 33690, 35715, 32272, 49358, 176248, 3561, 49359, 3566, 88342, 88344, 3563, 132627, 132621, 176242, 192085, 192084, 216016};",
-					["condition"] = "for k,v in pairs(this.spells) do \n    if (UnitCastingInfo(\"player\") == GetSpellInfo(v)) then \n        return true;\n    end\nend\nreturn false;",
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = 0,
+						},
+					},
 					["executeOnEnter"] = "local _, _, _, _, startTime, endTime = UnitCastingInfo(\"player\");\nthis.transitionTime = ((endTime - startTime)/1000) - .25;",
-					["events"] = {
-						"UNIT_SPELLCAST_START", -- [1]
-						"UNIT_SPELLCAST_STOP", -- [2]
-						"UNIT_SPELLCAST_SUCCEEDED", -- [3]
-						"UNIT_SPELLCAST_CHANNEL_START", -- [4]
-						"UNIT_SPELLCAST_CHANNEL_STOP", -- [5]
-						"UNIT_SPELLCAST_CHANNEL_UPDATE", -- [6]
-						"UNIT_SPELLCAST_INTERRUPTED", -- [7]
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = 0,
-					},
-					["cameraActions"] = {
-						["pitchDegrees"] = 0,
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "in",
 						["zoomMax"] = 20,
-						["transitionTime"] = 10,
-						["timeIsMax"] = false,
-						["zoomSetting"] = "in",
+						["zoomTransitionTime"] = 10,
 						["zoomValue"] = 4,
+					},
+					["hideUI"] = {
+						["enabled"] = true,
+						["hideEntireUI"] = true,
+						["fadeOpacity"] = 0,
+					},
+					["rotation"] = {
+						["enabled"] = true,
+						["rotateBackTime"] = 10,
+						["rotationType"] = "degrees",
+						["rotationSpeed"] = 20,
 						["yawDegrees"] = 360,
-						["rotateSetting"] = "degrees",
-						["rotate"] = true,
-						["zoomFitToggleNameplate"] = true,
+						["rotationTime"] = 10,
+						["rotateBack"] = false,
 					},
 					["priority"] = 20,
-					["extras"] = {
-						["hideUI"] = true,
-					},
-					["name"] = "Hearth/Teleport",
+					["condition"] = "for k,v in pairs(this.spells) do \n    if (UnitCastingInfo(\"player\") == GetSpellInfo(v)) then \n        return true;\n    end\nend\nreturn false;",
+					["executeOnInit"] = "this.spells = {136508, 189838, 54406, 94719, 556, 168487, 168499, 171253, 50977, 8690, 222695, 171253, 224869, 53140, 3565, 32271, 193759, 3562, 3567, 33690, 35715, 32272, 49358, 176248, 3561, 49359, 3566, 88342, 88344, 3563, 132627, 132621, 176242, 192085, 192084, 216016};",
 				},
 				["301"] = {
-					["enabled"] = false,
-					["name"] = "Mailbox",
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "in",
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
+						["zoomValue"] = 4,
+					},
+					["priority"] = 20,
+					["condition"] = "return (MailFrame and MailFrame:IsShown())",
 					["events"] = {
 						"MAIL_CLOSED", -- [1]
 						"MAIL_SHOW", -- [2]
 						"GOSSIP_CLOSED", -- [3]
 					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "in",
-						["zoomValue"] = 4,
-					},
-					["priority"] = 20,
-					["extras"] = {
-					},
-					["condition"] = "return (MailFrame and MailFrame:IsShown())",
 				},
 				["060"] = {
-					["enabled"] = false,
-					["name"] = "Battleground",
-					["events"] = {
-						"ZONE_CHANGED_NEW_AREA", -- [1]
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["priority"] = 3,
-					["extras"] = {
-					},
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"pvp\");",
 				},
-				["034"] = {
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
-					["name"] = "Raid (Combat, Trash)",
-					["cameraActions"] = {
+				["101"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = -1,
+						},
+					},
+					["condition"] = "return UnitOnTaxi(\"player\");",
+					["viewZoom"] = {
+						["enabled"] = true,
 						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
+						["zoomValue"] = 15,
 					},
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-						"ENCOUNTER_START", -- [4]
-						"ENCOUNTER_END", -- [5]
-						"INSTANCE_ENCOUNTER_ENGAGE_UNIT", -- [6]
-					},
-					["priority"] = 203,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["hideUI"] = {
+						["enabled"] = true,
+						["hideEntireUI"] = true,
+						["fadeOpacity"] = 0,
 					},
 				},
-				["201"] = {
-					["events"] = {
-						"UNIT_AURA", -- [1]
+				["021"] = {
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = 0,
-					},
-					["executeOnInit"] = "this.buffs = {46924, 51690, 188499, 210152};",
-					["name"] = "Annoying Spells",
-					["priority"] = 1000,
-					["extras"] = {
-					},
-					["condition"] = "for k,v in pairs(this.buffs) do \n    if (UnitBuff(\"player\", GetSpellInfo(v))) then\n        return true;\n    end\nend\nreturn false;",
+					["name"] = "Dungeon (Outdoors)",
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and IsOutdoors();",
 				},
 				["061"] = {
-					["enabled"] = false,
-					["name"] = "Battleground (Combat)",
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["priority"] = 203,
-					["extras"] = {
-					},
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"pvp\") and UnitAffectingCombat(\"player\");",
+					["name"] = "Battleground (Combat)",
 				},
 				["001"] = {
-					["enabled"] = false,
-					["name"] = "City",
-					["events"] = {
-						"PLAYER_UPDATE_RESTING", -- [1]
-					},
-					["cameraActions"] = {
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "range",
 						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
 						["zoomMin"] = 10,
-						["zoomSetting"] = "range",
-						["zoomFitToggleNameplate"] = true,
-					},
-					["priority"] = 1,
-					["extras"] = {
 					},
 					["condition"] = "return IsResting();",
 				},
 				["024"] = {
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
 					["name"] = "Dungeon (Combat, Trash)",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-						"ENCOUNTER_START", -- [4]
-						"ENCOUNTER_END", -- [5]
-						"INSTANCE_ENCOUNTER_ENGAGE_UNIT", -- [6]
-					},
-					["priority"] = 202,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
 				},
 				["051"] = {
-					["enabled"] = false,
-					["name"] = "Arena (Combat)",
-					["events"] = {
-						"PLAYER_REGEN_DISABLED", -- [1]
-						"PLAYER_REGEN_ENABLED", -- [2]
-						"ZONE_CHANGED_NEW_AREA", -- [3]
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["priority"] = 203,
-					["extras"] = {
-					},
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"arena\") and UnitAffectingCombat(\"player\");",
+					["name"] = "Arena (Combat)",
 				},
 				["004"] = {
-					["enabled"] = false,
-					["events"] = {
-						"PLAYER_UPDATE_RESTING", -- [1]
-						"ZONE_CHANGED_NEW_AREA", -- [2]
-					},
-					["name"] = "World",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomMin"] = 15,
-						["zoomSetting"] = "range",
-						["zoomFitToggleNameplate"] = true,
-					},
-					["extras"] = {
-					},
 					["condition"] = "return not IsResting() and not IsInInstance();",
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "range",
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
+						["zoomMin"] = 15,
+					},
 				},
 				["300"] = {
-					["enabled"] = false,
-					["executeOnInit"] = "this.frames = {\"GarrisonCapacitiveDisplayFrame\", \"BankFrame\", \"MerchantFrame\", \"GossipFrame\", \"ClassTrainerFrame\", \"QuestFrame\",}",
-					["condition"] = "local shown = false;\nfor k,v in pairs(this.frames) do\n    if (_G[v] and _G[v]:IsShown()) then\n        shown = true;\n    end\nend\nreturn UnitExists(\"npc\") and UnitIsUnit(\"npc\", \"target\") and shown;",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 1,
-						["test_cameraTargetFocusInteractEnable"] = 1,
-						["test_cameraTargetFocusEnemyEnable"] = 1,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 1,
+							["test_cameraTargetFocusInteractEnable"] = 1,
+							["test_cameraTargetFocusEnemyEnable"] = 1,
+						},
 					},
 					["events"] = {
 						"PLAYER_TARGET_CHANGED", -- [1]
@@ -496,333 +332,310 @@ DynamicCamDB = {
 						"QUEST_GREETING", -- [7]
 						"BANKFRAME_OPENED", -- [8]
 						"BANKFRAME_CLOSED", -- [9]
-						"MERCHANT_SHOW", -- [10]
+						nil, -- [10]
 						"MERCHANT_CLOSED", -- [11]
 						"TRAINER_SHOW", -- [12]
 						"TRAINER_CLOSED", -- [13]
 						"SHIPMENT_CRAFTER_OPENED", -- [14]
 						"SHIPMENT_CRAFTER_CLOSED", -- [15]
 					},
-					["extras"] = {
-					},
-					["name"] = "NPC Interaction",
 					["priority"] = 20,
+					["condition"] = "local shown = false;\nfor k,v in pairs(this.frames) do\n    if (_G[v] and _G[v]:IsShown()) then\n        shown = true;\n    end\nend\nreturn UnitExists(\"npc\") and UnitIsUnit(\"npc\", \"target\") and shown;",
+					["executeOnInit"] = "this.frames = {\"GarrisonCapacitiveDisplayFrame\", \"BankFrame\", \"MerchantFrame\", \"GossipFrame\", \"ClassTrainerFrame\", \"QuestFrame\",}",
 					["delay"] = 0.5,
-					["cameraActions"] = {
-						["zoomFitIncrements"] = 0.5,
-						["zoomSetting"] = "fit",
-						["zoomFitToggleNameplate"] = true,
-						["zoomFitPosition"] = 90,
-						["zoomMin"] = 3,
-						["zoomValue"] = 4,
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomType"] = "fit",
 						["zoomMax"] = 30,
+						["zoomValue"] = 4,
+						["zoomMin"] = 3,
+						["zoomTimeIsMax"] = true,
+						["zoomTransitionTime"] = 0.75,
 					},
 				},
 				["020"] = {
-					["view"] = {
+					["enabled"] = true,
+					["viewZoom"] = {
+						["viewZoomType"] = "view",
+						["viewRestore"] = false,
+						["viewNumber"] = 5,
 						["enabled"] = true,
+					},
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\");",
 					["name"] = "Dungeon",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"ZONE_CHANGED_NEW_AREA", -- [1]
-					},
-					["priority"] = 2,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
 				},
 				["030"] = {
+					["enabled"] = true,
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\");",
-					["name"] = "Raid",
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["events"] = {
-						"ZONE_CHANGED_NEW_AREA", -- [1]
-					},
-					["priority"] = 3,
-					["extras"] = {
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
 				},
-				["101"] = {
-					["enabled"] = false,
-					["name"] = "Taxi",
-					["cameraCVars"] = {
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = -1,
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "set",
-						["zoomValue"] = 15,
-					},
-					["events"] = {
-						"PLAYER_CONTROL_LOST", -- [1]
-						"PLAYER_CONTROL_GAINED", -- [2]
-					},
-					["priority"] = 1000,
-					["extras"] = {
-						["hideUI"] = true,
-					},
-					["condition"] = "return UnitOnTaxi(\"player\");",
-				},
-				["005"] = {
-					["enabled"] = false,
-					["name"] = "World (Indoors)",
-					["events"] = {
-						"PLAYER_UPDATE_RESTING", -- [1]
-						"ZONE_CHANGED_INDOORS", -- [2]
-						"ZONE_CHANGED", -- [3]
-						"ZONE_CHANGED_NEW_AREA", -- [4]
-						"SPELL_UPDATE_USABLE", -- [5]
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomSetting"] = "in",
-						["zoomFitToggleNameplate"] = true,
-					},
-					["priority"] = 10,
-					["extras"] = {
-					},
-					["condition"] = "return not IsResting() and not IsInInstance() and IsIndoors();",
-				},
-			},
-			["defaultVersion"] = 1,
-			["firstRun"] = false,
-			["advanced"] = true,
-		},
-		["Default"] = {
-			["defaultVersion"] = 1,
-			["advanced"] = true,
-			["version"] = 2,
-			["situations"] = {
-				["033"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
-				},
-				["023"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
-				},
-				["006"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomFitUseCurAsMin"] = true,
-						["zoomMax"] = 35,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
-					["view"] = {
-						["enabled"] = true,
-					},
-				},
-				["302"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomSetting"] = "set",
-						["zoomValue"] = 7,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 1,
-					},
-				},
-				["005"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "in",
-					},
-				},
-				["002"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomSetting"] = "in",
-						["zoomValue"] = 8,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitchBaseFovPad"] = 1,
-						["test_cameraDynamicPitch"] = 1,
-						["test_cameraDynamicPitchBaseFovPadDownScale"] = 0,
-						["test_cameraDynamicPitchSmartPivotCutoffDist"] = 11,
-					},
-					["view"] = {
-						["enabled"] = true,
-					},
-				},
-				["034"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
-				},
-				["030"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
-				},
-				["102"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraOverShoulder"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraDynamicPitch"] = 0,
-					},
-				},
-				["050"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-				},
-				["020"] = {
-					["view"] = {
-						["enabled"] = true,
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-					},
-					["enabled"] = false,
-				},
-				["301"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomSetting"] = "in",
-						["zoomValue"] = 4,
-						["zoomFitToggleNameplate"] = true,
-					},
-				},
-				["060"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
+				["201"] = {
+					["enabled"] = true,
+					["executeOnInit"] = "this.buffs = {46924, 51690, 188499, 210152};",
+					["condition"] = "for k,v in pairs(this.buffs) do \n    if (UnitBuff(\"player\", GetSpellInfo(v))) then\n        return true;\n    end\nend\nreturn false;",
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = 0,
+						},
 					},
 				},
 				["031"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["name"] = "Raid (Outdoors)",
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
+				},
+			},
+			["defaultVersion"] = 1,
+			["version"] = 3,
+			["firstRun"] = false,
+		},
+		["Default"] = {
+			["standardSettings"] = {
+				["reactiveZoomAddIncrements"] = 3,
+				["reactiveZoomIncAddDifference"] = 4,
+				["shoulderOffsetZoomUpperBound"] = 8,
+				["cvars"] = {
+					["test_cameraDynamicPitchBaseFovPadFlying"] = 0.45,
+					["test_cameraDynamicPitch"] = 1,
+					["test_cameraDynamicPitchBaseFovPad"] = 0.1,
+					["cameraDistanceMaxZoomFactor"] = 2.6,
+				},
+				["reactiveZoomEnabled"] = false,
+				["reactiveZoomMaxZoomTime"] = 0.25,
+			},
+			["situations"] = {
+				["034"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
+				},
+				["033"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
+				},
+				["023"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
+				},
+				["006"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
+					["viewZoom"] = {
+						["viewZoomType"] = "view",
+						["enabled"] = true,
+						["viewRestore"] = false,
+						["viewNumber"] = 5,
+					},
+				},
+				["302"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 1,
+						},
+					},
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomValue"] = 7,
+						["zoomTimeIsMax"] = true,
+					},
+				},
+				["310"] = {
+					["enabled"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraTargetFocusInteractEnable"] = 0,
+							["test_cameraTargetFocusEnemyEnable"] = 1,
+							["test_cameraTargetFocusInteractStrengthYaw"] = 1,
+							["test_cameraTargetFocusEnemyStrengthPitch"] = 0.4,
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraTargetFocusInteractStrengthPitch"] = 0.75,
+							["test_cameraDynamicPitchBaseFovPad"] = 0.16,
+							["test_cameraDynamicPitchBaseFovPadDownScale"] = 0.25,
+							["test_cameraTargetFocusEnemyStrengthYaw"] = 0.5,
+							["test_cameraDynamicPitchSmartPivotCutoffDist"] = 10,
+							["test_cameraDynamicPitchBaseFovPadFlying"] = 0.45,
+						},
+					},
+				},
+				["002"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitchBaseFovPad"] = 1,
+							["test_cameraDynamicPitch"] = 1,
+							["test_cameraDynamicPitchSmartPivotCutoffDist"] = 11,
+							["test_cameraDynamicPitchBaseFovPadDownScale"] = 0,
+						},
+					},
+					["viewZoom"] = {
+						["viewZoomType"] = "view",
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["viewNumber"] = 5,
+						["viewRestore"] = false,
+						["zoomValue"] = 8,
+						["enabled"] = true,
+						["zoomTimeIsMax"] = true,
+						["zoomType"] = "in",
+					},
+				},
+				["101"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = -1,
+						},
+					},
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomValue"] = 15,
+						["zoomTimeIsMax"] = true,
+					},
+					["hideUI"] = {
+						["fadeOpacity"] = 0,
+						["hideEntireUI"] = true,
+						["enabled"] = true,
+					},
+				},
+				["102"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraOverShoulder"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
+				},
+				["030"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
+					},
+				},
+				["301"] = {
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomType"] = "in",
+						["zoomValue"] = 4,
+						["zoomTimeIsMax"] = true,
+					},
+				},
+				["005"] = {
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomType"] = "in",
+						["zoomTimeIsMax"] = true,
+						["zoomTransitionTime"] = 0.75,
+					},
+				},
+				["031"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
 				},
 				["021"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
 				},
-				["004"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomMin"] = 15,
-						["zoomFitToggleNameplate"] = true,
+				["020"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
-					["cameraCVars"] = {
-						["test_cameraOverShoulder"] = 10,
+					["viewZoom"] = {
+						["viewZoomType"] = "view",
+						["enabled"] = true,
+						["viewRestore"] = false,
+						["viewNumber"] = 5,
 					},
 				},
 				["001"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomMin"] = 10,
-						["zoomFitToggleNameplate"] = true,
-						["zoomSetting"] = "range",
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomType"] = "range",
+						["zoomTimeIsMax"] = true,
+						["zoomMin"] = 10,
 					},
 				},
 				["024"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+						},
 					},
 				},
-				["051"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-				},
-				["061"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
+				["004"] = {
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraOverShoulder"] = 10,
+						},
 					},
 				},
 				["300"] = {
-					["enabled"] = false,
 					["executeOnInit"] = "this.frames = {\"GarrisonCapacitiveDisplayFrame\", \"BankFrame\", \"MerchantFrame\", \"GossipFrame\", \"ClassTrainerFrame\", \"QuestFrame\",}",
 					["condition"] = "local shown = false;\nfor k,v in pairs(this.frames) do\n    if (_G[v] and _G[v]:IsShown()) then\n        shown = true;\n    end\nend\nreturn UnitExists(\"npc\") and UnitIsUnit(\"npc\", \"target\") and shown;",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 1,
-						["test_cameraTargetFocusInteractEnable"] = 1,
-						["test_cameraTargetFocusEnemyEnable"] = 1,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 1,
+							["test_cameraTargetFocusInteractEnable"] = 1,
+							["test_cameraTargetFocusEnemyEnable"] = 1,
+						},
+					},
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 30,
+						["zoomTransitionTime"] = 0.75,
+						["zoomType"] = "fit",
+						["zoomValue"] = 4,
+						["zoomTimeIsMax"] = true,
+						["zoomMin"] = 3,
 					},
 					["events"] = {
 						nil, -- [1]
@@ -834,98 +647,81 @@ DynamicCamDB = {
 						nil, -- [7]
 						"BANKFRAME_OPENED", -- [8]
 						"BANKFRAME_CLOSED", -- [9]
-						"MERCHANT_SHOW", -- [10]
+						nil, -- [10]
 						"MERCHANT_CLOSED", -- [11]
 						"TRAINER_SHOW", -- [12]
 						"TRAINER_CLOSED", -- [13]
 						"SHIPMENT_CRAFTER_OPENED", -- [14]
 						"SHIPMENT_CRAFTER_CLOSED", -- [15]
 					},
-					["cameraActions"] = {
-						["zoomFitIncrements"] = 0.5,
-						["zoomMax"] = 30,
-						["zoomMin"] = 3,
-						["zoomSetting"] = "fit",
-						["zoomFitToggleNameplate"] = true,
-						["zoomFitPosition"] = 90,
-						["zoomValue"] = 4,
-					},
 				},
 				["200"] = {
-					["enabled"] = false,
 					["executeOnInit"] = "this.spells = {136508, 189838, 54406, 94719, 556, 168487, 168499, 171253, 50977, 8690, 222695, 171253, 224869, 53140, 3565, 32271, 193759, 3562, 3567, 33690, 35715, 32272, 49358, 176248, 3561, 49359, 3566, 88342, 88344, 3563, 132627, 132621, 176242, 192085, 192084, 216016};",
-					["cameraActions"] = {
-						["zoomValue"] = 4,
-						["zoomMax"] = 20,
-						["rotate"] = true,
-						["timeIsMax"] = false,
-						["transitionTime"] = 10,
-						["zoomSetting"] = "in",
+					["condition"] = "for k,v in pairs(this.spells) do \n    if (UnitCastingInfo(\"player\") == GetSpellInfo(v)) then \n        return true;\n    end\nend\nreturn false;",
+					["rotation"] = {
+						["enabled"] = true,
+						["rotateBackTime"] = 10,
+						["rotationType"] = "degrees",
+						["rotationSpeed"] = 20,
 						["yawDegrees"] = 360,
-						["rotateSetting"] = "degrees",
-						["zoomFitToggleNameplate"] = true,
+						["rotationTime"] = 10,
+						["rotateBack"] = false,
 					},
 					["executeOnEnter"] = "local _, _, _, _, startTime, endTime = UnitCastingInfo(\"player\");\nthis.transitionTime = ((endTime - startTime)/1000) - .25;",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = 0,
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomType"] = "in",
+						["zoomValue"] = 4,
+						["zoomTransitionTime"] = 10,
 					},
-					["extras"] = {
-						["hideUI"] = true,
+					["hideUI"] = {
+						["fadeOpacity"] = 0,
+						["hideEntireUI"] = true,
+						["enabled"] = true,
 					},
-					["condition"] = "for k,v in pairs(this.spells) do \n    if (UnitCastingInfo(\"player\") == GetSpellInfo(v)) then \n        return true;\n    end\nend\nreturn false;",
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = 0,
+						},
+					},
 				},
 				["100"] = {
-					["enabled"] = false,
 					["condition"] = "return IsMounted();",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = 0,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = 0,
+						},
 					},
-					["cameraActions"] = {
+					["viewZoom"] = {
+						["enabled"] = true,
 						["zoomMax"] = 20,
-						["zoomSetting"] = "out",
+						["zoomTransitionTime"] = 0.75,
+						["zoomType"] = "out",
 						["zoomValue"] = 30,
-						["zoomFitToggleNameplate"] = true,
+						["zoomTimeIsMax"] = true,
 					},
 				},
 				["201"] = {
-					["enabled"] = false,
 					["condition"] = "for k,v in pairs(this.buffs) do \n    if (UnitBuff(\"player\", GetSpellInfo(v))) then\n        return true;\n    end\nend\nreturn false;",
-					["cameraCVars"] = {
-						["test_cameraDynamicPitch"] = 0,
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = 0,
-					},
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomFitToggleNameplate"] = true,
-					},
-				},
-				["101"] = {
-					["enabled"] = false,
-					["cameraActions"] = {
-						["zoomMax"] = 20,
-						["zoomSetting"] = "set",
-						["zoomValue"] = 15,
-						["zoomFitToggleNameplate"] = true,
-					},
-					["cameraCVars"] = {
-						["test_cameraHeadMovementStrength"] = 0,
-						["test_cameraOverShoulder"] = -1,
-					},
-					["extras"] = {
-						["hideUI"] = true,
+					["situationSettings"] = {
+						["cvars"] = {
+							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = 0,
+						},
 					},
 				},
 			},
-			["defaultCvars"] = {
-				["test_cameraDynamicPitchBaseFovPad"] = 0.01,
-				["test_cameraDynamicPitch"] = 1,
-			},
+			["defaultVersion"] = 1,
+			["version"] = 3,
 			["firstRun"] = false,
 		},
 	},
+}
+minZoomValues = {
 }

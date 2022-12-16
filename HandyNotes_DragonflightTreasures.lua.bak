@@ -1,0 +1,24 @@
+
+HandyNotes_DragonflightTreasuresDB = {
+	["profileKeys"] = {
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+	},
+	["profiles"] = {
+		["Alluvium - Argent Dawn"] = {
+			["achievementsHidden"] = {
+				[16584] = true,
+			},
+		},
+		["Estuary - Argent Dawn"] = {
+		},
+		["Emptyrivers - Argent Dawn"] = {
+			["achievementsHidden"] = {
+				[15890] = true,
+				[16578] = false,
+			},
+			["tooltip_pointanchor"] = true,
+		},
+	},
+}
