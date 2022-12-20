@@ -1,8 +1,10 @@
 
 MinimapButtonButtonOptions = {
-	["buttonsShown"] = true,
 	["direction"] = "leftdown",
-	["version"] = 2,
+	["scale"] = 1,
+	["buttonsShown"] = true,
+	["buttonScale"] = 1,
+	["version"] = 3,
 	["position"] = {
 		"TOPRIGHT", -- [1]
 		nil, -- [2]
@@ -10,7 +12,6 @@ MinimapButtonButtonOptions = {
 		0, -- [4]
 		-8.380881309509277, -- [5]
 	},
-	["scale"] = 1,
 	["buttonsPerRow"] = 20,
 	["whitelist"] = {
 		["ZygorGuidesViewerMapIcon"] = true,

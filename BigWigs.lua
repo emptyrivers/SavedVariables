@@ -1,11 +1,11 @@
 
 BigWigs3DB = {
-	["discord"] = 15,
-	["global"] = {
-		["watchedMovies"] = {
-			[-1152] = true,
-		},
+	["profileKeys"] = {
+		["Emptyrivers - Arthas"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
+		["Estuary - Argent Dawn"] = "Default",
 	},
+	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
@@ -37,13 +37,11 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_Messages"] = {
-		},
 		["LibDualSpec-1.0"] = {
+		},
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -52,15 +50,18 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_Messages"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
+		["BigWigs_Plugins_Statistics"] = {
+		},
 	},
 	["wipe80"] = true,
-	["profileKeys"] = {
-		["Emptyrivers - Argent Dawn"] = "Default",
-		["Emptyrivers - Arthas"] = "Default",
+	["global"] = {
+		["watchedMovies"] = {
+			[-1152] = true,
+		},
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -112,22 +113,37 @@ BigWigsStatsDB = {
 		},
 	},
 	[2522] = {
-		[2500] = {
+		[2486] = {
 			["normal"] = {
+				["best"] = 435.9070000000065,
 				["kills"] = 1,
-				["wipes"] = 3,
-				["best"] = 384.954000000027,
 			},
 		},
 		[2480] = {
 			["normal"] = {
-				["best"] = 325.5560000000114,
+				["best"] = 276.4090000001015,
+				["kills"] = 2,
+			},
+		},
+		[2502] = {
+			["normal"] = {
 				["kills"] = 1,
+				["wipes"] = 11,
+				["best"] = 460.0530000000144,
 			},
 		},
 		[2482] = {
 			["normal"] = {
-				["wipes"] = 5,
+				["kills"] = 1,
+				["wipes"] = 7,
+				["best"] = 420.9049999999115,
+			},
+		},
+		[2500] = {
+			["normal"] = {
+				["kills"] = 2,
+				["wipes"] = 4,
+				["best"] = 334.454000000027,
 			},
 		},
 	},

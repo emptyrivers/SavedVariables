@@ -1,9 +1,14 @@
 
 DialogKeyDFDB = {
 	["profileKeys"] = {
+		["Emptyrivers - Sargeras"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
-		["Estuary - Argent Dawn"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Sverdrup - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
+		["Emptyrivers - Arthas"] = "Default",
+		["Estuary - Argent Dawn"] = "Default",
 	},
 	["global"] = {
 		["showGlow"] = false,

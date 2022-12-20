@@ -1,6 +1,7 @@
 
 TomTomDB = {
 	["profileKeys"] = {
+		["Sverdrup - Argent Dawn"] = "Default",
 		["Canerena - Arthas"] = "Default",
 		["Beefyrivers - Thrall"] = "Default",
 		["Yandanderex - Moon Guard"] = "Default",
@@ -41,6 +42,7 @@ TomTomDB = {
 		["Tinyrivers - Kel'Thuzad"] = "Default",
 		["Testrivers - Bleeding Hollow"] = "Default",
 		["Sassyrivers - Arthas"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
 		["Serenerivers - Kel'Thuzad"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
 		["Brightrivers - Korgath"] = "Default",
@@ -53,27 +55,27 @@ TomTomDB = {
 		["Wildrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
-		["Alluvium - Argent Dawn"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Garumn - Arthas"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
-		["Treesurgeon - Korgath"] = "Default",
-		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Savattellir - Arthas"] = "Default",
-		["Edgyrivers - Kel'Thuzad"] = "Default",
-		["Evilrivers - Kel'Thuzad"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Notariver - Arthas"] = "Default",
+		["Emptyrivers - Bleeding Hollow"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Edgyrivers - Kel'Thuzad"] = "Default",
+		["Savattellir - Arthas"] = "Default",
+		["Treesurgeon - Korgath"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Garumn - Arthas"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
+		["Alluvium - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -88,8 +90,8 @@ TomTomDB = {
 				["closestusecontinent"] = true,
 			},
 			["mapcoords"] = {
-				["playerenable"] = false,
 				["cursorenable"] = false,
+				["playerenable"] = false,
 			},
 			["block"] = {
 				["enable"] = false,
@@ -100,50 +102,62 @@ TomTomDB = {
 TomTomWaypoints = nil
 TomTomWaypointsM = {
 	["profileKeys"] = {
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
-		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Garumn - Arthas"] = "Garumn - Arthas",
-		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Savattellir - Arthas"] = "Savattellir - Arthas",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Canerena - Arthas"] = "Canerena - Arthas",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
-		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
-		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
-		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
-		["Ragingrivers - Arthas"] = {
+		["Garumn - Arthas"] = {
 		},
 		["Savattellir - Arthas"] = {
 		},
-		["Garumn - Arthas"] = {
-		},
-		["Emptyrivers - Bleeding Hollow"] = {
-		},
-		["Alluvium - Argent Dawn"] = {
+		["Sverdrup - Argent Dawn"] = {
 		},
 		["Canerena - Arthas"] = {
 		},
 		["Ailisuul - Arthas"] = {
 		},
-		["Beefyrivers - Arthas"] = {
+		["Mahntaiaga - Arthas"] = {
+		},
+		["Alluvium - Argent Dawn"] = {
+		},
+		["Emptyrivers - Bleeding Hollow"] = {
+		},
+		["Headcut - Argent Dawn"] = {
+		},
+		["Ragingrivers - Arthas"] = {
+		},
+		["Evilrivers - Kel'Thuzad"] = {
+		},
+		["Emptyrivers - Sargeras"] = {
 		},
 		["Daedrasminia - Arthas"] = {
 		},
-		["Emptyrivers - Arthas"] = {
+		["Testrivers - Arthas"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
-		["Testrivers - Arthas"] = {
+		["Emptyrivers - Arthas"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
-		["Mahntaiaga - Arthas"] = {
+		["Beefyrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

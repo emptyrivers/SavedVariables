@@ -1,0 +1,21 @@
+
+InFlightDB = {
+	["version"] = "retail",
+	["global"] = {
+		["Alliance"] = {
+			[2805] = {
+				["name"] = "Wingrest Embassy",
+				[2810] = 98,
+			},
+		},
+	},
+	["upload"] = 1672611836,
+	["profileKeys"] = {
+		["Estuary - Argent Dawn"] = "Default",
+	},
+	["dbinit"] = 920,
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
