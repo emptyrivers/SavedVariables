@@ -1,0 +1,25 @@
+
+NarciBarberShopDB = {
+	["ToggleNotification"] = true,
+	["Hotkeys"] = {
+		["RotateRight"] = "D",
+		["RotateLeft"] = "A",
+		["ZoomOut"] = "S",
+		["ZoomIn"] = "W",
+	},
+	["PlayerData"] = {
+		["0EEA107B"] = {
+			["playerName"] = "Sverdrup",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[2] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+	},
+}

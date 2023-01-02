@@ -5,7 +5,7 @@ BugSackDB = {
 	["useMaster"] = false,
 	["altwipe"] = true,
 	["mute"] = false,
-	["auto"] = false,
+	["auto"] = true,
 	["chatframe"] = false,
 }
 BugSackLDBIconDB = {

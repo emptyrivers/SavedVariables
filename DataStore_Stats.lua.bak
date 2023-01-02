@@ -1,0 +1,253 @@
+
+DataStore_StatsDB = {
+	["profileKeys"] = {
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+	},
+	["global"] = {
+		["Characters"] = {
+			["Default.Argent Dawn.Alluvium"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|14.360963821411",
+					["HealthMax"] = 82760,
+					["Melee"] = "712-751|3.3730001449585|969|0|14.360963821411|0",
+					["MaxPower"] = "0|26265",
+					["Defense"] = "0|0|3|0|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "565|969|4138|2751|0",
+					["Spell"] = "2751|2869|0|14.360963821411|504|4202",
+				},
+				["lastUpdate"] = 1672648668,
+			},
+			["Default.Argent Dawn.Riparium"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|7.9358057975769",
+					["HealthMax"] = 46809,
+					["Melee"] = "13-19|3.1310000419617|0|0|7.9358057975769|0",
+					["MaxPower"] = "0|68985",
+					["Spell"] = "1367|1417|0|7.9358057975769|650|3449",
+					["PVP"] = "0|0",
+					["Base"] = "287|589|2229|1367|0",
+					["Defense"] = "0|0|3|0|0|0",
+				},
+				["lastUpdate"] = 1672655494,
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|22.00040435791",
+					["HealthMax"] = 249100,
+					["Melee"] = "445-604|3.0320000648499|0|0|22.00040435791|0",
+					["MaxPower"] = "0|315981",
+					["Spell"] = "7225|7853|0|22.00040435791|2593|30093",
+					["PVP"] = "0|0",
+					["Base"] = "916|1422|12455|7225|0",
+					["Defense"] = "0|0|3|0|0|0",
+				},
+				["SeasonBestMapsOvertime"] = {
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 8,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 2159,
+					},
+					[200] = {
+						["texture"] = 1498162,
+						["level"] = 8,
+						["name"] = "Halls of Valor",
+						["timeInSeconds"] = 2600,
+					},
+					[400] = {
+						["texture"] = 4746636,
+						["level"] = 15,
+						["name"] = "The Nokhud Offensive",
+						["timeInSeconds"] = 3534,
+					},
+					[399] = {
+						["texture"] = 4746639,
+						["level"] = 11,
+						["name"] = "Ruby Life Pools",
+						["timeInSeconds"] = 4901,
+					},
+				},
+				["WeeklyBestKeystone"] = {
+					["level"] = 15,
+					["name"] = "The Nokhud Offensive",
+					["timeInSeconds"] = 3534,
+				},
+				["lastUpdate"] = 1672693203,
+				["SeasonBestMaps"] = {
+					[210] = {
+						["texture"] = 1498160,
+						["level"] = 8,
+						["name"] = "Court of Stars",
+						["timeInSeconds"] = 1238,
+					},
+					[165] = {
+						["texture"] = 1042063,
+						["level"] = 13,
+						["name"] = "Shadowmoon Burial Grounds",
+						["timeInSeconds"] = 1464,
+					},
+					[200] = {
+						["texture"] = 1498162,
+						["level"] = 5,
+						["name"] = "Halls of Valor",
+						["timeInSeconds"] = 1594,
+					},
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 2,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 863,
+					},
+					[399] = {
+						["texture"] = 4746639,
+						["level"] = 6,
+						["name"] = "Ruby Life Pools",
+						["timeInSeconds"] = 1225,
+					},
+					[400] = {
+						["texture"] = 4746636,
+						["level"] = 2,
+						["name"] = "The Nokhud Offensive",
+						["timeInSeconds"] = 1336,
+					},
+					[401] = {
+						["texture"] = 4746634,
+						["level"] = 10,
+						["name"] = "The Azure Vault",
+						["timeInSeconds"] = 1576,
+					},
+					[2] = {
+						["texture"] = 632363,
+						["level"] = 12,
+						["name"] = "Temple of the Jade Serpent",
+						["timeInSeconds"] = 1325,
+					},
+				},
+				["WeeklyBestMaps"] = {
+					[165] = {
+						["texture"] = 1042063,
+						["level"] = 13,
+						["name"] = "Shadowmoon Burial Grounds",
+						["timeInSeconds"] = 1464,
+					},
+					[399] = {
+						["texture"] = 4746639,
+						["level"] = 2,
+						["name"] = "Ruby Life Pools",
+						["timeInSeconds"] = 1264,
+					},
+					[400] = {
+						["texture"] = 4746636,
+						["level"] = 15,
+						["name"] = "The Nokhud Offensive",
+						["timeInSeconds"] = 3534,
+					},
+					[401] = {
+						["texture"] = 4746634,
+						["level"] = 10,
+						["name"] = "The Azure Vault",
+						["timeInSeconds"] = 1576,
+					},
+					[2] = {
+						["texture"] = 632363,
+						["level"] = 12,
+						["name"] = "Temple of the Jade Serpent",
+						["timeInSeconds"] = 1325,
+					},
+				},
+				["dungeonScore"] = 1225,
+			},
+			["Default.Argent Dawn.Confluence"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|23.914024353027",
+					["HealthMax"] = 25520,
+					["Melee"] = "507-547|2.4100000858307|1030|0|23.914024353027|0",
+					["MaxPower"] = "0|10000",
+					["Defense"] = "0|0|3|10.024042129517|10|0",
+					["PVP"] = "0|0",
+					["Base"] = "1030|156|1276|450|0",
+					["Spell"] = "1160|1167|0|23.914024353027|261|1600",
+				},
+				["lastUpdate"] = 1672656305,
+			},
+			["Default.Argent Dawn.Sverdrup"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|20.850292205811",
+					["HealthMax"] = 172060,
+					["Melee"] = "2617-2834|2.4480001926422|4806|0|20.850292205811|0",
+					["MaxPower"] = "3|120",
+					["Defense"] = "0|0|10.052202224731|3|0|0",
+					["PVP"] = "92|0",
+					["Base"] = "901|4806|8603|2088|0",
+					["Spell"] = "5478|5806|0|20.850292205811|1055|12500",
+				},
+				["SeasonBestMaps"] = {
+					[210] = {
+						["texture"] = 1498160,
+						["level"] = 2,
+						["name"] = "Court of Stars",
+						["timeInSeconds"] = 1150,
+					},
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 7,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 1788,
+					},
+					[165] = {
+						["texture"] = 1042063,
+						["level"] = 4,
+						["name"] = "Shadowmoon Burial Grounds",
+						["timeInSeconds"] = 1195,
+					},
+				},
+				["WeeklyBestKeystone"] = {
+					["level"] = 8,
+					["name"] = "Halls of Valor",
+					["timeInSeconds"] = 2532,
+				},
+				["lastUpdate"] = 1672687864,
+				["SeasonBestMapsOvertime"] = {
+					[200] = {
+						["texture"] = 1498162,
+						["level"] = 8,
+						["name"] = "Halls of Valor",
+						["timeInSeconds"] = 2532,
+					},
+				},
+				["WeeklyBestMaps"] = {
+					[210] = {
+						["texture"] = 1498160,
+						["level"] = 2,
+						["name"] = "Court of Stars",
+						["timeInSeconds"] = 1150,
+					},
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 7,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 1788,
+					},
+					[165] = {
+						["texture"] = 1042063,
+						["level"] = 4,
+						["name"] = "Shadowmoon Burial Grounds",
+						["timeInSeconds"] = 1195,
+					},
+					[200] = {
+						["texture"] = 1498162,
+						["level"] = 8,
+						["name"] = "Halls of Valor",
+						["timeInSeconds"] = 2532,
+					},
+				},
+				["dungeonScore"] = 381,
+			},
+		},
+	},
+}

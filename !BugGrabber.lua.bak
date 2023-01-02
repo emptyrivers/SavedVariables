@@ -1,14 +1,15 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 1627,
+	["session"] = 1829,
 	["errors"] = {
 		{
-			["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'DialogKey' tried to call the protected function 'EndBoundTradeable()'.",
-			["time"] = "2022/12/20 12:20:22",
-			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:480: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:480>\n[string \"=[C]\"]: in function `EndBoundTradeable'\n[string \"@Interface/FrameXML/StaticPopup.lua\"]:3033: in function `OnAccept'\n[string \"@Interface/FrameXML/StaticPopup.lua\"]:5289: in function `StaticPopup_OnClick'\n[string \"*StaticPopup.xml:24_OnClick\"]:1: in function <[string \"*StaticPopup.xml:24_OnClick\"]:1>\n[string \"=[C]\"]: in function `Click'\n[string \"@Interface/AddOns/DialogKey/main.lua\"]:129: in function <Interface/AddOns/DialogKey/main.lua:111>",
-			["session"] = 1621,
-			["counter"] = 2,
+			["message"] = "[string \"return UnitPowerMax()\"]:1: Usage: local maxPower = UnitPowerMax(unitToken [, powerType, unmodified])",
+			["time"] = "2023/01/02 14:31:56",
+			["locals"] = "",
+			["stack"] = "[string \"=[C]\"]: in function `UnitPowerMax'\n[string \"return UnitPowerMax()\"]:1: in function `func'\n[string \"@Interface/SharedXML/Dump.lua\"]:397: in function `DevTools_DumpCommand'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:2427: in function `?'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:5224: in function `ChatEdit_ParseText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4888: in function `ChatEdit_SendText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4924: in function <Interface/FrameXML/ChatFrame.lua:4920>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*ChatFrame.xml:127_OnEnterPressed\"]:1: in function <[string \"*ChatFrame.xml:127_OnEnterPressed\"]:1>",
+			["session"] = 1829,
+			["counter"] = 1,
 		}, -- [1]
 	},
 }

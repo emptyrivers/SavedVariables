@@ -4,7 +4,9 @@ SimulationCraftDB = {
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
@@ -18,7 +20,11 @@ SimulationCraftDB = {
 		},
 		["Sverdrup - Argent Dawn"] = {
 		},
+		["Confluence - Argent Dawn"] = {
+		},
 		["Ailisuul - Arthas"] = {
+		},
+		["Riparium - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 			["frame"] = {

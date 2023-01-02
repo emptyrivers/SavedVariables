@@ -3,10 +3,12 @@ AddOnSkinsDB = {
 	["profileKeys"] = {
 		["Emptyrivers - Sargeras"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
-		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
-		["Emptyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
+		["Confluence - Argent Dawn"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Riparium - Argent Dawn"] = "Default",
+		["Emptyrivers - Arthas"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
@@ -18,11 +20,10 @@ AddOnSkinsDB = {
 			["EmbedBelowTop"] = true,
 			["EmbedSystem"] = true,
 			["EmbedOoC"] = true,
+			["EmbedOoCDelay"] = 2,
 			["Immersion"] = false,
 		},
 	},
 }
 AddOnSkinsDS = {
-	[4.61] = {
-	},
 }

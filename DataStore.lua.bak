@@ -1,0 +1,39 @@
+
+DataStoreDB = {
+	["profileKeys"] = {
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+	},
+	["global"] = {
+		["Guilds"] = {
+			["Default.Argent Dawn.House Stalwart"] = {
+				["faction"] = "Alliance",
+			},
+		},
+		["Characters"] = {
+			["Default.Argent Dawn.Alluvium"] = {
+				["guildName"] = "House Stalwart",
+				["faction"] = "Alliance",
+			},
+			["Default.Argent Dawn.Riparium"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
+			},
+			["Default.Argent Dawn.Confluence"] = {
+				["faction"] = "Alliance",
+			},
+			["Default.Argent Dawn.Sverdrup"] = {
+				["faction"] = "Horde",
+			},
+		},
+		["ShortToLongRealmNames"] = {
+			["ArgentDawn"] = "Argent Dawn",
+		},
+	},
+}

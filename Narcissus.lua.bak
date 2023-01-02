@@ -93,24 +93,36 @@ NarciAchievementOptions = {
 	["DIY"] = {
 	},
 	["UseAsDefault"] = false,
-	["Scale"] = 1,
+	["Scale"] = 1.1,
 	["ReplaceToast"] = true,
-	["Theme"] = 1,
+	["Theme"] = 2,
 	["IncompleteFirst"] = true,
 }
 NarciStatisticsDB = {
 	["InstalledDate"] = 1671525547,
-	["TimeSpentInNarcissus"] = 256,
+	["TimeSpentInNarcissus"] = 751,
 	["AddOnActionForbidden"] = {
-		["timeLastError"] = 1671569038,
+		["timeLastError"] = 1672638509,
 		["addons"] = {
 			["DialogKey"] = {
 				["errorTime"] = {
-					1671560422, -- [1]
-					1671569038, -- [2]
+					1672091733, -- [1]
+					1672206997, -- [2]
+					1672252012, -- [3]
+					1672510097, -- [4]
+					1672557014, -- [5]
+					1672638509, -- [6]
+				},
+				["count"] = 14,
+				["timeLastError"] = 1672638509,
+			},
+			["ElvUI"] = {
+				["errorTime"] = {
+					1672380637, -- [1]
+					1672380639, -- [2]
 				},
 				["count"] = 2,
-				["timeLastError"] = 1671569038,
+				["timeLastError"] = 1672380639,
 			},
 		},
 	},
@@ -128,22 +140,42 @@ NarciTurntableOptions = {
 	["NoTextImageHeight"] = 800,
 }
 NarciCharacterProfiles = {
-	["0EE580BC"] = {
-		["race"] = 7,
-		["name"] = "Emptyrivers",
-		["birth"] = 1671525547,
+	["0EE8A760"] = {
+		["race"] = 22,
+		["name"] = "Estuary",
+		["birth"] = 1671668194,
 		["serverID"] = "75",
-		["lastVisit"] = 1671570779,
+		["lastVisit"] = 1672008666,
 		["outfits"] = {
 		},
-		["class"] = 8,
+		["class"] = 4,
+	},
+	["0EE5568B"] = {
+		["race"] = 52,
+		["name"] = "Alluvium",
+		["birth"] = 1671771802,
+		["serverID"] = "75",
+		["lastVisit"] = 1672643375,
+		["outfits"] = {
+		},
+		["class"] = 13,
+	},
+	["0EEA1257"] = {
+		["race"] = 30,
+		["name"] = "Confluence",
+		["birth"] = 1672016667,
+		["serverID"] = "75",
+		["lastVisit"] = 1672655623,
+		["outfits"] = {
+		},
+		["class"] = 2,
 	},
 	["0EEA107B"] = {
 		["race"] = 2,
 		["name"] = "Sverdrup",
 		["birth"] = 1671571276,
 		["serverID"] = "75",
-		["lastVisit"] = 1671571394,
+		["lastVisit"] = 1672687809,
 		["outfits"] = {
 			{
 				["s"] = "77344,77343,77345,62568,0,0,84603,10722,84223,10719,51820,0,0",
@@ -151,5 +183,25 @@ NarciCharacterProfiles = {
 			}, -- [1]
 		},
 		["class"] = 10,
+	},
+	["0EE580BC"] = {
+		["race"] = 7,
+		["name"] = "Emptyrivers",
+		["birth"] = 1671525547,
+		["serverID"] = "75",
+		["lastVisit"] = 1672688486,
+		["outfits"] = {
+		},
+		["class"] = 8,
+	},
+	["0EEA1695"] = {
+		["race"] = 29,
+		["name"] = "Riparium",
+		["birth"] = 1672553336,
+		["serverID"] = "75",
+		["lastVisit"] = 1672654750,
+		["outfits"] = {
+		},
+		["class"] = 9,
 	},
 }

@@ -46,8 +46,10 @@ PasteDB = {
 		["Hiddenrivers - Korgath"] = "Hiddenrivers - Korgath",
 		["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
 		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
+		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
 		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
 		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
@@ -62,7 +64,7 @@ PasteDB = {
 		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
-		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Magicrivers - Korgath"] = "Magicrivers - Korgath",
 		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
@@ -284,10 +286,16 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
+		["Edgyrivers - Arthas"] = {
+			["loaded"] = true,
+		},
 		["Blindrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Evilrivers - Korgath"] = {
+			["loaded"] = true,
+		},
+		["Confluence - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 		["Alluvium - Argent Dawn"] = {
@@ -364,7 +372,7 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Edgyrivers - Arthas"] = {
+		["Riparium - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 		["Savattellir - Arthas"] = {
