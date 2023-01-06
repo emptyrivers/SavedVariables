@@ -14,6 +14,7 @@ AddOnSkinsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["Altoholic"] = false,
 			["ColorPickerPlus"] = false,
 			["EmbedBackdrop"] = false,
 			["EmbedBackdropTransparent"] = false,
@@ -26,4 +27,6 @@ AddOnSkinsDB = {
 	},
 }
 AddOnSkinsDS = {
+	[4.62] = {
+	},
 }

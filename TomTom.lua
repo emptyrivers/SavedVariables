@@ -53,16 +53,16 @@ TomTomDB = {
 		["Edgyrivers - Arthas"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
 		["Crazyrivers - Arthas"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
@@ -72,7 +72,7 @@ TomTomDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Notariver - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
@@ -162,6 +162,71 @@ TomTomWaypointsM = {
 		["Emptyrivers - Arthas"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
+			[2024] = {
+				["2024:437800000:619000000:Azure Archives"] = {
+					2024, -- [1]
+					0.4378, -- [2]
+					0.619, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Azure Archives",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["2024:263000000:363100000:Ancient Outlook"] = {
+					2024, -- [1]
+					0.263, -- [2]
+					0.3631, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Ancient Outlook",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["2024:660700000:511100000:Rustpine Den"] = {
+					2024, -- [1]
+					0.6607, -- [2]
+					0.5111, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Rustpine Den",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Luckyrivers - Sargeras"] = {
 		},

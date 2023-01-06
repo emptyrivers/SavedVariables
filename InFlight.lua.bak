@@ -14,6 +14,10 @@ InFlightDB = {
 			[1858] = {
 				[1742] = 130,
 			},
+			[2774] = {
+				["name"] = "Camp Antonidas",
+				[2809] = 111,
+			},
 			[2839] = {
 				["name"] = "Rusza'thar Reach",
 				[2840] = 4,
@@ -35,9 +39,9 @@ InFlightDB = {
 				["name"] = "Gelikyr Post",
 				[2774] = 127,
 			},
-			[2774] = {
-				["name"] = "Camp Antonidas",
-				[2809] = 111,
+			[2789] = {
+				["name"] = "Three-Falls Lookout",
+				[2810] = 135,
 			},
 			[2842] = {
 				["name"] = "Rubyscale Outpost",
@@ -46,6 +50,10 @@ InFlightDB = {
 			[2775] = {
 				["name"] = "Iskaara",
 				[2810] = 182,
+			},
+			[2807] = {
+				["name"] = "Ruby Life Pools",
+				[2810] = 49,
 			},
 			[2818] = {
 				["name"] = "Vault of the Incarnates",
@@ -58,33 +66,40 @@ InFlightDB = {
 				[2774] = 42,
 				["name"] = "Azure Archives",
 			},
+			[2774] = {
+				["name"] = "Camp Antonidas",
+				[2775] = 85,
+			},
 			[2775] = {
+				[2792] = 119,
 				["name"] = "Iskaara",
 				[2795] = 104,
-				[2792] = 119,
 			},
 			[2784] = {
-				["name"] = "Camp Nowhere",
+				[2809] = 170,
 				[2775] = 145,
+				["name"] = "Camp Nowhere",
 			},
 			[2792] = {
 				["name"] = "Maruukai",
-				[2775] = 118,
-				[2789] = 68,
-				[2825] = 44,
 				[2793] = 44,
+				[2775] = 118,
+				[2825] = 44,
+				[2789] = 68,
 			},
 			[2793] = {
-				["name"] = "Forkriver Crossing",
 				[2794] = 55,
+				["name"] = "Forkriver Crossing",
+				[2810] = 80,
 			},
 			[2797] = {
 				["name"] = "Emberwatch",
 				[2808] = 37,
 			},
 			[2798] = {
-				["name"] = "Pinewood Post",
 				[2797] = 52,
+				["name"] = "Pinewood Post",
+				[2810] = 53,
 			},
 			[2802] = {
 				["name"] = "Obsidian Throne",
@@ -103,29 +118,31 @@ InFlightDB = {
 				["name"] = "Ruby Life Pools",
 				[2792] = 75,
 			},
+			[2809] = {
+				["name"] = "Dragonscale Basecamp",
+				[2798] = 57,
+			},
 			[2810] = {
+				[2784] = 128,
 				[2806] = 69,
 				[2807] = 46,
 				[2773] = 147,
-				[2801] = 90,
-				[2792] = 63,
+				[2793] = 78,
 				["name"] = "Valdrakken",
+				[2792] = 63,
+				[2801] = 90,
 			},
 			[2811] = {
 				["name"] = "Gelikyr Post",
 				[2794] = 135,
 			},
-			[2825] = {
-				["name"] = "Ohn'iri Springs",
-				[2793] = 29,
-			},
-			[2774] = {
-				["name"] = "Camp Antonidas",
-				[2775] = 85,
-			},
 			[2836] = {
 				["name"] = "Algeth'era",
 				[2842] = 7,
+			},
+			[2825] = {
+				["name"] = "Ohn'iri Springs",
+				[2793] = 29,
 			},
 			[2838] = {
 				["name"] = "Cobalt Assembly",
@@ -134,14 +151,15 @@ InFlightDB = {
 		},
 	},
 	["upload"] = 1673822193,
+	["dbinit"] = 920,
 	["profileKeys"] = {
 		["Riparium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
-	["dbinit"] = 920,
 	["profiles"] = {
 		["Default"] = {
 		},

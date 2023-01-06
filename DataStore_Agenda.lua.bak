@@ -2,67 +2,66 @@
 DataStore_AgendaDB = {
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2023-01-03",
+			["NextWeeklyReset"] = "2023-01-10",
 		},
 		["Characters"] = {
 			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1672648634,
+				["lastUpdate"] = 1672964890,
+			},
+			["Default.Argent Dawn.Headcut"] = {
+				["lastUpdate"] = 1672970338,
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1672655377,
+				["lastUpdate"] = 1672980269,
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
+				["Calendar"] = {
+					"2023-01-06|21:30|Raid|0|7", -- [1]
+					"2023-01-11|20:30|Raid|0|7", -- [2]
+					"2023-01-13|21:30|Raid|0|7", -- [3]
+					"2023-01-18|20:30|Raid|0|7", -- [4]
+					"2023-01-20|21:30|Raid|0|7", -- [5]
+					"2023-01-25|20:30|Raid|0|7", -- [6]
+					"2023-01-27|21:30|Raid|0|7", -- [7]
+					"2023-02-01|20:30|Raid|0|7", -- [8]
+					"2023-02-03|21:30|Raid|0|7", -- [9]
+					"2023-02-08|20:30|Raid|0|7", -- [10]
+					"2023-02-10|21:30|Raid|0|7", -- [11]
+				},
+				["DungeonIDs"] = {
+					["Vault of the Incarnates Normal|810465644"] = "328134|1673034666|0|1",
+				},
+				["lastUpdate"] = 1673035097,
 				["LFGDungeons"] = {
-					["2370.Count"] = 2,
-					["2389.Eranog"] = true,
-					["2390.Count"] = 7,
-					["2390.The Primal Council"] = true,
-					["2370.The Primal Council"] = true,
-					["2389.Count"] = 1,
 					["2390.Broodkeeper Diurna"] = true,
-					["2390.Kurog Grimtotem"] = true,
 					["2390.Sennarth, The Cold Breath"] = true,
+					["2390.Count"] = 7,
+					["2390.Kurog Grimtotem"] = true,
 					["2390.Dathea, Ascended"] = true,
-					["2370.Eranog"] = true,
 					["2390.Terros"] = true,
+					["2390.The Primal Council"] = true,
 					["2390.Eranog"] = true,
 				},
-				["DungeonIDs"] = {
-					["Vault of the Incarnates Looking For Raid|1207887580"] = "64721|1672693279|0|1",
-					["Vault of the Incarnates Heroic|809945356"] = "64721|1672693279|0|1",
-					["Vault of the Incarnates Normal|809732884"] = "64721|1672693279|0|1",
-					["Ruby Life Pools Mythic|809801632"] = "64721|1672693279|0|0",
-					["Uldaman: Legacy of Tyr Mythic|364250291"] = "64721|1672693279|0|0",
-				},
-				["lastUpdate"] = 1672693279,
-				["Calendar"] = {
-					"2023-01-04|20:30|Raid|0|7", -- [1]
-					"2023-01-06|21:30|Raid|0|7", -- [2]
-					"2023-01-11|20:30|Raid|0|7", -- [3]
-					"2023-01-13|21:30|Raid|0|7", -- [4]
-					"2023-01-18|20:30|Raid|0|7", -- [5]
-					"2023-01-20|21:30|Raid|0|7", -- [6]
-					"2023-01-25|20:30|Raid|0|7", -- [7]
-					"2023-01-27|21:30|Raid|0|7", -- [8]
-				},
+			},
+			["Default.Argent Dawn.Estuary"] = {
+				["lastUpdate"] = 1673032178,
 			},
 			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1672655626,
+				["lastUpdate"] = 1672972020,
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["DungeonIDs"] = {
-					["Trial of Valor Mythic|809773161"] = "70190|1672687810|0|1",
-				},
-				["lastUpdate"] = 1672687810,
+				["lastUpdate"] = 1672964339,
 			},
 		},
 	},

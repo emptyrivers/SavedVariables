@@ -14,6 +14,10 @@ InFlightDB = {
 			[1858] = {
 				[1742] = 130,
 			},
+			[2818] = {
+				["name"] = "Vault of the Incarnates",
+				[2810] = 75,
+			},
 			[2839] = {
 				["name"] = "Rusza'thar Reach",
 				[2840] = 4,
@@ -47,9 +51,13 @@ InFlightDB = {
 				["name"] = "Iskaara",
 				[2810] = 182,
 			},
-			[2818] = {
-				["name"] = "Vault of the Incarnates",
-				[2810] = 75,
+			[2807] = {
+				["name"] = "Ruby Life Pools",
+				[2810] = 49,
+			},
+			[2789] = {
+				["name"] = "Three-Falls Lookout",
+				[2810] = 135,
 			},
 		},
 		["Alliance"] = {
@@ -63,32 +71,35 @@ InFlightDB = {
 				[2775] = 85,
 			},
 			[2775] = {
+				[2795] = 104,
 				[2792] = 119,
 				["name"] = "Iskaara",
-				[2795] = 104,
 			},
 			[2784] = {
-				["name"] = "Camp Nowhere",
+				[2809] = 170,
 				[2775] = 145,
+				["name"] = "Camp Nowhere",
 			},
 			[2792] = {
 				["name"] = "Maruukai",
-				[2793] = 44,
+				[2789] = 68,
 				[2775] = 118,
 				[2825] = 44,
-				[2789] = 68,
+				[2793] = 44,
 			},
 			[2793] = {
-				["name"] = "Forkriver Crossing",
 				[2794] = 55,
+				["name"] = "Forkriver Crossing",
+				[2810] = 80,
 			},
 			[2797] = {
 				["name"] = "Emberwatch",
 				[2808] = 37,
 			},
 			[2798] = {
-				["name"] = "Pinewood Post",
 				[2797] = 52,
+				["name"] = "Pinewood Post",
+				[2810] = 53,
 			},
 			[2802] = {
 				["name"] = "Obsidian Throne",
@@ -107,13 +118,19 @@ InFlightDB = {
 				["name"] = "Ruby Life Pools",
 				[2792] = 75,
 			},
+			[2809] = {
+				["name"] = "Dragonscale Basecamp",
+				[2798] = 57,
+			},
 			[2810] = {
+				[2784] = 128,
 				[2806] = 69,
 				[2807] = 46,
 				[2773] = 147,
-				["name"] = "Valdrakken",
-				[2792] = 63,
 				[2801] = 90,
+				[2792] = 63,
+				["name"] = "Valdrakken",
+				[2793] = 78,
 			},
 			[2811] = {
 				["name"] = "Gelikyr Post",
@@ -134,14 +151,15 @@ InFlightDB = {
 		},
 	},
 	["upload"] = 1673822193,
-	["dbinit"] = 920,
 	["profileKeys"] = {
 		["Riparium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
+	["dbinit"] = 920,
 	["profiles"] = {
 		["Default"] = {
 		},

@@ -34,12 +34,12 @@ Blizzard_CombatLog_Filters = {
 				["unitBraces"] = true,
 				["schoolNameHighlighting"] = true,
 				["noMeleeSwingColoring"] = false,
-				["hideBuffs"] = true,
+				["unitIcons"] = true,
 				["hideDebuffs"] = true,
 				["amountSchoolColoring"] = false,
 				["amountColoring"] = false,
 				["schoolNameActorColoring"] = false,
-				["unitIcons"] = true,
+				["hideBuffs"] = true,
 				["timestampFormat"] = "%H:%M:%S",
 				["abilityHighlighting"] = true,
 				["actionActorColoring"] = false,
@@ -94,10 +94,10 @@ Blizzard_CombatLog_Filters = {
 						["r"] = 0.75,
 					},
 				},
+				["eventColoring"] = {
+				},
 				["highlightedEvents"] = {
 					["PARTY_KILL"] = true,
-				},
-				["eventColoring"] = {
 				},
 				["defaults"] = {
 					["damage"] = {
@@ -277,12 +277,12 @@ Blizzard_CombatLog_Filters = {
 				["unitBraces"] = true,
 				["schoolNameHighlighting"] = true,
 				["noMeleeSwingColoring"] = false,
-				["hideBuffs"] = true,
+				["unitIcons"] = true,
 				["hideDebuffs"] = true,
 				["amountSchoolColoring"] = false,
 				["amountColoring"] = false,
 				["schoolNameActorColoring"] = false,
-				["unitIcons"] = true,
+				["hideBuffs"] = true,
 				["timestampFormat"] = "%H:%M:%S",
 				["abilityHighlighting"] = true,
 				["actionActorColoring"] = false,
@@ -337,10 +337,10 @@ Blizzard_CombatLog_Filters = {
 						["r"] = 0.75,
 					},
 				},
+				["eventColoring"] = {
+				},
 				["highlightedEvents"] = {
 					["PARTY_KILL"] = true,
-				},
-				["eventColoring"] = {
 				},
 				["defaults"] = {
 					["damage"] = {

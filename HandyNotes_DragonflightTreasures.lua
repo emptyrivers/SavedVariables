@@ -16,44 +16,70 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Emptyrivers - Sargeras"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
+			["achievementsHidden"] = {
+				[16576] = true,
+				[16584] = true,
+				[16323] = true,
+				[15890] = true,
+				[16634] = true,
+				[16574] = true,
+				[16578] = true,
+				[16577] = true,
+				[16424] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
+			},
+		},
+		["Sverdrup - Argent Dawn"] = {
 			["groupsHidden"] = {
 				["races"] = true,
 			},
 			["achievementsHidden"] = {
-				[16584] = true,
-				[16578] = true,
-				[15890] = true,
-				[16323] = true,
-				[16634] = true,
-			},
-		},
-		["Sverdrup - Argent Dawn"] = {
-			["achievementsHidden"] = {
 				[16424] = true,
-				[16676] = false,
+				[16676] = true,
 				[16584] = true,
 				[16678] = true,
 				[16446] = true,
 				[16299] = true,
 				[16634] = true,
 				[15890] = true,
-				[16545] = true,
+				[16576] = true,
 				[16575] = true,
 				[16423] = true,
-				[16576] = true,
+				[16545] = true,
 				[16323] = true,
 				[16577] = true,
 				[16574] = true,
 				[16578] = true,
 				[16677] = true,
 			},
+		},
+		["Headcut - Argent Dawn"] = {
 			["groupsHidden"] = {
 				["races"] = true,
 			},
-		},
-		["Headcut - Argent Dawn"] = {
+			["achievementsHidden"] = {
+				[16576] = true,
+				[16577] = true,
+				[16424] = true,
+				[15890] = true,
+				[16574] = true,
+			},
 		},
 		["Confluence - Argent Dawn"] = {
+			["groupsHidden"] = {
+				["races"] = true,
+			},
+			["achievementsHidden"] = {
+				[16576] = true,
+				[16577] = true,
+				[16578] = true,
+				[15890] = true,
+				[16574] = true,
+				[16424] = true,
+				[16634] = true,
+			},
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 		},
@@ -75,25 +101,32 @@ HandyNotes_DragonflightTreasuresDB = {
 			},
 		},
 		["Emptyrivers - Argent Dawn"] = {
+			["tooltip_pointanchor"] = true,
 			["groupsHidden"] = {
 				["glyphs"] = true,
 				["magicbound"] = true,
-			},
-			["achievementsHidden"] = {
-				[16323] = true,
-				[16578] = true,
-				[15890] = true,
 			},
 			["groupsHiddenByZone"] = {
 				[2022] = {
 					["disturbeddirt"] = false,
 				},
 			},
-			["tooltip_pointanchor"] = true,
+			["achievementsHidden"] = {
+				[16323] = true,
+				[16578] = true,
+				[15890] = true,
+			},
 		},
 		["Emptyrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
+			["achievementsHidden"] = {
+				[16576] = true,
+				[16577] = true,
+				[16424] = true,
+				[15890] = true,
+				[16574] = true,
+			},
 		},
 	},
 }

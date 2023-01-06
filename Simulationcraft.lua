@@ -4,6 +4,7 @@ SimulationCraftDB = {
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
@@ -19,6 +20,8 @@ SimulationCraftDB = {
 		["Alluvium - Argent Dawn"] = {
 		},
 		["Sverdrup - Argent Dawn"] = {
+		},
+		["Headcut - Argent Dawn"] = {
 		},
 		["Confluence - Argent Dawn"] = {
 		},
