@@ -1,16 +1,18 @@
 
 MSBTProfiles_SavedVars = {
+	["userDisabled"] = true,
 	["profiles"] = {
 		["Default"] = {
 			["enableBlizzardHealing"] = false,
-			["creationVersion"] = "5.8.1",
+			["enableBlizzardDamage"] = false,
 			["scrollAreas"] = {
+				["Static"] = {
+					["offsetY"] = -247,
+					["disabled"] = true,
+					["offsetX"] = -21,
+				},
 				["Incoming"] = {
 					["offsetX"] = -256,
-					["offsetY"] = -256,
-				},
-				["Outgoing"] = {
-					["offsetX"] = 216,
 					["offsetY"] = -256,
 				},
 				["Notification"] = {
@@ -18,16 +20,14 @@ MSBTProfiles_SavedVars = {
 					["offsetX"] = -168,
 					["disabled"] = true,
 				},
-				["Static"] = {
-					["offsetY"] = -247,
-					["disabled"] = true,
-					["offsetX"] = -21,
+				["Outgoing"] = {
+					["offsetX"] = 216,
+					["offsetY"] = -256,
 				},
 			},
-			["enableBlizzardDamage"] = false,
+			["creationVersion"] = "5.8.1",
 		},
 	},
-	["userDisabled"] = true,
 }
 MSBT_SavedMedia = {
 	["fonts"] = {

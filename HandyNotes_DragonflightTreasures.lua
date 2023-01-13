@@ -16,19 +16,19 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Emptyrivers - Sargeras"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
+			["groupsHidden"] = {
+				["races"] = true,
+			},
 			["achievementsHidden"] = {
 				[16576] = true,
 				[16584] = true,
 				[16323] = true,
 				[15890] = true,
+				[16424] = true,
 				[16634] = true,
-				[16574] = true,
 				[16578] = true,
 				[16577] = true,
-				[16424] = true,
-			},
-			["groupsHidden"] = {
-				["races"] = true,
+				[16574] = true,
 			},
 		},
 		["Sverdrup - Argent Dawn"] = {
@@ -43,50 +43,52 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16446] = true,
 				[16299] = true,
 				[16634] = true,
-				[15890] = true,
-				[16576] = true,
-				[16575] = true,
-				[16423] = true,
-				[16545] = true,
-				[16323] = true,
-				[16577] = true,
-				[16574] = true,
-				[16578] = true,
 				[16677] = true,
+				[15890] = true,
+				[16578] = true,
+				[16575] = true,
+				[16545] = true,
+				[16638] = true,
+				[16574] = true,
+				[16577] = true,
+				[16576] = true,
+				[16423] = true,
+				[16323] = true,
 			},
 		},
 		["Headcut - Argent Dawn"] = {
-			["groupsHidden"] = {
-				["races"] = true,
-			},
 			["achievementsHidden"] = {
 				[16576] = true,
 				[16577] = true,
 				[16424] = true,
 				[15890] = true,
 				[16574] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
 			},
 		},
 		["Confluence - Argent Dawn"] = {
+			["achievementsHidden"] = {
+				[16676] = true,
+				[16575] = true,
+				[16576] = true,
+				[16584] = true,
+				[16577] = true,
+				[15890] = true,
+				[16323] = true,
+				[16424] = true,
+				[16578] = true,
+				[16574] = true,
+				[16634] = true,
+			},
 			["groupsHidden"] = {
 				["races"] = true,
-			},
-			["achievementsHidden"] = {
-				[16576] = true,
-				[16577] = true,
-				[16578] = true,
-				[15890] = true,
-				[16574] = true,
-				[16424] = true,
-				[16634] = true,
 			},
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 		},
 		["Riparium - Argent Dawn"] = {
-			["groupsHidden"] = {
-				["races"] = true,
-			},
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
@@ -94,28 +96,32 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16584] = true,
 				[16323] = true,
 				[15890] = true,
+				[16577] = true,
 				[16634] = true,
 				[16578] = true,
 				[16574] = true,
-				[16577] = true,
+				[16424] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
 			},
 		},
 		["Emptyrivers - Argent Dawn"] = {
-			["tooltip_pointanchor"] = true,
 			["groupsHidden"] = {
 				["glyphs"] = true,
-				["magicbound"] = true,
-			},
-			["groupsHiddenByZone"] = {
-				[2022] = {
-					["disturbeddirt"] = false,
-				},
+				["magicbound"] = false,
 			},
 			["achievementsHidden"] = {
 				[16323] = true,
 				[16578] = true,
 				[15890] = true,
 			},
+			["groupsHiddenByZone"] = {
+				[2022] = {
+					["disturbeddirt"] = false,
+				},
+			},
+			["tooltip_pointanchor"] = true,
 		},
 		["Emptyrivers - Arthas"] = {
 		},

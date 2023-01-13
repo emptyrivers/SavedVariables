@@ -2,12 +2,31 @@
 NarciBarberShopDB = {
 	["ToggleNotification"] = true,
 	["Hotkeys"] = {
-		["ZoomIn"] = "W",
+		["RotateRight"] = "D",
 		["RotateLeft"] = "A",
 		["ZoomOut"] = "S",
-		["RotateRight"] = "D",
+		["ZoomIn"] = "W",
 	},
 	["PlayerData"] = {
+		["0EE5568B"] = {
+			["playerName"] = "Alluvium",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[52] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["alternateForm"] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
 		["0EEA107B"] = {
 			["playerName"] = "Sverdrup",
 			["realmID"] = "75",
@@ -20,7 +39,6 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 					{
-						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["data"] = {
 							{
 								1612, -- [1]
@@ -100,6 +118,7 @@ NarciBarberShopDB = {
 							}, -- [19]
 						},
 						["name"] = "New Look #1",
+						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["timeCreated"] = 1672083038,
 					}, -- [1]
 				},

@@ -14,8 +14,8 @@ AddOnSkinsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
-			["Altoholic"] = false,
 			["ColorPickerPlus"] = false,
+			["Auctionator"] = false,
 			["EmbedBackdrop"] = false,
 			["EmbedBackdropTransparent"] = false,
 			["EmbedBelowTop"] = true,
@@ -23,6 +23,7 @@ AddOnSkinsDB = {
 			["EmbedOoC"] = true,
 			["EmbedOoCDelay"] = 2,
 			["Immersion"] = false,
+			["Altoholic"] = false,
 		},
 	},
 }

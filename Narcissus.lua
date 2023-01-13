@@ -60,34 +60,34 @@ NarcissusDB = {
 	["TalentTreeForEquipmentManager"] = true,
 	["NamePlateNameOffset"] = 0,
 	["MissingEnchantAlert"] = true,
-	["FontHeightItemName"] = 10,
+	["ConduitTooltip"] = false,
 	["GemManager"] = true,
 	["ModelPanelScale"] = 1,
 	["TooltipTheme"] = "Bright",
 	["AnchorToMinimap"] = true,
-	["Version"] = 10000,
+	["EnableDoubleTap"] = true,
 	["TalentTreeForInspection"] = true,
-	["BaseLineOffset"] = 0,
-	["UseEscapeButton"] = true,
-	["CameraOrbit"] = true,
-	["GlobalScale"] = 0.8,
+	["SearchRelativesHotkey"] = "TAB",
+	["AutoFilterGem"] = false,
 	["Tutorials"] = {
 		["ExitConfirmation"] = false,
 		["Movement"] = false,
 		["SpellVisualBrowser"] = true,
 		["NPCBrowserEntance"] = false,
-		["WeaponBrowser"] = false,
 		["NPCBrowser"] = true,
+		["WeaponBrowser"] = false,
 	},
-	["AutoFilterGem"] = false,
-	["SearchRelativesHotkey"] = "TAB",
-	["EnableDoubleTap"] = true,
+	["GlobalScale"] = 0.8,
+	["CameraOrbit"] = true,
+	["UseEscapeButton"] = true,
+	["BaseLineOffset"] = 0,
+	["Version"] = 10000,
 	["SearchSuggestEnable"] = true,
-	["ConduitTooltip"] = false,
+	["FontHeightItemName"] = 10,
 	["DressingRoomUseTargetModel"] = true,
 }
 NarciAchievementOptions = {
-	["IncompleteFirst"] = true,
+	["ShowRedMark"] = false,
 	["pinnedStatistics"] = {
 	},
 	["DIY"] = {
@@ -96,28 +96,28 @@ NarciAchievementOptions = {
 	["Scale"] = 1.1,
 	["ReplaceToast"] = true,
 	["Theme"] = 2,
-	["ShowRedMark"] = false,
+	["IncompleteFirst"] = true,
 }
 NarciStatisticsDB = {
 	["InstalledDate"] = 1671525547,
-	["TimeSpentInNarcissus"] = 792,
+	["TimeSpentInNarcissus"] = 1051,
 	["AddOnActionForbidden"] = {
+		["timeLastError"] = 1673380957,
 		["addons"] = {
 			["DialogKey"] = {
 				["errorTime"] = {
-					1672510097, -- [1]
-					1672557014, -- [2]
-					1672638509, -- [3]
+					1673132125, -- [1]
+					1673137486, -- [2]
+					1673380957, -- [3]
 				},
-				["count"] = 14,
-				["timeLastError"] = 1672638509,
+				["count"] = 17,
+				["timeLastError"] = 1673380957,
 			},
 			["ElvUI"] = {
 				["count"] = 2,
 				["timeLastError"] = 1672380639,
 			},
 		},
-		["timeLastError"] = 1672638509,
 	},
 }
 NarciTurntableOptions = {
@@ -138,47 +138,47 @@ NarciCharacterProfiles = {
 		["name"] = "Estuary",
 		["birth"] = 1671668194,
 		["serverID"] = "75",
-		["lastVisit"] = 1673032178,
+		["lastVisit"] = 1673515608,
 		["outfits"] = {
 		},
 		["class"] = 4,
 	},
-	["0EEA1695"] = {
-		["race"] = 29,
-		["name"] = "Riparium",
-		["birth"] = 1672553336,
+	["0EEA1257"] = {
+		["race"] = 30,
+		["name"] = "Confluence",
+		["birth"] = 1672016667,
 		["serverID"] = "75",
-		["lastVisit"] = 1673036529,
+		["lastVisit"] = 1673641660,
 		["outfits"] = {
 		},
-		["class"] = 9,
+		["class"] = 2,
 	},
 	["0EE5568B"] = {
 		["race"] = 52,
 		["name"] = "Alluvium",
 		["birth"] = 1671771802,
 		["serverID"] = "75",
-		["lastVisit"] = 1672964888,
+		["lastVisit"] = 1673512930,
 		["outfits"] = {
 		},
 		["class"] = 13,
 	},
-	["0EE580BC"] = {
-		["race"] = 7,
-		["name"] = "Emptyrivers",
-		["birth"] = 1671525547,
+	["0EEA10F9"] = {
+		["race"] = 25,
+		["name"] = "Headcut",
+		["birth"] = 1672870428,
 		["serverID"] = "75",
-		["lastVisit"] = 1673033415,
+		["lastVisit"] = 1673298465,
 		["outfits"] = {
 		},
-		["class"] = 8,
+		["class"] = 7,
 	},
 	["0EEA107B"] = {
 		["race"] = 2,
 		["name"] = "Sverdrup",
 		["birth"] = 1671571276,
 		["serverID"] = "75",
-		["lastVisit"] = 1672964337,
+		["lastVisit"] = 1673639038,
 		["outfits"] = {
 			{
 				["s"] = "77344,77343,77345,62568,0,0,84603,10722,84223,10719,51820,0,0",
@@ -187,24 +187,24 @@ NarciCharacterProfiles = {
 		},
 		["class"] = 10,
 	},
-	["0EEA10F9"] = {
-		["race"] = 25,
-		["name"] = "Headcut",
-		["birth"] = 1672870428,
+	["0EE580BC"] = {
+		["race"] = 7,
+		["name"] = "Emptyrivers",
+		["birth"] = 1671525547,
 		["serverID"] = "75",
-		["lastVisit"] = 1672967497,
+		["lastVisit"] = 1673643446,
 		["outfits"] = {
 		},
-		["class"] = 7,
+		["class"] = 8,
 	},
-	["0EEA1257"] = {
-		["race"] = 30,
-		["name"] = "Confluence",
-		["birth"] = 1672016667,
+	["0EEA1695"] = {
+		["race"] = 29,
+		["name"] = "Riparium",
+		["birth"] = 1672553336,
 		["serverID"] = "75",
-		["lastVisit"] = 1672971027,
+		["lastVisit"] = 1673638131,
 		["outfits"] = {
 		},
-		["class"] = 2,
+		["class"] = 9,
 	},
 }

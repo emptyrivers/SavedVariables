@@ -10,8 +10,8 @@ SimulationCraftDB = {
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -37,9 +37,9 @@ SimulationCraftDB = {
 		},
 		["Beefyrivers - Arthas"] = {
 		},
-		["Emptyrivers - Arthas"] = {
-		},
 		["Garumn - Arthas"] = {
+		},
+		["Emptyrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},
