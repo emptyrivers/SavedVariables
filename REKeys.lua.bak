@@ -1,0 +1,17 @@
+
+REKeysSettings = {
+	["MinimapButtonSettings"] = {
+		["hide"] = false,
+	},
+	["OfflinePlayers"] = false,
+	["ResetTimestamp"] = 324241,
+	["FullDungeonName"] = false,
+	["PinnedCharacters"] = {
+	},
+	["CurrentWeek"] = 5,
+	["ServerTimestamp"] = 1673375154,
+	["ChatQuery"] = true,
+	["Sorting"] = 1,
+}
+REKeysDB2 = {
+}
