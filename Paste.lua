@@ -56,7 +56,7 @@ PasteDB = {
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
 		["Notariver - Arthas"] = "Notariver - Arthas",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
@@ -66,7 +66,7 @@ PasteDB = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Magicrivers - Korgath"] = "Magicrivers - Korgath",
 		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
@@ -187,8 +187,8 @@ PasteDB = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 			},
 		},
@@ -321,8 +321,16 @@ PasteDB = {
 		["Savattellir - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Ragingrivers - Arthas"] = {
+		["Emptyrivers - Sargeras"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+				["height"] = 320,
+				["top"] = 883.999877929688,
+				["left"] = 631.000061035156,
+				["width"] = 500.000030517578,
+			},
 		},
 		["Mecharivers - Sargeras"] = {
 			["loaded"] = true,
@@ -375,16 +383,8 @@ PasteDB = {
 		["Riparium - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Emptyrivers - Sargeras"] = {
+		["Ragingrivers - Arthas"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-				["height"] = 320,
-				["top"] = 883.999877929688,
-				["left"] = 631.000061035156,
-				["width"] = 500.000030517578,
-			},
 		},
 		["Magicrivers - Korgath"] = {
 			["loaded"] = true,

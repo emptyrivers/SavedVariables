@@ -4,12 +4,12 @@ REKeysSettings = {
 		["hide"] = false,
 	},
 	["OfflinePlayers"] = false,
-	["ResetTimestamp"] = 324241,
+	["ResetTimestamp"] = 41992,
 	["FullDungeonName"] = false,
 	["PinnedCharacters"] = {
 	},
-	["CurrentWeek"] = 5,
-	["ServerTimestamp"] = 1673375154,
+	["CurrentWeek"] = 6,
+	["ServerTimestamp"] = 1673981529,
 	["ChatQuery"] = true,
 	["Sorting"] = 1,
 }

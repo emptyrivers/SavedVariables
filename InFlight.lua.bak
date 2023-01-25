@@ -6,6 +6,10 @@ InFlightDB = {
 			[1858] = {
 				[1742] = 130,
 			},
+			[2773] = {
+				["name"] = "Azure Archives",
+				[2774] = 42,
+			},
 			[2774] = {
 				["name"] = "Camp Antonidas",
 				[2809] = 111,
@@ -22,9 +26,14 @@ InFlightDB = {
 				["name"] = "Maruukai",
 				[2810] = 65,
 			},
-			[2773] = {
-				["name"] = "Azure Archives",
-				[2774] = 42,
+			[2801] = {
+				[2806] = 93,
+				[2810] = 91,
+				["name"] = "Apex Observatory",
+			},
+			[2811] = {
+				["name"] = "Gelikyr Post",
+				[2774] = 127,
 			},
 			[2807] = {
 				["name"] = "Ruby Life Pools",
@@ -34,10 +43,6 @@ InFlightDB = {
 				[2805] = 100,
 				["name"] = "Valdrakken",
 				[2775] = 179,
-			},
-			[2811] = {
-				["name"] = "Gelikyr Post",
-				[2774] = 127,
 			},
 			[2814] = {
 				["name"] = "Veiled Ossuary",
@@ -59,12 +64,20 @@ InFlightDB = {
 				["name"] = "Rusza'thar Reach",
 				[2840] = 4,
 			},
+			[2840] = {
+				["name"] = "Shady Sanctuary",
+				[2839] = 5,
+			},
 			[2842] = {
 				["name"] = "Rubyscale Outpost",
 				[2838] = 7,
 			},
 		},
 		["Alliance"] = {
+			[2834] = {
+				["name"] = "Eon's Fringe",
+				[2842] = 8,
+			},
 			[2774] = {
 				["name"] = "Camp Antonidas",
 				[2775] = 85,
@@ -89,10 +102,10 @@ InFlightDB = {
 			},
 			[2792] = {
 				["name"] = "Maruukai",
-				[2775] = 118,
+				[2793] = 44,
 				[2789] = 68,
 				[2825] = 44,
-				[2793] = 44,
+				[2775] = 118,
 			},
 			[2825] = {
 				["name"] = "Ohn'iri Springs",
@@ -109,15 +122,18 @@ InFlightDB = {
 				[2801] = 44,
 			},
 			[2773] = {
+				[2792] = 127,
+				["name"] = "Azure Archives",
 				[2774] = 42,
 				[2775] = 68,
-				["name"] = "Azure Archives",
 				[2810] = 147,
 			},
 			[2775] = {
+				[2792] = 119,
 				["name"] = "Iskaara",
 				[2795] = 104,
-				[2792] = 119,
+				[2818] = 247,
+				[2802] = 188,
 			},
 			[2810] = {
 				[2806] = 69,
@@ -134,13 +150,14 @@ InFlightDB = {
 				["name"] = "Temporal Conflux",
 				[2800] = 160,
 			},
-			[2836] = {
-				["name"] = "Algeth'era",
-				[2842] = 7,
+			[2805] = {
+				[2793] = 150,
+				[2810] = 98,
+				["name"] = "Wingrest Embassy",
 			},
-			[2838] = {
-				["name"] = "Cobalt Assembly",
-				[2842] = 7,
+			[2806] = {
+				["name"] = "Life Vault Ruins",
+				[2793] = 124,
 			},
 			[2793] = {
 				[2794] = 55,
@@ -152,21 +169,23 @@ InFlightDB = {
 				[2842] = 7,
 			},
 			[2797] = {
-				["name"] = "Emberwatch",
 				[2808] = 37,
+				["name"] = "Emberwatch",
+				[2787] = 75,
 			},
-			[2806] = {
-				["name"] = "Life Vault Ruins",
-				[2793] = 124,
+			[2838] = {
+				[2842] = 7,
+				["name"] = "Cobalt Assembly",
+				[2836] = 7,
 			},
-			[2805] = {
-				[2793] = 150,
-				[2810] = 98,
-				["name"] = "Wingrest Embassy",
+			[2836] = {
+				["name"] = "Algeth'era",
+				[2842] = 7,
 			},
 		},
 	},
-	["upload"] = 1673822193,
+	["upload"] = 1675142287,
+	["dbinit"] = 920,
 	["profileKeys"] = {
 		["Riparium - Argent Dawn"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
@@ -176,7 +195,6 @@ InFlightDB = {
 		["Confluence - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
-	["dbinit"] = 920,
 	["profiles"] = {
 		["Default"] = {
 		},

@@ -13,9 +13,10 @@ DataStore_TalentsDB = {
 		["Characters"] = {
 			["Default.Argent Dawn.Alluvium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673512640,
+				["lastUpdate"] = 1674529887,
 				["Specializations"] = {
 					0, -- [1]
+					0, -- [2]
 				},
 				["activeSpecIndex"] = 1,
 				["activeSpecName"] = "Devastation",
@@ -23,7 +24,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Headcut"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673298465,
+				["lastUpdate"] = 1673991439,
 				["Specializations"] = {
 					0, -- [1]
 					[3] = 0,
@@ -34,7 +35,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673637563,
+				["lastUpdate"] = 1673738869,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -46,19 +47,19 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673639800,
+				["lastUpdate"] = 1674499500,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
 					0, -- [3]
 				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Frost",
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Arcane",
 				["Class"] = "MAGE",
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673516027,
+				["lastUpdate"] = 1673918288,
 				["Specializations"] = {
 					[3] = 0,
 				},
@@ -68,7 +69,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673639392,
+				["lastUpdate"] = 1674530342,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -80,7 +81,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Confluence"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1673641445,
+				["lastUpdate"] = 1674080600,
 				["Specializations"] = {
 					[2] = 0,
 					[3] = 0,
@@ -103,20 +104,20 @@ DataStore_TalentsRefDB = {
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
-		["SHAMAN"] = {
+		["PALADIN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 262,
+					["id"] = 65,
 				}, -- [1]
 				{
-					["id"] = 263,
+					["id"] = 66,
 				}, -- [2]
 				{
-					["id"] = 264,
+					["id"] = 70,
 				}, -- [3]
 			},
-			["Version"] = 47213,
+			["Version"] = 47631,
 		},
 		["WARLOCK"] = {
 			["Locale"] = "enUS",
@@ -133,20 +134,20 @@ DataStore_TalentsRefDB = {
 			},
 			["Version"] = 47213,
 		},
-		["ROGUE"] = {
+		["SHAMAN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 259,
+					["id"] = 262,
 				}, -- [1]
 				{
-					["id"] = 260,
+					["id"] = 263,
 				}, -- [2]
 				{
-					["id"] = 261,
+					["id"] = 264,
 				}, -- [3]
 			},
-			["Version"] = 47213,
+			["Version"] = 47631,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",
@@ -161,7 +162,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 64,
 				}, -- [3]
 			},
-			["Version"] = 47213,
+			["Version"] = 47631,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -176,7 +177,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 269,
 				}, -- [3]
 			},
-			["Version"] = 47213,
+			["Version"] = 47631,
 		},
 		["EVOKER"] = {
 			["Locale"] = "enUS",
@@ -188,19 +189,19 @@ DataStore_TalentsRefDB = {
 					["id"] = 1468,
 				}, -- [2]
 			},
-			["Version"] = 47213,
+			["Version"] = 47631,
 		},
-		["PALADIN"] = {
+		["ROGUE"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 65,
+					["id"] = 259,
 				}, -- [1]
 				{
-					["id"] = 66,
+					["id"] = 260,
 				}, -- [2]
 				{
-					["id"] = 70,
+					["id"] = 261,
 				}, -- [3]
 			},
 			["Version"] = 47213,

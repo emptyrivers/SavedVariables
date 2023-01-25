@@ -54,15 +54,15 @@ TomTomDB = {
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
 		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Blindrivers - Korgath"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Garumn - Arthas"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
 		["Notariver - Arthas"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
@@ -72,12 +72,12 @@ TomTomDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
+		["Blindrivers - Korgath"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -119,9 +119,9 @@ TomTomWaypointsM = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Testrivers - Arthas"] = "Testrivers - Arthas",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
@@ -157,11 +157,11 @@ TomTomWaypointsM = {
 		},
 		["Riparium - Argent Dawn"] = {
 		},
+		["Emptyrivers - Arthas"] = {
+		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Testrivers - Arthas"] = {
-		},
-		["Emptyrivers - Arthas"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},

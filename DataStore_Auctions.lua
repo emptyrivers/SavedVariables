@@ -12,24 +12,36 @@ DataStore_AuctionsDB = {
 	["global"] = {
 		["Characters"] = {
 			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1673295535,
-				["lastVisitDate"] = "2023/01/09 14:18",
+				["lastUpdate"] = 1674514862,
+				["lastVisitDate"] = "2023/01/23 17:01",
 			},
 			["Default.Argent Dawn.Headcut"] = {
-				["lastUpdate"] = 1672967798,
-				["lastVisitDate"] = "2023/01/05 19:16",
+				["lastUpdate"] = 1673931145,
+				["lastVisitDate"] = "2023/01/16 22:52",
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastVisitDate"] = "2023/01/13 15:25",
-				["lastUpdate"] = 1673645204,
+				["lastAuctionsScan"] = 1674082599,
+				["lastVisitDate"] = "2023/01/22 17:37",
+				["lastUpdate"] = 1674430671,
+				["Auctions"] = {
+					"0|201944|1||0|8493900|86394|612190887", -- [1]
+					"0|201942|1||0|10000000|86399|612191174", -- [2]
+					"0|201942|1||0|10000000|86390|612190545", -- [3]
+				},
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1673297850,
-				["lastVisitDate"] = "2023/01/09 14:57",
+				["lastAuctionsScan"] = 1673817781,
+				["lastVisitDate"] = "2023/01/15 20:28",
+				["lastUpdate"] = 1673836100,
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1673512513,
-				["lastVisitDate"] = "2023/01/12 02:35",
+				["lastUpdate"] = 1674514276,
+				["lastVisitDate"] = "2023/01/23 16:51",
+			},
+			["Default.Argent Dawn.Confluence"] = {
+				["lastAuctionsScan"] = 1673912287,
+				["lastVisitDate"] = "2023/01/16 17:37",
+				["lastUpdate"] = 1673912287,
 			},
 		},
 	},

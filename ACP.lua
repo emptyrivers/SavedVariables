@@ -2,6 +2,8 @@
 ACP_Data = {
 	["sorter"] = "Separate LOD List",
 	["NoRecurse"] = false,
+	["NoChildren"] = true,
+	["scale"] = 0.8018255628683393,
 	["AddonSet"] = {
 		{
 			"AddonFactory", -- [1]
@@ -564,8 +566,6 @@ ACP_Data = {
 			"ElvUI", -- [73]
 		},
 	},
-	["scale"] = 0.8018255628683393,
-	["NoChildren"] = true,
 	["collapsed"] = {
 	},
 	["ProtectedAddons"] = {

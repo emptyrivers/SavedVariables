@@ -11,7 +11,7 @@ WowLua_DB = {
 		{
 			["untitled"] = true,
 			["name"] = "Untitled 2",
-			["content"] = "",
+			["content"] = "local f = FriendFrame or CreateFrame(\"frame\", \"FriendFrame\")\nf:UnregisterAllEvents()\nf:RegisterUnitEvent(\"UNIT_AURA\", \"softenemy\")\nf:SetScript(\"OnEvent\", function(self, event, ...) print(event, ...) end)",
 		}, -- [2]
 	},
 	["untitled"] = 3,

@@ -14,6 +14,7 @@ AddOnSkinsDB = {
 	},
 	["profiles"] = {
 		["Default"] = {
+			["EmbedIsHidden"] = true,
 			["ColorPickerPlus"] = false,
 			["Auctionator"] = false,
 			["EmbedBackdrop"] = false,

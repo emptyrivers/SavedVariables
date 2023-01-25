@@ -53,16 +53,16 @@ TomTomDB = {
 		["Edgyrivers - Arthas"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
-		["Blindrivers - Korgath"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
+		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
@@ -72,7 +72,7 @@ TomTomDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Notariver - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
@@ -119,9 +119,9 @@ TomTomWaypointsM = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Testrivers - Arthas"] = "Testrivers - Arthas",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
@@ -157,11 +157,11 @@ TomTomWaypointsM = {
 		},
 		["Daedrasminia - Arthas"] = {
 		},
+		["Emptyrivers - Argent Dawn"] = {
+		},
 		["Testrivers - Arthas"] = {
 		},
 		["Emptyrivers - Arthas"] = {
-		},
-		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},

@@ -41,9 +41,9 @@ DetailsDataStorage = {
 						387.25, -- [2]
 						11, -- [3]
 					},
-					["Hytham"] = {
-						12714139, -- [1]
-						390.375, -- [2]
+					["Rylacus"] = {
+						6520620, -- [1]
+						367.625, -- [2]
 						4, -- [3]
 					},
 					["Artaxion"] = {
@@ -51,10 +51,10 @@ DetailsDataStorage = {
 						380.0625, -- [2]
 						8, -- [3]
 					},
-					["Aehrick"] = {
-						10113260, -- [1]
-						388.3125, -- [2]
-						1, -- [3]
+					["Hytham"] = {
+						12714139, -- [1]
+						390.375, -- [2]
+						4, -- [3]
 					},
 					["Mysdelin"] = {
 						4247388, -- [1]
@@ -81,10 +81,10 @@ DetailsDataStorage = {
 						391.875, -- [2]
 						7, -- [3]
 					},
-					["Rylacus"] = {
-						6520620, -- [1]
-						367.625, -- [2]
-						4, -- [3]
+					["Aehrick"] = {
+						10113260, -- [1]
+						388.3125, -- [2]
+						1, -- [3]
 					},
 					["Giulietta"] = {
 						11031181, -- [1]
@@ -227,9 +227,9 @@ DetailsDataStorage = {
 						387.25, -- [2]
 						11, -- [3]
 					},
-					["Hytham"] = {
-						24963640, -- [1]
-						390.375, -- [2]
+					["Rylacus"] = {
+						9277307, -- [1]
+						367.625, -- [2]
 						4, -- [3]
 					},
 					["Artaxion"] = {
@@ -237,10 +237,10 @@ DetailsDataStorage = {
 						380.0625, -- [2]
 						8, -- [3]
 					},
-					["Aehrick"] = {
-						9971712, -- [1]
-						388.3125, -- [2]
-						1, -- [3]
+					["Hytham"] = {
+						24963640, -- [1]
+						390.375, -- [2]
+						4, -- [3]
 					},
 					["Mysdelin"] = {
 						1436491, -- [1]
@@ -267,10 +267,10 @@ DetailsDataStorage = {
 						391.875, -- [2]
 						7, -- [3]
 					},
-					["Rylacus"] = {
-						9277307, -- [1]
-						367.625, -- [2]
-						4, -- [3]
+					["Aehrick"] = {
+						9971712, -- [1]
+						388.3125, -- [2]
+						1, -- [3]
 					},
 					["Giulietta"] = {
 						18174106, -- [1]
@@ -332,9 +332,9 @@ DetailsDataStorage = {
 						387.25, -- [2]
 						11, -- [3]
 					},
-					["Hytham"] = {
-						15301488, -- [1]
-						391, -- [2]
+					["Rylacus"] = {
+						7471967, -- [1]
+						367.625, -- [2]
 						4, -- [3]
 					},
 					["Artaxion"] = {
@@ -342,10 +342,10 @@ DetailsDataStorage = {
 						380.0625, -- [2]
 						8, -- [3]
 					},
-					["Aehrick"] = {
-						11278150, -- [1]
-						388.3125, -- [2]
-						1, -- [3]
+					["Hytham"] = {
+						15301488, -- [1]
+						391, -- [2]
+						4, -- [3]
 					},
 					["Mysdelin"] = {
 						1704610, -- [1]
@@ -372,10 +372,10 @@ DetailsDataStorage = {
 						391.875, -- [2]
 						7, -- [3]
 					},
-					["Rylacus"] = {
-						7471967, -- [1]
-						367.625, -- [2]
-						4, -- [3]
+					["Aehrick"] = {
+						11278150, -- [1]
+						388.3125, -- [2]
+						1, -- [3]
 					},
 					["Giulietta"] = {
 						11437929, -- [1]
@@ -533,10 +533,10 @@ DetailsDataStorage = {
 						380.625, -- [2]
 						11, -- [3]
 					},
-					["Aehrick"] = {
-						3724330, -- [1]
-						365.3125, -- [2]
-						1, -- [3]
+					["Hytham"] = {
+						7647584, -- [1]
+						386.125, -- [2]
+						4, -- [3]
 					},
 					["Kadria"] = {
 						8830022, -- [1]
@@ -548,10 +548,10 @@ DetailsDataStorage = {
 						386.375, -- [2]
 						4, -- [3]
 					},
-					["Rylacus"] = {
-						4995445, -- [1]
-						360.625, -- [2]
-						4, -- [3]
+					["Aehrick"] = {
+						3724330, -- [1]
+						365.3125, -- [2]
+						1, -- [3]
 					},
 					["Artaxion"] = {
 						4626745, -- [1]
@@ -563,9 +563,9 @@ DetailsDataStorage = {
 						385.9375, -- [2]
 						7, -- [3]
 					},
-					["Hytham"] = {
-						7647584, -- [1]
-						386.125, -- [2]
+					["Rylacus"] = {
+						4995445, -- [1]
+						360.625, -- [2]
 						4, -- [3]
 					},
 					["Giulietta"] = {
@@ -624,9 +624,9 @@ DetailsDataStorage = {
 						387.25, -- [2]
 						11, -- [3]
 					},
-					["Hytham"] = {
-						8158352, -- [1]
-						390.375, -- [2]
+					["Rylacus"] = {
+						4814063, -- [1]
+						367.625, -- [2]
 						4, -- [3]
 					},
 					["Artaxion"] = {
@@ -634,10 +634,10 @@ DetailsDataStorage = {
 						380.0625, -- [2]
 						8, -- [3]
 					},
-					["Aehrick"] = {
-						6554744, -- [1]
-						388.3125, -- [2]
-						1, -- [3]
+					["Hytham"] = {
+						8158352, -- [1]
+						390.375, -- [2]
+						4, -- [3]
 					},
 					["Mysdelin"] = {
 						3808113, -- [1]
@@ -664,10 +664,10 @@ DetailsDataStorage = {
 						391.875, -- [2]
 						7, -- [3]
 					},
-					["Rylacus"] = {
-						4814063, -- [1]
-						367.625, -- [2]
-						4, -- [3]
+					["Aehrick"] = {
+						6554744, -- [1]
+						388.3125, -- [2]
+						1, -- [3]
 					},
 					["Giulietta"] = {
 						8816271, -- [1]
@@ -838,9 +838,9 @@ DetailsDataStorage = {
 						387.25, -- [2]
 						11, -- [3]
 					},
-					["Hytham"] = {
-						12360724, -- [1]
-						391, -- [2]
+					["Rylacus"] = {
+						7173879, -- [1]
+						367.625, -- [2]
 						4, -- [3]
 					},
 					["Artaxion"] = {
@@ -848,10 +848,10 @@ DetailsDataStorage = {
 						380.0625, -- [2]
 						8, -- [3]
 					},
-					["Aehrick"] = {
-						10855817, -- [1]
-						388.3125, -- [2]
-						1, -- [3]
+					["Hytham"] = {
+						12360724, -- [1]
+						391, -- [2]
+						4, -- [3]
 					},
 					["Mysdelin"] = {
 						4116558, -- [1]
@@ -878,10 +878,10 @@ DetailsDataStorage = {
 						391.875, -- [2]
 						7, -- [3]
 					},
-					["Rylacus"] = {
-						7173879, -- [1]
-						367.625, -- [2]
-						4, -- [3]
+					["Aehrick"] = {
+						10855817, -- [1]
+						388.3125, -- [2]
+						1, -- [3]
 					},
 					["Giulietta"] = {
 						10939156, -- [1]
@@ -903,6 +903,14 @@ DetailsDataStorage = {
 		},
 	},
 	[15] = {
+		[2590] = {
+		},
+		[2605] = {
+		},
+		[2592] = {
+		},
+		[2635] = {
+		},
 		[2587] = {
 			{
 				["time"] = 1672455173,
@@ -1100,14 +1108,14 @@ DetailsDataStorage = {
 	["totalkills"] = {
 		[2635] = {
 			[14] = {
-				["time_incombat"] = 1407.537000000024,
+				["time_incombat"] = 2123.212999999998,
 				["time_fasterkill"] = 460.064000000013,
 				["wipes"] = 11,
-				["kills"] = 4,
-				["dps_best"] = 38202.40341013046,
+				["kills"] = 7,
+				["dps_best"] = 49796.17367811497,
 				["dps_best_raid"] = 614315.8042520583,
 				["time_fasterkill_when"] = 1671251875,
-				["dps_best_when"] = 1672884974,
+				["dps_best_when"] = 1673489518,
 				["dps_best_raid_when"] = 1672884974,
 			},
 			[17] = {
@@ -1121,31 +1129,42 @@ DetailsDataStorage = {
 				["dps_best_when"] = 1671838754,
 				["dps_best_raid_when"] = 1671838754,
 			},
+			[15] = {
+				["time_incombat"] = 0,
+				["time_fasterkill"] = 0,
+				["wipes"] = 4,
+				["kills"] = 0,
+				["dps_best"] = 0,
+				["dps_best_raid_when"] = 0,
+				["time_fasterkill_when"] = 0,
+				["dps_best_when"] = 0,
+				["dps_best_raid"] = 0,
+			},
 		},
 		[2607] = {
 			[14] = {
-				["time_incombat"] = 0,
-				["time_fasterkill"] = 0,
-				["wipes"] = 38,
-				["kills"] = 0,
-				["dps_best"] = 0,
-				["dps_best_when"] = 0,
-				["time_fasterkill_when"] = 0,
-				["dps_best_raid_when"] = 0,
-				["dps_best_raid"] = 0,
+				["time_incombat"] = 2025.019000000069,
+				["time_fasterkill"] = 706.109000000055,
+				["wipes"] = 52,
+				["kills"] = 3,
+				["dps_best"] = 48532.61631916484,
+				["dps_best_when"] = 1674098848,
+				["time_fasterkill_when"] = 1673666900,
+				["dps_best_raid_when"] = 1674098848,
+				["dps_best_raid"] = 622668.5226605614,
 			},
 		},
 		[2590] = {
 			[14] = {
-				["time_incombat"] = 1414.134000000022,
+				["time_incombat"] = 2150.052999999947,
 				["time_fasterkill"] = 435.9500000000116,
-				["wipes"] = 3,
-				["kills"] = 4,
-				["dps_best"] = 80239.96628699481,
-				["dps_best_raid"] = 1083234.946895019,
+				["wipes"] = 4,
+				["kills"] = 7,
+				["dps_best"] = 100136.1006475976,
+				["dps_best_raid"] = 1158945.886227363,
 				["time_fasterkill_when"] = 1671245701,
-				["dps_best_when"] = 1672884266,
-				["dps_best_raid_when"] = 1672884266,
+				["dps_best_when"] = 1674094058,
+				["dps_best_raid_when"] = 1674094058,
 			},
 			[17] = {
 				["time_incombat"] = 634.5629999999946,
@@ -1158,56 +1177,89 @@ DetailsDataStorage = {
 				["dps_best_when"] = 1671838079,
 				["dps_best_raid_when"] = 1672253791,
 			},
+			[15] = {
+				["time_incombat"] = 673.7749999999651,
+				["time_fasterkill"] = 346.9699999999721,
+				["wipes"] = 6,
+				["kills"] = 2,
+				["dps_best"] = 86515.58270026348,
+				["dps_best_when"] = 1674100762,
+				["time_fasterkill_when"] = 1673670922,
+				["dps_best_raid_when"] = 1674100762,
+				["dps_best_raid"] = 925804.954024591,
+			},
 		},
 		[2605] = {
 			[14] = {
-				["time_incombat"] = 1541.823000000001,
+				["time_incombat"] = 2697.495000000018,
 				["time_fasterkill"] = 570.5880000000034,
 				["wipes"] = 4,
-				["kills"] = 3,
-				["dps_best"] = 37730.24631885685,
+				["kills"] = 6,
+				["dps_best"] = 44007.22504060177,
 				["dps_best_raid_when"] = 1672887765,
 				["time_fasterkill_when"] = 1672285086,
-				["dps_best_when"] = 1672887765,
+				["dps_best_when"] = 1674096412,
 				["dps_best_raid"] = 695883.3628302277,
+			},
+			[15] = {
+				["time_incombat"] = 459.174,
+				["time_fasterkill"] = 459.174,
+				["wipes"] = 4,
+				["kills"] = 1,
+				["dps_best"] = 58555.74140315218,
+				["dps_best_raid"] = 566895.1639247867,
+				["time_fasterkill_when"] = 1674275025,
+				["dps_best_raid_when"] = 1674275025,
+				["dps_best_when"] = 1674275025,
 			},
 		},
 		[2592] = {
 			[14] = {
-				["time_incombat"] = 1535.981999999913,
+				["time_incombat"] = 2416.928999999914,
 				["time_fasterkill"] = 420.9049999999115,
 				["wipes"] = 8,
-				["kills"] = 4,
-				["dps_best"] = 35151.57784137257,
-				["dps_best_raid_when"] = 1672886510,
+				["kills"] = 7,
+				["dps_best"] = 47119.62280177156,
+				["dps_best_raid_when"] = 1674095880,
 				["time_fasterkill_when"] = 1671490946,
-				["dps_best_when"] = 1672886510,
-				["dps_best_raid"] = 579091.9176312691,
+				["dps_best_when"] = 1674095880,
+				["dps_best_raid"] = 594327.9003566896,
+			},
+			[15] = {
+				["time_incombat"] = 349.645,
+				["time_fasterkill"] = 349.645,
+				["wipes"] = 1,
+				["kills"] = 1,
+				["dps_best"] = 49141.98403470664,
+				["dps_best_raid"] = 510802.288035007,
+				["time_fasterkill_when"] = 1674271545,
+				["dps_best_raid_when"] = 1674271545,
+				["dps_best_when"] = 1674271545,
 			},
 		},
 		[2614] = {
 			[14] = {
-				["time_incombat"] = 1433.075000000004,
+				["time_incombat"] = 2590.611999999952,
 				["time_fasterkill"] = 576.5460000000021,
-				["wipes"] = 4,
-				["kills"] = 3,
-				["dps_best"] = 36945.30907580257,
+				["wipes"] = 7,
+				["kills"] = 6,
+				["dps_best"] = 51418.78786930632,
 				["dps_best_raid_when"] = 1672888850,
 				["time_fasterkill_when"] = 1671850665,
-				["dps_best_when"] = 1672888850,
+				["dps_best_when"] = 1674097891,
 				["dps_best_raid"] = 678840.8556855005,
 			},
 		},
 		[2587] = {
 			[14] = {
-				["time_incombat"] = 1298.670000000104,
+				["time_incombat"] = 1923.936000000115,
 				["time_fasterkill"] = 325.6000000000058,
 				["wipes"] = 0,
-				["kills"] = 5,
-				["dps_best"] = 53296.70047137694,
+				["kills"] = 8,
+				["dps_best"] = 62283.99587380375,
 				["dps_best_raid_when"] = 1672883150,
 				["time_fasterkill_when"] = 1671069860,
-				["dps_best_when"] = 1672883150,
+				["dps_best_when"] = 1673488122,
 				["dps_best_raid"] = 741408.4279764614,
 			},
 			[17] = {
@@ -1222,39 +1274,39 @@ DetailsDataStorage = {
 				["dps_best_raid_when"] = 1671836819,
 			},
 			[15] = {
-				["time_incombat"] = 563.2979999999952,
+				["time_incombat"] = 1006.491000000024,
 				["time_fasterkill"] = 299.5869999999995,
 				["wipes"] = 0,
-				["kills"] = 2,
-				["dps_best"] = 49781.74593319283,
-				["dps_best_raid"] = 608623.3376688975,
+				["kills"] = 4,
+				["dps_best"] = 62626.83185859819,
+				["dps_best_raid"] = 654431.9588890957,
 				["time_fasterkill_when"] = 1672455173,
-				["dps_best_when"] = 1673060197,
-				["dps_best_raid_when"] = 1673060197,
+				["dps_best_when"] = 1674099839,
+				["dps_best_raid_when"] = 1674099839,
 			},
 		},
 		[2639] = {
 			[14] = {
-				["time_incombat"] = 1625.977000000059,
+				["time_incombat"] = 2354.673000000001,
 				["time_fasterkill"] = 384.954000000027,
 				["wipes"] = 4,
-				["kills"] = 5,
-				["dps_best"] = 41467.29758434684,
+				["kills"] = 8,
+				["dps_best"] = 57045.64016383688,
 				["dps_best_raid_when"] = 1672885760,
 				["time_fasterkill_when"] = 1671073327,
-				["dps_best_when"] = 1672885760,
+				["dps_best_when"] = 1674095290,
 				["dps_best_raid"] = 710479.5446110889,
 			},
 			[15] = {
-				["time_incombat"] = 345.7860000000073,
-				["time_fasterkill"] = 345.7860000000073,
-				["wipes"] = 9,
-				["kills"] = 1,
-				["dps_best"] = 39345.48536997944,
-				["dps_best_when"] = 1673066158,
-				["time_fasterkill_when"] = 1673066158,
-				["dps_best_raid_when"] = 1673066158,
-				["dps_best_raid"] = 560695.8870515171,
+				["time_incombat"] = 984.5559999999841,
+				["time_fasterkill"] = 348.8499999999767,
+				["wipes"] = 10,
+				["kills"] = 3,
+				["dps_best"] = 56007.23993352648,
+				["dps_best_when"] = 1674270271,
+				["time_fasterkill_when"] = 1673665578,
+				["dps_best_raid_when"] = 1674270271,
+				["dps_best_raid"] = 577118.1739790286,
 			},
 		},
 	},

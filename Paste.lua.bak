@@ -55,8 +55,8 @@ PasteDB = {
 		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
 		["Notariver - Arthas"] = "Notariver - Arthas",
 		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
@@ -314,9 +314,6 @@ PasteDB = {
 		["Serenerivers - Sargeras"] = {
 			["loaded"] = true,
 		},
-		["Ragingrivers - Arthas"] = {
-			["loaded"] = true,
-		},
 		["Emptyrivers - Sargeras"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
@@ -327,6 +324,9 @@ PasteDB = {
 				["left"] = 631.000061035156,
 				["width"] = 500.000030517578,
 			},
+		},
+		["Ragingrivers - Arthas"] = {
+			["loaded"] = true,
 		},
 		["Mecharivers - Sargeras"] = {
 			["loaded"] = true,

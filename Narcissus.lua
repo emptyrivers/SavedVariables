@@ -100,16 +100,11 @@ NarciAchievementOptions = {
 }
 NarciStatisticsDB = {
 	["InstalledDate"] = 1671525547,
-	["TimeSpentInNarcissus"] = 1051,
+	["TimeSpentInNarcissus"] = 1213,
 	["AddOnActionForbidden"] = {
 		["timeLastError"] = 1673380957,
 		["addons"] = {
 			["DialogKey"] = {
-				["errorTime"] = {
-					1673132125, -- [1]
-					1673137486, -- [2]
-					1673380957, -- [3]
-				},
 				["count"] = 17,
 				["timeLastError"] = 1673380957,
 			},
@@ -138,7 +133,7 @@ NarciCharacterProfiles = {
 		["name"] = "Estuary",
 		["birth"] = 1671668194,
 		["serverID"] = "75",
-		["lastVisit"] = 1673515608,
+		["lastVisit"] = 1673918287,
 		["outfits"] = {
 		},
 		["class"] = 4,
@@ -148,7 +143,7 @@ NarciCharacterProfiles = {
 		["name"] = "Confluence",
 		["birth"] = 1672016667,
 		["serverID"] = "75",
-		["lastVisit"] = 1673641660,
+		["lastVisit"] = 1674080600,
 		["outfits"] = {
 		},
 		["class"] = 2,
@@ -158,7 +153,7 @@ NarciCharacterProfiles = {
 		["name"] = "Alluvium",
 		["birth"] = 1671771802,
 		["serverID"] = "75",
-		["lastVisit"] = 1673512930,
+		["lastVisit"] = 1674530491,
 		["outfits"] = {
 		},
 		["class"] = 13,
@@ -168,7 +163,7 @@ NarciCharacterProfiles = {
 		["name"] = "Headcut",
 		["birth"] = 1672870428,
 		["serverID"] = "75",
-		["lastVisit"] = 1673298465,
+		["lastVisit"] = 1673991460,
 		["outfits"] = {
 		},
 		["class"] = 7,
@@ -178,7 +173,7 @@ NarciCharacterProfiles = {
 		["name"] = "Sverdrup",
 		["birth"] = 1671571276,
 		["serverID"] = "75",
-		["lastVisit"] = 1673639038,
+		["lastVisit"] = 1674530340,
 		["outfits"] = {
 			{
 				["s"] = "77344,77343,77345,62568,0,0,84603,10722,84223,10719,51820,0,0",
@@ -192,7 +187,7 @@ NarciCharacterProfiles = {
 		["name"] = "Emptyrivers",
 		["birth"] = 1671525547,
 		["serverID"] = "75",
-		["lastVisit"] = 1673643446,
+		["lastVisit"] = 1674499364,
 		["outfits"] = {
 		},
 		["class"] = 8,
@@ -202,7 +197,7 @@ NarciCharacterProfiles = {
 		["name"] = "Riparium",
 		["birth"] = 1672553336,
 		["serverID"] = "75",
-		["lastVisit"] = 1673638131,
+		["lastVisit"] = 1673738869,
 		["outfits"] = {
 		},
 		["class"] = 9,
