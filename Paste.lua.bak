@@ -33,6 +33,7 @@ PasteDB = {
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Mindrivers - Korgath"] = "Mindrivers - Korgath",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptyrivers - Korgath"] = "Emptyrivers - Korgath",
 		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
 		["Tinyrivers - Kel'Thuzad"] = "Tinyrivers - Kel'Thuzad",
@@ -46,6 +47,7 @@ PasteDB = {
 		["Littlerivers - Kel'Thuzad"] = "Littlerivers - Kel'Thuzad",
 		["Hiddenrivers - Korgath"] = "Hiddenrivers - Korgath",
 		["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
 		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
 		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
@@ -224,6 +226,9 @@ PasteDB = {
 		["Mindrivers - Korgath"] = {
 			["loaded"] = true,
 		},
+		["Ochrian - Argent Dawn"] = {
+			["loaded"] = true,
+		},
 		["Emptyrivers - Korgath"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
@@ -282,6 +287,17 @@ PasteDB = {
 		},
 		["Edgyrivers - Kel'Thuzad"] = {
 			["loaded"] = true,
+		},
+		["Flumina - Argent Dawn"] = {
+			["loaded"] = true,
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+				["height"] = 320,
+				["top"] = 802.2857666015625,
+				["left"] = 0,
+				["width"] = 500.0000305175781,
+			},
 		},
 		["Wildrivers - Arthas"] = {
 			["loaded"] = true,

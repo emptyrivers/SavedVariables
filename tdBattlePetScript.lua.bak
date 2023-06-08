@@ -1,7 +1,7 @@
 
 TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 	["global"] = {
-		["version"] = "v1.5",
+		["version"] = "v1.7.5",
 		["scripts"] = {
 			["AllInOne"] = {
 			},
@@ -10,6 +10,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 			["FirstEnemy"] = {
 			},
 			["Rematch"] = {
+				{
+					["name"] = "Tiny Poacher, Tiny Animals (Magic)",
+					["code"] = "use(Batter:455) [enemy(Gulp:1798).active & enemy.round>3]\nuse(Batter:455) [enemy(Egcellent:1793).active & enemy.round>2]\nuse(Sandstorm:453) [round=2]\nuse(Wind-Up:459)\nuse(Poison Protocol:1954)\nuse(Toxic Fumes:2349) [enemy(Red Wire:1794).active & !weather(Toxic Gas:2350)]\nuse(Corrosion:447)\nuse(Meteor Strike:407) [enemy.aura(Flamethrower:502).exists]\nuse(Flamethrower:503)\nchange(next)",
+				}, -- [1]
 				[141945] = {
 					["author"] = "Emptyrivers-Arthas",
 					["name"] = "Snakes on a Terrace",
@@ -323,6 +327,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Canerena - Arthas"] = "Default",
 		["Ailisuul - Arthas"] = "Default",
 		["Mindrivers - Korgath"] = "Default",
+		["Ochrian - Argent Dawn"] = "Default",
 		["Dammedrivers - Exodar"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
 		["Testrivers - Bleeding Hollow"] = "Default",
@@ -337,27 +342,28 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Edgyrivers - Arthas"] = "Default",
 		["Shachein - Arthas"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Feralrivers - Sargeras"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Testrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Eysta - Sargeras"] = "Default",
-		["Evilrivers - Sargeras"] = "Default",
-		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
+		["Emptyrivers - Bleeding Hollow"] = "Default",
+		["Evilrivers - Sargeras"] = "Default",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Testes - Arthas"] = "Default",
 		["Daedrasminia - Arthas"] = "Default",
 		["Riversticks - Bleeding Hollow"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
@@ -370,8 +376,8 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 				["autoButtonHotKey"] = "0",
 			},
 			["position"] = {
-				["y"] = -26.1312255859375,
-				["x"] = 290.7377014160156,
+				["y"] = 149.1067504882813,
+				["x"] = 146.7376098632813,
 				["point"] = "LEFT",
 				["scale"] = 1,
 				["height"] = 448.4761352539063,

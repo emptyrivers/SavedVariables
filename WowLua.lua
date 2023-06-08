@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-	["currentPage"] = 2,
+	["currentPage"] = 4,
 	["fontSize"] = 14,
 	["pages"] = {
 		{
@@ -13,6 +13,14 @@ WowLua_DB = {
 			["name"] = "Untitled 2",
 			["content"] = "local f = FriendFrame or CreateFrame(\"frame\", \"FriendFrame\")\nf:UnregisterAllEvents()\nf:RegisterUnitEvent(\"UNIT_AURA\", \"softenemy\")\nf:SetScript(\"OnEvent\", function(self, event, ...) print(event, ...) end)",
 		}, -- [2]
+		{
+			["name"] = "softtarget cvar",
+			["content"] = "local Private =  {\n   soft_target_cvars = {\n      softenemy = \"SoftTargetEnemy\",\n      softfriend = \"SoftTargetFriend\"\n   }\n}\nlocal trigger = {unit = \"softenemy\"}\nC_CVar.SetCVar(\"SoftTargetEnemy\", \"2\")\n\nif Private.soft_target_cvars[trigger.unit] then\n   local enableBit = C_CVar.GetCVar(\"GamePadEnable\") == \"1\" and 1 or 2\n   local softTargetCVar = tonumber(C_CVar.GetCVar(Private.soft_target_cvars[trigger.unit]))\n   local enabled = bit.band(enableBit, softTargetCVar) > 0\n   print(enableBit, softTargetCVar, enabled)\nend\n",
+		}, -- [3]
+		{
+			["name"] = "Visual fiddles",
+			["content"] = "",
+		}, -- [4]
 	},
-	["untitled"] = 3,
+	["untitled"] = 5,
 }

@@ -13,7 +13,7 @@ BPBID_Options = {
 	},
 	["BattleFontFix"] = false,
 	["format"] = 3,
-	["ManualChange"] = "v1.22.9",
+	["ManualChange"] = "v1.23.2",
 	["Tooltips"] = {
 		["Enabled"] = true,
 		["FBPT"] = true,

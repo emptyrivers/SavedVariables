@@ -1,0 +1,62 @@
+
+RaiderIO_Config = {
+	["displayWeeklyGuildBest"] = false,
+}
+RaiderIO_LastCharacter = "us-Flumina-argent-dawn"
+RaiderIO_MissingCharacters = {
+	["us-Tallbot-argent-dawn"] = true,
+	["us-Nullandvoid-argent-dawn"] = true,
+	["us-Uruloki-the-scryers"] = true,
+	["us-Tainipuni-argent-dawn"] = true,
+	["us-Ginneva-the-scryers"] = true,
+	["us-Glaciale-argent-dawn"] = true,
+	["us-Angélique-argent-dawn"] = true,
+	["us-Leight-the-scryers"] = true,
+	["us-Moltar-argent-dawn"] = true,
+	["us-Lamanor-argent-dawn"] = true,
+	["us-Jalindre-argent-dawn"] = true,
+	["us-Azzerra-zuljin"] = true,
+	["us-Kaallon-argent-dawn"] = true,
+	["us-Engelique-argent-dawn"] = true,
+	["us-Vöid-argent-dawn"] = true,
+	["us-Pokerus-argent-dawn"] = true,
+	["us-Sardreni-argent-dawn"] = true,
+	["us-Hawkes-the-scryers"] = true,
+	["us-Primewattack-the-scryers"] = true,
+	["us-Ygardra-argent-dawn"] = true,
+	["us-Engelic-argent-dawn"] = true,
+	["us-Patricà-earthen-ring"] = true,
+	["us-Foxylhunter-argent-dawn"] = true,
+	["us-Kuranar-argent-dawn"] = true,
+	["us-Jinnx-the-scryers"] = true,
+	["us-Lasater-argent-dawn"] = true,
+	["us-Siveth-the-scryers"] = true,
+	["us-Socinks-the-scryers"] = true,
+	["us-Kalysto-argent-dawn"] = true,
+	["us-Ezrakae-argent-dawn"] = true,
+	["us-Jeremy-argent-dawn"] = true,
+	["us-Pompira-argent-dawn"] = true,
+	["us-Aeluxtra-argent-dawn"] = true,
+	["us-Domgirlee-earthen-ring"] = true,
+	["us-Engelica-argent-dawn"] = true,
+	["us-Ikeli-argent-dawn"] = true,
+	["us-Karalni-argent-dawn"] = true,
+	["us-Helluuna-proudmoore"] = true,
+	["us-Lilchef-earthen-ring"] = true,
+	["us-Raniki-earthen-ring"] = true,
+	["us-Echoe-argent-dawn"] = true,
+	["us-Lanalea-the-scryers"] = true,
+	["us-Dovescry-argent-dawn"] = true,
+	["us-Deestroyer-argent-dawn"] = true,
+	["us-Tuia-argent-dawn"] = true,
+	["us-Goldscar-argent-dawn"] = true,
+	["us-Herensuge-earthen-ring"] = true,
+	["us-Paeches-earthen-ring"] = true,
+	["us-Grellnor-earthen-ring"] = true,
+	["us-Sìlas-argent-dawn"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

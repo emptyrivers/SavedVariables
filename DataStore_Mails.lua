@@ -3,160 +3,88 @@ DataStore_MailsDB = {
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1673292262,
-				["Mails"] = {
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Master's Wildercloth Alchemist's Robe",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 17.85333251953125,
-					}, -- [1]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Alchemist's Sturdy Mixing Rod",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 17.87486076354981,
-					}, -- [2]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Draconic Treatise on Herbalism",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 18.10083389282227,
-					}, -- [3]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Expired: Draconic Treatise on Alchemy",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 19.71019744873047,
-					}, -- [4]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Expired: Floral Basket",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 19.8504753112793,
-					}, -- [5]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Expired: Draconium Sickle",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 19.85082244873047,
-					}, -- [6]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Expired: Alchemist's Hat",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 19.85124969482422,
-					}, -- [7]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Draconic Treatise on Alchemy",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 29.84516143798828,
-					}, -- [8]
-					{
-						["lastCheck"] = 1674530552,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Draconic Treatise on Herbalism",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 29.99812507629395,
-					}, -- [9]
-				},
-			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1672097513,
-				["Mails"] = {
-					{
-						["lastCheck"] = 1674514313,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Handful of Serevite Bolts",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 23.28060150146484,
-					}, -- [1]
-					{
-						["lastCheck"] = 1674514313,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Handful of Serevite Bolts",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 23.28067207336426,
-					}, -- [2]
-					{
-						["lastCheck"] = 1674514313,
-						["sender"] = "Artisan's Consortium",
-						["subject"] = "Order Filled: Handful of Serevite Bolts",
-						["returned"] = false,
-						["money"] = 0,
-						["text"] = "",
-						["icon"] = 134939,
-						["daysLeft"] = 23.28072929382324,
-					}, -- [3]
-				},
+				["lastUpdate"] = 1685733999,
+				["lastVisitDate"] = "2023/06/02 14:26",
 			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1672196126,
+			["Default.Argent Dawn.Alluvium"] = {
+				["lastUpdate"] = 1685738112,
+				["lastVisitDate"] = "2023/06/02 15:35",
+			},
+			["Default.Argent Dawn.Headcut"] = {
+				["lastUpdate"] = 1685649050,
+				["lastVisitDate"] = "2023/06/01 14:50",
+			},
+			["Default.Argent Dawn.Ochrian"] = {
+				["lastUpdate"] = 1676011566,
 			},
 			["Default.Argent Dawn.Confluence"] = {
+				["lastUpdate"] = 1683740646,
+				["lastVisitDate"] = "2023/05/10 12:44",
+			},
+			["Default.Argent Dawn.Estuary"] = {
+				["lastUpdate"] = 1685818395,
+				["lastVisitDate"] = "2023/06/03 13:53",
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["lastUpdate"] = 1686115434,
+				["lastVisitDate"] = "2023/06/07 00:23",
+			},
+			["Default.Argent Dawn.Flumina"] = {
+				["lastUpdate"] = 1686192733,
 				["Mails"] = {
 					{
-						["icon"] = 134939,
-						["sender"] = "Auction House",
-						["subject"] = "Auction successful: Explorer's Expert Gauntlets",
+						["lastCheck"] = 1686192733,
+						["sender"] = "Kirygosa",
+						["subject"] = "Enclosed for Kalecgos",
 						["returned"] = false,
 						["money"] = 0,
-						["text"] = "",
-						["lastCheck"] = 1674082084,
-						["daysLeft"] = 28.88101768493652,
+						["text"] = "Hello, Flumina. I've been thinking about your last visit. I thought you might know where Kalecgos is, given your friendship with him. He is difficult to locate nowadays.\r\n\r\nYou, on the other hand! Why, any messenger knows of your name by now. Next time we meet, I'd like to hear more about your worldly adventures.\r\n\r\nWhenever you feel the time is right, could you please give this letter to Kalecgos? I hope to see you both soon again.\r\n\r\n - Kirygosa",
+						["icon"] = 134327,
+						["daysLeft"] = 18.99314880371094,
 					}, -- [1]
+					{
+						["lastCheck"] = 1686192733,
+						["sender"] = "Stellagosa",
+						["subject"] = "One Last Gift",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "My friend,\r\n\r\nI want to thank you for helping ensure that Grandfather's final days were full of adventure. It meant as much to me as it did to him. \r\n\r\nGrandfather left behind some trinkets, including one for you. He was very pleased and impressed that you would go so far out of your way to help our flight find itself again. This was his way of saying thank you. I only wish he could have delivered it to you himself.\r\n\r\nIt is... well, it is certainly his sense of humor! Grandfather loved to bring joy to others and loved to laugh. Hopefully this helps you do the same. \r\n\r\nStellagosa",
+						["icon"] = 134327,
+						["daysLeft"] = 19.00799751281738,
+					}, -- [2]
+					{
+						["lastCheck"] = 1686192733,
+						["sender"] = "The Postmaster",
+						["subject"] = "Recovered Item",
+						["returned"] = false,
+						["money"] = 0,
+						["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
+						["icon"] = 134327,
+						["daysLeft"] = 21.63452529907227,
+					}, -- [3]
+					{
+						["returned"] = false,
+						["sender"] = "The Postmaster",
+						["itemID"] = 205982,
+						["link"] = "|cffffffff|Hitem:205982::::::::70:258::11::1:28:2649:::::|h[Lost Dig Map]|h|r",
+						["lastCheck"] = 1686192733,
+						["count"] = 1,
+						["icon"] = 1500869,
+						["daysLeft"] = 21.63452529907227,
+					}, -- [4]
 				},
+				["lastVisitDate"] = "2023/06/07 21:52",
 			},
 		},
 	},

@@ -8,21 +8,23 @@ NarciBarberShopDB = {
 		["ZoomIn"] = "W",
 	},
 	["PlayerData"] = {
-		["0EE5568B"] = {
-			["playerName"] = "Alluvium",
+		["0EE580BC"] = {
+			["playerName"] = "Emptyrivers",
 			["realmID"] = "75",
 			["SavedLooks"] = {
-				[52] = {
+				["chrModel129"] = {
+				},
+				[7] = {
 					["male"] = {
 					},
 					["female"] = {
 					},
 				},
-				["alternateForm"] = {
-					["male"] = {
-					},
-					["female"] = {
-					},
+				["chrModel126"] = {
+				},
+				["chrModel124"] = {
+				},
+				["chrModel123"] = {
 				},
 			},
 			["realmName"] = "Argent Dawn",
@@ -39,6 +41,8 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 					{
+						["name"] = "New Look #1",
+						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["data"] = {
 							{
 								1612, -- [1]
@@ -117,10 +121,40 @@ NarciBarberShopDB = {
 								20009, -- [2]
 							}, -- [19]
 						},
-						["name"] = "New Look #1",
-						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["timeCreated"] = 1672083038,
 					}, -- [1]
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+		["0EF90062"] = {
+			["playerName"] = "Flumina",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[24] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+		["0EE5568B"] = {
+			["playerName"] = "Alluvium",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[52] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["alternateForm"] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
 				},
 			},
 			["realmName"] = "Argent Dawn",

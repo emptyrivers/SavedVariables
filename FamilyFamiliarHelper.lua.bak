@@ -1,10 +1,9 @@
 
 FamilyFamiliarHelperSettings = {
-	["AutoShow"] = true,
+	["NoMove"] = false,
 	["ShowMinimapButton"] = true,
 	["NoAchievementTooltip"] = false,
-	["OpenAchievementID"] = 16512,
-	["NoMove"] = false,
 	["JustOnce"] = true,
+	["AutoShow"] = true,
 	["NoEscape"] = false,
 }

@@ -1,5 +1,14 @@
 
 HandyNotes_DragonflightTreasuresDB = {
+	["char"] = {
+		["Emptyrivers - Argent Dawn"] = {
+			["hidden"] = {
+				[2023] = {
+					[41546227] = true,
+				},
+			},
+		},
+	},
 	["profileKeys"] = {
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
@@ -9,6 +18,8 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
@@ -16,9 +27,6 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Emptyrivers - Sargeras"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
-			["groupsHidden"] = {
-				["races"] = true,
-			},
 			["achievementsHidden"] = {
 				[16576] = true,
 				[16584] = true,
@@ -29,6 +37,9 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16578] = true,
 				[16577] = true,
 				[16634] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
 			},
 		},
 		["Sverdrup - Argent Dawn"] = {
@@ -61,10 +72,16 @@ HandyNotes_DragonflightTreasuresDB = {
 				["races"] = true,
 			},
 			["achievementsHidden"] = {
+				[16676] = true,
+				[16575] = true,
 				[16576] = true,
+				[16584] = true,
 				[16577] = true,
-				[16424] = true,
 				[15890] = true,
+				[16424] = true,
+				[16634] = true,
+				[16578] = true,
+				[16323] = true,
 				[16574] = true,
 			},
 		},
@@ -77,10 +94,10 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16577] = true,
 				[15890] = true,
 				[16323] = true,
-				[16634] = true,
+				[16424] = true,
 				[16578] = true,
 				[16574] = true,
-				[16424] = true,
+				[16634] = true,
 			},
 			["groupsHidden"] = {
 				["races"] = true,
@@ -89,49 +106,89 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Evilrivers - Kel'Thuzad"] = {
 		},
 		["Riparium - Argent Dawn"] = {
+			["groupsHidden"] = {
+				["races"] = true,
+			},
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
 				[16576] = true,
 				[16584] = true,
 				[16323] = true,
-				[15890] = true,
 				[16577] = true,
-				[16424] = true,
-				[16578] = true,
-				[16574] = true,
+				[15890] = true,
 				[16634] = true,
-			},
-			["groupsHidden"] = {
-				["races"] = true,
+				[16574] = true,
+				[16578] = true,
+				[16638] = true,
+				[16424] = true,
 			},
 		},
 		["Emptyrivers - Argent Dawn"] = {
-			["tooltip_pointanchor"] = true,
 			["groupsHidden"] = {
+				["magicbound"] = false,
 				["glyphs"] = true,
 				["races"] = true,
-				["magicbound"] = false,
 			},
+			["zonesHidden"] = {
+				[2118] = false,
+			},
+			["achievementsHidden"] = {
+				[16424] = true,
+				[16297] = false,
+				[16676] = true,
+				[16584] = true,
+				[16678] = true,
+				[16446] = false,
+				[16323] = true,
+				[15890] = true,
+				[16574] = true,
+				[16301] = true,
+				[16575] = true,
+				[16634] = true,
+				[16638] = true,
+				[16406] = false,
+				[16577] = true,
+				[16576] = true,
+				[16578] = true,
+				[17411] = true,
+			},
+			["tooltip_pointanchor"] = true,
 			["groupsHiddenByZone"] = {
 				[2022] = {
 					["disturbeddirt"] = false,
 				},
 			},
+		},
+		["Ochrian - Argent Dawn"] = {
+		},
+		["Flumina - Argent Dawn"] = {
+			["groupsHidden"] = {
+				["races"] = true,
+			},
 			["achievementsHidden"] = {
+				[16676] = true,
+				[16575] = true,
+				[17783] = false,
 				[16576] = true,
-				[16323] = true,
-				[16578] = true,
-				[15890] = true,
-				[16678] = true,
-				[16574] = true,
-				[16577] = true,
 				[16424] = true,
+				[16584] = true,
+				[16678] = true,
+				[16323] = true,
+				[15890] = true,
+				[16634] = true,
+				[16574] = true,
+				[16578] = true,
+				[16577] = true,
+				[18150] = true,
 			},
 		},
 		["Emptyrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
+			["groupsHidden"] = {
+				["races"] = true,
+			},
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
@@ -139,12 +196,11 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16584] = true,
 				[16577] = true,
 				[15890] = true,
-				[16574] = true,
 				[16323] = true,
+				[16634] = true,
+				[16578] = true,
 				[16424] = true,
-			},
-			["groupsHidden"] = {
-				["races"] = true,
+				[16574] = true,
 			},
 		},
 	},

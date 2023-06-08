@@ -9,6 +9,8 @@ HandyNotesDB = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
@@ -28,6 +30,10 @@ HandyNotesDB = {
 		["Riparium - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
+		},
+		["Ochrian - Argent Dawn"] = {
+		},
+		["Flumina - Argent Dawn"] = {
 		},
 		["Emptyrivers - Arthas"] = {
 		},
@@ -45,6 +51,8 @@ HandyNotes_HandyNotesDB = {
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
@@ -64,6 +72,10 @@ HandyNotes_HandyNotesDB = {
 		["Riparium - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
+		},
+		["Ochrian - Argent Dawn"] = {
+		},
+		["Flumina - Argent Dawn"] = {
 		},
 		["Emptyrivers - Arthas"] = {
 		},
