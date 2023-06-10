@@ -13,14 +13,14 @@ DataStore_AuctionsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1685733952,
-				["lastVisitDate"] = "2023/06/02 14:25",
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["lastUpdate"] = 1686115417,
+				["lastVisitDate"] = "2023/06/07 00:23",
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["lastAuctionsScan"] = 1685727103,
-				["lastVisitDate"] = "2023/06/02 20:39",
-				["lastUpdate"] = 1685756342,
+				["lastVisitDate"] = "2023/06/09 20:26",
+				["lastUpdate"] = 1686360398,
 			},
 			["Default.Argent Dawn.Headcut"] = {
 				["lastUpdate"] = 1673931145,
@@ -30,9 +30,9 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1675015432,
 				["lastVisitDate"] = "2023/01/29 12:03",
 			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1686115417,
-				["lastVisitDate"] = "2023/06/07 00:23",
+			["Default.Argent Dawn.Confluence"] = {
+				["lastUpdate"] = 1683740625,
+				["lastVisitDate"] = "2023/05/10 12:43",
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["lastUpdate"] = 1685818376,
@@ -42,9 +42,9 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1685738094,
 				["lastVisitDate"] = "2023/06/02 15:34",
 			},
-			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1683740625,
-				["lastVisitDate"] = "2023/05/10 12:43",
+			["Default.Argent Dawn.Sverdrup"] = {
+				["lastUpdate"] = 1685733952,
+				["lastVisitDate"] = "2023/06/02 14:25",
 			},
 		},
 	},

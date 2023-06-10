@@ -11,19 +11,19 @@ OPie_SavedData = {
 				["MageTravel#SliceBindingString"] = "1 2 3 4 5 6 7 8 9 0 - =",
 			},
 			["Bindings"] = {
-				["OPieTracking"] = false,
-				["MageTravel"] = "F2",
-				["HerosPath"] = "F5",
 				["SpecMenu"] = "F3",
 				["MageTools"] = "F4",
-				["CommonTrades"] = "ALT-`",
-				["WorldMarkers"] = "ALT-SHIFT-R",
+				["HerosPath"] = "F5",
 				["OPieAutoQuest"] = false,
+				["MageTravel"] = "F2",
+				["CommonTrades"] = "ALT-`",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-SHIFT-R",
 			},
 			["RotationTokens"] = {
 				["OPCTAt"] = "OPCHSs",
 				["ABuebuGxwpw1"] = "ABuebh1mu8e",
-				["ABuebiafrDd"] = "ABuebiafrDo",
+				["ABuebiafrDd"] = "ABuebiafrDp",
 			},
 		},
 	},
@@ -216,8 +216,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuebiafrDf",
 				}, -- [5]
 				["name"] = "cooking pets",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["HerosPath"] = {
 				{

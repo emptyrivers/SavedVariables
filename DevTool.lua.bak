@@ -15,8 +15,7 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 				"DevTool.settings.history", -- [8]
 			},
-			["isWndOpen"] = true,
-			["collResizeWidth"] = 249.9998779296875,
+			["collResizeWidth"] = 249.999755859375,
 		},
 	},
 }

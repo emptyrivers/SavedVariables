@@ -34,14 +34,14 @@ DataStoreDB = {
 				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
 			},
-			["Default.Argent Dawn.Estuary"] = {
-				["guildName"] = "House Stalwart",
+			["Default.Argent Dawn.Ochrian"] = {
 				["faction"] = "Alliance",
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Argent Dawn.Ochrian"] = {
+			["Default.Argent Dawn.Estuary"] = {
+				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {

@@ -4,21 +4,10 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Flumina-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Madysson-earthen-ring"] = true,
-	["us-Tallbot-argent-dawn"] = true,
-	["us-Yshtala-earthen-ring"] = true,
-	["us-Thundoor-the-scryers"] = true,
-	["us-Cocidiae-argent-dawn"] = true,
-	["us-Hanfwerto-earthen-ring"] = true,
-	["us-Valkyra-earthen-ring"] = true,
-	["us-Delvoker-earthen-ring"] = true,
-	["us-Greegar-earthen-ring"] = true,
-	["us-Keys-earthen-ring"] = true,
-	["us-Sìlas-argent-dawn"] = true,
-	["us-Artemís-argent-dawn"] = true,
-	["us-Bearyscary-earthen-ring"] = true,
-	["us-Craigalishuz-burning-blade"] = true,
-	["us-Ezrakae-argent-dawn"] = true,
+	["us-Aronar-argent-dawn"] = true,
+	["us-Nualå-argent-dawn"] = true,
+	["us-Riccomon-the-scryers"] = true,
+	["us-Goreblade-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }

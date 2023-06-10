@@ -12,7 +12,7 @@ MythicDungeonToolsDB = {
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
-		["scale"] = 1.452391258445946,
+		["currentDungeonIdx"] = 16,
 		["nonFullscreenScale"] = 1.452391258445946,
 		["MDI"] = {
 		},
@@ -524,25 +524,25 @@ MythicDungeonToolsDB = {
 								[24] = {
 									3, -- [1]
 								},
-								["color"] = "a1ff3e",
+								[33] = {
+									7, -- [1]
+									8, -- [2]
+								},
 								[32] = {
 									4, -- [1]
 									10, -- [2]
 									14, -- [3]
 								},
-								[33] = {
-									7, -- [1]
-									8, -- [2]
-								},
+								["color"] = "a1ff3e",
 								[14] = {
 									7, -- [1]
 									8, -- [2]
 								},
-								[16] = {
-									7, -- [1]
-								},
 								[23] = {
 									2, -- [1]
+								},
+								[16] = {
+									7, -- [1]
 								},
 							}, -- [11]
 							{
@@ -674,10 +674,10 @@ MythicDungeonToolsDB = {
 								[28] = {
 									2, -- [1]
 								},
+								["color"] = "3effff",
 								[29] = {
 									1, -- [1]
 								},
-								["color"] = "3effff",
 								[36] = {
 									11, -- [1]
 								},
@@ -1069,7 +1069,6 @@ MythicDungeonToolsDB = {
 			2, -- [8]
 		},
 		["version"] = 40318,
-		["currentDungeonIdx"] = 16,
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -1134,5 +1133,6 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["scale"] = 1.452391258445946,
 	},
 }

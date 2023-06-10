@@ -11,7 +11,7 @@ ImmersionSetup = {
 	["movetalkinghead"] = true,
 	["onthefly"] = false,
 	["boxoffsetX"] = 14.3358154296875,
-	["hidetooltip"] = true,
+	["hidetracker"] = true,
 	["accept"] = "SPACE",
 	["boxscale"] = 1,
 	["titleoffset"] = 523.6195678710938,
@@ -22,7 +22,7 @@ ImmersionSetup = {
 	["delaydivisor"] = 15,
 	["boxpoint"] = "Bottom",
 	["anidivisor"] = 5,
-	["hidetracker"] = true,
+	["hidetooltip"] = true,
 	["inspect"] = "SHIFT",
 	["reset"] = "BACKSPACE",
 }

@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 3028,
+	["session"] = 3030,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -99,5 +99,13 @@ BugGrabberDB = {
 			["session"] = 3025,
 			["counter"] = 6,
 		}, -- [12]
+		{
+			["message"] = "[string \"return time(1685649797)\"]:1: bad argument #1 to 'time' (table expected, got number)",
+			["time"] = "2023/06/08 15:43:00",
+			["locals"] = "(*temporary) = 1685649797\n(*temporary) = \"table expected, got number\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `time'\n[string \"return time(1685649797)\"]:1: in function `func'\n[string \"@Interface/SharedXML/Dump.lua\"]:396: in function `DevTools_DumpCommand'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:2431: in function `?'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:5236: in function `ChatEdit_ParseText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4894: in function `ChatEdit_SendText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4930: in function <Interface/FrameXML/ChatFrame.lua:4926>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1: in function <[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1>",
+			["session"] = 3029,
+			["counter"] = 1,
+		}, -- [13]
 	},
 }

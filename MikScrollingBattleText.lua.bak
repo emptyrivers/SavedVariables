@@ -5,13 +5,12 @@ MSBTProfiles_SavedVars = {
 			["enableBlizzardHealing"] = false,
 			["creationVersion"] = "5.8.1",
 			["scrollAreas"] = {
-				["Static"] = {
-					["offsetY"] = -247,
-					["disabled"] = true,
-					["offsetX"] = -21,
-				},
 				["Incoming"] = {
 					["offsetX"] = -256,
+					["offsetY"] = -256,
+				},
+				["Outgoing"] = {
+					["offsetX"] = 216,
 					["offsetY"] = -256,
 				},
 				["Notification"] = {
@@ -19,9 +18,10 @@ MSBTProfiles_SavedVars = {
 					["offsetX"] = -168,
 					["disabled"] = true,
 				},
-				["Outgoing"] = {
-					["offsetX"] = 216,
-					["offsetY"] = -256,
+				["Static"] = {
+					["offsetY"] = -247,
+					["disabled"] = true,
+					["offsetX"] = -21,
 				},
 			},
 			["enableBlizzardDamage"] = false,

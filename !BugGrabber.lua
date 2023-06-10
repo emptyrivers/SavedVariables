@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 3029,
+	["session"] = 3031,
 	["errors"] = {
 		{
 			["message"] = "...ace/AddOns/WeakAurasOptions/OptionsFrames/Update.lua:1348: attempt to get length of local 'matches' (a nil value)",
@@ -107,5 +107,13 @@ BugGrabberDB = {
 			["session"] = 3029,
 			["counter"] = 1,
 		}, -- [13]
+		{
+			["message"] = "ElvUI_ReputationBar:SetShown(): C_Timer.After requires a non-negative duration",
+			["time"] = "2023/06/09 22:05:40",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"=[C]\"]: in function `SetShown'\n[string \"@Interface/AddOns/ElvUI/Core/Modules/DataBars/DataBars.lua\"]:158: in function `SetVisibility'\n[string \"@Interface/AddOns/ElvUI/Core/Modules/DataBars/Reputation.lua\"]:46: in function <...ce/AddOns/ElvUI/Core/Modules/DataBars/Reputation.lua:44>\n[string \"=[C]\"]: in function `?'\n[string \"@Interface/AddOns/ElvUI_Libraries/Core/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:109: in function <...ies/Core/CallbackHandler-1.0/CallbackHandler-1.0.lua:109>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/ElvUI_Libraries/Core/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:19: in function <...ies/Core/CallbackHandler-1.0/CallbackHandler-1.0.lua:15>\n[string \"@Interface/AddOns/ElvUI_Libraries/Core/CallbackHandler-1.0-8/CallbackHandler-1.0.lua\"]:54: in function `Fire'\n[string \"@Interface/AddOns/ElvUI_Libraries/Core/Ace3/AceEvent-3.0-4/AceEvent-3.0.lua\"]:120: in function <...UI_Libraries/Core/Ace3/AceEvent-3.0/AceEvent-3.0.lua:119>",
+			["session"] = 3031,
+			["counter"] = 1,
+		}, -- [14]
 	},
 }

@@ -5,7 +5,6 @@ DevToolDatabase = {
 	},
 	["profiles"] = {
 		["Flumina - Argent Dawn"] = {
-			["isWndOpen"] = true,
 			["history"] = {
 				"WeakAuras", -- [1]
 				"WeakAurasPrivate", -- [2]

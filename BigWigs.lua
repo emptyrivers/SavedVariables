@@ -1,5 +1,25 @@
 
 BigWigs3DB = {
+	["global"] = {
+		["watchedMovies"] = {
+			[-607] = true,
+			[-609] = true,
+			[-437] = true,
+			[-323] = true,
+			[682] = true,
+			[-593] = {
+				true, -- [1]
+				true, -- [2]
+			},
+			[-573] = true,
+			[-367] = true,
+			[-2170] = true,
+			[-706] = true,
+			[964] = true,
+			[-575] = true,
+			[-1152] = true,
+		},
+	},
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
@@ -21,7 +41,17 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
+		["BigWigs_Plugins_AutoReply"] = {
+		},
+		["BigWigs_Bosses_Dargrul"] = {
+		},
 		["BigWigs_Plugins_Statistics"] = {
+		},
+		["BigWigs_Bosses_Ularogg Cragshaper"] = {
+		},
+		["BigWigs_Bosses_Rokmora"] = {
+		},
+		["BigWigs_Bosses_Naraxas"] = {
 		},
 		["BigWigs_Plugins_Countdown"] = {
 			["profiles"] = {
@@ -36,6 +66,8 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_AltPower"] = {
+		},
+		["BigWigs_Bosses_Scalecommander Sarkareth"] = {
 		},
 		["BigWigs_Bosses_Raszageth the Storm-Eater"] = {
 			["profiles"] = {
@@ -58,27 +90,24 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 493.4334266554724,
-					["BigWigsEmphasizeAnchor_height"] = 21.99989891052246,
 					["BigWigsAnchor_width"] = 220.0000610351563,
+					["BigWigsEmphasizeAnchor_height"] = 21.99989891052246,
+					["BigWigsAnchor_height"] = 15.99998664855957,
+					["BigWigsEmphasizeAnchor_y"] = 493.4334266554724,
 					["BigWigsEmphasizeAnchor_width"] = 319.9998474121094,
 					["BigWigsEmphasizeAnchor_x"] = 566.400008664812,
-					["BigWigsAnchor_height"] = 15.99998664855957,
 				},
 			},
-		},
-		["BigWigs_Plugins_Super Emphasize"] = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["width"] = 139.9999847412109,
-				},
-			},
+		["BigWigs_Bosses_Aberrus, the Shadowed Crucible Trash"] = {
+		},
+		["BigWigs_Bosses_Echo of Neltharion"] = {
+		},
+		["BigWigs_Bosses_Neltharions Lair Trash"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -98,6 +127,13 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["width"] = 139.9999847412109,
+				},
+			},
+		},
 		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
@@ -106,26 +142,6 @@ BigWigs3DB = {
 		},
 	},
 	["wipe80"] = true,
-	["global"] = {
-		["watchedMovies"] = {
-			[-607] = true,
-			[-609] = true,
-			[-437] = true,
-			[-2170] = true,
-			[682] = true,
-			[-1152] = true,
-			[-573] = true,
-			[-367] = true,
-			[-323] = true,
-			[-706] = true,
-			[964] = true,
-			[-575] = true,
-			[-593] = {
-				true, -- [1]
-				true, -- [2]
-			},
-		},
-	},
 	["profiles"] = {
 		["Default"] = {
 		},
@@ -188,7 +204,9 @@ BigWigsStatsDB = {
 				["best"] = 314.3070000000007,
 			},
 			["heroic"] = {
-				["wipes"] = 1,
+				["kills"] = 1,
+				["wipes"] = 2,
+				["best"] = 340.1670000000158,
 			},
 		},
 		[2524] = {
@@ -239,6 +257,9 @@ BigWigsStatsDB = {
 				["wipes"] = 16,
 				["best"] = 416.4949999999999,
 			},
+			["heroic"] = {
+				["wipes"] = 11,
+			},
 		},
 	},
 	[1861] = {
@@ -255,10 +276,11 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2167] = {
+		[2195] = {
 			["LFR"] = {
-				["best"] = 296.486000000034,
 				["kills"] = 1,
+				["wipes"] = 1,
+				["best"] = 225.87999999999,
 			},
 		},
 		[2166] = {
@@ -267,38 +289,30 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2195] = {
-			["LFR"] = {
-				["kills"] = 1,
-				["wipes"] = 1,
-				["best"] = 225.87999999999,
-			},
-		},
 		[2146] = {
 			["LFR"] = {
 				["best"] = 128.481,
 				["kills"] = 1,
 			},
 		},
+		[2167] = {
+			["LFR"] = {
+				["best"] = 296.486000000034,
+				["kills"] = 1,
+			},
+		},
 	},
 	[2522] = {
-		[2486] = {
+		[2500] = {
 			["normal"] = {
-				["best"] = 165.3889999999956,
-				["kills"] = 10,
-			},
-			["mythic"] = {
-				["wipes"] = 7,
+				["kills"] = 11,
+				["wipes"] = 4,
+				["best"] = 193.4429999999993,
 			},
 			["heroic"] = {
-				["kills"] = 14,
-				["wipes"] = 8,
-				["best"] = 154.0789999999997,
-			},
-			["LFR"] = {
-				["kills"] = 3,
-				["wipes"] = 2,
-				["best"] = 262.4070000000002,
+				["kills"] = 15,
+				["wipes"] = 11,
+				["best"] = 218.0320000000065,
 			},
 		},
 		[2491] = {
@@ -333,16 +347,21 @@ BigWigsStatsDB = {
 				["wipes"] = 1,
 			},
 		},
-		[2500] = {
-			["normal"] = {
-				["kills"] = 11,
-				["wipes"] = 4,
-				["best"] = 193.4429999999993,
-			},
+		[2493] = {
 			["heroic"] = {
-				["kills"] = 15,
-				["wipes"] = 11,
-				["best"] = 218.0320000000065,
+				["kills"] = 13,
+				["wipes"] = 16,
+				["best"] = 324.4759999999078,
+			},
+			["normal"] = {
+				["kills"] = 9,
+				["wipes"] = 8,
+				["best"] = 277.2670000000071,
+			},
+			["LFR"] = {
+				["kills"] = 1,
+				["wipes"] = 2,
+				["best"] = 390.4180000000051,
 			},
 		},
 		[2480] = {
@@ -393,21 +412,23 @@ BigWigsStatsDB = {
 			["LFR"] = {
 			},
 		},
-		[2493] = {
-			["heroic"] = {
-				["kills"] = 13,
-				["wipes"] = 16,
-				["best"] = 324.4759999999078,
-			},
+		[2486] = {
 			["normal"] = {
-				["kills"] = 9,
+				["best"] = 165.3889999999956,
+				["kills"] = 10,
+			},
+			["mythic"] = {
+				["wipes"] = 7,
+			},
+			["heroic"] = {
+				["kills"] = 14,
 				["wipes"] = 8,
-				["best"] = 277.2670000000071,
+				["best"] = 154.0789999999997,
 			},
 			["LFR"] = {
-				["kills"] = 1,
+				["kills"] = 3,
 				["wipes"] = 2,
-				["best"] = 390.4180000000051,
+				["best"] = 262.4070000000002,
 			},
 		},
 	},
