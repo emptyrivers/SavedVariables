@@ -189,8 +189,8 @@ PasteDB = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
 			["where"] = "Default",
+			["whispertarget"] = "",
 			["pos"] = {
 			},
 		},
@@ -290,8 +290,8 @@ PasteDB = {
 		},
 		["Flumina - Argent Dawn"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 				["height"] = 320,
 				["top"] = 802.2857666015625,

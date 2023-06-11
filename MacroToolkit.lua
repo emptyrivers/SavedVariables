@@ -1,14 +1,6 @@
 
 MacroToolkitDB = {
 	["char"] = {
-		["Wildrivers - Bleeding Hollow"] = {
-			["backups"] = {
-			},
-		},
-		["Headcut - Argent Dawn"] = {
-			["backups"] = {
-			},
-		},
 		["Flumina - Argent Dawn"] = {
 			["lastbackup"] = "May 31 19:24:07",
 			["backups"] = {
@@ -128,6 +120,14 @@ MacroToolkitDB = {
 				}, -- [1]
 			},
 		},
+		["Wildrivers - Bleeding Hollow"] = {
+			["backups"] = {
+			},
+		},
+		["Headcut - Argent Dawn"] = {
+			["backups"] = {
+			},
+		},
 	},
 	["global"] = {
 		["backups"] = {
@@ -146,10 +146,10 @@ MacroToolkitDB = {
 		["Wildrivers - Bleeding Hollow"] = "profile",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "profile",
 		["Confluence - Argent Dawn"] = "profile",
-		["Emptyrivers - Argent Dawn"] = "profile",
+		["Emptyrivers - Arthas"] = "profile",
 		["Riparium - Argent Dawn"] = "profile",
 		["Riversticks - Bleeding Hollow"] = "profile",
-		["Emptyrivers - Arthas"] = "profile",
+		["Emptyrivers - Argent Dawn"] = "profile",
 		["Headcut - Argent Dawn"] = "profile",
 		["Luckyrivers - Sargeras"] = "profile",
 		["Emptyrivers - Bleeding Hollow"] = "profile",

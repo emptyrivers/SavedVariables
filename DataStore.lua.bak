@@ -17,7 +17,7 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Argent Dawn.House Stalwart"] = {
-				["faction"] = "Horde",
+				["faction"] = "Alliance",
 			},
 		},
 		["Characters"] = {
@@ -41,16 +41,16 @@ DataStoreDB = {
 			["Default.Argent Dawn.Sverdrup"] = {
 				["faction"] = "Horde",
 			},
-			["Default.Argent Dawn.Estuary"] = {
+			["Default.Argent Dawn.Ochrian"] = {
 				["faction"] = "Alliance",
-				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
 			},
-			["Default.Argent Dawn.Ochrian"] = {
+			["Default.Argent Dawn.Estuary"] = {
 				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
 		},
 		["ShortToLongRealmNames"] = {

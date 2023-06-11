@@ -2,12 +2,15 @@
 RaiderIO_Config = {
 	["displayWeeklyGuildBest"] = false,
 }
-RaiderIO_LastCharacter = "us-Flumina-argent-dawn"
+RaiderIO_LastCharacter = "us-Emptyrivers-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Aronar-argent-dawn"] = true,
-	["us-Nualå-argent-dawn"] = true,
-	["us-Riccomon-the-scryers"] = true,
-	["us-Goreblade-argent-dawn"] = true,
+	["us-Melaina-the-scryers"] = true,
+	["us-Cridracodin-illidan"] = true,
+	["us-Illcripod-illidan"] = true,
+	["us-Melyia-the-scryers"] = true,
+	["us-Redryder-the-scryers"] = true,
+	["us-Jadelark-the-scryers"] = true,
+	["us-Occido-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }

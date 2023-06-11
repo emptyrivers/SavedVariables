@@ -2,6 +2,8 @@
 DevToolDatabase = {
 	["profileKeys"] = {
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 	},
 	["profiles"] = {
 		["Flumina - Argent Dawn"] = {
@@ -16,6 +18,10 @@ DevToolDatabase = {
 				"DevTool.settings.history", -- [8]
 			},
 			["collResizeWidth"] = 249.999755859375,
+		},
+		["Estuary - Argent Dawn"] = {
+		},
+		["Emptyrivers - Argent Dawn"] = {
 		},
 	},
 }

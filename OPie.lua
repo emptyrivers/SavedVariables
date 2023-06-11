@@ -11,17 +11,17 @@ OPie_SavedData = {
 				["MageTravel#SliceBindingString"] = "1 2 3 4 5 6 7 8 9 0 - =",
 			},
 			["Bindings"] = {
+				["OPieTracking"] = false,
+				["MageTravel"] = "F2",
+				["HerosPath"] = "F5",
 				["SpecMenu"] = "F3",
 				["MageTools"] = "F4",
-				["HerosPath"] = "F5",
-				["OPieAutoQuest"] = false,
-				["MageTravel"] = "F2",
 				["CommonTrades"] = "ALT-`",
-				["OPieTracking"] = false,
 				["WorldMarkers"] = "ALT-SHIFT-R",
+				["OPieAutoQuest"] = false,
 			},
 			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSs",
+				["OPCTAt"] = "OPCHSh",
 				["ABuebuGxwpw1"] = "ABuebh1mu8e",
 				["ABuebiafrDd"] = "ABuebiafrDp",
 			},
@@ -52,10 +52,10 @@ OPie_SavedData = {
 					["id"] = 1459,
 					["sliceToken"] = "OPCMTn",
 				}, -- [5]
-				["limit"] = "MAGE",
+				["name"] = "Utility",
 				["save"] = true,
 				["hotkey"] = "BUTTON5",
-				["name"] = "Utility",
+				["limit"] = "MAGE",
 			},
 			["ExtraPortals"] = {
 				{
@@ -80,10 +80,10 @@ OPie_SavedData = {
 					["c"] = "ff4000",
 					["id"] = "/cast [mod] {{spell:176246/176244}}; {{spell:176248/176242}}",
 				}, -- [5]
-				["name"] = "Extra Portals",
+				["limit"] = "MAGE",
 				["save"] = true,
 				["embed"] = true,
-				["limit"] = "MAGE",
+				["name"] = "Extra Portals",
 			},
 			["CommonHearth"] = {
 				{

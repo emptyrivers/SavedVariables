@@ -56,15 +56,15 @@ TomTomDB = {
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
 		["Garumn - Arthas"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
+		["Blindrivers - Korgath"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Notariver - Arthas"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
 		["Crazyrivers - Arthas"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
@@ -74,11 +74,11 @@ TomTomDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Blindrivers - Korgath"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
@@ -121,11 +121,11 @@ TomTomWaypointsM = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
@@ -144,273 +144,6 @@ TomTomWaypointsM = {
 		["Ochrian - Argent Dawn"] = {
 		},
 		["Flumina - Argent Dawn"] = {
-			[2024] = {
-				["2024:177000000:390000000:[|cff009564Alchemy|r] |cff0070ddDecaying Phlegm|r"] = {
-					2024, -- [1]
-					0.177, -- [2]
-					0.39, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cff0070ddDecaying Phlegm|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2024:164000000:385000000:[|cff009564Alchemy|r] |cffa335eeExperimental Decay Sample|r"] = {
-					2024, -- [1]
-					0.164, -- [2]
-					0.385, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeExperimental Decay Sample|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2024:670000000:132000000:[|cff009564Alchemy|r] |cffa335eeFirewater Powder Sample|r"] = {
-					2024, -- [1]
-					0.67, -- [2]
-					0.132, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeFirewater Powder Sample|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-			},
-			[2025] = {
-				["2025:595000000:384000000:[|cff009564Alchemy|r] |cffa335eeContraband Concoction|r"] = {
-					2025, -- [1]
-					0.595, -- [2]
-					0.384, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeContraband Concoction|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2025:552000000:305000000:[|cff009564Alchemy|r] |cffa335eeTasty Candy|r"] = {
-					2025, -- [1]
-					0.552, -- [2]
-					0.305, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeTasty Candy|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-			},
-			[2022] = {
-				["2022:609200000:758400000:[|cff009564Alchemy|r] |cff0070ddProfession Master|r"] = {
-					2022, -- [1]
-					0.6092, -- [2]
-					0.7584000000000001, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cff0070ddProfession Master|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2022:374000000:715000000:[|cff009564Alchemy|r] |cff0070ddElementious Splinter|r"] = {
-					2022, -- [1]
-					0.374, -- [2]
-					0.715, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cff0070ddElementious Splinter|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2022:550000000:810000000:[|cff009564Alchemy|r] |cffa335eeFrostforged Potion|r"] = {
-					2022, -- [1]
-					0.55, -- [2]
-					0.81, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeFrostforged Potion|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2022:251000000:733000000:[|cff009564Alchemy|r] |cffa335eeWell Insulated Mug|r"] = {
-					2022, -- [1]
-					0.251, -- [2]
-					0.733, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeWell Insulated Mug|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-			},
 			[407] = {
 				["407:502000000:694000000:[|cff009564Alchemy|r] |cff0070ddA Fizzy Fusion Quest|r"] = {
 					407, -- [1]
@@ -419,7 +152,8 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["minimap"] = true,
+					["desc"] = "[|cff009564Alchemy|r] |cff0070ddA Fizzy Fusion Quest|r",
+					["silent"] = true,
 					["cleardistance"] = 10,
 					["title"] = "[|cff009564Alchemy|r] |cff0070ddA Fizzy Fusion Quest|r",
 					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
@@ -439,6 +173,7 @@ TomTomWaypointsM = {
 							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
+					["minimap"] = true,
 					["world"] = true,
 				},
 				["407:550000000:706000000:[|cff00ab00Herbalism|r] |cff0070ddHerbs for Healing Quest|r"] = {
@@ -448,7 +183,8 @@ TomTomWaypointsM = {
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["minimap"] = true,
+					["desc"] = "[|cff00ab00Herbalism|r] |cff0070ddHerbs for Healing Quest|r",
+					["silent"] = true,
 					["cleardistance"] = 10,
 					["title"] = "[|cff00ab00Herbalism|r] |cff0070ddHerbs for Healing Quest|r",
 					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
@@ -468,155 +204,7 @@ TomTomWaypointsM = {
 							["tooltip_show"] = nil --[[ skipped inline function ]],
 						},
 					},
-					["world"] = true,
-				},
-			},
-			[2133] = {
-				["2133:621000000:411200000:[|cff009564Alchemy|r] |cffa335eeMarrow-Ripened Slime|r"] = {
-					2133, -- [1]
-					0.621, -- [2]
-					0.4112, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
 					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeMarrow-Ripened Slime|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2133:404800000:591800000:[|cff009564Alchemy|r] |cffa335eeSuspicious Mold|r"] = {
-					2133, -- [1]
-					0.4048, -- [2]
-					0.5918, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeSuspicious Mold|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2133:526800000:183000000:[|cff009564Alchemy|r] |cffa335eeNutrient Diluted Protofluid|r"] = {
-					2133, -- [1]
-					0.5268, -- [2]
-					0.183, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cffa335eeNutrient Diluted Protofluid|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-			},
-			[2112] = {
-				["2112:375000000:679000000:[|cff00ab00Herbalism|r] |cff0070ddInstructor Quest|r"] = {
-					2112, -- [1]
-					0.375, -- [2]
-					0.679, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff00ab00Herbalism|r] |cff0070ddInstructor Quest|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
-					["world"] = true,
-				},
-				["2112:364000000:717000000:[|cff009564Alchemy|r] |cff0070ddInstructor Quest|r"] = {
-					2112, -- [1]
-					0.364, -- [2]
-					0.7170000000000001, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "[|cff009564Alchemy|r] |cff0070ddInstructor Quest|r",
-					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
-					["callbacks"] = {
-						["distance"] = {
-							[10] = nil --[[ skipped inline function ]],
-							[15] = nil --[[ skipped inline function ]],
-						},
-						["world"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-						["minimap"] = {
-							["onclick"] = nil --[[ skipped inline function ]],
-							["tooltip_update"] = nil --[[ skipped inline function ]],
-							["tooltip_show"] = nil --[[ skipped inline function ]],
-						},
-					},
 					["world"] = true,
 				},
 			},
@@ -637,21 +225,197 @@ TomTomWaypointsM = {
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 		},
-		["Emptyrivers - Argent Dawn"] = {
-		},
-		["Riparium - Argent Dawn"] = {
-		},
 		["Emptyrivers - Arthas"] = {
+		},
+		["Daedrasminia - Arthas"] = {
+		},
+		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Testrivers - Arthas"] = {
 		},
-		["Daedrasminia - Arthas"] = {
+		["Riparium - Argent Dawn"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Ragingrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
+			[2025] = {
+				["2025:568000000:305000000:[|cff804d40Leatherworking|r] |cffa335eeDecayed Scales|r"] = {
+					2025, -- [1]
+					0.568, -- [2]
+					0.305, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeDecayed Scales|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
+			[2133] = {
+				["2133:452500000:211200000:[|cff804d40Leatherworking|r] |cffa335eeLava-Forged Leatherworker's \"Knife\"|r"] = {
+					2133, -- [1]
+					0.4525, -- [2]
+					0.2112, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeLava-Forged Leatherworker's \"Knife\"|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2133:411600000:488100000:[|cff804d40Leatherworking|r] |cffa335eeFlame-Infused Scale Oil|r"] = {
+					2133, -- [1]
+					0.4116, -- [2]
+					0.4881, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeFlame-Infused Scale Oil|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2133:495600000:548000000:[|cff804d40Leatherworking|r] |cffa335eeSulfur-Soaked Skins|r"] = {
+					2133, -- [1]
+					0.4956, -- [2]
+					0.5479999999999999, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeSulfur-Soaked Skins|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
+			[2024] = {
+				["2024:167000000:388000000:[|cff804d40Leatherworking|r] |cffa335eeDecay-Infused Tanning Oil|r"] = {
+					2024, -- [1]
+					0.167, -- [2]
+					0.388, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeDecay-Infused Tanning Oil|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2024:385000000:372000000:[|cff804d40Leatherworking|r] |cff0070ddExceedingly Soft Skin|r"] = {
+					2024, -- [1]
+					0.385, -- [2]
+					0.3720000000000001, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cff0070ddExceedingly Soft Skin|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2024:575000000:413000000:[|cff804d40Leatherworking|r] |cffa335eeTreated Hides|r"] = {
+					2024, -- [1]
+					0.575, -- [2]
+					0.413, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeTreated Hides|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
+			[2022] = {
+				["2022:643000000:254000000:[|cff804d40Leatherworking|r] |cffa335eeSpare Djaradin Tools|r"] = {
+					2022, -- [1]
+					0.643, -- [2]
+					0.254, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeSpare Djaradin Tools|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
 		},
 	},
 }

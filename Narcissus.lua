@@ -159,8 +159,8 @@ NarcissusDB = {
 			[112] = "::perksVendorCategoryID::1::description::Gold? Check. Spikes? Check.::price::450::itemModifiedAppearanceID::168290::name::Gilded Drakkonid Morningstar::itemID::190145::addedDate::2023/4::",
 			[60] = "::perksVendorCategoryID::1::description::A well-placed arrow can prove a practical solution for even the magically inclined Azurewing.::price::200::itemModifiedAppearanceID::168224::name::Azure Scalesworn Longbow::itemID::190071::addedDate::2023/2::",
 			[309] = "::perksVendorCategoryID::1::description::Said to contain a fragment of An'she's power.::price::500::itemModifiedAppearanceID::169035::name::Sunspire Battle Staff::itemID::190821::addedDate::2023/6::",
-			[7] = "::perksVendorCategoryID::8::description::Please note that the warranty does not cover issues related to personal fel corruption.::price::850::transmogSetID::2320::name::Ensemble: Fel-Automaton Exoplate::itemID::189938::addedDate::2023/3::",
 			[110] = "::perksVendorCategoryID::1::description::A pointed reminder of past strife within the Blue Dragonflight.::price::200::itemModifiedAppearanceID::168288::name::Shard of Frozen Secrets::itemID::190143::addedDate::2023/2::",
+			[7] = "::perksVendorCategoryID::8::description::Please note that the warranty does not cover issues related to personal fel corruption.::price::850::transmogSetID::2320::name::Ensemble: Fel-Automaton Exoplate::itemID::189938::addedDate::2023/3::",
 			[223] = "::perksVendorCategoryID::2::description::A beacon of hope; a guiding light in the darkness.::price::900::mountID::376::name::Celestial Steed::itemID::54811::addedDate::2023/2::",
 			[225] = "::perksVendorCategoryID::1::description::The call of the void is unrelenting.::price::500::itemModifiedAppearanceID::169059::name::Shattered Voidspire::itemID::190846::addedDate::2023/2::",
 			[227] = "::perksVendorCategoryID::1::description::Everything is better in pink!::price::75::itemModifiedAppearanceID::168541::name::Iridescent Warcloak::itemID::190434::addedDate::2023/2::",
@@ -199,7 +199,7 @@ NarcissusDB = {
 	["EnableDoubleTap"] = true,
 	["GemManager"] = true,
 	["ModelPanelScale"] = 1,
-	["TooltipTheme"] = "Bright",
+	["AutoDisplayQuestItem"] = false,
 	["SearchRelativesHotkey"] = "TAB",
 	["Tutorials"] = {
 		["ExitConfirmation"] = false,
@@ -216,7 +216,7 @@ NarcissusDB = {
 	["UseEscapeButton"] = true,
 	["CameraOrbit"] = true,
 	["Version"] = 10000,
-	["AutoDisplayQuestItem"] = false,
+	["TooltipTheme"] = "Bright",
 	["MissingEnchantAlert"] = true,
 	["SearchSuggestEnable"] = true,
 	["FontHeightItemName"] = 10,
@@ -236,16 +236,13 @@ NarciAchievementOptions = {
 }
 NarciStatisticsDB = {
 	["InstalledDate"] = 1671525547,
-	["TimeSpentInNarcissus"] = 1722,
+	["TimeSpentInNarcissus"] = 1727,
 	["QuestItems"] = {
 	},
 	["AddOnActionForbidden"] = {
 		["timeLastError"] = 1686196128,
 		["addons"] = {
 			["DialogKey"] = {
-				["errorTime"] = {
-					1685814684, -- [1]
-				},
 				["count"] = 34,
 				["timeLastError"] = 1685814684,
 			},
@@ -255,14 +252,9 @@ NarciStatisticsDB = {
 			},
 			["ElvUI"] = {
 				["errorTime"] = {
-					1685757445, -- [1]
-					1685765377, -- [2]
-					1685827231, -- [3]
-					1685827260, -- [4]
-					1685827373, -- [5]
-					1686192341, -- [6]
-					1686192392, -- [7]
-					1686196128, -- [8]
+					1686192341, -- [1]
+					1686192392, -- [2]
+					1686196128, -- [3]
 				},
 				["count"] = 79,
 				["timeLastError"] = 1686196128,
@@ -326,7 +318,7 @@ NarciCharacterProfiles = {
 		["name"] = "Flumina",
 		["birth"] = 1676168222,
 		["serverID"] = "75",
-		["lastVisit"] = 1686360512,
+		["lastVisit"] = 1686517883,
 		["outfits"] = {
 			{
 				["s"] = "46749,77343,77345,36894,0,0,104604,181788,7615,165760,180844,182969:-1,181014",
@@ -360,7 +352,7 @@ NarciCharacterProfiles = {
 		["name"] = "Estuary",
 		["birth"] = 1671668194,
 		["serverID"] = "75",
-		["lastVisit"] = 1685818338,
+		["lastVisit"] = 1686508397,
 		["outfits"] = {
 		},
 		["class"] = 4,
@@ -384,7 +376,7 @@ NarciCharacterProfiles = {
 		["name"] = "Emptyrivers",
 		["birth"] = 1671525547,
 		["serverID"] = "75",
-		["lastVisit"] = 1686115403,
+		["lastVisit"] = 1686516039,
 		["outfits"] = {
 		},
 		["class"] = 8,

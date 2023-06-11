@@ -58,16 +58,16 @@ DataStore_TalentsDB = {
 				["activeSpecName"] = "Devastation",
 				["Class"] = "EVOKER",
 			},
-			["Default.Argent Dawn.Ochrian"] = {
+			["Default.Argent Dawn.Estuary"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1676258112,
+				["lastUpdate"] = 1686509895,
 				["Specializations"] = {
 					0, -- [1]
-					[5] = 0,
+					[3] = 0,
 				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Arcane",
-				["Class"] = "MAGE",
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Subtlety",
+				["Class"] = "ROGUE",
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["activeSpecRole"] = "DAMAGER",
@@ -81,20 +81,20 @@ DataStore_TalentsDB = {
 				["activeSpecName"] = "Windwalker",
 				["Class"] = "MONK",
 			},
-			["Default.Argent Dawn.Estuary"] = {
+			["Default.Argent Dawn.Ochrian"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1685818338,
+				["lastUpdate"] = 1676258112,
 				["Specializations"] = {
 					0, -- [1]
-					[3] = 0,
+					[5] = 0,
 				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Subtlety",
-				["Class"] = "ROGUE",
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Arcane",
+				["Class"] = "MAGE",
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686115722,
+				["lastUpdate"] = 1686517761,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -106,7 +106,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686372710,
+				["lastUpdate"] = 1686517885,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -217,7 +217,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 261,
 				}, -- [3]
 			},
-			["Version"] = 49801,
+			["Version"] = 49890,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",

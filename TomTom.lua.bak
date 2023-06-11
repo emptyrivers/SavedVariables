@@ -55,16 +55,16 @@ TomTomDB = {
 		["Flumina - Argent Dawn"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Treesurgeon - Korgath"] = "Default",
@@ -74,7 +74,7 @@ TomTomDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
 		["Notariver - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
@@ -121,11 +121,11 @@ TomTomWaypointsM = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Testrivers - Arthas"] = "Testrivers - Arthas",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
@@ -144,6 +144,54 @@ TomTomWaypointsM = {
 		["Ochrian - Argent Dawn"] = {
 		},
 		["Flumina - Argent Dawn"] = {
+			[407] = {
+				["407:502000000:694000000:[|cff009564Alchemy|r] |cff0070ddA Fizzy Fusion Quest|r"] = {
+					407, -- [1]
+					0.502, -- [2]
+					0.6940000000000001, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "[|cff009564Alchemy|r] |cff0070ddA Fizzy Fusion Quest|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff009564Alchemy|r] |cff0070ddA Fizzy Fusion Quest|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["407:550000000:706000000:[|cff00ab00Herbalism|r] |cff0070ddHerbs for Healing Quest|r"] = {
+					407, -- [1]
+					0.55, -- [2]
+					0.706, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "[|cff00ab00Herbalism|r] |cff0070ddHerbs for Healing Quest|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff00ab00Herbalism|r] |cff0070ddHerbs for Healing Quest|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
 		},
 		["Mahntaiaga - Arthas"] = {
 		},
@@ -161,21 +209,197 @@ TomTomWaypointsM = {
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 		},
-		["Riparium - Argent Dawn"] = {
-		},
 		["Daedrasminia - Arthas"] = {
+		},
+		["Riparium - Argent Dawn"] = {
 		},
 		["Testrivers - Arthas"] = {
 		},
-		["Emptyrivers - Arthas"] = {
-		},
 		["Emptyrivers - Argent Dawn"] = {
+		},
+		["Emptyrivers - Arthas"] = {
 		},
 		["Luckyrivers - Sargeras"] = {
 		},
 		["Emptyrivers - Sargeras"] = {
 		},
 		["Estuary - Argent Dawn"] = {
+			[2025] = {
+				["2025:568000000:305000000:[|cff804d40Leatherworking|r] |cffa335eeDecayed Scales|r"] = {
+					2025, -- [1]
+					0.568, -- [2]
+					0.305, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeDecayed Scales|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
+			[2133] = {
+				["2133:495600000:548000000:[|cff804d40Leatherworking|r] |cffa335eeSulfur-Soaked Skins|r"] = {
+					2133, -- [1]
+					0.4956, -- [2]
+					0.5479999999999999, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeSulfur-Soaked Skins|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2133:411600000:488100000:[|cff804d40Leatherworking|r] |cffa335eeFlame-Infused Scale Oil|r"] = {
+					2133, -- [1]
+					0.4116, -- [2]
+					0.4881, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeFlame-Infused Scale Oil|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2133:452500000:211200000:[|cff804d40Leatherworking|r] |cffa335eeLava-Forged Leatherworker's \"Knife\"|r"] = {
+					2133, -- [1]
+					0.4525, -- [2]
+					0.2112, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeLava-Forged Leatherworker's \"Knife\"|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
+			[2024] = {
+				["2024:167000000:388000000:[|cff804d40Leatherworking|r] |cffa335eeDecay-Infused Tanning Oil|r"] = {
+					2024, -- [1]
+					0.167, -- [2]
+					0.388, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeDecay-Infused Tanning Oil|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2024:385000000:372000000:[|cff804d40Leatherworking|r] |cff0070ddExceedingly Soft Skin|r"] = {
+					2024, -- [1]
+					0.385, -- [2]
+					0.3720000000000001, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cff0070ddExceedingly Soft Skin|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+				["2024:575000000:413000000:[|cff804d40Leatherworking|r] |cffa335eeTreated Hides|r"] = {
+					2024, -- [1]
+					0.575, -- [2]
+					0.413, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeTreated Hides|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
+			[2022] = {
+				["2022:643000000:254000000:[|cff804d40Leatherworking|r] |cffa335eeSpare Djaradin Tools|r"] = {
+					2022, -- [1]
+					0.643, -- [2]
+					0.254, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "[|cff804d40Leatherworking|r] |cffa335eeSpare Djaradin Tools|r",
+					["from"] = "Teixi/Dreilla - Profession Knowledge Tracker (Weak Auras 2)",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["world"] = true,
+				},
+			},
 		},
 	},
 }

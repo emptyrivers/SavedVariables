@@ -94,10 +94,10 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16577] = true,
 				[15890] = true,
 				[16323] = true,
-				[16634] = true,
+				[16424] = true,
 				[16578] = true,
 				[16574] = true,
-				[16424] = true,
+				[16634] = true,
 			},
 			["groupsHidden"] = {
 				["races"] = true,
@@ -114,20 +114,20 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16575] = true,
 				[16576] = true,
 				[16584] = true,
-				[16577] = true,
 				[16323] = true,
+				[16577] = true,
 				[15890] = true,
 				[16574] = true,
 				[16424] = true,
-				[16638] = true,
 				[16578] = true,
+				[16638] = true,
 				[16634] = true,
 			},
 		},
 		["Emptyrivers - Argent Dawn"] = {
 			["groupsHidden"] = {
-				["glyphs"] = true,
 				["races"] = true,
+				["glyphs"] = true,
 				["magicbound"] = false,
 			},
 			["zonesHidden"] = {
@@ -186,9 +186,6 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Emptyrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
-			["groupsHidden"] = {
-				["races"] = true,
-			},
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
@@ -197,10 +194,13 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16577] = true,
 				[15890] = true,
 				[16323] = true,
-				[16574] = true,
+				[16634] = true,
 				[16578] = true,
 				[16424] = true,
-				[16634] = true,
+				[16574] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
 			},
 		},
 	},

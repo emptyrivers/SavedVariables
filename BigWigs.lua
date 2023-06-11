@@ -5,19 +5,19 @@ BigWigs3DB = {
 			[-607] = true,
 			[-609] = true,
 			[-437] = true,
-			[-323] = true,
+			[-2170] = true,
 			[682] = true,
+			[-1152] = true,
+			[-573] = true,
+			[-367] = true,
+			[-323] = true,
+			[-706] = true,
+			[964] = true,
+			[-575] = true,
 			[-593] = {
 				true, -- [1]
 				true, -- [2]
 			},
-			[-573] = true,
-			[-367] = true,
-			[-2170] = true,
-			[-706] = true,
-			[964] = true,
-			[-575] = true,
-			[-1152] = true,
 		},
 	},
 	["profileKeys"] = {
@@ -31,27 +31,16 @@ BigWigs3DB = {
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
-	["discord"] = 15,
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_BossBlock"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
 		["BigWigs_Plugins_AutoReply"] = {
-		},
-		["BigWigs_Bosses_Dargrul"] = {
-		},
-		["BigWigs_Plugins_Statistics"] = {
-		},
-		["BigWigs_Bosses_Ularogg Cragshaper"] = {
-		},
-		["BigWigs_Bosses_Rokmora"] = {
-		},
-		["BigWigs_Bosses_Naraxas"] = {
 		},
 		["BigWigs_Plugins_Countdown"] = {
 			["profiles"] = {
@@ -66,8 +55,6 @@ BigWigs3DB = {
 			},
 		},
 		["BigWigs_Plugins_AltPower"] = {
-		},
-		["BigWigs_Bosses_Scalecommander Sarkareth"] = {
 		},
 		["BigWigs_Bosses_Raszageth the Storm-Eater"] = {
 			["profiles"] = {
@@ -90,24 +77,18 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsAnchor_width"] = 220.0000610351563,
-					["BigWigsEmphasizeAnchor_height"] = 21.99989891052246,
-					["BigWigsAnchor_height"] = 15.99998664855957,
 					["BigWigsEmphasizeAnchor_y"] = 493.4334266554724,
+					["BigWigsEmphasizeAnchor_height"] = 21.99989891052246,
+					["BigWigsAnchor_width"] = 220.0000610351563,
 					["BigWigsEmphasizeAnchor_width"] = 319.9998474121094,
 					["BigWigsEmphasizeAnchor_x"] = 566.400008664812,
+					["BigWigsAnchor_height"] = 15.99998664855957,
 				},
 			},
 		},
-		["BigWigs_Plugins_Wipe"] = {
-		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Bosses_Aberrus, the Shadowed Crucible Trash"] = {
-		},
-		["BigWigs_Bosses_Echo of Neltharion"] = {
-		},
-		["BigWigs_Bosses_Neltharions Lair Trash"] = {
+		["BigWigs_Plugins_Colors"] = {
 		},
 		["BigWigs_Plugins_Messages"] = {
 			["profiles"] = {
@@ -127,6 +108,8 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["LibDualSpec-1.0"] = {
+		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
 				["Default"] = {
@@ -134,14 +117,15 @@ BigWigs3DB = {
 				},
 			},
 		},
-		["BigWigs_Plugins_Colors"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 	},
 	["wipe80"] = true,
+	["discord"] = 15,
 	["profiles"] = {
 		["Default"] = {
 		},

@@ -1,7 +1,7 @@
 
 BugGrabberDB = {
 	["lastSanitation"] = 3,
-	["session"] = 3031,
+	["session"] = 3037,
 	["errors"] = {
 		{
 			["message"] = "...ace/AddOns/WeakAurasOptions/OptionsFrames/Update.lua:1348: attempt to get length of local 'matches' (a nil value)",
@@ -115,5 +115,13 @@ BugGrabberDB = {
 			["session"] = 3031,
 			["counter"] = 1,
 		}, -- [14]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Narcissus' tried to call the protected function 'UNKNOWN()'.",
+			["time"] = "2023/06/11 14:29:10",
+			["locals"] = "Skipped (In Encounter)",
+			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:480: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:480>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/Narcissus/Modules/ScreenshotTool/Toolbar.lua\"]:175: in function `Zero'\n[string \"@Interface/AddOns/Narcissus/Modules/ScreenshotTool/Toolbar.lua\"]:220: in function `SetHideTextStatus'\n[string \"@Interface/AddOns/Narcissus/Modules/ScreenshotTool/Toolbar.lua\"]:304: in function `onInitFunc'\n[string \"@Interface/AddOns/Narcissus/Modules/ScreenshotTool/Toolbar.lua\"]:51: in function `RunShowButtonCallback'\n[string \"@Interface/AddOns/Narcissus/Modules/ScreenshotTool/Toolbar.lua\"]:1069: in function `ShowUI'\n[string \"@Interface/AddOns/Narcissus/Main.lua\"]:3743: in function <Interface/AddOns/Narcissus/Main.lua:3711>\n[string \"=[C]\"]: in function `SetUIVisibility'\n[string \"TOGGLEUI\"]:4: in function <[string \"TOGGLEUI\"]:1>",
+			["session"] = 3035,
+			["counter"] = 1,
+		}, -- [15]
 	},
 }

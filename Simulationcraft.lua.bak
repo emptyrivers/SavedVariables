@@ -9,8 +9,8 @@ SimulationCraftDB = {
 		["Garumn - Arthas"] = "Garumn - Arthas",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
@@ -33,15 +33,15 @@ SimulationCraftDB = {
 		},
 		["Riparium - Argent Dawn"] = {
 		},
+		["Emptyrivers - Arthas"] = {
+		},
 		["Emptyrivers - Argent Dawn"] = {
 			["frame"] = {
 				["ofsx"] = 90.666748046875,
-				["ofsy"] = 105.5236053466797,
 				["point"] = "BOTTOM",
 				["relativePoint"] = "BOTTOM",
+				["ofsy"] = 105.5236053466797,
 			},
-		},
-		["Emptyrivers - Arthas"] = {
 		},
 		["Flumina - Argent Dawn"] = {
 		},
