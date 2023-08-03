@@ -17,7 +17,7 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Argent Dawn.House Stalwart"] = {
-				["faction"] = "Horde",
+				["faction"] = "Alliance",
 			},
 		},
 		["Characters"] = {

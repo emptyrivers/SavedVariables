@@ -295,26 +295,25 @@ RematchSaved = {
 	},
 	[98270] = {
 		{
-			"BattlePet-0-00000E0BBF0F", -- [1]
-			0, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1721, -- [5]
+			"BattlePet-0-00000E0BBCB6", -- [1]
+			777, -- [2]
+			634, -- [3]
+			293, -- [4]
+			227, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD09", -- [1]
+			777, -- [2]
+			646, -- [3]
+			209, -- [4]
+			338, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDBB", -- [1]
-			459, -- [2]
-			640, -- [3]
-			0, -- [4]
-			1387, -- [5]
+			0, -- [1]
 		}, -- [3]
 		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6707\n\nStrategy added by ghostpets\nFight time:  1:15 - 1:20 on 11 rounds\n\n1:11 - 1:15 using the TDScript as measured by the Pet Battle Log Keeper add-on.\n\nA PS or PB breed Nexus Whelpling should work as a substitute for Stormborne Whelpling.  But do not use a PP breed Nexus Whelpling for this strategy (its speed is too slow).\n\nTurn 1: Arcane Storm\nTurn 2: Mana Surge\nTurn 3: Mana Surge continues\nTurn 4: Mana Surge continues\nWumpas comes in\nTurn 1: Pass (Your Stormborne Whelpling dies to Headbutt before you can attack)\nBring in your Level Pet\nTurn 2: Swap to your Iron Starlette\nTurn 3: Wind-Up\nTurn 4: Wind-Up\nTurn 5: Toxic Smoke\nBaeloth comes in\nTurn 1: Wind-Up\nTurn 2: Wind-Up\n",
+		["notes"] = "Strategy added by Thordros#1784\nThis is my attempt at eliminating most of the randomness surrounding Wumpas stunning you with Headbutt, while still keeping a low kill time (<80 seconds). Although there are other bots with the same moveset, the P/P and P/S bots are the only ones that can reliably kill both Thrugtusk and Wumpas in 7 rounds.There is an extremely rare edge case where Thrugtusk can get insanely lucky crits and kill your Warbot (including the Mechanical phase!) before dying. The TD Script will attempt to salvage the fight with your Darkmoon Tonk, and does so successfully 75% of the time—the other 25%, Wumpas will stun you with Headbutt and you're very unlikely to win.\n\nTurn 1: Minefield\nTurn 2-3: Launch Rocket\nTurn 4+: Missile\nWumpas comes in\nTurn 1+: Launch Rocket\nIf your Warbot dies here, bring in your Darkmoon Tonk early and use Shock and Awe.\nBaeloth comes in\nTurn 1: Swap to your Level Pet\nTurn 2: Swap to your Darkmoon Tonk\nTurn 3: Shock and Awe\nIf your Warbot died to Wumpas, use Missile here until Baeloth has <1099 health remaining.\nTurn 4: Ion Cannon\n",
 		["teamName"] = "My Beast's Bidding",
-		["minXP"] = 1,
 	},
 	["Growing Ectoplasm 2"] = {
 		{
@@ -358,6 +357,25 @@ RematchSaved = {
 		["tab"] = 2,
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/4600\n\nStrategy added by DragonsAfterDark\nS/S Foulfeather (2,2,1) is a good alternative to Ikky. I changed the Script so there won't be a conflict between Savage Talon and Peck :)\n\nPriority 1: Black Claw\nPriority 2: Flock\nPriority 3: Savage Talon to finish off an enemy if needed\nBring in your Nexus Whelpling\nTurn 1+: Mana Surge & Tail Sweep to finish fight\n",
 		["teamName"] = "Son of Skum",
+		["minXP"] = 25,
+	},
+	[85630] = {
+		{
+			"BattlePet-0-00000E0BBDCA", -- [1]
+			1372, -- [2]
+			0, -- [3]
+			1380, -- [4]
+			1541, -- [5]
+		}, -- [1]
+		{
+			"random:0", -- [1]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/66\n\nStrategy added by Gráinne\nTurn 1: Deep Bite \nTurn 2: Deep Bite \nTurn 3: Shell Armor \nTurns 4+: Deep Bite until Rockbiter is dead \nStonechewer comes in \nTurn 1: Deep Bite \nTurn 2: Shell Armor \nTurns 3+: Deep Bite until Stonechewer is dead as well \nAcidtooth comes in \nTurns 1+: Deep Bite and keep Shell Armor on cooldown.\n",
+		["teamName"] = "Rockbiter, Acidtooth and Stonechewer",
 		["minXP"] = 25,
 	},
 	[142096] = {
@@ -563,13 +581,13 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2164\n\nStrategy added by GenDG\nOf all the strategies, it was the only one that worked for me the first time.\n\nThanks for reading me!\n\nTurn 1: Wind-Up\nTurn 2: Supercharge\nTurn 3: Wind-Up\nChum dies.\nBruce comes in.\nTurn 1: Swap to your Ikky\nTurn 2: Black Claw\nTurn 3: Flock\nTurn 4: Pass (stun).\nTurn 5: Flock\nBruce dies.\nMaws Jr. comes in.\nTurn 1: Flock\nTurn 2: Swap to your Lil' Bling\nTurn 3: Make it Rain\nTurn 4+: Inflation\n",
 		["teamName"] = "Not So Bad Down Here",
 	},
-	[85630] = {
+	[116790] = {
 		{
-			"BattlePet-0-00000E0BBDCA", -- [1]
-			1372, -- [2]
-			0, -- [3]
-			1380, -- [4]
-			1541, -- [5]
+			"BattlePet-0-00000E0BBF21", -- [1]
+			1773, -- [2]
+			1758, -- [3]
+			518, -- [4]
+			1975, -- [5]
 		}, -- [1]
 		{
 			"random:0", -- [1]
@@ -577,9 +595,9 @@ RematchSaved = {
 		{
 			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/66\n\nStrategy added by Gráinne\nTurn 1: Deep Bite \nTurn 2: Deep Bite \nTurn 3: Shell Armor \nTurns 4+: Deep Bite until Rockbiter is dead \nStonechewer comes in \nTurn 1: Deep Bite \nTurn 2: Shell Armor \nTurns 3+: Deep Bite until Stonechewer is dead as well \nAcidtooth comes in \nTurns 1+: Deep Bite and keep Shell Armor on cooldown.\n",
-		["teamName"] = "Rockbiter, Acidtooth and Stonechewer",
+		["tab"] = 2,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5693\n\nStrategy added by DragonsAfterDark\nPriority 1: Ironskin on CD\nPriority 2: Predatory Strike on Shattered Defenses\nPriority 3: Falcosaur Swarm! as filler\n",
+		["teamName"] = "Vilefang",
 		["minXP"] = 25,
 	},
 	["Sprouts, Prince Charming, and Runts"] = {
@@ -622,25 +640,6 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11694\n\nStrategy added by Engelrift\nMagical Crawdad will solo this fight. \nBackrow pets will probably die, so don't put in anything you care about.\n\nPriority 1: Shell Shield - Reapply when 1 round remaining on buff. \nPriority 2: Wish - Use when you hit <1400 hp.\nPriority 3: Surge\n",
 		["teamName"] = "Ashes Will Fall",
 	},
-	[116790] = {
-		{
-			"BattlePet-0-00000E0BBF21", -- [1]
-			1773, -- [2]
-			1758, -- [3]
-			518, -- [4]
-			1975, -- [5]
-		}, -- [1]
-		{
-			"random:0", -- [1]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5693\n\nStrategy added by DragonsAfterDark\nPriority 1: Ironskin on CD\nPriority 2: Predatory Strike on Shattered Defenses\nPriority 3: Falcosaur Swarm! as filler\n",
-		["teamName"] = "Vilefang",
-		["minXP"] = 25,
-	},
 	[162465] = {
 		{
 			"BattlePet-0-00000E0BBF3E", -- [1]
@@ -663,32 +662,6 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7987\n\nStrategy added by Vulpixie\nWorked well for me when I had to have the Shadowbarb Hatchling in the team.\nIkky with Black Claw and Flock is also an acceptable alternative to the Zandalari.\n\nThank you to DragonsAfterDark for fixing my script.\n\nTurn 1: Blistering Cold\nTurn 2: Chop\nTurn 3: BONESTORM\nTurn 4: Chop until Boneshard dies\nBring in your Zandalari Anklerender\nTurn 1: Black Claw\nTurn 2: Hunting Party\nTurn 8: Zandalari dies, Blistering Cold should finish off the battle with your level pet getting some XP\n",
 		["teamName"] = "Dune Buggy",
 		["minXP"] = 1,
-	},
-	[141046] = {
-		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			504, -- [2]
-			574, -- [3]
-			802, -- [4]
-			1416, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			184, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			779, -- [3]
-			334, -- [4]
-			844, -- [5]
-		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/14049\n\nStrategy added by Kettchup86\nEsta estrategia me ha funcionado de maravilla, espero que les guste. Mucha suerte\n\nTurn 1: Nature's Ward\nTurn 2: Alpha Strike (2 - 4 until Lesser Charged Gale has 350 hp or less)\nTurns 3-4: Ravage\nLesser Twisted Current comes in\nTurn 1+: Alpha Strike until Lesser Twisted Current dies\nMind Warper comes in\nTurn 1: Nature's Ward\nTurn 2+: Alpha Strike until Teroclaw Hatchling dies\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Decoy\nTurn ~: If your Ikky dies before coming in, manually use Thunderbolt here\nTurn 2+: Breath until Mind Warper dies\nVictoria\n",
-		["teamName"] = "Captured Evil",
 	},
 	[162466] = {
 		{
@@ -716,26 +689,6 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7133\n\nStrategy added by DragonsAfterDark\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Lil' Bling\nTurn 1-3: Inflation\nTurn 4: Make it Rain\nTurn 5+: Inflation\n\nIf needed: \nBring in your Mechanical Pandaren Dragonling\nTurn 1+: Breath\n",
 		["teamName"] = "Watch Where You Step",
 	},
-	[141588] = {
-		{
-			0, -- [1]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDBB", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1706\n\nStrategy added by Lazey\nBloodtusk:4A8K:ZL:11141BB:ZR0:P:112:1:9::::\n\nElemental level pets maybe need more HP.\nSingle target fight, so don't expect much XP for your Level Pet.\n\nTurn 1: Pass\nTurn 2: Swap to your Iron Starlette\nTurn 3: Wind-Up\n(Turn 4): (1x Powerball if you are not using P/P Iron Starlette)\nTurn 4 (5): Supercharge\nTurn 5 (6): Wind-Up\n",
-		["teamName"] = "Crawg in the Bog",
-		["minXP"] = 1,
-		["minHP"] = 113,
-	},
 	[117951] = {
 		{
 			"BattlePet-0-00000E0BBCC3", -- [1]
@@ -757,6 +710,74 @@ RematchSaved = {
 		["tab"] = 5,
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/997\n\nStrategy added by Aranesh\nTurn 1: Decoy\nTurns 2+: Breath until Fido dies\nSeer's Eye comes in\nTurn 1: Thunderbolt\nTurn 2+: Use Decoy and Thunderbolt whenever available, otherwise Breath until your Mechanical Pandaren Dragonling dies\nThis will take care of Seer's Eye as well\nBring in your Darkmoon Zeppelin\nTurn 1: Missile until Flickering Fel drops below 618 health\nThen:: Explode, your Level Pet will get the full experience\n",
 		["teamName"] = "Illidari Masters: Nameless Mystic",
+	},
+	[141046] = {
+		{
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			504, -- [2]
+			574, -- [3]
+			802, -- [4]
+			1416, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			184, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			779, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [3]
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/14049\n\nStrategy added by Kettchup86\nEsta estrategia me ha funcionado de maravilla, espero que les guste. Mucha suerte\n\nTurn 1: Nature's Ward\nTurn 2: Alpha Strike (2 - 4 until Lesser Charged Gale has 350 hp or less)\nTurns 3-4: Ravage\nLesser Twisted Current comes in\nTurn 1+: Alpha Strike until Lesser Twisted Current dies\nMind Warper comes in\nTurn 1: Nature's Ward\nTurn 2+: Alpha Strike until Teroclaw Hatchling dies\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Decoy\nTurn ~: If your Ikky dies before coming in, manually use Thunderbolt here\nTurn 2+: Breath until Mind Warper dies\nVictoria\n",
+		["teamName"] = "Captured Evil",
+	},
+	[141588] = {
+		{
+			0, -- [1]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBDBB", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1706\n\nStrategy added by Lazey\nBloodtusk:4A8K:ZL:11141BB:ZR0:P:112:1:9::::\n\nElemental level pets maybe need more HP.\nSingle target fight, so don't expect much XP for your Level Pet.\n\nTurn 1: Pass\nTurn 2: Swap to your Iron Starlette\nTurn 3: Wind-Up\n(Turn 4): (1x Powerball if you are not using P/P Iron Starlette)\nTurn 4 (5): Supercharge\nTurn 5 (6): Wind-Up\n",
+		["teamName"] = "Crawg in the Bog",
+		["minXP"] = 1,
+		["minHP"] = 113,
+	},
+	[72290] = {
+		{
+			"BattlePet-0-00000E0BBD9A", -- [1]
+			384, -- [2]
+			204, -- [3]
+			208, -- [4]
+			116, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBE2D", -- [1]
+			455, -- [2]
+			389, -- [3]
+			305, -- [4]
+			1164, -- [5]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 2,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/567\n\nTurn 1: Supercharge \nTurn 2: Call Lightning\nTurn 3: Switch to your Cogblade Raptor \nTurn 4: Exposed Wounds\nTurns 5+: Batter until Zao is dead\n",
+		["teamName"] = "Zao, Calfling of Niuzao",
 	},
 	[154912] = {
 		{
@@ -781,27 +802,28 @@ RematchSaved = {
 		["teamName"] = "Silence",
 		["minXP"] = 25,
 	},
-	[72290] = {
+	[154910] = {
 		{
-			"BattlePet-0-00000E0BBD9A", -- [1]
-			384, -- [2]
-			204, -- [3]
-			208, -- [4]
-			116, -- [5]
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			422, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBE2D", -- [1]
-			455, -- [2]
-			389, -- [3]
-			305, -- [4]
-			1164, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			0, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			"random:6", -- [1]
 		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/567\n\nTurn 1: Supercharge \nTurn 2: Call Lightning\nTurn 3: Switch to your Cogblade Raptor \nTurn 4: Exposed Wounds\nTurns 5+: Batter until Zao is dead\n",
-		["teamName"] = "Zao, Calfling of Niuzao",
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5969\n\nStrategy added by nurkka\nThird pet not brought in. I used a Magic pet to assure it would stay alive from the wave attacks.\n\nTurn 1: Shadow Shock\nTurn 2: Curse of Doom\nTurn 3: Haunt\nBring in your Ikky\nTurns 1-3: Flock\n",
+		["teamName"] = "Prince Wiggletail",
+		["minXP"] = 25,
 	},
 	[68564] = {
 		{
@@ -825,29 +847,6 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/952\n\nTurn 1: Wind-Up\nSwap to Stitched Pup.\nTurn 1+: Diseased Bite until your Stitched Pup enters its undead round.\nThen: Howl and Stitched Pup dies.\nSwap back to Iron Starlette.\nTurn 1: Supercharge\nTurn 2: Wind-Up and you over kill Dos-Ryga.\n",
 		["teamName"] = "Dos-Ryga",
 		["minXP"] = 1,
-	},
-	[116791] = {
-		{
-			"BattlePet-0-00000E0BBCAD", -- [1]
-			1002, -- [2]
-			392, -- [3]
-			985, -- [4]
-			1320, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			504, -- [2]
-			574, -- [3]
-			802, -- [4]
-			1416, -- [5]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Strategy added by NostrA#2338\nprops to Aranesh for his/her strategy, i just changed the TD Script and Strategy to make Teroclaw viable again\n\nTurn 1: use Extra Plating\nTurn 2: use Make it Rain\nTurn 3+: use Inflation until Dreadcoil is dead\nan enemy comes in\nTurn 1+: use Inflation until Lil' Bling dies\nBring in your Teroclaw Hatchling\nenemy HP < 618: use Ravage\nif the target enemy is a Flying enemy, you want to use Ravage when the enemy HP is under 406\nwhen not active: use Nature's Ward\nelse: use Alpha Strike\n",
-		["teamName"] = "Dreadcoil",
-		["minXP"] = 25,
 	},
 	[128011] = {
 		{
@@ -875,23 +874,50 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1249\n\nStrategy added by Aranesh\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky\nTurn 3: Black Claw\nTurn 4: Flock\nIf Deathscreech kills your Ikky before they can Flock:\nBring in your Chitterspine Skitterling\nTurns 1-3: Swarm\n",
 		["teamName"] = "Deathscreech",
 	},
-	[105842] = {
+	[116791] = {
 		{
-			"BattlePet-0-00000E0BBCA9", -- [1]
-			0, -- [2]
-			713, -- [3]
-			0, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000E0BBCAD", -- [1]
+			1002, -- [2]
+			392, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [1]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			504, -- [2]
+			574, -- [3]
+			802, -- [4]
+			1416, -- [5]
 		}, -- [2]
 		{
 			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/762\n\nTurns 1+: Blitz! Just use that spell over and over.\nThat's it, there is nothing more to this strategy :-)\n",
-		["teamName"] = "All Howl, No Bite",
+		["tab"] = 2,
+		["notes"] = "Strategy added by NostrA#2338\nprops to Aranesh for his/her strategy, i just changed the TD Script and Strategy to make Teroclaw viable again\n\nTurn 1: use Extra Plating\nTurn 2: use Make it Rain\nTurn 3+: use Inflation until Dreadcoil is dead\nan enemy comes in\nTurn 1+: use Inflation until Lil' Bling dies\nBring in your Teroclaw Hatchling\nenemy HP < 618: use Ravage\nif the target enemy is a Flying enemy, you want to use Ravage when the enemy HP is under 406\nwhen not active: use Nature's Ward\nelse: use Alpha Strike\n",
+		["teamName"] = "Dreadcoil",
+		["minXP"] = 25,
+	},
+	[71927] = {
+		{
+			"BattlePet-0-00000E0BBDDA", -- [1]
+			504, -- [2]
+			916, -- [3]
+			334, -- [4]
+			1403, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			429, -- [2]
+			312, -- [3]
+			802, -- [4]
+			1416, -- [5]
+		}, -- [3]
+		["tab"] = 2,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9773\n\nStrategy added by Rebekha#21420\nTurn 1: Decoy\nTurn 2 & 3: Haywire\nTurn 4+: Alpha Strike until Tonsa dies\nChirps comes in\nBring in your Level Pet\nBring in your Teroclaw Hatchling\nTurn 1: Dodge\nTurn 2+: Claw until Chirps hp < 927\nTurn 3: Ravage until Chirps dies\nBrewly comes in\nTurn 1: Dodge when Brewly has the barrel throwing buff\nTurns 2-3: Ravage if Brewly hp < 619\nTurn 4: Claw until Brewly dies\nIf you have the world's worst RNG, bring back your Mech Axe to finish the job\n",
+		["teamName"] = "Chen Stormstout",
 		["minXP"] = 1,
 	},
 	[105093] = {
@@ -920,28 +946,29 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/14453\n\nStrategy added by kamraten\nI've worked with this setup for almost two hours to reassure that it works 100% of the times. So please be kind with your judgement, I know it's fairly long but it works. \n\nTurn 1: Use Shell Shield (Restart if Cackling Flame crits his Scorched Earth)\nTurn 2: Renewing Mists\nTurn 3: Surge\nTurn 4: Surge\nTurn 5: Surge\nTurn 6: Surge and Cackling Flame is dead\nTurn 7: Surge (Your pet will die and Devouring Blaze will heal, but it's according to plan)\nTurn 8: Choose Pandaran Water Spirit and use Whirlpool\nTurn 9: Dive\nTurn 10: Water Jet (and Devouring Blaze will die)\nTurn 11: Whirlpool\nTurn 12: Water Jet\nTurn 13: Water Jet\nTurn 14: Water Jet\nTurn 15: Whirlpool\nTurn 16: Dive\nTurn 17: Water Jet\nTurn 18: Whirlpool (and your Pandaren Water Spirit will die)\nTurn 19: Choose Electrified Razortooth & use Rip\nTurn 20: Blood in the Water \n",
 		["teamName"] = "Only Pets Can Prevent Forest Fires",
 	},
-	[154910] = {
-		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			422, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
-		}, -- [1]
+	[154914] = {
 		{
 			"BattlePet-0-00000E0BBDCE", -- [1]
 			0, -- [2]
-			0, -- [3]
+			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			0, -- [2]
+			282, -- [3]
+			0, -- [4]
+			339, -- [5]
 		}, -- [2]
 		{
-			"random:6", -- [1]
+			0, -- [1]
 		}, -- [3]
 		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5969\n\nStrategy added by nurkka\nThird pet not brought in. I used a Magic pet to assure it would stay alive from the wave attacks.\n\nTurn 1: Shadow Shock\nTurn 2: Curse of Doom\nTurn 3: Haunt\nBring in your Ikky\nTurns 1-3: Flock\n",
-		["teamName"] = "Prince Wiggletail",
-		["minXP"] = 25,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9977\n\nStrategy added by shpungout\n255 aquatic damage for Level pet.\n\nTurn 1: Black Claw\nTurns 2-4: Flock\nTurn 5: Pass\nBring in your Darkmoon Zeppelin\nTurn 1: Explode\n",
+		["teamName"] = "Pearlhusk Crawler",
+		["minXP"] = 3,
+		["minHP"] = 256,
 	},
 	[154913] = {
 		{
@@ -966,54 +993,27 @@ RematchSaved = {
 		["teamName"] = "Shadowspike Lurker",
 		["minXP"] = 1,
 	},
-	[173274] = {
+	[128012] = {
 		{
 			"BattlePet-0-00000E0BBD0C", -- [1]
-			0, -- [2]
+			210, -- [2]
 			218, -- [3]
 			652, -- [4]
 			1238, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
+			1370, -- [2]
 			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			0, -- [2]
-			0, -- [3]
-			593, -- [4]
-			1152, -- [5]
-		}, -- [3]
-		["tab"] = 7,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11071\n\nStrategy added by Vallador#1409\nThanks to Deathrall for the script.\n\nUPDATE:  Put Chrominius in 3rd slot if you have it.  Otherwise, use something good for the last bit.\n\nStandard Val'kyr/Ikky setup.  Probably works with similar movesets, e.g. Kneebiter/Anklerender.  Comment if this strat fails for you and I'll look into it at some point.  Hope this helps!\n\nPer the comments, Chitterspine Skitterling is dope for this one too.  Also, \"Any\" 25 might  not do the trick.  Use one that isn't bad.  :))))\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky.\nTurn 3: Black Claw\nTurns 4-6: Flock\nGorgemouth should be on it's undead turn.  Pass.\nOtherwise, finish with third pet and tank final attacks.\n",
-		["teamName"] = "Failed Experiment",
-	},
-	[162469] = {
-		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD8E", -- [1]
-			501, -- [2]
-			172, -- [3]
-			179, -- [4]
-			519, -- [5]
 		}, -- [2]
 		{
 			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7623\n\nStrategy added by Lazey\n*** 9.0.2 approved ***\n\nWith the  (ID: 542) nerf I had to add a fifth round.\n\nTurn 1: Black Claw\nTurn 2: Flock (Fel Flame is forced into battle)\nTurn 3: Scorched Earth\nTurn 4 : Conflagrate\nTurn 5: Flame Breath\n(If needed, bring back Ikky and finish with a standard attack)\n",
-		["teamName"] = "Brain Tickling",
-		["minXP"] = 1,
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1250\n\nStrategy added by Aranesh\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky\nTurn 3: Black Claw\nTurn 4: Flock\n",
+		["teamName"] = "Gnasher",
 	},
 	[175783] = {
 		{
@@ -1037,6 +1037,32 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11352\n\nStrategy added by angbad#1501\nQuick and Easy\n\nTurn 1: Blistering Cold\nTurn 2: Swap to your Ikky\nTurn 3: Black Claw\nTurn 4: Flock\nBring in your Boneshard\nTurn 5: Pass\n",
 		["teamName"] = "Digallo",
 		["minXP"] = 25,
+	},
+	[116793] = {
+		{
+			"BattlePet-0-00000E0BBDCA", -- [1]
+			424, -- [2]
+			204, -- [3]
+			513, -- [4]
+			1541, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBCA9", -- [1]
+			384, -- [2]
+			713, -- [3]
+			710, -- [4]
+			277, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
+		}, -- [3]
+		["tab"] = 2,
+		["notes"] = "Strategy added by Shadowjk\nTurn 1: Whirlpool\nTurn 2: Call Lightning\nTurn 3: Swap to your Clockwork Gnome\nTurn 4: Build Turret\nTurn 5: Metal Fist\nTurn 6: Metal Fist - Hiss dies\nAn enemy pet comes in\nTurns 1+: Keep Build Turret on cooldown and use Metal Fist otherwise until your Clockwork Gnome dies\nBring back your Hydraling\nTurn 1: Call Lightning\nTurns 2+: Tail Slap until Hydraling dies\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurn 2-4: Emerald Dream\nTurn 5+: Emerald Bite\n",
+		["teamName"] = "Hiss",
 	},
 	[79179] = {
 		{
@@ -1129,69 +1155,77 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18613\n\nStrategy added by TobeDeleted#2852\nTurn 1: Wind-Up\nTurn 2: Supercharge\nTurn 3: Wind-Up\nTurn 4: Wind-Up\nTurn 5: Wind-Up\nTurn 6: Toxic Smoke until Wind-Up dies. You might get two goes with this if you're lucky. Swap in Mechanical Pandaren Dragonling\nTurn 7+: Breath until second pet dies.\nBlack Claw\nFlock\n",
 		["teamName"] = "Sharp as Flint",
 	},
-	[154914] = {
+	[173274] = {
+		{
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			0, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
+		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBDCE", -- [1]
 			0, -- [2]
 			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			0, -- [2]
+			0, -- [3]
+			593, -- [4]
+			1152, -- [5]
+		}, -- [3]
+		["tab"] = 7,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11071\n\nStrategy added by Vallador#1409\nThanks to Deathrall for the script.\n\nUPDATE:  Put Chrominius in 3rd slot if you have it.  Otherwise, use something good for the last bit.\n\nStandard Val'kyr/Ikky setup.  Probably works with similar movesets, e.g. Kneebiter/Anklerender.  Comment if this strat fails for you and I'll look into it at some point.  Hope this helps!\n\nPer the comments, Chitterspine Skitterling is dope for this one too.  Also, \"Any\" 25 might  not do the trick.  Use one that isn't bad.  :))))\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky.\nTurn 3: Black Claw\nTurns 4-6: Flock\nGorgemouth should be on it's undead turn.  Pass.\nOtherwise, finish with third pet and tank final attacks.\n",
+		["teamName"] = "Failed Experiment",
+	},
+	[105779] = {
+		{
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			0, -- [3]
+			282, -- [4]
+			844, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBD1B", -- [1]
 			0, -- [2]
 			282, -- [3]
-			0, -- [4]
+			779, -- [4]
 			339, -- [5]
 		}, -- [2]
 		{
 			0, -- [1]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9977\n\nStrategy added by shpungout\n255 aquatic damage for Level pet.\n\nTurn 1: Black Claw\nTurns 2-4: Flock\nTurn 5: Pass\nBring in your Darkmoon Zeppelin\nTurn 1: Explode\n",
-		["teamName"] = "Pearlhusk Crawler",
-		["minXP"] = 3,
-		["minHP"] = 256,
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1864\n\nStrategy added by Eekwibble\nTurn 1+: Breath until Eye of Inquisition and Eye of Interrogation are dead\nEye of Impetration comes in\nTurn 1: Breath/pass/whatever, you'll get interrupted anyway\nTurn 2: Breath\nTurn 3: Explode - Mechanical Pandaren Dragonling dies\nBring in your Darkmoon Zeppelin\nTurn 4+: Does Eye of Impetration have over 555hp?\nYes - Thunderbolt > Explode\nNo - Explode\nDarkmoon Zeppelin and Eye of Impetration both die, your carry pet gets the xp\n",
+		["teamName"] = "Threads of Fate",
+		["minXP"] = 1,
 	},
-	[85634] = {
+	[68565] = {
 		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			0, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			0, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			110, -- [2]
-			0, -- [3]
-			0, -- [4]
-			1152, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18\n\nTurns 1+: Breath until Manos dies\nHanos comes out\nTurn 1: Decoy\nTurns 2+: Breath until Hanos dies\nFatos comes out\nTurns 1+: Breath until your Dragonling dies.\nBring in Chrominius\nTurns 1+: Bite Fatos to death!\n",
-		["teamName"] = "Manos, Hanos and Fatos",
-	},
-	[85650] = {
-		{
-			"BattlePet-0-00000E0BBD0E", -- [1]
-			421, -- [2]
-			277, -- [3]
-			595, -- [4]
-			557, -- [5]
-		}, -- [1]
-		{
-			"random:0", -- [1]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/67\n\nGreat recommendation by Luigi - thanks for suggesting this strategy!\n\nTurn 1: Arcane Blast\nTurn 2: Arcane Blast\nTurn 3: Life Exchange\nTurn 4+: Arcane Blast\n",
-		["teamName"] = "Quintessence of Light",
+		["tab"] = 3,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/3094\n\nStrategy added by Starrbuck\nBased on the strategy created by CrazyFluffy\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Level Pet\nTurn 1: Swap to your Ikky\nTurn 2: Black Claw\nTurn 3: Flock\nTurn 4: Nitun should be dead by now.\n",
+		["teamName"] = "Nitun",
+		["minXP"] = 1,
 	},
 	[202440] = {
 		{
@@ -1239,29 +1273,28 @@ RematchSaved = {
 		["teamName"] = "Phyxia",
 		["minXP"] = 25,
 	},
-	[141814] = {
+	[162469] = {
 		{
-			"BattlePet-0-00000E0BBEC8", -- [1]
-			525, -- [2]
-			597, -- [3]
-			168, -- [4]
-			1722, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD8E", -- [1]
+			501, -- [2]
+			172, -- [3]
+			179, -- [4]
+			519, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			429, -- [2]
-			312, -- [3]
-			0, -- [4]
-			1416, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
 		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9642\n\nStrategy added by shpungout\nYour level pet will take (0..4) x (63..105) flying damage.\nAlso you can try Emerald Whelpling with Tranquility instead of Healing Flame.\n\nTurn 1: Emerald Presence\nTurns 2+: Emerald Bite until Feathers dies\nSplat comes in\nTurn 1: Swap to your Level Pet\nTurn 2: Swap to your Teroclaw Hatchling\nTurn 3: Dodge\nTurns 4+: Claw until Splat dies\nBrite comes in\nTurn 1: Swap to your Dream Whelpling\nTurn 2: if health is below 300, then Healing Flame, else Emerald Bite\nTurns 3+: Emerald Bite until Brite dies\n",
-		["teamName"] = "Accidental Dread",
-		["minXP"] = 5,
-		["minHP"] = 401,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7623\n\nStrategy added by Lazey\n*** 9.0.2 approved ***\n\nWith the  (ID: 542) nerf I had to add a fifth round.\n\nTurn 1: Black Claw\nTurn 2: Flock (Fel Flame is forced into battle)\nTurn 3: Scorched Earth\nTurn 4 : Conflagrate\nTurn 5: Flame Breath\n(If needed, bring back Ikky and finish with a standard attack)\n",
+		["teamName"] = "Brain Tickling",
+		["minXP"] = 1,
 	},
 	[94639] = {
 		{
@@ -1289,31 +1322,31 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/714\n\nStrategy added by Nyari\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2+: Flock - Cursed Spirit dies\nAn enemy Pet comes in\nTurns 1+: Flock until Ikky dies\nTurn 8: Bring back your Val'kyr\nTurns 1+: Shadow Shock until your Val'kyr dies as well\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurns 2-4: Emerald Dream\nTurns 5+: Emerald Bite, reapply Emerald Presence and heal up with Emerald Dream if necessary.\n",
 		["teamName"] = "Cursed Spirit",
 	},
-	[141529] = {
+	[139489] = {
 		{
-			"BattlePet-0-00000E0BBED0", -- [1]
+			"BattlePet-0-00000E0BBF21", -- [1]
 			1773, -- [2]
-			165, -- [3]
+			0, -- [3]
 			518, -- [4]
-			1974, -- [5]
+			1975, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			122, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
+			"BattlePet-0-00000E0BBEF2", -- [1]
+			1370, -- [2]
+			1773, -- [3]
+			518, -- [4]
+			1977, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBF0F", -- [1]
-			122, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1721, -- [5]
+			"BattlePet-0-00000E0BBF26", -- [1]
+			1773, -- [2]
+			0, -- [3]
+			518, -- [4]
+			1976, -- [5]
 		}, -- [3]
 		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7895\n\nStrategy added by Orpartlu\nTurn 1: Falcosaur Swarm!\nTurn 2: Falcosaur Swarm! Continues.\nTurn 3: Predatory Strike\nLilly Dies.\nTurn 4: Falcosaur Swarm!\nSnowfeather Hatchling gets swapped out for Nexus Whelpling by Molaze.\nTurn 5: Arcane Storm\nTurn 6: Mana Surge\nMolaze Dies.\nTurn 7: Mana Surge continues.\nTicker may die here. If not finish with anything.\n",
-		["teamName"] = "Marshdwellers",
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2148\n\nStrategy added by DragonsAfterDark\nGreat flocking Falcosaurs! It's hard to go wrong with any order of attacks on this one, just try to keep the debuff from Falcosaur Swarm! up, and you should have no issues. \n\nTurn 1 + 2: Falcosaur Swarm!\nTurn 3: Predatory Strike\nTurn 4: Falcosaur Swarm! until Shelly is dead. \nSheldon comes in\nTurn 1: Falcosaur Swarm! until Direbeak Hatchling dies. \nBring in your Bloodgazer Hatchling\nTurn 1: Predatory Strike\nTurn 2: Savage Talon until Sheldon is dead. \nShelby comes in\nTurn 1: Falcosaur Swarm! until Predatory Strike is up. \nTurn 2: Predatory Strike\n",
+		["teamName"] = "Crab People",
 	},
 	[154915] = {
 		{
@@ -1390,32 +1423,6 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18707\n\nStrategy added by nanomeisterr\nTurn 1: Corrosion\nTurn 2: Void Nova\nTurn 3: Poison Protocol\nTurn 4: Corrosion - Anomalus dies\nBring in your Nexus Whelpling\nTurn 1: Arcane Storm\nTurns 2-4: Mana Surge\nTurn 5: Arcane Storm\nTurn 6: Tail Sweep until Nexus Whelpling dies\nBring in your Pandaren Water Spirit\nTurn 1: Water Jet until the fight is won\n",
 		["teamName"] = "A New Vocation",
 	},
-	[173372] = {
-		{
-			"BattlePet-0-00000E0BBEE1", -- [1]
-			1079, -- [2]
-			1080, -- [3]
-			1076, -- [4]
-			1349, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDEC", -- [1]
-			384, -- [2]
-			0, -- [3]
-			209, -- [4]
-			1450, -- [5]
-		}, -- [2]
-		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			122, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
-		}, -- [3]
-		["tab"] = 7,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9362\n\nStrategy added by DragonsAfterDark\nVideo for Fight (https://www.youtube.com/watch?v=17aS0q2OGbk)\n\nAlternate 12 round strategy here (https://www.wow-petguide.com/Strategy/14982/Natural_Defenders) . Pretty sure it's as stable as you can get!\n\nTurn 1: Greench's Gift\nTurn 2: Booby-Trapped Presents\nTurn 3+: Club until Slugger dies\nRunehoof comes in\nTurn 1+: Club until Rotten Little Helper dies\nBring in your Draenei Micro Defender\nTurn 1: Ion Cannon\nDuster comes in\nTurn 1: Recover\nTurn 2: Recover\nTurn 3+: Metal Fist until Draenei Micro Defender dies\nBring in your Nexus Whelpling\nTurn 1: Arcane Storm\nTurn 2-4: Mana Surge\nTurn 5: Arcane Storm\n",
-		["teamName"] = "Natural Defenders",
-	},
 	[116787] = {
 		{
 			"BattlePet-0-00000E0BBDD5", -- [1]
@@ -1433,6 +1440,29 @@ RematchSaved = {
 		["tab"] = 2,
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8979\n\nStrategy added by Threewolves\nTurn 1: Prowl\nTurn 2: Moonfire (Keep on CD)\nTurns 3+: Spirit Claws til done.\n*: Clean up with remaining pets if needed.\n",
 		["teamName"] = "Deviate Flapper",
+	},
+	[141879] = {
+		{
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			110, -- [2]
+			362, -- [3]
+			593, -- [4]
+			1152, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBDB3", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2082\n\nStrategy added by Phacoid\nUpdate May 12 2020: removed leveling pet\n\nTurn 1: Howl\nTurn 2: Surge of Power - Buzzbeak dies\nTurn 3-4: Recovering - you can't do anything\nTurn 5: Swap to your Iron Starlette\nTurn 6: Wind-Up\nTurn 7: Supercharge\nTurn 8: Wind-Up - Tikka dies\nTurn 9: Powerball\nTurn 10: Wind-Up\nTurn 11: Wind-Up - attack goes through, Iron Starlette might die\nTurn 12+: Powerball until Iron Starlette dies\nBring in your Chrominius\nTurn 1+: Bite until Milo dies\n",
+		["teamName"] = "Keeyo's Champions of Vol'dun",
+		["minXP"] = 1,
 	},
 	[162470] = {
 		{
@@ -1457,53 +1487,53 @@ RematchSaved = {
 		["teamName"] = "Living Statues Are Tough",
 		["minXP"] = 1,
 	},
-	[116793] = {
+	[141529] = {
 		{
-			"BattlePet-0-00000E0BBDCA", -- [1]
-			424, -- [2]
-			204, -- [3]
-			513, -- [4]
-			1541, -- [5]
+			"BattlePet-0-00000E0BBED0", -- [1]
+			1773, -- [2]
+			165, -- [3]
+			518, -- [4]
+			1974, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCA9", -- [1]
-			384, -- [2]
-			713, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			"BattlePet-0-00000E0BBF0F", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1721, -- [5]
 		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Strategy added by Shadowjk\nTurn 1: Whirlpool\nTurn 2: Call Lightning\nTurn 3: Swap to your Clockwork Gnome\nTurn 4: Build Turret\nTurn 5: Metal Fist\nTurn 6: Metal Fist - Hiss dies\nAn enemy pet comes in\nTurns 1+: Keep Build Turret on cooldown and use Metal Fist otherwise until your Clockwork Gnome dies\nBring back your Hydraling\nTurn 1: Call Lightning\nTurns 2+: Tail Slap until Hydraling dies\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurn 2-4: Emerald Dream\nTurn 5+: Emerald Bite\n",
-		["teamName"] = "Hiss",
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7895\n\nStrategy added by Orpartlu\nTurn 1: Falcosaur Swarm!\nTurn 2: Falcosaur Swarm! Continues.\nTurn 3: Predatory Strike\nLilly Dies.\nTurn 4: Falcosaur Swarm!\nSnowfeather Hatchling gets swapped out for Nexus Whelpling by Molaze.\nTurn 5: Arcane Storm\nTurn 6: Mana Surge\nMolaze Dies.\nTurn 7: Mana Surge continues.\nTicker may die here. If not finish with anything.\n",
+		["teamName"] = "Marshdwellers",
 	},
-	[141879] = {
+	[66733] = {
+		{
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			777, -- [2]
+			282, -- [3]
+			334, -- [4]
+			339, -- [5]
+		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBCE7", -- [1]
-			110, -- [2]
+			0, -- [2]
 			362, -- [3]
 			593, -- [4]
 			1152, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDB3", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2082\n\nStrategy added by Phacoid\nUpdate May 12 2020: removed leveling pet\n\nTurn 1: Howl\nTurn 2: Surge of Power - Buzzbeak dies\nTurn 3-4: Recovering - you can't do anything\nTurn 5: Swap to your Iron Starlette\nTurn 6: Wind-Up\nTurn 7: Supercharge\nTurn 8: Wind-Up - Tikka dies\nTurn 9: Powerball\nTurn 10: Wind-Up\nTurn 11: Wind-Up - attack goes through, Iron Starlette might die\nTurn 12+: Powerball until Iron Starlette dies\nBring in your Chrominius\nTurn 1+: Bite until Milo dies\n",
-		["teamName"] = "Keeyo's Champions of Vol'dun",
+		["tab"] = 3,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/70\n\nStrategy by Rendigar published on Warcraft Pets (https://www.warcraftpets.com/community/forum/viewtopic.php?f=3&t=7556#p57980).\n\n\n\nTurn 1: Missile \nTurn 2: Decoy \nTurns 3+: Missile until Woodcarver is dead \nLightstalker comes in \nTurn 1: Swap to Chrominius\nTurn 2: Howl \nTurn 3: Surge of Power – Lightstalker dies\nNeedleback comes in and kills Chrominius \nBring back in your Darkmoon Zeppelin\nTurn 1 : Missile \nTurn 2: Missile \nTurn 3: Decoy \nTurns 4+: Missile until Needleback is below 619 health \nExplode \nYour level pet enjoys the XP!\n",
+		["teamName"] = "Mo'ruk",
 		["minXP"] = 1,
 	},
 	[154916] = {
@@ -1598,31 +1628,31 @@ RematchSaved = {
 		["teamName"] = "Fight Night: Sir Galveston",
 		["minXP"] = 1,
 	},
-	[139489] = {
+	[128013] = {
+		{
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			919, -- [3]
+			0, -- [4]
+			1532, -- [5]
+		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBF21", -- [1]
 			1773, -- [2]
-			0, -- [3]
+			1758, -- [3]
 			518, -- [4]
 			1975, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBEF2", -- [1]
-			1370, -- [2]
-			1773, -- [3]
-			518, -- [4]
-			1977, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBF26", -- [1]
-			1773, -- [2]
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			0, -- [2]
 			0, -- [3]
-			518, -- [4]
-			1976, -- [5]
+			802, -- [4]
+			1416, -- [5]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2148\n\nStrategy added by DragonsAfterDark\nGreat flocking Falcosaurs! It's hard to go wrong with any order of attacks on this one, just try to keep the debuff from Falcosaur Swarm! up, and you should have no issues. \n\nTurn 1 + 2: Falcosaur Swarm!\nTurn 3: Predatory Strike\nTurn 4: Falcosaur Swarm! until Shelly is dead. \nSheldon comes in\nTurn 1: Falcosaur Swarm! until Direbeak Hatchling dies. \nBring in your Bloodgazer Hatchling\nTurn 1: Predatory Strike\nTurn 2: Savage Talon until Sheldon is dead. \nShelby comes in\nTurn 1: Falcosaur Swarm! until Predatory Strike is up. \nTurn 2: Predatory Strike\n",
-		["teamName"] = "Crab People",
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1789\n\nStrategy added by Wolf103#1637\nTurn 1: Black Claw\nDirebeak Hatchling gets forced in\nTurn 3: Ironskin\nTurn 4: Falcosaur Swarm!\nTurn 5: Falcosaur Swarm! continues\nTurn 6: Predatory Strike\nTeroclaw Hatchling gets forced in\nTurn 8: Ravage\n",
+		["teamName"] = "Bucky",
 	},
 	[71929] = {
 		{
@@ -1673,13 +1703,13 @@ RematchSaved = {
 		["teamName"] = "Felfly",
 		["minXP"] = 1,
 	},
-	[141969] = {
+	[105009] = {
 		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			210, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
+			"BattlePet-0-00000E0BBCA9", -- [1]
+			384, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBDCE", -- [1]
@@ -1689,15 +1719,11 @@ RematchSaved = {
 			1532, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBF21", -- [1]
-			1773, -- [2]
-			1758, -- [3]
-			518, -- [4]
-			1975, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1673\n\nStrategy added by Gershuun#1131\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurn 2: Flock\nTurn 3: Flock\nTurn 4: Flock\nTurn 5: Pass\nTurn 6: Savage Talon\nTurn 7: Black Claw (Ikky dies)\nBring in your Direbeak Hatchling\nTurn 1: Falcosaur Swarm!\n",
-		["teamName"] = "What Do You Mean, Mind Controlling Plants?",
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9026\n\nStrategy added by Shin\nI've tested this on 10 characters and it has worked every time.\nPet battle script included.\n\nTurn 1: Metal Fist\nTurn 2: Build Turret\nTurn 3: Swap to your Ikky\nTurn 4: Black Claw\nTurns 5-7: Flock\n~: Ikky should kill thistle or the turret will finish it off\nBring in your Clockwork Gnome\nTurn 1+: Any standard attack will finish the fight\n",
+		["teamName"] = "Stand Up to Bullies",
 	},
 	[154917] = {
 		{
@@ -1722,27 +1748,28 @@ RematchSaved = {
 		["teamName"] = "Mindshackle",
 		["minXP"] = 25,
 	},
-	[105009] = {
-		{
-			"BattlePet-0-00000E0BBCA9", -- [1]
-			384, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
-		}, -- [1]
+	[162461] = {
 		{
 			"BattlePet-0-00000E0BBDCE", -- [1]
-			1370, -- [2]
+			0, -- [2]
 			919, -- [3]
 			581, -- [4]
 			1532, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBCE6", -- [1]
+			115, -- [2]
+			172, -- [3]
+			0, -- [4]
+			489, -- [5]
 		}, -- [2]
 		{
 			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9026\n\nStrategy added by Shin\nI've tested this on 10 characters and it has worked every time.\nPet battle script included.\n\nTurn 1: Metal Fist\nTurn 2: Build Turret\nTurn 3: Swap to your Ikky\nTurn 4: Black Claw\nTurns 5-7: Flock\n~: Ikky should kill thistle or the turret will finish it off\nBring in your Clockwork Gnome\nTurn 1+: Any standard attack will finish the fight\n",
-		["teamName"] = "Stand Up to Bullies",
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7632\n\nStrategy added by Lazey\n*** 9.0.2 approved ***\n\nDragonkins with <305 Power will need  2x Breath.\n\nTurn 1: Black Claw\nTurns 2-3: Flock (Ikky dies)\nBring in your Spawn of Onyxia\nTurn 4: Scorched Earth\nTurn 5+: Breath\n",
+		["teamName"] = "I Am The One Who Whispers",
+		["minXP"] = 1,
 	},
 	[72009] = {
 		{
@@ -1770,29 +1797,6 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/14131\n\nStrategy added by SunFlight#2765\nTurn 1: Dazzling Dance\nTurn 2: Howl\nTurn 3: Pass\nBring in your Iron Starlette\nTurn 1: Toxic Smoke\nTurn 2: Explode\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
 		["teamName"] = "Xu-Fu, Cub of Xuen",
 	},
-	[162461] = {
-		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBCE6", -- [1]
-			115, -- [2]
-			172, -- [3]
-			0, -- [4]
-			489, -- [5]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7632\n\nStrategy added by Lazey\n*** 9.0.2 approved ***\n\nDragonkins with <305 Power will need  2x Breath.\n\nTurn 1: Black Claw\nTurns 2-3: Flock (Ikky dies)\nBring in your Spawn of Onyxia\nTurn 4: Scorched Earth\nTurn 5+: Breath\n",
-		["teamName"] = "I Am The One Who Whispers",
-		["minXP"] = 1,
-	},
 	[128024] = {
 		{
 			"BattlePet-0-00000E0BBD0C", -- [1]
@@ -1816,31 +1820,23 @@ RematchSaved = {
 		["teamName"] = "One-of-Many",
 		["minXP"] = 1,
 	},
-	[94641] = {
+	["Enbi'see, Mal, and Bones"] = {
 		{
-			"BattlePet-0-00000E0BBEF2", -- [1]
-			1370, -- [2]
-			1773, -- [3]
-			518, -- [4]
-			1977, -- [5]
+			0, -- [1]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			299, -- [2]
+			0, -- [3]
+			593, -- [4]
+			1152, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBEC8", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1722, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
 		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1820\n\nStrategy added by KáPé\nTurn 1-2: Falcosaur Swarm!\nTurn 3: Predatory Strike\nTurn 4: Savage Talon\nTainted Maulclaw dies\na random pet comes in\nTurn 1-2: Falcosaur Swarm!\nTurn 3: Savage Talon until your pet dies\nbring in Emerald Proto-Whelp\nTurn 1: Emerald Dream if your pet's HP < 60%\nTurn 2: keep Emerald Presence buff on\nTurn 3: Emerald Bite until enemy dies\n",
-		["teamName"] = "Tainted Maulclaw",
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/942\n\nTurn 1: Pass\nTurn 2: Swap to Chrominius\nTurn 3+: Spam Arcane Explosion until only bones is left on the enemy team.\nSurge of Power and you kill bones putting him in undead mode for one round.\nBones comes back and kills Chrominius\nBring in your extra pet to soak up bones last attack before he dies.\n1: Pass and Bones dies.\n",
+		["minXP"] = 15,
 	},
 	[162458] = {
 		{
@@ -1864,6 +1860,28 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8104\n\nStrategy added by Hollandshoop\nTurn 1: Pass or use any ability with your Level Pet\nTurn 2: Swap to your Boneshard\nTurn 3: Blistering Cold\nTurn 4: Boneshard stunned. Swap to your Ikky\nTurn 5: Black Claw\nTurn 6: Flock\nAnd the job is done!!!\n",
 		["teamName"] = "Retinus the Seeker",
 		["minXP"] = 1,
+	},
+	[68464] = {
+		{
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			299, -- [2]
+			611, -- [3]
+			593, -- [4]
+			1152, -- [5]
+		}, -- [1]
+		{
+			0, -- [1]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
+		}, -- [3]
+		["tab"] = 3,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/233\n\nTurns 1+: Use Ancient Blessing on cooldown, otherwise Arcane Explosion or Pass if you are stunned until Chrominius dies\nBring in your Level Pet\nTurn 1: Swap to your Nexus Whelpling\nTurn 2: Arcane Storm\nTurns 3+: Mana Surge\n",
+		["teamName"] = "Whispering Pandaren Spirit",
 	},
 	[66734] = {
 		{
@@ -1942,27 +1960,26 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5374\n\nStrategy added by Threewolves\nHave you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?\n\nTurn 1: Pass - Servant of Demidos is forced in.\nTurns 2+: Magic Sword til Clubber dies.\nSwap to your Zandalari Anklerender\nTurn 1: (Squirt Dives) Pass\nTurn 2: Black Claw\nTurn 3: Hunting Party\nSquirt dies. Squeezer enters.\nTurn 1: Black Claw\nTurns 2+: Leap til Zandalari Anklerender dies.\nBring in your Zandalari Kneebiter\nTurn 1: Hunting Party\nTurn 2: Leap til done.\n",
 		["teamName"] = "Snakes on a Terrace",
 	},
-	[68464] = {
+	["My Beast's Bidding"] = {
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			299, -- [2]
-			611, -- [3]
-			593, -- [4]
-			1152, -- [5]
+			"BattlePet-0-00000E0BBCB6", -- [1]
+			777, -- [2]
+			634, -- [3]
+			293, -- [4]
+			227, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD09", -- [1]
+			777, -- [2]
+			646, -- [3]
+			209, -- [4]
+			338, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			122, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 3,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/233\n\nTurns 1+: Use Ancient Blessing on cooldown, otherwise Arcane Explosion or Pass if you are stunned until Chrominius dies\nBring in your Level Pet\nTurn 1: Swap to your Nexus Whelpling\nTurn 2: Arcane Storm\nTurns 3+: Mana Surge\n",
-		["teamName"] = "Whispering Pandaren Spirit",
+		["tab"] = 5,
+		["notes"] = "Strategy added by Thordros#1784\nThis is my attempt at eliminating most of the randomness surrounding Wumpas stunning you with Headbutt, while still keeping a low kill time (<80 seconds). Although there are other bots with the same moveset, the P/P and P/S bots are the only ones that can reliably kill both Thrugtusk and Wumpas in 7 rounds.There is an extremely rare edge case where Thrugtusk can get insanely lucky crits and kill your Warbot (including the Mechanical phase!) before dying. The TD Script will attempt to salvage the fight with your Darkmoon Tonk, and does so successfully 75% of the time—the other 25%, Wumpas will stun you with Headbutt and you're very unlikely to win.\n\nTurn 1: Minefield\nTurn 2-3: Launch Rocket\nTurn 4+: Missile\nWumpas comes in\nTurn 1+: Launch Rocket\nIf your Warbot dies here, bring in your Darkmoon Tonk early and use Shock and Awe.\nBaeloth comes in\nTurn 1: Swap to your Level Pet\nTurn 2: Swap to your Darkmoon Tonk\nTurn 3: Shock and Awe\nIf your Warbot died to Wumpas, use Missile here until Baeloth has <1099 health remaining.\nTurn 4: Ion Cannon\n",
 	},
 	[196069] = {
 		{
@@ -1988,32 +2005,23 @@ RematchSaved = {
 		["minXP"] = 1,
 		["minHP"] = 286,
 	},
-	[116794] = {
+	[128014] = {
 		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			647, -- [3]
-			334, -- [4]
-			844, -- [5]
+			"random:0", -- [1]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			777, -- [2]
-			647, -- [3]
-			334, -- [4]
-			339, -- [5]
+			"random:0", -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			"BattlePet-0-00000E0BBF3E", -- [1]
+			943, -- [2]
+			786, -- [3]
+			1762, -- [4]
+			1963, -- [5]
 		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Strategy added by Aranesh\nTurn 1: Decoy\nTurns 2+: Breath until Growing Ectoplasm is dead\nIf your Mechanical Pandaren Dragonling dies too early, bring in your random level 25 pet and use standard spells to kill Growing Ectoplasm\nAn enemy pet comes in\nTurns 1+: Breath and Decoy with your Mechanical Pandaren Dragonling and your random pet until they are both dead\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurns 2+: Keep Emerald Presence active, use Emerald Dream when you drop below 1000 health and use Emerald Bite to finish the enemy pets.\n\nDon't forget to jump! ;-)\n",
-		["teamName"] = "Growing Ectoplasm 1",
-		["minXP"] = 25,
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8542\n\nStrategy added by Koru08#1614\nTurn 1: Pass\nBring in your Boneshard\nTurn 1: Blistering Cold\nTurn 2: Chop\nBring in your Ikky\nTurn 1: Black Claw\nTurn 2: Flock\n",
+		["teamName"] = "Snozz",
 	},
 	[71930] = {
 		{
@@ -2039,23 +2047,31 @@ RematchSaved = {
 		["minXP"] = 10,
 		["minHP"] = 541,
 	},
-	["Enbi'see, Mal, and Bones"] = {
+	[94641] = {
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBEF2", -- [1]
+			1370, -- [2]
+			1773, -- [3]
+			518, -- [4]
+			1977, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			299, -- [2]
-			0, -- [3]
-			593, -- [4]
-			1152, -- [5]
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBEC8", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1722, -- [5]
 		}, -- [3]
 		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/942\n\nTurn 1: Pass\nTurn 2: Swap to Chrominius\nTurn 3+: Spam Arcane Explosion until only bones is left on the enemy team.\nSurge of Power and you kill bones putting him in undead mode for one round.\nBones comes back and kills Chrominius\nBring in your extra pet to soak up bones last attack before he dies.\n1: Pass and Bones dies.\n",
-		["minXP"] = 15,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1820\n\nStrategy added by KáPé\nTurn 1-2: Falcosaur Swarm!\nTurn 3: Predatory Strike\nTurn 4: Savage Talon\nTainted Maulclaw dies\na random pet comes in\nTurn 1-2: Falcosaur Swarm!\nTurn 3: Savage Talon until your pet dies\nbring in Emerald Proto-Whelp\nTurn 1: Emerald Dream if your pet's HP < 60%\nTurn 2: keep Emerald Presence buff on\nTurn 3: Emerald Bite until enemy dies\n",
+		["teamName"] = "Tainted Maulclaw",
 	},
 	[128007] = {
 		{
@@ -2231,24 +2247,31 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/733\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nTurn 3: Swap to your Ikky or Zandalari pet\nTurn 4: Black Claw\nTurns 5+: Flock or Hunting Party depending on your pet\n",
 		["teamName"] = "Flummoxed",
 	},
-	[85685] = {
+	[128015] = {
 		{
-			"BattlePet-0-00000E0BBDBB", -- [1]
-			459, -- [2]
-			566, -- [3]
-			208, -- [4]
-			1387, -- [5]
+			"BattlePet-0-00000E0BBED0", -- [1]
+			1773, -- [2]
+			0, -- [3]
+			0, -- [4]
+			1974, -- [5]
 		}, -- [1]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			0, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBF0F", -- [1]
+			0, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1721, -- [5]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/312\n\nStrategy added by Remte\nIf possible, pick one additional pet that has any damaging spell that does more than 500 damage in one hit.\n\nTurn 1: Wind-Up\nTurn 2: Wind-Up\nTurn 3: Pass\nTurn 4: Wind-Up\nTurn 5: Supercharge\nTurn 6: Wind-Up\n",
-		["teamName"] = "Stitches Jr.",
-		["minXP"] = 25,
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8303\n\nStrategy added by Silmeron\nCredit to Minkbone for posting this in an alternative strategy! Script from Schahmaar\n\nTurn 1: Falcosaur Swarm!\nTurn 2: Arcane Storm\nTurn 3: Mana Surge - Normally Gloamwing dies but if not...\nTurn 4: Mana Surge\n",
+		["teamName"] = "Gloamwing",
 	},
 	[154920] = {
 		{
@@ -2342,31 +2365,24 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11246\n\nStrategy added by sioupe\nTurn 1: Call Lightning\nTurns 2-3: Haywire\nTurn 3: GG\n",
 		["teamName"] = "Lurking In The Shadows",
 	},
-	[128015] = {
+	[85685] = {
 		{
-			"BattlePet-0-00000E0BBED0", -- [1]
-			1773, -- [2]
-			0, -- [3]
-			0, -- [4]
-			1974, -- [5]
+			"BattlePet-0-00000E0BBDBB", -- [1]
+			459, -- [2]
+			566, -- [3]
+			208, -- [4]
+			1387, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			0, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
+			"random:0", -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBF0F", -- [1]
-			0, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1721, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8303\n\nStrategy added by Silmeron\nCredit to Minkbone for posting this in an alternative strategy! Script from Schahmaar\n\nTurn 1: Falcosaur Swarm!\nTurn 2: Arcane Storm\nTurn 3: Mana Surge - Normally Gloamwing dies but if not...\nTurn 4: Mana Surge\n",
-		["teamName"] = "Gloamwing",
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/312\n\nStrategy added by Remte\nIf possible, pick one additional pet that has any damaging spell that does more than 500 damage in one hit.\n\nTurn 1: Wind-Up\nTurn 2: Wind-Up\nTurn 3: Pass\nTurn 4: Wind-Up\nTurn 5: Supercharge\nTurn 6: Wind-Up\n",
+		["teamName"] = "Stitches Jr.",
+		["minXP"] = 25,
 	},
 	[71931] = {
 		{
@@ -2394,28 +2410,31 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/13280\n\nStrategy added by Rolfson#1694\nSecond pet can be pretty much anything that has consistently high undead damage, as you'll need to do around 1k damage to the last pet after the runt dies.\n\nI've found this strat to be fairly RNG-proof even if you get unlucky on thrash, and considerably more consistent than the moth strategies out there right now.\n\nTurn 1: Frost shock\nTurn 2: Deep freeze\nTurn 3: Frost shock (Zhu will swap to a new pet)\nTurn 4: Thrash\nTurns 5+: Maintain frost shock on the enemy pets at all times, but you can let it fall off and refresh the following turn. Use deep freeze every time it's up, and ALWAYS follow up with frost shock afterwards due to pet swaps. Thrash on filler\nIf you get stunned or blinded, swap to Elekk Plushie and use Itchin' to get back on the next turn.\nTurn 6: If / when kun-lai runt dies, swap to your second pet and finish off the battle. Should be fairly RNG proof and kun-lai runt can nearly solo the fight.\n",
 		["teamName"] = "Taran Zhu",
 	},
-	[105352] = {
+	[94642] = {
 		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			779, -- [3]
-			282, -- [4]
-			844, -- [5]
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			422, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			777, -- [2]
-			282, -- [3]
-			779, -- [4]
-			339, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			1370, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8522\n\nStrategy added by norng\nPriority 1: Explode when Essence of Mana has 469 or less health\nPriority 2: Thunderbolt\nPriority 3: Breath, Missile\n",
-		["teamName"] = "Mana Tap",
-		["minXP"] = 15,
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/632\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nTurn 3: Bring in your Ikky bird\nTurn 4: Black Claw\nTurns 5+: Flock - Direflame dies - Ikky mostly with it\nAn enemy pet comes in\nTurn 1: Bring back in your Unborn Val'kyr\nTurns 2+: Shadow Shock and Curse of Doom until your Val'kyr dies\nBring in your Emerald Proto-Whelp\nTurns 1-3: Emerald Dream\nTurn 4: Emerald Presence (keep active)\nTurns 5+: Emerald Bite until the last pet is dead\n",
+		["teamName"] = "Direflame",
 	},
 	[116786] = {
 		{
@@ -2562,28 +2581,28 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/590\n\nTurn 1: Curse of Doom\nTurn 2: Pass\nTurn 3: Pass\nTurn 4: Unholy Ascension\nBring in your Stitched Pup\nTurn 3: Howl - Skrillix dies\nTurn 4+: Diseased Bite until your Pup is done\nBring in your Tanaan Pet\nUse this pet to clean up :-)\nGreat choices are an Anubisath Idol or an Emerald Proto-Whelp.\n",
 		["teamName"] = "Skrillix",
 	},
-	[154922] = {
+	[105512] = {
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			"BattlePet-0-00000E0BBE91", -- [1]
+			228, -- [2]
+			232, -- [3]
+			934, -- [4]
+			1441, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			779, -- [3]
-			282, -- [4]
-			844, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD5E", -- [1]
+			449, -- [2]
+			369, -- [3]
+			0, -- [4]
+			493, -- [5]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9777\n\nStrategy added by Mnrogar\nTurn 1: Black Claw\nTurns 2-4: Flock\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Breath\nTurn 2: Thunderbolt\nTurn 3: Explode\n",
-		["teamName"] = "Gnomefeaster",
-		["minXP"] = 1,
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/789\n\nTurn 1: Bubble\nTurn 2: Swarm of Flies\nTurn 3: Tongue Lash until the Harbinger of Dark resurrects\nThen:: Swarm of Flies\nHerald of Light comes in\nTurn 1: Tongue Lash until Mud Jumper dies\nBring in your Level Pet\nTurn 1: Swap to your Snail\nTurn 2: Acidic Goo\nTurn 3: Absorb until Herald of Light dies\n",
+		["teamName"] = "All Pets Go to Heaven",
+		["minXP"] = 7,
 	},
 	[104970] = {
 		{
@@ -2631,13 +2650,13 @@ RematchSaved = {
 		["teamName"] = "Fight Night: Rats!",
 		["minXP"] = 1,
 	},
-	[85622] = {
+	[154922] = {
 		{
-			"BattlePet-0-00000E0BBDB3", -- [1]
-			459, -- [2]
-			640, -- [3]
-			208, -- [4]
-			1387, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [1]
 		{
 			"BattlePet-0-00000E0BBCC3", -- [1]
@@ -2649,9 +2668,9 @@ RematchSaved = {
 		{
 			0, -- [1]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7318\n\nStrategy added by Sarahlinii\nCredit for this strategy goes to Chrosta. Please see the information below to go check out Chrosta's in-depth WoWhead post regarding all things Garrison Pet Menagerie! https://www.wowhead.com/guide=3831/garrison-pet-battles-with-12-pets-xp-pet\n\nLeveling Pet: Safe for ANY Level 1+ Pet; it will take 0 damage\n\n**Please feel free to leave suggested TDScripts below as I’ve no idea how to properly create them myself. Thanks and enjoy!\n\nBring in your Iron Starlette\nTurn 1: Wind-Up to charge\nTurn 2: Supercharge\nTurn 3: Wind-Up to hit and defeat Brutus\nRukus comes in\nTurn 1: Wind-Up to charge\nTurn 2: Wind-Up to hit\nTurn 3: Toxic Smoke if you're able to before your Iron Starlette is defeated\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Thunderbolt\nTurn 2: Breath IF Rukus has more than 560 HP\nTurn 3: Explode when Rukus has 560 or less HP\nYour Leveling Pet will get the XP\n\n",
-		["teamName"] = "Brutus and Rukus",
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9777\n\nStrategy added by Mnrogar\nTurn 1: Black Claw\nTurns 2-4: Flock\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Breath\nTurn 2: Thunderbolt\nTurn 3: Explode\n",
+		["teamName"] = "Gnomefeaster",
 		["minXP"] = 1,
 	},
 	[196264] = {
@@ -3003,24 +3022,27 @@ RematchSaved = {
 		["teamName"] = "Goldenbot XD",
 		["minXP"] = 1,
 	},
-	[197447] = {
+	[87122] = {
 		{
-			"BattlePet-0-00000E0BBEBE", -- [1]
-			118, -- [2]
-			572, -- [3]
-			934, -- [4]
-			1934, -- [5]
+			"BattlePet-0-00000E0BBD21", -- [1]
+			901, -- [2]
+			916, -- [3]
+			208, -- [4]
+			1178, -- [5]
 		}, -- [1]
 		{
-			"random:0", -- [1]
+			0, -- [1]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBD09", -- [1]
+			777, -- [2]
+			646, -- [3]
+			209, -- [4]
+			338, -- [5]
 		}, -- [3]
-		["tab"] = 8,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/17277\n\nStrategy added by Pascuit#2921\nHello Pet battlers! It's my first strategy guide, I hope it will be OK.\nIf Benax suffers critical hits, it will be necessary to kill the target with the second mascot.\n\n\nTurn 1: Bubble\nTurn 2: Mudslide\nTurn 3: Water Jet\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Mudslide\nTurn 8: Water Jet until the target die\n",
-		["teamName"] = "Eye of the Stormling",
-		["minXP"] = 1,
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/454\n\nStrategy added by Mia\nTurn 1: Supercharge\nTurn 2: Haywire - Wolfus dies\nTurn 3: Fangra comes in and gets punched in the face.\nTurn 4: Swap to your Level Pet\nTurn 5: Swap back to your Sunreaver Micro-Sentry\nTurn 6: Supercharge\nTurn 7: Haywire - Fangra dies\nTurn 8: Wolfgar comes in and gets punched in the face as well.\nTurn 9: Fel Immolate until your Micro-Sentry is dead (sometimes he can finish the fight)\nBring in your Darkmoon Tonk (or any other level 25 pet with some good attacks\nTurns 1+: Ion Cannon (or whatever you see suitable to finish Wolfgar)\n",
+		["teamName"] = "Gargra",
 	},
 	[154926] = {
 		{
@@ -3175,41 +3197,52 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11181\n\nStrategy added by Mutanis\n7 rounds. % strategy without Seaborne Spore or Baa'l.\n\nTurn 1: Sunlight\nTurn 2: Swap to your Infested Bear Cub\nTurn 3: Corpse Explosion\nBring in your Crimson Spore\nTurn 4: Blinding Powder\nTurn 5: Pass\nTurn 6: Explode\nTurn 7: Pass\n",
 		["teamName"] = "Chittermaw",
 	},
-	[105386] = {
+	[154925] = {
 		{
 			0, -- [1]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCAD", -- [1]
-			1002, -- [2]
-			392, -- [3]
-			985, -- [4]
-			1320, -- [5]
+			"BattlePet-0-00000E0BBF3E", -- [1]
+			943, -- [2]
+			786, -- [3]
+			1762, -- [4]
+			1963, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
+		}, -- [3]
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10036\n\nStrategy added by Dpaul\nLevel pet variation on Kylana#1731's strategy\n\nTurn 1: Pass\nBring in your Boneshard\nTurn 3: Blistering Cold\nTurn 4: Chop\nBring in your Ikky\nTurn 6: Black Claw\nTurn 7: Flock\n",
+		["teamName"] = "Creakclank",
+		["minXP"] = 18,
+		["minHP"] = 1001,
+	},
+	[105323] = {
+		{
+			"BattlePet-0-00000E0BBCDD", -- [1]
+			514, -- [2]
+			515, -- [3]
+			204, -- [4]
+			445, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBE4E", -- [1]
+			1085, -- [2]
+			937, -- [3]
+			752, -- [4]
+			1601, -- [5]
+		}, -- [2]
+		{
+			0, -- [1]
 		}, -- [3]
 		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/873\n\nStrategy added by Aranesh\nTurn 1: Pass\nTurn 2: Swap to your Lil' Bling\nTurn 3: Make it Rain\nTurn 4: Extra Plating\nTurns 5-7: Inflation\nTurn 8: Make it Rain\n",
-		["teamName"] = "Rydyr",
-	},
-	["Nicodemus, Brisby, and Jenner"] = {
-		{
-			"BattlePet-0-00000E0BBDEE", -- [1]
-			406, -- [2]
-			453, -- [3]
-			0, -- [4]
-			1155, -- [5]
-		}, -- [1]
-		{
-			0, -- [1]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/957\n\nTurn 1: Sandstorm\nTurn 2: Swap to level pet.\nTurn 3: Swap back to Anubisath Idol\nTurn 4+: Crush until Nicodemus is dead.\nBrisby comes in.\nTurn 1: Sandstorm\nTurn 2: Crush until Brisby is dead.\nJenner comes in.\nSandstorm\nTurn 1: Crush until Jenner is dead.\n",
-		["minXP"] = 20,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8996\n\nStrategy added by Sleepywillo\nAll credit for this strat goes to Niggles.\nI noticed this pet combo wasnt here so thought I would add it.\nTiny Twister NEEDS to be H/S breed to work.\n\nTurn 1: Call Lightning\nTurn 2: Wild Winds\nTurn 3: Switch to Servant of Demidos\nTurn 4: Siphon Anima and Ancient Catacomb Spider should die here.\nTurn 5: Catacomb Bat comes in. Use Magic Sword\nTurn 6: Soulrush and Catacomb Bat dies.\nTurn 7: Switch to Level Pet (it will get blinded by Blinding Poison).\nTurn 8: Switch back to Tiny Twister\nTurn 9: Call Lightning. (IfTiny Twister dies here bring in Servant of Demidos and use Siphon Anima followed by Soulrush).\nTurn 10: Wild Winds. Tiny Twister dies. Bring in Servant of Demidos.\nTurn 11: Siphon Anima\n",
+		["teamName"] = "Clear the Catacombs",
+		["minXP"] = 1,
 	},
 	[105387] = {
 		{
@@ -3284,27 +3317,24 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/124\n\nTurn 1: Arcane Storm\nTurns 2-4: Mana Surge\n\nThat's it ^^\n",
 		["teamName"] = "The Beakinator",
 	},
-	[87122] = {
+	[197447] = {
 		{
-			"BattlePet-0-00000E0BBD21", -- [1]
-			901, -- [2]
-			916, -- [3]
-			208, -- [4]
-			1178, -- [5]
+			"BattlePet-0-00000E0BBEBE", -- [1]
+			118, -- [2]
+			572, -- [3]
+			934, -- [4]
+			1934, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"random:0", -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD09", -- [1]
-			777, -- [2]
-			646, -- [3]
-			209, -- [4]
-			338, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/454\n\nStrategy added by Mia\nTurn 1: Supercharge\nTurn 2: Haywire - Wolfus dies\nTurn 3: Fangra comes in and gets punched in the face.\nTurn 4: Swap to your Level Pet\nTurn 5: Swap back to your Sunreaver Micro-Sentry\nTurn 6: Supercharge\nTurn 7: Haywire - Fangra dies\nTurn 8: Wolfgar comes in and gets punched in the face as well.\nTurn 9: Fel Immolate until your Micro-Sentry is dead (sometimes he can finish the fight)\nBring in your Darkmoon Tonk (or any other level 25 pet with some good attacks\nTurns 1+: Ion Cannon (or whatever you see suitable to finish Wolfgar)\n",
-		["teamName"] = "Gargra",
+		["tab"] = 8,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/17277\n\nStrategy added by Pascuit#2921\nHello Pet battlers! It's my first strategy guide, I hope it will be OK.\nIf Benax suffers critical hits, it will be necessary to kill the target with the second mascot.\n\n\nTurn 1: Bubble\nTurn 2: Mudslide\nTurn 3: Water Jet\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Mudslide\nTurn 8: Water Jet until the target die\n",
+		["teamName"] = "Eye of the Stormling",
+		["minXP"] = 1,
 	},
 	[66738] = {
 		{
@@ -3354,31 +3384,28 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8621\n\nStrategy added by norng\n10 rounds.\n\nTurn 1: Curse of Doom\nTurn 2: Unholy Ascension\nBring in your Eternal Strider\nTurn 1: Cleansing Rain\nTurn 2: Pump\nTurn 3: Pump\nTurn 4: Water Jet - Queen Floret dies\nKing Floret comes in\nTurn 1+: Water Jet - Eternal Strider dies\nBring in your Mud Jumper\nTurn 1: Pump\nTurn 2: Pump\nTurn 3: Water Jet - King Floret dies\n",
 		["teamName"] = "King Floret and Queen Floret",
 	},
-	[201878] = {
+	[68555] = {
 		{
-			"BattlePet-0-00000E0BBE06", -- [1]
-			803, -- [2]
-			0, -- [3]
-			423, -- [4]
-			1581, -- [5]
+			"BattlePet-0-00000E0BBCF3", -- [1]
+			921, -- [2]
+			364, -- [3]
+			919, -- [4]
+			1211, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD04", -- [1]
-			0, -- [2]
-			312, -- [3]
-			163, -- [4]
-			641, -- [5]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			184, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD22", -- [1]
-			221, -- [2]
-			416, -- [3]
-			481, -- [4]
-			1166, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 8,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18732\n\nStrategy added by trogdor\nNot the fastest, but I didn't have some of the pets from other strats. This is a 100% wild pet strat, so easy on the AH budget!\n\nTurn 1: Rip\nTurn 2: Blood in the Water\nDrakeula comes in\nTurn 1: Rip\nBring in your Arctic Hare\nTurn 2: Dodge\nTurns 3-5: Stampede\nTurn 6: Pass while Drakeula has its \"undead\" round\nYu'shor comes in\nTurns 1-2: Stampede\nBring in your Kun-Lai Runt\nTurn 3: Frost Shock\nTurn 4: Deep Freeze\nTurn 5: Takedown\n",
-		["teamName"] = "Paws of Thunder",
+		["tab"] = 3,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6848\n\nStrategy added by DarkShade#2783\nSugested by Adalsteinn here https://www.wow-petguide.com/index.php?Strategy=255\n\nTD Script suggested by ultharwe on same page, I just modified to include IDs\n\nWorks in Shadowlands.\n\nTurn 1: Black Claw\nTurns 2-3: Hunting Party\nTurn 4: Black Claw\nBring in your Ikky\nTurns 1-3: Flock\n",
+		["teamName"] = "Ka'wi the Gorger",
+		["minXP"] = 1,
 	},
 	[173324] = {
 		{
@@ -3429,28 +3456,23 @@ RematchSaved = {
 		["teamName"] = "Right Twice a Day",
 		["minXP"] = 1,
 	},
-	[105323] = {
+	["Nicodemus, Brisby, and Jenner"] = {
 		{
-			"BattlePet-0-00000E0BBCDD", -- [1]
-			514, -- [2]
-			515, -- [3]
-			204, -- [4]
-			445, -- [5]
+			"BattlePet-0-00000E0BBDEE", -- [1]
+			406, -- [2]
+			453, -- [3]
+			0, -- [4]
+			1155, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBE4E", -- [1]
-			1085, -- [2]
-			937, -- [3]
-			752, -- [4]
-			1601, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
-			0, -- [1]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8996\n\nStrategy added by Sleepywillo\nAll credit for this strat goes to Niggles.\nI noticed this pet combo wasnt here so thought I would add it.\nTiny Twister NEEDS to be H/S breed to work.\n\nTurn 1: Call Lightning\nTurn 2: Wild Winds\nTurn 3: Switch to Servant of Demidos\nTurn 4: Siphon Anima and Ancient Catacomb Spider should die here.\nTurn 5: Catacomb Bat comes in. Use Magic Sword\nTurn 6: Soulrush and Catacomb Bat dies.\nTurn 7: Switch to Level Pet (it will get blinded by Blinding Poison).\nTurn 8: Switch back to Tiny Twister\nTurn 9: Call Lightning. (IfTiny Twister dies here bring in Servant of Demidos and use Siphon Anima followed by Soulrush).\nTurn 10: Wild Winds. Tiny Twister dies. Bring in Servant of Demidos.\nTurn 11: Siphon Anima\n",
-		["teamName"] = "Clear the Catacombs",
-		["minXP"] = 1,
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/957\n\nTurn 1: Sandstorm\nTurn 2: Swap to level pet.\nTurn 3: Swap back to Anubisath Idol\nTurn 4+: Crush until Nicodemus is dead.\nBrisby comes in.\nTurn 1: Sandstorm\nTurn 2: Crush until Brisby is dead.\nJenner comes in.\nSandstorm\nTurn 1: Crush until Jenner is dead.\n",
+		["minXP"] = 20,
 	},
 	[71934] = {
 		{
@@ -3909,31 +3931,28 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11879\n\nStrategy added by Maizou\nTook inspiration from DragonsAfterDark's strategy. Re-Uploaded so comments weren't filled with correspondence.\n\nRuneforged Servitor also works in the 2nd Slot. Just use Jolt instead of Metal Fist. I don't think it's possible to set it as a substitute without the same first slot ability, since it DOES matter which one they have in the first slot.\n\nTurn 1: Curse of Doom\nTurn 2: Haunting Song\nTurn 3+: Shadow Shock until Bloog Dies.\nBone Crusher comes in.\nTurn 4+: Shadow Shock until Sister of Temptation dies.\nBring in Tranquil Mechanical Yeti.\n\nTurn 4 ½: Did Bone Crusher heal?\nYes? Metal Fist\nNo? Continue to Turn 5.\n\nTurn 5: Supercharge\nTurn 6: Call Lightning\nBone Crusher dies. Chipper comes in.\nTurn 7+: Metal Fist until Tranquil Mechanical Yeti dies.\nBring in Nexus Whelpling.\nTurn 8: Arcane Storm (You may defeat him here)\nTurn 9: Mana Surge\n",
 		["teamName"] = "Mighty Minions of Maldraxxus",
 	},
-	[201849] = {
+	[154929] = {
 		{
 			"BattlePet-0-00000E0BBF3E", -- [1]
 			943, -- [2]
 			786, -- [3]
-			1762, -- [4]
+			0, -- [4]
 			1963, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCF3", -- [1]
-			921, -- [2]
-			920, -- [3]
-			919, -- [4]
-			1211, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD73", -- [1]
-			119, -- [2]
+			"BattlePet-0-00000E0BBCF3", -- [1]
+			921, -- [2]
 			0, -- [3]
-			163, -- [4]
-			378, -- [5]
+			919, -- [4]
+			1211, -- [5]
 		}, -- [3]
-		["tab"] = 8,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18724\n\nStrategy added by Xain\nTurn 1: Blistering Cold\nTurn 2: ChopChop\nTurn 3: BONESTORM\nTurn 4: Blistering Cold\nBring in your Zandalari Anklerender\nTurn 6: Primal Cry\nTurn 7: Black Claw\nTurn 8: Hunting Party\nBring in your Rabbit\nStampede\n",
-		["teamName"] = "Adinakon",
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8948\n\nStrategy added by Tinlar#1408\nThank you to shpungout for the suggestion on how to streamline the strategy\n\nTurn 1: Blistering Cold\nTurn 2: Chop\nTurn 3: Swap to your Level Pet\nTurn 4: Swap to your Zandalari Anklerender\nTurn 5: Black Claw\nTurns 6-7: Hunting Party\n",
+		["teamName"] = "Unit 17",
+		["minXP"] = 1,
 	},
 	[142054] = {
 		{
@@ -4072,24 +4091,31 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/627\n\nTurn 1: Build Turret\nTurn 2: Metal Fist\nTurn 3: Metal Fist\nStart from the top until both Pixiebell and Tally are dead.\nThen:: Swap in your level pets one after the other (or just one of them, up to you).\nThen:: Swap back to your Clockwork Gnome and finish Doodle with Metal Fist.\n",
 		["teamName"] = "Ashlei",
 	},
-	[85419] = {
+	[173131] = {
 		{
-			"BattlePet-0-00000E0BBDB3", -- [1]
-			459, -- [2]
-			0, -- [3]
-			282, -- [4]
-			1387, -- [5]
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			0, -- [2]
+			282, -- [3]
+			334, -- [4]
+			339, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBD9A", -- [1]
+			384, -- [2]
+			204, -- [3]
+			208, -- [4]
+			116, -- [5]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			0, -- [2]
+			362, -- [3]
+			593, -- [4]
+			1152, -- [5]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8545\n\nStrategy added by Phil\nTurn 1: Wind-Up\nTurn 2: Wind-Up\nTurn 3: Explode\nLevel 1 Pets get 160xp each whil wearing Safari Hat\n",
-		["teamName"] = "Gnawface",
-		["minXP"] = 1,
+		["tab"] = 7,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9906\n\nStrategy added by Lazey\n(9-10 rounds)\n\n*** Created on Beta, so maybe not final  ***\n\nTurn 1: Decoy\nTurn 2: Explode\nBring in your Tranquil Mechanical Yeti\nTurn 1: Supercharge\nTurn 2: Call Lightning (Shelby dies, Tinyhoof comes in)\nTurn 3+: Metal Fist (until Tinyhoof is dead)\nSwap to your Chrominius\nTurn 1: Howl\nTurn 2: Surge of Power\n",
+		["teamName"] = "Cliffs of Bastion",
 	},
 	[85626] = {
 		{
@@ -4164,31 +4190,24 @@ RematchSaved = {
 		["teamName"] = "Strange Looking Dogs",
 		["minXP"] = 1,
 	},
-	[173131] = {
+	[85419] = {
 		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			0, -- [2]
-			282, -- [3]
-			334, -- [4]
-			339, -- [5]
+			"BattlePet-0-00000E0BBDB3", -- [1]
+			459, -- [2]
+			0, -- [3]
+			282, -- [4]
+			1387, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBD9A", -- [1]
-			384, -- [2]
-			204, -- [3]
-			208, -- [4]
-			116, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			0, -- [2]
-			362, -- [3]
-			593, -- [4]
-			1152, -- [5]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 7,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9906\n\nStrategy added by Lazey\n(9-10 rounds)\n\n*** Created on Beta, so maybe not final  ***\n\nTurn 1: Decoy\nTurn 2: Explode\nBring in your Tranquil Mechanical Yeti\nTurn 1: Supercharge\nTurn 2: Call Lightning (Shelby dies, Tinyhoof comes in)\nTurn 3+: Metal Fist (until Tinyhoof is dead)\nSwap to your Chrominius\nTurn 1: Howl\nTurn 2: Surge of Power\n",
-		["teamName"] = "Cliffs of Bastion",
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8545\n\nStrategy added by Phil\nTurn 1: Wind-Up\nTurn 2: Wind-Up\nTurn 3: Explode\nLevel 1 Pets get 160xp each whil wearing Safari Hat\n",
+		["teamName"] = "Gnawface",
+		["minXP"] = 1,
 	},
 	[128020] = {
 		{
@@ -4211,6 +4230,29 @@ RematchSaved = {
 		["tab"] = 5,
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1388\n\nStrategy added by Lazey\n*** 9.0.2 approved ***\n\nTurn 1: Curse of Doom\nTurn 2: Unholy Ascension\nBring in your Infected Squirrel\nTurn 3: Creeping Fungus\nTurns 4-6: Stampede\nTurn 7: Corpse Explosion\n",
 		["teamName"] = "Bloat",
+		["minXP"] = 1,
+	},
+	[175777] = {
+		{
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			0, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			0, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 7,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10959\n\nStrategy added by Qvisten#2240\nThanks Runisco for the script :)\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
+		["teamName"] = "Crystalsnap",
 		["minXP"] = 1,
 	},
 	[94647] = {
@@ -4238,29 +4280,6 @@ RematchSaved = {
 		["tab"] = 4,
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/12263\n\nStrategy added by matsminer#2480\nFound this strategy on wowhead created by Hunt3x\nTried writing a script for it, but dont know if it will work\n\nTurn 1: Primal Cry\nTurn 2: Black Claw\nTurns 3-4: Hunting Party - Sometimes the pet might die before the second turn of Hunting Party, should still work\nTurn 5-6: Flock\nTurn 7: Emerald Presence\nTurn 8: Emerald Dream\nTurn 9: Emerald Bite\nTurn 10+: Emerald Bite - Keeping using emerald bite, fill in with emerald presence if it runs out, and emerald dream if you get >700 HP\n",
 		["teamName"] = "Dreadwalker",
-	},
-	[175777] = {
-		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			0, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 7,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10959\n\nStrategy added by Qvisten#2240\nThanks Runisco for the script :)\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
-		["teamName"] = "Crystalsnap",
-		["minXP"] = 1,
 	},
 	[197102] = {
 		{
@@ -4398,28 +4417,31 @@ RematchSaved = {
 		["teamName"] = "Pack Leader",
 		["minXP"] = 25,
 	},
-	[154929] = {
+	[201849] = {
 		{
 			"BattlePet-0-00000E0BBF3E", -- [1]
 			943, -- [2]
 			786, -- [3]
-			0, -- [4]
+			1762, -- [4]
 			1963, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
-		}, -- [2]
-		{
 			"BattlePet-0-00000E0BBCF3", -- [1]
 			921, -- [2]
-			0, -- [3]
+			920, -- [3]
 			919, -- [4]
 			1211, -- [5]
+		}, -- [2]
+		{
+			"BattlePet-0-00000E0BBD73", -- [1]
+			119, -- [2]
+			0, -- [3]
+			163, -- [4]
+			378, -- [5]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8948\n\nStrategy added by Tinlar#1408\nThank you to shpungout for the suggestion on how to streamline the strategy\n\nTurn 1: Blistering Cold\nTurn 2: Chop\nTurn 3: Swap to your Level Pet\nTurn 4: Swap to your Zandalari Anklerender\nTurn 5: Black Claw\nTurns 6-7: Hunting Party\n",
-		["teamName"] = "Unit 17",
-		["minXP"] = 1,
+		["tab"] = 8,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18724\n\nStrategy added by Xain\nTurn 1: Blistering Cold\nTurn 2: ChopChop\nTurn 3: BONESTORM\nTurn 4: Blistering Cold\nBring in your Zandalari Anklerender\nTurn 6: Primal Cry\nTurn 7: Black Claw\nTurn 8: Hunting Party\nBring in your Rabbit\nStampede\n",
+		["teamName"] = "Adinakon",
 	},
 	[175778] = {
 		{
@@ -4572,28 +4594,31 @@ RematchSaved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1411\n\nStrategy added by Aranesh\nTurn 1: Pass - your first pet dies\nBring in Ikky\nTurn 1: Black Claw\nTurns 2+: Flock\n",
 		["teamName"] = "Earseeker",
 	},
-	[68555] = {
+	[201878] = {
 		{
-			"BattlePet-0-00000E0BBCF3", -- [1]
-			921, -- [2]
-			364, -- [3]
-			919, -- [4]
-			1211, -- [5]
+			"BattlePet-0-00000E0BBE06", -- [1]
+			803, -- [2]
+			0, -- [3]
+			423, -- [4]
+			1581, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			184, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			"BattlePet-0-00000E0BBD04", -- [1]
+			0, -- [2]
+			312, -- [3]
+			163, -- [4]
+			641, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBD22", -- [1]
+			221, -- [2]
+			416, -- [3]
+			481, -- [4]
+			1166, -- [5]
 		}, -- [3]
-		["tab"] = 3,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6848\n\nStrategy added by DarkShade#2783\nSugested by Adalsteinn here https://www.wow-petguide.com/index.php?Strategy=255\n\nTD Script suggested by ultharwe on same page, I just modified to include IDs\n\nWorks in Shadowlands.\n\nTurn 1: Black Claw\nTurns 2-3: Hunting Party\nTurn 4: Black Claw\nBring in your Ikky\nTurns 1-3: Flock\n",
-		["teamName"] = "Ka'wi the Gorger",
-		["minXP"] = 1,
+		["tab"] = 8,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18732\n\nStrategy added by trogdor\nNot the fastest, but I didn't have some of the pets from other strats. This is a 100% wild pet strat, so easy on the AH budget!\n\nTurn 1: Rip\nTurn 2: Blood in the Water\nDrakeula comes in\nTurn 1: Rip\nBring in your Arctic Hare\nTurn 2: Dodge\nTurns 3-5: Stampede\nTurn 6: Pass while Drakeula has its \"undead\" round\nYu'shor comes in\nTurns 1-2: Stampede\nBring in your Kun-Lai Runt\nTurn 3: Frost Shock\nTurn 4: Deep Freeze\nTurn 5: Takedown\n",
+		["teamName"] = "Paws of Thunder",
 	},
 	[94648] = {
 		{
@@ -4641,29 +4666,23 @@ RematchSaved = {
 		["minXP"] = 25,
 		["minHP"] = 501,
 	},
-	[154925] = {
+	[105386] = {
 		{
 			0, -- [1]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBF3E", -- [1]
-			943, -- [2]
-			786, -- [3]
-			1762, -- [4]
-			1963, -- [5]
+			"BattlePet-0-00000E0BBCAD", -- [1]
+			1002, -- [2]
+			392, -- [3]
+			985, -- [4]
+			1320, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 6,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10036\n\nStrategy added by Dpaul\nLevel pet variation on Kylana#1731's strategy\n\nTurn 1: Pass\nBring in your Boneshard\nTurn 3: Blistering Cold\nTurn 4: Chop\nBring in your Ikky\nTurn 6: Black Claw\nTurn 7: Flock\n",
-		["teamName"] = "Creakclank",
-		["minXP"] = 18,
-		["minHP"] = 1001,
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/873\n\nStrategy added by Aranesh\nTurn 1: Pass\nTurn 2: Swap to your Lil' Bling\nTurn 3: Make it Rain\nTurn 4: Extra Plating\nTurns 5-7: Inflation\nTurn 8: Make it Rain\n",
+		["teamName"] = "Rydyr",
 	},
 	["Low lvl fights"] = {
 		{
@@ -4823,28 +4842,28 @@ RematchSaved = {
 		["minXP"] = 5,
 		["minHP"] = 302,
 	},
-	[105512] = {
+	[85622] = {
 		{
-			"BattlePet-0-00000E0BBE91", -- [1]
-			228, -- [2]
-			232, -- [3]
-			934, -- [4]
-			1441, -- [5]
+			"BattlePet-0-00000E0BBDB3", -- [1]
+			459, -- [2]
+			640, -- [3]
+			208, -- [4]
+			1387, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			779, -- [3]
+			282, -- [4]
+			844, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBD5E", -- [1]
-			449, -- [2]
-			369, -- [3]
-			0, -- [4]
-			493, -- [5]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/789\n\nTurn 1: Bubble\nTurn 2: Swarm of Flies\nTurn 3: Tongue Lash until the Harbinger of Dark resurrects\nThen:: Swarm of Flies\nHerald of Light comes in\nTurn 1: Tongue Lash until Mud Jumper dies\nBring in your Level Pet\nTurn 1: Swap to your Snail\nTurn 2: Acidic Goo\nTurn 3: Absorb until Herald of Light dies\n",
-		["teamName"] = "All Pets Go to Heaven",
-		["minXP"] = 7,
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7318\n\nStrategy added by Sarahlinii\nCredit for this strategy goes to Chrosta. Please see the information below to go check out Chrosta's in-depth WoWhead post regarding all things Garrison Pet Menagerie! https://www.wowhead.com/guide=3831/garrison-pet-battles-with-12-pets-xp-pet\n\nLeveling Pet: Safe for ANY Level 1+ Pet; it will take 0 damage\n\n**Please feel free to leave suggested TDScripts below as I’ve no idea how to properly create them myself. Thanks and enjoy!\n\nBring in your Iron Starlette\nTurn 1: Wind-Up to charge\nTurn 2: Supercharge\nTurn 3: Wind-Up to hit and defeat Brutus\nRukus comes in\nTurn 1: Wind-Up to charge\nTurn 2: Wind-Up to hit\nTurn 3: Toxic Smoke if you're able to before your Iron Starlette is defeated\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Thunderbolt\nTurn 2: Breath IF Rukus has more than 560 HP\nTurn 3: Explode when Rukus has 560 or less HP\nYour Leveling Pet will get the XP\n\n",
+		["teamName"] = "Brutus and Rukus",
+		["minXP"] = 1,
 	},
 	[68559] = {
 		{
@@ -4944,31 +4963,28 @@ RematchSaved = {
 		["teamName"] = "That's a Big Carcass",
 		["minXP"] = 25,
 	},
-	[94642] = {
+	[105352] = {
 		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			422, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			779, -- [3]
+			282, -- [4]
+			844, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			1370, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			777, -- [2]
+			282, -- [3]
+			779, -- [4]
+			339, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDC4", -- [1]
-			525, -- [2]
-			597, -- [3]
-			598, -- [4]
-			1167, -- [5]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 4,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/632\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nTurn 3: Bring in your Ikky bird\nTurn 4: Black Claw\nTurns 5+: Flock - Direflame dies - Ikky mostly with it\nAn enemy pet comes in\nTurn 1: Bring back in your Unborn Val'kyr\nTurns 2+: Shadow Shock and Curse of Doom until your Val'kyr dies\nBring in your Emerald Proto-Whelp\nTurns 1-3: Emerald Dream\nTurn 4: Emerald Presence (keep active)\nTurns 5+: Emerald Bite until the last pet is dead\n",
-		["teamName"] = "Direflame",
+		["tab"] = 5,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8522\n\nStrategy added by norng\nPriority 1: Explode when Essence of Mana has 469 or less health\nPriority 2: Thunderbolt\nPriority 3: Breath, Missile\n",
+		["teamName"] = "Mana Tap",
+		["minXP"] = 15,
 	},
 	[175781] = {
 		{
@@ -5134,23 +5150,32 @@ RematchSaved = {
 		["teamName"] = "Jarrun's Ladder",
 		["minXP"] = 1,
 	},
-	[128014] = {
+	[116794] = {
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			647, -- [3]
+			334, -- [4]
+			844, -- [5]
 		}, -- [1]
 		{
-			"random:0", -- [1]
+			"BattlePet-0-00000E0BBD1B", -- [1]
+			777, -- [2]
+			647, -- [3]
+			334, -- [4]
+			339, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBF3E", -- [1]
-			943, -- [2]
-			786, -- [3]
-			1762, -- [4]
-			1963, -- [5]
+			"BattlePet-0-00000E0BBDC4", -- [1]
+			525, -- [2]
+			597, -- [3]
+			598, -- [4]
+			1167, -- [5]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8542\n\nStrategy added by Koru08#1614\nTurn 1: Pass\nBring in your Boneshard\nTurn 1: Blistering Cold\nTurn 2: Chop\nBring in your Ikky\nTurn 1: Black Claw\nTurn 2: Flock\n",
-		["teamName"] = "Snozz",
+		["tab"] = 2,
+		["notes"] = "Strategy added by Aranesh\nTurn 1: Decoy\nTurns 2+: Breath until Growing Ectoplasm is dead\nIf your Mechanical Pandaren Dragonling dies too early, bring in your random level 25 pet and use standard spells to kill Growing Ectoplasm\nAn enemy pet comes in\nTurns 1+: Breath and Decoy with your Mechanical Pandaren Dragonling and your random pet until they are both dead\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurns 2+: Keep Emerald Presence active, use Emerald Dream when you drop below 1000 health and use Emerald Bite to finish the enemy pets.\n\nDon't forget to jump! ;-)\n",
+		["teamName"] = "Growing Ectoplasm 1",
+		["minXP"] = 25,
 	},
 	[175782] = {
 		{
@@ -5243,31 +5268,31 @@ RematchSaved = {
 		["teamName"] = "Greyhoof",
 		["minXP"] = 1,
 	},
-	[128013] = {
+	[173372] = {
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			0, -- [4]
-			1532, -- [5]
+			"BattlePet-0-00000E0BBEE1", -- [1]
+			1079, -- [2]
+			1080, -- [3]
+			1076, -- [4]
+			1349, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBF21", -- [1]
-			1773, -- [2]
-			1758, -- [3]
-			518, -- [4]
-			1975, -- [5]
+			"BattlePet-0-00000E0BBDEC", -- [1]
+			384, -- [2]
+			0, -- [3]
+			209, -- [4]
+			1450, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			0, -- [2]
-			0, -- [3]
-			802, -- [4]
-			1416, -- [5]
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			122, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
 		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1789\n\nStrategy added by Wolf103#1637\nTurn 1: Black Claw\nDirebeak Hatchling gets forced in\nTurn 3: Ironskin\nTurn 4: Falcosaur Swarm!\nTurn 5: Falcosaur Swarm! continues\nTurn 6: Predatory Strike\nTeroclaw Hatchling gets forced in\nTurn 8: Ravage\n",
-		["teamName"] = "Bucky",
+		["tab"] = 7,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9362\n\nStrategy added by DragonsAfterDark\nVideo for Fight (https://www.youtube.com/watch?v=17aS0q2OGbk)\n\nAlternate 12 round strategy here (https://www.wow-petguide.com/Strategy/14982/Natural_Defenders) . Pretty sure it's as stable as you can get!\n\nTurn 1: Greench's Gift\nTurn 2: Booby-Trapped Presents\nTurn 3+: Club until Slugger dies\nRunehoof comes in\nTurn 1+: Club until Rotten Little Helper dies\nBring in your Draenei Micro Defender\nTurn 1: Ion Cannon\nDuster comes in\nTurn 1: Recover\nTurn 2: Recover\nTurn 3+: Metal Fist until Draenei Micro Defender dies\nBring in your Nexus Whelpling\nTurn 1: Arcane Storm\nTurn 2-4: Mana Surge\nTurn 5: Arcane Storm\n",
+		["teamName"] = "Natural Defenders",
 	},
 	[139987] = {
 		{
@@ -5315,28 +5340,29 @@ RematchSaved = {
 		["teamName"] = "Minixis",
 		["minXP"] = 1,
 	},
-	[66733] = {
+	[141814] = {
 		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			777, -- [2]
-			282, -- [3]
-			334, -- [4]
-			339, -- [5]
+			"BattlePet-0-00000E0BBEC8", -- [1]
+			525, -- [2]
+			597, -- [3]
+			168, -- [4]
+			1722, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCE7", -- [1]
-			0, -- [2]
-			362, -- [3]
-			593, -- [4]
-			1152, -- [5]
+			0, -- [1]
 		}, -- [2]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			429, -- [2]
+			312, -- [3]
+			0, -- [4]
+			1416, -- [5]
 		}, -- [3]
-		["tab"] = 3,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/70\n\nStrategy by Rendigar published on Warcraft Pets (https://www.warcraftpets.com/community/forum/viewtopic.php?f=3&t=7556#p57980).\n\n\n\nTurn 1: Missile \nTurn 2: Decoy \nTurns 3+: Missile until Woodcarver is dead \nLightstalker comes in \nTurn 1: Swap to Chrominius\nTurn 2: Howl \nTurn 3: Surge of Power – Lightstalker dies\nNeedleback comes in and kills Chrominius \nBring back in your Darkmoon Zeppelin\nTurn 1 : Missile \nTurn 2: Missile \nTurn 3: Decoy \nTurns 4+: Missile until Needleback is below 619 health \nExplode \nYour level pet enjoys the XP!\n",
-		["teamName"] = "Mo'ruk",
-		["minXP"] = 1,
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9642\n\nStrategy added by shpungout\nYour level pet will take (0..4) x (63..105) flying damage.\nAlso you can try Emerald Whelpling with Tranquility instead of Healing Flame.\n\nTurn 1: Emerald Presence\nTurns 2+: Emerald Bite until Feathers dies\nSplat comes in\nTurn 1: Swap to your Level Pet\nTurn 2: Swap to your Teroclaw Hatchling\nTurn 3: Dodge\nTurns 4+: Claw until Splat dies\nBrite comes in\nTurn 1: Swap to your Dream Whelpling\nTurn 2: if health is below 300, then Healing Flame, else Emerald Bite\nTurns 3+: Emerald Bite until Brite dies\n",
+		["teamName"] = "Accidental Dread",
+		["minXP"] = 5,
+		["minHP"] = 401,
 	},
 	[94650] = {
 		{
@@ -5383,72 +5409,63 @@ RematchSaved = {
 		["teamName"] = "What's the Buzz?",
 		["minXP"] = 25,
 	},
-	[128012] = {
+	[85650] = {
 		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			210, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
+			"BattlePet-0-00000E0BBD0E", -- [1]
+			421, -- [2]
+			277, -- [3]
+			595, -- [4]
+			557, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			1370, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
+			"random:0", -- [1]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/67\n\nGreat recommendation by Luigi - thanks for suggesting this strategy!\n\nTurn 1: Arcane Blast\nTurn 2: Arcane Blast\nTurn 3: Life Exchange\nTurn 4+: Arcane Blast\n",
+		["teamName"] = "Quintessence of Light",
+	},
+	[85634] = {
+		{
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			115, -- [2]
+			0, -- [3]
+			334, -- [4]
+			844, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBCE7", -- [1]
+			110, -- [2]
+			0, -- [3]
+			0, -- [4]
+			1152, -- [5]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 4,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/18\n\nTurns 1+: Breath until Manos dies\nHanos comes out\nTurn 1: Decoy\nTurns 2+: Breath until Hanos dies\nFatos comes out\nTurns 1+: Breath until your Dragonling dies.\nBring in Chrominius\nTurns 1+: Bite Fatos to death!\n",
+		["teamName"] = "Manos, Hanos and Fatos",
+	},
+	[105842] = {
+		{
+			"BattlePet-0-00000E0BBCA9", -- [1]
+			0, -- [2]
+			713, -- [3]
+			0, -- [4]
+			277, -- [5]
+		}, -- [1]
+		{
+			"random:0", -- [1]
 		}, -- [2]
 		{
 			"random:0", -- [1]
 		}, -- [3]
 		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1250\n\nStrategy added by Aranesh\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky\nTurn 3: Black Claw\nTurn 4: Flock\n",
-		["teamName"] = "Gnasher",
-	},
-	[68565] = {
-		{
-			"BattlePet-0-00000E0BBD0C", -- [1]
-			0, -- [2]
-			218, -- [3]
-			652, -- [4]
-			1238, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBDCE", -- [1]
-			0, -- [2]
-			919, -- [3]
-			581, -- [4]
-			1532, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
-		}, -- [3]
-		["tab"] = 3,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/3094\n\nStrategy added by Starrbuck\nBased on the strategy created by CrazyFluffy\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Level Pet\nTurn 1: Swap to your Ikky\nTurn 2: Black Claw\nTurn 3: Flock\nTurn 4: Nitun should be dead by now.\n",
-		["teamName"] = "Nitun",
-		["minXP"] = 1,
-	},
-	[105779] = {
-		{
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			115, -- [2]
-			0, -- [3]
-			282, -- [4]
-			844, -- [5]
-		}, -- [1]
-		{
-			"BattlePet-0-00000E0BBD1B", -- [1]
-			0, -- [2]
-			282, -- [3]
-			779, -- [4]
-			339, -- [5]
-		}, -- [2]
-		{
-			0, -- [1]
-		}, -- [3]
-		["tab"] = 5,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1864\n\nStrategy added by Eekwibble\nTurn 1+: Breath until Eye of Inquisition and Eye of Interrogation are dead\nEye of Impetration comes in\nTurn 1: Breath/pass/whatever, you'll get interrupted anyway\nTurn 2: Breath\nTurn 3: Explode - Mechanical Pandaren Dragonling dies\nBring in your Darkmoon Zeppelin\nTurn 4+: Does Eye of Impetration have over 555hp?\nYes - Thunderbolt > Explode\nNo - Explode\nDarkmoon Zeppelin and Eye of Impetration both die, your carry pet gets the xp\n",
-		["teamName"] = "Threads of Fate",
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/762\n\nTurns 1+: Blitz! Just use that spell over and over.\nThat's it, there is nothing more to this strategy :-)\n",
+		["teamName"] = "All Howl, No Bite",
 		["minXP"] = 1,
 	},
 	[68465] = {
@@ -5492,28 +5509,31 @@ RematchSaved = {
 		["teamName"] = "Dazed and Confused and Adorable",
 		["minXP"] = 1,
 	},
-	[71927] = {
+	[141969] = {
 		{
-			"BattlePet-0-00000E0BBDDA", -- [1]
-			504, -- [2]
-			916, -- [3]
-			334, -- [4]
-			1403, -- [5]
+			"BattlePet-0-00000E0BBD0C", -- [1]
+			210, -- [2]
+			218, -- [3]
+			652, -- [4]
+			1238, -- [5]
 		}, -- [1]
 		{
-			0, -- [1]
+			"BattlePet-0-00000E0BBDCE", -- [1]
+			1370, -- [2]
+			919, -- [3]
+			581, -- [4]
+			1532, -- [5]
 		}, -- [2]
 		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			429, -- [2]
-			312, -- [3]
-			802, -- [4]
-			1416, -- [5]
+			"BattlePet-0-00000E0BBF21", -- [1]
+			1773, -- [2]
+			1758, -- [3]
+			518, -- [4]
+			1975, -- [5]
 		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9773\n\nStrategy added by Rebekha#21420\nTurn 1: Decoy\nTurn 2 & 3: Haywire\nTurn 4+: Alpha Strike until Tonsa dies\nChirps comes in\nBring in your Level Pet\nBring in your Teroclaw Hatchling\nTurn 1: Dodge\nTurn 2+: Claw until Chirps hp < 927\nTurn 3: Ravage until Chirps dies\nBrewly comes in\nTurn 1: Dodge when Brewly has the barrel throwing buff\nTurns 2-3: Ravage if Brewly hp < 619\nTurn 4: Claw until Brewly dies\nIf you have the world's worst RNG, bring back your Mech Axe to finish the job\n",
-		["teamName"] = "Chen Stormstout",
-		["minXP"] = 1,
+		["tab"] = 6,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1673\n\nStrategy added by Gershuun#1131\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurn 2: Flock\nTurn 3: Flock\nTurn 4: Flock\nTurn 5: Pass\nTurn 6: Savage Talon\nTurn 7: Black Claw (Ikky dies)\nBring in your Direbeak Hatchling\nTurn 1: Falcosaur Swarm!\n",
+		["teamName"] = "What Do You Mean, Mind Controlling Plants?",
 	},
 	[175784] = {
 		{
@@ -5695,6 +5715,7 @@ RematchSettings = {
 		["BattlePet-0-0000211C0FC6"] = "QQQ737P",
 		["BattlePet-0-00000E0BBDE5"] = "QQQ81KR",
 		["BattlePet-0-00000E0BBD68"] = "QQQBPL",
+		["BattlePet-0-00002177DB12"] = "QQQ32B9",
 		["BattlePet-0-00002119EA83"] = "QQQC365",
 		["BattlePet-0-00000E0BBDBC"] = "QQQ9MR",
 		["BattlePet-0-00000E0BBF39"] = "QQQ81LJ",
@@ -5739,6 +5760,7 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBCA6"] = "QQQC1E",
 		["BattlePet-0-00000E0BBE62"] = "QQQ54E",
 		["BattlePet-0-00000E0BBC75"] = "QQQCFG",
+		["BattlePet-0-0000218CF62F"] = "QQQ75J",
 		["BattlePet-0-00000E0BBE64"] = "QQQ41KT",
 		["BattlePet-0-00000E0BBDCC"] = "QQQ81G4",
 		["BattlePet-0-0000103C2D42"] = "QQQ52DB",
@@ -5783,10 +5805,12 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBE23"] = "QQQ3QN",
 		["BattlePet-0-00000E0BBE1F"] = "QQQ4CG",
 		["BattlePet-0-00002128F8C0"] = "QQQA2HV",
+		["BattlePet-0-00002177DB13"] = "QQQ72BA",
 		["BattlePet-0-00000E0BBD33"] = "QQQ9GO",
 		["BattlePet-0-00000E0BBD3C"] = "QQQB9I",
 		["BattlePet-0-00000E0BBDB5"] = "QQQ3VL",
 		["BattlePet-0-00000E0BBCBF"] = "QQQ517S",
+		["BattlePet-0-0000218C8213"] = "QQQ87I",
 		["BattlePet-0-00002110453E"] = "QQQ937D",
 		["BattlePet-0-00000E0BBE1A"] = "QQQ3ED",
 		["BattlePet-0-00000E0BBC71"] = "QQQ5F2",
@@ -5828,7 +5852,7 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBCDF"] = "QQQ8EB",
 		["BattlePet-0-00000E0BBC93"] = "QQQ6A1",
 		["BattlePet-0-00000E0BBF24"] = "QQQ71NG",
-		["BattlePet-0-0000210D9D98"] = "QQQ92KV",
+		["BattlePet-0-000021211699"] = "QQQ737P",
 		["BattlePet-0-0000210B5ED1"] = "QQQ31T0",
 		["BattlePet-0-0000211353FD"] = "QQQC201",
 		["BattlePet-0-0000214CA6C8"] = "QQQC36T",
@@ -5920,7 +5944,8 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBE85"] = "QQQCPK",
 		["BattlePet-0-00000E0BBCB2"] = "QQQ098",
 		["BattlePet-0-0000212070D4"] = "QQQC39I",
-		["BattlePet-0-000021211699"] = "QQQ737P",
+		["BattlePet-0-0000210D9D98"] = "QQQ92KV",
+		["BattlePet-0-000021787264"] = "QQQ9385",
 		["BattlePet-0-0000210D9D91"] = "QQQ32G6",
 		["BattlePet-0-00000E7AEFC3"] = "QQQA22M",
 		["BattlePet-0-00000E0BBD9C"] = "QQQ39N",
@@ -6003,10 +6028,10 @@ RematchSettings = {
 		["BattlePet-0-0000212E1296"] = "QQQ838R",
 		["BattlePet-0-00000E0BBD60"] = "QQQ7136",
 		["BattlePet-0-0000210C7736"] = "QQQB39L",
-		["BattlePet-0-000021065C9A"] = "QQQ636M",
 		["BattlePet-0-00000E0BBD4C"] = "QQQ513P",
+		["BattlePet-0-000021065C9A"] = "QQQ636M",
 		["BattlePet-0-00000E0BBF44"] = "QQQ39S",
-		["BattlePet-0-00000E0BBD88"] = "QQQCN4",
+		["BattlePet-0-00000E0BBEEF"] = "QQQ71IP",
 		["BattlePet-0-00000E0BBE5B"] = "QQQ81FB",
 		["BattlePet-0-000021047395"] = "QQQ538M",
 		["BattlePet-0-0000213327E8"] = "QQQ51F7",
@@ -6015,7 +6040,7 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBC7E"] = "QQQCFR",
 		["BattlePet-0-00000E0BBE41"] = "QQQ5LU",
 		["BattlePet-0-00000E0BBCA1"] = "QQQC2K",
-		["BattlePet-0-000021758E4A"] = "QQQ835J",
+		["BattlePet-0-00000E0BBCB3"] = "QQQ33M",
 		["BattlePet-0-00000E0BBDDA"] = "QQQB1BR",
 		["BattlePet-0-00000E0BBF02"] = "QQQ91M7",
 		["BattlePet-0-00000E0BBECB"] = "QQQA1S8",
@@ -6023,10 +6048,10 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBCE0"] = "QQQ3DR",
 		["BattlePet-0-0000210B5B47"] = "QQQ5212",
 		["BattlePet-0-0000210D9DC9"] = "QQQ52OM",
-		["BattlePet-0-00000E0BBCB3"] = "QQQ33M",
-		["BattlePet-0-00000E6B38DE"] = "QQQ91CM",
-		["BattlePet-0-00000E0BBE42"] = "QQQA1H7",
+		["BattlePet-0-000021758E4A"] = "QQQ835J",
 		["BattlePet-0-00000E0BBD64"] = "QQQ5GR",
+		["BattlePet-0-00000E0BBE42"] = "QQQA1H7",
+		["BattlePet-0-00000E6B38DE"] = "QQQ91CM",
 		["BattlePet-0-00000E0BBD5B"] = "QQQANJ",
 		["BattlePet-0-000013A04662"] = "QQQ92MR",
 		["BattlePet-0-00000E0BBEF6"] = "QQQ31LH",
@@ -6036,17 +6061,17 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBDEB"] = "QQQB1DQ",
 		["BattlePet-0-00000E0BBEE5"] = "QQQ38B",
 		["BattlePet-0-00000E6C5D2A"] = "QQQ41T3",
-		["BattlePet-0-00000E0BBCF0"] = "QQQ8CU",
+		["BattlePet-0-00000E0BBC7C"] = "QQQ6CB",
 		["BattlePet-0-000010125055"] = "QQQ323D",
 		["BattlePet-0-00000E0BBCEC"] = "QQQ3FI",
 		["BattlePet-0-00000E0BBD8C"] = "QQQ7FP",
-		["BattlePet-0-00000E0BBE0B"] = "QQQ7DD",
+		["BattlePet-0-00000E0BBF42"] = "QQQ61JO",
 		["BattlePet-0-00000E0BBDC5"] = "QQQBMQ",
-		["BattlePet-0-00000E0BBE5F"] = "QQQB1I",
+		["BattlePet-0-00000E0BBC8F"] = "QQQ38V",
 		["BattlePet-0-00000E0BBD18"] = "QQQ89L",
 		["BattlePet-0-00000E0BBD7B"] = "QQQ3GV",
 		["BattlePet-0-00000E0BBCE2"] = "QQQ8D6",
-		["BattlePet-0-00000E0BBC8F"] = "QQQ38V",
+		["BattlePet-0-00000E0BBE5F"] = "QQQB1I",
 		["BattlePet-0-00000E0BBCB0"] = "QQQ713V",
 		["BattlePet-0-00000E0BBE83"] = "QQQ31HJ",
 		["BattlePet-0-00000E0BBD3D"] = "QQQ515T",
@@ -6062,7 +6087,7 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBE13"] = "QQQ4EM",
 		["BattlePet-0-00000E0BBF3C"] = "QQQ91DD",
 		["BattlePet-0-00000E0BBDA7"] = "QQQ36H",
-		["BattlePet-0-00000E0BBCEF"] = "QQQ8DG",
+		["BattlePet-0-0000210B5BB2"] = "QQQ0213",
 		["BattlePet-0-00000E0BBD89"] = "QQQ814A",
 		["BattlePet-0-00000E0BBE8E"] = "QQQB1DF",
 		["BattlePet-0-00000E0BBCD8"] = "QQQBCC",
@@ -6073,7 +6098,7 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBE11"] = "QQQ5PN",
 		["BattlePet-0-00000E0BBE30"] = "QQQCQ5",
 		["BattlePet-0-00000E0BBCCC"] = "QQQ5CF",
-		["BattlePet-0-0000210B5BB2"] = "QQQ0213",
+		["BattlePet-0-00000E0BBCEF"] = "QQQ8DG",
 		["BattlePet-0-00000E0BBCEB"] = "QQQCK8",
 		["BattlePet-0-0000210D9D94"] = "QQQ42KK",
 		["BattlePet-0-00000E0BBD5C"] = "QQQ6DN",
@@ -6081,9 +6106,9 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBC64"] = "QQQ960",
 		["BattlePet-0-00000E0BBD40"] = "QQQ415S",
 		["BattlePet-0-00000E0BBCB4"] = "QQQB13M",
-		["BattlePet-0-00000E0BBF42"] = "QQQ61JO",
+		["BattlePet-0-00000E0BBE0B"] = "QQQ7DD",
 		["BattlePet-0-00000E0BBEA0"] = "QQQ41HA",
-		["BattlePet-0-00000E0BBC7C"] = "QQQ6CB",
+		["BattlePet-0-00000E0BBCF0"] = "QQQ8CU",
 		["BattlePet-0-00000E0BBE2F"] = "QQQAG9",
 		["BattlePet-0-00000E0BBE38"] = "QQQ9JU",
 		["BattlePet-0-00002105339F"] = "QQQ42U5",
@@ -6097,7 +6122,7 @@ RematchSettings = {
 		["BattlePet-0-00000E0BBD30"] = "QQQAK4",
 		["BattlePet-0-00000E0BBED6"] = "QQQ71L9",
 		["BattlePet-0-00000E0BBCAB"] = "QQQBKC",
-		["BattlePet-0-00000E0BBEEF"] = "QQQ71IP",
+		["BattlePet-0-00000E0BBD88"] = "QQQCN4",
 		["BattlePet-0-0000210D9DC5"] = "QQQ82OK",
 		["BattlePet-0-0000212E5409"] = "QQQ337T",
 		["BattlePet-0-00002130C218"] = "QQQA35K",
@@ -6158,544 +6183,548 @@ RematchSettings = {
 	},
 	["ShowImportButton"] = true,
 	["ElvUIToastDefaulted"] = true,
-	["ActivePanel"] = 1,
+	["ActivePanel"] = 3,
 	["PetCardInBattle"] = false,
 	["ShowSpeciesID"] = true,
-	["XPos"] = 234.6670532226563,
+	["XPos"] = 40.38142776489258,
 	["AllowHiddenPets"] = true,
 	["ShowAfterBattle"] = true,
 	["PromptWithMinimized"] = false,
 	["LevelingQueue"] = {
-		"BattlePet-0-00000E0BBCBB", -- [1]
-		"BattlePet-0-00000E0BBE89", -- [2]
-		"BattlePet-0-00000E0BBC68", -- [3]
-		"BattlePet-0-0000210D9D96", -- [4]
-		"BattlePet-0-00000E6C5D2A", -- [5]
-		"BattlePet-0-00000E0BBDDD", -- [6]
-		"BattlePet-0-00000E0BBD50", -- [7]
-		"BattlePet-0-00000E0BBE52", -- [8]
-		"BattlePet-0-00000E0BBCB2", -- [9]
-		"BattlePet-0-00000E0BBC76", -- [10]
-		"BattlePet-0-00000E0BBCBD", -- [11]
-		"BattlePet-0-00000E0BBDE1", -- [12]
-		"BattlePet-0-00000E0BBCBE", -- [13]
-		"BattlePet-0-00000E0BBEA5", -- [14]
-		"BattlePet-0-00000E7184B7", -- [15]
-		"BattlePet-0-00000E0BBD60", -- [16]
-		"BattlePet-0-00000E0BBDBA", -- [17]
-		"BattlePet-0-00000E0BBDB8", -- [18]
-		"BattlePet-0-00000E0BBDB6", -- [19]
-		"BattlePet-0-00000E0BBD02", -- [20]
-		"BattlePet-0-000021021F89", -- [21]
-		"BattlePet-0-00000E0BBF3D", -- [22]
-		"BattlePet-0-00000E0BBCFA", -- [23]
-		"BattlePet-0-00000E0BBD8B", -- [24]
-		"BattlePet-0-0000210D9DCC", -- [25]
-		"BattlePet-0-00000E0BBE27", -- [26]
-		"BattlePet-0-00000E0BBDE3", -- [27]
-		"BattlePet-0-000021075EFF", -- [28]
-		"BattlePet-0-00000E0BBC99", -- [29]
-		"BattlePet-0-00000E0BBDA4", -- [30]
-		"BattlePet-0-00000E0BBDFD", -- [31]
-		"BattlePet-0-0000103C2D42", -- [32]
-		"BattlePet-0-00000E0BBF22", -- [33]
-		"BattlePet-0-00000E0BBF13", -- [34]
-		"BattlePet-0-00000E6C5505", -- [35]
-		"BattlePet-0-00000E0BBC6B", -- [36]
-		"BattlePet-0-00000E0BBE5E", -- [37]
-		"BattlePet-0-00000E0BBF0E", -- [38]
-		"BattlePet-0-00000E0BBE59", -- [39]
-		"BattlePet-0-00000E0BBCAB", -- [40]
-		"BattlePet-0-00000E0BBC98", -- [41]
-		"BattlePet-0-00000E7EBB27", -- [42]
-		"BattlePet-0-00000E0BBC80", -- [43]
-		"BattlePet-0-00000E0BBCB5", -- [44]
-		"BattlePet-0-0000211617CD", -- [45]
-		"BattlePet-0-00000E0BBC7D", -- [46]
-		"BattlePet-0-0000210C7736", -- [47]
-		"BattlePet-0-00000E0BBE6B", -- [48]
-		"BattlePet-0-00000E0BBE46", -- [49]
-		"BattlePet-0-00000E0BBCCD", -- [50]
-		"BattlePet-0-00000E0BBC97", -- [51]
-		"BattlePet-0-0000210B5B47", -- [52]
-		"BattlePet-0-00000E0BBDCC", -- [53]
-		"BattlePet-0-0000211A4F2A", -- [54]
-		"BattlePet-0-00000E0BBD9D", -- [55]
-		"BattlePet-0-00000E0BBCB4", -- [56]
-		"BattlePet-0-00000E0BBE60", -- [57]
-		"BattlePet-0-00000E0BBC8D", -- [58]
-		"BattlePet-0-00000E0BBCCB", -- [59]
-		"BattlePet-0-0000210B713E", -- [60]
-		"BattlePet-0-00000E0BBC9F", -- [61]
-		"BattlePet-0-00000E0BBC7A", -- [62]
-		"BattlePet-0-00000E0BBE24", -- [63]
-		"BattlePet-0-00000E0BBD71", -- [64]
-		"BattlePet-0-00000E0BBD98", -- [65]
-		"BattlePet-0-00000E0BBCF2", -- [66]
-		"BattlePet-0-00000E0BBD9E", -- [67]
-		"BattlePet-0-00000E0BBCFE", -- [68]
-		"BattlePet-0-00000E0BBE0F", -- [69]
-		"BattlePet-0-00000E0BBE0D", -- [70]
-		"BattlePet-0-00000E0BBC71", -- [71]
-		"BattlePet-0-00000E0BBCF1", -- [72]
-		"BattlePet-0-00000E0BBD9B", -- [73]
-		"BattlePet-0-00000E0BBC83", -- [74]
-		"BattlePet-0-00000E0BBCFD", -- [75]
-		"BattlePet-0-00000E0BBCEC", -- [76]
-		"BattlePet-0-00000E0BBCCA", -- [77]
-		"BattlePet-0-00000E0BBCD7", -- [78]
-		"BattlePet-0-00000E0BBE1F", -- [79]
-		"BattlePet-0-00000E0BBC95", -- [80]
-		"BattlePet-0-00000E0BBF43", -- [81]
-		"BattlePet-0-00000E0BBEA4", -- [82]
-		"BattlePet-0-00000E0BBCE0", -- [83]
-		"BattlePet-0-00000E0BBC6C", -- [84]
-		"BattlePet-0-00000E0BBC82", -- [85]
-		"BattlePet-0-00000E0BBC64", -- [86]
-		"BattlePet-0-00000E0BBE21", -- [87]
-		"BattlePet-0-00000E0BBDA5", -- [88]
-		"BattlePet-0-00000E0BBD55", -- [89]
-		"BattlePet-0-00000E0BBE1A", -- [90]
-		"BattlePet-0-00000E0BBC75", -- [91]
-		"BattlePet-0-00000E0BBD16", -- [92]
-		"BattlePet-0-00000E0BBC85", -- [93]
-		"BattlePet-0-00000E0BBD4D", -- [94]
-		"BattlePet-0-00000E0BBD75", -- [95]
-		"BattlePet-0-00000E0BBD8D", -- [96]
-		"BattlePet-0-00000E0BBCD8", -- [97]
-		"BattlePet-0-00000E0BBCEB", -- [98]
-		"BattlePet-0-00000E0BBE0B", -- [99]
-		"BattlePet-0-00000E0BBE14", -- [100]
-		"BattlePet-0-00000E0BBCE2", -- [101]
-		"BattlePet-0-00000E0BBCCC", -- [102]
-		"BattlePet-0-00000E0BBD78", -- [103]
-		"BattlePet-0-00000E0BBE25", -- [104]
-		"BattlePet-0-00000E0BBE0A", -- [105]
-		"BattlePet-0-00000E0BBD54", -- [106]
-		"BattlePet-0-00000E0BBD5A", -- [107]
-		"BattlePet-0-00000E0BBCDC", -- [108]
-		"BattlePet-0-00000E0BBC77", -- [109]
-		"BattlePet-0-00000E0BBE20", -- [110]
-		"BattlePet-0-00000E0BBDC7", -- [111]
-		"BattlePet-0-00000E0BBDDA", -- [112]
-		"BattlePet-0-00000E0BBCDF", -- [113]
-		"BattlePet-0-00000E0BBC6E", -- [114]
-		"BattlePet-0-00000E0BBC84", -- [115]
-		"BattlePet-0-00000E0BBD6D", -- [116]
-		"BattlePet-0-00000E0BBCD6", -- [117]
-		"BattlePet-0-00000E95E15C", -- [118]
-		"BattlePet-0-000010411FF1", -- [119]
-		"BattlePet-0-00000E0BBE64", -- [120]
-		"BattlePet-0-00000E0BBCD0", -- [121]
-		"BattlePet-0-000021137877", -- [122]
-		"BattlePet-0-00000E0BBD69", -- [123]
-		"BattlePet-0-00000E0BBEBB", -- [124]
-		"BattlePet-0-00000E0BBCF0", -- [125]
-		"BattlePet-0-00000E0BBE08", -- [126]
-		"BattlePet-0-00000E0BBD77", -- [127]
-		"BattlePet-0-00000E0BBD7A", -- [128]
-		"BattlePet-0-00000E0BBE1B", -- [129]
-		"BattlePet-0-00000E0BBC66", -- [130]
-		"BattlePet-0-00000E0BBE68", -- [131]
-		"BattlePet-0-00000E0BBF2D", -- [132]
-		"BattlePet-0-00000E0BBF1A", -- [133]
-		"BattlePet-0-00000E0BBC7E", -- [134]
-		"BattlePet-0-00000E0BBD6C", -- [135]
-		"BattlePet-0-00000E0BBDE4", -- [136]
-		"BattlePet-0-00000E0BBCD9", -- [137]
-		"BattlePet-0-00002105339F", -- [138]
-		"BattlePet-0-000021058271", -- [139]
-		"BattlePet-0-0000210D9D94", -- [140]
-		"BattlePet-0-00000E0BBCAC", -- [141]
-		"BattlePet-0-00000E0BBDD4", -- [142]
-		"BattlePet-0-00000E0BBD68", -- [143]
-		"BattlePet-0-00000E0BBD89", -- [144]
-		"BattlePet-0-00000E6B38DE", -- [145]
-		"BattlePet-0-00000E0BBD48", -- [146]
-		"BattlePet-0-00000E0BBD5F", -- [147]
-		"BattlePet-0-00000E0BBF1E", -- [148]
-		"BattlePet-0-00000E0BBDDC", -- [149]
-		"BattlePet-0-00000E0BBCFF", -- [150]
-		"BattlePet-0-00000E0BBDEB", -- [151]
-		"BattlePet-0-0000210658F7", -- [152]
-		"BattlePet-0-00000E0BBDF8", -- [153]
-		"BattlePet-0-00000E0BBF12", -- [154]
-		"BattlePet-0-000021142BBF", -- [155]
-		"BattlePet-0-00000E0BBE0E", -- [156]
-		"BattlePet-0-00000E0BBD6B", -- [157]
-		"BattlePet-0-00000E0BBCB7", -- [158]
-		"BattlePet-0-00000E0BBE2E", -- [159]
-		"BattlePet-0-00000E0BBDFB", -- [160]
-		"BattlePet-0-00000E0BBCED", -- [161]
-		"BattlePet-0-00000E0BBC74", -- [162]
-		"BattlePet-0-00000E0BBD86", -- [163]
-		"BattlePet-0-00000E0BBDFC", -- [164]
-		"BattlePet-0-00000E0BBD9C", -- [165]
-		"BattlePet-0-00000E0BBD4B", -- [166]
-		"BattlePet-0-0000211353F6", -- [167]
-		"BattlePet-0-00000E0BBCEA", -- [168]
-		"BattlePet-0-00000E0BBD72", -- [169]
-		"BattlePet-0-00000E0BBD96", -- [170]
-		"BattlePet-0-00000E0BBE5C", -- [171]
-		"BattlePet-0-00000E0BBF2F", -- [172]
-		"BattlePet-0-00000E0BBC7C", -- [173]
-		"BattlePet-0-00000E0BBCDA", -- [174]
-		"BattlePet-0-00000E0BBD6E", -- [175]
-		"BattlePet-0-00000E0BBC93", -- [176]
-		"BattlePet-0-000021190A01", -- [177]
-		"BattlePet-0-00000E0BBD4C", -- [178]
-		"BattlePet-0-00000E0BBD74", -- [179]
-		"BattlePet-0-00000E0BBD8A", -- [180]
-		"BattlePet-0-00000E0BBCEF", -- [181]
-		"BattlePet-0-00000E0BBC9E", -- [182]
-		"BattlePet-0-00000E0BBC89", -- [183]
-		"BattlePet-0-00000E0BBD80", -- [184]
-		"BattlePet-0-00000E0BBD99", -- [185]
-		"BattlePet-0-00000E0BBD94", -- [186]
-		"BattlePet-0-00000E0BBE0C", -- [187]
-		"BattlePet-0-00000E0BBF44", -- [188]
-		"BattlePet-0-0000210C1874", -- [189]
-		"BattlePet-0-00000E0BBF42", -- [190]
-		"BattlePet-0-00000E0BBC72", -- [191]
-		"BattlePet-0-00000E0BBD29", -- [192]
-		"BattlePet-0-00000E0BBD30", -- [193]
-		"BattlePet-0-00000E0BBE2F", -- [194]
-		"BattlePet-0-0000213327E8", -- [195]
-		"BattlePet-0-00000E0BBE38", -- [196]
-		"BattlePet-0-00000E0BBCA3", -- [197]
-		"BattlePet-0-00000E0BBD0B", -- [198]
-		"BattlePet-0-00002119EA83", -- [199]
-		"BattlePet-0-0000211C0FC6", -- [200]
-		"BattlePet-0-00000E0BBEC1", -- [201]
-		"BattlePet-0-00000E0BBD5C", -- [202]
-		"BattlePet-0-00000E0BBC8E", -- [203]
-		"BattlePet-0-000013A04662", -- [204]
-		"BattlePet-0-00000E0BBE33", -- [205]
-		"BattlePet-0-0000214CA6C8", -- [206]
-		"BattlePet-0-0000212E5409", -- [207]
-		"BattlePet-0-0000214CB1B2", -- [208]
-		"BattlePet-0-00000E0BBDC3", -- [209]
-		"BattlePet-0-000021211699", -- [210]
-		"BattlePet-0-00002128F8B6", -- [211]
-		"BattlePet-0-0000210D9D98", -- [212]
-		"BattlePet-0-0000214C5B6A", -- [213]
-		"BattlePet-0-0000214CB95A", -- [214]
-		"BattlePet-0-0000210D9DC9", -- [215]
-		"BattlePet-0-00002128F8D6", -- [216]
-		"BattlePet-0-00000E0BBD63", -- [217]
-		"BattlePet-0-0000214E9CE5", -- [218]
-		"BattlePet-0-0000210533A3", -- [219]
-		"BattlePet-0-0000210D9D92", -- [220]
-		"BattlePet-0-00002130026C", -- [221]
-		"BattlePet-0-00000E0BBE22", -- [222]
-		"BattlePet-0-00000E0BBEB8", -- [223]
-		"BattlePet-0-00000E0BBE40", -- [224]
-		"BattlePet-0-000010125055", -- [225]
-		"BattlePet-0-00000E0BBE4F", -- [226]
-		"BattlePet-0-00000E0BBD4A", -- [227]
-		"BattlePet-0-00000E0BBF11", -- [228]
-		"BattlePet-0-0000210D9DBC", -- [229]
-		"BattlePet-0-00000E0BBD36", -- [230]
-		"BattlePet-0-00000E0BBDCF", -- [231]
-		"BattlePet-0-00002128F8C0", -- [232]
-		"BattlePet-0-0000210B5ED1", -- [233]
-		"BattlePet-0-00000E0BBF3B", -- [234]
-		"BattlePet-0-00000E0BBF40", -- [235]
-		"BattlePet-0-0000212E1296", -- [236]
-		"BattlePet-0-000021210DAA", -- [237]
-		"BattlePet-0-0000212E0F2F", -- [238]
-		"BattlePet-0-00000E0BBC8C", -- [239]
-		"BattlePet-0-000021520E7F", -- [240]
-		"BattlePet-0-00000E0BBDA7", -- [241]
-		"BattlePet-0-00000E0BBE30", -- [242]
-		"BattlePet-0-0000214CAF98", -- [243]
-		"BattlePet-0-00000E0BBEE5", -- [244]
-		"BattlePet-0-00002127E0D9", -- [245]
-		"BattlePet-0-00000E0BBDD6", -- [246]
-		"BattlePet-0-00000E0BBF20", -- [247]
-		"BattlePet-0-0000210D9DB6", -- [248]
-		"BattlePet-0-0000210D9DC5", -- [249]
-		"BattlePet-0-00000E0BBECD", -- [250]
-		"BattlePet-0-0000210B5BB2", -- [251]
-		"BattlePet-0-00000E0BBECB", -- [252]
-		"BattlePet-0-00000E0BBEB0", -- [253]
-		"BattlePet-0-00000E0BBE36", -- [254]
-		"BattlePet-0-00000E0BBECA", -- [255]
-		"BattlePet-0-00000E0BBEEF", -- [256]
-		"BattlePet-0-00000E0BBEF5", -- [257]
-		"BattlePet-0-00000E0BBEF7", -- [258]
-		"BattlePet-0-00000E0BBEB9", -- [259]
-		"BattlePet-0-00000E0BBCE4", -- [260]
-		"BattlePet-0-00000E0BBE32", -- [261]
-		"BattlePet-0-00002130C218", -- [262]
-		"BattlePet-0-0000214D009E", -- [263]
-		"BattlePet-0-00000E0BBCF4", -- [264]
-		"BattlePet-0-00002118AC5D", -- [265]
-		"BattlePet-0-0000214CAA3D", -- [266]
-		"BattlePet-0-0000214CB863", -- [267]
-		"BattlePet-0-00000E0BBD87", -- [268]
-		"BattlePet-0-00000E0BBC7F", -- [269]
-		"BattlePet-0-000021053332", -- [270]
-		"BattlePet-0-00000E0BBE62", -- [271]
-		"BattlePet-0-0000210D9DB8", -- [272]
-		"BattlePet-0-00000E0BBE63", -- [273]
-		"BattlePet-0-00000E0BBE5F", -- [274]
-		"BattlePet-0-00000E0BBDF9", -- [275]
-		"BattlePet-0-00000E0BBED6", -- [276]
-		"BattlePet-0-00002130E8A5", -- [277]
-		"BattlePet-0-00001012AEF6", -- [278]
-		"BattlePet-0-00000E0BBDA0", -- [279]
-		"BattlePet-0-00001041CD83", -- [280]
-		"BattlePet-0-00000E0BBF2E", -- [281]
-		"BattlePet-0-0000210533A4", -- [282]
-		"BattlePet-0-000021058276", -- [283]
-		"BattlePet-0-00000E0BBCBA", -- [284]
-		"BattlePet-0-00002134DD2E", -- [285]
-		"BattlePet-0-00000E0BBE84", -- [286]
-		"BattlePet-0-0000214CBA99", -- [287]
-		"BattlePet-0-00000E0BBDB4", -- [288]
-		"BattlePet-0-0000210B58A0", -- [289]
-		"BattlePet-0-0000210D9DBA", -- [290]
-		"BattlePet-0-00000E0BBCCF", -- [291]
-		"BattlePet-0-00000E0BBEC6", -- [292]
-		"BattlePet-0-00000E0BBF45", -- [293]
-		"BattlePet-0-00000E0BBDED", -- [294]
-		"BattlePet-0-00000E0BBE01", -- [295]
-		"BattlePet-0-00002128F8B1", -- [296]
-		"BattlePet-0-000021047395", -- [297]
-		"BattlePet-0-0000210F9607", -- [298]
-		"BattlePet-0-00000E0BBEBF", -- [299]
-		"BattlePet-0-00000E0BBF1B", -- [300]
-		"BattlePet-0-0000212070D4", -- [301]
-		"BattlePet-0-00000E0BBE4A", -- [302]
-		"BattlePet-0-00000E0BBDCB", -- [303]
-		"BattlePet-0-00000E0BBCC1", -- [304]
-		"BattlePet-0-00000E0BBED8", -- [305]
-		"BattlePet-0-000021065C9A", -- [306]
-		"BattlePet-0-00000E0BBCBF", -- [307]
-		"BattlePet-0-00000E0BBD1A", -- [308]
-		"BattlePet-0-00000E0BBDFE", -- [309]
-		"BattlePet-0-0000210D9D9F", -- [310]
-		"BattlePet-0-000020FD70AB", -- [311]
-		"BattlePet-0-00000E0BBF17", -- [312]
-		"BattlePet-0-00000E0BBDE5", -- [313]
-		"BattlePet-0-00000E0BBE80", -- [314]
-		"BattlePet-0-000021450B67", -- [315]
-		"BattlePet-0-00000E0BBED1", -- [316]
-		"BattlePet-0-00000E0BBF39", -- [317]
-		"BattlePet-0-00000E0BBEC2", -- [318]
-		"BattlePet-0-00000E0BBC90", -- [319]
-		"BattlePet-0-00000E0BBE66", -- [320]
-		"BattlePet-0-00000E0BBE6A", -- [321]
-		"BattlePet-0-000021686637", -- [322]
-		"BattlePet-0-0000210533A5", -- [323]
-		"BattlePet-0-00000E0BBF3F", -- [324]
-		"BattlePet-0-0000101269C8", -- [325]
-		"BattlePet-0-00000E0BBD18", -- [326]
-		"BattlePet-0-00000E0BBECC", -- [327]
-		"BattlePet-0-0000212F6EDA", -- [328]
-		"BattlePet-0-0000210D9DC7", -- [329]
-		"BattlePet-0-00000E0BBF18", -- [330]
-		"BattlePet-0-00002105827D", -- [331]
-		"BattlePet-0-00000E0BBE47", -- [332]
-		"BattlePet-0-00000E0BBD19", -- [333]
-		"BattlePet-0-000021154083", -- [334]
-		"BattlePet-0-00000E0BBEC0", -- [335]
-		"BattlePet-0-00000E0BBF3C", -- [336]
-		"BattlePet-0-00002166E989", -- [337]
-		"BattlePet-0-0000210CDF09", -- [338]
-		"BattlePet-0-00000E0BBEA1", -- [339]
-		"BattlePet-0-00000E0BBF14", -- [340]
-		"BattlePet-0-000010411FF3", -- [341]
-		"BattlePet-0-00000E0BBE82", -- [342]
-		"BattlePet-0-00002128F8DE", -- [343]
-		"BattlePet-0-0000210D9DBE", -- [344]
-		"BattlePet-0-00000E0BBE4C", -- [345]
-		"BattlePet-0-0000210533AB", -- [346]
-		"BattlePet-0-00000E0BBDA2", -- [347]
-		"BattlePet-0-00000E0BBE85", -- [348]
-		"BattlePet-0-00000E0BBE42", -- [349]
-		"BattlePet-0-00000E0BBF29", -- [350]
-		"BattlePet-0-00000E0BBCC8", -- [351]
-		"BattlePet-0-00000E0BBC9D", -- [352]
-		"BattlePet-0-00000E0BBF38", -- [353]
-		"BattlePet-0-00000E0BBDB1", -- [354]
-		"BattlePet-0-00000E0BBF01", -- [355]
-		"BattlePet-0-0000211353FD", -- [356]
-		"BattlePet-0-000021212B03", -- [357]
-		"BattlePet-0-00000E0BBF47", -- [358]
-		"BattlePet-0-00000E0BBF16", -- [359]
-		"BattlePet-0-00000E0BBD7F", -- [360]
-		"BattlePet-0-00000E0BBD61", -- [361]
-		"BattlePet-0-00000E0BBD70", -- [362]
-		"BattlePet-0-00000E0BBC9B", -- [363]
-		"BattlePet-0-00000E0BBC8B", -- [364]
-		"BattlePet-0-00000E0BBE5B", -- [365]
-		"BattlePet-0-0000210533A8", -- [366]
-		"BattlePet-0-0000214D009F", -- [367]
-		"BattlePet-0-00000E0BBF19", -- [368]
-		"BattlePet-0-00000E0BBDC2", -- [369]
-		"BattlePet-0-00000E956926", -- [370]
-		"BattlePet-0-00000E0BBE6C", -- [371]
-		"BattlePet-0-00000E0BBE69", -- [372]
-		"BattlePet-0-00000E0BBECF", -- [373]
-		"BattlePet-0-00000E0BBC8F", -- [374]
-		"BattlePet-0-00000E0BBDAA", -- [375]
-		"BattlePet-0-00000E0BBDA3", -- [376]
-		"BattlePet-0-00000E0BBF3A", -- [377]
-		"BattlePet-0-00000E0BBE29", -- [378]
-		"BattlePet-0-00000E0BBE5D", -- [379]
-		"BattlePet-0-00002168567D", -- [380]
-		"BattlePet-0-0000210701A7", -- [381]
-		"BattlePet-0-00000E0BBD33", -- [382]
-		"BattlePet-0-00002128F8E3", -- [383]
-		"BattlePet-0-00000E0BBD57", -- [384]
-		"BattlePet-0-00000E0BBDD2", -- [385]
-		"BattlePet-0-00000E0BBE45", -- [386]
-		"BattlePet-0-0000210D9DC2", -- [387]
-		"BattlePet-0-00000E0BBCB0", -- [388]
-		"BattlePet-0-00000E0BBEC4", -- [389]
-		"BattlePet-0-00000E0BBE88", -- [390]
-		"BattlePet-0-00000E0BBE23", -- [391]
-		"BattlePet-0-00002110453E", -- [392]
-		"BattlePet-0-0000210D9DA6", -- [393]
-		"BattlePet-0-00002105826E", -- [394]
-		"BattlePet-0-00000E0BBEA3", -- [395]
-		"BattlePet-0-00000E0BBCA1", -- [396]
-		"BattlePet-0-0000210C77F3", -- [397]
-		"BattlePet-0-00000E0BBCA6", -- [398]
-		"BattlePet-0-00000E0BBC91", -- [399]
-		"BattlePet-0-00002128F8CB", -- [400]
-		"BattlePet-0-00000E0BBF15", -- [401]
-		"BattlePet-0-00000E0BBCB3", -- [402]
-		"BattlePet-0-00000E0BBD3C", -- [403]
-		"BattlePet-0-00000E0BBE65", -- [404]
-		"BattlePet-0-00000E0BBC92", -- [405]
-		"BattlePet-0-00000E0BBCD4", -- [406]
-		"BattlePet-0-000021034280", -- [407]
-		"BattlePet-0-0000210D9DB2", -- [408]
-		"BattlePet-0-00000E0BBD40", -- [409]
-		"BattlePet-0-00000E0BBD3D", -- [410]
-		"BattlePet-0-00000E0BBDBC", -- [411]
-		"BattlePet-0-00000E0BBC87", -- [412]
-		"BattlePet-0-00000E0BBDA8", -- [413]
-		"BattlePet-0-00000E0BBDC0", -- [414]
-		"BattlePet-0-00000E0BBD66", -- [415]
-		"BattlePet-0-00000E0BBD7C", -- [416]
-		"BattlePet-0-00000E0BBEA0", -- [417]
-		"BattlePet-0-00000E0BBD64", -- [418]
-		"BattlePet-0-00000E0BBE11", -- [419]
-		"BattlePet-0-00000E0BBE17", -- [420]
-		"BattlePet-0-00000E0BBD7D", -- [421]
-		"BattlePet-0-00000E0BBD7B", -- [422]
-		"BattlePet-0-00000E0BBD2D", -- [423]
-		"BattlePet-0-00000E0BBDAF", -- [424]
-		"BattlePet-0-00000E0BBE71", -- [425]
-		"BattlePet-0-00000E0BBE7D", -- [426]
-		"BattlePet-0-00000E0BBE83", -- [427]
-		"BattlePet-0-00000E0BBE75", -- [428]
-		"BattlePet-0-00000E0BBD1D", -- [429]
-		"BattlePet-0-00000E0BBE43", -- [430]
-		"BattlePet-0-00000E0BBE2A", -- [431]
-		"BattlePet-0-00000E0BBD93", -- [432]
-		"BattlePet-0-00000E0BBDC5", -- [433]
-		"BattlePet-0-00000E0BBE13", -- [434]
-		"BattlePet-0-00000E0BBE10", -- [435]
-		"BattlePet-0-00000E0BBD8C", -- [436]
-		"BattlePet-0-00000E0BBD7E", -- [437]
-		"BattlePet-0-00000E0BBE3C", -- [438]
-		"BattlePet-0-00000E0BBD84", -- [439]
-		"BattlePet-0-00000E0BBCFC", -- [440]
-		"BattlePet-0-00000E0BBE39", -- [441]
-		"BattlePet-0-00000E0BBE58", -- [442]
-		"BattlePet-0-00000E0BBD5B", -- [443]
-		"BattlePet-0-00000E0BBE26", -- [444]
-		"BattlePet-0-00000E0BBE3E", -- [445]
-		"BattlePet-0-00000E0BBE12", -- [446]
-		"BattlePet-0-00000E0BBE1E", -- [447]
-		"BattlePet-0-00000E0BBD79", -- [448]
-		"BattlePet-0-00000E0BBE41", -- [449]
-		"BattlePet-0-00000E0BBDA9", -- [450]
-		"BattlePet-0-00000E0BBD01", -- [451]
-		"BattlePet-0-00000E0BBE77", -- [452]
-		"BattlePet-0-00000E0BBD76", -- [453]
-		"BattlePet-0-00000E0BBDBD", -- [454]
-		"BattlePet-0-00000E0BBD20", -- [455]
-		"BattlePet-0-00000E0BBE70", -- [456]
-		"BattlePet-0-00000E0BBD83", -- [457]
-		"BattlePet-0-00000E0BBD62", -- [458]
-		"BattlePet-0-00000E0BBDB5", -- [459]
-		"BattlePet-0-00000E0BBE31", -- [460]
-		"BattlePet-0-00000E0BBD37", -- [461]
-		"BattlePet-0-00000E0BBD88", -- [462]
-		"BattlePet-0-00000E0BBE8D", -- [463]
-		"BattlePet-0-00000E0BBD67", -- [464]
-		"BattlePet-0-000021153E22", -- [465]
-		"BattlePet-0-00000E8245F7", -- [466]
-		"BattlePet-0-000021154082", -- [467]
-		"BattlePet-0-000021153BA8", -- [468]
-		"BattlePet-0-000021147756", -- [469]
-		"BattlePet-0-000021152F0A", -- [470]
-		"BattlePet-0-00000E762BF6", -- [471]
-		"BattlePet-0-00000E6C2894", -- [472]
-		"BattlePet-0-00000E6C24FA", -- [473]
-		"BattlePet-0-000021153C7F", -- [474]
-		"BattlePet-0-0000210BE6DA", -- [475]
-		"BattlePet-0-00000E0BBE96", -- [476]
-		"BattlePet-0-00002114762B", -- [477]
-		"BattlePet-0-00000E0BBEF6", -- [478]
-		"BattlePet-0-000021153CF9", -- [479]
-		"BattlePet-0-00000E0BBD81", -- [480]
-		"BattlePet-0-00000E0BBE8E", -- [481]
-		"BattlePet-0-00000E0BBE9D", -- [482]
-		"BattlePet-0-00000E0BBF24", -- [483]
-		"BattlePet-0-00000E0BBEFC", -- [484]
-		"BattlePet-0-00000E0BBEF0", -- [485]
-		"BattlePet-0-00000E0BBE8C", -- [486]
-		"BattlePet-0-0000210BE800", -- [487]
-		"BattlePet-0-00000E7AF086", -- [488]
-		"BattlePet-0-00000E0BBD28", -- [489]
-		"BattlePet-0-00000E0BBF25", -- [490]
-		"BattlePet-0-00000E0BBF03", -- [491]
-		"BattlePet-0-00000E0BBE9F", -- [492]
-		"BattlePet-0-00000E0BBEDE", -- [493]
-		"BattlePet-0-000021065C41", -- [494]
-		"BattlePet-0-00000E0BBF2A", -- [495]
-		"BattlePet-0-00000E7AEFC3", -- [496]
-		"BattlePet-0-00000E0BBF28", -- [497]
-		"BattlePet-0-00000E0BBF0B", -- [498]
-		"BattlePet-0-00000E0BBD1F", -- [499]
-		"BattlePet-0-000021153EA8", -- [500]
-		"BattlePet-0-0000216A45C2", -- [501]
-		"BattlePet-0-000021241BBB", -- [502]
-		"BattlePet-0-000021153FDF", -- [503]
-		"BattlePet-0-00000E0BBE81", -- [504]
-		"BattlePet-0-00000E0BBD2C", -- [505]
-		"BattlePet-0-00000E0BBF02", -- [506]
-		"BattlePet-0-00000E0BBE99", -- [507]
-		"BattlePet-0-000021152E51", -- [508]
-		"BattlePet-0-00000E0BBEC5", -- [509]
-		"BattlePet-0-00000E0BBE97", -- [510]
-		"BattlePet-0-00000E0BBF0C", -- [511]
-		"BattlePet-0-00002115302C", -- [512]
-		"BattlePet-0-00000E0BBE07", -- [513]
-		"BattlePet-0-00000E7AF511", -- [514]
-		"BattlePet-0-00000E0BBE05", -- [515]
-		"BattlePet-0-00000E0BBE94", -- [516]
-		"BattlePet-0-0000210C13D1", -- [517]
-		"BattlePet-0-0000210D9D91", -- [518]
-		"BattlePet-0-0000216F1311", -- [519]
-		"BattlePet-0-000021723487", -- [520]
-		"BattlePet-0-000021758E4A", -- [521]
+		"BattlePet-0-00000E0BBE59", -- [1]
+		"BattlePet-0-00000E0BBCAB", -- [2]
+		"BattlePet-0-00000E0BBC98", -- [3]
+		"BattlePet-0-00000E7EBB27", -- [4]
+		"BattlePet-0-00000E0BBC80", -- [5]
+		"BattlePet-0-00000E0BBCB5", -- [6]
+		"BattlePet-0-0000211617CD", -- [7]
+		"BattlePet-0-00000E0BBC7D", -- [8]
+		"BattlePet-0-0000210C7736", -- [9]
+		"BattlePet-0-00000E0BBE6B", -- [10]
+		"BattlePet-0-00000E0BBE46", -- [11]
+		"BattlePet-0-00000E0BBCCD", -- [12]
+		"BattlePet-0-00000E0BBC97", -- [13]
+		"BattlePet-0-0000210B5B47", -- [14]
+		"BattlePet-0-00000E0BBDCC", -- [15]
+		"BattlePet-0-0000211A4F2A", -- [16]
+		"BattlePet-0-00000E0BBD9D", -- [17]
+		"BattlePet-0-00000E0BBCB4", -- [18]
+		"BattlePet-0-00000E0BBE60", -- [19]
+		"BattlePet-0-00000E0BBC8D", -- [20]
+		"BattlePet-0-00000E0BBCCB", -- [21]
+		"BattlePet-0-0000210B713E", -- [22]
+		"BattlePet-0-00000E0BBC9F", -- [23]
+		"BattlePet-0-00000E0BBC7A", -- [24]
+		"BattlePet-0-00000E0BBE24", -- [25]
+		"BattlePet-0-00000E0BBD71", -- [26]
+		"BattlePet-0-00000E0BBD98", -- [27]
+		"BattlePet-0-00000E0BBCF2", -- [28]
+		"BattlePet-0-00000E0BBD9E", -- [29]
+		"BattlePet-0-00000E0BBCFE", -- [30]
+		"BattlePet-0-00000E0BBE0F", -- [31]
+		"BattlePet-0-00000E0BBE0D", -- [32]
+		"BattlePet-0-00000E0BBC71", -- [33]
+		"BattlePet-0-00000E0BBCF1", -- [34]
+		"BattlePet-0-00000E0BBD9B", -- [35]
+		"BattlePet-0-00000E0BBC83", -- [36]
+		"BattlePet-0-00000E0BBCFD", -- [37]
+		"BattlePet-0-00000E0BBCEC", -- [38]
+		"BattlePet-0-00000E0BBCCA", -- [39]
+		"BattlePet-0-00000E0BBCD7", -- [40]
+		"BattlePet-0-00000E0BBE1F", -- [41]
+		"BattlePet-0-00000E0BBC95", -- [42]
+		"BattlePet-0-00000E0BBF43", -- [43]
+		"BattlePet-0-00000E0BBEA4", -- [44]
+		"BattlePet-0-00000E0BBCE0", -- [45]
+		"BattlePet-0-00000E0BBC6C", -- [46]
+		"BattlePet-0-00000E0BBC82", -- [47]
+		"BattlePet-0-00000E0BBC64", -- [48]
+		"BattlePet-0-00000E0BBE21", -- [49]
+		"BattlePet-0-00000E0BBDA5", -- [50]
+		"BattlePet-0-00000E0BBD55", -- [51]
+		"BattlePet-0-00000E0BBE1A", -- [52]
+		"BattlePet-0-00000E0BBC75", -- [53]
+		"BattlePet-0-00000E0BBD16", -- [54]
+		"BattlePet-0-00000E0BBC85", -- [55]
+		"BattlePet-0-00000E0BBD4D", -- [56]
+		"BattlePet-0-00000E0BBD75", -- [57]
+		"BattlePet-0-00000E0BBD8D", -- [58]
+		"BattlePet-0-00000E0BBCD8", -- [59]
+		"BattlePet-0-00000E0BBCEB", -- [60]
+		"BattlePet-0-00000E0BBE0B", -- [61]
+		"BattlePet-0-00000E0BBE14", -- [62]
+		"BattlePet-0-00000E0BBCE2", -- [63]
+		"BattlePet-0-00000E0BBCCC", -- [64]
+		"BattlePet-0-00000E0BBD78", -- [65]
+		"BattlePet-0-00000E0BBE25", -- [66]
+		"BattlePet-0-00000E0BBE0A", -- [67]
+		"BattlePet-0-00000E0BBD54", -- [68]
+		"BattlePet-0-00000E0BBD5A", -- [69]
+		"BattlePet-0-00000E0BBCDC", -- [70]
+		"BattlePet-0-00000E0BBC77", -- [71]
+		"BattlePet-0-00000E0BBE20", -- [72]
+		"BattlePet-0-00000E0BBDC7", -- [73]
+		"BattlePet-0-00000E0BBDDA", -- [74]
+		"BattlePet-0-00000E0BBCDF", -- [75]
+		"BattlePet-0-00000E0BBC6E", -- [76]
+		"BattlePet-0-00000E0BBC84", -- [77]
+		"BattlePet-0-00000E0BBD6D", -- [78]
+		"BattlePet-0-00000E0BBCD6", -- [79]
+		"BattlePet-0-00000E95E15C", -- [80]
+		"BattlePet-0-000010411FF1", -- [81]
+		"BattlePet-0-00000E0BBE64", -- [82]
+		"BattlePet-0-00000E0BBCD0", -- [83]
+		"BattlePet-0-000021137877", -- [84]
+		"BattlePet-0-00000E0BBD69", -- [85]
+		"BattlePet-0-00000E0BBEBB", -- [86]
+		"BattlePet-0-00000E0BBCF0", -- [87]
+		"BattlePet-0-00000E0BBE08", -- [88]
+		"BattlePet-0-00000E0BBD77", -- [89]
+		"BattlePet-0-00000E0BBD7A", -- [90]
+		"BattlePet-0-00000E0BBE1B", -- [91]
+		"BattlePet-0-00000E0BBC66", -- [92]
+		"BattlePet-0-00000E0BBE68", -- [93]
+		"BattlePet-0-00000E0BBF2D", -- [94]
+		"BattlePet-0-00000E0BBF1A", -- [95]
+		"BattlePet-0-00000E0BBC7E", -- [96]
+		"BattlePet-0-00000E0BBD6C", -- [97]
+		"BattlePet-0-00000E0BBDE4", -- [98]
+		"BattlePet-0-00000E0BBCD9", -- [99]
+		"BattlePet-0-00002105339F", -- [100]
+		"BattlePet-0-000021058271", -- [101]
+		"BattlePet-0-0000210D9D94", -- [102]
+		"BattlePet-0-00000E0BBCAC", -- [103]
+		"BattlePet-0-00000E0BBDD4", -- [104]
+		"BattlePet-0-00000E0BBD68", -- [105]
+		"BattlePet-0-00000E0BBD89", -- [106]
+		"BattlePet-0-00000E6B38DE", -- [107]
+		"BattlePet-0-00000E0BBD48", -- [108]
+		"BattlePet-0-00000E0BBD5F", -- [109]
+		"BattlePet-0-00000E0BBF1E", -- [110]
+		"BattlePet-0-00000E0BBDDC", -- [111]
+		"BattlePet-0-00000E0BBE89", -- [112]
+		"BattlePet-0-00000E0BBC68", -- [113]
+		"BattlePet-0-0000210D9D96", -- [114]
+		"BattlePet-0-00000E6C5D2A", -- [115]
+		"BattlePet-0-00000E0BBDDD", -- [116]
+		"BattlePet-0-00000E0BBD50", -- [117]
+		"BattlePet-0-00000E0BBE52", -- [118]
+		"BattlePet-0-00000E0BBCB2", -- [119]
+		"BattlePet-0-00000E0BBC76", -- [120]
+		"BattlePet-0-00000E0BBCBD", -- [121]
+		"BattlePet-0-00000E0BBDE1", -- [122]
+		"BattlePet-0-00000E0BBCBE", -- [123]
+		"BattlePet-0-00000E0BBCFF", -- [124]
+		"BattlePet-0-00000E0BBDEB", -- [125]
+		"BattlePet-0-0000210658F7", -- [126]
+		"BattlePet-0-00000E0BBDF8", -- [127]
+		"BattlePet-0-00000E0BBF12", -- [128]
+		"BattlePet-0-000021142BBF", -- [129]
+		"BattlePet-0-00000E0BBE0E", -- [130]
+		"BattlePet-0-00000E0BBD6B", -- [131]
+		"BattlePet-0-00000E0BBCB7", -- [132]
+		"BattlePet-0-00000E0BBE2E", -- [133]
+		"BattlePet-0-00000E0BBDFB", -- [134]
+		"BattlePet-0-00000E0BBCED", -- [135]
+		"BattlePet-0-00000E0BBC74", -- [136]
+		"BattlePet-0-00000E0BBD86", -- [137]
+		"BattlePet-0-00000E0BBDFC", -- [138]
+		"BattlePet-0-00000E0BBD9C", -- [139]
+		"BattlePet-0-00000E0BBD4B", -- [140]
+		"BattlePet-0-0000211353F6", -- [141]
+		"BattlePet-0-00000E0BBCEA", -- [142]
+		"BattlePet-0-00000E0BBD72", -- [143]
+		"BattlePet-0-00000E0BBD96", -- [144]
+		"BattlePet-0-00000E0BBE5C", -- [145]
+		"BattlePet-0-00000E0BBF2F", -- [146]
+		"BattlePet-0-00000E0BBC7C", -- [147]
+		"BattlePet-0-00000E0BBCDA", -- [148]
+		"BattlePet-0-00000E0BBD6E", -- [149]
+		"BattlePet-0-00000E0BBC93", -- [150]
+		"BattlePet-0-000021190A01", -- [151]
+		"BattlePet-0-00000E0BBD4C", -- [152]
+		"BattlePet-0-00000E0BBD74", -- [153]
+		"BattlePet-0-00000E0BBD8A", -- [154]
+		"BattlePet-0-00000E0BBCEF", -- [155]
+		"BattlePet-0-00000E0BBC9E", -- [156]
+		"BattlePet-0-00000E0BBC89", -- [157]
+		"BattlePet-0-00000E0BBD80", -- [158]
+		"BattlePet-0-00000E0BBD99", -- [159]
+		"BattlePet-0-00000E0BBD94", -- [160]
+		"BattlePet-0-00000E0BBE0C", -- [161]
+		"BattlePet-0-00000E0BBF44", -- [162]
+		"BattlePet-0-0000210C1874", -- [163]
+		"BattlePet-0-00000E0BBF42", -- [164]
+		"BattlePet-0-00000E0BBC72", -- [165]
+		"BattlePet-0-00000E0BBD29", -- [166]
+		"BattlePet-0-00000E0BBD30", -- [167]
+		"BattlePet-0-00000E0BBE2F", -- [168]
+		"BattlePet-0-0000213327E8", -- [169]
+		"BattlePet-0-00000E0BBE38", -- [170]
+		"BattlePet-0-00000E0BBCA3", -- [171]
+		"BattlePet-0-00000E0BBD0B", -- [172]
+		"BattlePet-0-00002119EA83", -- [173]
+		"BattlePet-0-0000211C0FC6", -- [174]
+		"BattlePet-0-00000E0BBEC1", -- [175]
+		"BattlePet-0-00000E0BBD5C", -- [176]
+		"BattlePet-0-00000E0BBC8E", -- [177]
+		"BattlePet-0-000013A04662", -- [178]
+		"BattlePet-0-00000E0BBE33", -- [179]
+		"BattlePet-0-0000214CA6C8", -- [180]
+		"BattlePet-0-0000216F1311", -- [181]
+		"BattlePet-0-0000212E5409", -- [182]
+		"BattlePet-0-0000214CB1B2", -- [183]
+		"BattlePet-0-000021787264", -- [184]
+		"BattlePet-0-00000E0BBDC3", -- [185]
+		"BattlePet-0-000021211699", -- [186]
+		"BattlePet-0-00002128F8B6", -- [187]
+		"BattlePet-0-0000210D9D98", -- [188]
+		"BattlePet-0-0000214C5B6A", -- [189]
+		"BattlePet-0-0000214CB95A", -- [190]
+		"BattlePet-0-000021758E4A", -- [191]
+		"BattlePet-0-0000210D9DC9", -- [192]
+		"BattlePet-0-00002128F8D6", -- [193]
+		"BattlePet-0-00000E0BBD63", -- [194]
+		"BattlePet-0-0000214E9CE5", -- [195]
+		"BattlePet-0-0000210533A3", -- [196]
+		"BattlePet-0-0000210D9D92", -- [197]
+		"BattlePet-0-00002130026C", -- [198]
+		"BattlePet-0-00000E0BBE22", -- [199]
+		"BattlePet-0-00000E0BBEB8", -- [200]
+		"BattlePet-0-00000E0BBE40", -- [201]
+		"BattlePet-0-000010125055", -- [202]
+		"BattlePet-0-00000E0BBE4F", -- [203]
+		"BattlePet-0-00000E0BBD4A", -- [204]
+		"BattlePet-0-00000E0BBF11", -- [205]
+		"BattlePet-0-0000210D9DBC", -- [206]
+		"BattlePet-0-00000E0BBD36", -- [207]
+		"BattlePet-0-00000E0BBDCF", -- [208]
+		"BattlePet-0-00002128F8C0", -- [209]
+		"BattlePet-0-0000210B5ED1", -- [210]
+		"BattlePet-0-00000E0BBF3B", -- [211]
+		"BattlePet-0-00000E0BBF40", -- [212]
+		"BattlePet-0-0000212E1296", -- [213]
+		"BattlePet-0-000021210DAA", -- [214]
+		"BattlePet-0-0000212E0F2F", -- [215]
+		"BattlePet-0-00000E0BBC8C", -- [216]
+		"BattlePet-0-000021520E7F", -- [217]
+		"BattlePet-0-00000E0BBDA7", -- [218]
+		"BattlePet-0-00000E0BBE30", -- [219]
+		"BattlePet-0-0000214CAF98", -- [220]
+		"BattlePet-0-00000E0BBEE5", -- [221]
+		"BattlePet-0-00002127E0D9", -- [222]
+		"BattlePet-0-00000E0BBDD6", -- [223]
+		"BattlePet-0-00000E0BBF20", -- [224]
+		"BattlePet-0-0000210D9DB6", -- [225]
+		"BattlePet-0-0000210D9DC5", -- [226]
+		"BattlePet-0-00000E0BBECD", -- [227]
+		"BattlePet-0-0000210B5BB2", -- [228]
+		"BattlePet-0-00000E0BBECB", -- [229]
+		"BattlePet-0-00000E0BBEB0", -- [230]
+		"BattlePet-0-00000E0BBE36", -- [231]
+		"BattlePet-0-00000E0BBECA", -- [232]
+		"BattlePet-0-00000E0BBEEF", -- [233]
+		"BattlePet-0-00000E0BBEF5", -- [234]
+		"BattlePet-0-00000E0BBEF7", -- [235]
+		"BattlePet-0-00000E0BBEB9", -- [236]
+		"BattlePet-0-00000E0BBCE4", -- [237]
+		"BattlePet-0-00000E0BBE32", -- [238]
+		"BattlePet-0-00002130C218", -- [239]
+		"BattlePet-0-0000214D009E", -- [240]
+		"BattlePet-0-00000E0BBCF4", -- [241]
+		"BattlePet-0-00002118AC5D", -- [242]
+		"BattlePet-0-0000214CAA3D", -- [243]
+		"BattlePet-0-0000214CB863", -- [244]
+		"BattlePet-0-00000E0BBD87", -- [245]
+		"BattlePet-0-00000E0BBC7F", -- [246]
+		"BattlePet-0-000021053332", -- [247]
+		"BattlePet-0-00000E0BBE62", -- [248]
+		"BattlePet-0-0000210D9DB8", -- [249]
+		"BattlePet-0-00000E0BBE63", -- [250]
+		"BattlePet-0-00002177DB12", -- [251]
+		"BattlePet-0-00000E0BBE5F", -- [252]
+		"BattlePet-0-00000E0BBDF9", -- [253]
+		"BattlePet-0-00000E0BBED6", -- [254]
+		"BattlePet-0-00002130E8A5", -- [255]
+		"BattlePet-0-00001012AEF6", -- [256]
+		"BattlePet-0-00000E0BBDA0", -- [257]
+		"BattlePet-0-00001041CD83", -- [258]
+		"BattlePet-0-00000E0BBF2E", -- [259]
+		"BattlePet-0-0000210533A4", -- [260]
+		"BattlePet-0-000021058276", -- [261]
+		"BattlePet-0-00000E0BBCBA", -- [262]
+		"BattlePet-0-00002134DD2E", -- [263]
+		"BattlePet-0-00000E0BBE84", -- [264]
+		"BattlePet-0-0000214CBA99", -- [265]
+		"BattlePet-0-00000E0BBDB4", -- [266]
+		"BattlePet-0-0000210B58A0", -- [267]
+		"BattlePet-0-0000210D9DBA", -- [268]
+		"BattlePet-0-00000E0BBCCF", -- [269]
+		"BattlePet-0-00000E0BBEC6", -- [270]
+		"BattlePet-0-00000E0BBF45", -- [271]
+		"BattlePet-0-00000E0BBDED", -- [272]
+		"BattlePet-0-00000E0BBE01", -- [273]
+		"BattlePet-0-00002128F8B1", -- [274]
+		"BattlePet-0-000021047395", -- [275]
+		"BattlePet-0-0000210F9607", -- [276]
+		"BattlePet-0-00000E0BBEBF", -- [277]
+		"BattlePet-0-00000E0BBF1B", -- [278]
+		"BattlePet-0-0000212070D4", -- [279]
+		"BattlePet-0-00000E0BBE4A", -- [280]
+		"BattlePet-0-00000E0BBDCB", -- [281]
+		"BattlePet-0-00002177DB13", -- [282]
+		"BattlePet-0-00000E0BBCC1", -- [283]
+		"BattlePet-0-00000E0BBED8", -- [284]
+		"BattlePet-0-000021065C9A", -- [285]
+		"BattlePet-0-00000E0BBCBF", -- [286]
+		"BattlePet-0-00000E0BBD1A", -- [287]
+		"BattlePet-0-00000E0BBDFE", -- [288]
+		"BattlePet-0-0000210D9D9F", -- [289]
+		"BattlePet-0-000020FD70AB", -- [290]
+		"BattlePet-0-00000E0BBF17", -- [291]
+		"BattlePet-0-00000E0BBDE5", -- [292]
+		"BattlePet-0-00000E0BBE80", -- [293]
+		"BattlePet-0-000021450B67", -- [294]
+		"BattlePet-0-00000E0BBED1", -- [295]
+		"BattlePet-0-00000E0BBF39", -- [296]
+		"BattlePet-0-00000E0BBEC2", -- [297]
+		"BattlePet-0-00000E0BBC90", -- [298]
+		"BattlePet-0-00000E0BBE66", -- [299]
+		"BattlePet-0-00000E0BBE6A", -- [300]
+		"BattlePet-0-000021686637", -- [301]
+		"BattlePet-0-0000210533A5", -- [302]
+		"BattlePet-0-00000E0BBF3F", -- [303]
+		"BattlePet-0-0000101269C8", -- [304]
+		"BattlePet-0-00000E0BBD18", -- [305]
+		"BattlePet-0-00000E0BBECC", -- [306]
+		"BattlePet-0-0000212F6EDA", -- [307]
+		"BattlePet-0-0000210D9DC7", -- [308]
+		"BattlePet-0-00000E0BBF18", -- [309]
+		"BattlePet-0-00002105827D", -- [310]
+		"BattlePet-0-00000E0BBE47", -- [311]
+		"BattlePet-0-00000E0BBD19", -- [312]
+		"BattlePet-0-000021154083", -- [313]
+		"BattlePet-0-00000E0BBEC0", -- [314]
+		"BattlePet-0-00000E0BBF3C", -- [315]
+		"BattlePet-0-00002166E989", -- [316]
+		"BattlePet-0-0000210CDF09", -- [317]
+		"BattlePet-0-00000E0BBEA1", -- [318]
+		"BattlePet-0-00000E0BBF14", -- [319]
+		"BattlePet-0-000010411FF3", -- [320]
+		"BattlePet-0-00000E0BBE82", -- [321]
+		"BattlePet-0-00002128F8DE", -- [322]
+		"BattlePet-0-0000210D9DBE", -- [323]
+		"BattlePet-0-00000E0BBE4C", -- [324]
+		"BattlePet-0-0000210533AB", -- [325]
+		"BattlePet-0-00000E0BBDA2", -- [326]
+		"BattlePet-0-00000E0BBE85", -- [327]
+		"BattlePet-0-00000E0BBE42", -- [328]
+		"BattlePet-0-00000E0BBF29", -- [329]
+		"BattlePet-0-00000E0BBCC8", -- [330]
+		"BattlePet-0-00000E0BBC9D", -- [331]
+		"BattlePet-0-00000E0BBF38", -- [332]
+		"BattlePet-0-00000E0BBDB1", -- [333]
+		"BattlePet-0-00000E0BBF01", -- [334]
+		"BattlePet-0-0000211353FD", -- [335]
+		"BattlePet-0-000021212B03", -- [336]
+		"BattlePet-0-00000E0BBF47", -- [337]
+		"BattlePet-0-00000E0BBF16", -- [338]
+		"BattlePet-0-00000E0BBD7F", -- [339]
+		"BattlePet-0-0000218C8213", -- [340]
+		"BattlePet-0-00000E0BBD61", -- [341]
+		"BattlePet-0-00000E0BBD70", -- [342]
+		"BattlePet-0-0000218CF62F", -- [343]
+		"BattlePet-0-00000E0BBC9B", -- [344]
+		"BattlePet-0-00000E0BBC8B", -- [345]
+		"BattlePet-0-00000E0BBE5B", -- [346]
+		"BattlePet-0-0000210533A8", -- [347]
+		"BattlePet-0-0000214D009F", -- [348]
+		"BattlePet-0-00000E0BBF19", -- [349]
+		"BattlePet-0-00000E0BBDC2", -- [350]
+		"BattlePet-0-00000E956926", -- [351]
+		"BattlePet-0-00000E0BBE6C", -- [352]
+		"BattlePet-0-00000E0BBE69", -- [353]
+		"BattlePet-0-00000E0BBECF", -- [354]
+		"BattlePet-0-00000E0BBC8F", -- [355]
+		"BattlePet-0-00000E0BBDAA", -- [356]
+		"BattlePet-0-00000E0BBDA3", -- [357]
+		"BattlePet-0-00000E0BBF3A", -- [358]
+		"BattlePet-0-00000E0BBE29", -- [359]
+		"BattlePet-0-00000E0BBE5D", -- [360]
+		"BattlePet-0-000021723487", -- [361]
+		"BattlePet-0-00002168567D", -- [362]
+		"BattlePet-0-0000210701A7", -- [363]
+		"BattlePet-0-00000E0BBD33", -- [364]
+		"BattlePet-0-00002128F8E3", -- [365]
+		"BattlePet-0-00000E0BBD57", -- [366]
+		"BattlePet-0-00000E0BBDD2", -- [367]
+		"BattlePet-0-00000E0BBE45", -- [368]
+		"BattlePet-0-0000210D9DC2", -- [369]
+		"BattlePet-0-00000E0BBCB0", -- [370]
+		"BattlePet-0-00000E0BBEC4", -- [371]
+		"BattlePet-0-00000E0BBE88", -- [372]
+		"BattlePet-0-00000E0BBE23", -- [373]
+		"BattlePet-0-00002110453E", -- [374]
+		"BattlePet-0-0000210D9DA6", -- [375]
+		"BattlePet-0-00002105826E", -- [376]
+		"BattlePet-0-00000E0BBEA3", -- [377]
+		"BattlePet-0-00000E0BBCA1", -- [378]
+		"BattlePet-0-0000210C77F3", -- [379]
+		"BattlePet-0-00000E0BBCA6", -- [380]
+		"BattlePet-0-00000E0BBC91", -- [381]
+		"BattlePet-0-00002128F8CB", -- [382]
+		"BattlePet-0-00000E0BBF15", -- [383]
+		"BattlePet-0-00000E0BBCB3", -- [384]
+		"BattlePet-0-00000E0BBD3C", -- [385]
+		"BattlePet-0-00000E0BBE65", -- [386]
+		"BattlePet-0-00000E0BBC92", -- [387]
+		"BattlePet-0-00000E0BBCD4", -- [388]
+		"BattlePet-0-000021034280", -- [389]
+		"BattlePet-0-0000210D9DB2", -- [390]
+		"BattlePet-0-00000E0BBD40", -- [391]
+		"BattlePet-0-00000E0BBD3D", -- [392]
+		"BattlePet-0-00000E0BBDBC", -- [393]
+		"BattlePet-0-00000E0BBC87", -- [394]
+		"BattlePet-0-00000E0BBDA8", -- [395]
+		"BattlePet-0-00000E0BBCBB", -- [396]
+		"BattlePet-0-00000E0BBDC0", -- [397]
+		"BattlePet-0-00000E0BBD66", -- [398]
+		"BattlePet-0-00000E0BBD7C", -- [399]
+		"BattlePet-0-00000E0BBEA0", -- [400]
+		"BattlePet-0-00000E0BBD64", -- [401]
+		"BattlePet-0-00000E0BBE11", -- [402]
+		"BattlePet-0-00000E0BBE17", -- [403]
+		"BattlePet-0-00000E0BBD7D", -- [404]
+		"BattlePet-0-00000E0BBD7B", -- [405]
+		"BattlePet-0-00000E0BBD2D", -- [406]
+		"BattlePet-0-00000E0BBDAF", -- [407]
+		"BattlePet-0-00000E0BBE71", -- [408]
+		"BattlePet-0-00000E0BBE7D", -- [409]
+		"BattlePet-0-00000E0BBE83", -- [410]
+		"BattlePet-0-00000E0BBE75", -- [411]
+		"BattlePet-0-00000E0BBD1D", -- [412]
+		"BattlePet-0-00000E0BBE43", -- [413]
+		"BattlePet-0-00000E0BBE2A", -- [414]
+		"BattlePet-0-00000E0BBD93", -- [415]
+		"BattlePet-0-00000E0BBDC5", -- [416]
+		"BattlePet-0-00000E0BBE13", -- [417]
+		"BattlePet-0-00000E0BBE10", -- [418]
+		"BattlePet-0-00000E0BBEA5", -- [419]
+		"BattlePet-0-00000E7184B7", -- [420]
+		"BattlePet-0-00000E0BBD8C", -- [421]
+		"BattlePet-0-00000E0BBD7E", -- [422]
+		"BattlePet-0-00000E0BBE3C", -- [423]
+		"BattlePet-0-00000E0BBD84", -- [424]
+		"BattlePet-0-00000E0BBCFC", -- [425]
+		"BattlePet-0-00000E0BBE39", -- [426]
+		"BattlePet-0-00000E0BBE58", -- [427]
+		"BattlePet-0-00000E0BBD5B", -- [428]
+		"BattlePet-0-00000E0BBE26", -- [429]
+		"BattlePet-0-00000E0BBE3E", -- [430]
+		"BattlePet-0-00000E0BBE12", -- [431]
+		"BattlePet-0-00000E0BBE1E", -- [432]
+		"BattlePet-0-00000E0BBD79", -- [433]
+		"BattlePet-0-00000E0BBE41", -- [434]
+		"BattlePet-0-00000E0BBDA9", -- [435]
+		"BattlePet-0-00000E0BBD01", -- [436]
+		"BattlePet-0-00000E0BBE77", -- [437]
+		"BattlePet-0-00000E0BBD76", -- [438]
+		"BattlePet-0-00000E0BBDBD", -- [439]
+		"BattlePet-0-00000E0BBD20", -- [440]
+		"BattlePet-0-00000E0BBE70", -- [441]
+		"BattlePet-0-00000E0BBD83", -- [442]
+		"BattlePet-0-00000E0BBD62", -- [443]
+		"BattlePet-0-00000E0BBDB5", -- [444]
+		"BattlePet-0-00000E0BBE31", -- [445]
+		"BattlePet-0-00000E0BBD37", -- [446]
+		"BattlePet-0-00000E0BBD88", -- [447]
+		"BattlePet-0-00000E0BBE8D", -- [448]
+		"BattlePet-0-00000E0BBD67", -- [449]
+		"BattlePet-0-000021153E22", -- [450]
+		"BattlePet-0-00000E8245F7", -- [451]
+		"BattlePet-0-000021154082", -- [452]
+		"BattlePet-0-000021153BA8", -- [453]
+		"BattlePet-0-000021147756", -- [454]
+		"BattlePet-0-000021152F0A", -- [455]
+		"BattlePet-0-00000E762BF6", -- [456]
+		"BattlePet-0-00000E6C2894", -- [457]
+		"BattlePet-0-00000E6C24FA", -- [458]
+		"BattlePet-0-000021153C7F", -- [459]
+		"BattlePet-0-0000210BE6DA", -- [460]
+		"BattlePet-0-00000E0BBE96", -- [461]
+		"BattlePet-0-00002114762B", -- [462]
+		"BattlePet-0-00000E0BBEF6", -- [463]
+		"BattlePet-0-000021153CF9", -- [464]
+		"BattlePet-0-00000E0BBD81", -- [465]
+		"BattlePet-0-00000E0BBE8E", -- [466]
+		"BattlePet-0-00000E0BBE9D", -- [467]
+		"BattlePet-0-00000E0BBF24", -- [468]
+		"BattlePet-0-00000E0BBEFC", -- [469]
+		"BattlePet-0-00000E0BBEF0", -- [470]
+		"BattlePet-0-00000E0BBE8C", -- [471]
+		"BattlePet-0-0000210BE800", -- [472]
+		"BattlePet-0-00000E7AF086", -- [473]
+		"BattlePet-0-00000E0BBD28", -- [474]
+		"BattlePet-0-00000E0BBF25", -- [475]
+		"BattlePet-0-00000E0BBF03", -- [476]
+		"BattlePet-0-00000E0BBE9F", -- [477]
+		"BattlePet-0-00000E0BBEDE", -- [478]
+		"BattlePet-0-000021065C41", -- [479]
+		"BattlePet-0-00000E0BBF2A", -- [480]
+		"BattlePet-0-00000E7AEFC3", -- [481]
+		"BattlePet-0-00000E0BBF28", -- [482]
+		"BattlePet-0-00000E0BBF0B", -- [483]
+		"BattlePet-0-00000E0BBD1F", -- [484]
+		"BattlePet-0-000021153EA8", -- [485]
+		"BattlePet-0-0000216A45C2", -- [486]
+		"BattlePet-0-000021241BBB", -- [487]
+		"BattlePet-0-000021153FDF", -- [488]
+		"BattlePet-0-00000E0BBE81", -- [489]
+		"BattlePet-0-00000E0BBD2C", -- [490]
+		"BattlePet-0-00000E0BBF02", -- [491]
+		"BattlePet-0-00000E0BBE99", -- [492]
+		"BattlePet-0-000021152E51", -- [493]
+		"BattlePet-0-00000E0BBEC5", -- [494]
+		"BattlePet-0-00000E0BBE97", -- [495]
+		"BattlePet-0-00000E0BBF0C", -- [496]
+		"BattlePet-0-00002115302C", -- [497]
+		"BattlePet-0-00000E0BBE07", -- [498]
+		"BattlePet-0-00000E7AF511", -- [499]
+		"BattlePet-0-00000E0BBE05", -- [500]
+		"BattlePet-0-00000E0BBE94", -- [501]
+		"BattlePet-0-0000210C13D1", -- [502]
+		"BattlePet-0-00000E0BBD60", -- [503]
+		"BattlePet-0-00000E0BBDBA", -- [504]
+		"BattlePet-0-00000E0BBDB8", -- [505]
+		"BattlePet-0-00000E0BBDB6", -- [506]
+		"BattlePet-0-00000E0BBD02", -- [507]
+		"BattlePet-0-000021021F89", -- [508]
+		"BattlePet-0-00000E0BBF3D", -- [509]
+		"BattlePet-0-00000E0BBCFA", -- [510]
+		"BattlePet-0-00000E0BBD8B", -- [511]
+		"BattlePet-0-0000210D9DCC", -- [512]
+		"BattlePet-0-00000E0BBE27", -- [513]
+		"BattlePet-0-00000E0BBDE3", -- [514]
+		"BattlePet-0-000021075EFF", -- [515]
+		"BattlePet-0-00000E0BBC99", -- [516]
+		"BattlePet-0-00000E0BBDA4", -- [517]
+		"BattlePet-0-00000E0BBDFD", -- [518]
+		"BattlePet-0-0000103C2D42", -- [519]
+		"BattlePet-0-00000E0BBF22", -- [520]
+		"BattlePet-0-00000E0BBF13", -- [521]
+		"BattlePet-0-00000E6C5505", -- [522]
+		"BattlePet-0-00000E0BBC6B", -- [523]
+		"BattlePet-0-00000E0BBE5E", -- [524]
+		"BattlePet-0-00000E0BBF0E", -- [525]
+		"BattlePet-0-0000210D9D91", -- [526]
 	},
 	["CollectionChartSources"] = true,
 	["PetCardForLinks"] = false,
 	["HideRarityBorders"] = true,
-	["LockPosition"] = false,
+	["LockPosition"] = true,
 	["QueueAutoLearn"] = true,
-	["QueueRandomWhenEmpty"] = true,
+	["loadedTeam"] = 141479,
 	["HideMenuHelp"] = true,
-	["JournalUsed"] = true,
 	["CornerPos"] = "BOTTOMLEFT",
 	["ShowOnTarget"] = true,
 	["QueueDoubleClick"] = true,
@@ -6711,54 +6740,21 @@ RematchSettings = {
 	["HidePetToast"] = true,
 	["NotesHeight"] = 445.9998779296875,
 	["ShowOnInjured"] = true,
-	["QueueSortFavoritesFirst"] = true,
-	["NotesNoESC"] = true,
 	["AllowHiddenPetsDefaulted"] = true,
-	["BackupCount"] = 277,
+	["QueueSortFavoritesFirst"] = true,
 	["JournalPanel"] = 1,
-	["ShowLevelingSlot"] = true,
-	["SafariHatShine"] = true,
+	["BackupCount"] = 277,
+	["NotesNoESC"] = true,
 	["Minimized"] = true,
+	["SafariHatShine"] = true,
+	["ShowLevelingSlot"] = true,
 	["ExpandedTargetHeaders"] = {
 	},
+	["NotesFont"] = "GameFontHighlight",
 	["ExpandedOptHeaders"] = {
 	},
-	["NotesFont"] = "GameFontHighlight",
-	["SinglePanel"] = false,
-	["TeamGroups"] = {
-		{
-			"Miscellaneous", -- [1]
-			"Interface\\Icons\\PetJournalPortrait", -- [2]
-		}, -- [1]
-		{
-			"Instanced Battles", -- [1]
-			4661644, -- [2]
-		}, -- [2]
-		{
-			"Pandaria", -- [1]
-			572035, -- [2]
-		}, -- [3]
-		{
-			"Draenor", -- [1]
-			458224, -- [2]
-		}, -- [4]
-		{
-			"Legion", -- [1]
-			135800, -- [2]
-		}, -- [5]
-		{
-			"BFA", -- [1]
-			2565244, -- [2]
-		}, -- [6]
-		{
-			"Shadowlands", -- [1]
-			237542, -- [2]
-		}, -- [7]
-		{
-			"Dragonflight", -- [1]
-			587740, -- [2]
-		}, -- [8]
-	},
+	["ClickPetCard"] = false,
+	["NotesLeft"] = 1547.71435546875,
 	["PreferredMode"] = 1,
 	["DontIncludePreferences"] = false,
 	["Sanctuary"] = {
@@ -6776,10 +6772,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1256, -- [3]
-			8, -- [4]
-			537, -- [5]
-			87, -- [6]
-			93, -- [7]
+			23, -- [4]
+			1356, -- [5]
+			251, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00002130026C"] = {
@@ -6896,20 +6892,20 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1690, -- [3]
-			8, -- [4]
-			477, -- [5]
-			100, -- [6]
-			93, -- [7]
+			23, -- [4]
+			1184, -- [5]
+			289, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-000021021F89"] = {
 			1, -- [1]
 			true, -- [2]
 			3302, -- [3]
-			8, -- [4]
-			522, -- [5]
-			90, -- [6]
-			91, -- [7]
+			23, -- [4]
+			1315, -- [5]
+			258, -- [6]
+			262, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00001012AEF6"] = {
@@ -6966,10 +6962,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			2116, -- [3]
-			8, -- [4]
-			537, -- [5]
-			83, -- [6]
-			98, -- [7]
+			21, -- [4]
+			1247, -- [5]
+			218, -- [6]
+			257, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-000021153C7F"] = {
@@ -7026,10 +7022,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1960, -- [3]
-			8, -- [4]
-			542, -- [5]
-			88, -- [6]
-			88, -- [7]
+			23, -- [4]
+			1371, -- [5]
+			254, -- [6]
+			254, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCDD"] = {
@@ -7216,10 +7212,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1336, -- [3]
-			8, -- [4]
-			563, -- [5]
-			87, -- [6]
-			87, -- [7]
+			23, -- [4]
+			1431, -- [5]
+			251, -- [6]
+			251, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBED8"] = {
@@ -7439,10 +7435,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			211, -- [3]
-			8, -- [4]
-			646, -- [5]
-			83, -- [6]
-			78, -- [7]
+			23, -- [4]
+			1670, -- [5]
+			239, -- [6]
+			224, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD9D"] = {
@@ -7709,10 +7705,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			175, -- [3]
-			8, -- [4]
-			490, -- [5]
-			88, -- [6]
-			104, -- [7]
+			23, -- [4]
+			1221, -- [5]
+			254, -- [6]
+			299, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE05"] = {
@@ -7729,10 +7725,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			675, -- [3]
-			8, -- [4]
-			436, -- [5]
-			63, -- [6]
-			75, -- [7]
+			23, -- [4]
+			1066, -- [5]
+			182, -- [6]
+			216, -- [7]
 			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD9A"] = {
@@ -8069,10 +8065,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			2475, -- [3]
-			8, -- [4]
-			484, -- [5]
-			77, -- [6]
-			96, -- [7]
+			23, -- [4]
+			1204, -- [5]
+			221, -- [6]
+			276, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-0000210CDF09"] = {
@@ -8212,10 +8208,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1204, -- [3]
-			8, -- [4]
-			563, -- [5]
-			82, -- [6]
-			93, -- [7]
+			23, -- [4]
+			1431, -- [5]
+			236, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC8C"] = {
@@ -8412,7 +8408,7 @@ RematchSettings = {
 			2, -- [1]
 		},
 		["BattlePet-0-00000E0BBCB6"] = {
-			1, -- [1]
+			3, -- [1]
 			true, -- [2]
 			227, -- [3]
 			25, -- [4]
@@ -8462,7 +8458,7 @@ RematchSettings = {
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD09"] = {
-			6, -- [1]
+			8, -- [1]
 			true, -- [2]
 			338, -- [3]
 			25, -- [4]
@@ -8539,6 +8535,16 @@ RematchSettings = {
 			1222, -- [5]
 			198, -- [6]
 			264, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00002177DB13"] = {
+			1, -- [1]
+			true, -- [2]
+			2410, -- [3]
+			1, -- [4]
+			152, -- [5]
+			11, -- [6]
+			10, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBD33"] = {
@@ -8968,10 +8974,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			122, -- [3]
-			8, -- [4]
-			516, -- [5]
-			83, -- [6]
-			104, -- [7]
+			23, -- [4]
+			1296, -- [5]
+			239, -- [6]
+			299, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD4D"] = {
@@ -9118,10 +9124,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			460, -- [3]
-			8, -- [4]
-			420, -- [5]
-			72, -- [6]
-			68, -- [7]
+			23, -- [4]
+			1020, -- [5]
+			207, -- [6]
+			196, -- [7]
 			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBF3F"] = {
@@ -9717,6 +9723,16 @@ RematchSettings = {
 			224, -- [7]
 			3, -- [8]
 		},
+		["BattlePet-0-00002177DB12"] = {
+			1, -- [1]
+			true, -- [2]
+			2409, -- [3]
+			1, -- [4]
+			151, -- [5]
+			9, -- [6]
+			11, -- [7]
+			3, -- [8]
+		},
 		["BattlePet-0-00000E0BBE20"] = {
 			1, -- [1]
 			true, -- [2]
@@ -9747,16 +9763,6 @@ RematchSettings = {
 			281, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDBD"] = {
-			1, -- [1]
-			true, -- [2]
-			726, -- [3]
-			22, -- [4]
-			925, -- [5]
-			198, -- [6]
-			198, -- [7]
-			1, -- [8]
-		},
 		["BattlePet-0-000021520E7F"] = {
 			1, -- [1]
 			true, -- [2]
@@ -9766,6 +9772,16 @@ RematchSettings = {
 			12, -- [6]
 			11, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDBD"] = {
+			1, -- [1]
+			true, -- [2]
+			726, -- [3]
+			22, -- [4]
+			925, -- [5]
+			198, -- [6]
+			198, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBCBB"] = {
 			1, -- [1]
@@ -9787,16 +9803,6 @@ RematchSettings = {
 			155, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E7AF086"] = {
-			1, -- [1]
-			true, -- [2]
-			2133, -- [3]
-			23, -- [4]
-			1296, -- [5]
-			254, -- [6]
-			269, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBD04"] = {
 			1, -- [1]
 			true, -- [2]
@@ -9807,12 +9813,32 @@ RematchSettings = {
 			322, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000E7AF086"] = {
+			1, -- [1]
+			true, -- [2]
+			2133, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			254, -- [6]
+			269, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-000021450B67"] = {
 			1, -- [1]
 			true, -- [2]
 			1933, -- [3]
 			1, -- [4]
 			155, -- [5]
+			11, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00002128F8E3"] = {
+			1, -- [1]
+			true, -- [2]
+			2051, -- [3]
+			1, -- [4]
+			153, -- [5]
 			11, -- [6]
 			12, -- [7]
 			4, -- [8]
@@ -9827,16 +9853,6 @@ RematchSettings = {
 			185, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00002128F8E3"] = {
-			1, -- [1]
-			true, -- [2]
-			2051, -- [3]
-			1, -- [4]
-			153, -- [5]
-			11, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBD66"] = {
 			1, -- [1]
 			true, -- [2]
@@ -9846,6 +9862,16 @@ RematchSettings = {
 			252, -- [6]
 			214, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-000021153FDF"] = {
+			1, -- [1]
+			true, -- [2]
+			1917, -- [3]
+			23, -- [4]
+			1175, -- [5]
+			228, -- [6]
+			202, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBC76"] = {
 			1, -- [1]
@@ -9867,15 +9893,15 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021153FDF"] = {
+		["BattlePet-0-00002127E0D9"] = {
 			1, -- [1]
 			true, -- [2]
-			1917, -- [3]
-			23, -- [4]
-			1175, -- [5]
-			228, -- [6]
-			202, -- [7]
-			2, -- [8]
+			1700, -- [3]
+			1, -- [4]
+			151, -- [5]
+			12, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E762BF6"] = {
 			1, -- [1]
@@ -9897,16 +9923,6 @@ RematchSettings = {
 			147, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00002127E0D9"] = {
-			1, -- [1]
-			true, -- [2]
-			1700, -- [3]
-			1, -- [4]
-			151, -- [5]
-			12, -- [6]
-			11, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-000021241BBB"] = {
 			1, -- [1]
 			true, -- [2]
@@ -9917,16 +9933,6 @@ RematchSettings = {
 			219, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-0000214CB863"] = {
-			1, -- [1]
-			true, -- [2]
-			3476, -- [3]
-			1, -- [4]
-			154, -- [5]
-			11, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00002128F8B6"] = {
 			1, -- [1]
 			true, -- [2]
@@ -9935,6 +9941,16 @@ RematchSettings = {
 			150, -- [5]
 			11, -- [6]
 			13, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000214CB863"] = {
+			1, -- [1]
+			true, -- [2]
+			3476, -- [3]
+			1, -- [4]
+			154, -- [5]
+			11, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDEB"] = {
@@ -9956,6 +9972,16 @@ RematchSettings = {
 			29, -- [6]
 			36, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBE04"] = {
+			1, -- [1]
+			true, -- [2]
+			1628, -- [3]
+			25, -- [4]
+			1465, -- [5]
+			273, -- [6]
+			289, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE99"] = {
 			1, -- [1]
@@ -10027,15 +10053,15 @@ RematchSettings = {
 			188, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE04"] = {
+		["BattlePet-0-0000210D9DB2"] = {
 			1, -- [1]
 			true, -- [2]
-			1628, -- [3]
-			25, -- [4]
-			1465, -- [5]
-			273, -- [6]
-			289, -- [7]
-			4, -- [8]
+			2000, -- [3]
+			1, -- [4]
+			146, -- [5]
+			10, -- [6]
+			9, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBEA1"] = {
 			1, -- [1]
@@ -10046,16 +10072,6 @@ RematchSettings = {
 			12, -- [6]
 			11, -- [7]
 			4, -- [8]
-		},
-		["BattlePet-0-0000210D9DB2"] = {
-			1, -- [1]
-			true, -- [2]
-			2000, -- [3]
-			1, -- [4]
-			146, -- [5]
-			10, -- [6]
-			9, -- [7]
-			2, -- [8]
 		},
 		["BattlePet-0-000021153EA8"] = {
 			1, -- [1]
@@ -10077,6 +10093,16 @@ RematchSettings = {
 			325, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-000021154082"] = {
+			1, -- [1]
+			true, -- [2]
+			1915, -- [3]
+			23, -- [4]
+			1020, -- [5]
+			230, -- [6]
+			184, -- [7]
+			1, -- [8]
+		},
 		["BattlePet-0-00000E0BBD62"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10087,15 +10113,15 @@ RematchSettings = {
 			290, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-000021154082"] = {
+		["BattlePet-0-000021034280"] = {
 			1, -- [1]
 			true, -- [2]
-			1915, -- [3]
-			23, -- [4]
-			1020, -- [5]
-			230, -- [6]
-			184, -- [7]
-			1, -- [8]
+			3319, -- [3]
+			1, -- [4]
+			155, -- [5]
+			12, -- [6]
+			11, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD24"] = {
 			3, -- [1]
@@ -10127,14 +10153,14 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021034280"] = {
+		["BattlePet-0-00000E0BBCEA"] = {
 			1, -- [1]
 			true, -- [2]
-			3319, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			11, -- [7]
+			631, -- [3]
+			17, -- [4]
+			1028, -- [5]
+			177, -- [6]
+			208, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-0000210D9DC2"] = {
@@ -10146,16 +10172,6 @@ RematchSettings = {
 			10, -- [6]
 			9, -- [7]
 			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBCEA"] = {
-			1, -- [1]
-			true, -- [2]
-			631, -- [3]
-			17, -- [4]
-			1028, -- [5]
-			177, -- [6]
-			208, -- [7]
-			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDB4"] = {
 			1, -- [1]
@@ -10177,16 +10193,6 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-0000210701A7"] = {
-			1, -- [1]
-			true, -- [2]
-			1605, -- [3]
-			1, -- [4]
-			158, -- [5]
-			14, -- [6]
-			8, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBDFC"] = {
 			3, -- [1]
 			true, -- [2]
@@ -10196,6 +10202,16 @@ RematchSettings = {
 			163, -- [6]
 			163, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-0000210701A7"] = {
+			1, -- [1]
+			true, -- [2]
+			1605, -- [3]
+			1, -- [4]
+			158, -- [5]
+			14, -- [6]
+			8, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD94"] = {
 			1, -- [1]
@@ -10207,16 +10223,6 @@ RematchSettings = {
 			176, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBD2A"] = {
-			1, -- [1]
-			true, -- [2]
-			724, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBD57"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10227,14 +10233,14 @@ RematchSettings = {
 			204, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBF13"] = {
+		["BattlePet-0-00000E0BBD2A"] = {
 			1, -- [1]
 			true, -- [2]
-			173, -- [3]
-			8, -- [4]
-			563, -- [5]
-			98, -- [6]
-			78, -- [7]
+			724, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-0000210D9DC7"] = {
@@ -10247,6 +10253,16 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000E0BBF13"] = {
+			1, -- [1]
+			true, -- [2]
+			173, -- [3]
+			23, -- [4]
+			1431, -- [5]
+			281, -- [6]
+			224, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBF15"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10255,36 +10271,6 @@ RematchSettings = {
 			152, -- [5]
 			11, -- [6]
 			12, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD1B"] = {
-			24, -- [1]
-			true, -- [2]
-			339, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			273, -- [6]
-			273, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD2E"] = {
-			22, -- [1]
-			true, -- [2]
-			1165, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			341, -- [6]
-			244, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE6D"] = {
-			2, -- [1]
-			true, -- [2]
-			1179, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			292, -- [6]
-			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-000021053332"] = {
@@ -10297,14 +10283,34 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E6C5505"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD2E"] = {
+			22, -- [1]
 			true, -- [2]
-			1953, -- [3]
-			8, -- [4]
-			516, -- [5]
-			81, -- [6]
-			107, -- [7]
+			1165, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			341, -- [6]
+			244, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD1B"] = {
+			24, -- [1]
+			true, -- [2]
+			339, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			273, -- [6]
+			273, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBE6D"] = {
+			2, -- [1]
+			true, -- [2]
+			1179, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			292, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD6B"] = {
@@ -10315,6 +10321,16 @@ RematchSettings = {
 			1083, -- [5]
 			186, -- [6]
 			186, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E6C5505"] = {
+			1, -- [1]
+			true, -- [2]
+			1953, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			232, -- [6]
+			306, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD75"] = {
@@ -10337,16 +10353,6 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEBF"] = {
-			1, -- [1]
-			true, -- [2]
-			1922, -- [3]
-			1, -- [4]
-			150, -- [5]
-			12, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-0000210D9DC5"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10357,14 +10363,14 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021152E51"] = {
+		["BattlePet-0-00000E0BBE0A"] = {
 			1, -- [1]
 			true, -- [2]
-			1810, -- [3]
-			23, -- [4]
-			963, -- [5]
-			207, -- [6]
-			207, -- [7]
+			402, -- [3]
+			15, -- [4]
+			805, -- [5]
+			126, -- [6]
+			119, -- [7]
 			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD20"] = {
@@ -10377,6 +10383,26 @@ RematchSettings = {
 			286, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000E0BBDFB"] = {
+			1, -- [1]
+			true, -- [2]
+			69, -- [3]
+			17, -- [4]
+			780, -- [5]
+			136, -- [6]
+			162, -- [7]
+			1, -- [8]
+		},
+		["BattlePet-0-000021152E51"] = {
+			1, -- [1]
+			true, -- [2]
+			1810, -- [3]
+			23, -- [4]
+			963, -- [5]
+			207, -- [6]
+			207, -- [7]
+			1, -- [8]
+		},
 		["BattlePet-0-00000E0BBE94"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10387,15 +10413,15 @@ RematchSettings = {
 			266, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDFB"] = {
+		["BattlePet-0-00000E0BBCDA"] = {
 			1, -- [1]
 			true, -- [2]
-			69, -- [3]
+			391, -- [3]
 			17, -- [4]
-			780, -- [5]
-			136, -- [6]
-			162, -- [7]
-			1, -- [8]
+			1008, -- [5]
+			143, -- [6]
+			202, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBDDC"] = {
 			1, -- [1]
@@ -10417,16 +10443,6 @@ RematchSettings = {
 			142, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCDA"] = {
-			1, -- [1]
-			true, -- [2]
-			391, -- [3]
-			17, -- [4]
-			1008, -- [5]
-			143, -- [6]
-			202, -- [7]
-			3, -- [8]
-		},
 		["BattlePet-0-00000E0BBDC3"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10445,6 +10461,16 @@ RematchSettings = {
 			155, -- [5]
 			11, -- [6]
 			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00002130C218"] = {
+			1, -- [1]
+			true, -- [2]
+			3252, -- [3]
+			1, -- [4]
+			155, -- [5]
+			13, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF1E"] = {
@@ -10467,16 +10493,6 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00002130C218"] = {
-			1, -- [1]
-			true, -- [2]
-			3252, -- [3]
-			1, -- [4]
-			155, -- [5]
-			13, -- [6]
-			10, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBE8D"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10486,16 +10502,6 @@ RematchSettings = {
 			242, -- [6]
 			165, -- [7]
 			1, -- [8]
-		},
-		["BattlePet-0-00000E826ACE"] = {
-			1, -- [1]
-			true, -- [2]
-			746, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			357, -- [6]
-			211, -- [7]
-			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE11"] = {
 			1, -- [1]
@@ -10507,14 +10513,34 @@ RematchSettings = {
 			231, -- [7]
 			2, -- [8]
 		},
+		["BattlePet-0-00002118AC5D"] = {
+			1, -- [1]
+			true, -- [2]
+			193, -- [3]
+			1, -- [4]
+			152, -- [5]
+			14, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBEE8"] = {
+			1, -- [1]
+			true, -- [2]
+			1396, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			289, -- [6]
+			273, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-0000210D9DCC"] = {
 			1, -- [1]
 			true, -- [2]
 			3133, -- [3]
-			8, -- [4]
-			659, -- [5]
-			86, -- [6]
-			73, -- [7]
+			23, -- [4]
+			1707, -- [5]
+			247, -- [6]
+			209, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD6E"] = {
@@ -10527,14 +10553,14 @@ RematchSettings = {
 			43, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDD5"] = {
-			12, -- [1]
+		["BattlePet-0-000021137877"] = {
+			1, -- [1]
 			true, -- [2]
-			1416, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
+			3107, -- [3]
+			15, -- [4]
+			858, -- [5]
+			152, -- [6]
+			204, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE9D"] = {
@@ -10557,14 +10583,14 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBEE8"] = {
+		["BattlePet-0-00000E0BBD5D"] = {
 			1, -- [1]
 			true, -- [2]
-			1396, -- [3]
+			749, -- [3]
 			25, -- [4]
-			1481, -- [5]
-			289, -- [6]
-			273, -- [7]
+			1400, -- [5]
+			260, -- [6]
+			325, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE88"] = {
@@ -10577,15 +10603,15 @@ RematchSettings = {
 			10, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD5D"] = {
+		["BattlePet-0-00000E0BBE1E"] = {
 			1, -- [1]
 			true, -- [2]
-			749, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			260, -- [6]
-			325, -- [7]
-			4, -- [8]
+			550, -- [3]
+			22, -- [4]
+			1035, -- [5]
+			176, -- [6]
+			198, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00001041CD83"] = {
 			1, -- [1]
@@ -10597,24 +10623,14 @@ RematchSettings = {
 			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE1E"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBD8E"] = {
+			2, -- [1]
 			true, -- [2]
-			550, -- [3]
-			22, -- [4]
-			1035, -- [5]
-			176, -- [6]
-			198, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-0000210533AB"] = {
-			1, -- [1]
-			true, -- [2]
-			144, -- [3]
-			1, -- [4]
-			152, -- [5]
-			10, -- [6]
-			12, -- [7]
+			519, -- [3]
+			25, -- [4]
+			1627, -- [5]
+			260, -- [6]
+			273, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE85"] = {
@@ -10627,6 +10643,16 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-0000210533AB"] = {
+			1, -- [1]
+			true, -- [2]
+			144, -- [3]
+			1, -- [4]
+			152, -- [5]
+			10, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBED0"] = {
 			4, -- [1]
 			true, -- [2]
@@ -10635,26 +10661,6 @@ RematchSettings = {
 			1400, -- [5]
 			260, -- [6]
 			325, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBD8E"] = {
-			2, -- [1]
-			true, -- [2]
-			519, -- [3]
-			25, -- [4]
-			1627, -- [5]
-			260, -- [6]
-			273, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-0000212070D4"] = {
-			1, -- [1]
-			true, -- [2]
-			3378, -- [3]
-			1, -- [4]
-			160, -- [5]
-			11, -- [6]
-			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE02"] = {
@@ -10667,14 +10673,14 @@ RematchSettings = {
 			179, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBED1"] = {
+		["BattlePet-0-0000212070D4"] = {
 			1, -- [1]
 			true, -- [2]
-			1723, -- [3]
+			3378, -- [3]
 			1, -- [4]
-			158, -- [5]
-			12, -- [6]
-			10, -- [7]
+			160, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF02"] = {
@@ -10686,6 +10692,26 @@ RematchSettings = {
 			196, -- [6]
 			182, -- [7]
 			1, -- [8]
+		},
+		["BattlePet-0-000021787264"] = {
+			1, -- [1]
+			true, -- [2]
+			3333, -- [3]
+			1, -- [4]
+			155, -- [5]
+			11, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBED1"] = {
+			1, -- [1]
+			true, -- [2]
+			1723, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E7AEFC3"] = {
 			1, -- [1]
@@ -10717,14 +10743,14 @@ RematchSettings = {
 			260, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF0F"] = {
-			5, -- [1]
+		["BattlePet-0-00000E0BBEC0"] = {
+			1, -- [1]
 			true, -- [2]
-			1721, -- [3]
-			25, -- [4]
-			1400, -- [5]
-			305, -- [6]
-			273, -- [7]
+			1804, -- [3]
+			1, -- [4]
+			149, -- [5]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE5C"] = {
@@ -10761,10 +10787,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1885, -- [3]
-			8, -- [4]
-			537, -- [5]
-			87, -- [6]
-			93, -- [7]
+			23, -- [4]
+			1356, -- [5]
+			251, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-0000214CAF98"] = {
@@ -10777,24 +10803,14 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDC9"] = {
+		["BattlePet-0-00000E0BBCF4"] = {
 			1, -- [1]
 			true, -- [2]
-			1524, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00002128F8D6"] = {
-			1, -- [1]
-			true, -- [2]
-			2185, -- [3]
+			1143, -- [3]
 			1, -- [4]
 			152, -- [5]
-			10, -- [6]
-			13, -- [7]
+			12, -- [6]
+			12, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE9F"] = {
@@ -10807,6 +10823,16 @@ RematchSettings = {
 			190, -- [7]
 			2, -- [8]
 		},
+		["BattlePet-0-00002128F8D6"] = {
+			1, -- [1]
+			true, -- [2]
+			2185, -- [3]
+			1, -- [4]
+			152, -- [5]
+			10, -- [6]
+			13, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBDA0"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10815,16 +10841,6 @@ RematchSettings = {
 			158, -- [5]
 			10, -- [6]
 			12, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBCAB"] = {
-			1, -- [1]
-			true, -- [2]
-			652, -- [3]
-			8, -- [4]
-			537, -- [5]
-			87, -- [6]
-			93, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00002105339F"] = {
@@ -10836,6 +10852,16 @@ RematchSettings = {
 			199, -- [6]
 			154, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBCAB"] = {
+			1, -- [1]
+			true, -- [2]
+			652, -- [3]
+			8, -- [4]
+			537, -- [5]
+			87, -- [6]
+			93, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E8245F7"] = {
 			1, -- [1]
@@ -10917,15 +10943,15 @@ RematchSettings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE4A"] = {
+		["BattlePet-0-00000E0BBCE2"] = {
 			1, -- [1]
 			true, -- [2]
-			136, -- [3]
-			1, -- [4]
-			158, -- [5]
-			11, -- [6]
-			11, -- [7]
-			4, -- [8]
+			422, -- [3]
+			15, -- [4]
+			663, -- [5]
+			141, -- [6]
+			134, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBE70"] = {
 			1, -- [1]
@@ -10937,6 +10963,16 @@ RematchSettings = {
 			243, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000E0BBDFD"] = {
+			1, -- [1]
+			true, -- [2]
+			1467, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			299, -- [6]
+			239, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBC6E"] = {
 			1, -- [1]
 			true, -- [2]
@@ -10945,16 +10981,6 @@ RematchSettings = {
 			805, -- [5]
 			119, -- [6]
 			126, -- [7]
-			1, -- [8]
-		},
-		["BattlePet-0-00000E0BBCE2"] = {
-			1, -- [1]
-			true, -- [2]
-			422, -- [3]
-			15, -- [4]
-			663, -- [5]
-			141, -- [6]
-			134, -- [7]
 			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBE46"] = {
@@ -10990,16 +11016,6 @@ RematchSettings = {
 		["random:1"] = {
 			1, -- [1]
 		},
-		["BattlePet-0-00000E0BBF47"] = {
-			1, -- [1]
-			true, -- [2]
-			347, -- [3]
-			1, -- [4]
-			155, -- [5]
-			12, -- [6]
-			10, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBECF"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11009,6 +11025,16 @@ RematchSettings = {
 			11, -- [6]
 			10, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBF47"] = {
+			1, -- [1]
+			true, -- [2]
+			347, -- [3]
+			1, -- [4]
+			155, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD19"] = {
 			1, -- [1]
@@ -11060,16 +11086,6 @@ RematchSettings = {
 			157, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBD6D"] = {
-			1, -- [1]
-			true, -- [2]
-			473, -- [3]
-			5, -- [4]
-			422, -- [5]
-			49, -- [6]
-			55, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBDA7"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11079,6 +11095,16 @@ RematchSettings = {
 			10, -- [6]
 			10, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBD6D"] = {
+			1, -- [1]
+			true, -- [2]
+			473, -- [3]
+			5, -- [4]
+			422, -- [5]
+			49, -- [6]
+			55, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCF2"] = {
 			1, -- [1]
@@ -11114,10 +11140,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			162, -- [3]
-			8, -- [4]
-			537, -- [5]
-			98, -- [6]
-			82, -- [7]
+			23, -- [4]
+			1356, -- [5]
+			281, -- [6]
+			236, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE07"] = {
@@ -11196,15 +11222,15 @@ RematchSettings = {
 			11, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBE0E"] = {
+		["BattlePet-0-00000E0BBD89"] = {
 			1, -- [1]
 			true, -- [2]
-			438, -- [3]
+			1162, -- [3]
 			16, -- [4]
-			772, -- [5]
-			128, -- [6]
-			150, -- [7]
-			1, -- [8]
+			828, -- [5]
+			206, -- [6]
+			185, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF2D"] = {
 			1, -- [1]
@@ -11216,16 +11242,6 @@ RematchSettings = {
 			42, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBD89"] = {
-			1, -- [1]
-			true, -- [2]
-			1162, -- [3]
-			16, -- [4]
-			828, -- [5]
-			206, -- [6]
-			185, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBCEF"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11235,6 +11251,16 @@ RematchSettings = {
 			192, -- [6]
 			192, -- [7]
 			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBE0E"] = {
+			1, -- [1]
+			true, -- [2]
+			438, -- [3]
+			16, -- [4]
+			772, -- [5]
+			128, -- [6]
+			150, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD98"] = {
 			1, -- [1]
@@ -11270,10 +11296,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1495, -- [3]
-			8, -- [4]
-			524, -- [5]
-			85, -- [6]
-			98, -- [7]
+			21, -- [4]
+			1212, -- [5]
+			222, -- [6]
+			257, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC6C"] = {
@@ -11290,10 +11316,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			198, -- [3]
-			8, -- [4]
-			537, -- [5]
-			87, -- [6]
-			93, -- [7]
+			23, -- [4]
+			1356, -- [5]
+			251, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBC80"] = {
@@ -11316,16 +11342,6 @@ RematchSettings = {
 			62, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCA9"] = {
-			10, -- [1]
-			true, -- [2]
-			277, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBE60"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11334,6 +11350,16 @@ RematchSettings = {
 			860, -- [5]
 			135, -- [6]
 			144, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBD1D"] = {
+			1, -- [1]
+			true, -- [2]
+			711, -- [3]
+			21, -- [4]
+			1260, -- [5]
+			232, -- [6]
+			232, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF1A"] = {
@@ -11460,10 +11486,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1126, -- [3]
-			8, -- [4]
-			563, -- [5]
-			93, -- [6]
-			83, -- [7]
+			23, -- [4]
+			1431, -- [5]
+			266, -- [6]
+			239, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD55"] = {
@@ -11476,6 +11502,16 @@ RematchSettings = {
 			151, -- [7]
 			3, -- [8]
 		},
+		["BattlePet-0-00000E0BBCB0"] = {
+			1, -- [1]
+			true, -- [2]
+			1151, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBD4C"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11484,16 +11520,6 @@ RematchSettings = {
 			256, -- [5]
 			31, -- [6]
 			39, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-000021065C9A"] = {
-			1, -- [1]
-			true, -- [2]
-			3286, -- [3]
-			1, -- [4]
-			165, -- [5]
-			10, -- [6]
-			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF44"] = {
@@ -11506,23 +11532,23 @@ RematchSettings = {
 			199, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEEF"] = {
+		["BattlePet-0-00000E0BBD88"] = {
 			1, -- [1]
 			true, -- [2]
-			1625, -- [3]
-			1, -- [4]
-			158, -- [5]
-			12, -- [6]
-			10, -- [7]
+			740, -- [3]
+			22, -- [4]
+			1373, -- [5]
+			226, -- [6]
+			255, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCB0"] = {
+		["BattlePet-0-000021065C9A"] = {
 			1, -- [1]
 			true, -- [2]
-			1151, -- [3]
+			3286, -- [3]
 			1, -- [4]
-			158, -- [5]
-			12, -- [6]
+			165, -- [5]
+			10, -- [6]
 			10, -- [7]
 			4, -- [8]
 		},
@@ -11576,16 +11602,6 @@ RematchSettings = {
 			40, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCE7"] = {
-			16, -- [1]
-			true, -- [2]
-			1152, -- [3]
-			25, -- [4]
-			1644, -- [5]
-			276, -- [6]
-			260, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-00000E0BBD18"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11596,14 +11612,24 @@ RematchSettings = {
 			12, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCF3"] = {
+		["BattlePet-0-00000E0BBCE7"] = {
 			16, -- [1]
 			true, -- [2]
-			1211, -- [3]
+			1152, -- [3]
 			25, -- [4]
-			1237, -- [5]
-			341, -- [6]
-			276, -- [7]
+			1644, -- [5]
+			276, -- [6]
+			260, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-0000210D9DC9"] = {
+			1, -- [1]
+			true, -- [2]
+			2838, -- [3]
+			1, -- [4]
+			163, -- [5]
+			11, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDDA"] = {
@@ -11616,15 +11642,15 @@ RematchSettings = {
 			174, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021758E4A"] = {
+		["BattlePet-0-00000E0BBE0B"] = {
 			1, -- [1]
 			true, -- [2]
-			3251, -- [3]
-			1, -- [4]
-			145, -- [5]
-			13, -- [6]
-			12, -- [7]
-			4, -- [8]
+			429, -- [3]
+			15, -- [4]
+			793, -- [5]
+			155, -- [6]
+			132, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBECB"] = {
 			1, -- [1]
@@ -11666,34 +11692,34 @@ RematchSettings = {
 			177, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-0000210D9DC9"] = {
+		["BattlePet-0-00000E0BBD5C"] = {
 			1, -- [1]
 			true, -- [2]
-			2838, -- [3]
-			1, -- [4]
-			163, -- [5]
-			11, -- [6]
-			10, -- [7]
+			439, -- [3]
+			19, -- [4]
+			1397, -- [5]
+			198, -- [6]
+			185, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCB3"] = {
+		["BattlePet-0-000021758E4A"] = {
 			1, -- [1]
 			true, -- [2]
-			118, -- [3]
+			3251, -- [3]
 			1, -- [4]
-			151, -- [5]
-			10, -- [6]
-			10, -- [7]
-			3, -- [8]
+			145, -- [5]
+			13, -- [6]
+			12, -- [7]
+			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE0B"] = {
+		["BattlePet-0-00000E0BBD8C"] = {
 			1, -- [1]
 			true, -- [2]
-			429, -- [3]
-			15, -- [4]
-			793, -- [5]
-			155, -- [6]
-			132, -- [7]
+			505, -- [3]
+			21, -- [4]
+			1070, -- [5]
+			206, -- [6]
+			196, -- [7]
 			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBE42"] = {
@@ -11716,15 +11742,15 @@ RematchSettings = {
 			243, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBD8C"] = {
+		["BattlePet-0-00000E0BBCB3"] = {
 			1, -- [1]
 			true, -- [2]
-			505, -- [3]
-			21, -- [4]
-			1070, -- [5]
-			206, -- [6]
-			196, -- [7]
-			2, -- [8]
+			118, -- [3]
+			1, -- [4]
+			151, -- [5]
+			10, -- [6]
+			10, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E6B38DE"] = {
 			1, -- [1]
@@ -11756,16 +11782,6 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E6C2894"] = {
-			1, -- [1]
-			true, -- [2]
-			1709, -- [3]
-			23, -- [4]
-			1112, -- [5]
-			266, -- [6]
-			190, -- [7]
-			2, -- [8]
-		},
 		["BattlePet-0-00000E0BBCF0"] = {
 			1, -- [1]
 			true, -- [2]
@@ -11775,6 +11791,16 @@ RematchSettings = {
 			185, -- [6]
 			185, -- [7]
 			4, -- [8]
+		},
+		["BattlePet-0-00000E6C2894"] = {
+			1, -- [1]
+			true, -- [2]
+			1709, -- [3]
+			23, -- [4]
+			1112, -- [5]
+			266, -- [6]
+			190, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBCEB"] = {
 			1, -- [1]
@@ -11859,18 +11885,18 @@ RematchSettings = {
 			249, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD5C"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBCF3"] = {
+			16, -- [1]
 			true, -- [2]
-			439, -- [3]
-			19, -- [4]
-			1397, -- [5]
-			198, -- [6]
-			185, -- [7]
+			1211, -- [3]
+			25, -- [4]
+			1237, -- [5]
+			341, -- [6]
+			276, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDBB"] = {
-			5, -- [1]
+			4, -- [1]
 			true, -- [2]
 			1387, -- [3]
 			25, -- [4]
@@ -11919,14 +11945,14 @@ RematchSettings = {
 			9, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD88"] = {
+		["BattlePet-0-00000E0BBEEF"] = {
 			1, -- [1]
 			true, -- [2]
-			740, -- [3]
-			22, -- [4]
-			1373, -- [5]
-			226, -- [6]
-			255, -- [7]
+			1625, -- [3]
+			1, -- [4]
+			158, -- [5]
+			12, -- [6]
+			10, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCEC"] = {
@@ -11973,10 +11999,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			1755, -- [3]
-			8, -- [4]
-			550, -- [5]
-			93, -- [6]
-			85, -- [7]
+			23, -- [4]
+			1393, -- [5]
+			266, -- [6]
+			244, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDB3"] = {
@@ -11993,10 +12019,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			381, -- [3]
-			8, -- [4]
-			563, -- [5]
-			83, -- [6]
-			93, -- [7]
+			23, -- [4]
+			1431, -- [5]
+			239, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-0000214D009F"] = {
@@ -12019,14 +12045,14 @@ RematchSettings = {
 			119, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00000E0BBD1D"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBCA9"] = {
+			10, -- [1]
 			true, -- [2]
-			711, -- [3]
-			21, -- [4]
-			1260, -- [5]
-			232, -- [6]
-			232, -- [7]
+			277, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE13"] = {
@@ -12232,14 +12258,14 @@ RematchSettings = {
 			11, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBDFD"] = {
+		["BattlePet-0-00000E0BBE4A"] = {
 			1, -- [1]
 			true, -- [2]
-			1467, -- [3]
-			8, -- [4]
-			516, -- [5]
-			104, -- [6]
-			83, -- [7]
+			136, -- [3]
+			1, -- [4]
+			158, -- [5]
+			11, -- [6]
+			11, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDA9"] = {
@@ -12312,16 +12338,6 @@ RematchSettings = {
 			214, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBCF4"] = {
-			1, -- [1]
-			true, -- [2]
-			1143, -- [3]
-			1, -- [4]
-			152, -- [5]
-			12, -- [6]
-			12, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-0000212E5409"] = {
 			1, -- [1]
 			true, -- [2]
@@ -12330,6 +12346,16 @@ RematchSettings = {
 			152, -- [5]
 			11, -- [6]
 			11, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBDC9"] = {
+			1, -- [1]
+			true, -- [2]
+			1524, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			289, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDDD"] = {
@@ -12342,14 +12368,14 @@ RematchSettings = {
 			185, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEC0"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBF0F"] = {
+			4, -- [1]
 			true, -- [2]
-			1804, -- [3]
-			1, -- [4]
-			149, -- [5]
-			12, -- [6]
-			12, -- [7]
+			1721, -- [3]
+			25, -- [4]
+			1400, -- [5]
+			305, -- [6]
+			273, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF38"] = {
@@ -12392,6 +12418,26 @@ RematchSettings = {
 			289, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000E0BBDD5"] = {
+			12, -- [1]
+			true, -- [2]
+			1416, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			289, -- [6]
+			260, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E826ACE"] = {
+			1, -- [1]
+			true, -- [2]
+			746, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			357, -- [6]
+			211, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBC8E"] = {
 			1, -- [1]
 			true, -- [2]
@@ -12411,26 +12457,6 @@ RematchSettings = {
 			168, -- [6]
 			189, -- [7]
 			1, -- [8]
-		},
-		["BattlePet-0-000021137877"] = {
-			1, -- [1]
-			true, -- [2]
-			3107, -- [3]
-			15, -- [4]
-			858, -- [5]
-			152, -- [6]
-			204, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00002118AC5D"] = {
-			1, -- [1]
-			true, -- [2]
-			193, -- [3]
-			1, -- [4]
-			152, -- [5]
-			14, -- [6]
-			10, -- [7]
-			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBF03"] = {
 			1, -- [1]
@@ -12502,6 +12528,16 @@ RematchSettings = {
 			10, -- [7]
 			4, -- [8]
 		},
+		["BattlePet-0-00000E0BBEBF"] = {
+			1, -- [1]
+			true, -- [2]
+			1922, -- [3]
+			1, -- [4]
+			150, -- [5]
+			12, -- [6]
+			12, -- [7]
+			4, -- [8]
+		},
 		["BattlePet-0-00000E0BBDE9"] = {
 			1, -- [1]
 			true, -- [2]
@@ -12521,16 +12557,6 @@ RematchSettings = {
 			172, -- [6]
 			170, -- [7]
 			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBE0A"] = {
-			1, -- [1]
-			true, -- [2]
-			402, -- [3]
-			15, -- [4]
-			805, -- [5]
-			126, -- [6]
-			119, -- [7]
-			1, -- [8]
 		},
 		["BattlePet-0-0000210533A3"] = {
 			1, -- [1]
@@ -12656,10 +12682,10 @@ RematchSettings = {
 			1, -- [1]
 			true, -- [2]
 			3368, -- [3]
-			8, -- [4]
-			464, -- [5]
-			98, -- [6]
-			98, -- [7]
+			23, -- [4]
+			1146, -- [5]
+			281, -- [6]
+			281, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBEB0"] = {
@@ -12894,12 +12920,21 @@ RematchSettings = {
 		},
 	},
 	["NotifiedExperimental"] = true,
+	["SinglePanel"] = false,
 	["AlwaysTeamTabs"] = false,
-	["NotesLeft"] = 1547.71435546875,
-	["DontWarnMissing"] = false,
-	["YPos"] = 351.4288330078125,
+	["ImportTeamTabsToo"] = true,
+	["YPos"] = 733.905029296875,
 	["LowerStrata"] = true,
+	["DontWarnMissing"] = false,
+	["PetCardYPos"] = 675.797607421875,
+	["QueueSortOrder"] = 3,
 	["DontIncludeNotes"] = false,
+	["QueueRandomWhenEmpty"] = true,
+	["CollectionChartType"] = 3,
+	["SpecialSlots"] = {
+		[2] = 0,
+	},
+	["SelectedTab"] = 5,
 	["ScriptFilters"] = {
 		{
 			"Unnamed Pets", -- [1]
@@ -12926,20 +12961,45 @@ RematchSettings = {
 			"-- Lvl 25 pets that need an upgrade to rare.\nlocal rarity\nif petID then\n rarity = select(5,C_PetJournal.GetPetStats(petID))\nend\nreturn level == 25 and (rarity or 0) ~= 4", -- [2]
 		}, -- [6]
 	},
-	["QueueSortOrder"] = 3,
-	["ImportTeamTabsToo"] = true,
-	["CollectionChartType"] = 3,
-	["PetCardYPos"] = 675.797607421875,
-	["SpecialSlots"] = {
-	},
-	["SelectedTab"] = 1,
-	["loadedTeam"] = 201899,
 	["NotesWidth"] = 370.0000915527344,
 	["DialogXPos"] = 1509.334838867188,
 	["QueueNoPreferences"] = false,
 	["PrioritizeBreedOnImport"] = true,
+	["TeamGroups"] = {
+		{
+			"Miscellaneous", -- [1]
+			"Interface\\Icons\\PetJournalPortrait", -- [2]
+		}, -- [1]
+		{
+			"Instanced Battles", -- [1]
+			4661644, -- [2]
+		}, -- [2]
+		{
+			"Pandaria", -- [1]
+			572035, -- [2]
+		}, -- [3]
+		{
+			"Draenor", -- [1]
+			458224, -- [2]
+		}, -- [4]
+		{
+			"Legion", -- [1]
+			135800, -- [2]
+		}, -- [5]
+		{
+			"BFA", -- [1]
+			2565244, -- [2]
+		}, -- [6]
+		{
+			"Shadowlands", -- [1]
+			237542, -- [2]
+		}, -- [7]
+		{
+			"Dragonflight", -- [1]
+			587740, -- [2]
+		}, -- [8]
+	},
 	["HideTooltips"] = false,
-	["ClickPetCard"] = false,
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -12955,13 +13015,13 @@ RematchSettings = {
 		},
 		["Rarity"] = {
 		},
-		["Similar"] = {
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Script"] = {
 		},
-		["Sources"] = {
+		["Similar"] = {
 		},
 		["Level"] = {
 		},
@@ -13006,9 +13066,9 @@ RematchSettings = {
 				["Level"] = {
 					[4] = true,
 				},
-				["Sources"] = {
-				},
 				["Similar"] = {
+				},
+				["Sources"] = {
 				},
 				["Breed"] = {
 				},
@@ -13043,10 +13103,10 @@ RematchSettings = {
 				},
 				["Level"] = {
 				},
+				["Similar"] = {
+				},
 				["Sources"] = {
 					[5] = true,
-				},
-				["Similar"] = {
 				},
 				["Breed"] = {
 				},
@@ -13068,10 +13128,12 @@ RematchSettings = {
 		[331] = true,
 	},
 	["FixedPetCard"] = true,
-	["QueueActiveSort"] = false,
+	["QueueActiveSort"] = true,
 	["minimapButtonPosition"] = 179.419279382929,
 	["ShowAbilityNumbers"] = true,
 	["ReverseToolbar"] = false,
 	["PetNotes"] = {
 	},
 }
+Rematch4Saved = nil
+Rematch4Settings = nil

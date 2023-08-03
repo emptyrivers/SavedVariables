@@ -27,10 +27,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Testrivers - Arthas"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Daedrasminia - Arthas"] = "Default",
@@ -42,7 +42,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Riparium - Argent Dawn"] = "Default",
 		["Riversticks - Bleeding Hollow"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
@@ -192,6 +192,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Deviate Chomper",
 					["code"] = "ability(#2) [enemy(#3).active & self(#1).aura(820).duration<=4 & self(#1).active]\nchange(#2) [enemy(#3).active]\nchange(#3) [enemy(#3).active & self(#2).dead]\nability(#1) [enemy(#3).active]\n\nability(#3) [enemy.hp<618 & enemy.type !~ 3]\nability(#3) [enemy.hp<406 & enemy.type ~ 3]\nability(#2) [!self(#1).aura(820).exists]\nability(#1)",
 				},
+				[98270] = {
+					["name"] = "My Beast's Bidding",
+					["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
+				},
 				[105009] = {
 					["author"] = "Emptyrivers-Bleeding Hollow",
 					["name"] = "Thistleleaf Bully",
@@ -232,6 +236,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 				[66918] = {
 					["name"] = "Seeker Zusshi",
 					["code"] = "change(#2) [enemy(#3).active & !self(#2).played]\nchange(#1) [self(#2).active]\nchange(#3) [self(#1).active & self.dead]\nif [!enemy(#3).active]\n  use(Shell Shield:310) [enemy.round=1]\n  use(Renewing Mists:511) [enemy.round=2]\nendif\nuse(Snap:356)\nability(Surge of Power:593) [enemy.aura(Howl:1725).exists] \nability(Surge of Power:593) [enemy.hp<=740] \nability(Howl:362) [!enemy.hp.full]\nstandby",
+				},
+				["My Beast's Bidding"] = {
+					["name"] = "My Beast's Bidding",
+					["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
 				},
 				[105352] = {
 					["author"] = "Tinyrivers-Sargeras",

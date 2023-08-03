@@ -1,6 +1,7 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
+		["Riparium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
@@ -36,8 +37,8 @@ OmniCDDB = {
 							},
 							["manualPos"] = {
 								["raidBar0"] = {
-									["y"] = 483.0165689227142,
-									["x"] = 385.2498896794677,
+									["y"] = 507.0166905843071,
+									["x"] = 390.5833307507492,
 								},
 							},
 							["reverseFill"] = false,

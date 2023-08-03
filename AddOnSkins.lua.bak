@@ -17,19 +17,15 @@ AddOnSkinsDB = {
 	["profiles"] = {
 		["Default"] = {
 			["Auctionator"] = false,
+			["EmbedBackdrop"] = false,
 			["EmbedBackdropTransparent"] = false,
 			["Immersion"] = false,
 			["Altoholic"] = false,
 			["ColorPickerPlus"] = false,
-			["tdBattlePetScript"] = false,
 			["EmbedOoCDelay"] = 30,
-			["EmbedBackdrop"] = false,
 			["EmbedBelowTop"] = true,
 		},
 	},
 }
 AddOnSkinsDS = {
-	[4.64] = {
-		["tdBattlePetScript"] = true,
-	},
 }

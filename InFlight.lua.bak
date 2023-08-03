@@ -44,6 +44,10 @@ InFlightDB = {
 				[2855] = 157,
 				[2805] = 100,
 			},
+			[2811] = {
+				["name"] = "Gelikyr Post",
+				[2774] = 127,
+			},
 			[2814] = {
 				[2818] = 85,
 				["name"] = "Veiled Ossuary",
@@ -71,17 +75,23 @@ InFlightDB = {
 				["name"] = "Shady Sanctuary",
 			},
 			[2841] = {
-				[2838] = 7,
 				["name"] = "Skytop Observatory",
+				[2838] = 7,
 				[2840] = 7,
+				[2862] = 7,
 			},
 			[2842] = {
-				["name"] = "Rubyscale Outpost",
 				[2838] = 7,
+				["name"] = "Rubyscale Outpost",
+				[2862] = 8,
 			},
 			[2855] = {
 				["name"] = "Morqut Village",
 				[2809] = 144,
+			},
+			[2862] = {
+				["name"] = "Morqut Islet",
+				[2839] = 7,
 			},
 			[2863] = {
 				[2865] = 40,
@@ -96,10 +106,6 @@ InFlightDB = {
 				[2842] = 7,
 				[2841] = 7,
 				["name"] = "Cobalt Assembly",
-			},
-			[2811] = {
-				["name"] = "Gelikyr Post",
-				[2774] = 127,
 			},
 		},
 		["Alliance"] = {
@@ -263,7 +269,7 @@ InFlightDB = {
 			},
 		},
 	},
-	["upload"] = 1687290392,
+	["upload"] = 1690857881,
 	["dbinit"] = 920,
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Default",

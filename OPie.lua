@@ -3,7 +3,7 @@ OneRing_Config = nil
 OPie_SavedData = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "10.1.0",
+	["_GameVersion"] = "10.1.5",
 	["_OPieVersion"] = "Yuzu 7 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -11,51 +11,93 @@ OPie_SavedData = {
 				["MageTravel#SliceBindingString"] = "1 2 3 4 5 6 7 8 9 0 - =",
 			},
 			["Bindings"] = {
-				["OPieTracking"] = false,
-				["MageTravel"] = "F2",
-				["HerosPath"] = "F5",
 				["SpecMenu"] = "F3",
 				["MageTools"] = "F4",
-				["CommonTrades"] = "ALT-`",
-				["WorldMarkers"] = "ALT-SHIFT-R",
+				["HerosPath"] = "F5",
 				["OPieAutoQuest"] = false,
+				["MageTravel"] = "F2",
+				["CommonTrades"] = "ALT-`",
+				["OPieTracking"] = false,
+				["WorldMarkers"] = "ALT-SHIFT-R",
 			},
 			["RotationTokens"] = {
 				["OPCTAt"] = "OPCHSh",
-				["ABuebuGxwpw1"] = "ABuebh1mu8e",
-				["ABuebiafrDd"] = "ABuebiafrDp",
 			},
 		},
 	},
 	["PersistentStorage"] = {
 		["RingKeeper"] = {
-			["MageTools"] = {
+			["CommonTrades"] = {
 				{
-					["id"] = 42955,
-					["sliceToken"] = "OPCMTf",
+					["id"] = "/cast {{spell:3908/51309}}",
+					["sliceToken"] = "OPCCTt",
 				}, -- [1]
 				{
-					["id"] = 66,
-					["sliceToken"] = "OPCMTi",
+					["id"] = "/cast {{spell:2108/51302}}",
+					["sliceToken"] = "OPCCTl",
 				}, -- [2]
 				{
-					"ring", -- [1]
-					"MagePolymorph", -- [2]
-					["sliceToken"] = "OPCMTt",
-					["embed"] = false,
+					["id"] = "/cast {{spell:2018/51300}}",
+					["sliceToken"] = "OPCCTb",
 				}, -- [3]
 				{
-					["id"] = 130,
-					["sliceToken"] = "OPCMTs",
+					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+					["sliceToken"] = "OPCCTe",
 				}, -- [4]
 				{
-					["id"] = 1459,
-					["sliceToken"] = "OPCMTn",
+					["sliceToken"] = "OPCCTa",
+					["id"] = "/cast {{spell:2259/51304}}",
 				}, -- [5]
-				["name"] = "Utility",
+				{
+					["sliceToken"] = "OPCCTc",
+					["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+				}, -- [6]
+				{
+					["id"] = "/cast {{spell:4036/51306}}",
+					["sliceToken"] = "OPCCTg",
+				}, -- [7]
+				{
+					["id"] = 2656,
+					["sliceToken"] = "OPCCTm",
+				}, -- [8]
+				{
+					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
+					["sliceToken"] = "OPCCTj",
+				}, -- [9]
+				{
+					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
+					["sliceToken"] = "OPCCTi",
+				}, -- [10]
+				{
+					["id"] = 53428,
+					["sliceToken"] = "OPCCTu",
+				}, -- [11]
+				{
+					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
+					["sliceToken"] = "OPCCTr",
+				}, -- [12]
+				{
+					["id"] = 271990,
+					["sliceToken"] = "OPCCTfj",
+				}, -- [13]
+				{
+					["id"] = 194174,
+					["sliceToken"] = "OPCCTsj",
+				}, -- [14]
+				{
+					["sliceToken"] = "OPCCThj",
+					["id"] = 193290,
+				}, -- [15]
+				{
+					"ring", -- [1]
+					"ookingpets", -- [2]
+					["sliceToken"] = "ABuebiafrDd",
+					["embed"] = false,
+					["rotationMode"] = "random",
+				}, -- [16]
+				["name"] = "Trade Skills",
 				["save"] = true,
-				["hotkey"] = "BUTTON5",
-				["limit"] = "MAGE",
+				["hotkey"] = "ALT-T",
 			},
 			["ExtraPortals"] = {
 				{
@@ -281,8 +323,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABueb/zgLbu",
 				}, -- [15]
 				{
-					["id"] = 410074,
 					["sliceToken"] = "ABueb/zgLby",
+					["id"] = 410074,
 				}, -- [16]
 				{
 					["sliceToken"] = "ABueb/Avfxe",
@@ -293,9 +335,21 @@ OPie_SavedData = {
 					["sliceToken"] = "ABue6en/Cm1",
 				}, -- [18]
 				{
-					["id"] = 393222,
 					["sliceToken"] = "ABue6en/Cmr",
+					["id"] = 393222,
 				}, -- [19]
+				{
+					["sliceToken"] = "ABue61mL7ie",
+					["id"] = 393267,
+				}, -- [20]
+				{
+					["sliceToken"] = "ABue6uMXEDe",
+					["id"] = 393276,
+				}, -- [21]
+				{
+					["sliceToken"] = "ABue6zyK5le",
+					["id"] = 410078,
+				}, -- [22]
 				["name"] = "Hero's Path",
 				["save"] = true,
 				["embed"] = true,
@@ -373,85 +427,41 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuebuGxwpw1",
 					["embed"] = false,
 				}, -- [17]
-				["limit"] = "MAGE",
+				["name"] = "Portals and Teleports",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
-				["name"] = "Portals and Teleports",
+				["limit"] = "MAGE",
 			},
 			["OPieFlagStore"] = {
 				["StoreVersion"] = 2,
 			},
-			["CommonTrades"] = {
+			["MageTools"] = {
 				{
-					["id"] = "/cast {{spell:3908/51309}}",
-					["sliceToken"] = "OPCCTt",
+					["id"] = 42955,
+					["sliceToken"] = "OPCMTf",
 				}, -- [1]
 				{
-					["id"] = "/cast {{spell:2108/51302}}",
-					["sliceToken"] = "OPCCTl",
+					["id"] = 66,
+					["sliceToken"] = "OPCMTi",
 				}, -- [2]
 				{
-					["id"] = "/cast {{spell:2018/51300}}",
-					["sliceToken"] = "OPCCTb",
+					"ring", -- [1]
+					"MagePolymorph", -- [2]
+					["sliceToken"] = "OPCMTt",
+					["embed"] = false,
 				}, -- [3]
 				{
-					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
-					["sliceToken"] = "OPCCTe",
+					["id"] = 130,
+					["sliceToken"] = "OPCMTs",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCCTa",
-					["id"] = "/cast {{spell:2259/51304}}",
+					["id"] = 1459,
+					["sliceToken"] = "OPCMTn",
 				}, -- [5]
-				{
-					["sliceToken"] = "OPCCTc",
-					["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
-				}, -- [6]
-				{
-					["id"] = "/cast {{spell:4036/51306}}",
-					["sliceToken"] = "OPCCTg",
-				}, -- [7]
-				{
-					["id"] = 2656,
-					["sliceToken"] = "OPCCTm",
-				}, -- [8]
-				{
-					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
-					["sliceToken"] = "OPCCTj",
-				}, -- [9]
-				{
-					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
-					["sliceToken"] = "OPCCTi",
-				}, -- [10]
-				{
-					["id"] = 53428,
-					["sliceToken"] = "OPCCTu",
-				}, -- [11]
-				{
-					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
-					["sliceToken"] = "OPCCTr",
-				}, -- [12]
-				{
-					["id"] = 271990,
-					["sliceToken"] = "OPCCTfj",
-				}, -- [13]
-				{
-					["id"] = 194174,
-					["sliceToken"] = "OPCCTsj",
-				}, -- [14]
-				{
-					["sliceToken"] = "OPCCThj",
-					["id"] = 193290,
-				}, -- [15]
-				{
-					"ring", -- [1]
-					"ookingpets", -- [2]
-					["sliceToken"] = "ABuebiafrDd",
-					["embed"] = false,
-					["rotationMode"] = "random",
-				}, -- [16]
-				["name"] = "Trade Skills",
+				["limit"] = "MAGE",
 				["save"] = true,
-				["hotkey"] = "ALT-T",
+				["hotkey"] = "BUTTON5",
+				["name"] = "Utility",
 			},
 		},
 	},

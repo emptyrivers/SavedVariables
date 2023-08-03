@@ -17,29 +17,29 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1685649050,
 				["lastVisitDate"] = "2023/06/01 14:50",
 			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1686517120,
-				["lastVisitDate"] = "2023/06/11 15:58",
-			},
-			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1685738112,
-				["lastVisitDate"] = "2023/06/02 15:35",
+			["Default.Argent Dawn.Confluence"] = {
+				["lastUpdate"] = 1686964511,
+				["lastVisitDate"] = "2023/06/16 20:15",
 			},
 			["Default.Argent Dawn.Flumina"] = {
-				["lastUpdate"] = 1686515989,
-				["lastVisitDate"] = "2023/06/11 15:39",
+				["lastUpdate"] = 1688781951,
+				["lastVisitDate"] = "2023/07/07 21:05",
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["lastUpdate"] = 1690000364,
+				["lastVisitDate"] = "2023/07/21 23:32",
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["lastUpdate"] = 1685733999,
 				["lastVisitDate"] = "2023/06/02 14:26",
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1686508578,
-				["lastVisitDate"] = "2023/06/11 13:36",
+				["lastUpdate"] = 1686784759,
+				["lastVisitDate"] = "2023/06/14 18:19",
 			},
-			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1683740646,
-				["lastVisitDate"] = "2023/05/10 12:44",
+			["Default.Argent Dawn.Alluvium"] = {
+				["lastUpdate"] = 1685738112,
+				["lastVisitDate"] = "2023/06/02 15:35",
 			},
 			["Default.Argent Dawn.Ochrian"] = {
 				["lastUpdate"] = 1676011566,

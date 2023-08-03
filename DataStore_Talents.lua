@@ -26,7 +26,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1685729588,
+				["lastUpdate"] = 1690835335,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -38,7 +38,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Confluence"] = {
 				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1685729660,
+				["lastUpdate"] = 1686964483,
 				["Specializations"] = {
 					[2] = 0,
 					[3] = 0,
@@ -60,7 +60,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686509895,
+				["lastUpdate"] = 1686784734,
 				["Specializations"] = {
 					0, -- [1]
 					[3] = 0,
@@ -71,7 +71,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1685733461,
+				["lastUpdate"] = 1686783752,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -94,7 +94,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686517761,
+				["lastUpdate"] = 1690836119,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -106,7 +106,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686517885,
+				["lastUpdate"] = 1690424634,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -172,7 +172,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 267,
 				}, -- [3]
 			},
-			["Version"] = 49801,
+			["Version"] = 50622,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -187,7 +187,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 70,
 				}, -- [3]
 			},
-			["Version"] = 49801,
+			["Version"] = 50000,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",
@@ -202,7 +202,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 64,
 				}, -- [3]
 			},
-			["Version"] = 49890,
+			["Version"] = 50622,
 		},
 		["ROGUE"] = {
 			["Locale"] = "enUS",
@@ -217,7 +217,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 261,
 				}, -- [3]
 			},
-			["Version"] = 49890,
+			["Version"] = 50000,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -232,7 +232,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 269,
 				}, -- [3]
 			},
-			["Version"] = 49801,
+			["Version"] = 50000,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -247,7 +247,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 258,
 				}, -- [3]
 			},
-			["Version"] = 49890,
+			["Version"] = 50585,
 		},
 	},
 }

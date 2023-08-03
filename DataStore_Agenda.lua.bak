@@ -15,54 +15,44 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2023-06-13",
+			["NextWeeklyReset"] = "2023-08-01",
 		},
 		["Characters"] = {
 			["Default.Argent Dawn.Headcut"] = {
 				["lastUpdate"] = 1685729712,
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1685729590,
+				["lastUpdate"] = 1690835422,
 			},
 			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1685729660,
+				["lastUpdate"] = 1686964485,
 			},
 			["Default.Argent Dawn.Alluvium"] = {
 				["lastUpdate"] = 1685814814,
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["DungeonIDs"] = {
-					["Aberrus, the Shadowed Crucible Heroic|820248848"] = "152929|1686515471|0|1",
-					["Aberrus, the Shadowed Crucible Normal|820248043"] = "152929|1686515471|0|1",
+					["Aberrus, the Shadowed Crucible Heroic|822579040"] = "477369|1690424634|0|1",
 				},
-				["lastUpdate"] = 1686515471,
+				["lastUpdate"] = 1690424634,
 				["LFGDungeons"] = {
-					["2403.Echo of Neltharion"] = true,
-					["2404.Count"] = 8,
-					["2403.Kazzara, the Hellforged"] = true,
 					["2404.Magmorax"] = true,
-					["2404.The Vigilant Steward, Zskarn"] = true,
-					["2404.Kazzara, the Hellforged"] = true,
-					["2404.The Amalgamation Chamber"] = true,
-					["2404.The Forgotten Experiments"] = true,
-					["2404.Assault of the Zaqali"] = true,
-					["2404.Echo of Neltharion"] = true,
-					["2403.Scalecommander Sarkareth"] = true,
+					["2404.Count"] = 3,
 					["2404.Rashok, the Elder"] = true,
-					["2403.Count"] = 3,
+					["2404.The Vigilant Steward, Zskarn"] = true,
 				},
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1685735165,
+				["lastUpdate"] = 1686783753,
 			},
 			["Default.Argent Dawn.Ochrian"] = {
 				["lastUpdate"] = 1676258113,
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1686517761,
+				["lastUpdate"] = 1690835020,
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1686510107,
+				["lastUpdate"] = 1686784735,
 			},
 		},
 	},

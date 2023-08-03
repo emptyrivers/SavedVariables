@@ -1,13 +1,21 @@
 
 DevToolDatabase = {
 	["profileKeys"] = {
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
+		["Riparium - Argent Dawn"] = {
+		},
+		["Sverdrup - Argent Dawn"] = {
+		},
+		["Emptyrivers - Argent Dawn"] = {
+		},
 		["Flumina - Argent Dawn"] = {
-			["collResizeWidth"] = 249.999755859375,
 			["history"] = {
 				"WeakAuras", -- [1]
 				"WeakAurasPrivate", -- [2]
@@ -18,8 +26,9 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 				"DevTool.settings.history", -- [8]
 			},
+			["collResizeWidth"] = 249.999755859375,
 		},
-		["Emptyrivers - Argent Dawn"] = {
+		["Confluence - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

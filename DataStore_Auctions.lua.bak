@@ -22,8 +22,8 @@ DataStore_AuctionsDB = {
 				["lastVisitDate"] = "2023/01/29 12:03",
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1686115417,
-				["lastVisitDate"] = "2023/06/07 00:23",
+				["lastUpdate"] = 1690682272,
+				["lastVisitDate"] = "2023/07/29 20:57",
 			},
 			["Default.Argent Dawn.Alluvium"] = {
 				["lastUpdate"] = 1685738094,
@@ -37,14 +37,14 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1686508548,
 				["lastVisitDate"] = "2023/06/11 13:35",
 			},
-			["Default.Argent Dawn.Flumina"] = {
-				["lastAuctionsScan"] = 1685727103,
-				["lastVisitDate"] = "2023/06/11 15:38",
-				["lastUpdate"] = 1686515918,
-			},
 			["Default.Argent Dawn.Confluence"] = {
 				["lastUpdate"] = 1683740625,
 				["lastVisitDate"] = "2023/05/10 12:43",
+			},
+			["Default.Argent Dawn.Flumina"] = {
+				["lastAuctionsScan"] = 1687025095,
+				["lastVisitDate"] = "2023/07/07 21:05",
+				["lastUpdate"] = 1688781922,
 			},
 		},
 	},
