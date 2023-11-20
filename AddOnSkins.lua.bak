@@ -7,12 +7,14 @@ AddOnSkinsDB = {
 		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Lotic - Argent Dawn"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
+		["Estuary - Argent Dawn"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
 		["Ochrian - Argent Dawn"] = "Default",
-		["Emptyrivers - Argent Dawn"] = "Default",
-		["Estuary - Argent Dawn"] = "Default",
+		["Emptystreams - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

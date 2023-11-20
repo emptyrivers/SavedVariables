@@ -6,21 +6,21 @@ TalentTreeTweaksDB = {
 		["InspectDiff"] = {
 			["colorYellow"] = {
 				["a"] = 0.75,
-				["r"] = 1,
-				["g"] = 0.67,
 				["b"] = 0,
+				["g"] = 0.67,
+				["r"] = 1,
 			},
 			["colorGreen"] = {
 				["a"] = 0.58,
-				["r"] = 0,
-				["g"] = 1,
 				["b"] = 0.3,
+				["g"] = 1,
+				["r"] = 0,
 			},
 			["colorRed"] = {
 				["a"] = 0.5,
-				["r"] = 1,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 1,
 			},
 			["enableTalentTreeViewerDiff"] = true,
 		},
@@ -32,8 +32,8 @@ TalentTreeTweaksDB = {
 			["reportPurchases"] = true,
 		},
 		["UnlockRestrictions"] = {
-			["unlockInCombatSpending"] = true,
 			["unlockShareButton"] = true,
+			["unlockInCombatSpending"] = true,
 		},
 		["MiniTreeInTooltip"] = {
 		},
@@ -42,8 +42,8 @@ TalentTreeTweaksDB = {
 			["replaceDropDown"] = true,
 		},
 		["ExportInspectedBuild"] = {
-			["showLinkInChatButton"] = true,
 			["exportOnDropdownRightClick"] = true,
+			["showLinkInChatButton"] = true,
 		},
 		["TooltipIds"] = {
 			["professionTooltip"] = {
@@ -65,7 +65,7 @@ TalentTreeTweaksDB = {
 		},
 		["ChangeBackground"] = {
 			["showAlphaInUI"] = true,
-			["alpha"] = 0.300000011920929,
+			["alpha"] = 0.6000000238418579,
 			["showAlphaInViewerUI"] = true,
 		},
 		["CopyTalentButtonInfo"] = {
@@ -73,12 +73,14 @@ TalentTreeTweaksDB = {
 		["HighlightCascadeRepurchable"] = {
 			["color"] = {
 				["a"] = 0.5,
-				["r"] = 0,
-				["g"] = 0,
 				["b"] = 1,
+				["g"] = 0,
+				["r"] = 0,
 			},
 		},
-		["ReduceSpam"] = {
+		["ImportIntoCurrentLoadout"] = {
+			["defaultCheckboxState"] = false,
+			["unlockImportButton"] = true,
 		},
 		["DebugNodeInfo"] = {
 			["addButtonToTable"] = true,
@@ -95,9 +97,7 @@ TalentTreeTweaksDB = {
 		["MiscFixes"] = {
 			["dropdownUpdateOnLoadConfigFix"] = true,
 		},
-		["ImportIntoCurrentLoadout"] = {
-			["defaultCheckboxState"] = false,
-			["unlockImportButton"] = true,
+		["ReduceSpam"] = {
 		},
 	},
 }

@@ -3,42 +3,54 @@ SimulationCraftDB = {
 	["profileKeys"] = {
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
-		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
+		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 	},
 	["profiles"] = {
 		["Mahntaiaga - Arthas"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
 		},
+		["Estuary - Argent Dawn"] = {
+		},
 		["Sverdrup - Argent Dawn"] = {
+		},
+		["Lotic - Argent Dawn"] = {
 		},
 		["Headcut - Argent Dawn"] = {
 		},
 		["Confluence - Argent Dawn"] = {
 		},
-		["Garumn - Arthas"] = {
+		["Ochrian - Argent Dawn"] = {
 		},
 		["Ailisuul - Arthas"] = {
 		},
 		["Riparium - Argent Dawn"] = {
+			["frame"] = {
+				["ofsx"] = 2.285798072814941,
+				["ofsy"] = -12.19056701660156,
+			},
+		},
+		["Beefyrivers - Arthas"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 			["frame"] = {
 				["ofsx"] = 90.666748046875,
+				["ofsy"] = 105.5236053466797,
 				["point"] = "BOTTOM",
 				["relativePoint"] = "BOTTOM",
-				["ofsy"] = 105.5236053466797,
 			},
 		},
 		["Emptyrivers - Arthas"] = {
@@ -49,11 +61,9 @@ SimulationCraftDB = {
 				["ofsy"] = 21.33332633972168,
 			},
 		},
-		["Ochrian - Argent Dawn"] = {
+		["Garumn - Arthas"] = {
 		},
-		["Beefyrivers - Arthas"] = {
-		},
-		["Estuary - Argent Dawn"] = {
+		["Emptystreams - Argent Dawn"] = {
 		},
 	},
 }

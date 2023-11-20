@@ -1,38 +1,72 @@
 
 RaiderIO_Config = {
+	["profilePoint"] = {
+		["y"] = 0,
+		["x"] = -16,
+		["point"] = "TOPLEFT",
+	},
+	["dockReplay"] = false,
+	["replayPoint"] = {
+		["y"] = -63.42864990234375,
+		["x"] = -293.2376098632813,
+		["point"] = "TOPRIGHT",
+	},
+	["lockReplay"] = true,
 	["displayWeeklyGuildBest"] = false,
 }
-RaiderIO_LastCharacter = "us-Emptyrivers-argent-dawn"
+RaiderIO_LastCharacter = "us-Riparium-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Rylacus-Argent Dawn"] = true,
-	["us-Kadria-Argent Dawn"] = true,
-	["us-Sunfyre-argent-dawn"] = true,
-	["us-Imjayred-guldan"] = true,
-	["us-Obifizzle-earthen-ring"] = true,
-	["us-Sarefina-argent-dawn"] = true,
-	["us-Bleddwen-Argent Dawn"] = true,
-	["us-Lamika-argent-dawn"] = true,
-	["us-Fact-argent-dawn"] = true,
-	["us-Goreblade-argent-dawn"] = true,
-	["us-Giulietta-Argent Dawn"] = true,
-	["us-Stubzy-guldan"] = true,
-	["us-Heikuro-Argent Dawn"] = true,
-	["us-Erixi-Argent Dawn"] = true,
-	["us-Emptyrivers-Argent Dawn"] = true,
-	["us-Sunfyre-Argent Dawn"] = true,
-	["us-Shaitan-argent-dawn"] = true,
-	["us-Shrikebear-area-52"] = true,
-	["us-Ametyst-argent-dawn"] = true,
-	["us-Kadria-argent-dawn"] = true,
-	["us-Invicious-zuljin"] = true,
-	["us-Banchy-the-scryers"] = true,
-	["us-Permaphrost-proudmoore"] = true,
-	["us-Inflikted-argent-dawn"] = true,
-	["us-Ninali-argent-dawn"] = true,
-	["us-Delvoker-earthen-ring"] = true,
+	["us-Quotey-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }
 RaiderIO_CachedRuns = nil
 RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+	{
+		["character"] = "us-Riparium-argent-dawn",
+		["zoneId"] = 248,
+		["clearTimeMS"] = 2248000,
+		["replayRunId"] = 440235,
+		["replaySeason"] = "season-df-3",
+		["keyLevel"] = 19,
+		["completedAt"] = 1700438664,
+	}, -- [1]
+	{
+		["character"] = "us-Riparium-argent-dawn",
+		["zoneId"] = 198,
+		["clearTimeMS"] = 1523000,
+		["replayRunId"] = 1959039,
+		["replaySeason"] = "season-df-3",
+		["keyLevel"] = 18,
+		["completedAt"] = 1700440957,
+	}, -- [2]
+	{
+		["character"] = "us-Riparium-argent-dawn",
+		["zoneId"] = 198,
+		["clearTimeMS"] = 2026000,
+		["replayRunId"] = 1959039,
+		["replaySeason"] = "season-df-3",
+		["keyLevel"] = 20,
+		["completedAt"] = 1700443663,
+	}, -- [3]
+	{
+		["character"] = "us-Riparium-argent-dawn",
+		["zoneId"] = 198,
+		["replaySeason"] = "season-df-3",
+		["replayRunId"] = 1959039,
+		["clearTimeMS"] = 1714510.000026785,
+		["keyLevel"] = 18,
+		["completedAt"] = 1700452045,
+	}, -- [4]
+	{
+		["character"] = "us-Riparium-argent-dawn",
+		["zoneId"] = 248,
+		["replaySeason"] = "season-df-3",
+		["replayRunId"] = 2372011,
+		["clearTimeMS"] = 1691585.000030696,
+		["keyLevel"] = 15,
+		["completedAt"] = 1700454404,
+	}, -- [5]
 }

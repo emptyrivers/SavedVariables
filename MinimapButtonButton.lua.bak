@@ -2,7 +2,7 @@
 MinimapButtonButtonOptions = {
 	["direction"] = "leftdown",
 	["scale"] = 1,
-	["buttonsShown"] = false,
+	["buttonsShown"] = true,
 	["buttonScale"] = 1,
 	["blacklist"] = {
 	},

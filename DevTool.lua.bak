@@ -1,21 +1,34 @@
 
 DevToolDatabase = {
 	["profileKeys"] = {
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
+		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 	},
 	["profiles"] = {
-		["Riparium - Argent Dawn"] = {
+		["Alluvium - Argent Dawn"] = {
 		},
 		["Sverdrup - Argent Dawn"] = {
+		},
+		["Headcut - Argent Dawn"] = {
+		},
+		["Confluence - Argent Dawn"] = {
+		},
+		["Lotic - Argent Dawn"] = {
+		},
+		["Riparium - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Flumina - Argent Dawn"] = {
+			["collResizeWidth"] = 249.999755859375,
 			["history"] = {
 				"WeakAuras", -- [1]
 				"WeakAurasPrivate", -- [2]
@@ -26,11 +39,10 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 				"DevTool.settings.history", -- [8]
 			},
-			["collResizeWidth"] = 249.999755859375,
-		},
-		["Confluence - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
+		},
+		["Emptystreams - Argent Dawn"] = {
 		},
 	},
 }

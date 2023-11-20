@@ -61,7 +61,7 @@ TwitchEmotesvKEKLStatistics = {
 	["noted"] = {
 		0, -- [1]
 		14, -- [2]
-		7, -- [3]
+		16, -- [3]
 	},
 	["beamBrah"] = {
 		0, -- [1]
@@ -91,7 +91,7 @@ TwitchEmotesvKEKLStatistics = {
 	["D:"] = {
 		0, -- [1]
 		5, -- [2]
-		4, -- [3]
+		7, -- [3]
 	},
 	["PepePoo"] = {
 		0, -- [1]

@@ -1,10 +1,12 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
+		["Lotic - Argent Dawn"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
+		["Emptystreams - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
-		["Headcut - Argent Dawn"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
@@ -37,8 +39,8 @@ OmniCDDB = {
 							},
 							["manualPos"] = {
 								["raidBar0"] = {
-									["y"] = 507.0166905843071,
-									["x"] = 390.5833307507492,
+									["y"] = 494.2166969058053,
+									["x"] = 442.3167649283278,
 								},
 							},
 							["reverseFill"] = false,

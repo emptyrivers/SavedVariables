@@ -3,7 +3,7 @@ OneRing_Config = nil
 OPie_SavedData = {
 	["CharProfiles"] = {
 	},
-	["_GameVersion"] = "10.1.5",
+	["_GameVersion"] = "10.2.0",
 	["_OPieVersion"] = "Yuzu 7 (4.114)",
 	["ProfileStorage"] = {
 		["default"] = {
@@ -11,22 +11,131 @@ OPie_SavedData = {
 				["MageTravel#SliceBindingString"] = "1 2 3 4 5 6 7 8 9 0 - =",
 			},
 			["Bindings"] = {
+				["WarlockLTS"] = "F4",
 				["SpecMenu"] = "F3",
-				["MageTools"] = "F4",
-				["HerosPath"] = "F5",
-				["OPieAutoQuest"] = false,
-				["MageTravel"] = "F2",
 				["CommonTrades"] = "ALT-`",
+				["RaidSymbols"] = "H",
+				["HerosPath"] = "F5",
 				["OPieTracking"] = false,
-				["WorldMarkers"] = "ALT-SHIFT-R",
+				["MageTravel"] = "F2",
+				["OPieAutoQuest"] = false,
+				["WorldMarkers"] = "SHIFT-H",
+				["MageTools"] = "F4",
 			},
 			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSh",
+				["OPCTAt"] = "OPCHSs",
+				["ABuebiafrDd"] = "ABuebiafrDa",
+				["OPCLSd"] = "OPCLDv",
 			},
 		},
 	},
 	["PersistentStorage"] = {
 		["RingKeeper"] = {
+			["WarlockLTS"] = {
+				{
+					"ring", -- [1]
+					"WarlockDemons", -- [2]
+					["sliceToken"] = "OPCLSd",
+				}, -- [1]
+				{
+					["id"] = 111771,
+					["sliceToken"] = "OPCLSw",
+				}, -- [2]
+				{
+					"ring", -- [1]
+					"WarlockGuardians", -- [2]
+					["sliceToken"] = "OPCLSg",
+				}, -- [3]
+				{
+					["id"] = 29893,
+					["sliceToken"] = "ABue6/uRDvp",
+				}, -- [4]
+				{
+					["id"] = 126,
+					["sliceToken"] = "ABue6/uRDvo",
+				}, -- [5]
+				{
+					["id"] = 342601,
+					["sliceToken"] = "ABue6/uRDv2",
+				}, -- [6]
+				{
+					["id"] = 698,
+					["sliceToken"] = "ABue6/uRDvi",
+				}, -- [7]
+				{
+					["id"] = 20707,
+					["sliceToken"] = "ABue6/2klr1",
+				}, -- [8]
+				["name"] = "Warlock General",
+				["save"] = true,
+				["hotkey"] = "F4",
+				["limit"] = "WARLOCK",
+			},
+			["SpecMenu"] = {
+				{
+					"specset", -- [1]
+					1, -- [2]
+					["sliceToken"] = "OPCTA1",
+				}, -- [1]
+				{
+					"specset", -- [1]
+					2, -- [2]
+					["sliceToken"] = "OPCTA2",
+				}, -- [2]
+				{
+					"specset", -- [1]
+					3, -- [2]
+					["sliceToken"] = "OPCTA3",
+				}, -- [3]
+				{
+					"specset", -- [1]
+					4, -- [2]
+					["sliceToken"] = "OPCTA4",
+				}, -- [4]
+				{
+					["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}",
+					["sliceToken"] = "OPCTAc",
+				}, -- [5]
+				{
+					"item", -- [1]
+					110560, -- [2]
+					["sliceToken"] = "OPCTAg",
+				}, -- [6]
+				{
+					"item", -- [1]
+					140192, -- [2]
+					["sliceToken"] = "OPCTAd",
+				}, -- [7]
+				{
+					"ring", -- [1]
+					"CommonHearth", -- [2]
+					["sliceToken"] = "OPCTAt",
+					["rotationMode"] = "shuffle",
+				}, -- [8]
+				{
+					["id"] = 556,
+					["sliceToken"] = "OPCTAa",
+				}, -- [9]
+				{
+					"item", -- [1]
+					141605, -- [2]
+					["show"] = "[in:broken isles/bfa]",
+					["sliceToken"] = "OPCTAw",
+				}, -- [10]
+				{
+					"toy", -- [1]
+					110560, -- [2]
+					["sliceToken"] = "ABuenqJkT51",
+				}, -- [11]
+				{
+					"toy", -- [1]
+					140192, -- [2]
+					["sliceToken"] = "ABuenqJkT5r",
+				}, -- [12]
+				["name"] = "Specializations and Travel",
+				["save"] = true,
+				["hotkey"] = "ALT-H",
+			},
 			["CommonTrades"] = {
 				{
 					["id"] = "/cast {{spell:3908/51309}}",
@@ -45,12 +154,12 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCCTe",
 				}, -- [4]
 				{
-					["sliceToken"] = "OPCCTa",
 					["id"] = "/cast {{spell:2259/51304}}",
+					["sliceToken"] = "OPCCTa",
 				}, -- [5]
 				{
-					["sliceToken"] = "OPCCTc",
 					["id"] = "/cast [mod] {{spell:818}}; {{spell:2550/51296}}; {{spell:818}}",
+					["sliceToken"] = "OPCCTc",
 				}, -- [6]
 				{
 					["id"] = "/cast {{spell:4036/51306}}",
@@ -85,8 +194,8 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCCTsj",
 				}, -- [14]
 				{
-					["sliceToken"] = "OPCCThj",
 					["id"] = 193290,
+					["sliceToken"] = "OPCCThj",
 				}, -- [15]
 				{
 					"ring", -- [1]
@@ -126,6 +235,9 @@ OPie_SavedData = {
 				["save"] = true,
 				["embed"] = true,
 				["name"] = "Extra Portals",
+			},
+			["OPieFlagStore"] = {
+				["StoreVersion"] = 2,
 			},
 			["CommonHearth"] = {
 				{
@@ -258,8 +370,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuebiafrDf",
 				}, -- [5]
 				["name"] = "cooking pets",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 			["HerosPath"] = {
 				{
@@ -323,32 +435,32 @@ OPie_SavedData = {
 					["sliceToken"] = "ABueb/zgLbu",
 				}, -- [15]
 				{
-					["sliceToken"] = "ABueb/zgLby",
 					["id"] = 410074,
+					["sliceToken"] = "ABueb/zgLby",
 				}, -- [16]
 				{
-					["sliceToken"] = "ABueb/Avfxe",
 					["id"] = 410071,
+					["sliceToken"] = "ABueb/Avfxe",
 				}, -- [17]
 				{
 					["id"] = 393283,
 					["sliceToken"] = "ABue6en/Cm1",
 				}, -- [18]
 				{
-					["sliceToken"] = "ABue6en/Cmr",
 					["id"] = 393222,
+					["sliceToken"] = "ABue6en/Cmr",
 				}, -- [19]
 				{
-					["sliceToken"] = "ABue61mL7ie",
 					["id"] = 393267,
+					["sliceToken"] = "ABue61mL7ie",
 				}, -- [20]
 				{
-					["sliceToken"] = "ABue6uMXEDe",
 					["id"] = 393276,
+					["sliceToken"] = "ABue6uMXEDe",
 				}, -- [21]
 				{
-					["sliceToken"] = "ABue6zyK5le",
 					["id"] = 410078,
+					["sliceToken"] = "ABue6zyK5le",
 				}, -- [22]
 				["name"] = "Hero's Path",
 				["save"] = true,
@@ -427,13 +539,10 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuebuGxwpw1",
 					["embed"] = false,
 				}, -- [17]
-				["name"] = "Portals and Teleports",
+				["limit"] = "MAGE",
 				["save"] = true,
 				["hotkey"] = "ALT-G",
-				["limit"] = "MAGE",
-			},
-			["OPieFlagStore"] = {
-				["StoreVersion"] = 2,
+				["name"] = "Portals and Teleports",
 			},
 			["MageTools"] = {
 				{

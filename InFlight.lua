@@ -3,14 +3,20 @@ InFlightDB = {
 	["version"] = "retail",
 	["global"] = {
 		["Horde"] = {
+			[1574] = {
+				[1559] = 87,
+			},
+			[2165] = {
+				[1955] = 152,
+			},
 			[1858] = {
 				[1742] = 130,
 			},
 			[2773] = {
+				[2810] = 147,
+				["name"] = "Azure Archives",
 				[2807] = 167,
 				[2774] = 42,
-				["name"] = "Azure Archives",
-				[2810] = 147,
 			},
 			[2774] = {
 				["name"] = "Camp Antonidas",
@@ -39,14 +45,13 @@ InFlightDB = {
 				[2810] = 49,
 			},
 			[2810] = {
-				[2805] = 100,
-				[2775] = 179,
-				["name"] = "Valdrakken",
 				[2855] = 157,
+				[2805] = 100,
+				["name"] = "Valdrakken",
+				[2775] = 179,
 			},
-			[2811] = {
-				["name"] = "Gelikyr Post",
-				[2774] = 127,
+			[1408] = {
+				[1559] = 167,
 			},
 			[2814] = {
 				[2818] = 85,
@@ -65,9 +70,15 @@ InFlightDB = {
 				["name"] = "Vault of the Incarnates",
 				[2810] = 75,
 			},
+			[2838] = {
+				[2842] = 7,
+				[2841] = 7,
+				["name"] = "Cobalt Assembly",
+			},
 			[2839] = {
-				["name"] = "Rusza'thar Reach",
+				[2862] = 7,
 				[2840] = 4,
+				["name"] = "Rusza'thar Reach",
 			},
 			[2840] = {
 				[2839] = 5,
@@ -75,15 +86,16 @@ InFlightDB = {
 				["name"] = "Shady Sanctuary",
 			},
 			[2841] = {
-				[2862] = 7,
-				[2838] = 7,
-				["name"] = "Skytop Observatory",
 				[2840] = 7,
+				[2862] = 7,
+				["name"] = "Skytop Observatory",
+				[2838] = 7,
 			},
 			[2842] = {
-				[2838] = 7,
 				["name"] = "Rubyscale Outpost",
 				[2862] = 8,
+				[2840] = 7,
+				[2838] = 7,
 			},
 			[2855] = {
 				["name"] = "Morqut Village",
@@ -102,13 +114,26 @@ InFlightDB = {
 				["name"] = "Obsidian Rest",
 				[2863] = 43,
 			},
-			[2838] = {
-				[2842] = 7,
-				[2841] = 7,
-				["name"] = "Cobalt Assembly",
+			[2904] = {
+				["name"] = "Eye of Ysera",
+				[2902] = 36,
+			},
+			[2811] = {
+				["name"] = "Gelikyr Post",
+				[2774] = 127,
+			},
+			[1508] = {
+				[1503] = 141,
+			},
+			[1966] = {
+				[2165] = 67,
 			},
 		},
 		["Alliance"] = {
+			nil, -- [1]
+			{
+				[84] = 641,
+			}, -- [2]
 			[2803] = {
 				["name"] = "Uktulut Pier",
 				[2809] = 96,
@@ -118,9 +143,9 @@ InFlightDB = {
 				[2775] = 85,
 			},
 			[2807] = {
-				[2792] = 75,
 				["name"] = "Ruby Life Pools",
 				[2774] = 130,
+				[2792] = 75,
 			},
 			[2809] = {
 				["name"] = "Dragonscale Basecamp",
@@ -130,6 +155,11 @@ InFlightDB = {
 				[2794] = 135,
 				["name"] = "Gelikyr Post",
 				[2815] = 46,
+			},
+			[2834] = {
+				[2842] = 8,
+				[2841] = 8,
+				["name"] = "Eon's Fringe",
 			},
 			[2784] = {
 				[2809] = 170,
@@ -141,50 +171,42 @@ InFlightDB = {
 				[2807] = 107,
 				["name"] = "Rhonin's Shield",
 			},
-			[2834] = {
-				[2842] = 8,
-				[2841] = 8,
-				["name"] = "Eon's Fringe",
+			[2841] = {
+				["name"] = "Skytop Observatory",
+				[2838] = 7,
 			},
-			[2842] = {
-				[2837] = 7,
-				[2838] = 8,
-				["name"] = "Rubyscale Outpost",
-				[2840] = 7,
+			[2855] = {
+				["name"] = "Morqut Village",
+				[2818] = 164,
 			},
 			[2792] = {
 				["name"] = "Maruukai",
 				[2773] = 131,
-				[2775] = 118,
-				[2789] = 68,
-				[2825] = 44,
 				[2793] = 44,
+				[2775] = 118,
+				[2825] = 44,
+				[2789] = 68,
 			},
 			[2825] = {
 				["name"] = "Ohn'iri Springs",
 				[2793] = 29,
 			},
-			[2810] = {
-				[2806] = 69,
-				[2784] = 128,
-				[2792] = 63,
-				[2793] = 78,
-				[2801] = 90,
-				[2773] = 147,
-				["name"] = "Valdrakken",
-				[2775] = 180,
-				[2807] = 46,
-				[2818] = 79,
+			[2842] = {
+				["name"] = "Rubyscale Outpost",
+				[2838] = 8,
+				[2840] = 7,
+				[2837] = 7,
 			},
 			[2798] = {
 				[2797] = 52,
-				["name"] = "Pinewood Post",
 				[2810] = 53,
 				[2825] = 51,
+				["name"] = "Pinewood Post",
 			},
 			[2862] = {
-				["name"] = "Morqut Islet",
 				[2842] = 7,
+				[2841] = 7,
+				["name"] = "Morqut Islet",
 			},
 			[2802] = {
 				["name"] = "Obsidian Throne",
@@ -205,13 +227,23 @@ InFlightDB = {
 				[2802] = 188,
 			},
 			[2839] = {
-				[2840] = 4,
 				["name"] = "Rusza'thar Reach",
+				[2862] = 7,
 				[2837] = 7,
+				[2840] = 4,
 			},
-			[2841] = {
-				["name"] = "Skytop Observatory",
-				[2838] = 7,
+			[2810] = {
+				[2806] = 69,
+				[2784] = 128,
+				[2792] = 63,
+				[2793] = 78,
+				[2801] = 90,
+				[2773] = 147,
+				["name"] = "Valdrakken",
+				[2818] = 79,
+				[2775] = 180,
+				[2807] = 46,
+				[2786] = 72,
 			},
 			[2812] = {
 				["name"] = "Temporal Conflux",
@@ -224,24 +256,24 @@ InFlightDB = {
 				[2839] = 4,
 				[2842] = 6,
 			},
-			[2855] = {
-				["name"] = "Morqut Village",
-				[2818] = 164,
+			[2838] = {
+				[2842] = 7,
+				[2836] = 7,
+				["name"] = "Cobalt Assembly",
+				[2839] = 7,
 			},
 			[2787] = {
 				["name"] = "Cobalt Assembly",
 				[2810] = 79,
 			},
-			[2838] = {
-				[2842] = 7,
-				[2839] = 7,
-				["name"] = "Cobalt Assembly",
-				[2836] = 7,
-			},
 			[2837] = {
 				[2842] = 7,
 				[2841] = 7,
 				["name"] = "Vakthros",
+				[2834] = 7,
+			},
+			[7] = {
+				[66] = 242,
 			},
 			[2793] = {
 				[2794] = 55,
@@ -263,25 +295,27 @@ InFlightDB = {
 				[2793] = 124,
 			},
 			[2805] = {
+				[2773] = 218,
 				[2793] = 150,
 				[2810] = 98,
 				["name"] = "Wingrest Embassy",
 			},
 		},
 	},
-	["upload"] = 1690857881,
+	["upload"] = 1700618809,
+	["dbinit"] = 920,
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
+		["Lotic - Argent Dawn"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Ochrian - Argent Dawn"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
-	["dbinit"] = 920,
 	["profiles"] = {
 		["Default"] = {
 		},

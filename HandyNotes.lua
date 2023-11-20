@@ -7,7 +7,9 @@ HandyNotesDB = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
@@ -27,7 +29,11 @@ HandyNotesDB = {
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 		},
+		["Lotic - Argent Dawn"] = {
+		},
 		["Riparium - Argent Dawn"] = {
+		},
+		["Emptystreams - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
@@ -49,7 +55,9 @@ HandyNotes_HandyNotesDB = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
@@ -69,7 +77,11 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 		},
+		["Lotic - Argent Dawn"] = {
+		},
 		["Riparium - Argent Dawn"] = {
+		},
+		["Emptystreams - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},

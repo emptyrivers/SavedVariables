@@ -73,6 +73,8 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 					{
+						["name"] = "New Look #1",
+						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["data"] = {
 							{
 								1612, -- [1]
@@ -151,8 +153,6 @@ NarciBarberShopDB = {
 								20009, -- [2]
 							}, -- [19]
 						},
-						["name"] = "New Look #1",
-						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["timeCreated"] = 1672083038,
 					}, -- [1]
 				},
@@ -163,9 +163,9 @@ NarciBarberShopDB = {
 			["playerName"] = "Riparium",
 			["realmID"] = "75",
 			["SavedLooks"] = {
-				["chrModel129"] = {
-				},
 				["chrModel183"] = {
+				},
+				["chrModel129"] = {
 				},
 				[29] = {
 					["male"] = {
