@@ -1,29 +1,110 @@
 
 OmniCDDB = {
 	["profileKeys"] = {
+		["Alluvium - Argent Dawn"] = "Default",
+		["Sverdrup - Argent Dawn"] = "Default",
+		["Emptystreams - Argent Dawn"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
+		["Confluence - Argent Dawn"] = "Default",
+		["Mothugeon - Argent Dawn"] = "Default",
 		["Lotic - Argent Dawn"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Emptystreams - Argent Dawn"] = "Default",
-		["Sverdrup - Argent Dawn"] = "Default",
-		["Flumina - Argent Dawn"] = "Default",
-		["Headcut - Argent Dawn"] = "Default",
+		["Naturerivers - Korgath"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
+		["Alandere - Argent Dawn"] = "Default",
+		["Stream - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
 	["namespaces"] = {
 		["LibDualSpec-1.0"] = {
 		},
+		["BattleRes"] = {
+			["profiles"] = {
+				["Default"] = {
+					["manualPos"] = {
+						["OmniCDBrez"] = {
+							["y"] = 417.4168202840119,
+							["x"] = 348.9832765275532,
+						},
+					},
+				},
+			},
+		},
 	},
 	["cooldowns"] = {
+		[363916] = {
+			["type"] = "defensive",
+			["buff"] = 363916,
+			["class"] = "EVOKER",
+			["maxRanks"] = 1,
+			["spec"] = {
+				363916, -- [1]
+			},
+			["name"] = "Obsidian Scales",
+			["charges"] = {
+				["default"] = 1,
+			},
+			["ID"] = 108,
+			["duration"] = {
+				["default"] = 90,
+			},
+			["icon"] = 1394891,
+			["spellID"] = 363916,
+		},
+		[374348] = {
+			["type"] = "defensive",
+			["buff"] = 374348,
+			["class"] = "EVOKER",
+			["maxRanks"] = 1,
+			["charges"] = {
+				["default"] = 1,
+			},
+			["name"] = "Renewing Blaze",
+			["spec"] = {
+				374348, -- [1]
+			},
+			["ID"] = 86,
+			["duration"] = {
+				["default"] = 90,
+			},
+			["icon"] = 4630463,
+			["spellID"] = 374348,
+		},
+		[108416] = {
+			["type"] = "defensive",
+			["buff"] = 108416,
+			["class"] = "WARLOCK",
+			["maxRanks"] = 1,
+			["charges"] = {
+				["default"] = 1,
+			},
+			["name"] = "Dark Pact",
+			["spec"] = {
+				108416, -- [1]
+				266, -- [2]
+				265, -- [3]
+				267, -- [4]
+			},
+			["ID"] = 22,
+			["duration"] = {
+				["default"] = 60,
+			},
+			["icon"] = 136146,
+			["spellID"] = 108416,
+		},
 	},
 	["version"] = 3,
 	["profiles"] = {
 		["Default"] = {
+			["modules"] = {
+				["BattleRes"] = true,
+			},
 			["Party"] = {
+				["noneZoneSetting"] = "party",
 				["party"] = {
 					["extraBars"] = {
 						["raidBar0"] = {
-							["invertNameBar"] = false,
 							["statusBarWidth"] = 300,
 							["showRaidTargetMark"] = true,
 							["barColors"] = {
@@ -37,13 +118,8 @@ OmniCDDB = {
 									["b"] = 0.7960785031318665,
 								},
 							},
-							["manualPos"] = {
-								["raidBar0"] = {
-									["y"] = 494.2166969058053,
-									["x"] = 442.3167649283278,
-								},
-							},
 							["reverseFill"] = false,
+							["invertNameBar"] = false,
 							["textColors"] = {
 								["useClassColor"] = {
 									["inactive"] = true,
@@ -52,9 +128,21 @@ OmniCDDB = {
 								},
 							},
 							["sortBy"] = 1,
+							["manualPos"] = {
+								["raidBar0"] = {
+									["y"] = 364.0832640633707,
+									["x"] = 288.7169903224367,
+								},
+							},
 						},
 					},
+					["general"] = {
+						["showPlayer"] = true,
+					},
 					["spells"] = {
+						["374251"] = true,
+						["372048"] = false,
+						["108416"] = true,
 						["370511"] = true,
 					},
 					["icons"] = {
@@ -62,17 +150,25 @@ OmniCDDB = {
 						["showTooltip"] = false,
 					},
 					["position"] = {
-						["preset"] = "TOPLEFT",
-						["columns"] = 1,
-						["attach"] = "TOPLEFT",
-						["layout"] = "vertical",
-						["anchor"] = "TOPRIGHT",
+						["locked"] = false,
+						["attachMore"] = "BOTTOMLEFT",
+						["columns"] = 3,
+						["preset"] = "manual",
+						["attach"] = "BOTTOMLEFT",
+						["offsetX"] = 0,
+						["anchorMore"] = "TOPLEFT",
 					},
-					["general"] = {
-						["showPlayer"] = true,
+					["manualPos"] = {
+						{
+							["y"] = 384.3499812475275,
+							["x"] = 682.3166570813883,
+						}, -- [1]
+						[5] = {
+							["y"] = 384.3499812475275,
+							["x"] = 682.3166570813883,
+						},
 					},
 				},
-				["noneZoneSetting"] = "party",
 				["arena"] = {
 					["extraBars"] = {
 						["raidBar0"] = {
@@ -92,21 +188,36 @@ OmniCDDB = {
 						["scale"] = 0.5,
 					},
 					["position"] = {
-						["layout"] = "vertical",
+						["anchor"] = "BOTTOMRIGHT",
+						["attachMore"] = "BOTTOMLEFT",
 						["columns"] = 2,
-						["attach"] = "TOPLEFT",
-						["preset"] = "TOPLEFT",
-						["anchor"] = "TOPRIGHT",
+						["layout"] = "vertical",
+						["preset"] = "manual",
+						["attach"] = "BOTTOMLEFT",
+						["anchorMore"] = "BOTTOMRIGHT",
 					},
 					["general"] = {
 						["showPlayer"] = true,
 						["zoneSelected"] = "party",
 					},
 				},
+				["raid"] = {
+					["extraBars"] = {
+						["raidBar1"] = {
+							["manualPos"] = {
+								["raidBar1"] = {
+									["y"] = 384.3499812475275,
+									["x"] = 682.3166570813883,
+								},
+							},
+						},
+					},
+				},
 				["visibility"] = {
-					["none"] = true,
+					["arena"] = false,
 				},
 			},
+			["tooltipID"] = true,
 		},
 	},
 }

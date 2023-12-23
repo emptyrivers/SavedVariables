@@ -36,6 +36,8 @@ TalentTreeTweaksDB = {
 			["unlockInCombatSpending"] = true,
 		},
 		["MiniTreeInTooltip"] = {
+			["scale"] = 1,
+			["displayStyle"] = "simple",
 		},
 		["ReduceTaint"] = {
 			["disableMultiActionBarShowHide"] = true,
@@ -65,7 +67,7 @@ TalentTreeTweaksDB = {
 		},
 		["ChangeBackground"] = {
 			["showAlphaInUI"] = true,
-			["alpha"] = 0.6000000238418579,
+			["alpha"] = 0.5,
 			["showAlphaInViewerUI"] = true,
 		},
 		["CopyTalentButtonInfo"] = {

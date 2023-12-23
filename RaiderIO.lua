@@ -1,23 +1,65 @@
 
 RaiderIO_Config = {
+	["replayAlpha"] = 1,
+	["enableKeystoneTooltips"] = true,
 	["profilePoint"] = {
 		["y"] = 0,
 		["x"] = -16,
 		["point"] = "TOPLEFT",
 	},
-	["dockReplay"] = false,
-	["replayPoint"] = {
-		["y"] = -63.42864990234375,
-		["x"] = -293.2376098632813,
-		["point"] = "TOPRIGHT",
-	},
-	["lockReplay"] = true,
+	["enableReplay"] = true,
+	["enableLFGDropdown"] = true,
 	["displayWeeklyGuildBest"] = false,
+	["mplusHeadlineMode"] = 0,
+	["showMainsScore"] = true,
+	["showRaidEncountersInProfile"] = true,
+	["showAverageScore"] = true,
+	["enableWhoMessages"] = true,
+	["useEnglishAbbreviations"] = false,
+	["replayStyle"] = "MODERN",
+	["lockReplay"] = false,
+	["replayPoint"] = {
+		["y"] = 0,
+		["x"] = 0,
+		["point"] = "TOPLEFT",
+	},
+	["disableScoreColors"] = false,
+	["showMainBestScore"] = true,
+	["allowClientToControlCombatLog"] = true,
+	["replayBackground"] = {
+		["a"] = 0.5,
+		["b"] = 0,
+		["g"] = 0,
+		["r"] = 0,
+	},
+	["dockReplay"] = false,
+	["replaySelection"] = "user_best_replay",
+	["showScoreInCombat"] = true,
+	["enableWhoTooltips"] = true,
+	["lockProfile"] = false,
+	["enableGuildTooltips"] = true,
+	["showRaiderIOProfile"] = true,
+	["enableClientEnhancements"] = true,
+	["enableProfileModifier"] = true,
+	["positionProfileAuto"] = true,
+	["enableUnitTooltips"] = true,
+	["enableFriendsTooltips"] = true,
+	["inverseProfileModifier"] = false,
+	["showDropDownCopyURL"] = true,
+	["showRoleIcons"] = true,
+	["enableLFGTooltips"] = true,
+	["showScoreModifier"] = false,
+	["hidePersonalRaiderIOProfile"] = false,
+	["replayTiming"] = "DUNGEON",
+	["showSimpleScoreColors"] = false,
+	["enableCombatLogTracking"] = false,
+	["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Lotic-argent-dawn"
+RaiderIO_LastCharacter = "us-Riparium-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Lotic-argent-dawn"] = true,
-	["us-Yerrekt-the-scryers"] = true,
+	["us-Glurtkurgan-argent-dawn"] = true,
+	["us-Addlem-argent-dawn"] = true,
+	["us-Gwyedd-earthen-ring"] = true,
 }
 RaiderIO_MissingServers = {
 }
@@ -26,48 +68,12 @@ RaiderIO_RWF = {
 }
 RaiderIO_CompletedReplays = {
 	{
-		["character"] = "us-Riparium-argent-dawn",
-		["zoneId"] = 248,
-		["completedAt"] = 1700438664,
-		["replayRunId"] = 440235,
-		["clearTimeMS"] = 2248000,
-		["keyLevel"] = 19,
-		["replaySeason"] = "season-df-3",
-	}, -- [1]
-	{
-		["character"] = "us-Riparium-argent-dawn",
-		["zoneId"] = 198,
-		["completedAt"] = 1700440957,
-		["replayRunId"] = 1959039,
-		["clearTimeMS"] = 1523000,
-		["keyLevel"] = 18,
-		["replaySeason"] = "season-df-3",
-	}, -- [2]
-	{
-		["character"] = "us-Riparium-argent-dawn",
-		["zoneId"] = 198,
-		["completedAt"] = 1700443663,
-		["replayRunId"] = 1959039,
-		["clearTimeMS"] = 2026000,
+		["character"] = "us-Headcut-argent-dawn",
+		["zoneId"] = 168,
+		["completedAt"] = 1703297079,
+		["replayRunId"] = 9541784,
+		["clearTimeMS"] = 1928000,
 		["keyLevel"] = 20,
 		["replaySeason"] = "season-df-3",
-	}, -- [3]
-	{
-		["character"] = "us-Riparium-argent-dawn",
-		["zoneId"] = 198,
-		["completedAt"] = 1700452045,
-		["replayRunId"] = 1959039,
-		["replaySeason"] = "season-df-3",
-		["keyLevel"] = 18,
-		["clearTimeMS"] = 1714510.000026785,
-	}, -- [4]
-	{
-		["character"] = "us-Riparium-argent-dawn",
-		["zoneId"] = 248,
-		["completedAt"] = 1700454404,
-		["replayRunId"] = 2372011,
-		["replaySeason"] = "season-df-3",
-		["keyLevel"] = 15,
-		["clearTimeMS"] = 1691585.000030696,
-	}, -- [5]
+	}, -- [1]
 }
