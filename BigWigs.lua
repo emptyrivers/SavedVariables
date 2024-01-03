@@ -1,28 +1,49 @@
 
 BigWigs3DB = {
-	["profileKeys"] = {
-		["Alluvium - Argent Dawn"] = "Default",
-		["Sverdrup - Argent Dawn"] = "Default",
-		["Headcut - Argent Dawn"] = "Default",
-		["Confluence - Argent Dawn"] = "Default",
-		["Lotic - Argent Dawn"] = "Default",
-		["Riparium - Argent Dawn"] = "Default",
-		["Emptyrivers - Arthas"] = "Default",
-		["Flumina - Argent Dawn"] = "Default",
-		["Emptyrivers - Argent Dawn"] = "Default",
-		["Estuary - Argent Dawn"] = "Default",
-	},
 	["discord"] = 15,
+	["global"] = {
+		["watchedMovies"] = {
+			[991] = true,
+			[682] = true,
+			[-573] = true,
+			[-2170] = true,
+			[-575] = true,
+			[964] = true,
+			[-1151] = true,
+			[-1152] = true,
+			[-593] = {
+				true, -- [1]
+				true, -- [2]
+			},
+			[-609] = true,
+			[-367] = true,
+			[-437] = true,
+			[-2238] = {
+				true, -- [1]
+				true, -- [2]
+			},
+			[876] = true,
+			[-323] = true,
+			[-607] = true,
+			[-706] = true,
+			[-2233] = true,
+			[-1352] = {
+				true, -- [1]
+			},
+			[1003] = true,
+			[992] = true,
+		},
+	},
 	["namespaces"] = {
 		["BigWigs_Plugins_Victory"] = {
 		},
 		["BigWigs_Plugins_Alt Power"] = {
 		},
-		["BigWigs_Plugins_BossBlock"] = {
+		["LibDualSpec-1.0"] = {
 		},
 		["BigWigs_Plugins_Sounds"] = {
 		},
-		["BigWigs_Plugins_AutoReply"] = {
+		["BigWigs_Plugins_Statistics"] = {
 		},
 		["BigWigs_Plugins_Countdown"] = {
 			["profiles"] = {
@@ -38,9 +59,15 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_AltPower"] = {
 		},
-		["BigWigs_Plugins_Colors"] = {
+		["BigWigs_Bosses_Raszageth the Storm-Eater"] = {
+			["profiles"] = {
+				["Default"] = {
+					["custom_off_381615"] = true,
+					[381615] = 4112631,
+				},
+			},
 		},
-		["BigWigs_Plugins_Raid Icons"] = {
+		["BigWigs_Plugins_Wipe"] = {
 		},
 		["BigWigs_Plugins_InfoBox"] = {
 			["profiles"] = {
@@ -64,17 +91,9 @@ BigWigs3DB = {
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
 		},
-		["BigWigs_Plugins_Statistics"] = {
+		["BigWigs_Plugins_Colors"] = {
 		},
-		["BigWigs_Bosses_Raszageth the Storm-Eater"] = {
-			["profiles"] = {
-				["Default"] = {
-					["custom_off_381615"] = true,
-					[381615] = 4112631,
-				},
-			},
-		},
-		["LibDualSpec-1.0"] = {
+		["BigWigs_Plugins_AutoReply"] = {
 		},
 		["BigWigs_Plugins_Proximity"] = {
 			["profiles"] = {
@@ -101,40 +120,25 @@ BigWigs3DB = {
 				},
 			},
 		},
+		["BigWigs_Plugins_BossBlock"] = {
+		},
 		["BigWigs_Plugins_Pull"] = {
 		},
-		["BigWigs_Plugins_Wipe"] = {
+		["BigWigs_Plugins_Raid Icons"] = {
 		},
 	},
 	["wipe80"] = true,
-	["global"] = {
-		["watchedMovies"] = {
-			[991] = true,
-			[682] = true,
-			[-573] = true,
-			[-2170] = true,
-			[-575] = true,
-			[964] = true,
-			[-1151] = true,
-			[-1152] = true,
-			[-593] = {
-				true, -- [1]
-				true, -- [2]
-			},
-			[-609] = true,
-			[-367] = true,
-			[-437] = true,
-			[876] = true,
-			[-607] = true,
-			[-323] = true,
-			[-706] = true,
-			[-2233] = true,
-			[-1352] = {
-				true, -- [1]
-			},
-			[1003] = true,
-			[992] = true,
-		},
+	["profileKeys"] = {
+		["Alluvium - Argent Dawn"] = "Default",
+		["Sverdrup - Argent Dawn"] = "Default",
+		["Headcut - Argent Dawn"] = "Default",
+		["Confluence - Argent Dawn"] = "Default",
+		["Lotic - Argent Dawn"] = "Default",
+		["Riparium - Argent Dawn"] = "Default",
+		["Emptyrivers - Arthas"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
+		["Estuary - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -524,7 +528,7 @@ BigWigsStatsDB = {
 				["wipes"] = 1,
 			},
 			["heroic"] = {
-				["kills"] = 5,
+				["kills"] = 6,
 				["wipes"] = 21,
 				["best"] = 276.0219999999972,
 			},
@@ -536,13 +540,13 @@ BigWigsStatsDB = {
 		},
 		[2554] = {
 			["heroic"] = {
-				["kills"] = 5,
+				["kills"] = 6,
 				["wipes"] = 3,
 				["best"] = 241.4839999999967,
 			},
 			["normal"] = {
 				["best"] = 171.670999999973,
-				["kills"] = 6,
+				["kills"] = 7,
 			},
 			["LFR"] = {
 				["best"] = 185.1739999999991,
@@ -551,12 +555,12 @@ BigWigsStatsDB = {
 		},
 		[2555] = {
 			["heroic"] = {
-				["kills"] = 5,
-				["wipes"] = 4,
+				["kills"] = 6,
+				["wipes"] = 5,
 				["best"] = 258.8460000000196,
 			},
 			["normal"] = {
-				["kills"] = 6,
+				["kills"] = 7,
 				["wipes"] = 1,
 				["best"] = 149.4160000000848,
 			},
@@ -567,12 +571,12 @@ BigWigsStatsDB = {
 		},
 		[2563] = {
 			["normal"] = {
-				["kills"] = 6,
+				["kills"] = 7,
 				["wipes"] = 1,
 				["best"] = 142.140000000014,
 			},
 			["heroic"] = {
-				["kills"] = 3,
+				["kills"] = 4,
 				["wipes"] = 34,
 				["best"] = 334.1459999999497,
 			},
@@ -583,13 +587,13 @@ BigWigsStatsDB = {
 		},
 		[2556] = {
 			["heroic"] = {
-				["kills"] = 4,
-				["wipes"] = 17,
+				["kills"] = 5,
+				["wipes"] = 18,
 				["best"] = 265.3010000000068,
 			},
 			["normal"] = {
 				["best"] = 143.0229999999283,
-				["kills"] = 6,
+				["kills"] = 7,
 			},
 			["LFR"] = {
 				["best"] = 155.189000000013,
@@ -599,11 +603,11 @@ BigWigsStatsDB = {
 		[2564] = {
 			["heroic"] = {
 				["best"] = 177.6130000000121,
-				["kills"] = 6,
+				["kills"] = 7,
 			},
 			["normal"] = {
 				["best"] = 134.4369999999981,
-				["kills"] = 6,
+				["kills"] = 7,
 			},
 			["LFR"] = {
 				["best"] = 155.9560000000056,
@@ -616,7 +620,7 @@ BigWigsStatsDB = {
 				["kills"] = 3,
 			},
 			["heroic"] = {
-				["kills"] = 5,
+				["kills"] = 6,
 				["wipes"] = 1,
 				["best"] = 188.4539999999979,
 			},
@@ -627,12 +631,12 @@ BigWigsStatsDB = {
 		},
 		[2565] = {
 			["heroic"] = {
-				["kills"] = 2,
-				["wipes"] = 20,
+				["kills"] = 3,
+				["wipes"] = 24,
 				["best"] = 410.6849999999977,
 			},
 			["normal"] = {
-				["kills"] = 6,
+				["kills"] = 7,
 				["wipes"] = 1,
 				["best"] = 244.2090000000317,
 			},
@@ -643,10 +647,10 @@ BigWigsStatsDB = {
 		},
 		[2519] = {
 			["heroic"] = {
-				["wipes"] = 24,
+				["wipes"] = 34,
 			},
 			["normal"] = {
-				["kills"] = 6,
+				["kills"] = 7,
 				["wipes"] = 7,
 				["best"] = 340.2920000000158,
 			},

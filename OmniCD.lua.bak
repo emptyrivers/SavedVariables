@@ -2,18 +2,19 @@
 OmniCDDB = {
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Default",
-		["Sverdrup - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
+		["Sverdrup - Argent Dawn"] = "Default",
+		["Stream - Argent Dawn"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
 		["Mothugeon - Argent Dawn"] = "Default",
 		["Lotic - Argent Dawn"] = "Default",
-		["Riparium - Argent Dawn"] = "Default",
-		["Stream - Argent Dawn"] = "Default",
-		["Emptyrivers - Argent Dawn"] = "Default",
+		["Mangrove - Argent Dawn"] = "Default",
 		["Alandere - Argent Dawn"] = "Default",
-		["Flumina - Argent Dawn"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
 		["Naturerivers - Korgath"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
+		["Riparium - Argent Dawn"] = "Default",
 		["Emptystreams - Argent Dawn"] = "Default",
 	},
 	["namespaces"] = {
@@ -24,8 +25,8 @@ OmniCDDB = {
 				["Default"] = {
 					["manualPos"] = {
 						["OmniCDBrez"] = {
-							["y"] = 417.4168202840119,
-							["x"] = 348.9832765275532,
+							["y"] = 335.2832676055896,
+							["x"] = 295.6500193791726,
 						},
 					},
 				},
@@ -118,6 +119,7 @@ OmniCDDB = {
 									["r"] = 0.7960785031318665,
 								},
 							},
+							["locked"] = true,
 							["reverseFill"] = false,
 							["invertNameBar"] = false,
 							["textColors"] = {
@@ -130,8 +132,8 @@ OmniCDDB = {
 							["sortBy"] = 1,
 							["manualPos"] = {
 								["raidBar0"] = {
-									["y"] = 364.0832640633707,
-									["x"] = 288.7169903224367,
+									["y"] = 278.7498945449097,
+									["x"] = 841.7839944535663,
 								},
 							},
 						},

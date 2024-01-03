@@ -6,115 +6,143 @@ DataStore_TalentsDB = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Argent Dawn.Headcut"] = {
 				["activeSpecRole"] = "HEALER",
-				["lastUpdate"] = 1685729711,
-				["Specializations"] = {
-					0, -- [1]
-					[3] = 0,
-				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Restoration",
-				["Class"] = "SHAMAN",
-			},
-			["Default.Argent Dawn.Riparium"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1690835335,
+				["lastUpdate"] = 1704234976,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
 					0, -- [3]
 				},
+				["Class"] = "SHAMAN",
 				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Destruction",
+				["activeSpecName"] = "Restoration",
+			},
+			["Default.Argent Dawn.Riparium"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704315797,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
 				["Class"] = "WARLOCK",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Demonology",
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704315327,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["Class"] = "MAGE",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Fire",
+			},
+			["Default.Argent Dawn.Flumina"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704272624,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["Class"] = "PRIEST",
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Shadow",
+			},
+			["Default.Argent Dawn.Alluvium"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704235089,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["Class"] = "EVOKER",
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Devastation",
+			},
+			["Default.Argent Dawn.Cataracts"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704007584,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					[5] = 0,
+				},
+				["Class"] = "DEMONHUNTER",
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Havoc",
+			},
+			["Default.Argent Dawn.Lotic"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704083407,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["Class"] = "DRUID",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Feral",
+			},
+			["Default.Argent Dawn.Sverdrup"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704235346,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["Class"] = "MONK",
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Windwalker",
+			},
+			["Default.Argent Dawn.Estuary"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704235226,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+				},
+				["Class"] = "ROGUE",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Outlaw",
+			},
+			["Default.Argent Dawn.Mangrove"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704276378,
+				["Specializations"] = {
+					[2] = 0,
+				},
+				["Class"] = "DRUID",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Feral",
 			},
 			["Default.Argent Dawn.Confluence"] = {
-				["activeSpecRole"] = "TANK",
-				["lastUpdate"] = 1686964483,
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1704234854,
 				["Specializations"] = {
 					[2] = 0,
 					[3] = 0,
 				},
-				["activeSpecIndex"] = 2,
-				["activeSpecName"] = "Protection",
 				["Class"] = "PALADIN",
-			},
-			["Default.Argent Dawn.Alluvium"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1685814813,
-				["Specializations"] = {
-					0, -- [1]
-					0, -- [2]
-				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Devastation",
-				["Class"] = "EVOKER",
-			},
-			["Default.Argent Dawn.Estuary"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686784734,
-				["Specializations"] = {
-					0, -- [1]
-					[3] = 0,
-				},
 				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Subtlety",
-				["Class"] = "ROGUE",
-			},
-			["Default.Argent Dawn.Sverdrup"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1686783752,
-				["Specializations"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Windwalker",
-				["Class"] = "MONK",
-			},
-			["Default.Argent Dawn.Ochrian"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1676258112,
-				["Specializations"] = {
-					0, -- [1]
-					[5] = 0,
-				},
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Arcane",
-				["Class"] = "MAGE",
-			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1690836119,
-				["Specializations"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Frost",
-				["Class"] = "MAGE",
-			},
-			["Default.Argent Dawn.Flumina"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1690424634,
-				["Specializations"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-				},
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Shadow",
-				["Class"] = "PRIEST",
+				["activeSpecName"] = "Retribution",
 			},
 		},
 	},
@@ -126,68 +154,30 @@ DataStore_TalentsRefDB = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
-		["SHAMAN"] = {
+		["ROGUE"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 262,
+					["id"] = 259,
 				}, -- [1]
 				{
-					["id"] = 263,
+					["id"] = 260,
 				}, -- [2]
 				{
-					["id"] = 264,
+					["id"] = 261,
 				}, -- [3]
 			},
-			["Version"] = 49801,
-		},
-		["EVOKER"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 1467,
-				}, -- [1]
-				{
-					["id"] = 1468,
-				}, -- [2]
-			},
-			["Version"] = 49801,
-		},
-		["WARLOCK"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 265,
-				}, -- [1]
-				{
-					["id"] = 266,
-				}, -- [2]
-				{
-					["id"] = 267,
-				}, -- [3]
-			},
-			["Version"] = 50622,
-		},
-		["PALADIN"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 65,
-				}, -- [1]
-				{
-					["id"] = 66,
-				}, -- [2]
-				{
-					["id"] = 70,
-				}, -- [3]
-			},
-			["Version"] = 50000,
+			["Version"] = 52649,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",
@@ -202,37 +192,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 64,
 				}, -- [3]
 			},
-			["Version"] = 50622,
-		},
-		["ROGUE"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 259,
-				}, -- [1]
-				{
-					["id"] = 260,
-				}, -- [2]
-				{
-					["id"] = 261,
-				}, -- [3]
-			},
-			["Version"] = 50000,
-		},
-		["MONK"] = {
-			["Locale"] = "enUS",
-			["Specializations"] = {
-				{
-					["id"] = 268,
-				}, -- [1]
-				{
-					["id"] = 270,
-				}, -- [2]
-				{
-					["id"] = 269,
-				}, -- [3]
-			},
-			["Version"] = 50000,
+			["Version"] = 52649,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -247,7 +207,112 @@ DataStore_TalentsRefDB = {
 					["id"] = 258,
 				}, -- [3]
 			},
-			["Version"] = 50585,
+			["Version"] = 52649,
+		},
+		["PALADIN"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 65,
+				}, -- [1]
+				{
+					["id"] = 66,
+				}, -- [2]
+				{
+					["id"] = 70,
+				}, -- [3]
+			},
+			["Version"] = 52649,
+		},
+		["WARLOCK"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 265,
+				}, -- [1]
+				{
+					["id"] = 266,
+				}, -- [2]
+				{
+					["id"] = 267,
+				}, -- [3]
+			},
+			["Version"] = 52649,
+		},
+		["DEMONHUNTER"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 577,
+				}, -- [1]
+				{
+					["id"] = 581,
+				}, -- [2]
+			},
+			["Version"] = 52649,
+		},
+		["MONK"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 268,
+				}, -- [1]
+				{
+					["id"] = 270,
+				}, -- [2]
+				{
+					["id"] = 269,
+				}, -- [3]
+			},
+			["Version"] = 52649,
+		},
+		["DRUID"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 102,
+				}, -- [1]
+				{
+					["id"] = 103,
+				}, -- [2]
+				{
+					["id"] = 104,
+				}, -- [3]
+				{
+					["id"] = 105,
+				}, -- [4]
+			},
+			["Version"] = 52649,
+		},
+		["EVOKER"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 1467,
+				}, -- [1]
+				{
+					["id"] = 1468,
+				}, -- [2]
+				{
+					["id"] = 1473,
+				}, -- [3]
+			},
+			["Version"] = 52649,
+		},
+		["SHAMAN"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 262,
+				}, -- [1]
+				{
+					["id"] = 263,
+				}, -- [2]
+				{
+					["id"] = 264,
+				}, -- [3]
+			},
+			["Version"] = 52649,
 		},
 	},
 }

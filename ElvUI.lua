@@ -99,7 +99,7 @@ ElvDB = {
 							["enable"] = false,
 							["priority"] = 0,
 						},
-						["Well Fed"] = {
+						["Prismatic Reflection"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -151,7 +151,7 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Glyph of Lightning Shield"] = {
+						["Honorless Target"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -215,7 +215,7 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Honorless Target"] = {
+						["Glyph of Lightning Shield"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -291,7 +291,7 @@ ElvDB = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
-						["Prismatic Reflection"] = {
+						["Well Fed"] = {
 							["enable"] = true,
 							["priority"] = 0,
 						},
@@ -516,67 +516,49 @@ ElvDB = {
 			["settings"] = {
 				["Currencies"] = {
 					["tooltipData"] = {
-						nil, -- [1]
-						nil, -- [2]
-						nil, -- [3]
-						nil, -- [4]
-						nil, -- [5]
-						nil, -- [6]
-						nil, -- [7]
-						nil, -- [8]
-						nil, -- [9]
-						nil, -- [10]
-						{
+						[11] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [11]
-						nil, -- [12]
-						nil, -- [13]
-						nil, -- [14]
-						nil, -- [15]
-						nil, -- [16]
-						nil, -- [17]
-						{
+						},
+						[18] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [18]
-						nil, -- [19]
-						{
+						},
+						[20] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [20]
-						nil, -- [21]
-						{
+						},
+						[22] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [22]
+						},
 						[28] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
 						},
-						[30] = {
+						[31] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
 						},
-						[32] = {
+						[33] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
 						},
-						[34] = {
+						[35] = {
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
@@ -724,31 +706,7 @@ ElvDB = {
 					"heal", -- [4]
 					["enabled"] = true,
 				},
-				["Serenerivers - Korgath"] = {
-					"Brewmaster Monk", -- [1]
-					"Mistweaver Monk", -- [2]
-					"Windwalker Monk", -- [3]
-					["enabled"] = true,
-				},
-				["Headcut - Argent Dawn"] = {
-					["enabled"] = false,
-				},
 				["Beefyrivers - Arthas"] = {
-					["enabled"] = false,
-				},
-				["Crazyrivers - Arthas"] = {
-					"heal", -- [1]
-					"heal", -- [2]
-					"dps", -- [3]
-					["enabled"] = true,
-				},
-				["Emptyrivers - Arthas"] = {
-					["enabled"] = false,
-				},
-				["Alluvium - Argent Dawn"] = {
-					["enabled"] = false,
-				},
-				["Tinyrivers - Sargeras"] = {
 					["enabled"] = false,
 				},
 				["Serenerivers - Sargeras"] = {
@@ -756,6 +714,30 @@ ElvDB = {
 					"heal", -- [2]
 					"dps", -- [3]
 					["enabled"] = true,
+				},
+				["Crazyrivers - Arthas"] = {
+					"heal", -- [1]
+					"heal", -- [2]
+					"dps", -- [3]
+					["enabled"] = true,
+				},
+				["Headcut - Argent Dawn"] = {
+					["enabled"] = false,
+				},
+				["Emptyrivers - Arthas"] = {
+					["enabled"] = false,
+				},
+				["Serenerivers - Korgath"] = {
+					"Brewmaster Monk", -- [1]
+					"Mistweaver Monk", -- [2]
+					"Windwalker Monk", -- [3]
+					["enabled"] = true,
+				},
+				["Tinyrivers - Sargeras"] = {
+					["enabled"] = false,
+				},
+				["Alluvium - Argent Dawn"] = {
+					["enabled"] = false,
 				},
 				["Serenerivers - Bleeding Hollow"] = {
 					"tank", -- [1]
@@ -785,12 +767,13 @@ ElvDB = {
 		["Argent Dawn"] = {
 			["Sverdrup"] = "MONK",
 			["Flumina"] = "PRIEST",
-			["Lotic"] = "DRUID",
+			["Mangrove"] = "DRUID",
 			["Confluence"] = "PALADIN",
 			["Stream"] = "HUNTER",
+			["Riparium"] = "WARLOCK",
 			["Headcut"] = "SHAMAN",
 			["Estuary"] = "ROGUE",
-			["Riparium"] = "WARLOCK",
+			["Cataracts"] = "DEMONHUNTER",
 			["Alluvium"] = "EVOKER",
 			["Emptyrivers"] = "MAGE",
 		},
@@ -6459,6 +6442,7 @@ ElvDB = {
 				["alignToChat"] = false,
 			},
 			["chat"] = {
+				["socialQueueMessages"] = true,
 				["panelHeightRight"] = 150,
 				["panelWidth"] = 450,
 				["useCustomTimeColor"] = false,
@@ -6478,11 +6462,9 @@ ElvDB = {
 				["panelSnapLeftID"] = 1,
 				["tapFontSize"] = 12,
 				["fontSize"] = 16,
-				["keywords"] = "%MYNAME%, rivers",
 				["tabFontSize"] = 16,
+				["keywords"] = "%MYNAME%, rivers",
 				["numAllowedCombatRepeat"] = 4,
-				["socialQueueMessages"] = true,
-				["panelSnapRightID"] = 4,
 				["hideVoiceButtons"] = true,
 			},
 			["dbConverted"] = 13.54,
@@ -6548,7 +6530,7 @@ ElvDB = {
 				["ElvUF_PlayerCastbarMover"] = "BOTTOM,ElvUIParent,BOTTOM,-316,151",
 				["PlayerPowerBarMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,190",
 				["TalkingHeadFrameMover"] = "TOP,ElvUIParent,TOP,0,-4",
-				["VOICECHAT"] = "TOPLEFT,UIParent,TOPLEFT,4,-57",
+				["VOICECHAT"] = "TOPLEFT,UIParent,TOPLEFT,4,-75",
 				["AzeriteBarMover"] = "TOPLEFT,UIParent,TOPLEFT,212,-290",
 				["HonorBarMover"] = "TOP,ElvUIParent,TOP,0,1",
 				["ElvAB_6"] = "BOTTOM,ElvUIParent,BOTTOM,-316,4",
@@ -21180,12 +21162,13 @@ ElvDB = {
 		["Argent Dawn"] = {
 			["Sverdrup"] = "Horde",
 			["Flumina"] = "Horde",
-			["Lotic"] = "Alliance",
+			["Mangrove"] = "Alliance",
 			["Confluence"] = "Alliance",
 			["Stream"] = "Horde",
+			["Riparium"] = "Alliance",
 			["Headcut"] = "Alliance",
 			["Estuary"] = "Alliance",
-			["Riparium"] = "Alliance",
+			["Cataracts"] = "Horde",
 			["Alluvium"] = "Alliance",
 			["Emptyrivers"] = "Horde",
 		},
@@ -21271,16 +21254,17 @@ ElvDB = {
 			["Emptyrivers"] = 70950762,
 		},
 		["Argent Dawn"] = {
-			["Sverdrup"] = 93629142,
-			["Flumina"] = 430958144,
-			["Lotic"] = 14828100,
-			["Confluence"] = 2354970,
-			["Stream"] = 1747100,
-			["Headcut"] = 54734485,
-			["Estuary"] = 65082677,
-			["Riparium"] = 1021608158,
-			["Alluvium"] = 331639650,
-			["Emptyrivers"] = 786325781,
+			["Sverdrup"] = 102205308,
+			["Flumina"] = 627841427,
+			["Mangrove"] = 17086707,
+			["Confluence"] = 70464320,
+			["Stream"] = 1948399,
+			["Riparium"] = 1079393756,
+			["Headcut"] = 122604466,
+			["Estuary"] = 289081666,
+			["Cataracts"] = 3615796,
+			["Alluvium"] = 341046661,
+			["Emptyrivers"] = 832077586,
 		},
 	},
 	["DisabledAddOns"] = {
@@ -21333,31 +21317,33 @@ ElvDB = {
 		["Alandere - Argent Dawn"] = "Default",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Edgyrivers - Kel'Thuzad"] = "Brewmaster Monk",
+		["Cataracts - Argent Dawn"] = "Default",
 		["Wildrivers - Arthas"] = "heal",
+		["Zimuures - Argent Dawn"] = "Default",
 		["Beefyrivers - Arthas"] = "default",
 		["Evilrivers - Korgath"] = "Destruction Lock",
-		["Zimuures - Argent Dawn"] = "Default",
-		["Lotic - Argent Dawn"] = "Default",
+		["Alluvium - Argent Dawn"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
 		["Sassyrivers - Arthas"] = "Brewmaster Monk",
-		["Serenerivers - Sargeras"] = "Default",
 		["Luckyrivers - Korgath"] = "Outlaw Rogue",
+		["Serenerivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "dps",
 		["Emptyrivers - Sargeras"] = "heal",
 		["Mecharivers - Sargeras"] = "Default",
-		["Blindrivers - Korgath"] = "Brewmaster Monk",
 		["Boringrivers - Bleeding Hollow"] = "dps",
-		["Emptyrivers - Bleeding Hollow"] = "dps",
-		["Confluence - Argent Dawn"] = "Default",
-		["Ragingrivers - Arthas"] = "tempdps",
-		["Evilrivers - Kel'Thuzad"] = "dps",
 		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
+		["Emptyrivers - Bleeding Hollow"] = "dps",
+		["Ragingrivers - Arthas"] = "tempdps",
+		["Confluence - Argent Dawn"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "dps",
+		["Blindrivers - Korgath"] = "Brewmaster Monk",
 		["Riparium - Argent Dawn"] = "Default",
 		["Blindrivers - Arthas"] = "Havoc Demon Hunter",
 		["Magicrivers - Korgath"] = "Fire Mage",
-		["Crazyrivers - Arthas"] = "dps",
+		["Lotic - Argent Dawn"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Alluvium - Argent Dawn"] = "Default",
 		["Emptyrivers - Korgath"] = "Brewmaster Monk",
+		["Mangrove - Argent Dawn"] = "Default",
 	},
 	["SLE_DB_Ver"] = "4.64",
 	["SLEMinimize"] = {
@@ -21401,10 +21387,12 @@ ElvPrivateDB = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Mindrivers - Korgath"] = "Mindrivers - Korgath",
 		["Bittydots - Korgath"] = "Bittydots - Korgath",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptyrivers - Korgath"] = "Emptyrivers - Korgath",
+		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Blindrivers - Sargeras"] = "Blindrivers - Sargeras",
 		["Tinyrivers - Kel'Thuzad"] = "Tinyrivers - Kel'Thuzad",
 		["Serenerivers - Kel'Thuzad"] = "Serenerivers - Kel'Thuzad",
@@ -21412,7 +21400,7 @@ ElvPrivateDB = {
 		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Garumn - Arthas"] = "Garumn - Arthas",
 		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
 		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 		["Hulyon - Kel'Thuzad"] = "Hulyon - Kel'Thuzad",
@@ -21420,39 +21408,39 @@ ElvPrivateDB = {
 		["Littlerivers - Kel'Thuzad"] = "Littlerivers - Kel'Thuzad",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
 		["Spicydremer - Korgath"] = "Spicydremer - Korgath",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Teenybubbles - Madoran"] = "Teenybubbles - Madoran",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
 		["Hiddenrivers - Korgath"] = "Hiddenrivers - Korgath",
 		["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
-		["Treesurgeon - Korgath"] = "Treesurgeon - Korgath",
 		["Elakai - Kel'Thuzad"] = "Elakai - Kel'Thuzad",
+		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
 		["Elakai - Korgath"] = "Elakai - Korgath",
 		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
-		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
 		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
-		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
 		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
-		["Sassyrivers - Arthas"] = "Sassyrivers - Arthas",
+		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
+		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
 		["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
 		["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
-		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+		["Sassyrivers - Arthas"] = "Sassyrivers - Arthas",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
-		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
 		["Notariver - Arthas"] = "Notariver - Arthas",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Treesurgeon - Korgath"] = "Treesurgeon - Korgath",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Teenybubbles - Madoran"] = "Teenybubbles - Madoran",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Magicrivers - Korgath"] = "Magicrivers - Korgath",
-		["Garumn - Arthas"] = "Garumn - Arthas",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
-		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 	},
 	["profiles"] = {
 		["Sverdrup - Argent Dawn"] = {
@@ -21764,10 +21752,12 @@ ElvPrivateDB = {
 			["install_complete"] = "10.14",
 		},
 		["Estuary - Argent Dawn"] = {
-			["general"] = {
-				["minimap"] = {
-					["hideTracking"] = true,
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
 				},
+				["install_complete"] = "4.57",
 			},
 			["nameplates"] = {
 				["enable"] = false,
@@ -21775,12 +21765,10 @@ ElvPrivateDB = {
 			["bags"] = {
 				["enable"] = false,
 			},
-			["sle"] = {
-				["characterGoldsSorting"] = {
-					["Argent Dawn"] = {
-					},
+			["general"] = {
+				["minimap"] = {
+					["hideTracking"] = true,
 				},
-				["install_complete"] = "4.57",
 			},
 			["install_complete"] = 13.1,
 		},
@@ -21809,6 +21797,9 @@ ElvPrivateDB = {
 			["install_complete"] = "10.31",
 		},
 		["Stream - Argent Dawn"] = {
+			["nameplates"] = {
+				["enable"] = false,
+			},
 			["sle"] = {
 				["characterGoldsSorting"] = {
 					["Argent Dawn"] = {
@@ -21838,6 +21829,19 @@ ElvPrivateDB = {
 		},
 		["Ailisuul - Arthas"] = {
 			["install_complete"] = "10.82",
+		},
+		["Cataracts - Argent Dawn"] = {
+			["nameplates"] = {
+				["enable"] = false,
+			},
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
+				},
+				["install_complete"] = "4.74",
+			},
+			["install_complete"] = 13.54,
 		},
 		["Mindrivers - Korgath"] = {
 			["addonskins"] = {
@@ -21894,6 +21898,9 @@ ElvPrivateDB = {
 			},
 			["theme"] = "class",
 			["install_complete"] = "8.29",
+		},
+		["Mahntaiaga - Arthas"] = {
+			["install_complete"] = "10.87",
 		},
 		["Blindrivers - Sargeras"] = {
 			["general"] = {
@@ -21975,21 +21982,11 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = 13.15,
 		},
-		["Flumina - Argent Dawn"] = {
-			["nameplates"] = {
-				["enable"] = false,
+		["Garumn - Arthas"] = {
+			["skins"] = {
+				["checkBoxSkin"] = false,
 			},
-			["bags"] = {
-				["enable"] = false,
-			},
-			["sle"] = {
-				["characterGoldsSorting"] = {
-					["Argent Dawn"] = {
-					},
-				},
-				["install_complete"] = "4.60",
-			},
-			["install_complete"] = 13.54,
+			["install_complete"] = "10.84",
 		},
 		["Blindrivers - Arthas"] = {
 			["addonskins"] = {
@@ -22070,18 +22067,7 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "8.29",
 		},
-		["Alluvium - Argent Dawn"] = {
-			["nameplates"] = {
-				["enable"] = false,
-			},
-			["sle"] = {
-				["characterGoldsSorting"] = {
-					["Argent Dawn"] = {
-					},
-				},
-				["install_complete"] = "4.57",
-			},
-			["install_complete"] = 13.1,
+		["Teenybubbles - Madoran"] = {
 		},
 		["Savattellir - Arthas"] = {
 			["theme"] = "class",
@@ -22106,22 +22092,18 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "10.43",
 		},
-		["Treesurgeon - Korgath"] = {
-			["general"] = {
-				["pixelPerfect"] = true,
-			},
-			["addonskins"] = {
-				["EmbedIsHidden"] = true,
-			},
-			["theme"] = "class",
-			["install_complete"] = "8.29",
-		},
 		["Elakai - Kel'Thuzad"] = {
 			["theme"] = "Default",
 			["general"] = {
 				["pixelPerfect"] = true,
 			},
 			["install_complete"] = "8.29",
+		},
+		["Serenerivers - Bleeding Hollow"] = {
+			["install_complete"] = "10.68",
+			["bags"] = {
+				["enable"] = false,
+			},
 		},
 		["Elakai - Korgath"] = {
 			["addonskins"] = {
@@ -22150,20 +22132,6 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "10.14",
 		},
-		["Blindrivers - Korgath"] = {
-			["general"] = {
-				["raidmarkerbar"] = {
-					["orientation"] = "VERTICAL",
-				},
-			},
-			["addonskins"] = {
-				["EmbedMain"] = "details!",
-				["EmbedIsHidden"] = true,
-				["EmbedSystem"] = true,
-			},
-			["theme"] = "class",
-			["install_complete"] = "10.14",
-		},
 		["Beefyrivers - Arthas"] = {
 			["general"] = {
 				["raidmarkerbar"] = {
@@ -22184,6 +22152,20 @@ ElvPrivateDB = {
 			["theme"] = "class",
 			["install_complete"] = "10.14",
 		},
+		["Blindrivers - Korgath"] = {
+			["general"] = {
+				["raidmarkerbar"] = {
+					["orientation"] = "VERTICAL",
+				},
+			},
+			["addonskins"] = {
+				["EmbedMain"] = "details!",
+				["EmbedIsHidden"] = true,
+				["EmbedSystem"] = true,
+			},
+			["theme"] = "class",
+			["install_complete"] = "10.14",
+		},
 		["Evilrivers - Korgath"] = {
 			["addonskins"] = {
 				["EmbedMain"] = "details!",
@@ -22192,12 +22174,6 @@ ElvPrivateDB = {
 			},
 			["theme"] = "class",
 			["install_complete"] = "8.40",
-		},
-		["Serenerivers - Bleeding Hollow"] = {
-			["install_complete"] = "10.68",
-			["bags"] = {
-				["enable"] = false,
-			},
 		},
 		["Brightrivers - Korgath"] = {
 			["theme"] = "class",
@@ -22211,22 +22187,12 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "8.40",
 		},
-		["Sassyrivers - Arthas"] = {
-			["general"] = {
-				["raidmarkerbar"] = {
-					["enable"] = false,
-				},
-				["minimapbar"] = {
-					["skinStyle"] = "VERTICAL",
-					["mouseover"] = true,
-				},
-			},
-			["addonskins"] = {
-				["EmbedMain"] = "details!",
-				["EmbedIsHidden"] = true,
-				["EmbedSystem"] = true,
-			},
-			["install_complete"] = "10.14",
+		["Edgyrivers - Arthas"] = {
+			["theme"] = "class",
+			["install_complete"] = "10.70",
+		},
+		["Crazyrivers - Arthas"] = {
+			["install_complete"] = "10.70",
 		},
 		["Ragingrivers - Arthas"] = {
 			["general"] = {
@@ -22298,8 +22264,22 @@ ElvPrivateDB = {
 			["theme"] = "class",
 			["install_complete"] = "10.14",
 		},
-		["Crazyrivers - Arthas"] = {
-			["install_complete"] = "10.70",
+		["Sassyrivers - Arthas"] = {
+			["general"] = {
+				["raidmarkerbar"] = {
+					["enable"] = false,
+				},
+				["minimapbar"] = {
+					["skinStyle"] = "VERTICAL",
+					["mouseover"] = true,
+				},
+			},
+			["addonskins"] = {
+				["EmbedMain"] = "details!",
+				["EmbedIsHidden"] = true,
+				["EmbedSystem"] = true,
+			},
+			["install_complete"] = "10.14",
 		},
 		["Emptyrivers - Bleeding Hollow"] = {
 			["general"] = {
@@ -22309,13 +22289,25 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "10.68",
 		},
-		["Edgyrivers - Arthas"] = {
-			["theme"] = "class",
-			["install_complete"] = "10.70",
-		},
 		["Notariver - Arthas"] = {
 			["theme"] = "class",
 			["install_complete"] = "10.14",
+		},
+		["Lotic - Argent Dawn"] = {
+			["nameplates"] = {
+				["enable"] = false,
+			},
+			["bags"] = {
+				["enable"] = false,
+			},
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
+				},
+				["install_complete"] = "4.70",
+			},
+			["install_complete"] = 13.42,
 		},
 		["Evilrivers - Kel'Thuzad"] = {
 			["theme"] = "class",
@@ -22337,18 +22329,15 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "9.17",
 		},
-		["Lotic - Argent Dawn"] = {
-			["bags"] = {
-				["enable"] = false,
+		["Treesurgeon - Korgath"] = {
+			["general"] = {
+				["pixelPerfect"] = true,
 			},
-			["sle"] = {
-				["characterGoldsSorting"] = {
-					["Argent Dawn"] = {
-					},
-				},
-				["install_complete"] = "4.70",
+			["addonskins"] = {
+				["EmbedIsHidden"] = true,
 			},
-			["install_complete"] = 13.42,
+			["theme"] = "class",
+			["install_complete"] = "8.29",
 		},
 		["Riparium - Argent Dawn"] = {
 			["bags"] = {
@@ -22366,7 +22355,18 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = 13.15,
 		},
-		["Teenybubbles - Madoran"] = {
+		["Alluvium - Argent Dawn"] = {
+			["nameplates"] = {
+				["enable"] = false,
+			},
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
+				},
+				["install_complete"] = "4.57",
+			},
+			["install_complete"] = 13.1,
 		},
 		["Magicrivers - Korgath"] = {
 			["general"] = {
@@ -22382,11 +22382,21 @@ ElvPrivateDB = {
 			["theme"] = "class",
 			["install_complete"] = "8.40",
 		},
-		["Garumn - Arthas"] = {
-			["skins"] = {
-				["checkBoxSkin"] = false,
+		["Flumina - Argent Dawn"] = {
+			["nameplates"] = {
+				["enable"] = false,
 			},
-			["install_complete"] = "10.84",
+			["bags"] = {
+				["enable"] = false,
+			},
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
+				},
+				["install_complete"] = "4.60",
+			},
+			["install_complete"] = 13.54,
 		},
 		["Tinyrivers - Sargeras"] = {
 			["skins"] = {
@@ -22409,9 +22419,6 @@ ElvPrivateDB = {
 			},
 			["install_complete"] = "10.48",
 		},
-		["Mahntaiaga - Arthas"] = {
-			["install_complete"] = "10.87",
-		},
 		["Mothugeon - Argent Dawn"] = {
 			["sle"] = {
 				["characterGoldsSorting"] = {
@@ -22420,6 +22427,19 @@ ElvPrivateDB = {
 				},
 			},
 			["install_complete"] = 13.51,
+		},
+		["Mangrove - Argent Dawn"] = {
+			["nameplates"] = {
+				["enable"] = false,
+			},
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
+				},
+				["install_complete"] = "4.74",
+			},
+			["install_complete"] = 13.54,
 		},
 	},
 }

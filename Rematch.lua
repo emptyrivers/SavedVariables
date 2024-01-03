@@ -1,6 +1,7 @@
 
 Rematch5Settings = {
 	["UseMinimapButton"] = true,
+	["QueueRandomMaxLevel"] = true,
 	["HideLevelBubbles"] = true,
 	["QueueAutoLearnOnly"] = true,
 	["QueuePreferFullHP"] = false,
@@ -17,7 +18,7 @@ Rematch5Settings = {
 	["DontSortByRelevance"] = false,
 	["DisableShare"] = false,
 	["ShowSpeciesID"] = true,
-	["XPos"] = 35.80942153930664,
+	["XPos"] = 7.047529220581055,
 	["ShowAbilityNumbersLoaded"] = false,
 	["HideTruncatedTooltips"] = false,
 	["AlternateWinRecord"] = false,
@@ -33,7 +34,7 @@ Rematch5Settings = {
 	["CustomScaleValue"] = 100,
 	["StrongVsLevel"] = true,
 	["QueueActiveSort"] = true,
-	["MaximizedLayout"] = "2-options",
+	["MaximizedLayout"] = "2-pets",
 	["ExportIncludePreferences"] = false,
 	["DisplayUniqueTotal"] = false,
 	["SafariHatShine"] = true,
@@ -80,7 +81,6 @@ Rematch5Settings = {
 		}, -- [8]
 	},
 	["SpecialSlots"] = {
-		[3] = "random:0",
 	},
 	["PreferPetsTab"] = false,
 	["QueueRandomWhenEmpty"] = true,
@@ -115,41 +115,41 @@ Rematch5Settings = {
 	["ColorTeamNames"] = true,
 	["AbilityBackground"] = "Icon",
 	["InteractShowAfterLoad"] = true,
-	["DontConfirmDeleteNotes"] = false,
 	["ExpandedOptionsHeaders"] = {
 		true, -- [1]
 		[23] = true,
 		[9] = true,
 	},
-	["DontConfirmCaging"] = true,
+	["DontConfirmDeleteNotes"] = false,
 	["ReverseToolbar"] = false,
+	["DontConfirmCaging"] = true,
+	["JournalLayout"] = "3-options",
 	["AllowHiddenPets"] = true,
 	["ShowAfterBattle"] = true,
-	["JournalLayout"] = "3-options",
-	["PetCardNoMouseoverFlip"] = false,
 	["NotesWidth"] = 257.9999389648438,
+	["PetCardNoMouseoverFlip"] = false,
 	["QueueAutoLearnRare"] = false,
+	["ClickToDrag"] = false,
 	["LockWindow"] = true,
-	["AutoWinRecordPVPOnly"] = false,
-	["WarnWhenRandomNot25"] = false,
+	["DontConfirmFillQueue"] = false,
+	["AlwaysUsePetSatchel"] = false,
 	["Anchor"] = "TOPLEFT",
 	["ShowFillQueueMore"] = true,
 	["LoadHealthiest"] = false,
-	["currentTeamID"] = "team:159",
-	["HideBreedsLists"] = false,
+	["currentTeamID"] = "loadonly",
 	["CompactPetList"] = true,
+	["QueueSkipDead"] = true,
 	["CompactQueueList"] = true,
 	["DontConfirmDeleteTeams"] = false,
 	["KeepNotesOnScreen"] = true,
-	["QueueSkipDead"] = true,
 	["LoadHealthiestAny"] = false,
 	["ShowAfterPVEOnly"] = false,
 	["ShowNewGroupTab"] = true,
 	["NotesNoEscFix"] = true,
-	["DontConfirmRemoveQueue"] = true,
-	["InteractPreferUninjured"] = false,
 	["PetNotes"] = {
 	},
+	["DontConfirmRemoveQueue"] = true,
+	["InteractPreferUninjured"] = false,
 	["SortByNickname"] = false,
 	["Filters"] = {
 		["Other"] = {
@@ -163,6 +163,7 @@ Rematch5Settings = {
 		["Sources"] = {
 		},
 		["Sort"] = {
+			7, -- [1]
 		},
 		["Level"] = {
 		},
@@ -174,12 +175,12 @@ Rematch5Settings = {
 		},
 		["Rarity"] = {
 		},
-		["RawSearchText"] = "BLIZZARD ",
+		["RawSearchText"] = "\"Elmer\"",
 		["Similar"] = {
 		},
 		["Search"] = {
-			["Pattern"] = "[bB][lL][iI][zZ][zZ][aA][rR][dD]",
-			["Length"] = 8,
+			["Pattern"] = "^[eE][lL][mM][eE][rR]$",
+			["Length"] = 7,
 		},
 		["Breed"] = {
 		},
@@ -193,228 +194,298 @@ Rematch5Settings = {
 		},
 	},
 	["ShowAbilityNumbers"] = true,
-	["NotesFont"] = "GameFontHighlight",
-	["InteractOnTarget"] = 0,
-	["ShowNotesOnce"] = false,
 	["HideTooltips"] = false,
+	["NotesFont"] = "GameFontHighlight",
+	["KeepCompanion"] = false,
+	["ShowNotesOnce"] = false,
+	["InteractOnTarget"] = 0,
 	["HiddenPets"] = {
 	},
-	["AlwaysTeamTabs"] = false,
+	["PrioritizeBreedOnImport"] = true,
 	["EnableDrag"] = true,
 	["NotesHeight"] = 258,
 	["HidePetToast"] = true,
-	["PrioritizeBreedOnImport"] = true,
 	["HideNonBattlePets"] = false,
+	["PetCardShowExpansionStat"] = false,
 	["StickyNewPets"] = false,
 	["BackupCount"] = 275,
 	["HideToolbarTooltips"] = false,
 	["LastOpenLayout"] = "3-options",
 	["QueueDoubleClick"] = true,
-	["HideOptionTooltips"] = false,
-	["DontConfirmActiveSort"] = false,
 	["LevelingQueue"] = {
 		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petTag"] = "Q1433GD",
 			["added"] = 20231209213030,
 			["petID"] = "BattlePet-0-000021CE14CD",
 		}, -- [1]
 		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petTag"] = "Q1433GG",
 			["added"] = 20231217183708,
 			["petID"] = "BattlePet-0-000021D23A26",
 		}, -- [2]
 		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petTag"] = "Q1433DR",
 			["added"] = 20231213165106,
 			["petID"] = "BattlePet-0-000021D0270B",
 		}, -- [3]
 		{
-			["preferred"] = false,
+			["preferred"] = true,
+			["petTag"] = "Q1433GI",
+			["added"] = 20231226183806,
+			["petID"] = "BattlePet-0-000021D805E3",
+		}, -- [4]
+		{
+			["preferred"] = true,
 			["petTag"] = "Q14A211",
 			["added"] = 20231130040746,
 			["petID"] = "BattlePet-0-000021A1E76F",
-		}, -- [4]
+		}, -- [5]
 		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petTag"] = "Q1442CM",
 			["added"] = 20231130040631,
 			["petID"] = "BattlePet-0-0000210B58A0",
-		}, -- [5]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14C1T4",
-			["added"] = 20231130040624,
-			["petID"] = "BattlePet-0-000021A1E652",
 		}, -- [6]
 		{
-			["preferred"] = false,
+			["petID"] = "BattlePet-0-00000E0BBEF5",
 			["petTag"] = "Q1491IR",
 			["added"] = 20231130040552,
-			["petID"] = "BattlePet-0-00000E0BBEF5",
+			["preferred"] = true,
 		}, -- [7]
 		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petTag"] = "Q144141",
 			["added"] = 20231130040542,
 			["petID"] = "BattlePet-0-00000E0BBD4A",
 		}, -- [8]
 		{
-			["preferred"] = false,
-			["petTag"] = "Q1471L9",
-			["added"] = 20231130040606,
-			["petID"] = "BattlePet-0-00000E0BBED6",
-		}, -- [9]
-		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petTag"] = "Q1392R4",
 			["added"] = 20231130040612,
 			["petID"] = "BattlePet-0-0000210533A4",
-		}, -- [10]
+		}, -- [9]
 		{
 			["petID"] = "BattlePet-0-000021C91C6F",
 			["petTag"] = "Q14338E",
 			["added"] = 20231202001105,
-			["preferred"] = false,
+			["preferred"] = true,
+		}, -- [10]
+		{
+			["petID"] = "BattlePet-0-000021C92098",
+			["preferred"] = true,
+			["added"] = 20231202004735,
+			["petTag"] = "Q1433E3",
 		}, -- [11]
 		{
-			["preferred"] = false,
-			["petTag"] = "Q1433E3",
-			["added"] = 20231202004735,
-			["petID"] = "BattlePet-0-000021C92098",
+			["petID"] = "BattlePet-0-000021C9209B",
+			["preferred"] = true,
+			["added"] = 20231202004751,
+			["petTag"] = "Q1433DS",
 		}, -- [12]
 		{
-			["preferred"] = false,
-			["petTag"] = "Q1433DS",
-			["added"] = 20231202004751,
-			["petID"] = "BattlePet-0-000021C9209B",
+			["petID"] = "BattlePet-0-000021C92DBD",
+			["preferred"] = true,
+			["added"] = 20231202041427,
+			["petTag"] = "Q13639K",
 		}, -- [13]
 		{
-			["petID"] = "BattlePet-0-000021C92DBD",
-			["petTag"] = "Q13639K",
-			["added"] = 20231202041427,
-			["preferred"] = false,
-		}, -- [14]
-		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021C9E793",
-			["preferred"] = false,
 			["added"] = 20231203013747,
 			["petTag"] = "Q14535N",
-		}, -- [15]
+		}, -- [14]
 		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021C9E7A3",
-			["preferred"] = false,
 			["added"] = 20231203013819,
 			["petTag"] = "Q14446N",
-		}, -- [16]
+		}, -- [15]
 		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021CA50EA",
-			["preferred"] = false,
 			["added"] = 20231203164757,
 			["petTag"] = "Q14546H",
-		}, -- [17]
+		}, -- [16]
 		{
-			["preferred"] = false,
 			["petID"] = "BattlePet-0-000021CB6B88",
+			["preferred"] = true,
 			["added"] = 20231205130403,
 			["petTag"] = "Q144468",
-		}, -- [18]
+		}, -- [17]
 		{
-			["preferred"] = false,
 			["petID"] = "BattlePet-0-000021CBCDA8",
+			["preferred"] = true,
 			["added"] = 20231205204117,
 			["petTag"] = "Q144462",
-		}, -- [19]
+		}, -- [18]
 		{
-			["preferred"] = false,
 			["petID"] = "BattlePet-0-000021CBCF9F",
+			["preferred"] = true,
 			["added"] = 20231205204905,
 			["petTag"] = "Q143467",
-		}, -- [20]
+		}, -- [19]
 		{
 			["petID"] = "BattlePet-0-000021CCDFD9",
-			["preferred"] = false,
+			["preferred"] = true,
 			["added"] = 20231207165338,
 			["petTag"] = "Q14B23E",
-		}, -- [21]
+		}, -- [20]
 		{
 			["petID"] = "BattlePet-0-000021CDF5C8",
-			["preferred"] = false,
+			["preferred"] = true,
 			["added"] = 20231209174459,
 			["petTag"] = "Q14446C",
-		}, -- [22]
+		}, -- [21]
 		{
 			["petID"] = "BattlePet-0-000021D17397",
-			["preferred"] = false,
+			["preferred"] = true,
 			["added"] = 20231216132858,
 			["petTag"] = "Q1463AN",
-		}, -- [23]
+		}, -- [22]
 		{
 			["petID"] = "BattlePet-0-000021D1B244",
-			["preferred"] = false,
+			["preferred"] = true,
 			["added"] = 20231216205103,
 			["petTag"] = "Q14CAH",
-		}, -- [24]
+		}, -- [23]
 		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021D2703B",
-			["preferred"] = false,
 			["added"] = 20231218024655,
 			["petTag"] = "Q14937D",
-		}, -- [25]
+		}, -- [24]
 		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021D2A98C",
-			["preferred"] = false,
 			["added"] = 20231218154710,
 			["petTag"] = "Q14538J",
-		}, -- [26]
+		}, -- [25]
 		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021D2AA99",
-			["preferred"] = false,
 			["added"] = 20231218155617,
 			["petTag"] = "Q1483DN",
-		}, -- [27]
+		}, -- [26]
 		{
-			["preferred"] = false,
 			["petID"] = "BattlePet-0-000021D3617E",
+			["preferred"] = true,
 			["added"] = 20231219190048,
 			["petTag"] = "Q14C46I",
-		}, -- [28]
+		}, -- [27]
 		{
-			["preferred"] = false,
 			["petID"] = "BattlePet-0-000021D37FDD",
+			["preferred"] = true,
 			["added"] = 20231219213335,
 			["petTag"] = "Q1431T0",
-		}, -- [29]
+		}, -- [28]
 		{
-			["preferred"] = false,
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021D37FE0",
 			["added"] = 20231219213338,
 			["petTag"] = "Q1471T6",
-		}, -- [30]
+		}, -- [29]
 		{
+			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021D4259C",
-			["preferred"] = false,
 			["added"] = 20231220223103,
 			["petTag"] = "Q14C365",
-		}, -- [31]
+		}, -- [30]
 		{
 			["petID"] = "BattlePet-0-000021D4734E",
-			["preferred"] = false,
+			["preferred"] = true,
 			["added"] = 20231221152940,
 			["petTag"] = "Q14816H",
-		}, -- [32]
+		}, -- [31]
 		{
-			["preferred"] = false,
 			["petID"] = "BattlePet-0-000021D48012",
+			["preferred"] = true,
 			["added"] = 20231221171027,
 			["petTag"] = "Q1433CK",
+		}, -- [32]
+		{
+			["petID"] = "BattlePet-0-000021D9547D",
+			["preferred"] = true,
+			["added"] = 20231228170711,
+			["petTag"] = "Q14436Q",
 		}, -- [33]
+		{
+			["petID"] = "BattlePet-0-000021D955B2",
+			["preferred"] = true,
+			["added"] = 20231228171522,
+			["petTag"] = "Q148384",
+		}, -- [34]
+		{
+			["petID"] = "BattlePet-0-000021DAC77E",
+			["preferred"] = true,
+			["added"] = 20231230234254,
+			["petTag"] = "Q13337U",
+		}, -- [35]
+		{
+			["petID"] = "BattlePet-0-000021DAD846",
+			["preferred"] = true,
+			["added"] = 20231231031147,
+			["petTag"] = "Q14538H",
+		}, -- [36]
+		{
+			["petID"] = "BattlePet-0-000021DAD847",
+			["preferred"] = true,
+			["added"] = 20231231031148,
+			["petTag"] = "Q14535O",
+		}, -- [37]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021DAD848",
+			["added"] = 20231231031148,
+			["petTag"] = "Q14538I",
+		}, -- [38]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021DAD849",
+			["added"] = 20231231031149,
+			["petTag"] = "Q14538G",
+		}, -- [39]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021DBA714",
+			["added"] = 20240101125244,
+			["petTag"] = "Q149371",
+		}, -- [40]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-0000210D9DCD",
+			["added"] = 20240101193335,
+			["petTag"] = "Q1392R4",
+		}, -- [41]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00000E0BBEB7",
+			["added"] = 20240101201612,
+			["petTag"] = "Q1431B9",
+		}, -- [42]
+		{
+			["petID"] = "BattlePet-0-000010125055",
+			["preferred"] = true,
+			["added"] = 20240101220738,
+			["petTag"] = "Q14323D",
+		}, -- [43]
+		{
+			["petID"] = "BattlePet-0-000021DC0F3F",
+			["preferred"] = true,
+			["added"] = 20240101221841,
+			["petTag"] = "Q1433AE",
+		}, -- [44]
 	},
-	["ColorTargetNames"] = true,
+	["HideOptionTooltips"] = false,
+	["DontConfirmActiveSort"] = false,
 	["ResetExceptSearch"] = false,
 	["NotesNoEsc"] = true,
+	["HideNotesButtonInBattle"] = false,
+	["YPos"] = 978.286865234375,
+	["NotesLeft"] = 19.5714282989502,
+	["NoSummonOnDblClick"] = false,
 	["ConvertedTeams"] = {
 		"team:1", -- [1]
 		[68566] = "team:2",
@@ -692,11 +763,18 @@ Rematch5Settings = {
 		["Sprouts, Prince Charming, and Runts"] = "team:273",
 		["Enbi'see, Mal, and Bones"] = "team:275",
 	},
-	["NotesLeft"] = 19.5714282989502,
-	["NoSummonOnDblClick"] = false,
-	["YPos"] = 988.1913452148438,
-	["UseDefaultJournal"] = false,
 	["PetCardInBattle"] = false,
+	["GroupOrder"] = {
+		"group:favorites", -- [1]
+		"group:none", -- [2]
+		"group:1", -- [3]
+		"group:2", -- [4]
+		"group:3", -- [5]
+		"group:4", -- [6]
+		"group:5", -- [7]
+		"group:6", -- [8]
+		"group:7", -- [9]
+	},
 	["MinimapButtonPosition"] = -162,
 	["FavoriteFilters"] = {
 		{
@@ -774,35 +852,25 @@ Rematch5Settings = {
 		}, -- [2]
 	},
 	["LowerStrata"] = true,
-	["GroupOrder"] = {
-		"group:favorites", -- [1]
-		"group:none", -- [2]
-		"group:1", -- [3]
-		"group:2", -- [4]
-		"group:3", -- [5]
-		"group:4", -- [6]
-		"group:5", -- [7]
-		"group:6", -- [8]
-		"group:7", -- [9]
-	},
+	["UseDefaultJournal"] = false,
 	["DontMinTabToggle"] = false,
 	["QueueSortOrder"] = 2,
 	["CardBehavior"] = "Normal",
+	["ColorTargetNames"] = true,
 	["BreedFormat"] = 1,
 	["HideBreedsLoadouts"] = false,
 	["TooltipBehavior"] = "Normal",
 	["DefaultPreferences"] = {
 	},
-	["PetCardShowExpansionStat"] = false,
-	["ImportConflictOverwrite"] = true,
+	["ImportConflictOverwrite"] = false,
 	["ExpandedGroups"] = {
 		["group:none"] = true,
 	},
 	["DontWarnMissing"] = false,
+	["AlwaysTeamTabs"] = false,
 	["LastToastedPetID"] = "BattlePet-0-000021A1E76F",
-	["ShowLoadedTeamPreferences"] = true,
 	["LoadHealthiestAfterBattle"] = false,
-	["KeepCompanion"] = false,
+	["ShowLoadedTeamPreferences"] = true,
 	["NeverTeamTabs"] = false,
 	["StayForBattle"] = true,
 	["BoringLoreFont"] = false,
@@ -814,11 +882,11 @@ Rematch5Settings = {
 	["LockNotesPosition"] = true,
 	["PetMarkers"] = {
 	},
-	["AlwaysUsePetSatchel"] = false,
-	["DontConfirmFillQueue"] = false,
-	["NoBackupReminder"] = false,
-	["ClickToDrag"] = false,
+	["WarnWhenRandomNot25"] = false,
 	["DontConfirmHidePets"] = false,
+	["NoBackupReminder"] = false,
+	["HideBreedsLists"] = false,
+	["AutoWinRecordPVPOnly"] = false,
 	["PetCardBackground"] = "Expansion",
 	["PetSatchelIndex"] = 3,
 }

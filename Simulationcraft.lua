@@ -5,22 +5,24 @@ SimulationCraftDB = {
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -31,6 +33,8 @@ SimulationCraftDB = {
 		["Naturerivers - Korgath"] = {
 		},
 		["Beefyrivers - Arthas"] = {
+		},
+		["Mangrove - Argent Dawn"] = {
 		},
 		["Flumina - Argent Dawn"] = {
 			["frame"] = {
@@ -44,9 +48,11 @@ SimulationCraftDB = {
 		},
 		["Alluvium - Argent Dawn"] = {
 		},
+		["Cataracts - Argent Dawn"] = {
+		},
 		["Ochrian - Argent Dawn"] = {
 		},
-		["Lotic - Argent Dawn"] = {
+		["Stream - Argent Dawn"] = {
 		},
 		["Headcut - Argent Dawn"] = {
 		},
@@ -54,7 +60,13 @@ SimulationCraftDB = {
 		},
 		["Mothugeon - Argent Dawn"] = {
 		},
-		["Emptyrivers - Arthas"] = {
+		["Emptyrivers - Argent Dawn"] = {
+			["frame"] = {
+				["ofsx"] = 90.666748046875,
+				["ofsy"] = 105.5236053466797,
+				["point"] = "BOTTOM",
+				["relativePoint"] = "BOTTOM",
+			},
 		},
 		["Riparium - Argent Dawn"] = {
 			["frame"] = {
@@ -64,19 +76,13 @@ SimulationCraftDB = {
 		},
 		["Zimuures - Argent Dawn"] = {
 		},
-		["Emptyrivers - Argent Dawn"] = {
-			["frame"] = {
-				["ofsx"] = 90.666748046875,
-				["point"] = "BOTTOM",
-				["relativePoint"] = "BOTTOM",
-				["ofsy"] = 105.5236053466797,
-			},
+		["Emptyrivers - Arthas"] = {
 		},
 		["Ailisuul - Arthas"] = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Stream - Argent Dawn"] = {
+		["Lotic - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

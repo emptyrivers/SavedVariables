@@ -4,10 +4,12 @@ HandyNotesDB = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
@@ -28,6 +30,8 @@ HandyNotesDB = {
 		},
 		["Lotic - Argent Dawn"] = {
 		},
+		["Mangrove - Argent Dawn"] = {
+		},
 		["Ochrian - Argent Dawn"] = {
 		},
 		["Emptystreams - Argent Dawn"] = {
@@ -35,6 +39,8 @@ HandyNotesDB = {
 		["Emptyrivers - Sargeras"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
+		},
+		["Cataracts - Argent Dawn"] = {
 		},
 		["Sverdrup - Argent Dawn"] = {
 		},
@@ -67,10 +73,12 @@ HandyNotes_HandyNotesDB = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
@@ -91,6 +99,8 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Lotic - Argent Dawn"] = {
 		},
+		["Mangrove - Argent Dawn"] = {
+		},
 		["Ochrian - Argent Dawn"] = {
 		},
 		["Emptystreams - Argent Dawn"] = {
@@ -98,6 +108,8 @@ HandyNotes_HandyNotesDB = {
 		["Emptyrivers - Sargeras"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
+		},
+		["Cataracts - Argent Dawn"] = {
 		},
 		["Sverdrup - Argent Dawn"] = {
 		},

@@ -1,17 +1,17 @@
 
 HandyNotes_DragonflightTreasuresDB = {
 	["char"] = {
-		["Riparium - Argent Dawn"] = {
-			["hidden"] = {
-				[2112] = {
-					[62815726] = true,
-				},
-			},
-		},
 		["Emptyrivers - Argent Dawn"] = {
 			["hidden"] = {
 				[2023] = {
 					[41546227] = true,
+				},
+			},
+		},
+		["Riparium - Argent Dawn"] = {
+			["hidden"] = {
+				[2112] = {
+					[62815726] = true,
 				},
 			},
 		},
@@ -20,10 +20,12 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
@@ -44,6 +46,8 @@ HandyNotes_DragonflightTreasuresDB = {
 		},
 		["Lotic - Argent Dawn"] = {
 		},
+		["Mangrove - Argent Dawn"] = {
+		},
 		["Ochrian - Argent Dawn"] = {
 		},
 		["Emptystreams - Argent Dawn"] = {
@@ -54,7 +58,9 @@ HandyNotes_DragonflightTreasuresDB = {
 			["groupsHidden"] = {
 				["races"] = true,
 			},
+			["show_npcs_onlynotable"] = true,
 			["achievementsHidden"] = {
+				[18150] = true,
 				[16576] = true,
 				[16584] = true,
 				[16323] = true,
@@ -65,6 +71,8 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16577] = true,
 				[16634] = true,
 			},
+		},
+		["Cataracts - Argent Dawn"] = {
 		},
 		["Sverdrup - Argent Dawn"] = {
 			["achievementsHidden"] = {
@@ -121,9 +129,6 @@ HandyNotes_DragonflightTreasuresDB = {
 			},
 		},
 		["Confluence - Argent Dawn"] = {
-			["groupsHidden"] = {
-				["races"] = true,
-			},
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
@@ -136,6 +141,9 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16578] = true,
 				[16574] = true,
 				[16634] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
 			},
 		},
 		["Evilrivers - Kel'Thuzad"] = {
@@ -251,15 +259,19 @@ HandyNotes_DragonflightTreasuresDB = {
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
+				[18150] = true,
+				[19317] = true,
 				[16576] = true,
-				[16584] = true,
 				[16577] = true,
-				[15890] = true,
-				[16323] = true,
-				[16634] = true,
-				[16578] = true,
-				[16424] = true,
+				[16584] = true,
 				[16574] = true,
+				[16323] = true,
+				[15890] = true,
+				[16634] = true,
+				[16424] = true,
+				[16578] = true,
+				[19316] = true,
+				[19306] = true,
 			},
 		},
 	},

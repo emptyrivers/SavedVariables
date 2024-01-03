@@ -5,15 +5,17 @@ Details_StreamerDB = {
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Naturerivers - Korgath"] = "Ailisuul - Arthas",
 		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Mangrove - Argent Dawn"] = "Ailisuul - Arthas",
 		["Stream - Argent Dawn"] = "Ailisuul - Arthas",
+		["Cataracts - Argent Dawn"] = "Ailisuul - Arthas",
 		["Ochrian - Argent Dawn"] = "Ailisuul - Arthas",
-		["Lotic - Argent Dawn"] = "Ailisuul - Arthas",
-		["Emptystreams - Argent Dawn"] = "Ailisuul - Arthas",
 		["Emptyrivers - Sargeras"] = "Ailisuul - Arthas",
+		["Emptystreams - Argent Dawn"] = "Ailisuul - Arthas",
+		["Mahntaiaga - Arthas"] = "Ailisuul - Arthas",
 		["Alluvium - Argent Dawn"] = "Ailisuul - Arthas",
 		["Flumina - Argent Dawn"] = "Ailisuul - Arthas",
-		["Mothugeon - Argent Dawn"] = "Ailisuul - Arthas",
 		["Emptyrivers - Argent Dawn"] = "Ailisuul - Arthas",
+		["Mothugeon - Argent Dawn"] = "Ailisuul - Arthas",
 		["Headcut - Argent Dawn"] = "Ailisuul - Arthas",
 		["Confluence - Argent Dawn"] = "Ailisuul - Arthas",
 		["Evilrivers - Kel'Thuzad"] = "Ailisuul - Arthas",
@@ -23,7 +25,7 @@ Details_StreamerDB = {
 		["Emptyrivers - Arthas"] = "Ailisuul - Arthas",
 		["Beefyrivers - Arthas"] = "Ailisuul - Arthas",
 		["Alandere - Argent Dawn"] = "Ailisuul - Arthas",
-		["Mahntaiaga - Arthas"] = "Ailisuul - Arthas",
+		["Lotic - Argent Dawn"] = "Ailisuul - Arthas",
 		["Estuary - Argent Dawn"] = "Ailisuul - Arthas",
 	},
 	["profiles"] = {
@@ -58,7 +60,7 @@ Details_StreamerDB = {
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["y"] = 4.57763671875e-05,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -73,7 +75,6 @@ Details_StreamerDB = {
 				0.4, -- [4]
 			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
-			["use_spark"] = true,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -85,10 +86,11 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["attribute_type"] = 1,
 			},
+			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["font_size"] = 10,
+			["y"] = 4.57763671875e-05,
 			["author"] = "Details! Team",
 			["main_frame_locked"] = false,
 			["main_frame_size"] = {
@@ -105,11 +107,11 @@ Details_StreamerDB = {
 				1, -- [3]
 				0.5, -- [4]
 			},
+			["arrow_anchor_y"] = 0,
 			["main_frame_size"] = {
 				300, -- [1]
 				500.0000305175781, -- [2]
 			},
-			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 160,
 				["radius"] = 160,
@@ -117,20 +119,20 @@ Details_StreamerDB = {
 			},
 			["main_frame_locked"] = false,
 			["arrow_anchor_x"] = 0,
-			["author"] = "Terciob",
-			["row_texture"] = "Details Serenity",
-			["square_grow_direction"] = "right",
-			["font_size"] = 10,
 			["row_color"] = {
 				0.1, -- [1]
 				0.1, -- [2]
 				0.1, -- [3]
 				0.4, -- [4]
 			},
+			["row_texture"] = "Details Serenity",
+			["square_grow_direction"] = "right",
+			["use_spark"] = true,
+			["author"] = "Terciob",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["y"] = 0,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -140,6 +142,7 @@ Details_StreamerDB = {
 			},
 			["main_frame_strata"] = "LOW",
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["font_size"] = 10,
 			["per_second"] = {
 				["enabled"] = false,
 				["point"] = "CENTER",
@@ -151,7 +154,6 @@ Details_StreamerDB = {
 				["update_speed"] = 0.05,
 				["size"] = 32,
 			},
-			["y"] = 0,
 			["x"] = -3.0517578125e-05,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,

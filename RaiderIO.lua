@@ -7,7 +7,7 @@ RaiderIO_Config = {
 		["x"] = -16,
 		["point"] = "TOPLEFT",
 	},
-	["enableReplay"] = true,
+	["enableReplay"] = false,
 	["enableLFGDropdown"] = true,
 	["displayWeeklyGuildBest"] = false,
 	["mplusHeadlineMode"] = 0,
@@ -57,9 +57,24 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Riparium-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Glurtkurgan-argent-dawn"] = true,
-	["us-Addlem-argent-dawn"] = true,
-	["us-Gwyedd-earthen-ring"] = true,
+	["us-Abaddonne-argent-dawn"] = true,
+	["us-Tiamat-argent-dawn"] = true,
+	["us-Oliviona-argent-dawn"] = true,
+	["us-Serousio-kirin-tor"] = true,
+	["us-Azshaure-argent-dawn"] = true,
+	["us-Bilxie-kirin-tor"] = true,
+	["us-Cocidiae-argent-dawn"] = true,
+	["us-Occularus-earthen-ring"] = true,
+	["us-Alita-the-scryers"] = true,
+	["us-Dejja-earthen-ring"] = true,
+	["us-Belfdekay-earthen-ring"] = true,
+	["us-Deval-argent-dawn"] = true,
+	["us-Ferbal-argent-dawn"] = true,
+	["us-Lockerybones-kirin-tor"] = true,
+	["us-Moxrin-the-scryers"] = true,
+	["us-Rowrow-earthen-ring"] = true,
+	["us-Mellini-argent-dawn"] = true,
+	["us-Tervan-earthen-ring"] = true,
 }
 RaiderIO_MissingServers = {
 }
@@ -67,13 +82,4 @@ RaiderIO_CachedRuns = nil
 RaiderIO_RWF = {
 }
 RaiderIO_CompletedReplays = {
-	{
-		["character"] = "us-Headcut-argent-dawn",
-		["zoneId"] = 168,
-		["completedAt"] = 1703297079,
-		["replayRunId"] = 9541784,
-		["clearTimeMS"] = 1928000,
-		["keyLevel"] = 20,
-		["replaySeason"] = "season-df-3",
-	}, -- [1]
 }

@@ -1,28 +1,30 @@
 
 MythicDungeonToolsDB = {
 	["profileKeys"] = {
-		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
+		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
+		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
-		["currentDungeonIdx"] = 15,
+		["currentDungeonIdx"] = 104,
 		["anchorFrom"] = "CENTER",
-		["nonFullscreenScale"] = 1.452391258445946,
+		["nonFullscreenScale"] = 1.374626640800957,
 		["MDI"] = {
 		},
 		["maximized"] = false,
@@ -663,13 +665,9 @@ MythicDungeonToolsDB = {
 							}, -- [7]
 							{
 								[11] = {
-									7, -- [1]
-									6, -- [2]
 								},
 								["color"] = "3effff",
 								[12] = {
-									8, -- [1]
-									7, -- [2]
 								},
 								[8] = {
 									3, -- [1]
@@ -714,10 +712,20 @@ MythicDungeonToolsDB = {
 								},
 							}, -- [10]
 							{
+								{
+								}, -- [1]
+								[11] = {
+								},
+								[15] = {
+									5, -- [1]
+									4, -- [2]
+									1, -- [3]
+								},
 								[8] = {
 									8, -- [1]
 									5, -- [2]
 								},
+								["color"] = "a1ff3e",
 								[14] = {
 									28, -- [1]
 									27, -- [2]
@@ -730,22 +738,16 @@ MythicDungeonToolsDB = {
 									13, -- [9]
 									15, -- [10]
 								},
-								[15] = {
-									5, -- [1]
-									4, -- [2]
-									1, -- [3]
+								[12] = {
 								},
-								["color"] = "a1ff3e",
+								[4] = {
+								},
 							}, -- [11]
 							{
 								{
-									6, -- [1]
-									7, -- [2]
 								}, -- [1]
 								["color"] = "ff3eff",
 								[4] = {
-									7, -- [1]
-									6, -- [2]
 								},
 								[15] = {
 									8, -- [1]
@@ -3577,10 +3579,424 @@ MythicDungeonToolsDB = {
 					},
 				}, -- [1]
 			},
+			[104] = {
+				{
+					["objects"] = {
+						{
+							["n"] = true,
+							["d"] = {
+								546.2836902287219, -- [1]
+								-177.7691599591965, -- [2]
+								1, -- [3]
+								true, -- [4]
+								"Gateway behind the house, sneak behind the pat", -- [5]
+							},
+						}, -- [1]
+						{
+							["d"] = {
+								11, -- [1]
+								1, -- [2]
+								1, -- [3]
+								true, -- [4]
+								"662cfc", -- [5]
+								-8, -- [6]
+							},
+							["t"] = {
+								-1.659846579203743, -- [1]
+							},
+							["l"] = {
+								"537.4", -- [1]
+								"-177.1", -- [2]
+								"539.0", -- [3]
+								"-158.5", -- [4]
+							},
+						}, -- [2]
+						{
+							["n"] = true,
+							["d"] = {
+								473.1265242192338, -- [1]
+								-222.1308784281652, -- [2]
+								1, -- [3]
+								true, -- [4]
+								"can hero for triple caster pull, or for boss", -- [5]
+							},
+						}, -- [3]
+						[5] = {
+							["d"] = {
+								11, -- [1]
+								1, -- [2]
+								1, -- [3]
+								false, -- [4]
+								"662cfc", -- [5]
+								-8, -- [6]
+							},
+							["t"] = {
+								-1.52165445717384, -- [1]
+							},
+							["l"] = {
+								"505.5", -- [1]
+								"-150.0", -- [2]
+								"504.5", -- [3]
+								"-129.8", -- [4]
+							},
+						},
+					},
+					["week"] = 8,
+					["addonVersion"] = 4323,
+					["value"] = {
+						["currentPull"] = 1,
+						["currentSublevel"] = 1,
+						["pulls"] = {
+							{
+								{
+									1, -- [1]
+									2, -- [2]
+									8, -- [3]
+								}, -- [1]
+								{
+									1, -- [1]
+									2, -- [2]
+								}, -- [2]
+								{
+									1, -- [1]
+									61, -- [2]
+									57, -- [3]
+									58, -- [4]
+									59, -- [5]
+									60, -- [6]
+									2, -- [7]
+									3, -- [8]
+									4, -- [9]
+									5, -- [10]
+									6, -- [11]
+								}, -- [3]
+								{
+									1, -- [1]
+								}, -- [4]
+								nil, -- [5]
+								nil, -- [6]
+								nil, -- [7]
+								{
+									1, -- [1]
+								}, -- [8]
+								["color"] = "ff3eff",
+							}, -- [1]
+							{
+								{
+									3, -- [1]
+								}, -- [1]
+								{
+									4, -- [1]
+								}, -- [2]
+								{
+									12, -- [1]
+									13, -- [2]
+									14, -- [3]
+									15, -- [4]
+									16, -- [5]
+								}, -- [3]
+								{
+									2, -- [1]
+								}, -- [4]
+								["color"] = "3eff9e",
+							}, -- [2]
+							{
+								["color"] = "ff3e3e",
+								[2] = {
+									3, -- [1]
+								},
+								[4] = {
+									3, -- [1]
+								},
+								[3] = {
+									8, -- [1]
+									9, -- [2]
+									10, -- [3]
+									11, -- [4]
+									7, -- [5]
+								},
+							}, -- [3]
+							{
+								{
+									4, -- [1]
+								}, -- [1]
+								nil, -- [2]
+								{
+									17, -- [1]
+									18, -- [2]
+									19, -- [3]
+									20, -- [4]
+									21, -- [5]
+									22, -- [6]
+									23, -- [7]
+									24, -- [8]
+									25, -- [9]
+									26, -- [10]
+								}, -- [3]
+								{
+									4, -- [1]
+									8, -- [2]
+									9, -- [3]
+								}, -- [4]
+								["color"] = "3e9eff",
+							}, -- [4]
+							{
+								{
+									5, -- [1]
+								}, -- [1]
+								{
+									5, -- [1]
+								}, -- [2]
+								{
+									31, -- [1]
+									27, -- [2]
+									28, -- [3]
+									29, -- [4]
+									30, -- [5]
+								}, -- [3]
+								{
+									10, -- [1]
+								}, -- [4]
+								["color"] = "fffb3e",
+							}, -- [5]
+							{
+								{
+									6, -- [1]
+								}, -- [1]
+								[3] = {
+									34, -- [1]
+									32, -- [2]
+									33, -- [3]
+									35, -- [4]
+									36, -- [5]
+								},
+								[5] = {
+									1, -- [1]
+								},
+								["color"] = "3eff3e",
+							}, -- [6]
+							{
+								{
+									7, -- [1]
+								}, -- [1]
+								{
+									6, -- [1]
+								}, -- [2]
+								{
+									40, -- [1]
+									37, -- [2]
+									38, -- [3]
+									39, -- [4]
+									41, -- [5]
+									42, -- [6]
+									43, -- [7]
+									44, -- [8]
+									45, -- [9]
+									46, -- [10]
+								}, -- [3]
+								["color"] = "ff3e9e",
+							}, -- [7]
+							{
+								[5] = {
+									2, -- [1]
+									3, -- [2]
+								},
+								[2] = {
+									7, -- [1]
+									8, -- [2]
+									9, -- [3]
+								},
+								["color"] = "3effff",
+							}, -- [8]
+							{
+								["color"] = "ff9b3e",
+								[2] = {
+									13, -- [1]
+									12, -- [2]
+								},
+								[5] = {
+									5, -- [1]
+								},
+							}, -- [9]
+							{
+								["color"] = "3e3eff",
+								[2] = {
+									11, -- [1]
+									10, -- [2]
+								},
+								[5] = {
+									4, -- [1]
+								},
+							}, -- [10]
+							{
+								["color"] = "a1ff3e",
+								[7] = {
+									1, -- [1]
+								},
+								[3] = {
+									54, -- [1]
+									52, -- [2]
+									53, -- [3]
+									55, -- [4]
+									56, -- [5]
+									47, -- [6]
+									48, -- [7]
+									49, -- [8]
+									50, -- [9]
+									51, -- [10]
+								},
+							}, -- [11]
+							{
+								[8] = {
+									2, -- [1]
+									3, -- [2]
+									5, -- [3]
+									6, -- [4]
+								},
+								["color"] = "ff3eff",
+								[4] = {
+								},
+								[5] = {
+									6, -- [1]
+								},
+								[9] = {
+									1, -- [1]
+								},
+							}, -- [12]
+							{
+								{
+									9, -- [1]
+								}, -- [1]
+								{
+									14, -- [1]
+								}, -- [2]
+								{
+									62, -- [1]
+									64, -- [2]
+									65, -- [3]
+									66, -- [4]
+									63, -- [5]
+								}, -- [3]
+								{
+								}, -- [4]
+								["color"] = "3eff9e",
+								[8] = {
+									4, -- [1]
+								},
+							}, -- [13]
+							{
+								[11] = {
+									1, -- [1]
+								},
+								[10] = {
+									1, -- [1]
+								},
+								[12] = {
+									1, -- [1]
+								},
+								[4] = {
+								},
+								["color"] = "ff3e3e",
+							}, -- [14]
+							{
+								[13] = {
+									10, -- [1]
+									8, -- [2]
+									9, -- [3]
+									11, -- [4]
+								},
+								[15] = {
+								},
+								["color"] = "3e9eff",
+								[14] = {
+								},
+								[16] = {
+								},
+							}, -- [15]
+							{
+								["color"] = "fffb3e",
+								[16] = {
+									1, -- [1]
+								},
+								[13] = {
+									6, -- [1]
+									7, -- [2]
+								},
+							}, -- [16]
+							{
+								["color"] = "3eff3e",
+								[16] = {
+									2, -- [1]
+								},
+								[15] = {
+									2, -- [1]
+								},
+								[14] = {
+									2, -- [1]
+								},
+							}, -- [17]
+							{
+								["color"] = "ff3e9e",
+								[17] = {
+									1, -- [1]
+								},
+							}, -- [18]
+							{
+								["color"] = "3effff",
+								[13] = {
+									4, -- [1]
+									5, -- [2]
+									3, -- [3]
+									12, -- [4]
+									13, -- [5]
+									14, -- [6]
+									15, -- [7]
+									16, -- [8]
+									17, -- [9]
+								},
+								[15] = {
+									1, -- [1]
+								},
+							}, -- [19]
+							{
+								{
+								}, -- [1]
+								["color"] = "ff9b3e",
+								[19] = {
+									1, -- [1]
+								},
+								[4] = {
+								},
+								[18] = {
+									1, -- [1]
+								},
+							}, -- [20]
+						},
+						["currentDungeonIdx"] = 104,
+						["teeming"] = false,
+						["selection"] = {
+							1, -- [1]
+						},
+						["riftOffsets"] = {
+							[8] = {
+							},
+						},
+					},
+					["text"] = "Secret lock skip",
+					["difficulty"] = 26,
+					["uid"] = "bKXq6MR)sXM",
+				}, -- [1]
+			},
 		},
-		["scale"] = 1.452391258445946,
-		["version"] = 4318,
-		["xoffset"] = -103.6190872192383,
+		["scale"] = 1.374626640800957,
+		["toolbarExpanded"] = false,
+		["toolbar"] = {
+			["color"] = {
+				["b"] = 0.988235354423523,
+				["g"] = 0.1725490242242813,
+				["r"] = 0.4000000357627869,
+			},
+		},
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -3645,6 +4061,9 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["version"] = 4323,
+		["xoffset"] = 78.57688903808594,
+		["currentDifficulty"] = 26,
 		["currentPreset"] = {
 			nil, -- [1]
 			nil, -- [2]
@@ -3656,6 +4075,6 @@ MythicDungeonToolsDB = {
 			2, -- [8]
 			[102] = 6,
 		},
-		["yoffset"] = -39.80055236816406,
+		["yoffset"] = -4.506603240966797,
 	},
 }

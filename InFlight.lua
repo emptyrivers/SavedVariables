@@ -3,6 +3,9 @@ InFlightDB = {
 	["version"] = "retail",
 	["global"] = {
 		["Horde"] = {
+			[1774] = {
+				[1857] = 142,
+			},
 			[1574] = {
 				[1559] = 87,
 			},
@@ -13,10 +16,10 @@ InFlightDB = {
 				[1742] = 130,
 			},
 			[2773] = {
+				["name"] = "Azure Archives",
+				[2810] = 147,
 				[2774] = 42,
 				[2807] = 167,
-				[2810] = 147,
-				["name"] = "Azure Archives",
 			},
 			[2774] = {
 				["name"] = "Camp Antonidas",
@@ -52,15 +55,15 @@ InFlightDB = {
 				[2810] = 49,
 			},
 			[2810] = {
-				[2775] = 179,
-				[2805] = 100,
-				[2855] = 157,
 				["name"] = "Valdrakken",
+				[2775] = 179,
+				[2855] = 157,
+				[2805] = 100,
 			},
 			[2811] = {
-				[2825] = 133,
 				[2774] = 127,
 				["name"] = "Gelikyr Post",
+				[2825] = 133,
 			},
 			[1408] = {
 				[1559] = 167,
@@ -98,16 +101,16 @@ InFlightDB = {
 				["name"] = "Shady Sanctuary",
 			},
 			[2841] = {
-				[2838] = 7,
-				[2862] = 7,
-				[2840] = 7,
 				["name"] = "Skytop Observatory",
+				[2838] = 7,
+				[2840] = 7,
+				[2862] = 7,
 			},
 			[2842] = {
-				[2838] = 7,
-				[2862] = 8,
-				["name"] = "Rubyscale Outpost",
 				[2840] = 7,
+				[2838] = 7,
+				["name"] = "Rubyscale Outpost",
+				[2862] = 8,
 			},
 			[2855] = {
 				["name"] = "Morqut Village",
@@ -144,15 +147,15 @@ InFlightDB = {
 				[1508] = 84,
 			},
 			[2807] = {
-				["name"] = "Ruby Life Pools",
 				[2774] = 130,
 				[2792] = 75,
+				["name"] = "Ruby Life Pools",
 			},
 			[2839] = {
-				["name"] = "Rusza'thar Reach",
-				[2862] = 7,
 				[2837] = 7,
+				[2862] = 7,
 				[2840] = 4,
+				["name"] = "Rusza'thar Reach",
 			},
 			[2784] = {
 				[2809] = 170,
@@ -194,6 +197,9 @@ InFlightDB = {
 				[2807] = 107,
 				["name"] = "Rhonin's Shield",
 			},
+			[1476] = {
+				[1519] = 119,
+			},
 			[2802] = {
 				["name"] = "Obsidian Throne",
 				[2801] = 44,
@@ -206,10 +212,10 @@ InFlightDB = {
 				[2801] = 90,
 				[2773] = 147,
 				["name"] = "Valdrakken",
-				[2786] = 72,
+				[2818] = 79,
 				[2775] = 180,
 				[2807] = 46,
-				[2818] = 79,
+				[2786] = 72,
 			},
 			[2834] = {
 				[2842] = 8,
@@ -217,10 +223,10 @@ InFlightDB = {
 				["name"] = "Eon's Fringe",
 			},
 			[2842] = {
-				["name"] = "Rubyscale Outpost",
-				[2838] = 8,
 				[2840] = 7,
+				[2838] = 8,
 				[2837] = 7,
+				["name"] = "Rubyscale Outpost",
 			},
 			[2787] = {
 				["name"] = "Cobalt Assembly",
@@ -259,6 +265,10 @@ InFlightDB = {
 				[2810] = 98,
 				["name"] = "Wingrest Embassy",
 			},
+			[2904] = {
+				["name"] = "Eye of Ysera",
+				[2902] = 36,
+			},
 			[2862] = {
 				[2842] = 7,
 				[2841] = 7,
@@ -274,15 +284,15 @@ InFlightDB = {
 			},
 			[2838] = {
 				[2842] = 7,
-				[2839] = 7,
-				["name"] = "Cobalt Assembly",
 				[2836] = 7,
+				["name"] = "Cobalt Assembly",
+				[2839] = 7,
 			},
 			[2798] = {
 				[2797] = 52,
-				[2810] = 53,
 				[2825] = 51,
 				["name"] = "Pinewood Post",
+				[2810] = 53,
 			},
 			[2806] = {
 				["name"] = "Life Vault Ruins",
@@ -307,9 +317,9 @@ InFlightDB = {
 				[2792] = 119,
 				["name"] = "Iskaara",
 				[2795] = 104,
-				[2809] = 163,
-				[2818] = 247,
 				[2802] = 188,
+				[2818] = 247,
+				[2809] = 163,
 			},
 			[2797] = {
 				[2808] = 37,
@@ -319,14 +329,15 @@ InFlightDB = {
 			[2792] = {
 				["name"] = "Maruukai",
 				[2773] = 131,
-				[2789] = 68,
-				[2775] = 118,
-				[2825] = 44,
 				[2793] = 44,
+				[2789] = 68,
+				[2825] = 44,
+				[2775] = 118,
 			},
 		},
 	},
 	["upload"] = 1704500618,
+	["dbinit"] = 920,
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
@@ -334,13 +345,13 @@ InFlightDB = {
 		["Confluence - Argent Dawn"] = "Default",
 		["Lotic - Argent Dawn"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Emptyrivers - Argent Dawn"] = "Default",
 		["Stream - Argent Dawn"] = "Default",
+		["Emptyrivers - Argent Dawn"] = "Default",
+		["Cataracts - Argent Dawn"] = "Default",
 		["Ochrian - Argent Dawn"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
-	["dbinit"] = 920,
 	["profiles"] = {
 		["Default"] = {
 		},

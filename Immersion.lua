@@ -24,5 +24,5 @@ ImmersionSetup = {
 	["titleoffset"] = 523.6195678710938,
 	["onthefly"] = false,
 	["movetalkinghead"] = true,
-	["boxoffsetY"] = 47.28786849975586,
+	["boxoffsetY"] = 55.66903686523438,
 }

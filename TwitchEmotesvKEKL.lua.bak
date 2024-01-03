@@ -91,7 +91,7 @@ TwitchEmotesvKEKLStatistics = {
 	["noted"] = {
 		0, -- [1]
 		14, -- [2]
-		25, -- [3]
+		30, -- [3]
 	},
 	["Sadge"] = {
 		0, -- [1]
@@ -120,7 +120,7 @@ TwitchEmotesvKEKLStatistics = {
 	},
 	["D:"] = {
 		0, -- [1]
-		6, -- [2]
+		7, -- [2]
 		13, -- [3]
 	},
 	["EZ"] = {

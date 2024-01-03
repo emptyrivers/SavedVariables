@@ -38,15 +38,15 @@ OPie_SavedData = {
 			["RotationTokens"] = {
 				["ABuebuGxwpw1"] = "ABuebh1mu8e",
 				["OPCMTt"] = "OPCMPs",
-				["ABuen6w3r/4"] = "ABuen6w3r/s",
+				["ABuen6w3r/4"] = "ABuen6w3r/3",
 				["ABuen6w3r/2"] = "ABuen6w3r/a",
-				["OPCTAt"] = "OPCHStw",
+				["OPCTAt"] = "OPCHSs",
 				["ABuen6efgH1"] = "ABuen6efgHe",
-				["ABuenmguorT"] = "ABuenmguorn",
+				["ABuenmguorT"] = "ABuenmguor7",
 				["OPCLSd"] = "OPCLDv",
-				["ABuebiafrDd"] = "ABuebiafrDp",
+				["ABuebiafrDd"] = "ABuebiafrDf",
 				["ABuenmguorU"] = "ABuenmguorY",
-				["ABuenmguorg"] = "ABuenmguoru",
+				["ABuenmguorg"] = "ABuenmguorf",
 				["ABuen6w3r/u"] = "ABuenE4Bncw",
 			},
 		},
@@ -347,9 +347,9 @@ OPie_SavedData = {
 				}, -- [9]
 				["name"] = "Feral",
 				["limit"] = "DRUID",
-				["vm"] = 127,
-				["save"] = true,
 				["hotkey"] = "[form:bear/cat] BUTTON5; ALT-BUTTON5",
+				["save"] = true,
+				["vm"] = 127,
 				["v"] = 1,
 			},
 			["MoPPortals"] = {
@@ -420,8 +420,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuebiafrDf",
 				}, -- [5]
 				["name"] = "cooking pets",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 			["BfAPortals"] = {
 				{
@@ -441,8 +441,8 @@ OPie_SavedData = {
 					["id"] = 424187,
 				}, -- [4]
 				["name"] = "BfA Portals",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["Aquatic"] = {
 				{
@@ -474,8 +474,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuenU0Rstw",
 				}, -- [2]
 				["name"] = "WoD Portals",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["ghtPortals"] = {
 				{
@@ -491,16 +491,16 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuenUDBC03",
 				}, -- [3]
 				{
-					["id"] = 410078,
-					["sliceToken"] = "ABuenUDBC0d",
-				}, -- [4]
-				{
 					["sliceToken"] = "ABuenUGSsio",
 					["id"] = 424197,
-				}, -- [5]
+				}, -- [4]
 				{
 					["id"] = 393279,
 					["sliceToken"] = "ABuenU0Rste",
+				}, -- [5]
+				{
+					["id"] = 393267,
+					["sliceToken"] = "ABuenSsKa8w",
 				}, -- [6]
 				["name"] = "Dragonflight Portals",
 				["internal"] = true,
@@ -513,8 +513,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuen6w3r/p",
 				}, -- [1]
 				["name"] = "Elixirs",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 			["ysmPortals"] = {
 				{
@@ -546,8 +546,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuenYzhM9w",
 				}, -- [3]
 				["name"] = "Runes",
-				["internal"] = true,
 				["save"] = true,
+				["internal"] = true,
 			},
 			["sonPortals"] = {
 				{
@@ -680,7 +680,7 @@ OPie_SavedData = {
 					["vm"] = 3,
 				}, -- [3]
 				{
-					["id"] = "/cast [mod] {{spell:13262}}; {{spell:7411/51313}}",
+					["id"] = "/cast {{spell:7411/51313}}",
 					["sliceToken"] = "OPCCTe",
 					["vm"] = 3,
 				}, -- [4]
@@ -700,57 +700,48 @@ OPie_SavedData = {
 					["vm"] = 3,
 				}, -- [7]
 				{
-					["sliceToken"] = "OPCCTm",
-					["id"] = 2656,
-					["vm"] = 3,
+					["sliceToken"] = "OPCCTj",
+					["id"] = "/cast {{spell:25229/51311}}",
+					["vm"] = 2,
 				}, -- [8]
 				{
-					["sliceToken"] = "OPCCTj",
-					["id"] = "/cast [mod] {{spell:31252}}; {{spell:25229/51311}};",
-					["vm"] = 3,
-				}, -- [9]
-				{
-					["id"] = "/cast [mod] {{spell:51005}}; {{spell:45357/45363}}",
+					["id"] = "/cast {{spell:45357/45363}}",
 					["sliceToken"] = "OPCCTi",
-					["vm"] = 3,
-				}, -- [10]
+					["vm"] = 2,
+				}, -- [9]
 				{
 					["id"] = 53428,
 					["sliceToken"] = "OPCCTu",
-					["vm"] = 3,
+					["vm"] = 2,
+				}, -- [10]
+				{
+					["sliceToken"] = "OPCCTm",
+					["id"] = 2656,
 				}, -- [11]
-				{
-					["id"] = "/cast [mod] {{spell:80451}}; {{spell:78670/89722}}",
-					["sliceToken"] = "OPCCTr",
-					["vm"] = 3,
-				}, -- [12]
-				{
-					["sliceToken"] = "OPCCTfj",
-					["id"] = 271990,
-					["vm"] = 3,
-				}, -- [13]
 				{
 					["id"] = 194174,
 					["sliceToken"] = "OPCCTsj",
-					["vm"] = 3,
-				}, -- [14]
+				}, -- [12]
 				{
 					["id"] = 193290,
 					["sliceToken"] = "OPCCThj",
-					["vm"] = 3,
-				}, -- [15]
+				}, -- [13]
 				{
 					"ring", -- [1]
 					"ookingpets", -- [2]
 					["sliceToken"] = "ABuebiafrDd",
 					["embed"] = false,
 					["rotationMode"] = "random",
-				}, -- [16]
-				["name"] = "Trade Skills",
-				["vm"] = 127,
+				}, -- [14]
 				["save"] = true,
-				["hotkey"] = "ALT-T",
 				["v"] = 1,
+				["name"] = "Trade Skills",
+				["hotkey"] = "ALT-T",
+				["vm"] = 127,
+				["dropTokens"] = {
+					["OPCCTr"] = 1,
+					["OPCCTfj"] = 1,
+				},
 			},
 			["ExtraPortals"] = {
 				{
@@ -1121,8 +1112,8 @@ OPie_SavedData = {
 					["rotationMode"] = "reset",
 				}, -- [2]
 				["save"] = true,
-				["limit"] = "MAGE",
 				["name"] = "Teleportal",
+				["limit"] = "MAGE",
 			},
 			["ionPortals"] = {
 				{
