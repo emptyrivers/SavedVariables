@@ -1,0 +1,4 @@
+
+PPDB = {
+	["useSchockingDiscolure"] = false,
+}

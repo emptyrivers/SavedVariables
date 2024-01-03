@@ -1,0 +1,25 @@
+
+PlumberDB = {
+	["ConciseTokenTooltip"] = true,
+	["RogueHandyLockpick"] = true,
+	["Navigator_MasterSwitch"] = true,
+	["MapPinSize"] = 1,
+	["settingsOpenTime"] = 1704176811,
+	["GossipFrameMedal"] = true,
+	["AutoJoinEvents"] = true,
+	["HandyLockpick"] = true,
+	["TrackItemUpgradeCurrency"] = true,
+	["Navigator_Dreamseed"] = true,
+	["PlayerChoiceFrameToken"] = true,
+	["EmeraldBountySeedList"] = true,
+	["DruidModelFix"] = true,
+	["WorldMapPinSeedPlanting"] = true,
+	["AlternativePlayerChoiceUI"] = true,
+	["BackpackItemTracker"] = false,
+	["HideZeroCountItem"] = true,
+	["TooltipShowExtraInfoCrest"] = false,
+	["BackpackTrackedItems"] = {
+	},
+	["installTime"] = 1696553418,
+	["BlizzFixEventToast"] = true,
+}
