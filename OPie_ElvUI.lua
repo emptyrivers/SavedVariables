@@ -15,9 +15,9 @@ OPieElvUIDB = {
 		["Riparium - Argent Dawn"] = "Default",
 		["Zimuures - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
-		["Flumina - Argent Dawn"] = "Default",
-		["Alandere - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
+		["Alandere - Argent Dawn"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
 }

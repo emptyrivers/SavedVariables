@@ -50,19 +50,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2024/01/02 10:14",
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1704001338,
-				["Mails"] = {
-					{
-						["sender"] = "Emptyrivers",
-						["itemID"] = 209978,
-						["link"] = "|cff0070dd|Hitem:209978::::::::70:63::::1:28:2711:::::|h[Barkbloom Tunic]|h|r",
-						["count"] = 1,
-						["lastCheck"] = 1704315288,
-						["icon"] = 5178364,
-						["daysLeft"] = 30,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2023/12/30 23:42",
+				["lastUpdate"] = 1704324822,
+				["lastVisitDate"] = "2024/01/03 17:33",
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["lastUpdate"] = 1704238782,

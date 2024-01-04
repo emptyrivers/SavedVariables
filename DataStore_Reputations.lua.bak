@@ -115,7 +115,7 @@ DataStore_ReputationsDB = {
 				},
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1704310391,
+				["lastUpdate"] = 1704324950,
 				["Factions"] = {
 					4180, -- [1]
 					4180, -- [2]
@@ -470,7 +470,7 @@ DataStore_ReputationsDB = {
 				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1704235313,
+				["lastUpdate"] = 1704325200,
 				["guildName"] = "House Stalwart",
 				["guildRep"] = 42000,
 				["Factions"] = {
@@ -496,7 +496,7 @@ DataStore_ReputationsDB = {
 					[168] = 0,
 					[172] = "1,0,3000",
 					[177] = "10,710,2500",
-					[180] = "10,2390,2500",
+					[180] = "11,490,2500",
 					[94] = 0,
 					[60] = 0,
 					[106] = 2800,

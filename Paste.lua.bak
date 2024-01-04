@@ -48,40 +48,40 @@ PasteDB = {
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Littlerivers - Kel'Thuzad"] = "Littlerivers - Kel'Thuzad",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Hiddenrivers - Korgath"] = "Hiddenrivers - Korgath",
 		["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
-		["Boringrivers - Korgath"] = "Boringrivers - Korgath",
-		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
-		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
-		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
-		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Savattellir - Arthas"] = "Savattellir - Arthas",
-		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
-		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
-		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-		["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
-		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
-		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
-		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
-		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
-		["Notariver - Arthas"] = "Notariver - Arthas",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
-		["Magicrivers - Korgath"] = "Magicrivers - Korgath",
 		["Serenerivers - Bleeding Hollow"] = "Serenerivers - Bleeding Hollow",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Blindrivers - Arthas"] = "Blindrivers - Arthas",
+		["Wildrivers - Arthas"] = "Wildrivers - Arthas",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Blindrivers - Korgath"] = "Blindrivers - Korgath",
+		["Evilrivers - Korgath"] = "Evilrivers - Korgath",
+		["Angryrivers - Korgath"] = "Angryrivers - Korgath",
+		["Savattellir - Arthas"] = "Savattellir - Arthas",
+		["Notariver - Arthas"] = "Notariver - Arthas",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
+		["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
+		["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+		["Brightrivers - Korgath"] = "Brightrivers - Korgath",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
+		["Magicrivers - Korgath"] = "Magicrivers - Korgath",
+		["Boringrivers - Korgath"] = "Boringrivers - Korgath",
 		["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
-		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 	},
 	["profiles"] = {
 		["Sverdrup - Argent Dawn"] = {
@@ -173,10 +173,10 @@ PasteDB = {
 			["whispertarget"] = "",
 			["where"] = "Default",
 			["loaded"] = true,
-			["pos"] = {
-			},
 			["minimap"] = {
 				["hide"] = true,
+			},
+			["pos"] = {
 			},
 		},
 		["Kdajshtlaiuw - Bleeding Hollow"] = {
@@ -204,8 +204,8 @@ PasteDB = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 			},
 		},
@@ -214,8 +214,8 @@ PasteDB = {
 		},
 		["Estuary - Argent Dawn"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
 			["where"] = "Default",
+			["whispertarget"] = "",
 			["pos"] = {
 				["height"] = 320,
 				["top"] = 1080.380859375,
@@ -319,10 +319,10 @@ PasteDB = {
 		["Alandere - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Mangrove - Argent Dawn"] = {
+		["Cataracts - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Mothugeon - Argent Dawn"] = {
+		["Zimuures - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 		["Flumina - Argent Dawn"] = {
@@ -342,13 +342,17 @@ PasteDB = {
 		["Edgyrivers - Kel'Thuzad"] = {
 			["loaded"] = true,
 		},
-		["Boringrivers - Korgath"] = {
+		["Serenerivers - Bleeding Hollow"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
 		["Confluence - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Edgyrivers - Arthas"] = {
+		["Blindrivers - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Wildrivers - Arthas"] = {
@@ -358,32 +362,31 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Blindrivers - Korgath"] = {
+		["Lotic - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Lotic - Argent Dawn"] = {
+		["Blindrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Evilrivers - Korgath"] = {
 			["loaded"] = true,
 		},
-		["Alluvium - Argent Dawn"] = {
+		["Angryrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Savattellir - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Beefyrivers - Bleeding Hollow"] = {
+		["Notariver - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Beefyrivers - Arthas"] = {
+		["Ragingrivers - Arthas"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-			},
 		},
 		["Serenerivers - Sargeras"] = {
+			["loaded"] = true,
+		},
+		["Luckyrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Emptyrivers - Sargeras"] = {
@@ -397,9 +400,6 @@ PasteDB = {
 				["width"] = 500.000030517578,
 			},
 		},
-		["Luckyrivers - Korgath"] = {
-			["loaded"] = true,
-		},
 		["Mecharivers - Sargeras"] = {
 			["loaded"] = true,
 			["whispertarget"] = "",
@@ -407,10 +407,10 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Brightrivers - Korgath"] = {
+		["Crazyrivers - Arthas"] = {
 			["loaded"] = true,
 		},
-		["Crazyrivers - Arthas"] = {
+		["Brightrivers - Korgath"] = {
 			["loaded"] = true,
 		},
 		["Emptyrivers - Bleeding Hollow"] = {
@@ -424,10 +424,14 @@ PasteDB = {
 				["width"] = 500.000061035156,
 			},
 		},
-		["Ragingrivers - Arthas"] = {
+		["Beefyrivers - Arthas"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
-		["Notariver - Arthas"] = {
+		["Beefyrivers - Bleeding Hollow"] = {
 			["loaded"] = true,
 		},
 		["Evilrivers - Kel'Thuzad"] = {
@@ -441,7 +445,7 @@ PasteDB = {
 				["width"] = 500.000061035156,
 			},
 		},
-		["Angryrivers - Korgath"] = {
+		["Alluvium - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 		["Riparium - Argent Dawn"] = {
@@ -451,18 +455,14 @@ PasteDB = {
 			["pos"] = {
 			},
 		},
-		["Blindrivers - Arthas"] = {
+		["Edgyrivers - Arthas"] = {
 			["loaded"] = true,
 		},
 		["Magicrivers - Korgath"] = {
 			["loaded"] = true,
 		},
-		["Serenerivers - Bleeding Hollow"] = {
+		["Boringrivers - Korgath"] = {
 			["loaded"] = true,
-			["whispertarget"] = "",
-			["where"] = "Default",
-			["pos"] = {
-			},
 		},
 		["Tinyrivers - Sargeras"] = {
 			["loaded"] = true,
@@ -475,10 +475,10 @@ PasteDB = {
 				["width"] = 500.000061035156,
 			},
 		},
-		["Zimuures - Argent Dawn"] = {
+		["Mothugeon - Argent Dawn"] = {
 			["loaded"] = true,
 		},
-		["Cataracts - Argent Dawn"] = {
+		["Mangrove - Argent Dawn"] = {
 			["loaded"] = true,
 		},
 	},

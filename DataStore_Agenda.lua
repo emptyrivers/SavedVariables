@@ -26,7 +26,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1704234979,
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1704315799,
+				["lastUpdate"] = 1704324952,
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["lastUpdate"] = 1704315328,
@@ -50,7 +50,7 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1704235347,
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1704235227,
+				["lastUpdate"] = 1704326860,
 			},
 			["Default.Argent Dawn.Mangrove"] = {
 				["lastUpdate"] = 1704276380,

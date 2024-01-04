@@ -1070,7 +1070,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1704315797,
+				["lastUpdate"] = 1704324951,
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["lastUpdate"] = 1704315327,
@@ -8430,7 +8430,7 @@ DataStore_PetsDB = {
 				},
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1704235228,
+				["lastUpdate"] = 1704326860,
 				["CRITTER"] = {
 					"BattlePet-0-00000E0BBDEE", -- [1]
 					"BattlePet-0-00000E0BBDC4", -- [2]
@@ -8569,8 +8569,8 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E0BBC65", -- [135]
 					"BattlePet-0-00000E0BBE3D", -- [136]
 					"BattlePet-0-00000E0BBEBD", -- [137]
-					"BattlePet-0-00000E826ACE", -- [138]
-					"BattlePet-0-00000E0BBE55", -- [139]
+					"BattlePet-0-00000E0BBE55", -- [138]
+					"BattlePet-0-00000E826ACE", -- [139]
 					"BattlePet-0-00000E0BBDA1", -- [140]
 					"BattlePet-0-00000E0BBEFD", -- [141]
 					"BattlePet-0-00000E0BBD49", -- [142]
@@ -8579,8 +8579,8 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E0BBDF0", -- [145]
 					"BattlePet-0-00000E0BBDD7", -- [146]
 					"BattlePet-0-00000E0BBEE2", -- [147]
-					"BattlePet-0-00000E0BBE44", -- [148]
-					"BattlePet-0-00000E0BBE06", -- [149]
+					"BattlePet-0-00000E0BBE06", -- [148]
+					"BattlePet-0-00000E0BBE44", -- [149]
 					"BattlePet-0-00000E0BBE19", -- [150]
 					"BattlePet-0-00000E0BBEE0", -- [151]
 					"BattlePet-0-00000E0BBE73", -- [152]
@@ -8629,8 +8629,8 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E0BBE15", -- [195]
 					"BattlePet-0-00000E0BBD07", -- [196]
 					"BattlePet-0-000021A147F3", -- [197]
-					"BattlePet-0-00000E0BBDB3", -- [198]
-					"BattlePet-0-00000E0BBDBB", -- [199]
+					"BattlePet-0-00000E0BBDBB", -- [198]
+					"BattlePet-0-00000E0BBDB3", -- [199]
 					"BattlePet-0-000021A1E652", -- [200]
 					"BattlePet-0-00000E0BBE9E", -- [201]
 					"BattlePet-0-00000E0BBE1D", -- [202]
@@ -8670,8 +8670,8 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E0BBDC9", -- [236]
 					"BattlePet-0-00000E0BBD2E", -- [237]
 					"BattlePet-0-000021450B67", -- [238]
-					"BattlePet-0-00000E0BBD08", -- [239]
-					"BattlePet-0-00000E0BBD06", -- [240]
+					"BattlePet-0-00000E0BBD06", -- [239]
+					"BattlePet-0-00000E0BBD08", -- [240]
 					"BattlePet-0-00000E0BBEFC", -- [241]
 					"BattlePet-0-00000E0BBDC6", -- [242]
 					"BattlePet-0-00000E826CB2", -- [243]
@@ -8796,8 +8796,8 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E0BBC97", -- [362]
 					"BattlePet-0-0000210B5B47", -- [363]
 					"BattlePet-0-0000211A4F2A", -- [364]
-					"BattlePet-0-000021A13D8B", -- [365]
-					"BattlePet-0-000021A13EFA", -- [366]
+					"BattlePet-0-000021A13EFA", -- [365]
+					"BattlePet-0-000021A13D8B", -- [366]
 					"BattlePet-0-000021A14631", -- [367]
 					"BattlePet-0-000021A1B6D6", -- [368]
 					"BattlePet-0-000021152F0A", -- [369]
@@ -8805,8 +8805,8 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E77FAED", -- [371]
 					"BattlePet-0-00000E77F974", -- [372]
 					"BattlePet-0-000021A15554", -- [373]
-					"BattlePet-0-00000E762BF6", -- [374]
-					"BattlePet-0-00000E762C2F", -- [375]
+					"BattlePet-0-00000E762C2F", -- [374]
+					"BattlePet-0-00000E762BF6", -- [375]
 					"BattlePet-0-000021A14258", -- [376]
 					"BattlePet-0-0000216E4603", -- [377]
 					"BattlePet-0-000021A1B5B5", -- [378]
@@ -9145,340 +9145,342 @@ DataStore_PetsDB = {
 					"BattlePet-0-00000E0BBEDF", -- [711]
 					"BattlePet-0-000021D4259C", -- [712]
 					"BattlePet-0-000021DAC77E", -- [713]
-					"BattlePet-0-00000E0BBED7", -- [714]
-					"BattlePet-0-00000E0BBF37", -- [715]
+					"BattlePet-0-00000E0BBF37", -- [714]
+					"BattlePet-0-00000E0BBED7", -- [715]
 					"BattlePet-0-000021787264", -- [716]
 					"BattlePet-0-00000E0BBF49", -- [717]
 					"BattlePet-0-000021C92DBD", -- [718]
 					"BattlePet-0-000021211699", -- [719]
 					"BattlePet-0-000021D2AA99", -- [720]
 					"BattlePet-0-00000E0BBDAB", -- [721]
-					"BattlePet-0-00000E0BBCC9", -- [722]
-					"BattlePet-0-00000E0BBDA6", -- [723]
+					"BattlePet-0-00000E0BBDA6", -- [722]
+					"BattlePet-0-00000E0BBCC9", -- [723]
 					"BattlePet-0-0000210D9D98", -- [724]
 					"BattlePet-0-0000210B713F", -- [725]
 					"BattlePet-0-00000E0BBD32", -- [726]
-					"BattlePet-0-0000214C5B6A", -- [727]
-					"BattlePet-0-0000214CB95A", -- [728]
+					"BattlePet-0-0000214CB95A", -- [727]
+					"BattlePet-0-0000214C5B6A", -- [728]
 					"BattlePet-0-00000E0BBDDB", -- [729]
 					"BattlePet-0-00000E0BBDDF", -- [730]
-					"BattlePet-0-000021D9547D", -- [731]
-					"BattlePet-0-000021C9E793", -- [732]
-					"BattlePet-0-000021758E4A", -- [733]
-					"BattlePet-0-0000210D9DC9", -- [734]
-					"BattlePet-0-00000E0BBDAC", -- [735]
-					"BattlePet-0-00002128F8D6", -- [736]
-					"BattlePet-0-000021C92098", -- [737]
-					"BattlePet-0-00000E0BBE4D", -- [738]
-					"BattlePet-0-0000214E9CE5", -- [739]
-					"BattlePet-0-0000210533A3", -- [740]
-					"BattlePet-0-0000210D9D92", -- [741]
-					"BattlePet-0-000021C9209B", -- [742]
-					"BattlePet-0-00002130026C", -- [743]
+					"BattlePet-0-000021DD0855", -- [731]
+					"BattlePet-0-000021D9547D", -- [732]
+					"BattlePet-0-000021C9E793", -- [733]
+					"BattlePet-0-000021758E4A", -- [734]
+					"BattlePet-0-0000210D9DC9", -- [735]
+					"BattlePet-0-00000E0BBDAC", -- [736]
+					"BattlePet-0-00002128F8D6", -- [737]
+					"BattlePet-0-000021C92098", -- [738]
+					"BattlePet-0-00000E0BBE4D", -- [739]
+					"BattlePet-0-0000214E9CE5", -- [740]
+					"BattlePet-0-0000210533A3", -- [741]
+					"BattlePet-0-0000210D9D92", -- [742]
+					"BattlePet-0-000021C9209B", -- [743]
 					"BattlePet-0-00000E0BBF41", -- [744]
-					"BattlePet-0-000021A2B645", -- [745]
-					"BattlePet-0-000021D17397", -- [746]
-					"BattlePet-0-000021A2B641", -- [747]
-					"BattlePet-0-00000E0BBE53", -- [748]
-					"BattlePet-0-00000E0BBEB8", -- [749]
-					"BattlePet-0-00000E0BBE40", -- [750]
-					"BattlePet-0-000010125055", -- [751]
-					"BattlePet-0-00000E0BBE4F", -- [752]
-					"BattlePet-0-00000E0BBD4A", -- [753]
-					"BattlePet-0-00000E0BBF11", -- [754]
-					"BattlePet-0-000021872128", -- [755]
-					"BattlePet-0-000021872125", -- [756]
-					"BattlePet-0-0000210D9DBC", -- [757]
-					"BattlePet-0-00000E0BBD36", -- [758]
-					"BattlePet-0-00000E0BBDCF", -- [759]
-					"BattlePet-0-00002128F8C0", -- [760]
-					"BattlePet-0-000021D37FDD", -- [761]
-					"BattlePet-0-0000210B5ED1", -- [762]
-					"BattlePet-0-000021A14D2D", -- [763]
-					"BattlePet-0-000021CBCDA8", -- [764]
-					"BattlePet-0-00000E0BBF3B", -- [765]
-					"BattlePet-0-00000E0BBF40", -- [766]
-					"BattlePet-0-000021B664BA", -- [767]
-					"BattlePet-0-0000212E1296", -- [768]
-					"BattlePet-0-000021210DAA", -- [769]
-					"BattlePet-0-0000212E0F2F", -- [770]
-					"BattlePet-0-00000E0BBC8C", -- [771]
-					"BattlePet-0-000021520E7F", -- [772]
-					"BattlePet-0-000021B47416", -- [773]
-					"BattlePet-0-000021D3617E", -- [774]
-					"BattlePet-0-00000E0BBDA7", -- [775]
-					"BattlePet-0-0000214CAF98", -- [776]
-					"BattlePet-0-00000E0BBEE5", -- [777]
-					"BattlePet-0-00002127E0D9", -- [778]
-					"BattlePet-0-00000E0BBDD6", -- [779]
-					"BattlePet-0-00000E0BBF20", -- [780]
-					"BattlePet-0-0000210D9DB6", -- [781]
-					"BattlePet-0-0000210D9DC5", -- [782]
-					"BattlePet-0-00000E0BBECD", -- [783]
-					"BattlePet-0-0000210B5BB2", -- [784]
-					"BattlePet-0-000021D6DD07", -- [785]
-					"BattlePet-0-00000E0BBEC7", -- [786]
-					"BattlePet-0-00000E0BBECB", -- [787]
-					"BattlePet-0-00000E0BBEB1", -- [788]
-					"BattlePet-0-00000E0BBEB2", -- [789]
+					"BattlePet-0-00002130026C", -- [745]
+					"BattlePet-0-000021A2B645", -- [746]
+					"BattlePet-0-000021D17397", -- [747]
+					"BattlePet-0-000021A2B641", -- [748]
+					"BattlePet-0-00000E0BBE53", -- [749]
+					"BattlePet-0-00000E0BBEB8", -- [750]
+					"BattlePet-0-00000E0BBE40", -- [751]
+					"BattlePet-0-000010125055", -- [752]
+					"BattlePet-0-00000E0BBE4F", -- [753]
+					"BattlePet-0-00000E0BBD4A", -- [754]
+					"BattlePet-0-00000E0BBF11", -- [755]
+					"BattlePet-0-000021872128", -- [756]
+					"BattlePet-0-000021872125", -- [757]
+					"BattlePet-0-0000210D9DBC", -- [758]
+					"BattlePet-0-00000E0BBD36", -- [759]
+					"BattlePet-0-00000E0BBDCF", -- [760]
+					"BattlePet-0-00002128F8C0", -- [761]
+					"BattlePet-0-000021D37FDD", -- [762]
+					"BattlePet-0-0000210B5ED1", -- [763]
+					"BattlePet-0-000021A14D2D", -- [764]
+					"BattlePet-0-000021CBCDA8", -- [765]
+					"BattlePet-0-00000E0BBF3B", -- [766]
+					"BattlePet-0-00000E0BBF40", -- [767]
+					"BattlePet-0-000021B664BA", -- [768]
+					"BattlePet-0-0000212E1296", -- [769]
+					"BattlePet-0-000021210DAA", -- [770]
+					"BattlePet-0-0000212E0F2F", -- [771]
+					"BattlePet-0-00000E0BBC8C", -- [772]
+					"BattlePet-0-000021520E7F", -- [773]
+					"BattlePet-0-000021DCECAD", -- [774]
+					"BattlePet-0-000021B47416", -- [775]
+					"BattlePet-0-000021D3617E", -- [776]
+					"BattlePet-0-00000E0BBDA7", -- [777]
+					"BattlePet-0-0000214CAF98", -- [778]
+					"BattlePet-0-00000E0BBEE5", -- [779]
+					"BattlePet-0-00002127E0D9", -- [780]
+					"BattlePet-0-00000E0BBDD6", -- [781]
+					"BattlePet-0-00000E0BBF20", -- [782]
+					"BattlePet-0-0000210D9DB6", -- [783]
+					"BattlePet-0-0000210D9DC5", -- [784]
+					"BattlePet-0-00000E0BBECD", -- [785]
+					"BattlePet-0-0000210B5BB2", -- [786]
+					"BattlePet-0-000021D6DD07", -- [787]
+					"BattlePet-0-00000E0BBEC7", -- [788]
+					"BattlePet-0-00000E0BBECB", -- [789]
 					"BattlePet-0-00000E0BBEB0", -- [790]
-					"BattlePet-0-00000E0BBCC6", -- [791]
-					"BattlePet-0-00000E0BBC96", -- [792]
-					"BattlePet-0-00000E0BBECA", -- [793]
-					"BattlePet-0-00000E0BBCA4", -- [794]
-					"BattlePet-0-00000E0BBEF5", -- [795]
-					"BattlePet-0-00000E0BBEF7", -- [796]
-					"BattlePet-0-00000E0BBEB9", -- [797]
-					"BattlePet-0-00000E0BBCE4", -- [798]
-					"BattlePet-0-00000E0BBDB9", -- [799]
-					"BattlePet-0-000021A1E653", -- [800]
-					"BattlePet-0-00002130C218", -- [801]
-					"BattlePet-0-00000E0BBEB5", -- [802]
-					"BattlePet-0-00000E0BBEA8", -- [803]
-					"BattlePet-0-0000214D009E", -- [804]
-					"BattlePet-0-00000E0BBCF4", -- [805]
-					"BattlePet-0-00002118AC5D", -- [806]
-					"BattlePet-0-0000214CAA3D", -- [807]
-					"BattlePet-0-000021D48012", -- [808]
-					"BattlePet-0-0000214CB863", -- [809]
-					"BattlePet-0-00000E0BBD87", -- [810]
-					"BattlePet-0-0000219DC942", -- [811]
-					"BattlePet-0-00000E0BBC7F", -- [812]
-					"BattlePet-0-00000E0BBC9C", -- [813]
-					"BattlePet-0-000021053332", -- [814]
-					"BattlePet-0-00000E0BBE62", -- [815]
-					"BattlePet-0-0000210D9DB8", -- [816]
-					"BattlePet-0-00000E0BBE63", -- [817]
-					"BattlePet-0-00002177DB12", -- [818]
-					"BattlePet-0-00000E0BBE5F", -- [819]
-					"BattlePet-0-00000E0BBDF9", -- [820]
-					"BattlePet-0-00000E0BBDE8", -- [821]
-					"BattlePet-0-00000E0BBF36", -- [822]
-					"BattlePet-0-00002130E8A5", -- [823]
-					"BattlePet-0-00001012AEF6", -- [824]
-					"BattlePet-0-00000E9430FA", -- [825]
-					"BattlePet-0-00000E0BBDA0", -- [826]
-					"BattlePet-0-000011285293", -- [827]
-					"BattlePet-0-00001041CD83", -- [828]
-					"BattlePet-0-00000E0BBF2E", -- [829]
-					"BattlePet-0-0000210D9DCD", -- [830]
-					"BattlePet-0-0000210533A4", -- [831]
-					"BattlePet-0-00000E0BBDD8", -- [832]
-					"BattlePet-0-00000E0BBEBC", -- [833]
-					"BattlePet-0-000021058276", -- [834]
-					"BattlePet-0-000021A23BAC", -- [835]
-					"BattlePet-0-00000E0BBCBA", -- [836]
-					"BattlePet-0-00002134DD2E", -- [837]
-					"BattlePet-0-000021DAD846", -- [838]
-					"BattlePet-0-000021D2A98C", -- [839]
-					"BattlePet-0-000021DAD847", -- [840]
-					"BattlePet-0-000021DAD848", -- [841]
-					"BattlePet-0-000021DAD849", -- [842]
-					"BattlePet-0-000021BC358F", -- [843]
-					"BattlePet-0-000021BA79BA", -- [844]
-					"BattlePet-0-00000E0BBE84", -- [845]
-					"BattlePet-0-0000214CBA99", -- [846]
-					"BattlePet-0-00000E0BBDB4", -- [847]
-					"BattlePet-0-0000210B58A0", -- [848]
-					"BattlePet-0-000021DC0F3F", -- [849]
-					"BattlePet-0-0000210D9DBA", -- [850]
-					"BattlePet-0-00000E0BBCCF", -- [851]
-					"BattlePet-0-00000E0BBEAD", -- [852]
-					"BattlePet-0-00000E0BBE00", -- [853]
-					"BattlePet-0-00000E0BBEC6", -- [854]
-					"BattlePet-0-00000E0BBDBF", -- [855]
-					"BattlePet-0-00000E0BBDE7", -- [856]
-					"BattlePet-0-000021BC3298", -- [857]
-					"BattlePet-0-00000E0BBF45", -- [858]
-					"BattlePet-0-00000E0BBDED", -- [859]
-					"BattlePet-0-00000E0BBE01", -- [860]
-					"BattlePet-0-00002128F8B1", -- [861]
-					"BattlePet-0-000021047395", -- [862]
-					"BattlePet-0-0000210F9607", -- [863]
-					"BattlePet-0-000021D1B244", -- [864]
-					"BattlePet-0-00000E0BBF32", -- [865]
-					"BattlePet-0-00000E0BBEBF", -- [866]
-					"BattlePet-0-00000E0BBEDB", -- [867]
-					"BattlePet-0-00000E0BBF1B", -- [868]
-					"BattlePet-0-0000212070D4", -- [869]
-					"BattlePet-0-000021CCDFD9", -- [870]
-					"BattlePet-0-00000E0BBE4A", -- [871]
-					"BattlePet-0-00000E0BBDCB", -- [872]
-					"BattlePet-0-00002177DB13", -- [873]
-					"BattlePet-0-0000210D9DC0", -- [874]
-					"BattlePet-0-00000E0BBCC1", -- [875]
-					"BattlePet-0-00000E0BBED8", -- [876]
-					"BattlePet-0-000021065C9A", -- [877]
-					"BattlePet-0-000021C9E7A3", -- [878]
-					"BattlePet-0-00000E0BBCBF", -- [879]
-					"BattlePet-0-00000E0BBDFE", -- [880]
-					"BattlePet-0-0000210D9D9F", -- [881]
-					"BattlePet-0-000020FD70AB", -- [882]
-					"BattlePet-0-000021CBCF9F", -- [883]
-					"BattlePet-0-000021C619A9", -- [884]
-					"BattlePet-0-0000219DF7FB", -- [885]
-					"BattlePet-0-00000E0BBF17", -- [886]
-					"BattlePet-0-00000E0BBDE5", -- [887]
-					"BattlePet-0-00000E0BBE80", -- [888]
-					"BattlePet-0-00000E0BBED1", -- [889]
-					"BattlePet-0-00000E0BBF39", -- [890]
-					"BattlePet-0-00000E0BBEC2", -- [891]
-					"BattlePet-0-00000E0BBD11", -- [892]
-					"BattlePet-0-00000E0BBC90", -- [893]
-					"BattlePet-0-00000E0BBE66", -- [894]
-					"BattlePet-0-00000E93D995", -- [895]
-					"BattlePet-0-00000E0BBE57", -- [896]
-					"BattlePet-0-00000E0BBF07", -- [897]
-					"BattlePet-0-0000210607BA", -- [898]
-					"BattlePet-0-00000E0BBD8F", -- [899]
-					"BattlePet-0-000021D955B2", -- [900]
-					"BattlePet-0-00000E0BBE6A", -- [901]
-					"BattlePet-0-000021686637", -- [902]
-					"BattlePet-0-0000210533A5", -- [903]
-					"BattlePet-0-0000210EDAF7", -- [904]
-					"BattlePet-0-00000E0BBF3F", -- [905]
-					"BattlePet-0-000021D4734E", -- [906]
-					"BattlePet-0-0000101269C8", -- [907]
-					"BattlePet-0-00000E0BBD18", -- [908]
-					"BattlePet-0-00000E0BBF10", -- [909]
-					"BattlePet-0-0000212F6EDA", -- [910]
-					"BattlePet-0-00000FB6E865", -- [911]
-					"BattlePet-0-00000E0BBECC", -- [912]
-					"BattlePet-0-0000210D9DC7", -- [913]
-					"BattlePet-0-00000E0BBF18", -- [914]
-					"BattlePet-0-00002105827D", -- [915]
-					"BattlePet-0-00000E0BBE47", -- [916]
-					"BattlePet-0-00000E0BBEE4", -- [917]
-					"BattlePet-0-00000E0BBD19", -- [918]
-					"BattlePet-0-00000E0BBC6A", -- [919]
-					"BattlePet-0-000021154083", -- [920]
-					"BattlePet-0-0000219E2191", -- [921]
-					"BattlePet-0-00000E0BBEC0", -- [922]
-					"BattlePet-0-00000E0BBEDA", -- [923]
-					"BattlePet-0-00000E0BBF2C", -- [924]
-					"BattlePet-0-00000E0BBF3C", -- [925]
-					"BattlePet-0-00002166E989", -- [926]
-					"BattlePet-0-000021A1371A", -- [927]
-					"BattlePet-0-0000210CDF09", -- [928]
-					"BattlePet-0-00000E0BBEA1", -- [929]
-					"BattlePet-0-000021A1BDAD", -- [930]
-					"BattlePet-0-000021D37FE0", -- [931]
-					"BattlePet-0-00000E0BBF14", -- [932]
-					"BattlePet-0-000010411FF3", -- [933]
-					"BattlePet-0-00000E0BBE82", -- [934]
-					"BattlePet-0-00000E0BBE48", -- [935]
-					"BattlePet-0-00002128F8DE", -- [936]
-					"BattlePet-0-0000210D9DBE", -- [937]
-					"BattlePet-0-00000E0BBE4C", -- [938]
-					"BattlePet-0-0000210533AB", -- [939]
-					"BattlePet-0-00000E0BBDA2", -- [940]
-					"BattlePet-0-00000E0BBE85", -- [941]
-					"BattlePet-0-00000E0BBDD9", -- [942]
-					"BattlePet-0-00000E0BBDB7", -- [943]
-					"BattlePet-0-00000E0BBE42", -- [944]
-					"BattlePet-0-00000E0BBF29", -- [945]
-					"BattlePet-0-0000219E75BB", -- [946]
-					"BattlePet-0-00000E0BBCC8", -- [947]
-					"BattlePet-0-000021CA50EA", -- [948]
-					"BattlePet-0-000021BE7D81", -- [949]
-					"BattlePet-0-000021BE7D7E", -- [950]
-					"BattlePet-0-000021CB6B88", -- [951]
+					"BattlePet-0-00000E0BBEB2", -- [791]
+					"BattlePet-0-00000E0BBEB1", -- [792]
+					"BattlePet-0-00000E0BBCC6", -- [793]
+					"BattlePet-0-00000E0BBC96", -- [794]
+					"BattlePet-0-00000E0BBECA", -- [795]
+					"BattlePet-0-00000E0BBCA4", -- [796]
+					"BattlePet-0-00000E0BBEF5", -- [797]
+					"BattlePet-0-00000E0BBEF7", -- [798]
+					"BattlePet-0-00000E0BBEB9", -- [799]
+					"BattlePet-0-00000E0BBDB9", -- [800]
+					"BattlePet-0-00000E0BBCE4", -- [801]
+					"BattlePet-0-000021A1E653", -- [802]
+					"BattlePet-0-00002130C218", -- [803]
+					"BattlePet-0-00000E0BBEB5", -- [804]
+					"BattlePet-0-00000E0BBEA8", -- [805]
+					"BattlePet-0-0000214D009E", -- [806]
+					"BattlePet-0-00000E0BBCF4", -- [807]
+					"BattlePet-0-00002118AC5D", -- [808]
+					"BattlePet-0-0000214CAA3D", -- [809]
+					"BattlePet-0-000021D48012", -- [810]
+					"BattlePet-0-0000214CB863", -- [811]
+					"BattlePet-0-00000E0BBD87", -- [812]
+					"BattlePet-0-0000219DC942", -- [813]
+					"BattlePet-0-00000E0BBC9C", -- [814]
+					"BattlePet-0-00000E0BBC7F", -- [815]
+					"BattlePet-0-000021053332", -- [816]
+					"BattlePet-0-00000E0BBE62", -- [817]
+					"BattlePet-0-0000210D9DB8", -- [818]
+					"BattlePet-0-00000E0BBE63", -- [819]
+					"BattlePet-0-00002177DB12", -- [820]
+					"BattlePet-0-00000E0BBE5F", -- [821]
+					"BattlePet-0-00000E0BBDF9", -- [822]
+					"BattlePet-0-00000E0BBDE8", -- [823]
+					"BattlePet-0-00002130E8A5", -- [824]
+					"BattlePet-0-00000E0BBF36", -- [825]
+					"BattlePet-0-00001012AEF6", -- [826]
+					"BattlePet-0-00000E9430FA", -- [827]
+					"BattlePet-0-00000E0BBDA0", -- [828]
+					"BattlePet-0-00001041CD83", -- [829]
+					"BattlePet-0-000011285293", -- [830]
+					"BattlePet-0-00000E0BBF2E", -- [831]
+					"BattlePet-0-0000210D9DCD", -- [832]
+					"BattlePet-0-0000210533A4", -- [833]
+					"BattlePet-0-00000E0BBEBC", -- [834]
+					"BattlePet-0-00000E0BBDD8", -- [835]
+					"BattlePet-0-000021058276", -- [836]
+					"BattlePet-0-000021A23BAC", -- [837]
+					"BattlePet-0-00000E0BBCBA", -- [838]
+					"BattlePet-0-00002134DD2E", -- [839]
+					"BattlePet-0-000021DAD846", -- [840]
+					"BattlePet-0-000021D2A98C", -- [841]
+					"BattlePet-0-000021DAD847", -- [842]
+					"BattlePet-0-000021DAD848", -- [843]
+					"BattlePet-0-000021DAD849", -- [844]
+					"BattlePet-0-000021BC358F", -- [845]
+					"BattlePet-0-000021BA79BA", -- [846]
+					"BattlePet-0-00000E0BBE84", -- [847]
+					"BattlePet-0-0000214CBA99", -- [848]
+					"BattlePet-0-00000E0BBDB4", -- [849]
+					"BattlePet-0-0000210B58A0", -- [850]
+					"BattlePet-0-000021DC0F3F", -- [851]
+					"BattlePet-0-0000210D9DBA", -- [852]
+					"BattlePet-0-00000E0BBCCF", -- [853]
+					"BattlePet-0-00000E0BBE00", -- [854]
+					"BattlePet-0-00000E0BBEAD", -- [855]
+					"BattlePet-0-00000E0BBEC6", -- [856]
+					"BattlePet-0-00000E0BBDBF", -- [857]
+					"BattlePet-0-00000E0BBDE7", -- [858]
+					"BattlePet-0-000021BC3298", -- [859]
+					"BattlePet-0-00000E0BBF45", -- [860]
+					"BattlePet-0-00000E0BBDED", -- [861]
+					"BattlePet-0-00000E0BBE01", -- [862]
+					"BattlePet-0-00002128F8B1", -- [863]
+					"BattlePet-0-000021047395", -- [864]
+					"BattlePet-0-0000210F9607", -- [865]
+					"BattlePet-0-000021D1B244", -- [866]
+					"BattlePet-0-00000E0BBF32", -- [867]
+					"BattlePet-0-00000E0BBEDB", -- [868]
+					"BattlePet-0-00000E0BBEBF", -- [869]
+					"BattlePet-0-00000E0BBF1B", -- [870]
+					"BattlePet-0-0000212070D4", -- [871]
+					"BattlePet-0-000021CCDFD9", -- [872]
+					"BattlePet-0-00000E0BBE4A", -- [873]
+					"BattlePet-0-00000E0BBDCB", -- [874]
+					"BattlePet-0-00002177DB13", -- [875]
+					"BattlePet-0-0000210D9DC0", -- [876]
+					"BattlePet-0-00000E0BBCC1", -- [877]
+					"BattlePet-0-00000E0BBED8", -- [878]
+					"BattlePet-0-000021065C9A", -- [879]
+					"BattlePet-0-000021C9E7A3", -- [880]
+					"BattlePet-0-00000E0BBCBF", -- [881]
+					"BattlePet-0-00000E0BBDFE", -- [882]
+					"BattlePet-0-0000210D9D9F", -- [883]
+					"BattlePet-0-000020FD70AB", -- [884]
+					"BattlePet-0-000021CBCF9F", -- [885]
+					"BattlePet-0-000021C619A9", -- [886]
+					"BattlePet-0-0000219DF7FB", -- [887]
+					"BattlePet-0-00000E0BBF17", -- [888]
+					"BattlePet-0-00000E0BBDE5", -- [889]
+					"BattlePet-0-00000E0BBE80", -- [890]
+					"BattlePet-0-00000E0BBED1", -- [891]
+					"BattlePet-0-00000E0BBF39", -- [892]
+					"BattlePet-0-00000E0BBEC2", -- [893]
+					"BattlePet-0-00000E0BBD11", -- [894]
+					"BattlePet-0-00000E0BBC90", -- [895]
+					"BattlePet-0-00000E0BBE66", -- [896]
+					"BattlePet-0-00000E93D995", -- [897]
+					"BattlePet-0-00000E0BBE57", -- [898]
+					"BattlePet-0-00000E0BBF07", -- [899]
+					"BattlePet-0-00000E0BBD8F", -- [900]
+					"BattlePet-0-0000210607BA", -- [901]
+					"BattlePet-0-000021D955B2", -- [902]
+					"BattlePet-0-00000E0BBE6A", -- [903]
+					"BattlePet-0-000021686637", -- [904]
+					"BattlePet-0-0000210533A5", -- [905]
+					"BattlePet-0-0000210EDAF7", -- [906]
+					"BattlePet-0-000021D4734E", -- [907]
+					"BattlePet-0-00000E0BBF3F", -- [908]
+					"BattlePet-0-0000101269C8", -- [909]
+					"BattlePet-0-00000E0BBD18", -- [910]
+					"BattlePet-0-00000E0BBF10", -- [911]
+					"BattlePet-0-0000212F6EDA", -- [912]
+					"BattlePet-0-00000E0BBECC", -- [913]
+					"BattlePet-0-00000FB6E865", -- [914]
+					"BattlePet-0-0000210D9DC7", -- [915]
+					"BattlePet-0-00000E0BBF18", -- [916]
+					"BattlePet-0-00002105827D", -- [917]
+					"BattlePet-0-00000E0BBEE4", -- [918]
+					"BattlePet-0-00000E0BBE47", -- [919]
+					"BattlePet-0-00000E0BBD19", -- [920]
+					"BattlePet-0-00000E0BBC6A", -- [921]
+					"BattlePet-0-000021154083", -- [922]
+					"BattlePet-0-0000219E2191", -- [923]
+					"BattlePet-0-00000E0BBEC0", -- [924]
+					"BattlePet-0-00000E0BBF2C", -- [925]
+					"BattlePet-0-00000E0BBEDA", -- [926]
+					"BattlePet-0-00000E0BBF3C", -- [927]
+					"BattlePet-0-00002166E989", -- [928]
+					"BattlePet-0-000021A1371A", -- [929]
+					"BattlePet-0-0000210CDF09", -- [930]
+					"BattlePet-0-00000E0BBEA1", -- [931]
+					"BattlePet-0-000021A1BDAD", -- [932]
+					"BattlePet-0-00000E0BBF14", -- [933]
+					"BattlePet-0-000021D37FE0", -- [934]
+					"BattlePet-0-000010411FF3", -- [935]
+					"BattlePet-0-00000E0BBE82", -- [936]
+					"BattlePet-0-00000E0BBE48", -- [937]
+					"BattlePet-0-00002128F8DE", -- [938]
+					"BattlePet-0-0000210D9DBE", -- [939]
+					"BattlePet-0-00000E0BBE4C", -- [940]
+					"BattlePet-0-0000210533AB", -- [941]
+					"BattlePet-0-00000E0BBDA2", -- [942]
+					"BattlePet-0-00000E0BBE85", -- [943]
+					"BattlePet-0-00000E0BBDD9", -- [944]
+					"BattlePet-0-00000E0BBDB7", -- [945]
+					"BattlePet-0-00000E0BBE42", -- [946]
+					"BattlePet-0-00000E0BBF29", -- [947]
+					"BattlePet-0-0000219E75BB", -- [948]
+					"BattlePet-0-00000E0BBCC8", -- [949]
+					"BattlePet-0-000021BE7D81", -- [950]
+					"BattlePet-0-000021CA50EA", -- [951]
 					"BattlePet-0-000021DA302A", -- [952]
-					"BattlePet-0-00000E0BBC9D", -- [953]
-					"BattlePet-0-00000E0BBF38", -- [954]
-					"BattlePet-0-00000E0BBF1D", -- [955]
-					"BattlePet-0-00000E0BBDB1", -- [956]
-					"BattlePet-0-00000E0BBF01", -- [957]
-					"BattlePet-0-000021CDF5C8", -- [958]
-					"BattlePet-0-0000211353FD", -- [959]
-					"BattlePet-0-000021212B03", -- [960]
-					"BattlePet-0-00000E0BBF47", -- [961]
-					"BattlePet-0-00000E0BBF1F", -- [962]
-					"BattlePet-0-00000E0BBF16", -- [963]
-					"BattlePet-0-00000E0BBD7F", -- [964]
-					"BattlePet-0-0000218C8213", -- [965]
-					"BattlePet-0-00000E0BBD70", -- [966]
-					"BattlePet-0-0000218CF62F", -- [967]
-					"BattlePet-0-00000E0BBC9B", -- [968]
-					"BattlePet-0-000021BC3594", -- [969]
-					"BattlePet-0-000021C91C6F", -- [970]
-					"BattlePet-0-00000E0BBC8B", -- [971]
-					"BattlePet-0-00000E0BBE5B", -- [972]
-					"BattlePet-0-0000210533A8", -- [973]
-					"BattlePet-0-0000210D9DC1", -- [974]
-					"BattlePet-0-0000214D009F", -- [975]
-					"BattlePet-0-00000E0BBF19", -- [976]
-					"BattlePet-0-00000E956926", -- [977]
-					"BattlePet-0-00000E0BBF00", -- [978]
-					"BattlePet-0-00000E0BBEAE", -- [979]
-					"BattlePet-0-00000E0BBE6C", -- [980]
-					"BattlePet-0-00000E0BBF34", -- [981]
-					"BattlePet-0-00000E0BBE69", -- [982]
-					"BattlePet-0-00000E0BBEAF", -- [983]
-					"BattlePet-0-00000E0BBDEF", -- [984]
-					"BattlePet-0-00000E0BBDF6", -- [985]
-					"BattlePet-0-00000E0BBEF1", -- [986]
-					"BattlePet-0-000021DBA714", -- [987]
-					"BattlePet-0-00000E0BBC8F", -- [988]
-					"BattlePet-0-00000E0BBDAA", -- [989]
-					"BattlePet-0-00000E0BBDA3", -- [990]
-					"BattlePet-0-00000E0BBF3A", -- [991]
-					"BattlePet-0-000021C1257D", -- [992]
-					"BattlePet-0-00000E0BBE5D", -- [993]
-					"BattlePet-0-000021723487", -- [994]
-					"BattlePet-0-000021A1349C", -- [995]
-					"BattlePet-0-00002168567D", -- [996]
-					"BattlePet-0-0000210701A7", -- [997]
-					"BattlePet-0-00002128F8E3", -- [998]
-					"BattlePet-0-000021A1E76F", -- [999]
-					"BattlePet-0-00000E0BBDD2", -- [1000]
-					"BattlePet-0-00000E0BBDF3", -- [1001]
-					"BattlePet-0-00000E0BBE03", -- [1002]
-					"BattlePet-0-00000E0BBE45", -- [1003]
-					"BattlePet-0-0000210D9DC2", -- [1004]
-					"BattlePet-0-00000E0BBCE8", -- [1005]
-					"BattlePet-0-00000E0BBCB0", -- [1006]
-					"BattlePet-0-00000E0BBDC1", -- [1007]
-					"BattlePet-0-00000E0BBEC4", -- [1008]
-					"BattlePet-0-00000E0BBEDC", -- [1009]
-					"BattlePet-0-00000E0BBF31", -- [1010]
-					"BattlePet-0-00000E0BBE88", -- [1011]
-					"BattlePet-0-00000E0BBE23", -- [1012]
-					"BattlePet-0-000021D2703B", -- [1013]
-					"BattlePet-0-00002110453E", -- [1014]
-					"BattlePet-0-00002105826E", -- [1015]
-					"BattlePet-0-00000E0BBEB3", -- [1016]
-					"BattlePet-0-00000E0BBEA9", -- [1017]
-					"BattlePet-0-00000E0BBEA3", -- [1018]
-					"BattlePet-0-00000E0BBCA1", -- [1019]
-					"BattlePet-0-0000210C77F3", -- [1020]
-					"BattlePet-0-00000E0BBCA6", -- [1021]
-					"BattlePet-0-00000E0BBC91", -- [1022]
-					"BattlePet-0-00002128F8CB", -- [1023]
-					"BattlePet-0-00000E0BBF15", -- [1024]
-					"BattlePet-0-00000E0BBCB3", -- [1025]
-					"BattlePet-0-00000E0BBED9", -- [1026]
-					"BattlePet-0-00000E0BBD3C", -- [1027]
-					"BattlePet-0-00000E0BBE65", -- [1028]
-					"BattlePet-0-0000219E99F7", -- [1029]
+					"BattlePet-0-000021BE7D7E", -- [953]
+					"BattlePet-0-000021CB6B88", -- [954]
+					"BattlePet-0-00000E0BBC9D", -- [955]
+					"BattlePet-0-00000E0BBF38", -- [956]
+					"BattlePet-0-00000E0BBDB1", -- [957]
+					"BattlePet-0-00000E0BBF1D", -- [958]
+					"BattlePet-0-00000E0BBF01", -- [959]
+					"BattlePet-0-000021CDF5C8", -- [960]
+					"BattlePet-0-0000211353FD", -- [961]
+					"BattlePet-0-000021212B03", -- [962]
+					"BattlePet-0-00000E0BBF47", -- [963]
+					"BattlePet-0-00000E0BBF1F", -- [964]
+					"BattlePet-0-00000E0BBF16", -- [965]
+					"BattlePet-0-00000E0BBD7F", -- [966]
+					"BattlePet-0-0000218C8213", -- [967]
+					"BattlePet-0-00000E0BBD70", -- [968]
+					"BattlePet-0-0000218CF62F", -- [969]
+					"BattlePet-0-00000E0BBC9B", -- [970]
+					"BattlePet-0-000021BC3594", -- [971]
+					"BattlePet-0-000021C91C6F", -- [972]
+					"BattlePet-0-00000E0BBC8B", -- [973]
+					"BattlePet-0-00000E0BBE5B", -- [974]
+					"BattlePet-0-0000210533A8", -- [975]
+					"BattlePet-0-0000210D9DC1", -- [976]
+					"BattlePet-0-0000214D009F", -- [977]
+					"BattlePet-0-00000E0BBF19", -- [978]
+					"BattlePet-0-00000E956926", -- [979]
+					"BattlePet-0-00000E0BBEAE", -- [980]
+					"BattlePet-0-00000E0BBE6C", -- [981]
+					"BattlePet-0-00000E0BBF00", -- [982]
+					"BattlePet-0-00000E0BBF34", -- [983]
+					"BattlePet-0-00000E0BBE69", -- [984]
+					"BattlePet-0-00000E0BBEAF", -- [985]
+					"BattlePet-0-00000E0BBDEF", -- [986]
+					"BattlePet-0-00000E0BBDF6", -- [987]
+					"BattlePet-0-00000E0BBEF1", -- [988]
+					"BattlePet-0-000021DBA714", -- [989]
+					"BattlePet-0-00000E0BBC8F", -- [990]
+					"BattlePet-0-00000E0BBDAA", -- [991]
+					"BattlePet-0-00000E0BBDA3", -- [992]
+					"BattlePet-0-00000E0BBF3A", -- [993]
+					"BattlePet-0-000021C1257D", -- [994]
+					"BattlePet-0-000021723487", -- [995]
+					"BattlePet-0-00000E0BBE5D", -- [996]
+					"BattlePet-0-000021A1349C", -- [997]
+					"BattlePet-0-00002168567D", -- [998]
+					"BattlePet-0-0000210701A7", -- [999]
+					"BattlePet-0-00002128F8E3", -- [1000]
+					"BattlePet-0-000021A1E76F", -- [1001]
+					"BattlePet-0-00000E0BBDF3", -- [1002]
+					"BattlePet-0-00000E0BBE03", -- [1003]
+					"BattlePet-0-00000E0BBDD2", -- [1004]
+					"BattlePet-0-00000E0BBE45", -- [1005]
+					"BattlePet-0-0000210D9DC2", -- [1006]
+					"BattlePet-0-00000E0BBCE8", -- [1007]
+					"BattlePet-0-00000E0BBDC1", -- [1008]
+					"BattlePet-0-00000E0BBCB0", -- [1009]
+					"BattlePet-0-00000E0BBEDC", -- [1010]
+					"BattlePet-0-00000E0BBF31", -- [1011]
+					"BattlePet-0-00000E0BBEC4", -- [1012]
+					"BattlePet-0-00000E0BBE88", -- [1013]
+					"BattlePet-0-00000E0BBE23", -- [1014]
+					"BattlePet-0-00002110453E", -- [1015]
+					"BattlePet-0-000021D2703B", -- [1016]
+					"BattlePet-0-00002105826E", -- [1017]
+					"BattlePet-0-00000E0BBEA9", -- [1018]
+					"BattlePet-0-00000E0BBEB3", -- [1019]
+					"BattlePet-0-00000E0BBEA3", -- [1020]
+					"BattlePet-0-00000E0BBCA1", -- [1021]
+					"BattlePet-0-0000210C77F3", -- [1022]
+					"BattlePet-0-00000E0BBCA6", -- [1023]
+					"BattlePet-0-00000E0BBC91", -- [1024]
+					"BattlePet-0-00002128F8CB", -- [1025]
+					"BattlePet-0-00000E0BBF15", -- [1026]
+					"BattlePet-0-00000E0BBED9", -- [1027]
+					"BattlePet-0-00000E0BBCB3", -- [1028]
+					"BattlePet-0-00000E0BBD3C", -- [1029]
 					"BattlePet-0-00000E0BBEC3", -- [1030]
-					"BattlePet-0-00000E0BBC92", -- [1031]
-					"BattlePet-0-00000E0BBCD4", -- [1032]
-					"BattlePet-0-000021034280", -- [1033]
-					"BattlePet-0-0000210D9DB2", -- [1034]
-					"BattlePet-0-00000E0BBD3D", -- [1035]
-					"BattlePet-0-00000E0BBC8A", -- [1036]
-					"BattlePet-0-000021CE17AE", -- [1037]
-					"BattlePet-0-0000107B69D1", -- [1038]
-					"BattlePet-0-00000E0BBF4A", -- [1039]
-					"BattlePet-0-00001064223B", -- [1040]
-					"BattlePet-0-00000E0BBD1A", -- [1041]
-					"BattlePet-0-00002169B6CB", -- [1042]
-					"BattlePet-0-000021D8088D", -- [1043]
-					"BattlePet-0-000021CAF288", -- [1044]
-					"BattlePet-0-00000E0BBD3B", -- [1045]
-					"BattlePet-0-000021D23B6B", -- [1046]
-					"BattlePet-0-000021D0311F", -- [1047]
+					"BattlePet-0-0000219E99F7", -- [1031]
+					"BattlePet-0-00000E0BBE65", -- [1032]
+					"BattlePet-0-00000E0BBC92", -- [1033]
+					"BattlePet-0-00000E0BBCD4", -- [1034]
+					"BattlePet-0-000021034280", -- [1035]
+					"BattlePet-0-0000210D9DB2", -- [1036]
+					"BattlePet-0-00000E0BBD3D", -- [1037]
+					"BattlePet-0-00000E0BBC8A", -- [1038]
+					"BattlePet-0-000021CE17AE", -- [1039]
+					"BattlePet-0-0000107B69D1", -- [1040]
+					"BattlePet-0-00000E0BBF4A", -- [1041]
+					"BattlePet-0-00001064223B", -- [1042]
+					"BattlePet-0-00000E0BBD1A", -- [1043]
+					"BattlePet-0-00002169B6CB", -- [1044]
+					"BattlePet-0-000021D8088D", -- [1045]
+					"BattlePet-0-000021CAF288", -- [1046]
+					"BattlePet-0-00000E0BBD3B", -- [1047]
+					"BattlePet-0-000021D23B6B", -- [1048]
+					"BattlePet-0-000021D0311F", -- [1049]
 				},
 			},
 			["Default.Argent Dawn.Mangrove"] = {
@@ -12219,6 +12221,7 @@ DataStore_PetsDB = {
 				["BattlePet-0-00000E0BBD4D"] = 62250,
 				["BattlePet-0-00000E0BBCFD"] = 62256,
 				["BattlePet-0-00000E95E15C"] = 120830,
+				["BattlePet-0-000021DD0855"] = 192350,
 				["BattlePet-0-00000E0BBF24"] = 98446,
 				["BattlePet-0-0000210D9D98"] = 154893,
 				["BattlePet-0-00000E0BBD43"] = 68466,
@@ -12264,83 +12267,84 @@ DataStore_PetsDB = {
 				["BattlePet-0-00000E6B269A"] = 128163,
 				["BattlePet-0-00000E0BBE02"] = 82464,
 				["BattlePet-0-00000E0BBE90"] = 82715,
+				["BattlePet-0-000021DD05B3"] = 192350,
 				["BattlePet-0-000021210DAA"] = 189130,
-				["BattlePet-0-000021DAD849"] = 191383,
 				["BattlePet-0-00000E0BBDD7"] = 53884,
 				["BattlePet-0-000021D2A98C"] = 191386,
+				["BattlePet-0-000021D9547D"] = 189113,
 				["BattlePet-0-00000E0BBED2"] = 112144,
 				["BattlePet-0-00000E0BBEDB"] = 111421,
 				["BattlePet-0-00000E0BBC9B"] = 16701,
-				["BattlePet-0-000021D9547D"] = 189113,
-				["BattlePet-0-0000210D9DC2"] = 174082,
 				["BattlePet-0-000021D2703B"] = 189133,
+				["BattlePet-0-0000210D9DC2"] = 174082,
 				["BattlePet-0-0000218CF62F"] = 27217,
+				["BattlePet-0-000021D8088D"] = 207568,
 				["BattlePet-0-00000E0BBD96"] = 73532,
 				["BattlePet-0-00002105E37F"] = 85527,
 				["BattlePet-0-000021D6DD07"] = 15698,
-				["BattlePet-0-000021D23B6B"] = 207556,
 				["BattlePet-0-00000E0BBE54"] = 62992,
-				["BattlePet-0-00000E0BBE59"] = 71017,
+				["BattlePet-0-000021CDF5C8"] = 212417,
 				["BattlePet-0-000021BF3692"] = 212954,
+				["BattlePet-0-00000E0BBE3B"] = 63002,
 				["BattlePet-0-00000E0BBE77"] = 63716,
-				["BattlePet-0-00000E0BBE85"] = 64232,
-				["BattlePet-0-00000E0BBE7C"] = 65187,
 				["BattlePet-0-000021CA50EA"] = 212562,
+				["BattlePet-0-00000E0BBE7C"] = 65187,
+				["BattlePet-0-00000E0BBE95"] = 85389,
 				["BattlePet-0-00000E0BBE7A"] = 65324,
 				["BattlePet-0-00000E0BBEB5"] = 83817,
-				["BattlePet-0-0000219E75BB"] = 208436,
-				["BattlePet-0-00000E0BBE08"] = 61329,
 				["BattlePet-0-000021065C41"] = 189102,
+				["BattlePet-0-00000E0BBE08"] = 61329,
 				["BattlePet-0-00000E0BBCF3"] = 70451,
-				["BattlePet-0-00000E0BBE45"] = 7395,
 				["BattlePet-0-00000E0BBDD8"] = 86447,
+				["BattlePet-0-00000E0BBE45"] = 7395,
 				["BattlePet-0-0000219E2191"] = 139782,
-				["BattlePet-0-00000E0BBDAE"] = 63062,
+				["BattlePet-0-00000E0BBDD9"] = 23909,
 				["BattlePet-0-00002118AC5D"] = 31575,
-				["BattlePet-0-00000E0BBCBD"] = 33219,
 				["BattlePet-0-00000E0BBCAD"] = 73011,
+				["BattlePet-0-00000E0BBCBD"] = 33219,
 				["BattlePet-0-000021C9E7A3"] = 213111,
-				["BattlePet-0-00000E0BBEBF"] = 111421,
+				["BattlePet-0-00000E0BBD15"] = 63715,
+				["BattlePet-0-000021DCECAD"] = 212567,
 				["BattlePet-0-00000E0BBED5"] = 71033,
 				["BattlePet-0-0000214C5B6A"] = 189158,
-				["BattlePet-0-000021DCECAD"] = 212567,
 				["BattlePet-0-00000E0BBE0A"] = 61370,
+				["BattlePet-0-000021CCDFD9"] = 132366,
 				["BattlePet-0-000010125055"] = 131644,
 				["BattlePet-0-00002166E989"] = 204621,
 				["BattlePet-0-000021A1349C"] = 200770,
-				["BattlePet-0-000021D17397"] = 198480,
 				["BattlePet-0-0000210C7736"] = 194893,
 				["BattlePet-0-0000219DC942"] = 208630,
 				["BattlePet-0-000021D48012"] = 202484,
+				["BattlePet-0-00000E0BBF2F"] = 98077,
 				["BattlePet-0-000021D805E3"] = 207571,
 				["BattlePet-0-00000E0BBCAF"] = 64632,
 				["BattlePet-0-00000E0BBD79"] = 62894,
 				["BattlePet-0-00000E0BBDE8"] = 97229,
 				["BattlePet-0-00000E0BBE20"] = 62130,
 				["BattlePet-0-00000E0BBD37"] = 62900,
-				["BattlePet-0-00000E0BBF2F"] = 98077,
 				["BattlePet-0-00000E0BBE2C"] = 62927,
-				["BattlePet-0-00000E0BBDBD"] = 63547,
 				["BattlePet-0-000021B664BA"] = 212413,
+				["BattlePet-0-00000E0BBDBD"] = 63547,
 				["BattlePet-0-00000E0BBD67"] = 62364,
-				["BattlePet-0-0000216F1311"] = 205637,
+				["BattlePet-0-00000E0BBD98"] = 73351,
 				["BattlePet-0-000021D37FDD"] = 115135,
 				["BattlePet-0-00000E0BBC7A"] = 61757,
-				["BattlePet-0-00000E0BBF2B"] = 93142,
 				["BattlePet-0-000021D23A26"] = 207558,
-				["BattlePet-0-00000E0BBD28"] = 64238,
+				["BattlePet-0-00000E0BBF2B"] = 93142,
+				["BattlePet-0-000021C9209B"] = 204226,
 				["BattlePet-0-00000E0BBEAF"] = 88367,
 				["BattlePet-0-00000E0BBE28"] = 62182,
+				["BattlePet-0-0000214CB95A"] = 189158,
 				["BattlePet-0-000021D3617E"] = 212567,
 				["BattlePet-0-00000E0BBD58"] = 61088,
 				["BattlePet-0-00000E762BF6"] = 98506,
 				["BattlePet-0-00000E0BBD46"] = 63358,
 				["BattlePet-0-000021A2B641"] = 158142,
-				["BattlePet-0-000021C92DBD"] = 196409,
 				["BattlePet-0-00000E0BBE43"] = 63005,
 				["BattlePet-0-00002130C218"] = 185606,
 				["BattlePet-0-00000E0BBDB3"] = 77221,
 				["BattlePet-0-00000E0BBD0A"] = 62189,
+				["BattlePet-0-00000E0BBF33"] = 110666,
 				["BattlePet-0-00000E0BBC98"] = 70259,
 				["BattlePet-0-00000E0BBD4B"] = 61313,
 				["BattlePet-0-00000E0BBC67"] = 62250,
@@ -12348,70 +12352,70 @@ DataStore_PetsDB = {
 				["BattlePet-0-00000E0BBE3C"] = 62997,
 				["BattlePet-0-000021BA79BA"] = 212399,
 				["BattlePet-0-0000210D9D96"] = 154854,
-				["BattlePet-0-00000E0BBF33"] = 110666,
+				["BattlePet-0-0000210C13D1"] = 189157,
 				["BattlePet-0-000021A14D2D"] = 143464,
 				["BattlePet-0-00000E0BBF1C"] = 115147,
 				["BattlePet-0-00000E0BBF36"] = 96622,
-				["BattlePet-0-0000210C13D1"] = 189157,
-				["BattlePet-0-00000E0BBEBA"] = 96649,
+				["BattlePet-0-00000E0BBCA9"] = 48609,
 				["BattlePet-0-00000E0BBD01"] = 63003,
-				["BattlePet-0-00000E0BBE6F"] = 69819,
+				["BattlePet-0-000021A14336"] = 143051,
+				["BattlePet-0-00000E0BBE2F"] = 62627,
 				["BattlePet-0-00000E0BBEF5"] = 90205,
 				["BattlePet-0-00000E0BBD24"] = 64352,
-				["BattlePet-0-00000E0BBE2F"] = 62627,
-				["BattlePet-0-00000E0BBE81"] = 63585,
-				["BattlePet-0-00000E0BBCB8"] = 48242,
+				["BattlePet-0-00000E0BBC91"] = 21018,
 				["BattlePet-0-00000E0BBE0D"] = 61439,
+				["BattlePet-0-00000E0BBCB8"] = 48242,
 				["BattlePet-0-00000E0BBDD1"] = 84915,
-				["BattlePet-0-00000E0BBCD3"] = 61321,
+				["BattlePet-0-00000E0BBE14"] = 61459,
 				["BattlePet-0-0000105DC65D"] = 7394,
-				["BattlePet-0-00000E0BBE3D"] = 62994,
+				["BattlePet-0-000021A1B8EA"] = 154814,
 				["BattlePet-0-00000E0BBCD5"] = 63365,
 				["BattlePet-0-00000E0BBEE7"] = 43800,
 				["BattlePet-0-000021A14C46"] = 143032,
-				["BattlePet-0-00000E0BBDBC"] = 63555,
+				["BattlePet-0-00000E0BBDC6"] = 62697,
 				["BattlePet-0-00000E0BBC7D"] = 62829,
-				["BattlePet-0-00000E0BBD2E"] = 68845,
-				["BattlePet-0-00000E0BBD1B"] = 55367,
+				["BattlePet-0-000021A14706"] = 143037,
 				["BattlePet-0-000021D4734E"] = 71020,
+				["BattlePet-0-00000E0BBD1B"] = 55367,
 				["BattlePet-0-00000E0BBE60"] = 24968,
 				["BattlePet-0-00000E0BBECF"] = 98183,
 				["BattlePet-0-00000E0BBE78"] = 65216,
 				["BattlePet-0-00000E0BBE3E"] = 65215,
+				["BattlePet-0-00000E0BBD81"] = 63954,
 				["BattlePet-0-00000E0BBEC2"] = 97238,
-				["BattlePet-0-00002127E0D9"] = 96404,
 				["BattlePet-0-00000E0BBEFC"] = 97126,
-				["BattlePet-0-00000E0BBCA5"] = 63370,
+				["BattlePet-0-00000E0BBED7"] = 113136,
 				["BattlePet-0-00000E0BBD17"] = 65321,
 				["BattlePet-0-00000E0BBEBE"] = 113136,
-				["BattlePet-0-00000E0BBDCD"] = 88807,
 				["BattlePet-0-000021A14258"] = 143048,
-				["BattlePet-0-00000E0BBE6B"] = 88514,
+				["BattlePet-0-00000E0BBDCD"] = 88807,
 				["BattlePet-0-000021A2DF3D"] = 154712,
+				["BattlePet-0-00000E0BBE6B"] = 88514,
 				["BattlePet-0-00000E0BBE8D"] = 88466,
+				["BattlePet-0-00000E0BBCD4"] = 10259,
 				["BattlePet-0-0000210B58A4"] = 127863,
 				["BattlePet-0-000021A13EFA"] = 143057,
-				["BattlePet-0-00000E0BBCB5"] = 15705,
-				["BattlePet-0-00000E0BBEF1"] = 71017,
 				["BattlePet-0-000021A13D8B"] = 143057,
+				["BattlePet-0-00000E0BBEF1"] = 71017,
+				["BattlePet-0-00000E0BBDEF"] = 81431,
 				["BattlePet-0-00000E0BBDDF"] = 86719,
-				["BattlePet-0-00000E0BBE6E"] = 69818,
+				["BattlePet-0-00000E0BBE7D"] = 59702,
 				["BattlePet-0-0000210D9DCC"] = 179242,
 				["BattlePet-0-000021A13747"] = 148517,
-				["BattlePet-0-00000E0BBE7D"] = 59702,
+				["BattlePet-0-00000E0BBCDA"] = 61167,
 				["BattlePet-0-00000E0BBF0B"] = 98211,
 				["BattlePet-0-00000E0BBE66"] = 7382,
 				["BattlePet-0-00000E0BBCC7"] = 67233,
 				["BattlePet-0-00000E0BBE19"] = 61830,
 				["BattlePet-0-000021A283C5"] = 154714,
-				["BattlePet-0-00000E0BBEE8"] = 79039,
 				["BattlePet-0-0000210B5ED1"] = 115135,
 				["BattlePet-0-00000E0BBCB3"] = 15706,
-				["BattlePet-0-00000E0BBD30"] = 62641,
-				["BattlePet-0-00000E0BBCB2"] = 51601,
-				["BattlePet-0-00000E0BBDAB"] = 42177,
 				["BattlePet-0-000021A13BD4"] = 143047,
-				["BattlePet-0-00000E0BBC84"] = 7389,
+				["BattlePet-0-00000E0BBED0"] = 115784,
+				["BattlePet-0-00000E0BBD30"] = 62641,
+				["BattlePet-0-00000E0BBDAB"] = 42177,
+				["BattlePet-0-00000E0BBD2C"] = 62999,
+				["BattlePet-0-00000E0BBE24"] = 61889,
 				["BattlePet-0-00000E0BBE03"] = 86717,
 				["BattlePet-0-00000E0BBF0F"] = 97205,
 				["BattlePet-0-00000E0BBE9B"] = 88359,
@@ -12419,42 +12423,42 @@ DataStore_PetsDB = {
 				["BattlePet-0-00000E0BBE35"] = 62555,
 				["BattlePet-0-00000E0BBEC0"] = 99403,
 				["BattlePet-0-00000E0BBE5C"] = 7562,
-				["BattlePet-0-00000E0BBE24"] = 61889,
-				["BattlePet-0-00000E0BBECC"] = 108568,
 				["BattlePet-0-00000E0BBE5F"] = 7387,
-				["BattlePet-0-0000212E5409"] = 189159,
+				["BattlePet-0-00000E0BBECC"] = 108568,
+				["BattlePet-0-00000E0BBD65"] = 62317,
 				["BattlePet-0-00000E0BBDC9"] = 86081,
-				["BattlePet-0-00000E0BBCF4"] = 68656,
+				["BattlePet-0-0000212E5409"] = 189159,
 				["BattlePet-0-00002128F8D6"] = 138741,
+				["BattlePet-0-00000E0BBE9F"] = 88576,
 				["BattlePet-0-00000E0BBDA0"] = 73732,
 				["BattlePet-0-00000E0BBCFE"] = 61383,
 				["BattlePet-0-00000E0BBCC9"] = 21010,
-				["BattlePet-0-000021A15164"] = 154777,
+				["BattlePet-0-00000E0BBD82"] = 70098,
 				["BattlePet-0-00000E0BBC86"] = 61255,
 				["BattlePet-0-00000E0BBE10"] = 62904,
-				["BattlePet-0-00000E0BBD82"] = 70098,
-				["BattlePet-0-00000E0BBD76"] = 62895,
+				["BattlePet-0-0000216ABDD5"] = 154803,
 				["BattlePet-0-00000E0BBE64"] = 96123,
 				["BattlePet-0-00000E0BBE06"] = 88473,
 				["BattlePet-0-00000E0BBCC3"] = 64899,
-				["BattlePet-0-00000E0BBF06"] = 85003,
+				["BattlePet-0-00000E0BBD10"] = 68806,
 				["BattlePet-0-00000E0BBCF0"] = 61326,
-				["BattlePet-0-00000E0BBE4A"] = 20408,
 				["BattlePet-0-00000E6C5D2A"] = 115138,
+				["BattlePet-0-00000E0BBE4A"] = 20408,
 				["BattlePet-0-00000E0BBDD5"] = 81431,
 				["BattlePet-0-0000219DF7FB"] = 204367,
-				["BattlePet-0-00000E0BBF12"] = 55386,
+				["BattlePet-0-00002128F8DE"] = 123650,
 				["BattlePet-0-00000E0BBE8B"] = 82045,
+				["BattlePet-0-00000E6C5505"] = 115136,
 				["BattlePet-0-00000E0BBD11"] = 35399,
-				["BattlePet-0-00000E7AF511"] = 128168,
 				["BattlePet-0-00000E0BBEB9"] = 86422,
-				["BattlePet-0-00000E0BBE8C"] = 89194,
-				["BattlePet-0-00000E0BBE29"] = 62181,
+				["BattlePet-0-00000E0BBE04"] = 90206,
 				["BattlePet-0-00000E0BBCF1"] = 62257,
-				["BattlePet-0-00002105826C"] = 172148,
+				["BattlePet-0-00000E0BBE29"] = 62181,
+				["BattlePet-0-00000E0BBC77"] = 62191,
 				["BattlePet-0-00000E0BBD7F"] = 69848,
 				["BattlePet-0-00000E82480B"] = 63841,
 				["BattlePet-0-00000E0BBEC1"] = 98116,
+				["BattlePet-0-0000212E1296"] = 192258,
 				["BattlePet-0-00000E0BBE07"] = 88357,
 				["BattlePet-0-00000E0BBD51"] = 68654,
 				["BattlePet-0-00000E0BBC99"] = 23909,
@@ -12463,147 +12467,146 @@ DataStore_PetsDB = {
 				["BattlePet-0-00000E0BBF43"] = 124858,
 				["BattlePet-0-0000210D9DB8"] = 179220,
 				["BattlePet-0-00000E0BBF2E"] = 111984,
-				["BattlePet-0-000021A1B80F"] = 143214,
-				["BattlePet-0-00000E0BBD0D"] = 68658,
-				["BattlePet-0-000021A1511F"] = 154785,
 				["BattlePet-0-00000E0BBF42"] = 91408,
+				["BattlePet-0-000021A1B80F"] = 143214,
+				["BattlePet-0-000021A1511F"] = 154785,
+				["BattlePet-0-00000E0BBCD2"] = 54374,
 				["BattlePet-0-00000E0BBCEE"] = 74413,
 				["BattlePet-0-00000E0BBF2D"] = 116871,
-				["BattlePet-0-00000E0BBCF5"] = 40624,
 				["BattlePet-0-00000E0BBD3D"] = 70453,
+				["BattlePet-0-00000E0BBD1A"] = 51649,
 				["BattlePet-0-00000E0BBEDF"] = 96649,
 				["BattlePet-0-00000E0BBF19"] = 87705,
 				["BattlePet-0-00000E0BBD70"] = 62114,
 				["BattlePet-0-00000E0BBEA5"] = 85667,
-				["BattlePet-0-00000E0BBD1A"] = 51649,
 				["BattlePet-0-00002110453E"] = 189133,
 				["BattlePet-0-00000E0BBC7E"] = 62242,
 				["BattlePet-0-00000E0BBE2A"] = 62921,
-				["BattlePet-0-000021CBCF9F"] = 212328,
 				["BattlePet-0-00000E0BBE39"] = 62992,
+				["BattlePet-0-000021CBCF9F"] = 212328,
+				["BattlePet-0-00000E0BBDE1"] = 83594,
 				["BattlePet-0-00000E0BBF1A"] = 115145,
-				["BattlePet-0-00000E0BBEEB"] = 71021,
-				["BattlePet-0-00000E0BBC96"] = 62829,
 				["BattlePet-0-00000E0BBD40"] = 70452,
+				["BattlePet-0-00000E0BBC96"] = 62829,
 				["BattlePet-0-00000E8249DF"] = 90208,
+				["BattlePet-0-00000E0BBDAA"] = 48982,
 				["BattlePet-0-00000E0BBF3F"] = 71020,
 				["BattlePet-0-00000E0BBEA2"] = 88572,
 				["BattlePet-0-0000210B58A0"] = 143820,
-				["BattlePet-0-00000E0BBEE3"] = 61877,
 				["BattlePet-0-00000E0BBEC4"] = 111423,
 				["BattlePet-0-00000E0BBEC9"] = 17254,
+				["BattlePet-0-00000E0BBD6F"] = 68804,
 				["BattlePet-0-00000E6C2894"] = 97076,
 				["BattlePet-0-00000E0BBD60"] = 68468,
-				["BattlePet-0-00000E0BBD6F"] = 68804,
 				["BattlePet-0-00000E0BBE8A"] = 26056,
+				["BattlePet-0-00000E0BBEE3"] = 61877,
 				["BattlePet-0-000021B2BB67"] = 212328,
 				["BattlePet-0-00000E0BBF44"] = 53623,
 				["BattlePet-0-00000E0BBD88"] = 63957,
-				["BattlePet-0-00000E0BBDAA"] = 48982,
 				["BattlePet-0-00000E0BBDCB"] = 84330,
+				["BattlePet-0-00000E0BBEEB"] = 71021,
 				["BattlePet-0-0000213327E8"] = 85710,
-				["BattlePet-0-00000E0BBDE1"] = 83594,
 				["BattlePet-0-0000107B69D1"] = 115919,
-				["BattlePet-0-00000E0BBD0E"] = 62395,
 				["BattlePet-0-00000E0BBC73"] = 61257,
+				["BattlePet-0-00000E0BBD0E"] = 62395,
 				["BattlePet-0-00000E0BBECD"] = 97179,
 				["BattlePet-0-00000E0BBDDD"] = 88134,
+				["BattlePet-0-00000E0BBCF5"] = 40624,
 				["BattlePet-0-00000E0BBDDA"] = 79410,
-				["BattlePet-0-00000E0BBCD2"] = 54374,
+				["BattlePet-0-00000E0BBD0D"] = 68658,
 				["BattlePet-0-00000E0BBECB"] = 112132,
 				["BattlePet-0-000021A137EE"] = 143043,
 				["BattlePet-0-00000E0BBCE0"] = 61704,
 				["BattlePet-0-0000210B5B47"] = 127858,
 				["BattlePet-0-0000210D9DC9"] = 161959,
-				["BattlePet-0-0000212E1296"] = 192258,
 				["BattlePet-0-00000E0BBD91"] = 63549,
 				["BattlePet-0-00000E0BBDC4"] = 68850,
+				["BattlePet-0-00002105826C"] = 172148,
 				["BattlePet-0-00000E0BBD64"] = 62884,
-				["BattlePet-0-00000E0BBC77"] = 62191,
+				["BattlePet-0-00000E0BBE8C"] = 89194,
 				["BattlePet-0-00000E0BBD2B"] = 73534,
-				["BattlePet-0-00000E0BBE04"] = 90206,
+				["BattlePet-0-00000E7AF511"] = 128168,
 				["BattlePet-0-00000E0BBD4A"] = 68663,
-				["BattlePet-0-00000E6C5505"] = 115136,
+				["BattlePet-0-00000E0BBF12"] = 55386,
 				["BattlePet-0-00000E0BBF0A"] = 88542,
-				["BattlePet-0-00002128F8DE"] = 123650,
 				["BattlePet-0-00000E0BBCF9"] = 61420,
+				["BattlePet-0-00000E0BBF06"] = 85003,
 				["BattlePet-0-00000E0BBDBE"] = 64248,
 				["BattlePet-0-00000E0BBC7C"] = 61171,
 				["BattlePet-0-00000E0BBEB3"] = 78421,
-				["BattlePet-0-00000E0BBD10"] = 68806,
-				["BattlePet-0-00000E0BBD8C"] = 62255,
 				["BattlePet-0-00000E0BBDED"] = 78895,
+				["BattlePet-0-00000E0BBD8C"] = 62255,
+				["BattlePet-0-00000E0BBD76"] = 62895,
 				["BattlePet-0-00000E0BBDC5"] = 63558,
-				["BattlePet-0-0000216ABDD5"] = 154803,
+				["BattlePet-0-000021A15164"] = 154777,
 				["BattlePet-0-00000E0BBD18"] = 53225,
 				["BattlePet-0-00000E0BBD7B"] = 62893,
-				["BattlePet-0-00000E0BBE9F"] = 88576,
+				["BattlePet-0-00000E0BBCF4"] = 68656,
 				["BattlePet-0-000021A142C5"] = 143052,
 				["BattlePet-0-00000E0BBC8F"] = 51632,
-				["BattlePet-0-00000E0BBD65"] = 62317,
 				["BattlePet-0-000021A14631"] = 143045,
 				["BattlePet-0-0000210D9DCD"] = 171242,
+				["BattlePet-0-00000E0BBC84"] = 7389,
 				["BattlePet-0-00000E0BBD9E"] = 67329,
-				["BattlePet-0-00000E0BBD2C"] = 62999,
+				["BattlePet-0-00000E0BBCB2"] = 51601,
 				["BattlePet-0-00000E0BBF3D"] = 98132,
-				["BattlePet-0-00000E0BBED0"] = 115784,
 				["BattlePet-0-00000E0BBDC8"] = 72463,
+				["BattlePet-0-00000E0BBEE8"] = 79039,
 				["BattlePet-0-0000214D009F"] = 196666,
 				["BattlePet-0-00000E0BBE21"] = 61324,
-				["BattlePet-0-00000E0BBCDA"] = 61167,
+				["BattlePet-0-00000E0BBE6E"] = 69818,
 				["BattlePet-0-00000E0BBE13"] = 62117,
 				["BattlePet-0-00000E0BBF3C"] = 79730,
-				["BattlePet-0-00000E0BBDEF"] = 81431,
+				["BattlePet-0-00000E0BBCB5"] = 15705,
 				["BattlePet-0-00000E0BBCEF"] = 61440,
 				["BattlePet-0-00000E0BBD89"] = 68838,
-				["BattlePet-0-00000E0BBCD4"] = 10259,
 				["BattlePet-0-00000E0BBDAC"] = 34364,
 				["BattlePet-0-00000E0BBC70"] = 62120,
 				["BattlePet-0-0000210F9607"] = 173508,
 				["BattlePet-0-00000E0BBC79"] = 51600,
+				["BattlePet-0-00000E0BBCA5"] = 63370,
 				["BattlePet-0-00000E0BBF28"] = 97542,
-				["BattlePet-0-00000E0BBED7"] = 113136,
+				["BattlePet-0-00002127E0D9"] = 96404,
 				["BattlePet-0-00000E0BBDA7"] = 33200,
 				["BattlePet-0-00000E0BBCCC"] = 61258,
-				["BattlePet-0-00000E0BBD81"] = 63954,
 				["BattlePet-0-00000E0BBD3F"] = 71018,
-				["BattlePet-0-0000210D9D94"] = 154847,
 				["BattlePet-0-00000E0BBDBA"] = 16085,
+				["BattlePet-0-0000210D9D94"] = 154847,
+				["BattlePet-0-00000E0BBD2E"] = 68845,
 				["BattlePet-0-00000E0BBE8F"] = 89198,
 				["BattlePet-0-00000E0BBC64"] = 29726,
-				["BattlePet-0-000021A14706"] = 143037,
+				["BattlePet-0-00000E0BBDBC"] = 63555,
 				["BattlePet-0-00000E0BBEF9"] = 110741,
-				["BattlePet-0-00000E0BBDC6"] = 62697,
 				["BattlePet-0-00000E0BBF00"] = 83588,
 				["BattlePet-0-00000E0BBEF3"] = 93808,
+				["BattlePet-0-00000E0BBE3D"] = 62994,
 				["BattlePet-0-00000E0BBDF6"] = 81431,
-				["BattlePet-0-000021A1B8EA"] = 154814,
+				["BattlePet-0-00000E0BBCD3"] = 61321,
 				["BattlePet-0-000021153E22"] = 97555,
-				["BattlePet-0-00000E0BBE14"] = 61459,
 				["BattlePet-0-000021A4BFCC"] = 200772,
+				["BattlePet-0-00000E0BBE81"] = 63585,
 				["BattlePet-0-00000E0BBF4A"] = 54541,
-				["BattlePet-0-00000E0BBC91"] = 21018,
 				["BattlePet-0-000021A14D2C"] = 143035,
+				["BattlePet-0-00000E0BBE6F"] = 69819,
 				["BattlePet-0-00000E0BBF49"] = 7565,
-				["BattlePet-0-000021A14336"] = 143051,
+				["BattlePet-0-00000E0BBEBA"] = 96649,
 				["BattlePet-0-00000E826CB1"] = 127953,
-				["BattlePet-0-00000E0BBCA9"] = 48609,
 				["BattlePet-0-000021CE14CD"] = 207535,
 				["BattlePet-0-00000E0BBE86"] = 18839,
-				["BattlePet-0-00000E0BBCA0"] = 37865,
 				["BattlePet-0-00000E0BBD59"] = 62120,
-				["BattlePet-0-00000E0BBF03"] = 88356,
+				["BattlePet-0-00000E0BBCA0"] = 37865,
 				["BattlePet-0-00000E0BBDFD"] = 85284,
+				["BattlePet-0-00000E0BBF03"] = 88356,
+				["BattlePet-0-000021C92DBD"] = 196409,
 				["BattlePet-0-000021A2B645"] = 185611,
 				["BattlePet-0-00000E0BBDB1"] = 7560,
-				["BattlePet-0-0000214CB95A"] = 189158,
+				["BattlePet-0-00000E0BBD28"] = 64238,
 				["BattlePet-0-00000E0BBDFB"] = 7554,
 				["BattlePet-0-00000E0BBECA"] = 97128,
-				["BattlePet-0-000021C9209B"] = 204226,
 				["BattlePet-0-000021D4259C"] = 189663,
 				["BattlePet-0-00000E0BBE44"] = 88473,
+				["BattlePet-0-0000216F1311"] = 205637,
 				["BattlePet-0-0000210533A3"] = 171238,
-				["BattlePet-0-00000E0BBD98"] = 73351,
 				["BattlePet-0-00000E0BBF13"] = 26050,
 				["BattlePet-0-00000E0BBD71"] = 62176,
 				["BattlePet-0-00000E0BBC6C"] = 62190,
@@ -12611,30 +12614,31 @@ DataStore_PetsDB = {
 				["BattlePet-0-00000E8245F7"] = 128162,
 				["BattlePet-0-0000210D9DBC"] = 171240,
 				["BattlePet-0-00000E0BBC95"] = 34364,
+				["BattlePet-0-000021D17397"] = 198480,
 				["BattlePet-0-00000E0BBDFC"] = 86716,
 				["BattlePet-0-00000E0BBCCF"] = 52894,
-				["BattlePet-0-000021CCDFD9"] = 132366,
+				["BattlePet-0-00000E0BBEBF"] = 111421,
 				["BattlePet-0-00000E0BBDF4"] = 90215,
 				["BattlePet-0-00000E0BBCEA"] = 62127,
-				["BattlePet-0-00000E0BBD15"] = 63715,
 				["BattlePet-0-00000E0BBDB0"] = 77137,
 				["BattlePet-0-00000E0BBE4B"] = 20472,
+				["BattlePet-0-00000E0BBDAE"] = 63062,
 				["BattlePet-0-000021212B03"] = 197089,
-				["BattlePet-0-00000E0BBDD9"] = 23909,
-				["BattlePet-0-00000E0BBCED"] = 62583,
 				["BattlePet-0-000021065C9A"] = 189108,
+				["BattlePet-0-00000E0BBCED"] = 62583,
 				["BattlePet-0-00000E0BBEFA"] = 97741,
+				["BattlePet-0-0000219E75BB"] = 208436,
 				["BattlePet-0-0000210C77F3"] = 189105,
-				["BattlePet-0-00000E0BBE95"] = 85389,
+				["BattlePet-0-00000E0BBE85"] = 64232,
 				["BattlePet-0-00000E0BBD69"] = 62435,
-				["BattlePet-0-00000E0BBE3B"] = 63002,
+				["BattlePet-0-00000E0BBE59"] = 71017,
 				["BattlePet-0-00000E0BBE22"] = 62925,
-				["BattlePet-0-000021CDF5C8"] = 212417,
+				["BattlePet-0-000021D23B6B"] = 207556,
 				["BattlePet-0-00002168567D"] = 204324,
 				["BattlePet-0-00000E0BBEBB"] = 62526,
-				["BattlePet-0-000021D8088D"] = 207568,
 				["BattlePet-0-000021DA302A"] = 212329,
 				["BattlePet-0-000021DAC77E"] = 189655,
+				["BattlePet-0-000021DAD849"] = 191383,
 				["BattlePet-0-00000E0BBC83"] = 61142,
 				["BattlePet-0-000021DBA714"] = 189123,
 				["BattlePet-0-000021BC358F"] = 212570,

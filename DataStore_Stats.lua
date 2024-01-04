@@ -192,7 +192,7 @@ DataStore_StatsDB = {
 					["name"] = "Black Rook Hold",
 					["timeInSeconds"] = 1643,
 				},
-				["lastUpdate"] = 1704315802,
+				["lastUpdate"] = 1704324954,
 				["WeeklyRunHistoryTop10"] = {
 					{
 						["level"] = 22,
@@ -270,15 +270,15 @@ DataStore_StatsDB = {
 						["weeklyBestTimeInSeconds"] = 1643,
 						["seasonBestLevel"] = 22,
 						["seasonBestTimeInSeconds"] = 1642,
-						["weeklyBestLevel"] = 22,
-						["seasonBestOvertimeTimeInSeconds"] = 2187,
-						["seasonBestOvertimeLevel"] = 18,
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
 								["level"] = 22,
 							}, -- [1]
 						},
+						["seasonBestOvertimeTimeInSeconds"] = 2187,
+						["weeklyBestLevel"] = 22,
+						["seasonBestOvertimeLevel"] = 18,
 					},
 					[210] = {
 					},
@@ -387,11 +387,11 @@ DataStore_StatsDB = {
 						["weeklyBestTimeInSeconds"] = 1977,
 						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 1977,
+						["seasonBestOvertimeLevel"] = 17,
+						["seasonBestOvertimeTimeInSeconds"] = 2526,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeTimeInSeconds"] = 2526,
 						["weeklyBestLevel"] = 17,
-						["seasonBestOvertimeLevel"] = 17,
 					},
 					[198] = {
 						["seasonBestLevel"] = 12,
@@ -435,11 +435,11 @@ DataStore_StatsDB = {
 						["weeklyBestTimeInSeconds"] = 2082,
 						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 2082,
+						["seasonBestOvertimeLevel"] = 19,
+						["seasonBestOvertimeTimeInSeconds"] = 2702,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeTimeInSeconds"] = 2702,
 						["weeklyBestLevel"] = 17,
-						["seasonBestOvertimeLevel"] = 19,
 					},
 					[401] = {
 						["seasonBestLevel"] = 21,
@@ -1154,21 +1154,17 @@ DataStore_StatsDB = {
 			["Default.Argent Dawn.Estuary"] = {
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["level"] = 15,
 						["mapID"] = 199,
+						["level"] = 22,
 					}, -- [1]
-					{
-						["level"] = 12,
-						["mapID"] = 198,
-					}, -- [2]
 				},
-				["lastUpdate"] = 1704235305,
+				["lastUpdate"] = 1704328016,
 				["Stats"] = {
-					["Ranged"] = "3546-3547|0|7093|0|26.211521148682",
+					["Ranged"] = "5319-5320|0|7093|0|46.211521148682",
 					["HealthMax"] = 422860,
-					["Melee"] = "4439-5214|2.2510001659393|7093|0|26.211521148682|0",
+					["Melee"] = "6659-7820|1.50100004673|7093|0|46.211521148682|0",
 					["MaxPower"] = "3|200",
-					["Spell"] = "1418|1636|0|26.211521148682|2632|0",
+					["Spell"] = "1418|1636|0|46.211521148682|2632|0",
 					["PVP"] = "0|0",
 					["Base"] = "1736|7093|21143|1418|0",
 					["Defense"] = "0|0|13.043238639832|3|0|0",
@@ -1176,10 +1172,6 @@ DataStore_StatsDB = {
 				["Dungeons"] = {
 					[198] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 12,
-							}, -- [1]
 						},
 					},
 					[206] = {
@@ -1214,7 +1206,7 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
-								["level"] = 15,
+								["level"] = 22,
 							}, -- [1]
 						},
 					},

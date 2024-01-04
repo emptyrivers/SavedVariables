@@ -17,15 +17,6 @@ DataStore_AuctionsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1704172254,
-				["lastVisitDate"] = "2024/01/01 23:10",
-			},
-			["Default.Argent Dawn.Flumina"] = {
-				["lastAuctionsScan"] = 1703982224,
-				["lastVisitDate"] = "2023/12/30 18:22",
-				["lastUpdate"] = 1703982224,
-			},
 			["Default.Argent Dawn.Headcut"] = {
 				["lastUpdate"] = 1704153944,
 				["lastVisitDate"] = "2024/01/01 18:05",
@@ -46,9 +37,13 @@ DataStore_AuctionsDB = {
 				["lastUpdate"] = 1704315558,
 				["lastVisitDate"] = "2024/01/03 14:59",
 			},
-			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1686508548,
-				["lastVisitDate"] = "2023/06/11 13:35",
+			["Default.Argent Dawn.Alluvium"] = {
+				["lastUpdate"] = 1703903110,
+				["lastVisitDate"] = "2023/12/29 20:25",
+			},
+			["Default.Argent Dawn.Confluence"] = {
+				["lastUpdate"] = 1704172254,
+				["lastVisitDate"] = "2024/01/01 23:10",
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["lastAuctionsScan"] = 1704087989,
@@ -67,9 +62,25 @@ DataStore_AuctionsDB = {
 					"0|194568|1||0|980000|86372|1923473783", -- [10]
 				},
 			},
-			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1703903110,
-				["lastVisitDate"] = "2023/12/29 20:25",
+			["Default.Argent Dawn.Estuary"] = {
+				["lastAuctionsScan"] = 1704324807,
+				["lastVisitDate"] = "2024/01/03 17:32",
+				["lastUpdate"] = 1704324807,
+				["Auctions"] = {
+					"0|193383|1||0|4000000|86393|1934788562", -- [1]
+					"0|82800|1||0|199990000|86339|1934784127", -- [2]
+					"0|193360|1||0|329978900|86325|1934783078", -- [3]
+					"0|210100|1||0|120009000|86378|1934787328", -- [4]
+					"0|17722|1||0|25400|86349|1934784854", -- [5]
+					"0|17722|1||0|25400|86350|1934784905", -- [6]
+					"0|2934|1||0|10000|86360|1934785821", -- [7]
+					"0|210132|1||0|50000000|86387|1934788085", -- [8]
+				},
+			},
+			["Default.Argent Dawn.Flumina"] = {
+				["lastAuctionsScan"] = 1703982224,
+				["lastVisitDate"] = "2023/12/30 18:22",
+				["lastUpdate"] = 1703982224,
 			},
 		},
 	},

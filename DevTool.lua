@@ -51,6 +51,7 @@ DevToolDatabase = {
 		["Alandere - Argent Dawn"] = {
 		},
 		["Flumina - Argent Dawn"] = {
+			["collResizeWidth"] = 249.999755859375,
 			["history"] = {
 				"WeakAuras", -- [1]
 				"WeakAurasPrivate", -- [2]
@@ -61,7 +62,6 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 				"DevTool.settings.history", -- [8]
 			},
-			["collResizeWidth"] = 249.999755859375,
 		},
 		["Estuary - Argent Dawn"] = {
 		},

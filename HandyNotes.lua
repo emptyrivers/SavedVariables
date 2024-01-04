@@ -10,7 +10,7 @@ HandyNotesDB = {
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
@@ -20,7 +20,7 @@ HandyNotesDB = {
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -42,7 +42,7 @@ HandyNotesDB = {
 		},
 		["Cataracts - Argent Dawn"] = {
 		},
-		["Sverdrup - Argent Dawn"] = {
+		["Mothugeon - Argent Dawn"] = {
 		},
 		["Headcut - Argent Dawn"] = {
 		},
@@ -62,7 +62,7 @@ HandyNotesDB = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Mothugeon - Argent Dawn"] = {
+		["Sverdrup - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},
@@ -79,7 +79,7 @@ HandyNotes_HandyNotesDB = {
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
@@ -89,7 +89,7 @@ HandyNotes_HandyNotesDB = {
 		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -111,7 +111,7 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Cataracts - Argent Dawn"] = {
 		},
-		["Sverdrup - Argent Dawn"] = {
+		["Mothugeon - Argent Dawn"] = {
 		},
 		["Headcut - Argent Dawn"] = {
 		},
@@ -131,7 +131,7 @@ HandyNotes_HandyNotesDB = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Mothugeon - Argent Dawn"] = {
+		["Sverdrup - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

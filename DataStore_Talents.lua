@@ -31,7 +31,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1704315797,
+				["lastUpdate"] = 1704324952,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -113,7 +113,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1704235226,
+				["lastUpdate"] = 1704326860,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]

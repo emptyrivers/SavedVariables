@@ -75,9 +75,9 @@ SimulationCraftDB = {
 		["Emptyrivers - Argent Dawn"] = {
 			["frame"] = {
 				["ofsx"] = 90.666748046875,
+				["ofsy"] = 105.5236053466797,
 				["point"] = "BOTTOM",
 				["relativePoint"] = "BOTTOM",
-				["ofsy"] = 105.5236053466797,
 			},
 		},
 		["Alandere - Argent Dawn"] = {

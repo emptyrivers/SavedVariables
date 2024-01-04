@@ -869,7 +869,7 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1704315795,
+				["HistoryBuild"] = "52649",
 				["HistorySize"] = 2441,
 				["Dailies"] = {
 					{
@@ -879,42 +879,15 @@ DataStore_QuestsDB = {
 						["expiresIn"] = 70174,
 					}, -- [1]
 				},
-				["HistoryLastUpdate"] = 1704315802,
+				["HistoryLastUpdate"] = 1704324954,
 				["QuestLinks"] = {
-					"|cff808080|Hquest:38356:816|h[Bringing the Bass]|h|r", -- [1]
-					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [2]
-					"|cff808080|Hquest:42234:347|h[The Valarjar]|h|r", -- [3]
-					"|cff808080|Hquest:42421:347|h[The Nightfallen]|h|r", -- [4]
-					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [5]
-					"|cffffff00|Hquest:75301:2650|h[Mistie's Mix Magic]|h|r", -- [6]
-					"|cffffff00|Hquest:75307:2613|h[Road to Season City]|h|r", -- [7]
-					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [8]
-					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [9]
-					"|cffffff00|Hquest:75694:2614|h[Aberrus, the Shadowed Crucible: Sarkareth]|h|r", -- [10]
-					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [11]
-					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [12]
-				},
-				["HistoryBuild"] = "52649",
-				["Money"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					0, -- [5]
-					0, -- [6]
-					0, -- [7]
-					0, -- [8]
-					0, -- [9]
-					842700, -- [10]
-					202200, -- [11]
-					202200, -- [12]
-				},
-				["Rewards"] = {
-					nil, -- [1]
-					"r|157829|1|1", -- [2]
-					"r|157824|1|1", -- [3]
-					"r|157826|1|1", -- [4]
-					[10] = "r|204682|1|1",
+					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [1]
+					"|cffffff00|Hquest:75301:2650|h[Mistie's Mix Magic]|h|r", -- [2]
+					"|cffffff00|Hquest:75307:2613|h[Road to Season City]|h|r", -- [3]
+					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [4]
+					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [5]
+					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [6]
+					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [7]
 				},
 				["Weeklies"] = {
 					{
@@ -960,19 +933,38 @@ DataStore_QuestsDB = {
 						["expiresIn"] = 502008,
 					}, -- [7]
 				},
+				["Money"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					202200, -- [6]
+					202200, -- [7]
+				},
+				["QuestHeaders"] = {
+					"Tiragarde Sound", -- [1]
+					"Zaralek Cavern", -- [2]
+					"Missing header! (quest designers)", -- [3]
+					"Battle Pets", -- [4]
+				},
+				["QuestTitles"] = {
+					"Azerite for the Alliance", -- [1]
+					"Mistie's Mix Magic", -- [2]
+					"Road to Season City", -- [3]
+					"Climbing", -- [4]
+					"Tracking Quest", -- [5]
+					"Sharptalon Team Up", -- [6]
+					"Snowfeather Team Rumble", -- [7]
+				},
 				["QuestTags"] = {
-					nil, -- [1]
-					128, -- [2]
-					128, -- [3]
-					128, -- [4]
-					261, -- [5]
-					267, -- [6]
-					267, -- [7]
-					265, -- [8]
-					265, -- [9]
-					62, -- [10]
-					102, -- [11]
-					102, -- [12]
+					261, -- [1]
+					267, -- [2]
+					267, -- [3]
+					265, -- [4]
+					265, -- [5]
+					102, -- [6]
+					102, -- [7]
 				},
 				["History"] = {
 					[1019] = 134217728,
@@ -1405,9 +1397,9 @@ DataStore_QuestsDB = {
 					[2225] = 66560,
 					[1184] = 8314,
 					[2251] = 128976897,
-					[1174] = 1610612804,
-					[1023] = 2097152,
 					[2021] = 32768,
+					[1023] = 2097152,
+					[1174] = 1610612804,
 					[819] = 1855979521,
 					[973] = 2147483648,
 					[1946] = 1024,
@@ -1503,17 +1495,6 @@ DataStore_QuestsDB = {
 					[2036] = 8192,
 					[2464] = 1073741856,
 				},
-				["QuestHeaders"] = {
-					"Garrison", -- [1]
-					"Krokuun", -- [2]
-					"Stormheim", -- [3]
-					"Suramar", -- [4]
-					"Tiragarde Sound", -- [5]
-					"Zaralek Cavern", -- [6]
-					"Missing header! (quest designers)", -- [7]
-					"Raid", -- [8]
-					"Battle Pets", -- [9]
-				},
 				["StorylineProgress"] = {
 					["10.1"] = 6,
 					["9.1"] = 0,
@@ -1523,38 +1504,15 @@ DataStore_QuestsDB = {
 					["10.0"] = 13,
 					["10.2"] = 7,
 				},
-				["QuestTitles"] = {
-					"Bringing the Bass", -- [1]
-					"Army of the Light", -- [2]
-					"The Valarjar", -- [3]
-					"The Nightfallen", -- [4]
-					"Azerite for the Alliance", -- [5]
-					"Mistie's Mix Magic", -- [6]
-					"Road to Season City", -- [7]
-					"Climbing", -- [8]
-					"Tracking Quest", -- [9]
-					"Aberrus, the Shadowed Crucible: Sarkareth", -- [10]
-					"Sharptalon Team Up", -- [11]
-					"Snowfeather Team Rumble", -- [12]
-				},
+				["lastUpdate"] = 1704324950,
 				["Quests"] = {
-					2623488, -- [1]
-					4591656, -- [2]
-					4593704, -- [3]
-					4595752, -- [4]
-					4597792, -- [5]
-					4599808, -- [6]
-					4599808, -- [7]
-					4601898, -- [8]
-					4601896, -- [9]
-					4603904, -- [10]
-					4605952, -- [11]
-					4605952, -- [12]
-				},
-				["Emissaries"] = {
-					[42421] = "0|4|0|0/4 Complete 4 world quests in Suramar|1704315795|The Nightfallen",
-					[42234] = "0|4|0|0/4 Complete 4 world quests in Stormheim|1704315795|The Valarjar",
-					[48639] = "0|4|0|0/4 Complete 4 Army of the Light World Quests|1704315795|Army of the Light",
+					4589600, -- [1]
+					4591616, -- [2]
+					4591616, -- [3]
+					4593706, -- [4]
+					4593704, -- [5]
+					4595712, -- [6]
+					4595712, -- [7]
 				},
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
@@ -3536,23 +3494,23 @@ DataStore_QuestsDB = {
 					[2365] = 1024,
 					[2221] = 8176,
 					[2208] = 8388608,
-					[2371] = 29360128,
+					[2116] = 1048576,
 					[1795] = 1966080,
 					[1889] = 4096,
 					[995] = 31449840,
-					[1014] = 4096,
+					[2024] = 268435456,
 					[1858] = 4,
 					[1890] = 8232,
 					[979] = 1060864,
 					[2379] = 204672,
-					[1827] = 2,
+					[2371] = 29360128,
 					[1891] = 67108864,
 					[2252] = 1,
 					[2381] = 4294705153,
 					[1828] = 22610432,
 					[1892] = 1920,
 					[2374] = 1,
-					[2024] = 268435456,
+					[2255] = 512,
 					[1829] = 268435456,
 					[1893] = 2429034498,
 					[1447] = 2621440,
@@ -3568,7 +3526,7 @@ DataStore_QuestsDB = {
 					[1832] = 117440514,
 					[1896] = 2149581200,
 					[2382] = 2,
-					[2255] = 512,
+					[1014] = 4096,
 					[1833] = 1073741824,
 					[2389] = 8192,
 					[2262] = 49410,
@@ -3623,22 +3581,22 @@ DataStore_QuestsDB = {
 					[1782] = 32768,
 					[1341] = 536973312,
 					[1910] = 524544,
-					[1850] = 4031905817,
+					[2162] = 1272496640,
 					[1783] = 8198,
 					[2411] = 1188474368,
 					[1656] = 512,
 					[1785] = 17408,
 					[2285] = 516096,
 					[1848] = 67108864,
-					[1849] = 2048,
-					[2162] = 1272496640,
+					[2415] = 3200,
+					[1340] = 67108864,
 					[2287] = 1357381632,
-					[2160] = 544,
+					[1849] = 2048,
 					[1913] = 64,
 					[2416] = 268435488,
 					[1786] = 67584,
-					[1340] = 67108864,
-					[2415] = 3200,
+					[1850] = 4031905817,
+					[2160] = 544,
 					[2163] = 3753861288,
 					[1787] = 1574965888,
 					[1851] = 2155873861,
@@ -3673,7 +3631,7 @@ DataStore_QuestsDB = {
 					[2306] = 67108864,
 					[2434] = 2147483648,
 					[2307] = 646453314,
-					[2116] = 1048576,
+					[1827] = 2,
 					[2308] = 37619970,
 					[2181] = 2533359617,
 					[2309] = 384,
@@ -5114,27 +5072,28 @@ DataStore_QuestsDB = {
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["HistoryBuild"] = "52649",
-				["HistorySize"] = 1502,
-				["HistoryLastUpdate"] = 1704235230,
+				["HistorySize"] = 1508,
+				["HistoryLastUpdate"] = 1704325529,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78446:2699|h[Aiding the Accord: Superbloom]|h|r", -- [1]
-					"|cffffff00|Hquest:75643:2588|h[Orientation: Loamm Niffen]|h|r", -- [2]
-					"|cffffff00|Hquest:78444:2699|h[A Worthy Ally: Dream Wardens]|h|r", -- [3]
-					"|cffffff00|Hquest:78821:2699|h[Blooming Dreamseeds]|h|r", -- [4]
-					"|cffffff00|Hquest:77946:2699|h[Fibrous Thread]|h|r", -- [5]
-					"|cffffff00|Hquest:78172:2699|h[Mysterious Seeds]|h|r", -- [6]
-					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [7]
-					"|cffffff00|Hquest:75665:2649|h[A Worthy Ally: Loamm Niffen]|h|r", -- [8]
-					"|cffffff00|Hquest:75301:2650|h[Mistie's Mix Magic]|h|r", -- [9]
-					"|cffffff00|Hquest:75307:2613|h[Road to Season City]|h|r", -- [10]
-					"|cffffff00|Hquest:54976:1281|h[The Shadow of Gilneas]|h|r", -- [11]
-					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [12]
-					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [13]
-					"|cffffff00|Hquest:70594:2164|h[Leatherworking Services Requested]|h|r", -- [14]
-					"|cffffff00|Hquest:70567:2164|h[When You Give Bakar a Bone]|h|r", -- [15]
-					"|cffffff00|Hquest:76113:444|h[Report to the Trading Post]|h|r", -- [16]
-					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [17]
-					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [18]
+					"|cffffff00|Hquest:78444:2699|h[A Worthy Ally: Dream Wardens]|h|r", -- [2]
+					"|cffffff00|Hquest:78821:2699|h[Blooming Dreamseeds]|h|r", -- [3]
+					"|cffffff00|Hquest:77946:2699|h[Fibrous Thread]|h|r", -- [4]
+					"|cffffff00|Hquest:78172:2699|h[Mysterious Seeds]|h|r", -- [5]
+					"|cffffff00|Hquest:70655:2152|h[Leaves from the Vine]|h|r", -- [6]
+					"|cffffff00|Hquest:70780:2437|h[Ohn'ahran Banners]|h|r", -- [7]
+					"|cffffff00|Hquest:72291:2437|h[Story of a Memorable Victory]|h|r", -- [8]
+					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [9]
+					"|cffffff00|Hquest:75665:2649|h[A Worthy Ally: Loamm Niffen]|h|r", -- [10]
+					"|cffffff00|Hquest:75301:2650|h[Mistie's Mix Magic]|h|r", -- [11]
+					"|cffffff00|Hquest:75307:2613|h[Road to Season City]|h|r", -- [12]
+					"|cffffff00|Hquest:54976:1281|h[The Shadow of Gilneas]|h|r", -- [13]
+					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [14]
+					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [15]
+					"|cffffff00|Hquest:70594:2164|h[Leatherworking Services Requested]|h|r", -- [16]
+					"|cffffff00|Hquest:70567:2164|h[When You Give Bakar a Bone]|h|r", -- [17]
+					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [18]
+					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [19]
 				},
 				["Weeklies"] = {
 					{
@@ -5152,90 +5111,99 @@ DataStore_QuestsDB = {
 				},
 				["Money"] = {
 					0, -- [1]
-					280900, -- [2]
+					0, -- [2]
 					0, -- [3]
 					0, -- [4]
-					0, -- [5]
-					28090, -- [6]
-					0, -- [7]
-					0, -- [8]
+					28090, -- [5]
+					0, -- [6]
+					6516600, -- [7]
+					280900, -- [8]
 					0, -- [9]
 					0, -- [10]
-					28090, -- [11]
+					0, -- [11]
 					0, -- [12]
-					0, -- [13]
+					28090, -- [13]
 					0, -- [14]
 					0, -- [15]
-					28090, -- [16]
-					202200, -- [17]
+					0, -- [16]
+					0, -- [17]
 					202200, -- [18]
+					202200, -- [19]
 				},
 				["Rewards"] = {
 					"r|200073|1|1", -- [1]
-					nil, -- [2]
-					"r|210872|1|1", -- [3]
-					"r|211376|1|1,r|211394|1|1", -- [4]
-					"r|198613|1|1", -- [5]
+					"r|210872|1|1", -- [2]
+					"r|211376|1|1,r|211394|1|1", -- [3]
+					"r|198613|1|1", -- [4]
+					nil, -- [5]
 					nil, -- [6]
-					"r|166883|1|1", -- [7]
-					"r|205983|1|1", -- [8]
-					"r|204985|5|1", -- [9]
-					"r|204985|5|1", -- [10]
-					[14] = "r|198613|1|1",
-					[15] = "r|198613|1|1",
+					nil, -- [7]
+					nil, -- [8]
+					"r|166883|1|1", -- [9]
+					"r|205983|1|1", -- [10]
+					"r|204985|5|1", -- [11]
+					"r|204985|5|1", -- [12]
+					nil, -- [13]
+					nil, -- [14]
+					nil, -- [15]
+					"r|198613|1|1", -- [16]
+					"r|198613|1|1", -- [17]
 				},
 				["QuestHeaders"] = {
 					"Guardians of the Dream", -- [1]
 					"Dragonflight", -- [2]
 					"Embers of Neltharion", -- [3]
 					"Emerald Dream", -- [4]
-					"Tiragarde Sound", -- [5]
-					"Zaralek Cavern", -- [6]
-					"Heritage", -- [7]
-					"Missing header! (quest designers)", -- [8]
-					"Professions", -- [9]
-					"Trading Post", -- [10]
-					"Battle Pets", -- [11]
+					"Ohn'ahran Plains", -- [5]
+					"The Azure Span", -- [6]
+					"Tiragarde Sound", -- [7]
+					"Zaralek Cavern", -- [8]
+					"Heritage", -- [9]
+					"Missing header! (quest designers)", -- [10]
+					"Professions", -- [11]
+					"Battle Pets", -- [12]
 				},
 				["QuestTitles"] = {
 					"Aiding the Accord: Superbloom", -- [1]
-					"Orientation: Loamm Niffen", -- [2]
-					"A Worthy Ally: Dream Wardens", -- [3]
-					"Blooming Dreamseeds", -- [4]
-					"Fibrous Thread", -- [5]
-					"Mysterious Seeds", -- [6]
-					"Azerite for the Alliance", -- [7]
-					"A Worthy Ally: Loamm Niffen", -- [8]
-					"Mistie's Mix Magic", -- [9]
-					"Road to Season City", -- [10]
-					"The Shadow of Gilneas", -- [11]
-					"Climbing", -- [12]
-					"Tracking Quest", -- [13]
-					"Leatherworking Services Requested", -- [14]
-					"When You Give Bakar a Bone", -- [15]
-					"Report to the Trading Post", -- [16]
-					"Sharptalon Team Up", -- [17]
-					"Snowfeather Team Rumble", -- [18]
+					"A Worthy Ally: Dream Wardens", -- [2]
+					"Blooming Dreamseeds", -- [3]
+					"Fibrous Thread", -- [4]
+					"Mysterious Seeds", -- [5]
+					"Leaves from the Vine", -- [6]
+					"Ohn'ahran Banners", -- [7]
+					"Story of a Memorable Victory", -- [8]
+					"Azerite for the Alliance", -- [9]
+					"A Worthy Ally: Loamm Niffen", -- [10]
+					"Mistie's Mix Magic", -- [11]
+					"Road to Season City", -- [12]
+					"The Shadow of Gilneas", -- [13]
+					"Climbing", -- [14]
+					"Tracking Quest", -- [15]
+					"Leatherworking Services Requested", -- [16]
+					"When You Give Bakar a Bone", -- [17]
+					"Sharptalon Team Up", -- [18]
+					"Snowfeather Team Rumble", -- [19]
 				},
 				["QuestTags"] = {
 					"WEEKLY", -- [1]
-					nil, -- [2]
+					"WEEKLY", -- [2]
 					"WEEKLY", -- [3]
-					"WEEKLY", -- [4]
-					267, -- [5]
-					nil, -- [6]
-					261, -- [7]
+					267, -- [4]
+					nil, -- [5]
+					109, -- [6]
+					109, -- [7]
 					"WEEKLY", -- [8]
-					267, -- [9]
-					267, -- [10]
-					nil, -- [11]
-					265, -- [12]
-					265, -- [13]
-					267, -- [14]
-					267, -- [15]
-					102, -- [16]
-					102, -- [17]
+					261, -- [9]
+					"WEEKLY", -- [10]
+					267, -- [11]
+					267, -- [12]
+					nil, -- [13]
+					265, -- [14]
+					265, -- [15]
+					267, -- [16]
+					267, -- [17]
 					102, -- [18]
+					102, -- [19]
 				},
 				["History"] = {
 					[2024] = 268435456,
@@ -5341,7 +5309,7 @@ DataStore_QuestsDB = {
 					[1340] = 67108864,
 					[2166] = 2440396801,
 					[1852] = 16777216,
-					[2168] = 6042,
+					[2168] = 6106,
 					[1854] = 2147483648,
 					[1855] = 1073741824,
 					[2174] = 3619766273,
@@ -5452,8 +5420,9 @@ DataStore_QuestsDB = {
 					[835] = 262144,
 					[2311] = 65793,
 					[1671] = 2,
+					[2320] = 134217728,
 					[1929] = 1572864,
-					[2322] = 49152,
+					[2322] = 8437760,
 					[1420] = 32768,
 					[2326] = 1073741824,
 					[1934] = 262148,
@@ -5472,7 +5441,7 @@ DataStore_QuestsDB = {
 					[2350] = 6291456,
 					[1944] = 8192,
 					[2352] = 268567040,
-					[2215] = 106,
+					[2215] = 262250,
 					[2213] = 1073741824,
 					[1946] = 1024,
 					[2275] = 58144,
@@ -5483,7 +5452,7 @@ DataStore_QuestsDB = {
 					[1800] = 65600,
 					[2263] = 4268110,
 					[322] = 128,
-					[2364] = 67108872,
+					[2364] = 201326600,
 					[2365] = 1024,
 					[1605] = 8192,
 					[2367] = 768,
@@ -5641,26 +5610,27 @@ DataStore_QuestsDB = {
 					["10.1.5"] = 0,
 					["10.2"] = 5,
 				},
-				["lastUpdate"] = 1704235302,
+				["lastUpdate"] = 1704328052,
 				["Quests"] = {
 					4591616, -- [1]
-					4593664, -- [2]
+					4595712, -- [2]
 					4595712, -- [3]
 					4595712, -- [4]
 					4595712, -- [5]
-					4595712, -- [6]
-					4597792, -- [7]
+					4597796, -- [6]
+					4597796, -- [7]
 					4599808, -- [8]
-					4599808, -- [9]
-					4599808, -- [10]
-					4601856, -- [11]
-					4603946, -- [12]
-					4603944, -- [13]
-					4605952, -- [14]
-					4605952, -- [15]
-					4608000, -- [16]
+					4601888, -- [9]
+					4603904, -- [10]
+					4603904, -- [11]
+					4603904, -- [12]
+					4605952, -- [13]
+					4608042, -- [14]
+					4608040, -- [15]
+					4610048, -- [16]
 					4610048, -- [17]
-					4610048, -- [18]
+					4612096, -- [18]
+					4612096, -- [19]
 				},
 			},
 			["Default.Argent Dawn.Mangrove"] = {

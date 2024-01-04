@@ -29,6 +29,10 @@ DataStore_MailsDB = {
 				["lastUpdate"] = 1704172231,
 				["lastVisitDate"] = "2024/01/01 23:10",
 			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["lastUpdate"] = 1704315577,
+				["lastVisitDate"] = "2024/01/03 14:59",
+			},
 			["Default.Argent Dawn.Alluvium"] = {
 				["lastUpdate"] = 1703903145,
 				["lastVisitDate"] = "2023/12/29 20:25",
@@ -46,23 +50,8 @@ DataStore_MailsDB = {
 				["lastVisitDate"] = "2024/01/02 10:14",
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1704001338,
-				["Mails"] = {
-					{
-						["sender"] = "Emptyrivers",
-						["itemID"] = 209978,
-						["link"] = "|cff0070dd|Hitem:209978::::::::70:63::::1:28:2711:::::|h[Barkbloom Tunic]|h|r",
-						["count"] = 1,
-						["icon"] = 5178364,
-						["lastCheck"] = 1704315288,
-						["daysLeft"] = 30,
-					}, -- [1]
-				},
-				["lastVisitDate"] = "2023/12/30 23:42",
-			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1704315577,
-				["lastVisitDate"] = "2024/01/03 14:59",
+				["lastUpdate"] = 1704324822,
+				["lastVisitDate"] = "2024/01/03 17:33",
 			},
 			["Default.Argent Dawn.Cataracts"] = {
 				["lastUpdate"] = 1704004616,

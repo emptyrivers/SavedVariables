@@ -47,47 +47,47 @@ TomTomDB = {
 		["Sassyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Serenerivers - Kel'Thuzad"] = "Default",
-		["Cataracts - Argent Dawn"] = "Default",
+		["Mangrove - Argent Dawn"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
+		["Mothugeon - Argent Dawn"] = "Default",
 		["Zimuures - Argent Dawn"] = "Default",
-		["Brightrivers - Korgath"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
 		["Littlerivers - Kel'Thuzad"] = "Default",
 		["Alandere - Argent Dawn"] = "Default",
 		["Spicydremer - Korgath"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
-		["Garumn - Arthas"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Hiddenrivers - Korgath"] = "Default",
 		["Edgyrivers - Arthas"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
-		["Lotic - Argent Dawn"] = "Default",
+		["Notariver - Arthas"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
+		["Lotic - Argent Dawn"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
-		["Mecharivers - Sargeras"] = "Default",
-		["Edgyrivers - Kel'Thuzad"] = "Default",
-		["Treesurgeon - Korgath"] = "Default",
-		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Savattellir - Arthas"] = "Default",
-		["Blindrivers - Arthas"] = "Default",
-		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Alluvium - Argent Dawn"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
+		["Blindrivers - Arthas"] = "Default",
+		["Savattellir - Arthas"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
+		["Mecharivers - Sargeras"] = "Default",
+		["Treesurgeon - Korgath"] = "Default",
+		["Edgyrivers - Kel'Thuzad"] = "Default",
+		["Emptyrivers - Bleeding Hollow"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Notariver - Arthas"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Garumn - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Mothugeon - Argent Dawn"] = "Default",
-		["Mangrove - Argent Dawn"] = "Default",
+		["Brightrivers - Korgath"] = "Default",
+		["Cataracts - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -108,8 +108,8 @@ TomTomDB = {
 				},
 			},
 			["mapcoords"] = {
-				["cursorenable"] = false,
 				["playerenable"] = false,
+				["cursorenable"] = false,
 			},
 			["block"] = {
 				["enable"] = false,
@@ -122,35 +122,35 @@ TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Garumn - Arthas"] = "Garumn - Arthas",
 		["Savattellir - Arthas"] = "Savattellir - Arthas",
-		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Canerena - Arthas"] = "Canerena - Arthas",
-		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
+		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
-		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
+		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
+		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
-		["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Luckyrivers - Sargeras"] = "Luckyrivers - Sargeras",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -158,19 +158,19 @@ TomTomWaypointsM = {
 		},
 		["Savattellir - Arthas"] = {
 		},
-		["Stream - Argent Dawn"] = {
-		},
 		["Sverdrup - Argent Dawn"] = {
 		},
-		["Ailisuul - Arthas"] = {
+		["Stream - Argent Dawn"] = {
+		},
+		["Testrivers - Arthas"] = {
 		},
 		["Naturerivers - Korgath"] = {
 		},
 		["Canerena - Arthas"] = {
 		},
-		["Alandere - Argent Dawn"] = {
+		["Luckyrivers - Sargeras"] = {
 		},
-		["Lotic - Argent Dawn"] = {
+		["Ailisuul - Arthas"] = {
 		},
 		["Mangrove - Argent Dawn"] = {
 			[534] = {
@@ -182,9 +182,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -203,9 +203,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -224,9 +224,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -245,9 +245,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -266,9 +266,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -287,9 +287,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -308,9 +308,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -329,9 +329,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -350,9 +350,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -371,9 +371,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -392,9 +392,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -405,23 +405,23 @@ TomTomWaypointsM = {
 					["crazy"] = true,
 					["world"] = true,
 				},
-				["534:193000000:410000000:|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r"] = {
+				["534:324000000:704000000:|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r"] = {
 					534, -- [1]
-					0.193, -- [2]
-					0.41, -- [3]
+					0.324, -- [2]
+					0.704, -- [3]
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
 					["minimap"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
+					["title"] = "|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r",
 					["from"] = "?",
 					["crazy"] = true,
 					["world"] = true,
@@ -434,9 +434,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -455,9 +455,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -476,9 +476,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -497,9 +497,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -510,122 +510,17 @@ TomTomWaypointsM = {
 					["crazy"] = true,
 					["world"] = true,
 				},
-				["534:268000000:441000000:|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r"] = {
+				["534:736000000:432000000:Jungle Treasure Master"] = {
 					534, -- [1]
-					0.268, -- [2]
-					0.441, -- [3]
+					0.736, -- [2]
+					0.432, -- [3]
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
 						},
-					},
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
-					["from"] = "?",
-					["crazy"] = true,
-					["world"] = true,
-				},
-				["534:585000000:250000000:|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r"] = {
-					534, -- [1]
-					0.585, -- [2]
-					0.25, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
-					["from"] = "?",
-					["crazy"] = true,
-					["world"] = true,
-				},
-				["534:287000000:233000000:|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r"] = {
-					534, -- [1]
-					0.287, -- [2]
-					0.233, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r",
-					["from"] = "?",
-					["crazy"] = true,
-					["world"] = true,
-				},
-				["534:288000000:346000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.288, -- [2]
-					0.346, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
-					["from"] = "?",
-					["crazy"] = true,
-					["world"] = true,
-				},
-				["534:344000000:783000000:|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r"] = {
-					534, -- [1]
-					0.344, -- [2]
-					0.783, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
-						},
-					},
-					["persistent"] = true,
-					["minimap"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r",
-					["from"] = "?",
-					["crazy"] = true,
-					["world"] = true,
-				},
-				["534:370000000:462000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.37, -- [2]
-					0.462, -- [3]
-					["arrivaldistance"] = 15,
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["minimap"] = {
-						},
-						["world"] = {
 						},
 					},
 					["persistent"] = true,
@@ -644,9 +539,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -657,23 +552,128 @@ TomTomWaypointsM = {
 					["crazy"] = true,
 					["world"] = true,
 				},
-				["534:736000000:432000000:Jungle Treasure Master"] = {
+				["534:287000000:233000000:|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r"] = {
 					534, -- [1]
-					0.736, -- [2]
-					0.432, -- [3]
+					0.287, -- [2]
+					0.233, -- [3]
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["world"] = {
+						},
 						["minimap"] = {
 						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["534:288000000:346000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.288, -- [2]
+					0.346, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
 					["minimap"] = true,
 					["cleardistance"] = 10,
 					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["534:344000000:783000000:|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r"] = {
+					534, -- [1]
+					0.344, -- [2]
+					0.783, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["534:370000000:462000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.37, -- [2]
+					0.462, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["534:585000000:250000000:|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r"] = {
+					534, -- [1]
+					0.585, -- [2]
+					0.25, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
+					["from"] = "?",
+					["crazy"] = true,
+					["world"] = true,
+				},
+				["534:268000000:441000000:|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r"] = {
+					534, -- [1]
+					0.268, -- [2]
+					0.441, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["world"] = {
+						},
+						["minimap"] = {
+						},
+					},
+					["persistent"] = true,
+					["minimap"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
 					["from"] = "?",
 					["crazy"] = true,
 					["world"] = true,
@@ -686,9 +686,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
@@ -699,48 +699,48 @@ TomTomWaypointsM = {
 					["crazy"] = true,
 					["world"] = true,
 				},
-				["534:324000000:704000000:|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r"] = {
+				["534:193000000:410000000:|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r"] = {
 					534, -- [1]
-					0.324, -- [2]
-					0.704, -- [3]
+					0.193, -- [2]
+					0.41, -- [3]
 					["arrivaldistance"] = 15,
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["persistent"] = true,
 					["minimap"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r",
+					["title"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
 					["from"] = "?",
 					["crazy"] = true,
 					["world"] = true,
 				},
 			},
 		},
-		["Ochrian - Argent Dawn"] = {
-		},
-		["Emptyrivers - Argent Dawn"] = {
-		},
-		["Emptyrivers - Sargeras"] = {
-		},
 		["Cataracts - Argent Dawn"] = {
 		},
-		["Daedrasminia - Arthas"] = {
-		},
-		["Emptystreams - Argent Dawn"] = {
+		["Emptyrivers - Arthas"] = {
 		},
 		["Ragingrivers - Arthas"] = {
 		},
+		["Flumina - Argent Dawn"] = {
+		},
+		["Riparium - Argent Dawn"] = {
+		},
+		["Emptystreams - Argent Dawn"] = {
+		},
+		["Emptyrivers - Sargeras"] = {
+		},
 		["Alluvium - Argent Dawn"] = {
 		},
-		["Mahntaiaga - Arthas"] = {
+		["Beefyrivers - Arthas"] = {
 		},
-		["Mothugeon - Argent Dawn"] = {
+		["Evilrivers - Kel'Thuzad"] = {
 		},
 		["Emptyrivers - Bleeding Hollow"] = {
 		},
@@ -748,21 +748,21 @@ TomTomWaypointsM = {
 		},
 		["Confluence - Argent Dawn"] = {
 		},
-		["Evilrivers - Kel'Thuzad"] = {
+		["Mothugeon - Argent Dawn"] = {
 		},
-		["Beefyrivers - Arthas"] = {
+		["Mahntaiaga - Arthas"] = {
 		},
-		["Riparium - Argent Dawn"] = {
+		["Daedrasminia - Arthas"] = {
 		},
 		["Zimuures - Argent Dawn"] = {
 		},
-		["Emptyrivers - Arthas"] = {
+		["Emptyrivers - Argent Dawn"] = {
 		},
-		["Flumina - Argent Dawn"] = {
+		["Ochrian - Argent Dawn"] = {
 		},
-		["Luckyrivers - Sargeras"] = {
+		["Alandere - Argent Dawn"] = {
 		},
-		["Testrivers - Arthas"] = {
+		["Lotic - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},
