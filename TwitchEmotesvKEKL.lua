@@ -7,18 +7,18 @@ Emoticons_Settings = {
 	["ENABLE_ANIMATEDEMOTES"] = true,
 	["CHAT_MSG_RAID_WARNING"] = true,
 	["CHAT_MSG_CHANNEL"] = true,
-	["CHAT_MSG_BN_WHISPER"] = true,
-	["CHAT_MSG_WHISPER"] = true,
 	["CHAT_MSG_PARTY_GUIDE"] = true,
+	["CHAT_MSG_WHISPER"] = true,
+	["CHAT_MSG_BN_WHISPER"] = true,
 	["CHAT_MSG_PARTY"] = true,
-	["CHAT_MSG_WHISPER_INFORM"] = true,
+	["LARGEEMOTES"] = false,
 	["CHAT_MSG_INSTANCE_CHAT_LEADER"] = true,
 	["CHAT_MSG_RAID"] = true,
-	["CHAT_MSG_BN_WHISPER_INFORM"] = true,
-	["CHAT_MSG_YELL"] = true,
-	["CHAT_MSG_RAID_LEADER"] = true,
+	["ENABLE_AUTOCOMPLETE"] = true,
 	["MINIMAPBUTTON"] = true,
-	["CHAT_MSG_BN_CONVERSATION"] = true,
+	["CHAT_MSG_RAID_LEADER"] = true,
+	["CHAT_MSG_YELL"] = true,
+	["CHAT_MSG_SAY"] = true,
 	["FAVEMOTES"] = {
 		true, -- [1]
 		true, -- [2]
@@ -49,10 +49,10 @@ Emoticons_Settings = {
 		true, -- [27]
 	},
 	["MAIL"] = true,
-	["CHAT_MSG_SAY"] = true,
+	["CHAT_MSG_BN_CONVERSATION"] = true,
 	["ENABLE_CLICKABLEEMOTES"] = true,
-	["ENABLE_AUTOCOMPLETE"] = true,
-	["LARGEEMOTES"] = false,
+	["CHAT_MSG_BN_WHISPER_INFORM"] = true,
+	["CHAT_MSG_WHISPER_INFORM"] = true,
 	["MINIMAPDATA"] = {
 		["minimapPos"] = 135,
 	},
@@ -113,27 +113,7 @@ TwitchEmotesvKEKLStatistics = {
 		0, -- [2]
 		7, -- [3]
 	},
-	["NA"] = {
-		0, -- [1]
-		0, -- [2]
-		3, -- [3]
-	},
-	["D:"] = {
-		0, -- [1]
-		7, -- [2]
-		13, -- [3]
-	},
-	["beamB"] = {
-		0, -- [1]
-		0, -- [2]
-		1, -- [3]
-	},
-	["WideHard"] = {
-		0, -- [1]
-		0, -- [2]
-		1, -- [3]
-	},
-	["beamBrah"] = {
+	["HUH"] = {
 		0, -- [1]
 		0, -- [2]
 		1, -- [3]
@@ -143,9 +123,34 @@ TwitchEmotesvKEKLStatistics = {
 		0, -- [2]
 		3, -- [3]
 	},
-	["HUH"] = {
+	["D:"] = {
+		0, -- [1]
+		7, -- [2]
+		14, -- [3]
+	},
+	["beamBrah"] = {
 		0, -- [1]
 		0, -- [2]
 		1, -- [3]
+	},
+	["WideHard"] = {
+		0, -- [1]
+		0, -- [2]
+		1, -- [3]
+	},
+	["beamB"] = {
+		0, -- [1]
+		0, -- [2]
+		1, -- [3]
+	},
+	["NA"] = {
+		0, -- [1]
+		0, -- [2]
+		3, -- [3]
+	},
+	["WM"] = {
+		0, -- [1]
+		1, -- [2]
+		0, -- [3]
 	},
 }

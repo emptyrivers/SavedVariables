@@ -3,15 +3,23 @@ M6DB = {
 	["icRangeColor"] = "ffffff",
 	["groups"] = {
 	},
-	["icManaColor"] = "8080ff",
-	["actions"] = {
-		{
-			"macrotext", -- [1]
-			"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal", -- [2]
-			["name"] = "flash",
-		}, -- [1]
-	},
 	["profiles"] = {
+		["Korgath"] = {
+			["Naturerivers"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[4] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+		},
 		["Argent Dawn"] = {
 			["Sverdrup"] = {
 				{
@@ -119,4 +127,12 @@ M6DB = {
 			},
 		},
 	},
+	["actions"] = {
+		{
+			"macrotext", -- [1]
+			"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal", -- [2]
+			["name"] = "flash",
+		}, -- [1]
+	},
+	["icManaColor"] = "8080ff",
 }

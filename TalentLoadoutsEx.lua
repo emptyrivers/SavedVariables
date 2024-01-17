@@ -6,11 +6,11 @@ TalentLoadoutsEx = {
 		[5] = {
 		},
 	},
-	["MONK"] = {
+	["EVOKER"] = {
 		{
 		}, -- [1]
-		[3] = {
-		},
+		{
+		}, -- [2]
 	},
 	["PALADIN"] = {
 		[3] = {
@@ -31,11 +31,11 @@ TalentLoadoutsEx = {
 		[4] = {
 		},
 	},
-	["EVOKER"] = {
+	["MONK"] = {
 		{
 		}, -- [1]
-		{
-		}, -- [2]
+		[3] = {
+		},
 	},
 	["PRIEST"] = {
 		{
@@ -53,11 +53,11 @@ TalentLoadoutsExGUI = {
 		[5] = {
 		},
 	},
-	["MONK"] = {
+	["EVOKER"] = {
 		{
 		}, -- [1]
-		[3] = {
-		},
+		{
+		}, -- [2]
 	},
 	["PALADIN"] = {
 		[3] = {
@@ -81,11 +81,11 @@ TalentLoadoutsExGUI = {
 		[4] = {
 		},
 	},
-	["EVOKER"] = {
+	["MONK"] = {
 		{
 		}, -- [1]
-		{
-		}, -- [2]
+		[3] = {
+		},
 	},
 	["PRIEST"] = {
 		{

@@ -1,11 +1,11 @@
 
 BugSackDB = {
-	["soundMedia"] = "BugSack: Fatality",
-	["fontSize"] = "GameFontHighlight",
-	["useMaster"] = false,
-	["altwipe"] = true,
-	["mute"] = false,
 	["auto"] = true,
+	["altwipe"] = true,
+	["useMaster"] = false,
+	["fontSize"] = "GameFontHighlight",
+	["mute"] = false,
+	["soundMedia"] = "BugSack: Fatality",
 	["chatframe"] = false,
 }
 BugSackLDBIconDB = {

@@ -75,6 +75,7 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 					{
+						["name"] = "New Look #1",
 						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["data"] = {
 							{
@@ -154,7 +155,6 @@ NarciBarberShopDB = {
 								20009, -- [2]
 							}, -- [19]
 						},
-						["name"] = "New Look #1",
 						["timeCreated"] = 1672083038,
 					}, -- [1]
 				},
@@ -165,7 +165,7 @@ NarciBarberShopDB = {
 			["playerName"] = "Riparium",
 			["realmID"] = "75",
 			["SavedLooks"] = {
-				["chrModel180"] = {
+				["chrModel148"] = {
 				},
 				["chrModel149"] = {
 				},
@@ -179,9 +179,9 @@ NarciBarberShopDB = {
 					["female"] = {
 					},
 				},
-				["chrModel148"] = {
+				["chrModel180"] = {
 				},
-				["chrModel182"] = {
+				["chrModel183"] = {
 				},
 				["chrModel129"] = {
 				},
@@ -197,7 +197,7 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 				},
-				["chrModel183"] = {
+				["chrModel182"] = {
 				},
 			},
 			["realmName"] = "Argent Dawn",

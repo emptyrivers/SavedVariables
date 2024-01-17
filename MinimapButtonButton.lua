@@ -14,7 +14,7 @@ MinimapButtonButtonOptions = {
 		-227.5228424072266, -- [4]
 		-6.857060432434082, -- [5]
 	},
-	["buttonsPerRow"] = 30,
+	["buttonsPerRow"] = 10,
 	["hidecompartment"] = false,
 	["whitelist"] = {
 		["ZygorGuidesViewerMapIcon"] = true,
