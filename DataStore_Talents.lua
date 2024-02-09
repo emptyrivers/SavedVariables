@@ -22,7 +22,7 @@ DataStore_TalentsDB = {
 		["Characters"] = {
 			["Default.Argent Dawn.Headcut"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705440370,
+				["lastUpdate"] = 1707446598,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -34,7 +34,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705440205,
+				["lastUpdate"] = 1707285594,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -46,7 +46,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705439066,
+				["lastUpdate"] = 1707286089,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -57,12 +57,32 @@ DataStore_TalentsDB = {
 				["activeSpecName"] = "Frost",
 			},
 			["Default.Argent Dawn.Karst"] = {
-				["lastUpdate"] = 1704486698,
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1707183752,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					[5] = 0,
+				},
 				["Class"] = "WARRIOR",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Fury",
+			},
+			["Default.Argent Dawn.Stream"] = {
+				["activeSpecRole"] = "DAMAGER",
+				["lastUpdate"] = 1707446922,
+				["Specializations"] = {
+					0, -- [1]
+					0, -- [2]
+				},
+				["Class"] = "HUNTER",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Marksmanship",
 			},
 			["Default.Argent Dawn.Alluvium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705445275,
+				["lastUpdate"] = 1707454524,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -71,6 +91,16 @@ DataStore_TalentsDB = {
 				["Class"] = "EVOKER",
 				["activeSpecIndex"] = 1,
 				["activeSpecName"] = "Devastation",
+			},
+			["Default.Korgath.Naturerivers"] = {
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1704737870,
+				["Specializations"] = {
+					[4] = 0,
+				},
+				["Class"] = "DRUID",
+				["activeSpecIndex"] = 4,
+				["activeSpecName"] = "Restoration",
 			},
 			["Default.Argent Dawn.Benthos"] = {
 				["activeSpecRole"] = "DAMAGER",
@@ -85,41 +115,21 @@ DataStore_TalentsDB = {
 				["activeSpecIndex"] = 2,
 				["activeSpecName"] = "Frost",
 			},
-			["Default.Korgath.Naturerivers"] = {
-				["activeSpecRole"] = "HEALER",
-				["lastUpdate"] = 1704737870,
-				["Specializations"] = {
-					[4] = 0,
-				},
-				["Class"] = "DRUID",
-				["activeSpecIndex"] = 4,
-				["activeSpecName"] = "Restoration",
-			},
-			["Default.Argent Dawn.Stream"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1704823393,
-				["Specializations"] = {
-					0, -- [1]
-				},
-				["Class"] = "HUNTER",
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Beast Mastery",
-			},
 			["Default.Argent Dawn.Flumina"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705438866,
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1707285067,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
 					0, -- [3]
 				},
 				["Class"] = "PRIEST",
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Shadow",
+				["activeSpecIndex"] = 1,
+				["activeSpecName"] = "Discipline",
 			},
 			["Default.Argent Dawn.Cataracts"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705281482,
+				["lastUpdate"] = 1706055581,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -131,7 +141,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705439995,
+				["lastUpdate"] = 1707425934,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -143,7 +153,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705440100,
+				["lastUpdate"] = 1707441106,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -154,18 +164,19 @@ DataStore_TalentsDB = {
 				["activeSpecName"] = "Outlaw",
 			},
 			["Default.Argent Dawn.Mangrove"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705193323,
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1707446149,
 				["Specializations"] = {
 					[2] = 0,
+					[4] = 0,
 				},
 				["Class"] = "DRUID",
-				["activeSpecIndex"] = 2,
-				["activeSpecName"] = "Feral",
+				["activeSpecIndex"] = 4,
+				["activeSpecName"] = "Restoration",
 			},
 			["Default.Argent Dawn.Confluence"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1705361097,
+				["lastUpdate"] = 1707447181,
 				["Specializations"] = {
 					[2] = 0,
 					[3] = 0,
@@ -201,6 +212,21 @@ DataStore_TalentsRefDB = {
 			["Locale"] = "enUS",
 			["Version"] = 52808,
 		},
+		["WARRIOR"] = {
+			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 71,
+				}, -- [1]
+				{
+					["id"] = 72,
+				}, -- [2]
+				{
+					["id"] = 73,
+				}, -- [3]
+			},
+			["Version"] = 53162,
+		},
 		["ROGUE"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
@@ -214,7 +240,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 261,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53262,
 		},
 		["MAGE"] = {
 			["Locale"] = "enUS",
@@ -229,7 +255,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 64,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53212,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -244,7 +270,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 258,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53212,
 		},
 		["HUNTER"] = {
 			["Locale"] = "enUS",
@@ -259,7 +285,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 255,
 				}, -- [3]
 			},
-			["Version"] = 52649,
+			["Version"] = 53262,
 		},
 		["EVOKER"] = {
 			["Locale"] = "enUS",
@@ -274,7 +300,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 1473,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53262,
 		},
 		["WARLOCK"] = {
 			["Locale"] = "enUS",
@@ -289,7 +315,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 267,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53212,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",
@@ -301,7 +327,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 581,
 				}, -- [2]
 			},
-			["Version"] = 52808,
+			["Version"] = 53040,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -316,7 +342,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 264,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53262,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -334,7 +360,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 105,
 				}, -- [4]
 			},
-			["Version"] = 52808,
+			["Version"] = 53262,
 		},
 		["MONK"] = {
 			["Locale"] = "enUS",
@@ -349,7 +375,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 269,
 				}, -- [3]
 			},
-			["Version"] = 52902,
+			["Version"] = 53262,
 		},
 		["PALADIN"] = {
 			["Locale"] = "enUS",
@@ -364,7 +390,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 70,
 				}, -- [3]
 			},
-			["Version"] = 52808,
+			["Version"] = 53262,
 		},
 	},
 }

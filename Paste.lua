@@ -373,6 +373,10 @@ PasteDB = {
 		},
 		["Alluvium - Argent Dawn"] = {
 			["loaded"] = true,
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+			},
 		},
 		["Notariver - Arthas"] = {
 			["loaded"] = true,
@@ -457,6 +461,10 @@ PasteDB = {
 		},
 		["Confluence - Argent Dawn"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
 		["Magicrivers - Korgath"] = {
 			["loaded"] = true,

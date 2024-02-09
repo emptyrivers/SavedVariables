@@ -57,32 +57,6 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Alluvium-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Kronar-argent-dawn"] = true,
-	["us-Shunda-the-scryers"] = true,
-	["us-Howitzer-argent-dawn"] = true,
-	["us-Mylady-the-scryers"] = true,
-	["us-Woragrim-the-scryers"] = true,
-	["us-Fregliblock-argent-dawn"] = true,
-	["us-Tide-argent-dawn"] = true,
-	["us-Sunbeem-argent-dawn"] = true,
-	["us-Zafiras-argent-dawn"] = true,
-	["us-Carotid-the-scryers"] = true,
-	["us-Necromos-argent-dawn"] = true,
-	["us-Warru-argent-dawn"] = true,
-	["us-Porunga-argent-dawn"] = true,
-	["us-Moonshard-argent-dawn"] = true,
-	["us-Killà-the-scryers"] = true,
-	["us-Svarog-the-scryers"] = true,
-	["us-Awakê-argent-dawn"] = true,
-	["us-Ghanyah-argent-dawn"] = true,
-	["us-Adyrajo-argent-dawn"] = true,
-	["us-Bxy-argent-dawn"] = true,
-	["us-Nataleya-argent-dawn"] = true,
-	["us-Dervishalla-argent-dawn"] = true,
-	["us-Vanderwat-the-scryers"] = true,
-	["us-Drakaria-argent-dawn"] = true,
-	["us-Madorn-argent-dawn"] = true,
-	["us-Zymor-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }

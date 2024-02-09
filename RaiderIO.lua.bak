@@ -57,10 +57,6 @@ RaiderIO_Config = {
 }
 RaiderIO_LastCharacter = "us-Alluvium-argent-dawn"
 RaiderIO_MissingCharacters = {
-	["us-Dabura-the-scryers"] = true,
-	["us-Cherabella-the-scryers"] = true,
-	["us-Inconell-argent-dawn"] = true,
-	["us-Floraella-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }

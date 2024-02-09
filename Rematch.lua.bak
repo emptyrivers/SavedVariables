@@ -5,7 +5,7 @@ Rematch5Settings = {
 	["HideLevelBubbles"] = true,
 	["QueueAutoLearnOnly"] = true,
 	["QueuePreferFullHP"] = false,
-	["CurrentLayout"] = "3-teams",
+	["CurrentLayout"] = "0-minimized",
 	["ColorPetNames"] = true,
 	["InteractOnlyWhenInjured"] = false,
 	["StayOnLogout"] = false,
@@ -18,7 +18,7 @@ Rematch5Settings = {
 	["DontSortByRelevance"] = false,
 	["DisableShare"] = false,
 	["ShowSpeciesID"] = true,
-	["XPos"] = 19.99992561340332,
+	["XPos"] = 11.61897850036621,
 	["ShowAbilityNumbersLoaded"] = false,
 	["HideTruncatedTooltips"] = false,
 	["AlternateWinRecord"] = false,
@@ -34,12 +34,15 @@ Rematch5Settings = {
 	["CustomScaleValue"] = 100,
 	["StrongVsLevel"] = true,
 	["QueueActiveSort"] = true,
-	["MaximizedLayout"] = "2-options",
+	["MaximizedLayout"] = "2-teams",
 	["ExportIncludePreferences"] = false,
+	["LargerBreedText"] = false,
 	["DisplayUniqueTotal"] = false,
 	["SafariHatShine"] = true,
 	["PetCardCanPin"] = false,
+	["HideTargetBadges"] = false,
 	["ShowNotesOnLoad"] = false,
+	["HideTeamBadges"] = false,
 	["InteractOnMouseover"] = 3,
 	["LastOpenJournal"] = true,
 	["QueueSortRaresFirst"] = false,
@@ -81,7 +84,6 @@ Rematch5Settings = {
 		}, -- [8]
 	},
 	["SpecialSlots"] = {
-		[3] = 0,
 	},
 	["PreferPetsTab"] = false,
 	["QueueRandomWhenEmpty"] = true,
@@ -107,77 +109,564 @@ Rematch5Settings = {
 	["BreedSource"] = "BattlePetBreedID",
 	["LastSelectedGroup"] = "group:7",
 	["HideWinRecord"] = false,
+	["HiddenPets"] = {
+	},
+	["PetSatchelIndex"] = 3,
 	["ToolbarDismiss"] = true,
 	["StandaloneLayout"] = "0-minimized",
+	["PetCardBackground"] = "Expansion",
 	["ShowAbilityID"] = false,
 	["QueueAutoImport"] = true,
 	["ExportSimplePetList"] = false,
 	["PetCardCompactCollected"] = false,
+	["JournalLayout"] = "3-teams",
 	["ColorTeamNames"] = true,
 	["AbilityBackground"] = "Icon",
-	["PetSatchelIndex"] = 3,
+	["NoBackupReminder"] = false,
 	["InteractShowAfterLoad"] = true,
-	["PetCardBackground"] = "Expansion",
+	["HideBreedsLists"] = false,
 	["DontConfirmDeleteNotes"] = false,
 	["DontConfirmFillQueue"] = false,
 	["DontConfirmCaging"] = true,
 	["AlwaysUsePetSatchel"] = false,
 	["AllowHiddenPets"] = true,
 	["ShowAfterBattle"] = true,
-	["NoBackupReminder"] = false,
+	["HidePreferenceBadges"] = false,
 	["PetCardNoMouseoverFlip"] = false,
-	["AutoWinRecordPVPOnly"] = false,
-	["DontConfirmHidePets"] = false,
-	["WarnWhenRandomNot25"] = false,
+	["PreferencesPaused"] = false,
+	["NotesWidth"] = 257.9999389648438,
 	["LockWindow"] = false,
-	["JournalLayout"] = "3-teams",
+	["DontConfirmHidePets"] = false,
+	["ClickToDrag"] = false,
 	["Anchor"] = "TOPLEFT",
 	["ShowFillQueueMore"] = true,
 	["LoadHealthiest"] = false,
-	["currentTeamID"] = "team:159",
-	["PreferencesPaused"] = false,
-	["RandomAbilitiesToo"] = false,
+	["currentTeamID"] = "team:56",
+	["CompactPetList"] = true,
+	["BoringLoreFont"] = false,
 	["CompactQueueList"] = true,
 	["DontConfirmDeleteTeams"] = false,
 	["KeepNotesOnScreen"] = true,
-	["BarChartCategory"] = 9,
-	["ShowAfterPVEOnly"] = false,
-	["ShowNewGroupTab"] = true,
-	["BoringLoreFont"] = false,
 	["StayForBattle"] = true,
-	["DontConfirmRemoveQueue"] = true,
-	["InteractPreferUninjured"] = false,
 	["NeverTeamTabs"] = false,
-	["LastToastedPetID"] = "BattlePet-0-0000210B58A0",
+	["LastToastedPetID"] = "BattlePet-0-000021CE14CD",
 	["LoadHealthiestAfterBattle"] = false,
 	["AlwaysTeamTabs"] = false,
+	["DontConfirmRemoveQueue"] = true,
+	["InteractPreferUninjured"] = false,
+	["PetNotes"] = {
+	},
+	["ShowAfterPVEOnly"] = false,
+	["ShowAbilityNumbers"] = true,
+	["CombineGroupKey"] = "None",
 	["NotesFont"] = "GameFontHighlight",
 	["KeepCompanion"] = false,
 	["ShowNotesOnce"] = false,
-	["HiddenPets"] = {
-	},
-	["PrioritizeBreedOnImport"] = true,
-	["HideNonBattlePets"] = false,
-	["EnableDrag"] = true,
-	["NotesHeight"] = 258,
-	["HidePetToast"] = true,
-	["CombineGroupKey"] = "None",
 	["DefaultPreferences"] = {
 	},
 	["TooltipBehavior"] = "Normal",
-	["BackupCount"] = 275,
-	["HideToolbarTooltips"] = false,
 	["HideBreedsLoadouts"] = false,
+	["EnableDrag"] = true,
+	["NotesHeight"] = 258,
+	["HidePetToast"] = true,
 	["BreedFormat"] = 1,
 	["ColorTargetNames"] = true,
+	["LastOpenLayout"] = "3-teams",
+	["BackupCount"] = 275,
+	["HideToolbarTooltips"] = false,
+	["QueueDoubleClick"] = true,
+	["LevelingQueue"] = {
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021CE14CD",
+			["added"] = 20231209213030,
+			["petTag"] = "Q1433GD",
+		}, -- [1]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E64169",
+			["added"] = 20240123190910,
+			["petTag"] = "QN3336J",
+		}, -- [2]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021A1E76F",
+			["added"] = 20231130040746,
+			["petTag"] = "Q14A211",
+		}, -- [3]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021D23A26",
+			["added"] = 20231217183708,
+			["petTag"] = "Q1433GG",
+		}, -- [4]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021D0270B",
+			["added"] = 20231213165106,
+			["petTag"] = "Q1433DR",
+		}, -- [5]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021D805E3",
+			["added"] = 20231226183806,
+			["petTag"] = "Q1433GI",
+		}, -- [6]
+		{
+			["petID"] = "BattlePet-0-0000210B58A0",
+			["preferred"] = true,
+			["added"] = 20231130040631,
+			["petTag"] = "Q1442CM",
+		}, -- [7]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00000E0BBEF5",
+			["added"] = 20231130040552,
+			["petTag"] = "Q1491IR",
+		}, -- [8]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-00000E0BBD4A",
+			["added"] = 20231130040542,
+			["petTag"] = "Q144141",
+		}, -- [9]
+		{
+			["petID"] = "BattlePet-0-0000210533A4",
+			["preferred"] = true,
+			["added"] = 20231130040612,
+			["petTag"] = "Q1392R4",
+		}, -- [10]
+		{
+			["petID"] = "BattlePet-0-000021C91C6F",
+			["petTag"] = "Q14338E",
+			["added"] = 20231202001105,
+			["preferred"] = true,
+		}, -- [11]
+		{
+			["petID"] = "BattlePet-0-000021C92098",
+			["petTag"] = "Q1433E3",
+			["added"] = 20231202004735,
+			["preferred"] = true,
+		}, -- [12]
+		{
+			["petID"] = "BattlePet-0-000021C9209B",
+			["petTag"] = "Q1433DS",
+			["added"] = 20231202004751,
+			["preferred"] = true,
+		}, -- [13]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q13639K",
+			["added"] = 20231202041427,
+			["petID"] = "BattlePet-0-000021C92DBD",
+		}, -- [14]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14535N",
+			["added"] = 20231203013747,
+			["petID"] = "BattlePet-0-000021C9E793",
+		}, -- [15]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14446N",
+			["added"] = 20231203013819,
+			["petID"] = "BattlePet-0-000021C9E7A3",
+		}, -- [16]
+		{
+			["petID"] = "BattlePet-0-000021CA50EA",
+			["petTag"] = "Q14546H",
+			["added"] = 20231203164757,
+			["preferred"] = true,
+		}, -- [17]
+		{
+			["petID"] = "BattlePet-0-000021CB6B88",
+			["petTag"] = "Q144468",
+			["added"] = 20231205130403,
+			["preferred"] = true,
+		}, -- [18]
+		{
+			["petID"] = "BattlePet-0-000021CBCDA8",
+			["petTag"] = "Q144462",
+			["added"] = 20231205204117,
+			["preferred"] = true,
+		}, -- [19]
+		{
+			["petID"] = "BattlePet-0-000021CBCF9F",
+			["petTag"] = "Q143467",
+			["added"] = 20231205204905,
+			["preferred"] = true,
+		}, -- [20]
+		{
+			["petID"] = "BattlePet-0-000021CCDFD9",
+			["petTag"] = "Q14B23E",
+			["added"] = 20231207165338,
+			["preferred"] = true,
+		}, -- [21]
+		{
+			["petID"] = "BattlePet-0-000021CDF5C8",
+			["petTag"] = "Q14446C",
+			["added"] = 20231209174459,
+			["preferred"] = true,
+		}, -- [22]
+		{
+			["petID"] = "BattlePet-0-000021D17397",
+			["petTag"] = "Q1463AN",
+			["added"] = 20231216132858,
+			["preferred"] = true,
+		}, -- [23]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14CAH",
+			["added"] = 20231216205103,
+			["petID"] = "BattlePet-0-000021D1B244",
+		}, -- [24]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14937D",
+			["added"] = 20231218024655,
+			["petID"] = "BattlePet-0-000021D2703B",
+		}, -- [25]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14538J",
+			["added"] = 20231218154710,
+			["petID"] = "BattlePet-0-000021D2A98C",
+		}, -- [26]
+		{
+			["petID"] = "BattlePet-0-000021D2AA99",
+			["petTag"] = "Q1483DN",
+			["added"] = 20231218155617,
+			["preferred"] = true,
+		}, -- [27]
+		{
+			["petID"] = "BattlePet-0-000021D3617E",
+			["petTag"] = "Q14C46I",
+			["added"] = 20231219190048,
+			["preferred"] = true,
+		}, -- [28]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q1431T0",
+			["added"] = 20231219213335,
+			["petID"] = "BattlePet-0-000021D37FDD",
+		}, -- [29]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q1471T6",
+			["added"] = 20231219213338,
+			["petID"] = "BattlePet-0-000021D37FE0",
+		}, -- [30]
+		{
+			["petID"] = "BattlePet-0-000021D4259C",
+			["petTag"] = "Q14C365",
+			["added"] = 20231220223103,
+			["preferred"] = true,
+		}, -- [31]
+		{
+			["petID"] = "BattlePet-0-000021D4734E",
+			["petTag"] = "Q14816H",
+			["added"] = 20231221152940,
+			["preferred"] = true,
+		}, -- [32]
+		{
+			["petID"] = "BattlePet-0-000021D48012",
+			["petTag"] = "Q1433CK",
+			["added"] = 20231221171027,
+			["preferred"] = true,
+		}, -- [33]
+		{
+			["petID"] = "BattlePet-0-000021D9547D",
+			["petTag"] = "Q14436Q",
+			["added"] = 20231228170711,
+			["preferred"] = true,
+		}, -- [34]
+		{
+			["petID"] = "BattlePet-0-000021D955B2",
+			["petTag"] = "Q148384",
+			["added"] = 20231228171522,
+			["preferred"] = true,
+		}, -- [35]
+		{
+			["petID"] = "BattlePet-0-000021DAC77E",
+			["petTag"] = "Q13337U",
+			["added"] = 20231230234254,
+			["preferred"] = true,
+		}, -- [36]
+		{
+			["petID"] = "BattlePet-0-000021DAD846",
+			["petTag"] = "Q14538H",
+			["added"] = 20231231031147,
+			["preferred"] = true,
+		}, -- [37]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14535O",
+			["added"] = 20231231031148,
+			["petID"] = "BattlePet-0-000021DAD847",
+		}, -- [38]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14538I",
+			["added"] = 20231231031148,
+			["petID"] = "BattlePet-0-000021DAD848",
+		}, -- [39]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q14538G",
+			["added"] = 20231231031149,
+			["petID"] = "BattlePet-0-000021DAD849",
+		}, -- [40]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q149371",
+			["added"] = 20240101125244,
+			["petID"] = "BattlePet-0-000021DBA714",
+		}, -- [41]
+		{
+			["preferred"] = true,
+			["petTag"] = "Q1392R4",
+			["added"] = 20240101193335,
+			["petID"] = "BattlePet-0-0000210D9DCD",
+		}, -- [42]
+		{
+			["petID"] = "BattlePet-0-00000E0BBEB7",
+			["petTag"] = "Q1431B9",
+			["added"] = 20240101201612,
+			["preferred"] = true,
+		}, -- [43]
+		{
+			["petID"] = "BattlePet-0-000010125055",
+			["petTag"] = "Q14323D",
+			["added"] = 20240101220738,
+			["preferred"] = true,
+		}, -- [44]
+		{
+			["petTag"] = "Q1433AE",
+			["petID"] = "BattlePet-0-000021DC0F3F",
+			["added"] = 20240101221841,
+			["preferred"] = true,
+		}, -- [45]
+		{
+			["petTag"] = "Q14737R",
+			["preferred"] = true,
+			["added"] = 20240107004325,
+			["petID"] = "BattlePet-0-000021DE9A4C",
+		}, -- [46]
+		{
+			["petTag"] = "Q1463BP",
+			["preferred"] = true,
+			["added"] = 20240107134117,
+			["petID"] = "BattlePet-0-000021DECE79",
+		}, -- [47]
+		{
+			["petTag"] = "Q143395",
+			["preferred"] = true,
+			["added"] = 20240111125639,
+			["petID"] = "BattlePet-0-000021E0A2BE",
+		}, -- [48]
+		{
+			["petTag"] = "Q14337A",
+			["preferred"] = true,
+			["added"] = 20240111130119,
+			["petID"] = "BattlePet-0-000021E0A336",
+		}, -- [49]
+		{
+			["petTag"] = "Q143452",
+			["preferred"] = true,
+			["added"] = 20240111131250,
+			["petID"] = "BattlePet-0-000021E0A40B",
+		}, -- [50]
+		{
+			["petTag"] = "Q14C39J",
+			["petID"] = "BattlePet-0-000021E0A8F3",
+			["added"] = 20240111140032,
+			["preferred"] = true,
+		}, -- [51]
+		{
+			["petTag"] = "Q1433EF",
+			["petID"] = "BattlePet-0-000021E11228",
+			["added"] = 20240112123734,
+			["preferred"] = true,
+		}, -- [52]
+		{
+			["petTag"] = "Q1443GC",
+			["preferred"] = true,
+			["added"] = 20240112162652,
+			["petID"] = "BattlePet-0-000021E1288F",
+		}, -- [53]
+		{
+			["petTag"] = "Q14C3B3",
+			["petID"] = "BattlePet-0-000021E19F89",
+			["added"] = 20240113142030,
+			["preferred"] = true,
+		}, -- [54]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E1B6A7",
+			["added"] = 20240113170952,
+			["petTag"] = "Q1481MP",
+		}, -- [55]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E27962",
+			["added"] = 20240114235438,
+			["petTag"] = "Q14645V",
+		}, -- [56]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E41D28",
+			["added"] = 20240118182609,
+			["petTag"] = "Q14B39L",
+		}, -- [57]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E89AAE",
+			["added"] = 20240130000756,
+			["petTag"] = "Q14445T",
+		}, -- [58]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E89AAF",
+			["added"] = 20240130000800,
+			["petTag"] = "Q144463",
+		}, -- [59]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021E920FB",
+			["added"] = 20240130184751,
+			["petTag"] = "Q1443FQ",
+		}, -- [60]
+		{
+			["petID"] = "BattlePet-0-000021E9CCDE",
+			["preferred"] = true,
+			["added"] = 20240131182009,
+			["petTag"] = "Q13A1DV",
+		}, -- [61]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021EA4659",
+			["added"] = 20240201154923,
+			["petTag"] = "Q14620U",
+		}, -- [62]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021EA7A75",
+			["added"] = 20240201205933,
+			["petTag"] = "Q14049O",
+		}, -- [63]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021EA7A80",
+			["added"] = 20240201205941,
+			["petTag"] = "Q14049N",
+		}, -- [64]
+		{
+			["petID"] = "BattlePet-0-000021EA7FD7",
+			["preferred"] = true,
+			["added"] = 20240201213225,
+			["petTag"] = "Q14B219",
+		}, -- [65]
+		{
+			["petID"] = "BattlePet-0-000021EA950D",
+			["preferred"] = true,
+			["added"] = 20240202003811,
+			["petTag"] = "Q1463BM",
+		}, -- [66]
+	},
+	["UseDefaultJournal"] = false,
 	["HideOptionTooltips"] = false,
-	["DontConfirmActiveSort"] = false,
-	["ResetExceptSearch"] = false,
+	["LowerStrata"] = true,
+	["FavoriteFilters"] = {
+		{
+			"non-rare at 25", -- [1]
+			{
+				["Other"] = {
+				},
+				["Expansion"] = {
+				},
+				["Rarity"] = {
+					true, -- [1]
+					true, -- [2]
+					true, -- [3]
+				},
+				["Moveset"] = {
+				},
+				["Favorite"] = {
+				},
+				["Collected"] = {
+				},
+				["Strong"] = {
+				},
+				["Similar"] = {
+				},
+				["Breed"] = {
+				},
+				["Script"] = {
+				},
+				["Sources"] = {
+				},
+				["Level"] = {
+					[4] = true,
+				},
+				["Tough"] = {
+				},
+				["Types"] = {
+				},
+			}, -- [2]
+		}, -- [1]
+		{
+			"Safari pets", -- [1]
+			{
+				["Other"] = {
+					["CurrentZone"] = true,
+				},
+				["Expansion"] = {
+				},
+				["Strong"] = {
+				},
+				["Moveset"] = {
+				},
+				["Favorite"] = {
+				},
+				["Collected"] = {
+					["Owned"] = true,
+				},
+				["Rarity"] = {
+				},
+				["Similar"] = {
+				},
+				["Breed"] = {
+				},
+				["Script"] = {
+				},
+				["Sources"] = {
+					[5] = true,
+				},
+				["Level"] = {
+				},
+				["Tough"] = {
+				},
+				["Types"] = {
+				},
+			}, -- [2]
+		}, -- [2]
+	},
 	["HideNotesButtonInBattle"] = false,
 	["NotesNoEsc"] = true,
-	["UseDefaultJournal"] = false,
+	["GroupOrder"] = {
+		"group:favorites", -- [1]
+		"group:none", -- [2]
+		"group:1", -- [3]
+		"group:2", -- [4]
+		"group:3", -- [5]
+		"group:4", -- [6]
+		"group:5", -- [7]
+		"group:6", -- [8]
+		"group:7", -- [9]
+	},
 	["NotesLeft"] = 19.5714282989502,
 	["NoSummonOnDblClick"] = false,
+	["PetCardInBattle"] = false,
 	["ConvertedTeams"] = {
 		"team:1", -- [1]
 		[68566] = "team:2",
@@ -411,10 +900,10 @@ Rematch5Settings = {
 		[68563] = "team:222",
 		[105898] = "team:223",
 		[141077] = "team:246",
-		[189376] = "team:227",
+		[119344] = "team:233",
 		["Low lvl fights"] = "team:274",
 		[200682] = "team:234",
-		[119344] = "team:233",
+		[116789] = "team:230",
 		[85650] = "team:228",
 		[119408] = "team:229",
 		[197336] = "team:180",
@@ -427,7 +916,7 @@ Rematch5Settings = {
 		[68564] = "team:236",
 		[105387] = "team:239",
 		[139489] = "team:238",
-		[116789] = "team:230",
+		[189376] = "team:227",
 		[140813] = "team:237",
 		[116788] = "team:235",
 		[119345] = "team:242",
@@ -455,446 +944,30 @@ Rematch5Settings = {
 		[139987] = "team:179",
 		[142054] = "team:200",
 	},
-	["FavoriteFilters"] = {
-		{
-			"non-rare at 25", -- [1]
-			{
-				["Other"] = {
-				},
-				["Expansion"] = {
-				},
-				["Rarity"] = {
-					true, -- [1]
-					true, -- [2]
-					true, -- [3]
-				},
-				["Moveset"] = {
-				},
-				["Favorite"] = {
-				},
-				["Collected"] = {
-				},
-				["Strong"] = {
-				},
-				["Similar"] = {
-				},
-				["Breed"] = {
-				},
-				["Script"] = {
-				},
-				["Sources"] = {
-				},
-				["Level"] = {
-					[4] = true,
-				},
-				["Tough"] = {
-				},
-				["Types"] = {
-				},
-			}, -- [2]
-		}, -- [1]
-		{
-			"Safari pets", -- [1]
-			{
-				["Other"] = {
-					["CurrentZone"] = true,
-				},
-				["Expansion"] = {
-				},
-				["Strong"] = {
-				},
-				["Moveset"] = {
-				},
-				["Favorite"] = {
-				},
-				["Collected"] = {
-					["Owned"] = true,
-				},
-				["Rarity"] = {
-				},
-				["Similar"] = {
-				},
-				["Breed"] = {
-				},
-				["Script"] = {
-				},
-				["Sources"] = {
-					[5] = true,
-				},
-				["Level"] = {
-				},
-				["Tough"] = {
-				},
-				["Types"] = {
-				},
-			}, -- [2]
-		}, -- [2]
-	},
-	["GroupOrder"] = {
-		"group:favorites", -- [1]
-		"group:none", -- [2]
-		"group:1", -- [3]
-		"group:2", -- [4]
-		"group:3", -- [5]
-		"group:4", -- [6]
-		"group:5", -- [7]
-		"group:6", -- [8]
-		"group:7", -- [9]
-	},
+	["YPos"] = 910.477294921875,
 	["MinimapButtonPosition"] = -162,
-	["PetCardInBattle"] = false,
-	["LowerStrata"] = true,
-	["YPos"] = 921.90576171875,
+	["ResetExceptSearch"] = false,
+	["HideLevelingBadges"] = false,
+	["DontConfirmActiveSort"] = false,
 	["DontMinTabToggle"] = false,
 	["QueueSortOrder"] = 2,
 	["CardBehavior"] = "Normal",
-	["LevelingQueue"] = {
-		{
-			["preferred"] = true,
-			["petID"] = "BattlePet-0-000021CE14CD",
-			["added"] = 20231209213030,
-			["petTag"] = "Q1433GD",
-		}, -- [1]
-		{
-			["preferred"] = true,
-			["petID"] = "BattlePet-0-000021A1E76F",
-			["added"] = 20231130040746,
-			["petTag"] = "Q14A211",
-		}, -- [2]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-000021D23A26",
-			["added"] = 20231217183708,
-			["petTag"] = "Q1433GG",
-		}, -- [3]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-000021D0270B",
-			["added"] = 20231213165106,
-			["petTag"] = "Q1433DR",
-		}, -- [4]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-000021D805E3",
-			["added"] = 20231226183806,
-			["petTag"] = "Q1433GI",
-		}, -- [5]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-0000210B58A0",
-			["added"] = 20231130040631,
-			["petTag"] = "Q1442CM",
-		}, -- [6]
-		{
-			["petID"] = "BattlePet-0-00000E0BBEF5",
-			["preferred"] = false,
-			["added"] = 20231130040552,
-			["petTag"] = "Q1491IR",
-		}, -- [7]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-00000E0BBD4A",
-			["added"] = 20231130040542,
-			["petTag"] = "Q144141",
-		}, -- [8]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-0000210533A4",
-			["added"] = 20231130040612,
-			["petTag"] = "Q1392R4",
-		}, -- [9]
-		{
-			["petID"] = "BattlePet-0-000021C91C6F",
-			["preferred"] = false,
-			["added"] = 20231202001105,
-			["petTag"] = "Q14338E",
-		}, -- [10]
-		{
-			["petID"] = "BattlePet-0-000021C92098",
-			["petTag"] = "Q1433E3",
-			["added"] = 20231202004735,
-			["preferred"] = false,
-		}, -- [11]
-		{
-			["petID"] = "BattlePet-0-000021C9209B",
-			["petTag"] = "Q1433DS",
-			["added"] = 20231202004751,
-			["preferred"] = false,
-		}, -- [12]
-		{
-			["petID"] = "BattlePet-0-000021C92DBD",
-			["petTag"] = "Q13639K",
-			["added"] = 20231202041427,
-			["preferred"] = false,
-		}, -- [13]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14535N",
-			["added"] = 20231203013747,
-			["petID"] = "BattlePet-0-000021C9E793",
-		}, -- [14]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14446N",
-			["added"] = 20231203013819,
-			["petID"] = "BattlePet-0-000021C9E7A3",
-		}, -- [15]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14546H",
-			["added"] = 20231203164757,
-			["petID"] = "BattlePet-0-000021CA50EA",
-		}, -- [16]
-		{
-			["petID"] = "BattlePet-0-000021CB6B88",
-			["petTag"] = "Q144468",
-			["added"] = 20231205130403,
-			["preferred"] = false,
-		}, -- [17]
-		{
-			["petID"] = "BattlePet-0-000021CBCDA8",
-			["petTag"] = "Q144462",
-			["added"] = 20231205204117,
-			["preferred"] = false,
-		}, -- [18]
-		{
-			["petID"] = "BattlePet-0-000021CBCF9F",
-			["petTag"] = "Q143467",
-			["added"] = 20231205204905,
-			["preferred"] = false,
-		}, -- [19]
-		{
-			["petID"] = "BattlePet-0-000021CCDFD9",
-			["petTag"] = "Q14B23E",
-			["added"] = 20231207165338,
-			["preferred"] = false,
-		}, -- [20]
-		{
-			["petID"] = "BattlePet-0-000021CDF5C8",
-			["petTag"] = "Q14446C",
-			["added"] = 20231209174459,
-			["preferred"] = false,
-		}, -- [21]
-		{
-			["petID"] = "BattlePet-0-000021D17397",
-			["petTag"] = "Q1463AN",
-			["added"] = 20231216132858,
-			["preferred"] = false,
-		}, -- [22]
-		{
-			["petID"] = "BattlePet-0-000021D1B244",
-			["petTag"] = "Q14CAH",
-			["added"] = 20231216205103,
-			["preferred"] = false,
-		}, -- [23]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14937D",
-			["added"] = 20231218024655,
-			["petID"] = "BattlePet-0-000021D2703B",
-		}, -- [24]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14538J",
-			["added"] = 20231218154710,
-			["petID"] = "BattlePet-0-000021D2A98C",
-		}, -- [25]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q1483DN",
-			["added"] = 20231218155617,
-			["petID"] = "BattlePet-0-000021D2AA99",
-		}, -- [26]
-		{
-			["petID"] = "BattlePet-0-000021D3617E",
-			["petTag"] = "Q14C46I",
-			["added"] = 20231219190048,
-			["preferred"] = false,
-		}, -- [27]
-		{
-			["petID"] = "BattlePet-0-000021D37FDD",
-			["petTag"] = "Q1431T0",
-			["added"] = 20231219213335,
-			["preferred"] = false,
-		}, -- [28]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q1471T6",
-			["added"] = 20231219213338,
-			["petID"] = "BattlePet-0-000021D37FE0",
-		}, -- [29]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14C365",
-			["added"] = 20231220223103,
-			["petID"] = "BattlePet-0-000021D4259C",
-		}, -- [30]
-		{
-			["petID"] = "BattlePet-0-000021D4734E",
-			["petTag"] = "Q14816H",
-			["added"] = 20231221152940,
-			["preferred"] = false,
-		}, -- [31]
-		{
-			["petID"] = "BattlePet-0-000021D48012",
-			["petTag"] = "Q1433CK",
-			["added"] = 20231221171027,
-			["preferred"] = false,
-		}, -- [32]
-		{
-			["petID"] = "BattlePet-0-000021D9547D",
-			["petTag"] = "Q14436Q",
-			["added"] = 20231228170711,
-			["preferred"] = false,
-		}, -- [33]
-		{
-			["petID"] = "BattlePet-0-000021D955B2",
-			["petTag"] = "Q148384",
-			["added"] = 20231228171522,
-			["preferred"] = false,
-		}, -- [34]
-		{
-			["petID"] = "BattlePet-0-000021DAC77E",
-			["petTag"] = "Q13337U",
-			["added"] = 20231230234254,
-			["preferred"] = false,
-		}, -- [35]
-		{
-			["petID"] = "BattlePet-0-000021DAD846",
-			["petTag"] = "Q14538H",
-			["added"] = 20231231031147,
-			["preferred"] = false,
-		}, -- [36]
-		{
-			["petID"] = "BattlePet-0-000021DAD847",
-			["petTag"] = "Q14535O",
-			["added"] = 20231231031148,
-			["preferred"] = false,
-		}, -- [37]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14538I",
-			["added"] = 20231231031148,
-			["petID"] = "BattlePet-0-000021DAD848",
-		}, -- [38]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q14538G",
-			["added"] = 20231231031149,
-			["petID"] = "BattlePet-0-000021DAD849",
-		}, -- [39]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q149371",
-			["added"] = 20240101125244,
-			["petID"] = "BattlePet-0-000021DBA714",
-		}, -- [40]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q1392R4",
-			["added"] = 20240101193335,
-			["petID"] = "BattlePet-0-0000210D9DCD",
-		}, -- [41]
-		{
-			["preferred"] = false,
-			["petTag"] = "Q1431B9",
-			["added"] = 20240101201612,
-			["petID"] = "BattlePet-0-00000E0BBEB7",
-		}, -- [42]
-		{
-			["petID"] = "BattlePet-0-000010125055",
-			["petTag"] = "Q14323D",
-			["added"] = 20240101220738,
-			["preferred"] = false,
-		}, -- [43]
-		{
-			["petID"] = "BattlePet-0-000021DC0F3F",
-			["petTag"] = "Q1433AE",
-			["added"] = 20240101221841,
-			["preferred"] = false,
-		}, -- [44]
-		{
-			["petTag"] = "Q14737R",
-			["petID"] = "BattlePet-0-000021DE9A4C",
-			["added"] = 20240107004325,
-			["preferred"] = false,
-		}, -- [45]
-		{
-			["petTag"] = "Q1463BP",
-			["preferred"] = false,
-			["added"] = 20240107134117,
-			["petID"] = "BattlePet-0-000021DECE79",
-		}, -- [46]
-		{
-			["petTag"] = "Q143395",
-			["preferred"] = false,
-			["added"] = 20240111125639,
-			["petID"] = "BattlePet-0-000021E0A2BE",
-		}, -- [47]
-		{
-			["petTag"] = "Q14337A",
-			["preferred"] = false,
-			["added"] = 20240111130119,
-			["petID"] = "BattlePet-0-000021E0A336",
-		}, -- [48]
-		{
-			["petTag"] = "Q143452",
-			["preferred"] = false,
-			["added"] = 20240111131250,
-			["petID"] = "BattlePet-0-000021E0A40B",
-		}, -- [49]
-		{
-			["petTag"] = "Q14C39J",
-			["preferred"] = false,
-			["added"] = 20240111140032,
-			["petID"] = "BattlePet-0-000021E0A8F3",
-		}, -- [50]
-		{
-			["petTag"] = "Q1433EF",
-			["petID"] = "BattlePet-0-000021E11228",
-			["added"] = 20240112123734,
-			["preferred"] = false,
-		}, -- [51]
-		{
-			["petTag"] = "Q1443GC",
-			["petID"] = "BattlePet-0-000021E1288F",
-			["added"] = 20240112162652,
-			["preferred"] = false,
-		}, -- [52]
-		{
-			["petTag"] = "Q14C3B3",
-			["preferred"] = false,
-			["added"] = 20240113142030,
-			["petID"] = "BattlePet-0-000021E19F89",
-		}, -- [53]
-		{
-			["petTag"] = "Q1481MP",
-			["petID"] = "BattlePet-0-000021E1B6A7",
-			["added"] = 20240113170952,
-			["preferred"] = false,
-		}, -- [54]
-		{
-			["preferred"] = false,
-			["petID"] = "BattlePet-0-000021E27962",
-			["added"] = 20240114235438,
-			["petTag"] = "Q14645V",
-		}, -- [55]
-	},
-	["QueueDoubleClick"] = true,
-	["LastOpenLayout"] = "3-teams",
 	["StickyNewPets"] = false,
 	["PetCardShowExpansionStat"] = false,
-	["ImportConflictOverwrite"] = true,
+	["InteractOnTarget"] = 0,
+	["HideNonBattlePets"] = false,
+	["PrioritizeBreedOnImport"] = true,
+	["ImportConflictOverwrite"] = false,
 	["ExpandedGroups"] = {
 		["group:none"] = true,
+		["group:favorites"] = true,
 		["group:7"] = true,
 	},
 	["DontWarnMissing"] = false,
-	["InteractOnTarget"] = 0,
-	["ShowAbilityNumbers"] = true,
+	["HideMarkerBadges"] = false,
+	["ShowNewGroupTab"] = true,
 	["HideTooltips"] = false,
-	["PetNotes"] = {
-	},
+	["NotesNoEscFix"] = true,
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -919,12 +992,12 @@ Rematch5Settings = {
 		},
 		["Rarity"] = {
 		},
-		["RawSearchText"] = "\"Snoots\"",
+		["RawSearchText"] = "\"Tinytron\"",
 		["Similar"] = {
 		},
 		["Search"] = {
-			["Pattern"] = "^[sS][nN][oO][oO][tT][sS]$",
-			["Length"] = 8,
+			["Pattern"] = "^[tT][iI][nN][yY][tT][rR][oO][nN]$",
+			["Length"] = 10,
 		},
 		["Breed"] = {
 		},
@@ -938,20 +1011,20 @@ Rematch5Settings = {
 		},
 	},
 	["SortByNickname"] = false,
-	["NotesNoEscFix"] = true,
+	["LoadHealthiestAny"] = false,
 	["NotesBottom"] = 458.4285888671875,
 	["WasShownOnLogout"] = false,
-	["LoadHealthiestAny"] = false,
-	["CompactPetList"] = true,
+	["WarnWhenRandomNot25"] = false,
+	["AutoWinRecordPVPOnly"] = false,
 	["QueueSkipDead"] = true,
 	["LockNotesPosition"] = true,
 	["PetMarkers"] = {
 	},
-	["HideBreedsLists"] = false,
-	["ShowLoadedTeamPreferences"] = true,
+	["HideNotesBadges"] = false,
+	["BarChartCategory"] = 9,
 	["QueueAutoLearnRare"] = false,
-	["ClickToDrag"] = false,
-	["NotesWidth"] = 257.9999389648438,
+	["RandomAbilitiesToo"] = false,
+	["ShowLoadedTeamPreferences"] = true,
 	["ReverseToolbar"] = false,
 	["ExpandedOptionsHeaders"] = {
 	},
@@ -15752,14 +15825,14 @@ Rematch4Settings = {
 			243, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBF21"] = {
-			10, -- [1]
+		["BattlePet-0-00000E0BBE76"] = {
+			2, -- [1]
 			true, -- [2]
-			1975, -- [3]
+			817, -- [3]
 			25, -- [4]
-			1546, -- [5]
+			1627, -- [5]
 			289, -- [6]
-			260, -- [7]
+			244, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-000021241BBB"] = {
@@ -15772,15 +15845,15 @@ Rematch4Settings = {
 			219, -- [7]
 			2, -- [8]
 		},
-		["BattlePet-0-00000E0BBE76"] = {
-			2, -- [1]
+		["BattlePet-0-00000E0BBEF9"] = {
+			1, -- [1]
 			true, -- [2]
-			817, -- [3]
-			25, -- [4]
-			1627, -- [5]
-			289, -- [6]
-			244, -- [7]
-			4, -- [8]
+			1913, -- [3]
+			23, -- [4]
+			1273, -- [5]
+			235, -- [6]
+			235, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBDC9"] = {
 			1, -- [1]
@@ -15912,6 +15985,16 @@ Rematch4Settings = {
 			259, -- [7]
 			3, -- [8]
 		},
+		["BattlePet-0-000021A14C46"] = {
+			1, -- [1]
+			true, -- [2]
+			2373, -- [3]
+			23, -- [4]
+			1204, -- [5]
+			276, -- [6]
+			221, -- [7]
+			3, -- [8]
+		},
 		["BattlePet-0-00000E0BBF03"] = {
 			1, -- [1]
 			true, -- [2]
@@ -15921,16 +16004,6 @@ Rematch4Settings = {
 			232, -- [6]
 			246, -- [7]
 			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBDE6"] = {
-			1, -- [1]
-			true, -- [2]
-			1073, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			273, -- [6]
-			273, -- [7]
-			4, -- [8]
 		},
 		["BattlePet-0-00002107EE9F"] = {
 			4, -- [1]
@@ -15972,15 +16045,15 @@ Rematch4Settings = {
 			211, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021A14C46"] = {
+		["BattlePet-0-00000E0BBDE6"] = {
 			1, -- [1]
 			true, -- [2]
-			2373, -- [3]
-			23, -- [4]
-			1204, -- [5]
-			276, -- [6]
-			221, -- [7]
-			3, -- [8]
+			1073, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			273, -- [6]
+			273, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE05"] = {
 			1, -- [1]
@@ -16102,15 +16175,15 @@ Rematch4Settings = {
 			289, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEF9"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBF21"] = {
+			10, -- [1]
 			true, -- [2]
-			1913, -- [3]
-			23, -- [4]
-			1273, -- [5]
-			235, -- [6]
-			235, -- [7]
-			3, -- [8]
+			1975, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			289, -- [6]
+			260, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCC4"] = {
 			1, -- [1]

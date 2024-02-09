@@ -20,37 +20,41 @@ DataStore_AuctionsDB = {
 	},
 	["global"] = {
 		["Characters"] = {
-			["Default.Argent Dawn.Flumina"] = {
-				["lastUpdate"] = 1705291496,
-				["lastVisitDate"] = "2024/01/14 22:04",
-			},
-			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1705294447,
-				["lastVisitDate"] = "2024/01/14 22:54",
-			},
 			["Default.Argent Dawn.Headcut"] = {
-				["lastUpdate"] = 1705349378,
-				["lastVisitDate"] = "2024/01/15 14:09",
+				["lastUpdate"] = 1707282087,
+				["lastVisitDate"] = "2024/02/06 23:01",
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["lastUpdate"] = 1705373496,
-				["lastVisitDate"] = "2024/01/15 20:51",
-			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["lastUpdate"] = 1705439121,
-				["lastVisitDate"] = "2024/01/16 15:05",
-			},
-			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1705347912,
-				["lastVisitDate"] = "2024/01/15 13:45",
+				["lastUpdate"] = 1706844267,
+				["lastVisitDate"] = "2024/02/01 21:23",
 			},
 			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1704428424,
-				["lastVisitDate"] = "2024/01/04 22:20",
+				["lastUpdate"] = 1706687741,
+				["lastVisitDate"] = "2024/01/31 01:55",
+			},
+			["Default.Argent Dawn.Alluvium"] = {
+				["lastUpdate"] = 1705473029,
+				["lastVisitDate"] = "2024/01/17 00:30",
+			},
+			["Default.Argent Dawn.Flumina"] = {
+				["lastUpdate"] = 1706720554,
+				["lastVisitDate"] = "2024/01/31 11:02",
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1704861187,
-				["lastVisitDate"] = "2024/01/09 22:32",
+				["lastUpdate"] = 1707425958,
+				["lastVisitDate"] = "2024/02/08 14:59",
+			},
+			["Default.Argent Dawn.Estuary"] = {
+				["lastUpdate"] = 1706925117,
+				["lastVisitDate"] = "2024/02/02 19:51",
+			},
+			["Default.Argent Dawn.Stream"] = {
+				["lastUpdate"] = 1705700620,
+				["lastVisitDate"] = "2024/01/19 15:43",
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["lastUpdate"] = 1707285809,
+				["lastVisitDate"] = "2024/02/07 00:03",
 			},
 		},
 	},

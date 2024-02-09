@@ -36,13 +36,15 @@ DevToolDatabase = {
 		},
 		["Alluvium - Argent Dawn"] = {
 			["history"] = {
-				"LibOpenRaid", -- [1]
-				"DevTool", -- [2]
-				"find LFR", -- [3]
-				"find SLASH", -- [4]
-				"find Data DevTool", -- [5]
-				"startswith DevTool", -- [6]
-				"DevTool.settings.history", -- [7]
+				"DataStore.IsQuestCompletedBy(DataStore:GetCharacterTable(\"DataStore_Quests\", \"Headcut\"), 70516)", -- [1]
+				"ASDFJKL", -- [2]
+				"LibOpenRaid", -- [3]
+				"DevTool", -- [4]
+				"find LFR", -- [5]
+				"find SLASH", -- [6]
+				"find Data DevTool", -- [7]
+				"startswith DevTool", -- [8]
+				"DevTool.settings.history", -- [9]
 			},
 			["collResizeWidth"] = 249.9998779296875,
 		},
@@ -76,6 +78,7 @@ DevToolDatabase = {
 		["Alandere - Argent Dawn"] = {
 		},
 		["Flumina - Argent Dawn"] = {
+			["collResizeWidth"] = 249.999755859375,
 			["history"] = {
 				"WeakAuras", -- [1]
 				"WeakAurasPrivate", -- [2]
@@ -86,7 +89,6 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 				"DevTool.settings.history", -- [8]
 			},
-			["collResizeWidth"] = 249.999755859375,
 		},
 		["Estuary - Argent Dawn"] = {
 		},

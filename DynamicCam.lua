@@ -54,8 +54,8 @@ DynamicCamDB = {
 		["Tinyrivers - Kel'Thuzad"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
@@ -66,7 +66,7 @@ DynamicCamDB = {
 		["Edgyrivers - Kel'Thuzad"] = "Serenerivers - Arthas",
 		["Riparium - Argent Dawn"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
@@ -113,7 +113,6 @@ DynamicCamDB = {
 							["test_cameraDynamicPitch"] = 0,
 						},
 					},
-					["name"] = "World (Combat)",
 					["condition"] = "return not IsInInstance() and UnitAffectingCombat(\"player\");",
 					["viewZoom"] = {
 						["viewZoomType"] = "view",
@@ -121,6 +120,7 @@ DynamicCamDB = {
 						["viewNumber"] = 5,
 						["enabled"] = true,
 					},
+					["name"] = "World (Combat)",
 				},
 				["302"] = {
 					["situationSettings"] = {
@@ -128,7 +128,6 @@ DynamicCamDB = {
 							["test_cameraDynamicPitch"] = 1,
 						},
 					},
-					["delay"] = 2,
 					["condition"] = "return (UnitChannelInfo(\"player\") == GetSpellInfo(7620))",
 					["viewZoom"] = {
 						["enabled"] = true,
@@ -137,8 +136,11 @@ DynamicCamDB = {
 						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 7,
 					},
+					["delay"] = 2,
 				},
 				["005"] = {
+					["condition"] = "return not IsResting() and not IsInInstance() and IsIndoors();",
+					["name"] = "World (Indoors)",
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "in",
@@ -146,10 +148,10 @@ DynamicCamDB = {
 						["zoomTransitionTime"] = 0.75,
 						["zoomTimeIsMax"] = true,
 					},
-					["condition"] = "return not IsResting() and not IsInInstance() and IsIndoors();",
-					["name"] = "World (Indoors)",
 				},
 				["002"] = {
+					["condition"] = "return IsResting() and IsIndoors();",
+					["name"] = "City (Indoors)",
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "in",
@@ -158,29 +160,16 @@ DynamicCamDB = {
 						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 8,
 					},
-					["condition"] = "return IsResting() and IsIndoors();",
-					["name"] = "City (Indoors)",
 				},
-				["101"] = {
+				["031"] = {
+					["enabled"] = true,
 					["situationSettings"] = {
 						["cvars"] = {
-							["test_cameraHeadMovementStrength"] = 0,
-							["test_cameraOverShoulder"] = -1,
+							["test_cameraDynamicPitch"] = 0,
 						},
 					},
-					["condition"] = "return UnitOnTaxi(\"player\");",
-					["viewZoom"] = {
-						["enabled"] = true,
-						["zoomMax"] = 20,
-						["zoomTransitionTime"] = 0.75,
-						["zoomTimeIsMax"] = true,
-						["zoomValue"] = 15,
-					},
-					["hideUI"] = {
-						["enabled"] = true,
-						["hideEntireUI"] = true,
-						["fadeOpacity"] = 0,
-					},
+					["name"] = "Raid (Outdoors)",
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
 				},
 				["030"] = {
 					["enabled"] = true,
@@ -221,6 +210,13 @@ DynamicCamDB = {
 					},
 				},
 				["301"] = {
+					["condition"] = "return (MailFrame and MailFrame:IsShown())",
+					["priority"] = 20,
+					["events"] = {
+						"MAIL_CLOSED", -- [1]
+						"MAIL_SHOW", -- [2]
+						"GOSSIP_CLOSED", -- [3]
+					},
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "in",
@@ -229,26 +225,19 @@ DynamicCamDB = {
 						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 4,
 					},
-					["priority"] = 20,
-					["condition"] = "return (MailFrame and MailFrame:IsShown())",
-					["events"] = {
-						"MAIL_CLOSED", -- [1]
-						"MAIL_SHOW", -- [2]
-						"GOSSIP_CLOSED", -- [3]
-					},
 				},
 				["060"] = {
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"pvp\");",
 				},
-				["031"] = {
+				["034"] = {
 					["enabled"] = true,
 					["situationSettings"] = {
 						["cvars"] = {
 							["test_cameraDynamicPitch"] = 0,
 						},
 					},
-					["name"] = "Raid (Outdoors)",
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
+					["name"] = "Raid (Combat, Trash)",
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
 				},
 				["021"] = {
 					["enabled"] = true,
@@ -381,6 +370,11 @@ DynamicCamDB = {
 							["test_cameraOverShoulder"] = 0,
 						},
 					},
+					["condition"] = "return IsMounted();",
+					["events"] = {
+						"SPELL_UPDATE_USABLE", -- [1]
+						"UNIT_AURA", -- [2]
+					},
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "out",
@@ -388,11 +382,6 @@ DynamicCamDB = {
 						["zoomTransitionTime"] = 0.75,
 						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 30,
-					},
-					["condition"] = "return IsMounted();",
-					["events"] = {
-						"SPELL_UPDATE_USABLE", -- [1]
-						"UNIT_AURA", -- [2]
 					},
 				},
 				["201"] = {
@@ -409,15 +398,26 @@ DynamicCamDB = {
 						},
 					},
 				},
-				["034"] = {
-					["enabled"] = true,
+				["101"] = {
 					["situationSettings"] = {
 						["cvars"] = {
-							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = -1,
 						},
 					},
-					["name"] = "Raid (Combat, Trash)",
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
+					["condition"] = "return UnitOnTaxi(\"player\");",
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
+						["zoomValue"] = 15,
+					},
+					["hideUI"] = {
+						["enabled"] = true,
+						["hideEntireUI"] = true,
+						["fadeOpacity"] = 0,
+					},
 				},
 			},
 			["defaultVersion"] = 1,
@@ -737,11 +737,13 @@ DynamicCamDB = {
 	},
 }
 minZoomValues = {
-	[926251] = 1.392735123634338,
-	[921844] = 0.763675332069397,
-	[4207724] = 1.455006241798401,
 	[1593999] = 0.8225364685058594,
-	[4220448] = 0.7266082763671875,
-	[535052] = 1.114261507987976,
 	[1810676] = 0.8333761692047119,
+	[4207724] = 1.455006241798401,
+	[4220448] = 0.7266082763671875,
+	[926251] = 1.392735123634338,
+	[1968587] = 1.056858897209168,
+	[535052] = 1.114261507987976,
+	[921844] = 0.763675332069397,
+	[1733758] = 0.7505109906196594,
 }

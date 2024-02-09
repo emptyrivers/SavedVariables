@@ -22,70 +22,82 @@ DataStore_AgendaDB = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2024-01-23",
+			["NextWeeklyReset"] = "2024-02-13",
 		},
 		["Characters"] = {
 			["Default.Argent Dawn.Headcut"] = {
-				["lastUpdate"] = 1705440376,
+				["DungeonIDs"] = {
+					["Amirdrassil, the Dream's Hope Heroic|834653574"] = "389801|1707446599|0|1",
+				},
+				["lastUpdate"] = 1707446599,
+				["LFGDungeons"] = {
+					["2503.Tindral Sageswift, Seer of the Flame"] = true,
+					["2503.Larodar, Keeper of the Flame"] = true,
+					["2503.Nymue, Weaver of the Cycle"] = true,
+					["2503.Smolderon"] = true,
+					["2503.Volcoross"] = true,
+					["2503.Council of Dreams"] = true,
+					["2503.Igira the Cruel"] = true,
+					["2503.Gnarlroot"] = true,
+					["2503.Count"] = 8,
+				},
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["Calendar"] = {
-					"2024-01-17|20:30|WWPC|0|7", -- [1]
-					"2024-01-19|21:30|WWPC|0|7", -- [2]
-					"2024-01-24|20:30|WWPC|0|7", -- [3]
-					"2024-01-26|21:30|WWPC|0|7", -- [4]
-					"2024-01-31|20:30|WWPC|0|7", -- [5]
-					"2024-02-02|21:30|WWPC|0|7", -- [6]
-					"2024-02-07|20:30|WWPC|0|7", -- [7]
-					"2024-02-09|21:30|WWPC|0|7", -- [8]
+					"2024-02-09|21:30|WWPC|0|7", -- [1]
+					"2024-02-14|20:30|WWPC|0|7", -- [2]
+					"2024-02-16|21:30|WWPC|0|7", -- [3]
+					"2024-02-21|20:30|WWPC|0|7", -- [4]
+					"2024-02-23|21:30|WWPC|0|7", -- [5]
+					"2024-02-28|20:30|WWPC|0|7", -- [6]
+					"2024-03-01|21:30|WWPC|0|7", -- [7]
+					"2024-03-06|20:30|WWPC|0|7", -- [8]
+					"2024-03-08|21:30|WWPC|0|7", -- [9]
+					"2024-03-13|20:30|WWPC|0|7", -- [10]
+					"2024-03-15|21:30|WWPC|0|7", -- [11]
+					"2024-03-20|20:30|WWPC|0|7", -- [12]
+					"2024-03-22|21:30|WWPC|0|7", -- [13]
 				},
-				["lastUpdate"] = 1705440209,
+				["lastUpdate"] = 1707285594,
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["Calendar"] = {
-					"2024-01-17|20:30|WWPC|0|7", -- [1]
-					"2024-01-19|21:30|WWPC|0|7", -- [2]
-					"2024-01-24|20:30|WWPC|0|7", -- [3]
-					"2024-01-26|21:30|WWPC|0|7", -- [4]
-					"2024-01-31|20:30|WWPC|0|7", -- [5]
-					"2024-02-02|21:30|WWPC|0|7", -- [6]
-					"2024-02-07|20:30|WWPC|0|7", -- [7]
-					"2024-02-09|21:30|WWPC|0|7", -- [8]
+					"2024-02-09|21:30|WWPC|0|7", -- [1]
 				},
-				["lastUpdate"] = 1705439937,
+				["lastUpdate"] = 1707286089,
 			},
 			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1705361101,
+				["lastUpdate"] = 1707448112,
+			},
+			["Default.Argent Dawn.Stream"] = {
+				["lastUpdate"] = 1707446922,
 			},
 			["Default.Argent Dawn.Flumina"] = {
-				["lastUpdate"] = 1705438870,
-			},
-			["Default.Argent Dawn.Benthos"] = {
-				["lastUpdate"] = 1705192246,
+				["lastUpdate"] = 1707285068,
 			},
 			["Default.Korgath.Naturerivers"] = {
 				["lastUpdate"] = 1704737966,
 			},
-			["Default.Argent Dawn.Stream"] = {
-				["lastUpdate"] = 1704823396,
+			["Default.Argent Dawn.Benthos"] = {
+				["lastUpdate"] = 1705192246,
 			},
 			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1705447253,
+				["lastUpdate"] = 1707454812,
 			},
 			["Default.Argent Dawn.Cataracts"] = {
-				["lastUpdate"] = 1705281482,
+				["lastUpdate"] = 1706055581,
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1705440000,
+				["lastUpdate"] = 1707425935,
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1705440106,
+				["lastUpdate"] = 1707441107,
 			},
 			["Default.Argent Dawn.Mangrove"] = {
-				["lastUpdate"] = 1705193329,
+				["lastUpdate"] = 1707446150,
 			},
 			["Default.Argent Dawn.Karst"] = {
-				["lastUpdate"] = 1704486857,
+				["lastUpdate"] = 1707183754,
 			},
 		},
 	},

@@ -29,6 +29,66 @@ NarciBarberShopDB = {
 			},
 			["realmName"] = "Argent Dawn",
 		},
+		["0EEA1695"] = {
+			["playerName"] = "Riparium",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				["chrModel182"] = {
+				},
+				["chrModel149"] = {
+				},
+				["chrModel129"] = {
+				},
+				["chrModel184"] = {
+				},
+				[29] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["chrModel148"] = {
+				},
+				["chrModel183"] = {
+				},
+				["chrModel181"] = {
+				},
+				["chrModel123"] = {
+				},
+				["chrModel126"] = {
+				},
+				["chrModel176"] = {
+				},
+				["chrModel188"] = {
+				},
+				["chrModel125"] = {
+				},
+				["chrModel124"] = {
+				},
+				["chrModel180"] = {
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+		["0EE8A760"] = {
+			["playerName"] = "Estuary",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[22] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["alternateForm"] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
 		["0EE5568B"] = {
 			["playerName"] = "Alluvium",
 			["realmID"] = "75",
@@ -75,7 +135,6 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 					{
-						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["data"] = {
 							{
 								1612, -- [1]
@@ -155,6 +214,7 @@ NarciBarberShopDB = {
 							}, -- [19]
 						},
 						["name"] = "New Look #1",
+						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["timeCreated"] = 1672083038,
 					}, -- [1]
 				},
@@ -176,43 +236,17 @@ NarciBarberShopDB = {
 			},
 			["realmName"] = "Argent Dawn",
 		},
-		["0EEA1695"] = {
-			["playerName"] = "Riparium",
+		["0EEA1257"] = {
+			["playerName"] = "Confluence",
 			["realmID"] = "75",
 			["SavedLooks"] = {
-				["chrModel182"] = {
-				},
-				["chrModel149"] = {
-				},
-				["chrModel129"] = {
-				},
-				["chrModel184"] = {
-				},
-				[29] = {
+				[30] = {
 					["male"] = {
 					},
 					["female"] = {
 					},
 				},
-				["chrModel148"] = {
-				},
-				["chrModel183"] = {
-				},
-				["chrModel181"] = {
-				},
-				["chrModel123"] = {
-				},
-				["chrModel126"] = {
-				},
-				["chrModel176"] = {
-				},
-				["chrModel188"] = {
-				},
-				["chrModel125"] = {
-				},
 				["chrModel124"] = {
-				},
-				["chrModel180"] = {
 				},
 			},
 			["realmName"] = "Argent Dawn",

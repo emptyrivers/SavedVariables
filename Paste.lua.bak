@@ -355,6 +355,10 @@ PasteDB = {
 		},
 		["Confluence - Argent Dawn"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+			},
 		},
 		["Edgyrivers - Arthas"] = {
 			["loaded"] = true,
@@ -377,6 +381,10 @@ PasteDB = {
 		},
 		["Alluvium - Argent Dawn"] = {
 			["loaded"] = true,
+			["where"] = "Default",
+			["whispertarget"] = "",
+			["pos"] = {
+			},
 		},
 		["Savattellir - Arthas"] = {
 			["loaded"] = true,

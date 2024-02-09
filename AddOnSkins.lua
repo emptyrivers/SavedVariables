@@ -48,9 +48,9 @@ AddOnSkinsDS = {
 	[4.68] = {
 		["Libraries"] = true,
 		["MinimalArchaeology"] = true,
-		["PremadeGroupsFilter"] = true,
 		["WowLua"] = true,
 		["BtWQuests"] = true,
+		["PremadeGroupsFilter"] = true,
 		["tdBattlePetScript"] = true,
 	},
 }

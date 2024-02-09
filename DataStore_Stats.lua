@@ -28,68 +28,40 @@ DataStore_StatsDB = {
 					["MaxPower"] = "11|100",
 					["Defense"] = "0|0|6.2381000518799|0|10|0",
 					["PVP"] = "125|0",
-					["Base"] = "898|2087|39373|13081|0",
-					["Spell"] = "13081|14756|0|23.856063842773|3952|12800",
+					["Base"] = "898|2087|39373|13911|0",
+					["Spell"] = "13911|15692|0|23.856063842773|3952|12800",
 				},
 				["dungeonScore"] = 2588,
-				["lastUpdate"] = 1705440435,
+				["lastUpdate"] = 1707446599,
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["level"] = 12,
-						["mapID"] = 244,
+						["mapID"] = 248,
+						["level"] = 17,
 					}, -- [1]
 					{
-						["level"] = 12,
-						["mapID"] = 456,
+						["mapID"] = 199,
+						["level"] = 17,
 					}, -- [2]
-					{
-						["level"] = 11,
-						["mapID"] = 248,
-					}, -- [3]
-					{
-						["level"] = 11,
-						["mapID"] = 464,
-					}, -- [4]
-					{
-						["level"] = 11,
-						["mapID"] = 198,
-					}, -- [5]
-					{
-						["level"] = 11,
-						["mapID"] = 464,
-					}, -- [6]
 				},
 				["Dungeons"] = {
 					[198] = {
-						["seasonBestLevel"] = 17,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 11,
-							}, -- [1]
 						},
+						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 1327,
 					},
 					[206] = {
 					},
 					[244] = {
-						["seasonBestLevel"] = 20,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 12,
-							}, -- [1]
 						},
+						["seasonBestLevel"] = 20,
 						["seasonBestTimeInSeconds"] = 1550,
 					},
 					[456] = {
-						["seasonBestLevel"] = 20,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 12,
-							}, -- [1]
 						},
+						["seasonBestLevel"] = 20,
 						["seasonBestTimeInSeconds"] = 1598,
 					},
 					[245] = {
@@ -98,43 +70,35 @@ DataStore_StatsDB = {
 						["seasonBestLevel"] = 20,
 						["seasonBestTimeInSeconds"] = 1641,
 						["seasonBestOvertimeTimeInSeconds"] = 2027,
+						["seasonBestOvertimeLevel"] = 20,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeLevel"] = 20,
 					},
 					[403] = {
 					},
 					[248] = {
-						["seasonBestLevel"] = 18,
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
-								["level"] = 11,
+								["level"] = 17,
 							}, -- [1]
 						},
+						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1640,
 					},
 					[463] = {
-						["seasonBestLevel"] = 20,
 						["weeklyRunHistory"] = {
 						},
+						["seasonBestLevel"] = 20,
 						["seasonBestTimeInSeconds"] = 1347,
 					},
 					[464] = {
 						["seasonBestLevel"] = 20,
 						["seasonBestTimeInSeconds"] = 1863,
 						["seasonBestOvertimeTimeInSeconds"] = 2242,
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 11,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 11,
-							}, -- [2]
-						},
 						["seasonBestOvertimeLevel"] = 21,
+						["weeklyRunHistory"] = {
+						},
 					},
 					[405] = {
 						["weeklyRunHistory"] = {
@@ -149,9 +113,13 @@ DataStore_StatsDB = {
 						},
 					},
 					[199] = {
-						["seasonBestLevel"] = 18,
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 17,
+							}, -- [1]
 						},
+						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1289,
 					},
 					[251] = {
@@ -162,11 +130,11 @@ DataStore_StatsDB = {
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|25.761669158936",
 					["HealthMax"] = 963333,
-					["Melee"] = "1160-1571|2.8050000667572|0|0|25.761669158936|0",
+					["Melee"] = "1131-1532|2.7330000400543|0|0|25.761669158936|0",
 					["MaxPower"] = "0|250000",
-					["Spell"] = "15335|17418|0|25.761669158936|4816|12500",
+					["Spell"] = "15391|17042|0|25.761669158936|5421|12500",
 					["PVP"] = "0|0",
-					["Base"] = "791|1610|45873|15335|0",
+					["Base"] = "791|1610|45873|15391|0",
 					["Defense"] = "0|0|3|0|0|0",
 				},
 				["Dungeons"] = {
@@ -175,14 +143,6 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1784,
 						["seasonBestOvertimeTimeInSeconds"] = 2105,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [2]
 						},
 						["seasonBestOvertimeLevel"] = 20,
 					},
@@ -191,10 +151,6 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1906,
 						["seasonBestOvertimeTimeInSeconds"] = 2048,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestOvertimeLevel"] = 21,
 					},
@@ -203,10 +159,6 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1402,
 						["seasonBestOvertimeTimeInSeconds"] = 2411,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestOvertimeLevel"] = 22,
 					},
@@ -225,10 +177,6 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1961,
 						["seasonBestOvertimeTimeInSeconds"] = 2107,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestOvertimeLevel"] = 21,
 					},
@@ -239,6 +187,10 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1926,
 						["seasonBestOvertimeTimeInSeconds"] = 2402,
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 20,
+							}, -- [1]
 						},
 						["seasonBestOvertimeLevel"] = 19,
 					},
@@ -251,14 +203,6 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1710,
 						["seasonBestOvertimeTimeInSeconds"] = 2187,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [2]
 						},
 						["seasonBestOvertimeLevel"] = 18,
 					},
@@ -267,6 +211,10 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1737,
 						["seasonBestOvertimeTimeInSeconds"] = 2524,
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 22,
+							}, -- [1]
 						},
 						["seasonBestOvertimeLevel"] = 20,
 					},
@@ -276,82 +224,37 @@ DataStore_StatsDB = {
 						["seasonBestOvertimeTimeInSeconds"] = 2245,
 						["seasonBestOvertimeLevel"] = 22,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 					},
 				},
-				["lastUpdate"] = 1705440319,
+				["lastUpdate"] = 1707285594,
+				["WeeklyActivities"] = {
+					2, -- [1]
+				},
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["level"] = 19,
-						["mapID"] = 198,
+						["level"] = 22,
+						["mapID"] = 168,
 					}, -- [1]
 					{
-						["level"] = 18,
-						["mapID"] = 244,
+						["level"] = 20,
+						["mapID"] = 248,
 					}, -- [2]
-					{
-						["level"] = 18,
-						["mapID"] = 199,
-					}, -- [3]
-					{
-						["level"] = 18,
-						["mapID"] = 463,
-					}, -- [4]
-					{
-						["level"] = 18,
-						["mapID"] = 199,
-					}, -- [5]
-					{
-						["level"] = 18,
-						["mapID"] = 456,
-					}, -- [6]
-					{
-						["level"] = 18,
-						["mapID"] = 198,
-					}, -- [7]
-					{
-						["level"] = 18,
-						["mapID"] = 464,
-					}, -- [8]
 				},
 				["dungeonScore"] = 3006,
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["mapID"] = 198,
-						["level"] = 19,
+						["mapID"] = 168,
+						["level"] = 22,
 					}, -- [1]
 					{
-						["mapID"] = 463,
-						["level"] = 18,
+						["mapID"] = 248,
+						["level"] = 20,
 					}, -- [2]
-					{
-						["mapID"] = 199,
-						["level"] = 18,
-					}, -- [3]
-					{
-						["mapID"] = 244,
-						["level"] = 18,
-					}, -- [4]
-					{
-						["mapID"] = 199,
-						["level"] = 18,
-					}, -- [5]
-					{
-						["mapID"] = 456,
-						["level"] = 18,
-					}, -- [6]
-					{
-						["mapID"] = 198,
-						["level"] = 18,
-					}, -- [7]
 				},
-				["lastUpdate"] = 1705439953,
+				["lastUpdate"] = 1707286116,
 				["SeasonBestMaps"] = {
 					[210] = {
 						["timeInSeconds"] = 1799,
@@ -421,10 +324,6 @@ DataStore_StatsDB = {
 					},
 					[456] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 					},
 					[402] = {
@@ -438,16 +337,16 @@ DataStore_StatsDB = {
 					[244] = {
 						["seasonBestLevel"] = 9,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestTimeInSeconds"] = 1093,
 					},
 					[248] = {
 						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 20,
+							}, -- [1]
 						},
 						["seasonBestTimeInSeconds"] = 901,
 					},
@@ -455,23 +354,15 @@ DataStore_StatsDB = {
 						["weeklyBestTimeInSeconds"] = 1977,
 						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 1977,
+						["weeklyBestLevel"] = 17,
+						["seasonBestOvertimeTimeInSeconds"] = 2526,
+						["seasonBestOvertimeLevel"] = 17,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeTimeInSeconds"] = 2526,
-						["weeklyBestLevel"] = 17,
-						["seasonBestOvertimeLevel"] = 17,
 					},
 					[198] = {
 						["seasonBestLevel"] = 12,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [2]
 						},
 						["seasonBestTimeInSeconds"] = 1021,
 					},
@@ -500,14 +391,6 @@ DataStore_StatsDB = {
 					[199] = {
 						["seasonBestLevel"] = 15,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [2]
 						},
 						["seasonBestTimeInSeconds"] = 1717,
 					},
@@ -515,11 +398,11 @@ DataStore_StatsDB = {
 						["weeklyBestTimeInSeconds"] = 2082,
 						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 2082,
+						["weeklyBestLevel"] = 17,
+						["seasonBestOvertimeTimeInSeconds"] = 2702,
+						["seasonBestOvertimeLevel"] = 19,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeTimeInSeconds"] = 2702,
-						["weeklyBestLevel"] = 17,
-						["seasonBestOvertimeLevel"] = 19,
 					},
 					[464] = {
 						["weeklyRunHistory"] = {
@@ -565,14 +448,14 @@ DataStore_StatsDB = {
 					},
 					[463] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 					},
 					[168] = {
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 22,
+							}, -- [1]
 						},
 					},
 					[206] = {
@@ -651,178 +534,29 @@ DataStore_StatsDB = {
 					},
 				},
 				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|26.256074905396",
-					["HealthMax"] = 593300,
-					["Melee"] = "839-1136|2.7830002307892|0|0|26.256074905396|0",
+					["Ranged"] = "1-2|0|0|0|24.750478744507",
+					["HealthMax"] = 624260,
+					["Melee"] = "946-1280|2.7920000553131|0|0|24.750478744507|0",
 					["MaxPower"] = "0|250000",
-					["Spell"] = "10817|13135|0|26.256074905396|2963|25000",
+					["Spell"] = "12099|14676|0|24.750478744507|2901|25000",
 					["PVP"] = "1|0",
-					["Base"] = "917|1422|29665|10817|0",
+					["Base"] = "917|1422|31213|12099|0",
 					["Defense"] = "0|0|3|0|0|0",
 				},
 				["dungeonScore"] = 644,
 			},
 			["Default.Argent Dawn.Karst"] = {
 				["Stats"] = {
-					["Ranged"] = "1-1|0|0|0|5",
-					["HealthMax"] = 172,
-					["Melee"] = "7-8|2.574000120163|15|0|5|0",
+					["Ranged"] = "1-2|0|0|0|16.446342468262",
+					["HealthMax"] = 1253,
+					["Melee"] = "43-52|3.1380002498627|92|0|16.446342468262|0",
 					["MaxPower"] = "1|100",
-					["Defense"] = "0|0|3|3.935133934021|10|0",
+					["Defense"] = "0|0|3|8.5127086639404|10|0",
 					["PVP"] = "0|0",
-					["Base"] = "15|14|43|17|0",
-					["Spell"] = "17|17|0|5|0|0",
+					["Base"] = "92|37|179|38|0",
+					["Spell"] = "38|39|0|16.446342468262|46|0",
 				},
-				["lastUpdate"] = 1704486894,
-			},
-			["Default.Argent Dawn.Benthos"] = {
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|14.07331943512",
-					["HealthMax"] = 428,
-					["Melee"] = "40-44|3.6000001430511|60|0|14.07331943512|0",
-					["MaxPower"] = "6|100",
-					["Spell"] = "18|18|0|14.07331943512|0|0",
-					["PVP"] = "0|0",
-					["Base"] = "60|31|107|18|0",
-					["Defense"] = "0|0|3|8.0948352813721|0|0",
-				},
-				["lastUpdate"] = 1705192273,
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["level"] = 19,
-						["mapID"] = 198,
-					}, -- [1]
-					{
-						["level"] = 18,
-						["mapID"] = 199,
-					}, -- [2]
-				},
-				["Dungeons"] = {
-					[168] = {
-					},
-					[456] = {
-					},
-					[199] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
-						},
-					},
-					[198] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-						},
-					},
-					[244] = {
-					},
-					[248] = {
-					},
-					[464] = {
-					},
-				},
-			},
-			["Default.Argent Dawn.Stream"] = {
-				["Stats"] = {
-					["Ranged"] = "600-672|2.5920000076294|1034|0|23.542654037476",
-					["HealthMax"] = 37390,
-					["Melee"] = "518-518|2.5920000076294|1034|0|23.542654037476|0",
-					["MaxPower"] = "2|100",
-					["Spell"] = "370|370|0|23.542654037476|520|0",
-					["PVP"] = "0|0",
-					["Base"] = "271|1034|1731|370|0",
-					["Defense"] = "0|0|10.051936149597|0|0|0",
-				},
-				["lastUpdate"] = 1704823497,
-				["Dungeons"] = {
-					[168] = {
-					},
-					[464] = {
-					},
-					[248] = {
-					},
-					[463] = {
-					},
-					[198] = {
-					},
-					[456] = {
-					},
-					[199] = {
-					},
-					[244] = {
-					},
-				},
-			},
-			["Default.Korgath.Naturerivers"] = {
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["mapID"] = 463,
-						["level"] = 20,
-					}, -- [1]
-					{
-						["mapID"] = 244,
-						["level"] = 19,
-					}, -- [2]
-					{
-						["mapID"] = 168,
-						["level"] = 13,
-					}, -- [3]
-				},
-				["lastUpdate"] = 1704738216,
-				["Stats"] = {
-					["Ranged"] = "258-259|0|0|0|26.758068084717",
-					["HealthMax"] = 8025,
-					["Melee"] = "280-290|3.0370001792908|145|0|26.758068084717|0",
-					["MaxPower"] = "0|4470",
-					["Spell"] = "415|434|0|26.758068084717|172|178",
-					["PVP"] = "453|0",
-					["Base"] = "59|145|535|415|0",
-					["Defense"] = "0|0|8.2947654724121|0|0|0",
-				},
-				["Dungeons"] = {
-					[168] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = false,
-								["level"] = 20,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 13,
-							}, -- [2]
-						},
-					},
-					[463] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 20,
-							}, -- [1]
-						},
-					},
-					[199] = {
-					},
-					[244] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-						},
-					},
-					[198] = {
-					},
-					[456] = {
-					},
-					[248] = {
-					},
-					[464] = {
-					},
-				},
+				["lastUpdate"] = 1707183893,
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["WeeklyRunHistoryTop10"] = {
@@ -851,7 +585,7 @@ DataStore_StatsDB = {
 						["mapID"] = 244,
 					}, -- [6]
 				},
-				["lastUpdate"] = 1705438995,
+				["lastUpdate"] = 1707285080,
 				["SeasonBestMaps"] = {
 					[210] = {
 						["texture"] = 1498160,
@@ -932,13 +666,13 @@ DataStore_StatsDB = {
 						},
 					},
 					[198] = {
-						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
 								["level"] = 19,
 							}, -- [1]
 						},
+						["seasonBestLevel"] = 2,
 						["seasonBestTimeInSeconds"] = 746,
 					},
 					[206] = {
@@ -1071,18 +805,29 @@ DataStore_StatsDB = {
 					},
 				},
 				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|15.411392211914",
-					["HealthMax"] = 566040,
-					["Melee"] = "255-428|1.404000043869|0|0|15.411392211914|0",
-					["MaxPower"] = "13|100",
-					["Spell"] = "11338|11944|0|15.411392211914|4801|12800",
-					["PVP"] = "0|0",
-					["Base"] = "1212|1732|28302|11338|0",
+					["Ranged"] = "1-2|0|0|0|14.533589363098",
+					["HealthMax"] = 580980,
+					["Melee"] = "249-418|1.3960000276566|0|0|14.533589363098|0",
+					["MaxPower"] = "0|250000",
+					["Spell"] = "11488|11800|0|14.533589363098|4922|10000",
+					["PVP"] = "2|0",
+					["Base"] = "1212|1732|29049|11488|0",
 					["Defense"] = "0|0|3|0|0|0",
 				},
 				["dungeonScore"] = 68,
 			},
-			["Default.Argent Dawn.Alluvium"] = {
+			["Default.Argent Dawn.Benthos"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|14.07331943512",
+					["HealthMax"] = 428,
+					["Melee"] = "40-44|3.6000001430511|60|0|14.07331943512|0",
+					["MaxPower"] = "6|100",
+					["Spell"] = "18|18|0|14.07331943512|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "60|31|107|18|0",
+					["Defense"] = "0|0|3|8.0948352813721|0|0",
+				},
+				["lastUpdate"] = 1705192273,
 				["WeeklyRunHistoryTop10"] = {
 					{
 						["level"] = 19,
@@ -1090,42 +835,152 @@ DataStore_StatsDB = {
 					}, -- [1]
 					{
 						["level"] = 18,
+						["mapID"] = 199,
+					}, -- [2]
+				},
+				["Dungeons"] = {
+					[168] = {
+					},
+					[456] = {
+					},
+					[199] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 18,
+							}, -- [1]
+						},
+					},
+					[198] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 19,
+							}, -- [1]
+						},
+					},
+					[244] = {
+					},
+					[248] = {
+					},
+					[464] = {
+					},
+				},
+			},
+			["Default.Korgath.Naturerivers"] = {
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["mapID"] = 463,
+						["level"] = 20,
+					}, -- [1]
+					{
 						["mapID"] = 244,
+						["level"] = 19,
 					}, -- [2]
 					{
-						["level"] = 18,
-						["mapID"] = 199,
+						["mapID"] = 168,
+						["level"] = 13,
 					}, -- [3]
+				},
+				["lastUpdate"] = 1704738216,
+				["Stats"] = {
+					["Ranged"] = "258-259|0|0|0|26.758068084717",
+					["HealthMax"] = 8025,
+					["Melee"] = "280-290|3.0370001792908|145|0|26.758068084717|0",
+					["MaxPower"] = "0|4470",
+					["Spell"] = "415|434|0|26.758068084717|172|178",
+					["PVP"] = "453|0",
+					["Base"] = "59|145|535|415|0",
+					["Defense"] = "0|0|8.2947654724121|0|0|0",
+				},
+				["Dungeons"] = {
+					[168] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = false,
+								["level"] = 20,
+							}, -- [1]
+							{
+								["completed"] = true,
+								["level"] = 13,
+							}, -- [2]
+						},
+					},
+					[463] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 20,
+							}, -- [1]
+						},
+					},
+					[199] = {
+					},
+					[244] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 19,
+							}, -- [1]
+						},
+					},
+					[198] = {
+					},
+					[456] = {
+					},
+					[248] = {
+					},
+					[464] = {
+					},
+				},
+			},
+			["Default.Argent Dawn.Stream"] = {
+				["Stats"] = {
+					["Ranged"] = "1574-1781|2.8610000610352|2505|0|22.428646087646",
+					["HealthMax"] = 121176,
+					["Melee"] = "1337-1338|2.8610000610352|2505|0|22.428646087646|0",
+					["MaxPower"] = "2|100",
+					["Spell"] = "1056|1127|0|22.428646087646|365|0",
+					["PVP"] = "0|0",
+					["Base"] = "782|2505|5610|1056|0",
+					["Defense"] = "0|0|9.0454397201538|0|0|0",
+				},
+				["lastUpdate"] = 1707446922,
+				["Dungeons"] = {
+					[168] = {
+					},
+					[464] = {
+					},
+					[248] = {
+					},
+					[463] = {
+					},
+					[198] = {
+					},
+					[456] = {
+					},
+					[199] = {
+					},
+					[244] = {
+					},
+				},
+			},
+			["Default.Argent Dawn.Alluvium"] = {
+				["WeeklyRunHistoryTop10"] = {
 					{
-						["level"] = 18,
-						["mapID"] = 463,
-					}, -- [4]
+						["mapID"] = 248,
+						["level"] = 17,
+					}, -- [1]
 					{
-						["level"] = 18,
 						["mapID"] = 199,
-					}, -- [5]
-					{
-						["level"] = 18,
-						["mapID"] = 456,
-					}, -- [6]
-					{
-						["level"] = 18,
-						["mapID"] = 198,
-					}, -- [7]
-					{
-						["level"] = 18,
-						["mapID"] = 464,
-					}, -- [8]
+						["level"] = 17,
+					}, -- [2]
 				},
 				["Dungeons"] = {
 					[2] = {
 					},
 					[456] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1534,
@@ -1134,32 +989,24 @@ DataStore_StatsDB = {
 					},
 					[244] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 949,
 					},
 					[248] = {
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 17,
+							}, -- [1]
 						},
-						["seasonBestLevel"] = 13,
-						["seasonBestTimeInSeconds"] = 1157,
+						["seasonBestLevel"] = 17,
+						["seasonBestTimeInSeconds"] = 2040,
 					},
 					[403] = {
 					},
 					[198] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [2]
 						},
 						["seasonBestLevel"] = 19,
 						["seasonBestTimeInSeconds"] = 1238,
@@ -1178,12 +1025,8 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
-								["level"] = 18,
+								["level"] = 17,
 							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [2]
 						},
 						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1280,
@@ -1206,10 +1049,6 @@ DataStore_StatsDB = {
 					},
 					[463] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1103,
@@ -1226,27 +1065,23 @@ DataStore_StatsDB = {
 					},
 					[464] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
 						},
 						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1589,
 					},
 				},
-				["lastUpdate"] = 1705448237,
+				["lastUpdate"] = 1707454953,
 				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|22.400468826294",
-					["HealthMax"] = 738220,
-					["Melee"] = "1998-2301|2.9460000991821|1422|0|22.400468826294|0",
+					["Ranged"] = "1-2|0|0|0|21.133766174316",
+					["HealthMax"] = 751560,
+					["Melee"] = "2052-2368|2.9430000782013|1422|0|21.133766174316|0",
 					["MaxPower"] = "0|250000",
 					["Defense"] = "0|0|3|0|0|0",
 					["PVP"] = "0|0",
-					["Base"] = "918|1422|36911|13321|0",
-					["Spell"] = "13321|14696|0|22.400468826294|3776|12750",
+					["Base"] = "918|1422|37578|13530|0",
+					["Spell"] = "13530|15105|0|21.133766174316|3794|12750",
 				},
-				["dungeonScore"] = 1849,
+				["dungeonScore"] = 1947,
 			},
 			["Default.Argent Dawn.Cataracts"] = {
 				["WeeklyRunHistoryTop10"] = {
@@ -1259,16 +1094,16 @@ DataStore_StatsDB = {
 						["level"] = 22,
 					}, -- [2]
 				},
-				["lastUpdate"] = 1705281482,
+				["lastUpdate"] = 1706055581,
 				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|21.292552947998",
-					["HealthMax"] = 3096,
-					["Melee"] = "106-115|2.4200000762939|162|0|21.292552947998|0",
+					["Ranged"] = "1-2|0|0|0|22.287815093994",
+					["HealthMax"] = 3770,
+					["Melee"] = "133-146|2.4960000514984|199|0|22.287815093994|0",
 					["MaxPower"] = "17|120",
-					["Defense"] = "0|0|8.888955116272|3|0|0",
+					["Defense"] = "0|0|9.5228385925293|3|0|0",
 					["PVP"] = "0|0",
-					["Base"] = "67|162|258|60|0",
-					["Spell"] = "60|65|0|21.292552947998|41|0",
+					["Base"] = "74|199|290|65|0",
+					["Spell"] = "65|69|0|22.287815093994|25|0",
 				},
 				["Dungeons"] = {
 					[168] = {
@@ -1322,7 +1157,7 @@ DataStore_StatsDB = {
 						["mapID"] = 456,
 					}, -- [5]
 				},
-				["lastUpdate"] = 1705440039,
+				["lastUpdate"] = 1707425963,
 				["SeasonBestMaps"] = {
 					[210] = {
 						["timeInSeconds"] = 793,
@@ -1361,13 +1196,13 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 533,
 					},
 					[456] = {
+						["seasonBestLevel"] = 6,
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
 								["level"] = 20,
 							}, -- [1]
 						},
-						["seasonBestLevel"] = 6,
 						["seasonBestTimeInSeconds"] = 882,
 					},
 					[402] = {
@@ -1375,23 +1210,23 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1788,
 					},
 					[244] = {
+						["seasonBestLevel"] = 9,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 9,
 						["seasonBestTimeInSeconds"] = 765,
 					},
 					[248] = {
+						["seasonBestLevel"] = 5,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 5,
 						["seasonBestTimeInSeconds"] = 984,
 					},
 					[403] = {
 					},
 					[198] = {
+						["seasonBestLevel"] = 3,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 3,
 						["seasonBestTimeInSeconds"] = 657,
 					},
 					[206] = {
@@ -1409,9 +1244,9 @@ DataStore_StatsDB = {
 						},
 					},
 					[168] = {
+						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 2,
 						["seasonBestTimeInSeconds"] = 848,
 					},
 					[406] = {
@@ -1493,16 +1328,16 @@ DataStore_StatsDB = {
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["Stats"] = {
-					["Ranged"] = "3734-3735|0|7469|0|26.211521148682",
-					["HealthMax"] = 425400,
-					["Melee"] = "4636-5411|2.2510001659393|7469|0|26.211521148682|0",
+					["Ranged"] = "3971-3972|0|7851|0|28.650478363037",
+					["HealthMax"] = 462800,
+					["Melee"] = "5010-5920|2.2220001220703|7851|0|28.650478363037|0",
 					["MaxPower"] = "3|200",
-					["Defense"] = "0|0|13.517149925232|3|0|0",
+					["Defense"] = "0|0|13.993713378906|3|0|0",
 					["PVP"] = "0|0",
-					["Base"] = "1736|7469|21270|1418|0",
-					["Spell"] = "1418|1636|0|26.211521148682|2632|0",
+					["Base"] = "1736|7851|23140|1418|0",
+					["Spell"] = "1418|1655|0|28.650478363037|2892|0",
 				},
-				["lastUpdate"] = 1705440104,
+				["lastUpdate"] = 1707441107,
 				["WeeklyRunHistoryTop10"] = {
 					{
 						["level"] = 20,
@@ -1579,22 +1414,25 @@ DataStore_StatsDB = {
 				},
 			},
 			["Default.Argent Dawn.Mangrove"] = {
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|21.314086914062",
-					["HealthMax"] = 31740,
-					["Melee"] = "344-365|1.7550001144409|966|0|21.314086914062|0",
-					["MaxPower"] = "0|50000",
-					["Defense"] = "0|0|9.723596572876|0|0|0",
-					["PVP"] = "0|0",
-					["Base"] = "194|966|1587|449|0",
-					["Spell"] = "1044|1069|0|21.314086914062|85|2560",
-				},
-				["lastUpdate"] = 1705193365,
 				["WeeklyRunHistoryTop10"] = {
 					{
 						["level"] = 22,
 						["mapID"] = 199,
 					}, -- [1]
+				},
+				["lastUpdate"] = 1707446150,
+				["WeeklyActivities"] = {
+					5, -- [1]
+				},
+				["Stats"] = {
+					["Ranged"] = "1415-1416|0|0|0|14.203169822693",
+					["HealthMax"] = 73560,
+					["Melee"] = "1524-1564|3.3200001716614|990|0|14.203169822693|0",
+					["MaxPower"] = "0|95180",
+					["Defense"] = "0|0|6.2368669509888|0|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "427|990|3678|2096|0",
+					["Spell"] = "2096|2267|0|14.203169822693|482|3807",
 				},
 				["Dungeons"] = {
 					[168] = {
@@ -1623,41 +1461,25 @@ DataStore_StatsDB = {
 			},
 			["Default.Argent Dawn.Confluence"] = {
 				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|26.611583709717",
-					["HealthMax"] = 576960,
-					["Melee"] = "6756-7668|2.4260001182556|8017|0|26.611583709717|0",
+					["Ranged"] = "1-2|0|0|0|28.550525665283",
+					["HealthMax"] = 592740,
+					["Melee"] = "6853-7745|2.4660000801086|8383|0|28.550525665283|0",
 					["MaxPower"] = "0|250000",
-					["Defense"] = "0|0|3|14.198967933655|10|0",
+					["Defense"] = "0|0|3|14.648977279663|10|0",
 					["PVP"] = "0|0",
-					["Base"] = "8017|730|28848|2172|0",
-					["Spell"] = "10297|11539|0|26.611583709717|3216|12800",
+					["Base"] = "8383|730|29637|2172|0",
+					["Spell"] = "10648|11678|0|28.550525665283|2889|12800",
 				},
-				["lastUpdate"] = 1705361100,
+				["lastUpdate"] = 1707447181,
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["mapID"] = 244,
-						["level"] = 12,
+						["level"] = 17,
+						["mapID"] = 248,
 					}, -- [1]
 					{
-						["mapID"] = 456,
-						["level"] = 12,
+						["level"] = 17,
+						["mapID"] = 199,
 					}, -- [2]
-					{
-						["mapID"] = 248,
-						["level"] = 11,
-					}, -- [3]
-					{
-						["mapID"] = 464,
-						["level"] = 11,
-					}, -- [4]
-					{
-						["mapID"] = 198,
-						["level"] = 11,
-					}, -- [5]
-					{
-						["mapID"] = 464,
-						["level"] = 11,
-					}, -- [6]
 				},
 				["Dungeons"] = {
 					[168] = {
@@ -1666,26 +1488,14 @@ DataStore_StatsDB = {
 					},
 					[456] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 12,
-							}, -- [1]
 						},
 					},
 					[244] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 12,
-							}, -- [1]
 						},
 					},
 					[198] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 11,
-							}, -- [1]
 						},
 					},
 					[399] = {
@@ -1706,24 +1516,20 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
-								["level"] = 11,
+								["level"] = 17,
 							}, -- [1]
 						},
 					},
 					[464] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 11,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 11,
-							}, -- [2]
 						},
 					},
 					[199] = {
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 17,
+							}, -- [1]
 						},
 					},
 					[2] = {

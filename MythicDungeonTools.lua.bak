@@ -24,8 +24,11 @@ MythicDungeonToolsDB = {
 	},
 	["global"] = {
 		["anchorTo"] = "CENTER",
-		["currentDungeonIdx"] = 104,
+		["scale"] = 1.374626640800957,
 		["currentDifficulty"] = 26,
+		["minimap"] = {
+			["showInCompartment"] = true,
+		},
 		["nonFullscreenScale"] = 1.374626640800957,
 		["MDI"] = {
 		},
@@ -3990,15 +3993,6 @@ MythicDungeonToolsDB = {
 				}, -- [1]
 			},
 		},
-		["scale"] = 1.374626640800957,
-		["toolbarExpanded"] = false,
-		["toolbar"] = {
-			["color"] = {
-				["r"] = 0.4000000357627869,
-				["g"] = 0.1725490242242813,
-				["b"] = 0.988235354423523,
-			},
-		},
 		["colorPaletteInfo"] = {
 			["customPaletteValues"] = {
 				{
@@ -4063,6 +4057,15 @@ MythicDungeonToolsDB = {
 				}, -- [12]
 			},
 		},
+		["toolbarExpanded"] = false,
+		["toolbar"] = {
+			["color"] = {
+				["r"] = 0.4000000357627869,
+				["g"] = 0.1725490242242813,
+				["b"] = 0.988235354423523,
+			},
+		},
+		["currentDungeonIdx"] = 104,
 		["version"] = 4323,
 		["xoffset"] = 78.57688903808594,
 		["anchorFrom"] = "CENTER",

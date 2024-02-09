@@ -75,6 +75,7 @@ DataStoreDB = {
 			},
 			["Default.Argent Dawn.Mangrove"] = {
 				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Karst"] = {
 				["faction"] = "Horde",

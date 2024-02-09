@@ -10,7 +10,7 @@ ImmersionSetup = {
 	["hideui"] = true,
 	["inspect"] = "SHIFT",
 	["hidetooltip"] = true,
-	["boxoffsetX"] = 25.76563262939453,
+	["boxoffsetX"] = -61.85367202758789,
 	["hidetracker"] = true,
 	["accept"] = "SPACE",
 	["boxscale"] = 1,
@@ -24,5 +24,5 @@ ImmersionSetup = {
 	["titleoffset"] = 523.6195678710938,
 	["onthefly"] = false,
 	["movetalkinghead"] = true,
-	["boxoffsetY"] = 120.4314422607422,
+	["boxoffsetY"] = 177.5742702484131,
 }
