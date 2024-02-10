@@ -33,30 +33,36 @@ RaiderIO_Config = {
 		["r"] = 0,
 	},
 	["dockReplay"] = false,
-	["replaySelection"] = "user_best_replay",
-	["showScoreInCombat"] = true,
 	["enableWhoTooltips"] = true,
+	["showScoreInCombat"] = true,
+	["replaySelection"] = "user_best_replay",
 	["lockProfile"] = false,
 	["enableGuildTooltips"] = true,
 	["showRaiderIOProfile"] = true,
 	["enableClientEnhancements"] = true,
 	["enableProfileModifier"] = true,
-	["positionProfileAuto"] = true,
-	["enableUnitTooltips"] = true,
 	["enableFriendsTooltips"] = true,
+	["showRoleIcons"] = true,
+	["positionProfileAuto"] = true,
 	["inverseProfileModifier"] = false,
 	["showDropDownCopyURL"] = true,
-	["showRoleIcons"] = true,
+	["enableUnitTooltips"] = true,
 	["enableLFGTooltips"] = true,
-	["showScoreModifier"] = false,
 	["hidePersonalRaiderIOProfile"] = false,
+	["showScoreModifier"] = false,
 	["replayTiming"] = "DUNGEON",
 	["showSimpleScoreColors"] = false,
 	["enableCombatLogTracking"] = false,
 	["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Alluvium-argent-dawn"
+RaiderIO_LastCharacter = "us-Riparium-argent-dawn"
 RaiderIO_MissingCharacters = {
+	["us-Arihz-argent-dawn"] = true,
+	["us-Minaerva-argent-dawn"] = true,
+	["us-Olyandro-the-scryers"] = true,
+	["us-Aderin-the-scryers"] = true,
+	["us-Xib-the-scryers"] = true,
+	["us-Miari-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }

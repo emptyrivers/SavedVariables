@@ -3,10 +3,10 @@ DataStore_QuestsDB = {
 	["profileKeys"] = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
@@ -15,31 +15,32 @@ DataStore_QuestsDB = {
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Argent Dawn.Headcut"] = {
-				["lastUpdate"] = 1707446599,
-				["HistorySize"] = 3781,
-				["HistoryLastUpdate"] = 1707446424,
+				["lastUpdate"] = 1707536794,
+				["HistorySize"] = 3782,
+				["HistoryLastUpdate"] = 1707531500,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:75641:2401|h[Power Unified]|h|r", -- [1]
 					"|cff808080|Hquest:48642:347|h[Argussian Reach]|h|r", -- [2]
-					"|cff808080|Hquest:42233:347|h[Highmountain Tribes]|h|r", -- [3]
-					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [4]
-					"|cff808080|Hquest:62801:807|h[The Call of Fate]|h|r", -- [5]
+					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [3]
+					"|cff808080|Hquest:62801:807|h[The Call of Fate]|h|r", -- [4]
+					"|cff808080|Hquest:42234:347|h[The Valarjar]|h|r", -- [5]
 					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [6]
 					"|cffffff00|Hquest:75665:2649|h[A Worthy Ally: Loamm Niffen]|h|r", -- [7]
 					"|cff808080|Hquest:8505:976|h[The Alliance Needs Purple Lotus!]|h|r", -- [8]
 					"|cffffff00|Hquest:66119:2155|h[Ruby Life Pools: Primalist Invasion]|h|r", -- [9]
-					"|cffffff00|Hquest:78329:378|h[Love is in the Air]|h|r", -- [10]
-					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [11]
-					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [12]
-					"|cffffff00|Hquest:70591:2164|h[Engineering Services Requested]|h|r", -- [13]
-					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [14]
-					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [15]
+					"|cffffff00|Hquest:78674:294|h[The Gift of Relief]|h|r", -- [10]
+					"|cffffff00|Hquest:78379:378|h[The Stench of Revenge]|h|r", -- [11]
+					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [12]
+					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [13]
+					"|cffffff00|Hquest:70591:2164|h[Engineering Services Requested]|h|r", -- [14]
+					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [15]
+					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [16]
 				},
 				["QuestHeaders"] = {
 					"Guardians of the Dream", -- [1]
@@ -47,9 +48,9 @@ DataStore_QuestsDB = {
 					"Embers of Neltharion", -- [3]
 					"Spark of Shadowflame", -- [4]
 					"Eredath", -- [5]
-					"Highmountain", -- [6]
-					"Krokuun", -- [7]
-					"Oribos", -- [8]
+					"Krokuun", -- [6]
+					"Oribos", -- [7]
+					"Stormheim", -- [8]
 					"Tiragarde Sound", -- [9]
 					"Zaralek Cavern", -- [10]
 					"Ahn'Qiraj War", -- [11]
@@ -62,44 +63,53 @@ DataStore_QuestsDB = {
 				["Rewards"] = {
 					"r|204717|2|1", -- [1]
 					"r|157831|1|1", -- [2]
-					"r|157823|1|1", -- [3]
-					"r|157829|1|1", -- [4]
-					[8] = "r|21436|10|1,r|21512|1|1",
-					[13] = "r|198611|1|1",
-					[9] = "c|193757|1|1",
+					"r|157829|1|1", -- [3]
+					nil, -- [4]
+					"r|157824|1|1", -- [5]
+					nil, -- [6]
+					nil, -- [7]
+					"r|21436|10|1,r|21512|1|1", -- [8]
+					nil, -- [9]
+					"r|49927|10|1", -- [10]
+					"r|49927|50|1", -- [11]
+					[14] = "r|198611|1|1",
 				},
 				["HistoryBuild"] = "53262",
 				["QuestTitles"] = {
 					"Power Unified", -- [1]
 					"Argussian Reach", -- [2]
-					"Highmountain Tribes", -- [3]
-					"Army of the Light", -- [4]
-					"The Call of Fate", -- [5]
+					"Army of the Light", -- [3]
+					"The Call of Fate", -- [4]
+					"The Valarjar", -- [5]
 					"Azerite for the Alliance", -- [6]
 					"A Worthy Ally: Loamm Niffen", -- [7]
 					"The Alliance Needs Purple Lotus!", -- [8]
 					"Ruby Life Pools: Primalist Invasion", -- [9]
-					"Love is in the Air", -- [10]
-					"Climbing", -- [11]
-					"Tracking Quest", -- [12]
-					"Engineering Services Requested", -- [13]
-					"Sharptalon Team Up", -- [14]
-					"Snowfeather Team Rumble", -- [15]
+					"The Gift of Relief", -- [10]
+					"The Stench of Revenge", -- [11]
+					"Climbing", -- [12]
+					"Tracking Quest", -- [13]
+					"Engineering Services Requested", -- [14]
+					"Sharptalon Team Up", -- [15]
+					"Snowfeather Team Rumble", -- [16]
 				},
 				["QuestTags"] = {
 					nil, -- [1]
 					128, -- [2]
 					128, -- [3]
-					128, -- [4]
-					nil, -- [5]
+					nil, -- [4]
+					128, -- [5]
 					261, -- [6]
 					"WEEKLY", -- [7]
-					[11] = 265,
-					[13] = 267,
-					[15] = 102,
-					[12] = 265,
-					[14] = 102,
-					[9] = 81,
+					nil, -- [8]
+					81, -- [9]
+					"DAILY", -- [10]
+					81, -- [11]
+					265, -- [12]
+					265, -- [13]
+					267, -- [14]
+					102, -- [15]
+					102, -- [16]
 				},
 				["History"] = {
 					[1019] = 134299648,
@@ -274,7 +284,7 @@ DataStore_QuestsDB = {
 					[1223] = 1646592,
 					[1224] = 8192,
 					[1225] = 1024,
-					[2450] = 925785,
+					[2450] = 925787,
 					[1227] = 11792,
 					[1228] = 13568,
 					[1229] = 242353152,
@@ -524,7 +534,7 @@ DataStore_QuestsDB = {
 					[825] = 1024,
 					[413] = 8388608,
 					[2277] = 634576,
-					[2448] = 32640,
+					[2448] = 318799744,
 					[2281] = 4170752,
 					[2283] = 1073741825,
 					[2285] = 516160,
@@ -544,7 +554,7 @@ DataStore_QuestsDB = {
 					[835] = 1048688,
 					[2259] = 494936064,
 					[1671] = 2,
-					[2316] = 67108864,
+					[2316] = 2214592512,
 					[2288] = 262144,
 					[2217] = 285212680,
 					[2325] = 8192,
@@ -615,13 +625,13 @@ DataStore_QuestsDB = {
 					[2455] = 8388608,
 					[2457] = 776,
 					[2060] = 1375983617,
-					[2461] = 1024,
+					[2461] = 1536,
 					[2397] = 268472320,
 					[2465] = 268439458,
 					[2436] = 640,
 					[2252] = 65535,
 					[2254] = 607125504,
-					[875] = 2147483648,
+					[2473] = 6291456,
 					[871] = 14680064,
 					[876] = 2147483648,
 					[2479] = 33554944,
@@ -750,10 +760,10 @@ DataStore_QuestsDB = {
 					[2274] = 249692416,
 					[1876] = 9184,
 					[939] = 4294965249,
-					[941] = 192,
+					[1881] = 1048576,
 					[940] = 2120224766,
 					[1880] = 368050178,
-					[1881] = 1048576,
+					[941] = 192,
 					[1882] = 4261412865,
 					[1883] = 38,
 					[1884] = 24,
@@ -858,7 +868,7 @@ DataStore_QuestsDB = {
 					[992] = 4294144001,
 					[2444] = 117440512,
 					[993] = 2,
-					[2449] = 408420352,
+					[2449] = 408420354,
 					[994] = 2147484160,
 					[2441] = 2097152,
 					[995] = 33546992,
@@ -880,7 +890,7 @@ DataStore_QuestsDB = {
 					[2412] = 67108864,
 					[2145] = 1,
 					[1004] = 77824,
-					[2473] = 6291456,
+					[875] = 2147483648,
 					[1663] = 4194304,
 					[2066] = 523239615,
 					[1006] = 536870912,
@@ -924,115 +934,133 @@ DataStore_QuestsDB = {
 					280900, -- [1]
 					0, -- [2]
 					0, -- [3]
-					0, -- [4]
-					25740, -- [5]
+					25740, -- [4]
+					0, -- [5]
 					0, -- [6]
 					0, -- [7]
 					0, -- [8]
-					1123600, -- [9]
-					28090, -- [10]
-					0, -- [11]
+					0, -- [9]
+					280900, -- [10]
+					1123600, -- [11]
 					0, -- [12]
 					0, -- [13]
-					202200, -- [14]
+					0, -- [14]
 					202200, -- [15]
+					202200, -- [16]
 				},
 				["Quests"] = {
 					4595712, -- [1]
 					4597800, -- [2]
 					4599848, -- [3]
-					4601896, -- [4]
-					3948544, -- [5]
+					3946496, -- [4]
+					4603944, -- [5]
 					4605984, -- [6]
 					4608000, -- [7]
 					1988608, -- [8]
 					4612096, -- [9]
-					4614144, -- [10]
-					4616234, -- [11]
-					4616232, -- [12]
-					4618240, -- [13]
-					4620288, -- [14]
+					4614146, -- [10]
+					4615424, -- [11]
+					4616234, -- [12]
+					4616232, -- [13]
+					4618240, -- [14]
 					4620288, -- [15]
+					4620288, -- [16]
 				},
 				["Emissaries"] = {
-					[42233] = "0|4|738|0/4 Complete 4 world quests in Highmountain.|1707446599|Highmountain Tribes",
-					[48642] = "0|4|2178|0/4 Complete 4 Argussian Reach World Quests|1707446599|Argussian Reach",
-					[48639] = "0|4|3618|0/4 Complete 4 Army of the Light World Quests|1707446599|Army of the Light",
+					[42234] = "0|4|0|0/4 Complete 4 world quests in Stormheim|1707536794|The Valarjar",
+					[48639] = "0|4|0|0/4 Complete 4 Army of the Light World Quests|1707536794|Army of the Light",
+					[48642] = "0|4|0|0/4 Complete 4 Argussian Reach World Quests|1707536794|Argussian Reach",
 				},
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["HistoryBuild"] = "53212",
-				["HistorySize"] = 2510,
-				["HistoryLastUpdate"] = 1707285385,
+				["HistoryBuild"] = "53262",
+				["HistorySize"] = 2517,
+				["Dailies"] = {
+					{
+						["id"] = 78591,
+						["timestamp"] = 1707529252,
+						["title"] = "Getaway to Scenic Nagrand!",
+						["expiresIn"] = 47947,
+					}, -- [1]
+					{
+						["id"] = 78674,
+						["timestamp"] = 1707529485,
+						["title"] = "The Gift of Relief",
+						["expiresIn"] = 47714,
+					}, -- [2]
+				},
+				["HistoryLastUpdate"] = 1707531068,
 				["QuestLinks"] = {
-					"|cff808080|Hquest:48641:347|h[Armies of Legionfall]|h|r", -- [1]
-					"|cffffff00|Hquest:78444:2699|h[A Worthy Ally: Dream Wardens]|h|r", -- [2]
+					"|cffffff00|Hquest:78444:2699|h[A Worthy Ally: Dream Wardens]|h|r", -- [1]
+					"|cff808080|Hquest:48642:347|h[Argussian Reach]|h|r", -- [2]
 					"|cff808080|Hquest:38356:816|h[Bringing the Bass]|h|r", -- [3]
-					"|cff808080|Hquest:42233:347|h[Highmountain Tribes]|h|r", -- [4]
-					"|cffffff00|Hquest:72292:2155|h[Story of a Spectacular Victory]|h|r", -- [5]
-					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [6]
-					"|cff808080|Hquest:42170:347|h[The Dreamweavers]|h|r", -- [7]
-					"|cffffff00|Hquest:78379:378|h[The Stench of Revenge]|h|r", -- [8]
-					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [9]
-					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [10]
-					"|cffffff00|Hquest:70593:2164|h[Jewelcrafting Services Requested]|h|r", -- [11]
-					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [12]
-					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [13]
+					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [4]
+					"|cff808080|Hquest:42234:347|h[The Valarjar]|h|r", -- [5]
+					"|cffffff00|Hquest:72292:2155|h[Story of a Spectacular Victory]|h|r", -- [6]
+					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [7]
+					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [8]
+					"|cffffff00|Hquest:70593:2164|h[Jewelcrafting Services Requested]|h|r", -- [9]
+					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [10]
+					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [11]
 				},
 				["QuestHeaders"] = {
-					"Broken Shore", -- [1]
-					"Emerald Dream", -- [2]
+					"Emerald Dream", -- [1]
+					"Eredath", -- [2]
 					"Garrison", -- [3]
-					"Highmountain", -- [4]
-					"The Azure Span", -- [5]
-					"Tiragarde Sound", -- [6]
-					"Val'sharah", -- [7]
-					"Love is in the Air", -- [8]
-					"Missing header! (quest designers)", -- [9]
-					"Professions", -- [10]
-					"Battle Pets", -- [11]
+					"Krokuun", -- [4]
+					"Stormheim", -- [5]
+					"The Azure Span", -- [6]
+					"Tiragarde Sound", -- [7]
+					"Missing header! (quest designers)", -- [8]
+					"Professions", -- [9]
+					"Battle Pets", -- [10]
 				},
 				["Rewards"] = {
-					"r|157830|1|1", -- [1]
-					nil, -- [2]
+					nil, -- [1]
+					"r|157831|1|1", -- [2]
 					"r|122613|1|1", -- [3]
-					"r|157823|1|1", -- [4]
-					nil, -- [5]
-					nil, -- [6]
-					"r|157822|1|1", -- [7]
-					"r|49927|50|1", -- [8]
-					[11] = "r|198612|1|1",
+					"r|157829|1|1", -- [4]
+					"r|157824|1|1", -- [5]
+					[9] = "r|198612|1|1",
 				},
-				["lastUpdate"] = 1707285595,
+				["Money"] = {
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					0, -- [4]
+					0, -- [5]
+					561800, -- [6]
+					0, -- [7]
+					0, -- [8]
+					0, -- [9]
+					202200, -- [10]
+					202200, -- [11]
+				},
 				["QuestTitles"] = {
-					"Armies of Legionfall", -- [1]
-					"A Worthy Ally: Dream Wardens", -- [2]
+					"A Worthy Ally: Dream Wardens", -- [1]
+					"Argussian Reach", -- [2]
 					"Bringing the Bass", -- [3]
-					"Highmountain Tribes", -- [4]
-					"Story of a Spectacular Victory", -- [5]
-					"Azerite for the Alliance", -- [6]
-					"The Dreamweavers", -- [7]
-					"The Stench of Revenge", -- [8]
-					"Climbing", -- [9]
-					"Tracking Quest", -- [10]
-					"Jewelcrafting Services Requested", -- [11]
-					"Sharptalon Team Up", -- [12]
-					"Snowfeather Team Rumble", -- [13]
+					"Army of the Light", -- [4]
+					"The Valarjar", -- [5]
+					"Story of a Spectacular Victory", -- [6]
+					"Azerite for the Alliance", -- [7]
+					"Tracking Quest", -- [8]
+					"Jewelcrafting Services Requested", -- [9]
+					"Sharptalon Team Up", -- [10]
+					"Snowfeather Team Rumble", -- [11]
 				},
 				["QuestTags"] = {
-					128, -- [1]
-					"WEEKLY", -- [2]
+					"WEEKLY", -- [1]
+					128, -- [2]
 					nil, -- [3]
 					128, -- [4]
-					"WEEKLY", -- [5]
-					261, -- [6]
-					128, -- [7]
-					81, -- [8]
-					265, -- [9]
-					265, -- [10]
-					267, -- [11]
-					102, -- [12]
-					102, -- [13]
+					128, -- [5]
+					"WEEKLY", -- [6]
+					261, -- [7]
+					265, -- [8]
+					267, -- [9]
+					102, -- [10]
+					102, -- [11]
 				},
 				["History"] = {
 					[1019] = 134217728,
@@ -1187,7 +1215,7 @@ DataStore_QuestsDB = {
 					[2444] = 1191215104,
 					[1224] = 64,
 					[1225] = 2048,
-					[2450] = 401531,
+					[2450] = 403579,
 					[2452] = 2498560,
 					[1228] = 9472,
 					[1229] = 240123904,
@@ -1438,9 +1466,10 @@ DataStore_QuestsDB = {
 					[2453] = 3220439040,
 					[2455] = 12582912,
 					[2457] = 904,
+					[2459] = 262144,
 					[2461] = 2147485184,
 					[2465] = 268439458,
-					[2469] = 468,
+					[2469] = 18900,
 					[2473] = 31457280,
 					[2479] = 33554944,
 					[881] = 640,
@@ -1452,7 +1481,7 @@ DataStore_QuestsDB = {
 					[921] = 536870912,
 					[922] = 2048,
 					[923] = 20480,
-					[2316] = 67108864,
+					[2316] = 67108865,
 					[1841] = 2097152,
 					[2472] = 1,
 					[2468] = 1,
@@ -1560,8 +1589,8 @@ DataStore_QuestsDB = {
 					[1153] = 131072,
 					[1687] = 16,
 					[1014] = 4096,
-					[2456] = 3670016,
-					[2466] = 16777312,
+					[2456] = 2151153664,
+					[2466] = 16777313,
 					[2464] = 1073741824,
 					[2031] = 8388608,
 					[2066] = 2113727,
@@ -1580,63 +1609,59 @@ DataStore_QuestsDB = {
 					["10.1.5"] = 7,
 					["10.2"] = 7,
 				},
-				["Money"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0, -- [4]
-					561800, -- [5]
-					0, -- [6]
-					0, -- [7]
-					1123600, -- [8]
-					0, -- [9]
-					0, -- [10]
-					0, -- [11]
-					202200, -- [12]
-					202200, -- [13]
-				},
+				["lastUpdate"] = 1707529485,
 				["Quests"] = {
-					4589608, -- [1]
-					4591616, -- [2]
+					4589568, -- [1]
+					4591656, -- [2]
 					2627584, -- [3]
 					4595752, -- [4]
-					4597760, -- [5]
-					4599840, -- [6]
-					4601896, -- [7]
-					4605184, -- [8]
-					4605994, -- [9]
-					4605992, -- [10]
+					4597800, -- [5]
+					4599808, -- [6]
+					4601888, -- [7]
+					4603944, -- [8]
+					4605952, -- [9]
+					4608000, -- [10]
 					4608000, -- [11]
-					4610048, -- [12]
-					4610048, -- [13]
 				},
 				["Emissaries"] = {
-					[42233] = "0|4|0|0/4 Complete 4 world quests in Highmountain.|1707285595|Highmountain Tribes",
-					[42170] = "0|4|0|0/4 Complete 4 world quests in Val'sharah|1707285595|The Dreamweavers",
-					[48641] = "0|4|0|0/4 Complete 4 world quests on the Broken Shore|1707285595|Armies of Legionfall",
+					[48639] = "0|4|2236|0/4 Complete 4 Army of the Light World Quests|1707529485|Army of the Light",
+					[48642] = "0|4|796|0/4 Complete 4 Argussian Reach World Quests|1707529485|Argussian Reach",
+					[42234] = "0|4|3676|0/4 Complete 4 world quests in Stormheim|1707529485|The Valarjar",
 				},
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["HistoryBuild"] = "53212",
-				["HistorySize"] = 3846,
-				["HistoryLastUpdate"] = 1707285639,
+				["lastUpdate"] = 1707528422,
+				["HistorySize"] = 3858,
+				["Dailies"] = {
+					{
+						["id"] = 78987,
+						["timestamp"] = 1707526576,
+						["title"] = "Getaway to Scenic Nagrand!",
+						["expiresIn"] = 50623,
+					}, -- [1]
+					{
+						["id"] = 78990,
+						["timestamp"] = 1707528421,
+						["title"] = "The Gift of Relief",
+						["expiresIn"] = 48778,
+					}, -- [2]
+				},
+				["HistoryLastUpdate"] = 1707525347,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78600:2609|h[Amirdrassil, the Dream's Hope: Up in Smoke]|h|r", -- [1]
 					"|cffffff00|Hquest:78421:2699|h[The Power of Dreams]|h|r", -- [2]
-					"|cff808080|Hquest:48641:347|h[Armies of Legionfall]|h|r", -- [3]
-					"|cffffff00|Hquest:78444:2699|h[A Worthy Ally: Dream Wardens]|h|r", -- [4]
-					"|cff808080|Hquest:42233:347|h[Highmountain Tribes]|h|r", -- [5]
-					"|cff808080|Hquest:50602:464|h[Talanji's Expedition]|h|r", -- [6]
-					"|cff808080|Hquest:42170:347|h[The Dreamweavers]|h|r", -- [7]
+					"|cffffff00|Hquest:78444:2699|h[A Worthy Ally: Dream Wardens]|h|r", -- [3]
+					"|cff808080|Hquest:48642:347|h[Argussian Reach]|h|r", -- [4]
+					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [5]
+					"|cff808080|Hquest:56120:464|h[The Unshackled]|h|r", -- [6]
+					"|cff808080|Hquest:42234:347|h[The Valarjar]|h|r", -- [7]
 					"|cff808080|Hquest:50603:464|h[Voldunai]|h|r", -- [8]
-					"|cff808080|Hquest:50598:464|h[Zandalari Empire]|h|r", -- [9]
-					"|cff808080|Hquest:53435:289|h[Azerite for the Horde]|h|r", -- [10]
-					"|cffffff00|Hquest:78981:378|h[Love is in the Air]|h|r", -- [11]
-					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [12]
-					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [13]
-					"|cffffff00|Hquest:70595:2164|h[Tailoring Services Requested]|h|r", -- [14]
-					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [15]
-					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [16]
+					"|cff808080|Hquest:53435:289|h[Azerite for the Horde]|h|r", -- [9]
+					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [10]
+					"|cffffff00|Hquest:70595:2164|h[Tailoring Services Requested]|h|r", -- [11]
+					"|cff808080|Hquest:50604:464|h[Tortollan Seekers]|h|r", -- [12]
+					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [13]
+					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [14]
 				},
 				["Money"] = {
 					561800, -- [1]
@@ -1649,62 +1674,68 @@ DataStore_QuestsDB = {
 					0, -- [8]
 					0, -- [9]
 					0, -- [10]
-					28090, -- [11]
+					0, -- [11]
 					0, -- [12]
-					0, -- [13]
-					0, -- [14]
-					202200, -- [15]
-					202200, -- [16]
+					202200, -- [13]
+					202200, -- [14]
 				},
 				["Rewards"] = {
 					nil, -- [1]
 					nil, -- [2]
-					"r|157830|1|1", -- [3]
-					"r|210872|1|1", -- [4]
-					"r|157823|1|1", -- [5]
-					"r|165863|1|1", -- [6]
-					"r|157822|1|1", -- [7]
-					nil, -- [8]
-					"r|163857|1|1", -- [9]
-					"r|166883|1|1,r|168615|1|1", -- [10]
-					[14] = "r|198609|1|1",
+					nil, -- [3]
+					"r|157831|1|1", -- [4]
+					"r|157829|1|1", -- [5]
+					nil, -- [6]
+					"r|157824|1|1", -- [7]
+					[11] = "r|198609|1|1",
 				},
-				["lastUpdate"] = 1707286089,
+				["QuestHeaders"] = {
+					"Guardians of the Dream", -- [1]
+					"Embers of Neltharion", -- [2]
+					"Amirdrassil, the Dream's Hope", -- [3]
+					"Emerald Dream", -- [4]
+					"Eredath", -- [5]
+					"Krokuun", -- [6]
+					"Nazjatar", -- [7]
+					"Stormheim", -- [8]
+					"Vol'dun", -- [9]
+					"Zuldazar", -- [10]
+					"Missing header! (quest designers)", -- [11]
+					"Professions", -- [12]
+					"World Quest", -- [13]
+					"Battle Pets", -- [14]
+				},
 				["QuestTitles"] = {
 					"Amirdrassil, the Dream's Hope: Up in Smoke", -- [1]
 					"The Power of Dreams", -- [2]
-					"Armies of Legionfall", -- [3]
-					"A Worthy Ally: Dream Wardens", -- [4]
-					"Highmountain Tribes", -- [5]
-					"Talanji's Expedition", -- [6]
-					"The Dreamweavers", -- [7]
+					"A Worthy Ally: Dream Wardens", -- [3]
+					"Argussian Reach", -- [4]
+					"Army of the Light", -- [5]
+					"The Unshackled", -- [6]
+					"The Valarjar", -- [7]
 					"Voldunai", -- [8]
-					"Zandalari Empire", -- [9]
-					"Azerite for the Horde", -- [10]
-					"Love is in the Air", -- [11]
-					"Climbing", -- [12]
-					"Tracking Quest", -- [13]
-					"Tailoring Services Requested", -- [14]
-					"Sharptalon Team Up", -- [15]
-					"Snowfeather Team Rumble", -- [16]
+					"Azerite for the Horde", -- [9]
+					"Tracking Quest", -- [10]
+					"Tailoring Services Requested", -- [11]
+					"Tortollan Seekers", -- [12]
+					"Sharptalon Team Up", -- [13]
+					"Snowfeather Team Rumble", -- [14]
 				},
 				["QuestTags"] = {
 					62, -- [1]
 					62, -- [2]
-					128, -- [3]
-					"WEEKLY", -- [4]
+					"WEEKLY", -- [3]
+					128, -- [4]
 					128, -- [5]
 					128, -- [6]
 					128, -- [7]
 					128, -- [8]
-					128, -- [9]
-					261, -- [10]
-					nil, -- [11]
-					265, -- [12]
-					265, -- [13]
-					267, -- [14]
-					102, -- [15]
-					102, -- [16]
+					261, -- [9]
+					265, -- [10]
+					267, -- [11]
+					128, -- [12]
+					102, -- [13]
+					102, -- [14]
 				},
 				["History"] = {
 					[1019] = 134217728,
@@ -1866,7 +1897,7 @@ DataStore_QuestsDB = {
 					[1222] = 8448,
 					[1223] = 67313664,
 					[1224] = 8192,
-					[2448] = 112,
+					[2448] = 50331760,
 					[2450] = 1974345,
 					[2452] = 2498560,
 					[1228] = 8448,
@@ -2117,7 +2148,7 @@ DataStore_QuestsDB = {
 					[2071] = 2146394100,
 					[2073] = 2877358081,
 					[2075] = 461373442,
-					[1551] = 524292,
+					[776] = 48,
 					[2079] = 4160755857,
 					[2081] = 541197890,
 					[2083] = 3636465665,
@@ -2282,6 +2313,7 @@ DataStore_QuestsDB = {
 					[2455] = 13107200,
 					[2465] = 4002,
 					[1746] = 2048,
+					[2469] = 19444,
 					[1751] = 16,
 					[1752] = 2052,
 					[1753] = 16777216,
@@ -2319,24 +2351,24 @@ DataStore_QuestsDB = {
 					[1864] = 33554432,
 					[1866] = 524288,
 					[2472] = 1,
-					[2378] = 8,
-					[2474] = 64,
+					[2317] = 8,
+					[1551] = 524292,
 					[2391] = 268435456,
 					[2479] = 33554944,
-					[1881] = 128,
 					[2490] = 57344,
-					[2303] = 268435456,
+					[2500] = 1023410176,
 					[2349] = 262144,
+					[1881] = 128,
 					[2328] = 536870912,
-					[2454] = 320,
-					[1887] = 512,
-					[2374] = 1,
+					[2303] = 268435456,
+					[2398] = 1024,
 					[2464] = 1073741824,
 					[2456] = 133693440,
-					[2451] = 3233925118,
+					[1887] = 512,
+					[2374] = 1,
 					[2364] = 503316512,
 					[2444] = 117440512,
-					[2441] = 136347648,
+					[2451] = 3233925118,
 					[1622] = 2,
 					[2341] = 3770744840,
 					[2442] = 786688,
@@ -2348,113 +2380,113 @@ DataStore_QuestsDB = {
 					[2420] = 268435518,
 					[2416] = 268435496,
 					[2425] = 7952,
+					[2199] = 34415,
+					[2436] = 1073744906,
+					[2434] = 2147549206,
 					[258] = 8192,
-					[2418] = 2,
-					[2070] = 2438981180,
-					[2392] = 3759144960,
 					[2389] = 237895680,
-					[956] = 2,
 					[2340] = 30,
 					[2311] = 65793,
 					[2293] = 4278190081,
-					[2388] = 524288,
+					[956] = 2,
+					[1656] = 512,
 					[1651] = 2,
-					[1841] = 12,
+					[2412] = 67108864,
 					[2306] = 2214592512,
-					[1540] = 335544320,
+					[2351] = 1073741824,
 					[2354] = 16777216,
-					[2217] = 4280025343,
+					[1667] = 1048576,
 					[2371] = 29360128,
-					[2223] = 2147483648,
+					[2358] = 1048577,
 					[1675] = 32776,
-					[2376] = 33554432,
+					[2344] = 267911168,
 					[2379] = 1531873,
-					[1600] = 62915078,
+					[1606] = 3841985472,
 					[2225] = 276532293,
-					[2285] = 203415618,
+					[2382] = 2,
 					[1562] = 1,
 					[1618] = 4194304,
 					[1561] = 4269058,
-					[1564] = 419430400,
+					[1574] = 4097,
 					[2352] = 268960512,
-					[1022] = 12,
+					[2193] = 3477083136,
 					[2327] = 35890,
 					[1641] = 4026662911,
 					[2245] = 4293656575,
 					[1605] = 2212538376,
 					[2346] = 1026,
-					[1650] = 7340032,
+					[2215] = 4269870447,
 					[774] = 512,
-					[1571] = 4,
+					[2324] = 8912896,
 					[1629] = 1,
-					[1541] = 4,
-					[1653] = 4104,
+					[2255] = 33554304,
+					[1571] = 4,
 					[1623] = 544768,
 					[2259] = 532676640,
 					[2053] = 264241152,
-					[2273] = 100675328,
+					[1547] = 512,
 					[1965] = 30,
 					[1546] = 32,
 					[982] = 33554432,
 					[1619] = 1,
+					[1039] = 1,
+					[2059] = 3221486848,
+					[1603] = 1015808,
 					[1955] = 5242880,
 					[1548] = 100663296,
 					[979] = 1060864,
 					[1958] = 2147483648,
 					[1959] = 1,
-					[2059] = 3221486848,
+					[2273] = 2248158977,
 					[981] = 2048,
-					[1603] = 1015808,
+					[2057] = 32270,
 					[1963] = 17039360,
-					[1039] = 1,
+					[2253] = 2282749961,
 					[983] = 17039360,
 					[1966] = 1,
-					[2253] = 2282749961,
-					[2057] = 32270,
-					[1547] = 512,
+					[1653] = 4104,
+					[1541] = 4,
+					[1607] = 67109916,
 					[1970] = 16,
 					[986] = 4026531841,
-					[1607] = 67109916,
+					[1650] = 7340032,
 					[987] = 4294901787,
-					[2255] = 33554304,
-					[988] = 1022,
-					[2324] = 8912896,
 					[2247] = 2155895646,
-					[2215] = 4269870447,
+					[988] = 1022,
 					[1611] = 51380225,
 					[2368] = 270592,
-					[248] = 4194304,
+					[1022] = 12,
 					[1533] = 16,
-					[992] = 225280,
-					[2193] = 3477083136,
+					[1564] = 419430400,
+					[248] = 4194304,
 					[1544] = 135168,
-					[1574] = 4097,
-					[994] = 512,
+					[992] = 225280,
+					[2285] = 203415618,
 					[1585] = 16,
+					[1600] = 62915078,
+					[994] = 512,
+					[2376] = 33554432,
 					[995] = 31449842,
-					[2382] = 2,
+					[2223] = 2147483648,
 					[996] = 1073741824,
-					[1606] = 3841985472,
+					[2217] = 4280025343,
 					[997] = 3255436224,
-					[2344] = 267911168,
+					[1540] = 335544320,
 					[998] = 126085120,
-					[2358] = 1048577,
+					[1841] = 12,
 					[999] = 3221323776,
-					[1667] = 1048576,
+					[2388] = 524288,
 					[1000] = 4714884,
-					[2351] = 1073741824,
-					[1001] = 256,
-					[2412] = 67108864,
 					[1626] = 4227866889,
-					[1656] = 512,
+					[1001] = 256,
 					[2267] = 12432,
+					[2392] = 3759144960,
+					[2070] = 2438981180,
+					[2418] = 2,
 					[2006] = 128,
 					[2007] = 8390672,
 					[2008] = 8192,
 					[2009] = 3221225473,
-					[2434] = 2147549206,
-					[2436] = 1073744906,
-					[2199] = 34415,
 					[2438] = 6291456,
 					[2077] = 4211187705,
 					[2446] = 2151677952,
@@ -2463,23 +2495,26 @@ DataStore_QuestsDB = {
 					[2453] = 1762394112,
 					[2372] = 8224,
 					[2458] = 4194304,
-					[2021] = 32768,
+					[2441] = 136347648,
 					[2356] = 268435456,
 					[2078] = 587203546,
-					[2024] = 268435456,
+					[2021] = 32768,
 					[2460] = 6291456,
 					[2466] = 16777312,
+					[2024] = 268435456,
+					[2454] = 320,
+					[2299] = 18432,
 					[1014] = 4096,
 					[2028] = 96,
-					[2299] = 18432,
-					[2398] = 1024,
-					[2031] = 8388608,
 					[2394] = 2147483648,
 					[2468] = 1,
-					[2500] = 1023410176,
+					[2031] = 8388608,
+					[2474] = 448,
+					[2378] = 8,
+					[1604] = 12292,
 					[2035] = 1073741825,
 					[2036] = 8192,
-					[1604] = 12292,
+					[2486] = 134217728,
 				},
 				["StorylineProgress"] = {
 					["10.1"] = 3,
@@ -2490,47 +2525,30 @@ DataStore_QuestsDB = {
 					["10.1.5"] = 0,
 					["10.2"] = 5,
 				},
-				["QuestHeaders"] = {
-					"Guardians of the Dream", -- [1]
-					"Embers of Neltharion", -- [2]
-					"Amirdrassil, the Dream's Hope", -- [3]
-					"Broken Shore", -- [4]
-					"Emerald Dream", -- [5]
-					"Highmountain", -- [6]
-					"Nazmir", -- [7]
-					"Val'sharah", -- [8]
-					"Vol'dun", -- [9]
-					"Zuldazar", -- [10]
-					"Love is in the Air", -- [11]
-					"Missing header! (quest designers)", -- [12]
-					"Professions", -- [13]
-					"Battle Pets", -- [14]
-				},
+				["HistoryBuild"] = "53262",
 				["Quests"] = {
 					4593664, -- [1]
 					4593664, -- [2]
-					4595752, -- [3]
-					4597760, -- [4]
+					4595712, -- [3]
+					4597800, -- [4]
 					4599848, -- [5]
 					3291176, -- [6]
 					4603944, -- [7]
 					3295272, -- [8]
-					3297320, -- [9]
-					4608032, -- [10]
-					4610048, -- [11]
-					4612138, -- [12]
-					4612136, -- [13]
-					4614144, -- [14]
-					4616192, -- [15]
-					4616192, -- [16]
+					4608032, -- [9]
+					4610088, -- [10]
+					4612096, -- [11]
+					3303464, -- [12]
+					4616192, -- [13]
+					4616192, -- [14]
 				},
 				["Emissaries"] = {
-					[50602] = "0|4|1973|0/4 Complete 4 world quests in Nazmir.|1707286089|Talanji's Expedition",
-					[48641] = "0|4|1973|0/4 Complete 4 world quests on the Broken Shore|1707286089|Armies of Legionfall",
-					[50603] = "0|4|533|0/4 Complete 4 world quests in Vol'dun|1707286089|Voldunai",
-					[42170] = "0|4|533|0/4 Complete 4 world quests in Val'sharah|1707286089|The Dreamweavers",
-					[42233] = "0|4|3413|0/4 Complete 4 world quests in Highmountain.|1707286089|Highmountain Tribes",
-					[50598] = "0|4|3413|0/4 Complete 4 world quests in Zuldazar.|1707286089|Zandalari Empire",
+					[48642] = "0|4|814|0/4 Complete 4 Argussian Reach World Quests|1707528422|Argussian Reach",
+					[56120] = "0|4|814|0/4 Complete world quests in Nazjatar|1707528422|The Unshackled",
+					[48639] = "0|4|2254|0/4 Complete 4 Army of the Light World Quests|1707528422|Army of the Light",
+					[50603] = "0|4|3694|0/4 Complete 4 world quests in Vol'dun|1707528422|Voldunai",
+					[42234] = "0|4|3694|0/4 Complete 4 world quests in Stormheim|1707528422|The Valarjar",
+					[50604] = "0|3|2254|0/3 Complete 3 Tortollan Seeker World Quests|1707528422|Tortollan Seekers",
 				},
 			},
 			["Default.Argent Dawn.Karst"] = {
@@ -2665,18 +2683,18 @@ DataStore_QuestsDB = {
 					[766] = 12583168,
 					[2411] = 1191112192,
 					[1656] = 512,
-					[448] = 4194304,
 					[2285] = 516096,
+					[448] = 4194304,
 					[2182] = 3612081416,
 					[2287] = 1357381632,
 					[2414] = 1048576,
 					[767] = 768,
 					[2415] = 3456,
-					[2294] = 261630,
+					[1406] = 3825199239,
 					[2416] = 268435488,
 					[1341] = 536973312,
 					[2162] = 1272496640,
-					[992] = 225280,
+					[2167] = 1005034383,
 					[2163] = 3758057704,
 					[768] = 8388608,
 					[2164] = 154,
@@ -2685,7 +2703,7 @@ DataStore_QuestsDB = {
 					[2293] = 4278190081,
 					[2166] = 2583527425,
 					[1661] = 2074,
-					[2167] = 1005034383,
+					[992] = 225280,
 					[258] = 8192,
 					[2423] = 2032128,
 					[1407] = 21886,
@@ -2711,7 +2729,7 @@ DataStore_QuestsDB = {
 					[2306] = 2214592512,
 					[995] = 31449840,
 					[2307] = 652745282,
-					[1406] = 3825199239,
+					[2294] = 261630,
 					[2308] = 1111378306,
 					[2181] = 2667577345,
 					[2309] = 386,
@@ -2751,9 +2769,9 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Argent Dawn.Flumina"] = {
-				["HistoryBuild"] = "53212",
-				["HistorySize"] = 1811,
-				["HistoryLastUpdate"] = 1707284933,
+				["HistoryBuild"] = "53262",
+				["HistorySize"] = 1820,
+				["HistoryLastUpdate"] = 1707521160,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78447:2699|h[Aiding the Accord: Emerald Bounty]|h|r", -- [1]
 					"|cffffff00|Hquest:75665:2649|h[A Worthy Ally: Loamm Niffen]|h|r", -- [2]
@@ -2789,16 +2807,6 @@ DataStore_QuestsDB = {
 					"Riding", -- [8]
 					"Battle Pets", -- [9]
 				},
-				["Rewards"] = {
-					"r|200073|1|1", -- [1]
-					"r|205983|1|1", -- [2]
-					"r|166883|1|1", -- [3]
-					nil, -- [4]
-					"r|208417|1|1", -- [5]
-					nil, -- [6]
-					nil, -- [7]
-					"r|206566|1|1", -- [8]
-				},
 				["QuestTitles"] = {
 					"Aiding the Accord: Emerald Bounty", -- [1]
 					"A Worthy Ally: Loamm Niffen", -- [2]
@@ -2815,13 +2823,11 @@ DataStore_QuestsDB = {
 					"WEEKLY", -- [1]
 					"WEEKLY", -- [2]
 					261, -- [3]
-					nil, -- [4]
-					81, -- [5]
-					265, -- [6]
-					265, -- [7]
-					nil, -- [8]
-					102, -- [9]
-					102, -- [10]
+					[6] = 265,
+					[7] = 265,
+					[10] = 102,
+					[5] = 81,
+					[9] = 102,
 				},
 				["History"] = {
 					[2024] = 268435456,
@@ -3007,30 +3013,33 @@ DataStore_QuestsDB = {
 					[2309] = 386,
 					[2311] = 65793,
 					[1671] = 268435456,
+					[2316] = 402653184,
 					[1163] = 4,
-					[2323] = 3221225472,
+					[2323] = 3388997632,
 					[2324] = 10354688,
 					[1420] = 32768,
+					[1875] = 212096,
 					[2327] = 35840,
 					[2328] = 1610612736,
 					[2329] = 771751936,
 					[2330] = 536894464,
 					[2331] = 16396,
+					[2068] = 46694400,
 					[1424] = 16,
 					[1680] = 9172992,
-					[1875] = 212096,
-					[2068] = 46694400,
+					[2307] = 652745282,
+					[1684] = 16384,
 					[2337] = 2147614720,
 					[2338] = 2058,
 					[2339] = 3087007745,
 					[2340] = 1879048222,
 					[2341] = 810614792,
-					[1684] = 16384,
+					[2342] = 10485760,
 					[2343] = 8708,
 					[1685] = 2096894,
 					[2345] = 4029713409,
 					[2346] = 1026,
-					[2307] = 652745282,
+					[2348] = 8388608,
 					[1687] = 16,
 					[2349] = 263140,
 					[938] = 2147484030,
@@ -3053,7 +3062,7 @@ DataStore_QuestsDB = {
 					[977] = 128,
 					[2368] = 1063522818,
 					[2219] = 4,
-					[1381] = 16777216,
+					[1958] = 2147483648,
 					[978] = 163840,
 					[2372] = 106496,
 					[2373] = 135249920,
@@ -3067,71 +3076,71 @@ DataStore_QuestsDB = {
 					[2381] = 4294705153,
 					[2382] = 2,
 					[981] = 120,
-					[2187] = 134283264,
+					[1381] = 16777216,
 					[2385] = 3758096385,
 					[2386] = 126,
 					[2387] = 28706816,
-					[2183] = 4201916,
+					[2187] = 134283264,
 					[1963] = 524288,
-					[2227] = 792669505,
+					[2183] = 4201916,
 					[2391] = 268435456,
-					[1689] = 1051648,
+					[2227] = 792669505,
 					[2393] = 3758096384,
 					[2394] = 2147483648,
 					[1966] = 1,
-					[1341] = 536973312,
+					[1689] = 1051648,
 					[365] = 512,
 					[2398] = 1024,
 					[2399] = 128,
+					[1341] = 536973312,
 					[2344] = 527360,
 					[1571] = 4,
-					[950] = 128,
 					[986] = 4026531841,
+					[950] = 128,
 					[2286] = 131072,
-					[2359] = 8,
 					[2406] = 138412032,
 					[987] = 4294901787,
 					[1717] = 35684352,
+					[2359] = 8,
 					[1863] = 201326592,
-					[2287] = 1894252984,
 					[2411] = 1191112192,
-					[1345] = 256,
+					[2287] = 1894273464,
 					[367] = 524288,
-					[2351] = 2148532225,
+					[1345] = 256,
 					[1976] = 524288,
 					[2416] = 268435488,
+					[2351] = 2148532225,
 					[2397] = 268472320,
-					[1407] = 21886,
-					[2348] = 8388608,
+					[248] = 4194304,
 					[2420] = 536870944,
-					[984] = 1610612736,
+					[1407] = 21886,
 					[432] = 32768,
 					[2423] = 2032128,
-					[2371] = 29360128,
+					[984] = 1610612736,
 					[2425] = 7952,
-					[2415] = 3456,
+					[2371] = 29360128,
 					[992] = 225280,
 					[1216] = 16384,
-					[952] = 1610612737,
+					[2415] = 3456,
 					[1217] = 8388608,
 					[993] = 4292870145,
 					[2432] = 2483027968,
 					[2433] = 1073741830,
 					[2434] = 2147483652,
 					[994] = 526,
-					[1866] = 524288,
+					[952] = 1610612737,
 					[2437] = 134217728,
 					[2438] = 8388608,
 					[995] = 31449840,
-					[1816] = 128,
+					[1866] = 524288,
 					[2441] = 2097152,
 					[2442] = 262144,
 					[2443] = 268435456,
 					[2444] = 117440512,
-					[2255] = 520,
+					[1816] = 128,
 					[2446] = 2705326080,
 					[2447] = 8,
-					[996] = 1073750016,
+					[2255] = 520,
 					[2449] = 139460608,
 					[2450] = 270345,
 					[998] = 126085120,
@@ -3140,12 +3149,12 @@ DataStore_QuestsDB = {
 					[2454] = 68,
 					[999] = 3221323776,
 					[2456] = 3670016,
+					[996] = 1073750016,
 					[2451] = 3233810430,
-					[997] = 3255436224,
 					[1000] = 2152199558,
 					[2460] = 6291456,
 					[373] = 788480,
-					[2199] = 42,
+					[997] = 3255436224,
 					[1001] = 786688,
 					[2464] = 1073741824,
 					[2465] = 4002,
@@ -3153,8 +3162,8 @@ DataStore_QuestsDB = {
 					[1002] = 8192,
 					[2468] = 1,
 					[374] = 1073741824,
+					[2199] = 42,
 					[2453] = 688652288,
-					[1958] = 2147483648,
 					[2472] = 1,
 					[2207] = 536870912,
 					[2474] = 64,
@@ -3205,7 +3214,7 @@ DataStore_QuestsDB = {
 					["10.1.5"] = 6,
 					["10.2"] = 1,
 				},
-				["lastUpdate"] = 1707285068,
+				["lastUpdate"] = 1707521843,
 				["Quests"] = {
 					4591616, -- [1]
 					4593664, -- [2]
@@ -3333,14 +3342,14 @@ DataStore_QuestsDB = {
 					[2164] = 154,
 					[1340] = 67108864,
 					[997] = 3255436224,
-					[2163] = 3758057640,
+					[1468] = 8192,
 					[1341] = 536973312,
 					[401] = 2,
 					[1405] = 4134535169,
 					[2423] = 2032128,
 					[2293] = 4278190081,
 					[2166] = 2583003137,
-					[2294] = 261630,
+					[1406] = 3825199239,
 					[2167] = 1005033615,
 					[258] = 8192,
 					[2168] = 6106,
@@ -3356,8 +3365,8 @@ DataStore_QuestsDB = {
 					[1656] = 512,
 					[2183] = 4201916,
 					[2174] = 3619766273,
-					[2175] = 3569187773,
 					[994] = 512,
+					[2175] = 3569187773,
 					[2182] = 3612077320,
 					[2176] = 972,
 					[1014] = 4096,
@@ -3380,9 +3389,9 @@ DataStore_QuestsDB = {
 					[992] = 225280,
 					[1420] = 32768,
 					[2441] = 2097152,
-					[1406] = 3825199239,
+					[2294] = 261630,
 					[2442] = 262144,
-					[1468] = 8192,
+					[2163] = 3758057640,
 					[2188] = 4096,
 					[2275] = 25344,
 					[2444] = 117440512,
@@ -3990,8 +3999,8 @@ DataStore_QuestsDB = {
 					[2213] = 1073741824,
 					[2182] = 3612077320,
 					[990] = 268448016,
-					[248] = 2,
 					[991] = 33664,
+					[248] = 2,
 					[2211] = 4100,
 					[992] = 4294144001,
 					[2188] = 4096,
@@ -4075,9 +4084,9 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Argent Dawn.Stream"] = {
-				["lastUpdate"] = 1707446922,
+				["lastUpdate"] = 1707522638,
 				["HistorySize"] = 1142,
-				["HistoryLastUpdate"] = 1707446674,
+				["HistoryLastUpdate"] = 1707521908,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:66031:2154|h[Making Time]|h|r", -- [1]
 					"|cffffff00|Hquest:66030:2154|h[Resistance Isn't Futile]|h|r", -- [2]
@@ -4438,9 +4447,9 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1707454526,
+				["lastUpdate"] = 1707521091,
 				["HistorySize"] = 1188,
-				["HistoryLastUpdate"] = 1707454953,
+				["HistoryLastUpdate"] = 1707520790,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78447:2699|h[Aiding the Accord: Emerald Bounty]|h|r", -- [1]
 					"|cffffff00|Hquest:78600:2609|h[Amirdrassil, the Dream's Hope: Up in Smoke]|h|r", -- [2]
@@ -4448,12 +4457,13 @@ DataStore_QuestsDB = {
 					"|cffffff00|Hquest:78821:2699|h[Blooming Dreamseeds]|h|r", -- [4]
 					"|cffffff00|Hquest:72291:2437|h[Story of a Memorable Victory]|h|r", -- [5]
 					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [6]
-					"|cff808080|Hquest:29433:402|h[Test Your Strength]|h|r", -- [7]
-					"|cff808080|Hquest:78329:378|h[Love is in the Air]|h|r", -- [8]
-					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [9]
-					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [10]
-					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [11]
-					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [12]
+					"|cffffff00|Hquest:78820:2714|h[Technoscrying: The Mysteries of Igira's Watch]|h|r", -- [7]
+					"|cffffff00|Hquest:29433:402|h[Test Your Strength]|h|r", -- [8]
+					"|cffffff00|Hquest:78329:378|h[Love is in the Air]|h|r", -- [9]
+					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [10]
+					"|cffffff00|Hquest:75511:2474|h[Tracking Quest]|h|r", -- [11]
+					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [12]
+					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [13]
 				},
 				["QuestHeaders"] = {
 					"Guardians of the Dream", -- [1]
@@ -4463,10 +4473,11 @@ DataStore_QuestsDB = {
 					"Emerald Dream", -- [5]
 					"The Azure Span", -- [6]
 					"Tiragarde Sound", -- [7]
-					"Darkmoon Faire", -- [8]
-					"Love is in the Air", -- [9]
-					"Missing header! (quest designers)", -- [10]
-					"Battle Pets", -- [11]
+					"Azerothian Archives", -- [8]
+					"Darkmoon Faire", -- [9]
+					"Love is in the Air", -- [10]
+					"Missing header! (quest designers)", -- [11]
+					"Battle Pets", -- [12]
 				},
 				["Money"] = {
 					0, -- [1]
@@ -4476,11 +4487,15 @@ DataStore_QuestsDB = {
 					280900, -- [5]
 					0, -- [6]
 					0, -- [7]
-					10500, -- [8]
-					0, -- [9]
+					0, -- [8]
+					28090, -- [9]
 					0, -- [10]
-					202200, -- [11]
+					0, -- [11]
 					202200, -- [12]
+					202200, -- [13]
+				},
+				["Rewards"] = {
+					[4] = "r|211376|1|1",
 				},
 				["QuestTitles"] = {
 					"Aiding the Accord: Emerald Bounty", -- [1]
@@ -4489,12 +4504,13 @@ DataStore_QuestsDB = {
 					"Blooming Dreamseeds", -- [4]
 					"Story of a Memorable Victory", -- [5]
 					"Azerite for the Alliance", -- [6]
-					"Test Your Strength", -- [7]
-					"Love is in the Air", -- [8]
-					"Climbing", -- [9]
-					"Tracking Quest", -- [10]
-					"Sharptalon Team Up", -- [11]
-					"Snowfeather Team Rumble", -- [12]
+					"Technoscrying: The Mysteries of Igira's Watch", -- [7]
+					"Test Your Strength", -- [8]
+					"Love is in the Air", -- [9]
+					"Climbing", -- [10]
+					"Tracking Quest", -- [11]
+					"Sharptalon Team Up", -- [12]
+					"Snowfeather Team Rumble", -- [13]
 				},
 				["QuestTags"] = {
 					"WEEKLY", -- [1]
@@ -4503,10 +4519,11 @@ DataStore_QuestsDB = {
 					"WEEKLY", -- [4]
 					"WEEKLY", -- [5]
 					261, -- [6]
-					[11] = 102,
+					109, -- [7]
+					[11] = 265,
 					[10] = 265,
-					[9] = 265,
 					[12] = 102,
+					[13] = 102,
 				},
 				["History"] = {
 					[2024] = 268435456,
@@ -4807,12 +4824,13 @@ DataStore_QuestsDB = {
 					4597760, -- [4]
 					4599808, -- [5]
 					4601888, -- [6]
-					1982464, -- [7]
-					1984512, -- [8]
-					4608042, -- [9]
-					4608040, -- [10]
-					4610048, -- [11]
-					4610048, -- [12]
+					4603940, -- [7]
+					4605952, -- [8]
+					4608000, -- [9]
+					4610090, -- [10]
+					4610088, -- [11]
+					4612096, -- [12]
+					4612096, -- [13]
 				},
 			},
 			["Default.Argent Dawn.Cataracts"] = {
@@ -4906,8 +4924,8 @@ DataStore_QuestsDB = {
 					[2205] = 8192,
 					[1246] = 1090694912,
 					[1231] = 33554432,
-					[1183] = 536870912,
 					[2358] = 1048576,
+					[1183] = 536870912,
 					[1309] = 128,
 					[1227] = 1610645504,
 					[2442] = 262144,
@@ -4923,7 +4941,7 @@ DataStore_QuestsDB = {
 					[1250] = 1073741844,
 					[2365] = 1024,
 					[1378] = 8388608,
-					[1317] = 8,
+					[2371] = 29360128,
 					[1251] = 62,
 					[2437] = 134217728,
 					[1286] = 514,
@@ -4933,7 +4951,7 @@ DataStore_QuestsDB = {
 					[1380] = 4608,
 					[979] = 1060864,
 					[1253] = 71856128,
-					[2371] = 29360128,
+					[1317] = 8,
 					[1381] = 16777218,
 					[1322] = 131072,
 					[2500] = 1023410176,
@@ -4941,7 +4959,7 @@ DataStore_QuestsDB = {
 					[2307] = 648550978,
 					[2374] = 1,
 					[2434] = 2147483648,
-					[1203] = 8520192,
+					[986] = 4026531841,
 					[1269] = 2684354816,
 					[1447] = 2621440,
 					[2021] = 32768,
@@ -4954,7 +4972,7 @@ DataStore_QuestsDB = {
 					[2380] = 2684354560,
 					[1258] = 3934258305,
 					[2381] = 4294705153,
-					[1201] = 2148561952,
+					[2394] = 2147483648,
 					[2382] = 2,
 					[2255] = 512,
 					[1327] = 61472,
@@ -4963,13 +4981,13 @@ DataStore_QuestsDB = {
 					[1260] = 8192,
 					[2175] = 3569187773,
 					[2258] = 16777216,
-					[1395] = 1073741825,
+					[2272] = 512,
 					[2274] = 256,
 					[2387] = 28704768,
 					[2275] = 25344,
 					[1198] = 940597528,
 					[1262] = 211812352,
-					[1151] = 33554432,
+					[1406] = 3825199239,
 					[2262] = 32768,
 					[1199] = 123734218,
 					[1263] = 4,
@@ -4979,7 +4997,7 @@ DataStore_QuestsDB = {
 					[1264] = 64,
 					[2393] = 3758096384,
 					[1664] = 16,
-					[2394] = 2147483648,
+					[1201] = 2148561952,
 					[2267] = 16,
 					[2395] = 671089664,
 					[1656] = 512,
@@ -4990,7 +5008,7 @@ DataStore_QuestsDB = {
 					[2398] = 1024,
 					[1267] = 512,
 					[2399] = 128,
-					[2272] = 512,
+					[1395] = 1073741825,
 					[1204] = 4,
 					[1268] = 16777216,
 					[2285] = 516096,
@@ -5007,8 +5025,8 @@ DataStore_QuestsDB = {
 					[1271] = 262144,
 					[1335] = 516,
 					[2416] = 268435488,
-					[1340] = 85987328,
-					[1406] = 3825199239,
+					[2162] = 1272496640,
+					[2294] = 261630,
 					[1336] = 2097154,
 					[2164] = 154,
 					[1209] = 536936448,
@@ -5025,22 +5043,22 @@ DataStore_QuestsDB = {
 					[1215] = 1124073472,
 					[1212] = 67133568,
 					[1276] = 770048,
-					[2162] = 1272496640,
+					[1340] = 85987328,
 					[1404] = 67108864,
-					[1213] = 2902458369,
-					[1661] = 2074,
+					[2163] = 3758057640,
+					[1151] = 33554432,
 					[1341] = 536973312,
 					[1405] = 4134539265,
 					[1214] = 2147745934,
 					[2293] = 4278190081,
 					[2166] = 2583003137,
-					[2294] = 261630,
+					[1661] = 2074,
 					[2167] = 1005033615,
 					[258] = 8192,
 					[2423] = 2032128,
 					[1407] = 21886,
 					[1216] = 16388,
-					[2163] = 3758057640,
+					[1213] = 2902458369,
 					[2425] = 7952,
 					[1663] = 4194304,
 					[1217] = 134217728,
@@ -5050,7 +5068,7 @@ DataStore_QuestsDB = {
 					[988] = 1022,
 					[1282] = 1024,
 					[2174] = 3619766273,
-					[986] = 4026531841,
+					[1203] = 8520192,
 					[994] = 512,
 					[1283] = 2105856,
 					[2176] = 972,
@@ -5059,17 +5077,17 @@ DataStore_QuestsDB = {
 					[1539] = 4194304,
 					[2433] = 1073741824,
 					[2306] = 2214592512,
-					[995] = 31449840,
+					[1221] = 3712,
 					[1285] = 2147485953,
 					[1014] = 4096,
 					[2308] = 37620098,
 					[2181] = 2667577345,
 					[2309] = 384,
 					[2182] = 3612077320,
-					[1221] = 3712,
-					[2183] = 4201916,
-					[2311] = 65793,
+					[995] = 31449840,
 					[996] = 1073741824,
+					[2311] = 65793,
+					[2183] = 4201916,
 					[2465] = 1954,
 					[1224] = 917504,
 					[1242] = 1082144834,
@@ -5106,16 +5124,16 @@ DataStore_QuestsDB = {
 			["Default.Argent Dawn.Sverdrup"] = {
 				["HistoryBuild"] = "53262",
 				["HistorySize"] = 2776,
-				["HistoryLastUpdate"] = 1707425791,
+				["HistoryLastUpdate"] = 1707525071,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78447:2699|h[Aiding the Accord: Emerald Bounty]|h|r", -- [1]
 					"|cff808080|Hquest:48642:347|h[Argussian Reach]|h|r", -- [2]
-					"|cff808080|Hquest:42233:347|h[Highmountain Tribes]|h|r", -- [3]
-					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [4]
-					"|cff808080|Hquest:56439:713|h[Mechanical Egg Sac]|h|r", -- [5]
-					"|cff808080|Hquest:56120:464|h[The Unshackled]|h|r", -- [6]
-					"|cffffff00|Hquest:75722:2424|h[Drake's Shadowflame Crest]|h|r", -- [7]
-					"|cff808080|Hquest:50598:464|h[Zandalari Empire]|h|r", -- [8]
+					"|cff808080|Hquest:48639:347|h[Army of the Light]|h|r", -- [3]
+					"|cff808080|Hquest:56439:713|h[Mechanical Egg Sac]|h|r", -- [4]
+					"|cff808080|Hquest:56120:464|h[The Unshackled]|h|r", -- [5]
+					"|cff808080|Hquest:42234:347|h[The Valarjar]|h|r", -- [6]
+					"|cff808080|Hquest:50603:464|h[Voldunai]|h|r", -- [7]
+					"|cffffff00|Hquest:75722:2424|h[Drake's Shadowflame Crest]|h|r", -- [8]
 					"|cff808080|Hquest:53435:289|h[Azerite for the Horde]|h|r", -- [9]
 					"|cff808080|Hquest:56187:740|h[Black Winged Shadow]|h|r", -- [10]
 					"|cffffff00|Hquest:53467:517|h[Caverns of Time]|h|r", -- [11]
@@ -5128,13 +5146,13 @@ DataStore_QuestsDB = {
 					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [18]
 					"|cff808080|Hquest:44968:347|h[Snowfeather Team Rumble]|h|r", -- [19]
 				},
-				["lastUpdate"] = 1707425935,
+				["lastUpdate"] = 1707525279,
 				["Money"] = {
 					0, -- [1]
 					0, -- [2]
 					0, -- [3]
-					0, -- [4]
-					128700, -- [5]
+					128700, -- [4]
+					0, -- [5]
 					0, -- [6]
 					0, -- [7]
 					0, -- [8]
@@ -5153,22 +5171,24 @@ DataStore_QuestsDB = {
 				["Rewards"] = {
 					nil, -- [1]
 					"r|157831|1|1", -- [2]
-					"r|157823|1|1", -- [3]
-					"r|157829|1|1", -- [4]
-					"r|168327|1|1,r|166846|75|1", -- [5]
-					[14] = "r|198607|1|1",
-					[7] = "r|204195|1|1",
+					"r|157829|1|1", -- [3]
+					"r|168327|1|1,r|166846|75|1", -- [4]
+					nil, -- [5]
+					"r|157824|1|1", -- [6]
+					nil, -- [7]
+					"r|204195|1|1", -- [8]
 					[15] = "r|198607|1|1",
+					[14] = "r|198607|1|1",
 				},
 				["QuestTitles"] = {
 					"Aiding the Accord: Emerald Bounty", -- [1]
 					"Argussian Reach", -- [2]
-					"Highmountain Tribes", -- [3]
-					"Army of the Light", -- [4]
-					"Mechanical Egg Sac", -- [5]
-					"The Unshackled", -- [6]
-					"Drake's Shadowflame Crest", -- [7]
-					"Zandalari Empire", -- [8]
+					"Army of the Light", -- [3]
+					"Mechanical Egg Sac", -- [4]
+					"The Unshackled", -- [5]
+					"The Valarjar", -- [6]
+					"Voldunai", -- [7]
+					"Drake's Shadowflame Crest", -- [8]
 					"Azerite for the Horde", -- [9]
 					"Black Winged Shadow", -- [10]
 					"Caverns of Time", -- [11]
@@ -5185,15 +5205,15 @@ DataStore_QuestsDB = {
 					"WEEKLY", -- [1]
 					128, -- [2]
 					128, -- [3]
-					128, -- [4]
 					[13] = 265,
+					[7] = 128,
 					[14] = 267,
 					[15] = 267,
-					[8] = 128,
 					[16] = 62,
 					[9] = 261,
-					[18] = 102,
+					[5] = 128,
 					[19] = 102,
+					[18] = 102,
 					[6] = 128,
 					[12] = 265,
 					[17] = 128,
@@ -5832,19 +5852,20 @@ DataStore_QuestsDB = {
 					"Embers of Neltharion", -- [3]
 					"Valdrakken Accord", -- [4]
 					"Eredath", -- [5]
-					"Highmountain", -- [6]
-					"Krokuun", -- [7]
-					"Mechagon", -- [8]
-					"Nazjatar", -- [9]
-					"Zaralek Cavern", -- [10]
-					"Zuldazar", -- [11]
-					"Heart of Azeroth", -- [12]
-					"Mag'har Orc", -- [13]
-					"Missing header! (quest designers)", -- [14]
-					"Professions", -- [15]
-					"Raid", -- [16]
-					"World Quest", -- [17]
-					"Battle Pets", -- [18]
+					"Krokuun", -- [6]
+					"Mechagon", -- [7]
+					"Nazjatar", -- [8]
+					"Stormheim", -- [9]
+					"Vol'dun", -- [10]
+					"Zaralek Cavern", -- [11]
+					"Zuldazar", -- [12]
+					"Heart of Azeroth", -- [13]
+					"Mag'har Orc", -- [14]
+					"Missing header! (quest designers)", -- [15]
+					"Professions", -- [16]
+					"Raid", -- [17]
+					"World Quest", -- [18]
+					"Battle Pets", -- [19]
 				},
 				["StorylineProgress"] = {
 					["10.1"] = 0,
@@ -5873,36 +5894,36 @@ DataStore_QuestsDB = {
 					4591616, -- [1]
 					4597800, -- [2]
 					4599848, -- [3]
-					4601896, -- [4]
-					3948544, -- [5]
-					3295272, -- [6]
-					4608000, -- [7]
-					3299368, -- [8]
-					4610080, -- [9]
-					4612096, -- [10]
-					4614144, -- [11]
-					4616234, -- [12]
-					4616232, -- [13]
-					4618240, -- [14]
-					4618240, -- [15]
-					4620288, -- [16]
-					3311656, -- [17]
-					4624384, -- [18]
-					4624384, -- [19]
+					3946496, -- [4]
+					3293224, -- [5]
+					4605992, -- [6]
+					3297320, -- [7]
+					4610048, -- [8]
+					4612128, -- [9]
+					4614144, -- [10]
+					4616192, -- [11]
+					4618282, -- [12]
+					4618280, -- [13]
+					4620288, -- [14]
+					4620288, -- [15]
+					4622336, -- [16]
+					3313704, -- [17]
+					4626432, -- [18]
+					4626432, -- [19]
 				},
 				["Emissaries"] = {
-					[48642] = "0|4|2522|0/4 Complete 4 Argussian Reach World Quests|1707425935|Argussian Reach",
-					[56120] = "0|4|2522|0/4 Complete world quests in Nazjatar|1707425935|The Unshackled",
-					[48639] = "0|4|3962|0/4 Complete 4 Army of the Light World Quests|1707425935|Army of the Light",
-					[42233] = "0|4|1082|0/4 Complete 4 world quests in Highmountain.|1707425935|Highmountain Tribes",
-					[50598] = "0|4|1082|0/4 Complete 4 world quests in Zuldazar.|1707425935|Zandalari Empire",
-					[50604] = "0|3|3962|0/3 Complete 3 Tortollan Seeker World Quests|1707425935|Tortollan Seekers",
+					[48642] = "0|4|867|0/4 Complete 4 Argussian Reach World Quests|1707525279|Argussian Reach",
+					[56120] = "0|4|866|0/4 Complete world quests in Nazjatar|1707525279|The Unshackled",
+					[48639] = "0|4|2307|0/4 Complete 4 Army of the Light World Quests|1707525279|Army of the Light",
+					[50603] = "0|4|3746|0/4 Complete 4 world quests in Vol'dun|1707525279|Voldunai",
+					[50604] = "0|3|2306|0/3 Complete 3 Tortollan Seeker World Quests|1707525279|Tortollan Seekers",
+					[42234] = "0|4|3747|0/4 Complete 4 world quests in Stormheim|1707525279|The Valarjar",
 				},
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["HistoryBuild"] = "53262",
-				["HistorySize"] = 1785,
-				["HistoryLastUpdate"] = 1707440407,
+				["HistorySize"] = 1790,
+				["HistoryLastUpdate"] = 1707523986,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78447:2699|h[Aiding the Accord: Emerald Bounty]|h|r", -- [1]
 					"|cffffff00|Hquest:72354:2474|h[The Great Vault]|h|r", -- [2]
@@ -5943,10 +5964,6 @@ DataStore_QuestsDB = {
 					"Battle Pets", -- [11]
 				},
 				["Rewards"] = {
-					"r|200073|1|1", -- [1]
-					nil, -- [2]
-					"r|166883|1|1", -- [3]
-					"r|205983|1|1", -- [4]
 					[9] = "r|198613|1|1",
 				},
 				["QuestTitles"] = {
@@ -6279,7 +6296,7 @@ DataStore_QuestsDB = {
 					[2376] = 33554432,
 					[929] = 3758096436,
 					[2378] = 8,
-					[2379] = 466848,
+					[1447] = 2621440,
 					[2380] = 2684354560,
 					[2381] = 4294705153,
 					[2382] = 2,
@@ -6309,7 +6326,7 @@ DataStore_QuestsDB = {
 					[2406] = 134217728,
 					[1461] = 896,
 					[987] = 4294901787,
-					[2197] = 268451840,
+					[2197] = 272646144,
 					[1871] = 268435520,
 					[2411] = 1191112192,
 					[2412] = 67108864,
@@ -6343,9 +6360,9 @@ DataStore_QuestsDB = {
 					[1982] = 1,
 					[2441] = 2097152,
 					[2442] = 262400,
-					[996] = 1073741824,
-					[2444] = 117440512,
 					[2443] = 268435456,
+					[2444] = 117440512,
+					[996] = 1073741824,
 					[2446] = 2151677952,
 					[2447] = 201326592,
 					[2448] = 33554434,
@@ -6367,7 +6384,7 @@ DataStore_QuestsDB = {
 					[2464] = 1073741824,
 					[2465] = 4002,
 					[2466] = 16777312,
-					[1447] = 2621440,
+					[2379] = 466848,
 					[2468] = 1,
 					[2469] = 32,
 					[2339] = 939524097,
@@ -6422,7 +6439,7 @@ DataStore_QuestsDB = {
 					["10.0"] = 0,
 					["10.2"] = 5,
 				},
-				["lastUpdate"] = 1707441107,
+				["lastUpdate"] = 1707524155,
 				["Quests"] = {
 					4591616, -- [1]
 					4595712, -- [2]
@@ -6438,15 +6455,15 @@ DataStore_QuestsDB = {
 				},
 			},
 			["Default.Argent Dawn.Mangrove"] = {
-				["lastUpdate"] = 1707446181,
+				["lastUpdate"] = 1707522942,
 				["HistorySize"] = 1230,
-				["HistoryLastUpdate"] = 1707445912,
+				["HistoryLastUpdate"] = 1707522721,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:72374:2437|h[Aiding the Accord: Dragonbane Keep]|h|r", -- [1]
 					"|cffffff00|Hquest:70122:2307|h[Explorers in Peril]|h|r", -- [2]
 					"|cffffff00|Hquest:70124:2307|h[Practice Materials]|h|r", -- [3]
 					"|cffffff00|Hquest:70123:2307|h[Primal Pests]|h|r", -- [4]
-					"|cff40c040|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [5]
+					"|cff808080|Hquest:53436:289|h[Azerite for the Alliance]|h|r", -- [5]
 					"|cffffff00|Hquest:29444:402|h[An Exotic Egg]|h|r", -- [6]
 					"|cffffff00|Hquest:72560:2523|h[Climbing]|h|r", -- [7]
 					"|cff808080|Hquest:44999:347|h[Sharptalon Team Up]|h|r", -- [8]
@@ -6454,9 +6471,9 @@ DataStore_QuestsDB = {
 				},
 				["Money"] = {
 					0, -- [1]
-					266800, -- [2]
-					266800, -- [3]
-					266800, -- [4]
+					269148, -- [2]
+					269148, -- [3]
+					269148, -- [4]
 					0, -- [5]
 					0, -- [6]
 					0, -- [7]
@@ -6470,9 +6487,6 @@ DataStore_QuestsDB = {
 					"Darkmoon Faire", -- [4]
 					"Missing header! (quest designers)", -- [5]
 					"Battle Pets", -- [6]
-				},
-				["Rewards"] = {
-					"r|200073|1|1", -- [1]
 				},
 				["QuestTitles"] = {
 					"Aiding the Accord: Dragonbane Keep", -- [1]
@@ -6816,21 +6830,21 @@ DataStore_QuestsDB = {
 				},
 				["HistoryBuild"] = "53262",
 				["Quests"] = {
-					4196352, -- [1]
-					4198400, -- [2]
-					4198400, -- [3]
-					4198400, -- [4]
-					4200480, -- [5]
-					4202496, -- [6]
-					4204586, -- [7]
-					4206592, -- [8]
-					4206592, -- [9]
+					4261888, -- [1]
+					4263936, -- [2]
+					4263936, -- [3]
+					4263936, -- [4]
+					4266016, -- [5]
+					4268032, -- [6]
+					4270122, -- [7]
+					4272128, -- [8]
+					4272128, -- [9]
 				},
 			},
 			["Default.Argent Dawn.Confluence"] = {
 				["HistoryBuild"] = "53262",
-				["HistorySize"] = 1602,
-				["HistoryLastUpdate"] = 1707446986,
+				["HistorySize"] = 1604,
+				["HistoryLastUpdate"] = 1707520308,
 				["QuestLinks"] = {
 					"|cffffff00|Hquest:78447:2699|h[Aiding the Accord: Emerald Bounty]|h|r", -- [1]
 					"|cffffff00|Hquest:72354:2474|h[The Great Vault]|h|r", -- [2]
@@ -6873,12 +6887,8 @@ DataStore_QuestsDB = {
 					202200, -- [12]
 				},
 				["Rewards"] = {
-					"r|200073|1|1", -- [1]
-					nil, -- [2]
-					"r|166883|1|1", -- [3]
-					"r|205983|1|1", -- [4]
 					[8] = "r|198606|1|1",
-					[10] = "r|206960|1|1,r|210916|1|1,r|210180|1|1,r|208047|1|1",
+					[10] = "r|208047|1|1",
 					[9] = "r|198606|1|1",
 				},
 				["QuestTitles"] = {
@@ -7126,6 +7136,7 @@ DataStore_QuestsDB = {
 					[1929] = 1572864,
 					[2322] = 49152,
 					[1420] = 32768,
+					[2326] = 1073741824,
 					[1934] = 262148,
 					[1424] = 16,
 					[1680] = 9172992,
@@ -7217,10 +7228,10 @@ DataStore_QuestsDB = {
 					[994] = 512,
 					[2446] = 2151677952,
 					[997] = 3255436224,
-					[2451] = 3234727934,
+					[998] = 126085120,
 					[2449] = 407896064,
 					[2450] = 1074667593,
-					[998] = 126085120,
+					[2451] = 3234727934,
 					[2452] = 2498560,
 					[2453] = 688652288,
 					[2454] = 68,
@@ -7291,7 +7302,7 @@ DataStore_QuestsDB = {
 					["10.1.5"] = 0,
 					["10.2"] = 6,
 				},
-				["lastUpdate"] = 1707447182,
+				["lastUpdate"] = 1707520521,
 				["Quests"] = {
 					4591616, -- [1]
 					4595712, -- [2]

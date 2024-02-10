@@ -14,11 +14,11 @@ DevToolDatabase = {
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -35,6 +35,7 @@ DevToolDatabase = {
 		["Emptystreams - Argent Dawn"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
+			["collResizeWidth"] = 249.9998779296875,
 			["history"] = {
 				"DataStore.IsQuestCompletedBy(DataStore:GetCharacterTable(\"DataStore_Quests\", \"Headcut\"), 70516)", -- [1]
 				"ASDFJKL", -- [2]
@@ -46,7 +47,6 @@ DevToolDatabase = {
 				"startswith DevTool", -- [8]
 				"DevTool.settings.history", -- [9]
 			},
-			["collResizeWidth"] = 249.9998779296875,
 		},
 		["Sverdrup - Argent Dawn"] = {
 		},
@@ -80,7 +80,7 @@ DevToolDatabase = {
 		},
 		["Riparium - Argent Dawn"] = {
 		},
-		["Benthos - Argent Dawn"] = {
+		["Zimuures - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
@@ -88,7 +88,7 @@ DevToolDatabase = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Zimuures - Argent Dawn"] = {
+		["Benthos - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

@@ -645,26 +645,27 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Training with the Nightwatchers",
 					["code"] = "change(#1) [round=7]\nchange(#3) [round=6]\nchange(#2) [round=3]\nuse(Magic Hat:478) [round=8]\nuse(Call Blizzard:206) [!enemy(#3).active]\nuse(Deep Freeze:481) [round=2]\nuse(Deep Freeze:481) [enemy.hp<371 & enemy(#2).active]\nuse(Magic Hat:478)\nuse(Twilight Fire:1890) [enemy(#2).active]\nuse(Darkflame:792) [enemy(#3).active]\nuse(Wing Buffet:1756)\nstandby\nchange(#2)",
 				},
-				["team:176"] = {
-					["name"] = "Mini Manafiend Melee",
-					["code"] = "ability(#1) [self(#3).active]\nability(Flyby:515) [round=1]\nability(Breath:115) [enemy.aura(Weakened Defenses:516).exists]\nability(Thunderbolt:779) [self(#2).active]\nability(Explode:282)\nchange(next)",
+				["team:5"] = {
+					["author"] = "Emptyrivers-Bleeding Hollow",
+					["name"] = "Gargra",
+					["code"] = "change(#2) [enemy(#2).active & !self(#2).played]\nchange(#1) [self(#2).active]\nuse(Fel Immolate:901) [enemy(#3).active]\nuse(Supercharge:208)\nuse(Haywire:916)\nuse(Ion Cannon:209)\nchange(#3)",
 				},
 				["team:69"] = {
 					["author"] = "Emptyrivers-Arthas",
 					["name"] = "Keeyo's Champions of Vol'dun",
 					["code"] = "change(next) [ self.dead ]\nif [ self(#1).active ] \n  use(#2) [ self.round == 1 ]\n  use(#2) [ enemy.aura(Dodge).exists ]\n  standby [ enemy(#3).hpp<=50 ]\n  use(#3)\n  use(#1)\nendif\n\nchange(next) [ self(#2).active & !self(#3).played ] \n\nif [ self(#3).active ] \n  use(#3)\n  use(#1)\nendif",
 				},
-				["team:58"] = {
-					["name"] = "Eye of the Stormling",
-					["code"] = "use(Thunderbolt:779)\nuse(Explode:282)\nchange(next)",
+				["team:225"] = {
+					["name"] = "Vilefang",
+					["code"] = "ability(Ironskin:1758)\nability(Predatory Strike:518) [enemy.aura(Shattered Defenses:542).exists]\nability(#1)\nchange(next)",
 				},
 				["team:20"] = {
 					["name"] = "My Beast's Bidding",
 					["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
 				},
-				["team:225"] = {
-					["name"] = "Vilefang",
-					["code"] = "ability(Ironskin:1758)\nability(Predatory Strike:518) [enemy.aura(Shattered Defenses:542).exists]\nability(#1)\nchange(next)",
+				["team:58"] = {
+					["name"] = "Eye of the Stormling",
+					["code"] = "use(Thunderbolt:779)\nuse(Explode:282)\nchange(next)",
 				},
 				["team:1"] = {
 					["name"] = "Flummoxed (Mech)",
@@ -834,10 +835,9 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Christoph VonFeasel",
 					["code"] = "if [ self(Enchanted Broom:213).active ]\nability(Sweep:457) [ self.round == 1 ]\nability(Wind-Up:459) [ self.round ==2 ]\nchange(Iron Starlette:1387) [ self.round ==3 ]\nendif\nif [ self(Iron Starlette:1387).active ]\nability(Wind-Up:459) [ self.round ==1 ]\nability(Supercharge:208) [ self.round ==2 ]\nability(Wind-Up:459) [ self.round ==3 ]\nability(Toxic Smoke:640) [ self.round > 3 ]\nchange(#2) [ self(Iron Starlette:1387).dead ]\nendif\nchange(Enchanted Broom:213) [ self(#2).active ]\nif [ self(Enchanted Broom:213).active ]\nability(Sweep:457) [ self.round ==1 ]\nability(Wind-Up:459) [ self.round > 1 & self.round < 5 ]\nability(Batter:455) [ self.round > 4 ]\nendif",
 				},
-				["team:5"] = {
-					["author"] = "Emptyrivers-Bleeding Hollow",
-					["name"] = "Gargra",
-					["code"] = "change(#2) [enemy(#2).active & !self(#2).played]\nchange(#1) [self(#2).active]\nuse(Fel Immolate:901) [enemy(#3).active]\nuse(Supercharge:208)\nuse(Haywire:916)\nuse(Ion Cannon:209)\nchange(#3)",
+				["team:176"] = {
+					["name"] = "Mini Manafiend Melee",
+					["code"] = "ability(#1) [self(#3).active]\nability(Flyby:515) [round=1]\nability(Breath:115) [enemy.aura(Weakened Defenses:516).exists]\nability(Thunderbolt:779) [self(#2).active]\nability(Explode:282)\nchange(next)",
 				},
 				["team:148"] = {
 					["name"] = "Farmer Nishi",
@@ -887,11 +887,11 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Crazyrivers - Bleeding Hollow"] = "Default",
 		["Wildrivers - Bleeding Hollow"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
-		["Benthos - Argent Dawn"] = "Default",
+		["Zimuures - Argent Dawn"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
-		["Emptyrivers - Arthas"] = "Default",
-		["Crazyrivers - Sargeras"] = "Default",
 		["Testrivers - Arthas"] = "Default",
+		["Crazyrivers - Sargeras"] = "Default",
+		["Emptyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Luckyrivers - Sargeras"] = "Default",
 		["Alandere - Argent Dawn"] = "Default",
@@ -912,12 +912,12 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Cataracts - Argent Dawn"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Testes - Arthas"] = "Default",
@@ -926,7 +926,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Karst - Argent Dawn"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Zimuures - Argent Dawn"] = "Default",
+		["Benthos - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {

@@ -4,7 +4,7 @@ REKeysSettings = {
 		["hide"] = false,
 	},
 	["OfflinePlayers"] = false,
-	["ResetTimestamp"] = 381446,
+	["ResetTimestamp"] = 299479,
 	["FullDungeonName"] = false,
 	["PinnedCharacters"] = {
 	},
@@ -17,4 +17,22 @@ REKeysSettings = {
 	["Sorting"] = 1,
 }
 REKeysDB2 = {
+	["Fortybelow-Proudmoore"] = {
+		["MapID"] = 168,
+		["Fresh"] = true,
+		["Faction"] = "Alliance",
+		["Group"] = true,
+		["Level"] = 23,
+		["Class"] = "DEATHKNIGHT",
+		["Rating"] = 3047,
+	},
+	["Magesniper-Windrunner"] = {
+		["MapID"] = 248,
+		["Fresh"] = true,
+		["Faction"] = "Alliance",
+		["Group"] = true,
+		["Level"] = 21,
+		["Class"] = "MAGE",
+		["Rating"] = 2069,
+	},
 }

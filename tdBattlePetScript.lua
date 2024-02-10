@@ -18,9 +18,9 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Confluence - Argent Dawn"] = "Default",
 		["Crazyrivers - Sargeras"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
-		["Zimuures - Argent Dawn"] = "Default",
 		["Benthos - Argent Dawn"] = "Default",
-		["Emptyrivers - Arthas"] = "Default",
+		["Zimuures - Argent Dawn"] = "Default",
+		["Testrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Luckyrivers - Sargeras"] = "Default",
 		["Alandere - Argent Dawn"] = "Default",
@@ -37,10 +37,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Feralrivers - Sargeras"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Cataracts - Argent Dawn"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Eysta - Sargeras"] = "Default",
@@ -55,7 +55,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Karst - Argent Dawn"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Testrivers - Arthas"] = "Default",
+		["Emptyrivers - Arthas"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
 	["global"] = {
@@ -698,14 +698,14 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Farmer Nishi",
 					["code"] = "change(#2) [self(#1).dead & !self(#2).played]\nchange(#3) [self(#2).active]\nability(Pump) [enemy.round=1]\nability(Pump) [enemy.round=3 & enemy(#2).active]\nability(Cleansing Rain) [enemy.round=2]\nability(Water Jet)\nability(Shock and Awe)\nability(Ion Cannon) (edited)",
 				},
+				["team:176"] = {
+					["name"] = "Mini Manafiend Melee",
+					["code"] = "ability(#1) [self(#3).active]\nability(Flyby:515) [round=1]\nability(Breath:115) [enemy.aura(Weakened Defenses:516).exists]\nability(Thunderbolt:779) [self(#2).active]\nability(Explode:282)\nchange(next)",
+				},
 				["team:5"] = {
 					["author"] = "Emptyrivers-Bleeding Hollow",
 					["name"] = "Gargra",
 					["code"] = "change(#2) [enemy(#2).active & !self(#2).played]\nchange(#1) [self(#2).active]\nuse(Fel Immolate:901) [enemy(#3).active]\nuse(Supercharge:208)\nuse(Haywire:916)\nuse(Ion Cannon:209)\nchange(#3)",
-				},
-				["team:176"] = {
-					["name"] = "Mini Manafiend Melee",
-					["code"] = "ability(#1) [self(#3).active]\nability(Flyby:515) [round=1]\nability(Breath:115) [enemy.aura(Weakened Defenses:516).exists]\nability(Thunderbolt:779) [self(#2).active]\nability(Explode:282)\nchange(next)",
 				},
 				["team:69"] = {
 					["author"] = "Emptyrivers-Arthas",
@@ -721,9 +721,9 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "My Beast's Bidding",
 					["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
 				},
-				["team:58"] = {
-					["name"] = "Eye of the Stormling",
-					["code"] = "use(Thunderbolt:779)\nuse(Explode:282)\nchange(next)",
+				["team:225"] = {
+					["name"] = "Vilefang",
+					["code"] = "ability(Ironskin:1758)\nability(Predatory Strike:518) [enemy.aura(Shattered Defenses:542).exists]\nability(#1)\nchange(next)",
 				},
 				["team:1"] = {
 					["name"] = "Flummoxed (Mech)",
@@ -884,9 +884,9 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 					["name"] = "Deathscreech",
 					["code"] = "ability(#2) [round=1] \nability(#3) [round=2] \nchange(#2) [self(#1).dead] \nability(#2) [self.round=1] \nability(#3)",
 				},
-				["team:225"] = {
-					["name"] = "Vilefang",
-					["code"] = "ability(Ironskin:1758)\nability(Predatory Strike:518) [enemy.aura(Shattered Defenses:542).exists]\nability(#1)\nchange(next)",
+				["team:58"] = {
+					["name"] = "Eye of the Stormling",
+					["code"] = "use(Thunderbolt:779)\nuse(Explode:282)\nchange(next)",
 				},
 				["team:277"] = {
 					["name"] = "Christoph VonFeasel",

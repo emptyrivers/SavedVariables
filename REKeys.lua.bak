@@ -4,7 +4,7 @@ REKeysSettings = {
 		["hide"] = false,
 	},
 	["OfflinePlayers"] = false,
-	["ResetTimestamp"] = 381587,
+	["ResetTimestamp"] = 304982,
 	["FullDungeonName"] = false,
 	["PinnedCharacters"] = {
 	},

@@ -87,16 +87,18 @@ BigWigs3DB = {
 		["BigWigs_Plugins_Bars"] = {
 			["profiles"] = {
 				["Default"] = {
-					["BigWigsEmphasizeAnchor_y"] = 493.4334266554724,
-					["BigWigsEmphasizeAnchor_height"] = 21.99989891052246,
 					["BigWigsAnchor_width"] = 220.0000610351563,
+					["BigWigsEmphasizeAnchor_height"] = 21.99989891052246,
+					["BigWigsAnchor_height"] = 15.99998664855957,
+					["BigWigsEmphasizeAnchor_y"] = 493.4334266554724,
 					["BigWigsEmphasizeAnchor_width"] = 319.9998474121094,
 					["BigWigsEmphasizeAnchor_x"] = 566.400008664812,
-					["BigWigsAnchor_height"] = 15.99998664855957,
 				},
 			},
 		},
 		["BigWigs_Plugins_Super Emphasize"] = {
+		},
+		["BigWigs_Bosses_Fyrakk the Blazing"] = {
 		},
 		["BigWigs_Plugins_Wipe"] = {
 		},
@@ -105,6 +107,13 @@ BigWigs3DB = {
 				["Default"] = {
 					["custom_off_381615"] = true,
 					[381615] = 4112631,
+				},
+			},
+		},
+		["BigWigs_Plugins_Proximity"] = {
+			["profiles"] = {
+				["Default"] = {
+					["width"] = 139.9999847412109,
 				},
 			},
 		},
@@ -123,13 +132,6 @@ BigWigs3DB = {
 						3.809352397918701, -- [3]
 						-146.1905822753906, -- [4]
 					},
-				},
-			},
-		},
-		["BigWigs_Plugins_Proximity"] = {
-			["profiles"] = {
-				["Default"] = {
-					["width"] = 139.9999847412109,
 				},
 			},
 		},
@@ -371,16 +373,6 @@ BigWigsStatsDB = {
 				["kills"] = 1,
 			},
 		},
-		[2167] = {
-			["heroic"] = {
-				["best"] = 22.95699999999488,
-				["kills"] = 1,
-			},
-			["LFR"] = {
-				["best"] = 296.486000000034,
-				["kills"] = 1,
-			},
-		},
 		[2146] = {
 			["heroic"] = {
 				["best"] = 19.26000000000931,
@@ -388,6 +380,16 @@ BigWigsStatsDB = {
 			},
 			["LFR"] = {
 				["best"] = 128.481,
+				["kills"] = 1,
+			},
+		},
+		[2167] = {
+			["heroic"] = {
+				["best"] = 22.95699999999488,
+				["kills"] = 1,
+			},
+			["LFR"] = {
+				["best"] = 296.486000000034,
 				["kills"] = 1,
 			},
 		},
@@ -653,8 +655,8 @@ BigWigsStatsDB = {
 		},
 		[2519] = {
 			["heroic"] = {
-				["kills"] = 3,
-				["wipes"] = 64,
+				["kills"] = 4,
+				["wipes"] = 69,
 				["best"] = 478.2239999999292,
 			},
 			["normal"] = {

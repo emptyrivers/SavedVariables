@@ -1,17 +1,17 @@
 
 HandyNotes_DragonflightTreasuresDB = {
 	["char"] = {
-		["Riparium - Argent Dawn"] = {
-			["hidden"] = {
-				[2112] = {
-					[62815726] = true,
-				},
-			},
-		},
 		["Emptyrivers - Argent Dawn"] = {
 			["hidden"] = {
 				[2023] = {
 					[41546227] = true,
+				},
+			},
+		},
+		["Riparium - Argent Dawn"] = {
+			["hidden"] = {
+				[2112] = {
+					[62815726] = true,
 				},
 			},
 		},
@@ -44,9 +44,9 @@ HandyNotes_DragonflightTreasuresDB = {
 	["profiles"] = {
 		["Stream - Argent Dawn"] = {
 			["groupsHidden"] = {
-				["races"] = true,
-				["magicbound"] = true,
 				["glyphs"] = true,
+				["magicbound"] = true,
+				["races"] = true,
 			},
 			["achievementsHidden"] = {
 				[16576] = true,
@@ -91,23 +91,23 @@ HandyNotes_DragonflightTreasuresDB = {
 				["races"] = true,
 				["magicbound"] = true,
 			},
+			["show_npcs_onlynotable"] = true,
 			["achievementsHidden"] = {
 				[16676] = true,
 				[18150] = true,
-				[16638] = true,
+				[16301] = true,
 				[16576] = true,
 				[16424] = true,
 				[16584] = true,
 				[16678] = true,
-				[16323] = true,
+				[16577] = true,
 				[15890] = true,
-				[16301] = true,
+				[16638] = true,
 				[16634] = true,
 				[16578] = true,
 				[16574] = true,
-				[16577] = true,
+				[16323] = true,
 			},
-			["show_npcs_onlynotable"] = true,
 		},
 		["Flumina - Argent Dawn"] = {
 			["groupsHidden"] = {
@@ -125,16 +125,16 @@ HandyNotes_DragonflightTreasuresDB = {
 				[19316] = true,
 				[16323] = true,
 				[19317] = true,
-				[15890] = true,
+				[16574] = true,
 				[16578] = true,
 				[16575] = true,
 				[16677] = true,
-				[16638] = true,
+				[16576] = true,
 				[17783] = false,
 				[16577] = true,
-				[16576] = true,
+				[16638] = true,
 				[19306] = true,
-				[16574] = true,
+				[15890] = true,
 			},
 		},
 		["Evilrivers - Kel'Thuzad"] = {
@@ -154,9 +154,9 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16679] = false,
 				[16634] = true,
 				[19316] = true,
-				[16574] = true,
-				[19317] = true,
 				[17411] = true,
+				[19317] = true,
+				[16574] = true,
 				[16301] = true,
 				[16575] = true,
 				[19306] = true,
@@ -176,18 +176,18 @@ HandyNotes_DragonflightTreasuresDB = {
 			["achievementsHidden"] = {
 				[16676] = true,
 				[16575] = true,
-				[16299] = true,
-				[16576] = true,
 				[16634] = true,
+				[16576] = true,
+				[16424] = true,
 				[16584] = true,
 				[16678] = true,
-				[16577] = true,
+				[16323] = true,
 				[15890] = true,
 				[16578] = true,
-				[16424] = true,
-				[16301] = true,
 				[16574] = true,
-				[16323] = true,
+				[16301] = true,
+				[16299] = true,
+				[16577] = true,
 			},
 		},
 		["Mothugeon - Argent Dawn"] = {
@@ -198,11 +198,10 @@ HandyNotes_DragonflightTreasuresDB = {
 			["groupsHidden"] = {
 				["glyphs"] = true,
 				["professionknowledge"] = false,
+				["races"] = true,
 				["hunts"] = false,
 				["magicbound"] = true,
-				["races"] = true,
 			},
-			["show_npcs_onlynotable"] = true,
 			["achievementsHidden"] = {
 				[16424] = true,
 				[16676] = true,
@@ -216,13 +215,14 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16301] = true,
 				[16575] = true,
 				[16634] = true,
-				[16638] = true,
+				[16576] = true,
 				[16578] = true,
 				[16577] = true,
 				[15890] = true,
 				[19306] = true,
-				[16576] = true,
+				[16638] = true,
 			},
+			["show_npcs_onlynotable"] = true,
 		},
 		["Zimuures - Argent Dawn"] = {
 		},
@@ -230,8 +230,8 @@ HandyNotes_DragonflightTreasuresDB = {
 			["groupsHidden"] = {
 				["races"] = true,
 				["glyphs"] = true,
-				["magicbound"] = false,
 				["junk"] = true,
+				["magicbound"] = false,
 			},
 			["zonesHidden"] = {
 				[2118] = false,
@@ -245,9 +245,9 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16678] = true,
 				[16446] = false,
 				[16299] = true,
-				[16634] = true,
-				[19306] = true,
 				[16323] = true,
+				[19306] = true,
+				[16634] = true,
 				[19316] = true,
 				[16574] = true,
 				[19317] = true,
@@ -275,10 +275,6 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Alandere - Argent Dawn"] = {
 		},
 		["Sverdrup - Argent Dawn"] = {
-			["groupsHidden"] = {
-				["races"] = true,
-				["glyphs"] = true,
-			},
 			["achievementsHidden"] = {
 				[16424] = true,
 				[16676] = true,
@@ -286,22 +282,26 @@ HandyNotes_DragonflightTreasuresDB = {
 				[16678] = true,
 				[16446] = true,
 				[16299] = true,
-				[16323] = true,
-				[16423] = true,
 				[16634] = true,
+				[16423] = true,
+				[16323] = true,
 				[19316] = false,
-				[16638] = true,
+				[16545] = true,
 				[19317] = true,
 				[15890] = true,
 				[16301] = true,
 				[16575] = true,
-				[16545] = true,
+				[16638] = true,
 				[16576] = true,
 				[16574] = true,
 				[16577] = true,
 				[16578] = true,
 				[19306] = true,
 				[16677] = true,
+			},
+			["groupsHidden"] = {
+				["races"] = true,
+				["glyphs"] = true,
 			},
 		},
 		["Estuary - Argent Dawn"] = {

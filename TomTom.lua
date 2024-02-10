@@ -62,10 +62,10 @@ TomTomDB = {
 		["Hiddenrivers - Korgath"] = "Default",
 		["Edgyrivers - Arthas"] = "Default",
 		["Notariver - Arthas"] = "Default",
-		["Lotic - Argent Dawn"] = "Default",
+		["Blindrivers - Korgath"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
-		["Blindrivers - Korgath"] = "Default",
+		["Lotic - Argent Dawn"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
@@ -73,11 +73,11 @@ TomTomDB = {
 		["Savattellir - Arthas"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
-		["Mecharivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
 		["Emptyrivers - Sargeras"] = "Default",
+		["Mecharivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Blindrivers - Arthas"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
@@ -147,10 +147,10 @@ TomTomWaypointsM = {
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Testrivers - Arthas"] = "Testrivers - Arthas",
@@ -808,13 +808,13 @@ TomTomWaypointsM = {
 		},
 		["Emptyrivers - Sargeras"] = {
 		},
-		["Mothugeon - Argent Dawn"] = {
+		["Evilrivers - Kel'Thuzad"] = {
 		},
 		["Daedrasminia - Arthas"] = {
 		},
 		["Riparium - Argent Dawn"] = {
 		},
-		["Evilrivers - Kel'Thuzad"] = {
+		["Mothugeon - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
