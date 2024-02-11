@@ -12,13 +12,13 @@ DevToolDatabase = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -35,7 +35,6 @@ DevToolDatabase = {
 		["Emptystreams - Argent Dawn"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
-			["collResizeWidth"] = 249.9998779296875,
 			["history"] = {
 				"DataStore.IsQuestCompletedBy(DataStore:GetCharacterTable(\"DataStore_Quests\", \"Headcut\"), 70516)", -- [1]
 				"ASDFJKL", -- [2]
@@ -47,6 +46,7 @@ DevToolDatabase = {
 				"startswith DevTool", -- [8]
 				"DevTool.settings.history", -- [9]
 			},
+			["collResizeWidth"] = 249.9998779296875,
 		},
 		["Sverdrup - Argent Dawn"] = {
 		},
@@ -65,7 +65,20 @@ DevToolDatabase = {
 		},
 		["Mothugeon - Argent Dawn"] = {
 		},
+		["Zimuures - Argent Dawn"] = {
+		},
+		["Riparium - Argent Dawn"] = {
+		},
+		["Benthos - Argent Dawn"] = {
+		},
+		["Emptyrivers - Argent Dawn"] = {
+		},
+		["Karst - Argent Dawn"] = {
+		},
+		["Alandere - Argent Dawn"] = {
+		},
 		["Flumina - Argent Dawn"] = {
+			["collResizeWidth"] = 249.999755859375,
 			["history"] = {
 				"WeakAuras", -- [1]
 				"WeakAurasPrivate", -- [2]
@@ -76,19 +89,6 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 				"DevTool.settings.history", -- [8]
 			},
-			["collResizeWidth"] = 249.999755859375,
-		},
-		["Riparium - Argent Dawn"] = {
-		},
-		["Zimuures - Argent Dawn"] = {
-		},
-		["Emptyrivers - Argent Dawn"] = {
-		},
-		["Karst - Argent Dawn"] = {
-		},
-		["Alandere - Argent Dawn"] = {
-		},
-		["Benthos - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

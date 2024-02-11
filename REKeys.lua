@@ -4,12 +4,12 @@ REKeysSettings = {
 		["hide"] = false,
 	},
 	["OfflinePlayers"] = false,
-	["ResetTimestamp"] = 299479,
+	["ResetTimestamp"] = 155469,
 	["FullDungeonName"] = false,
 	["PinnedCharacters"] = {
 	},
-	["ChatQueryGuild"] = true,
 	["KeyNotification"] = true,
+	["ChatQueryGuild"] = true,
 	["CurrentWeek"] = 10,
 	["ServerTimestamp"] = 1707279607,
 	["ChatQuery"] = true,
@@ -17,22 +17,13 @@ REKeysSettings = {
 	["Sorting"] = 1,
 }
 REKeysDB2 = {
-	["Fortybelow-Proudmoore"] = {
-		["MapID"] = 168,
-		["Fresh"] = true,
+	["Riparium"] = {
+		["MapID"] = 463,
+		["Group"] = false,
 		["Faction"] = "Alliance",
-		["Group"] = true,
-		["Level"] = 23,
-		["Class"] = "DEATHKNIGHT",
-		["Rating"] = 3047,
-	},
-	["Magesniper-Windrunner"] = {
-		["MapID"] = 248,
 		["Fresh"] = true,
-		["Faction"] = "Alliance",
-		["Group"] = true,
-		["Level"] = 21,
-		["Class"] = "MAGE",
-		["Rating"] = 2069,
+		["Rating"] = 3006,
+		["Class"] = "WARLOCK",
+		["Level"] = 22,
 	},
 }

@@ -144,9 +144,9 @@ InFlightDB = {
 				[2902] = 36,
 			},
 			[2811] = {
+				["name"] = "Gelikyr Post",
 				[2825] = 133,
 				[2774] = 127,
-				["name"] = "Gelikyr Post",
 			},
 			[1966] = {
 				[2165] = 67,
@@ -165,9 +165,9 @@ InFlightDB = {
 				[1508] = 84,
 			},
 			[2807] = {
+				[2792] = 75,
 				["name"] = "Ruby Life Pools",
 				[2774] = 130,
-				[2792] = 75,
 			},
 			[2839] = {
 				[2840] = 4,
@@ -326,9 +326,9 @@ InFlightDB = {
 			},
 			[2798] = {
 				[2797] = 52,
+				["name"] = "Pinewood Post",
 				[2810] = 53,
 				[2825] = 51,
-				["name"] = "Pinewood Post",
 			},
 			[2806] = {
 				["name"] = "Life Vault Ruins",
