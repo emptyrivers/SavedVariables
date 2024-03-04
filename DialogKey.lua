@@ -29,5 +29,9 @@ DialogKeyDFDB = {
 		["dontClickSummons"] = true,
 		["dontPostAuctions"] = false,
 		["showGlow"] = false,
+		["useSoulstoneRez"] = false,
+		["keys"] = {
+			"SPACE", -- [1]
+		},
 	},
 }

@@ -84,6 +84,7 @@ Rematch5Settings = {
 		}, -- [8]
 	},
 	["SpecialSlots"] = {
+		[3] = 0,
 	},
 	["PreferPetsTab"] = false,
 	["QueueRandomWhenEmpty"] = true,
@@ -107,49 +108,49 @@ Rematch5Settings = {
 	["CustomScale"] = false,
 	["ExportIncludeNotes"] = false,
 	["BreedSource"] = "BattlePetBreedID",
-	["LastSelectedGroup"] = "group:7",
+	["LastSelectedGroup"] = "group:8",
 	["HideWinRecord"] = false,
+	["HidePreferenceBadges"] = false,
 	["PetSatchelIndex"] = 3,
 	["PetCardBackground"] = "Expansion",
 	["ToolbarDismiss"] = true,
 	["StandaloneLayout"] = "0-minimized",
-	["HiddenPets"] = {
-	},
-	["ShowAbilityID"] = false,
 	["JournalLayout"] = "3-teams",
+	["ShowAbilityID"] = false,
 	["QueueAutoImport"] = true,
 	["ExportSimplePetList"] = false,
 	["PetCardCompactCollected"] = false,
 	["NoBackupReminder"] = false,
 	["ColorTeamNames"] = true,
 	["AbilityBackground"] = "Icon",
-	["HideBreedsLists"] = false,
+	["HiddenPets"] = {
+	},
 	["InteractShowAfterLoad"] = true,
-	["DontConfirmFillQueue"] = false,
+	["HideBreedsLists"] = false,
 	["DontConfirmDeleteNotes"] = false,
-	["HideNotesBadges"] = false,
+	["ClickToDrag"] = false,
 	["DontConfirmCaging"] = true,
-	["AlwaysUsePetSatchel"] = false,
+	["CompactPetList"] = true,
 	["AllowHiddenPets"] = true,
 	["ShowAfterBattle"] = true,
 	["PreferencesPaused"] = false,
 	["PetCardNoMouseoverFlip"] = false,
+	["BarChartCategory"] = 9,
 	["NotesWidth"] = 257.9999389648438,
-	["DontConfirmHidePets"] = false,
-	["WarnWhenRandomNot25"] = false,
 	["LockWindow"] = false,
-	["ClickToDrag"] = false,
+	["WarnWhenRandomNot25"] = false,
+	["HideNotesBadges"] = false,
 	["Anchor"] = "TOPLEFT",
 	["ShowFillQueueMore"] = true,
 	["LoadHealthiest"] = false,
-	["currentTeamID"] = "team:209",
+	["currentTeamID"] = "team:227",
 	["BoringLoreFont"] = false,
 	["StayForBattle"] = true,
 	["CompactQueueList"] = true,
 	["DontConfirmDeleteTeams"] = false,
 	["KeepNotesOnScreen"] = true,
 	["NeverTeamTabs"] = false,
-	["LastToastedPetID"] = "BattlePet-0-000021CE14CD",
+	["LastToastedPetID"] = "BattlePet-0-000021A1E76F",
 	["LoadHealthiestAfterBattle"] = false,
 	["AlwaysTeamTabs"] = false,
 	["PetNotes"] = {
@@ -177,411 +178,435 @@ Rematch5Settings = {
 	["HideToolbarTooltips"] = false,
 	["LevelingQueue"] = {
 		{
-			["petID"] = "BattlePet-0-000021CE14CD",
-			["petTag"] = "Q1433GD",
-			["added"] = 20231209213030,
-			["preferred"] = true,
-		}, -- [1]
-		{
-			["petID"] = "BattlePet-0-000021E64169",
-			["petTag"] = "QN3336J",
-			["added"] = 20240123190910,
-			["preferred"] = true,
-		}, -- [2]
-		{
 			["petID"] = "BattlePet-0-000021A1E76F",
 			["petTag"] = "Q14A211",
 			["added"] = 20231130040746,
 			["preferred"] = true,
-		}, -- [3]
+		}, -- [1]
 		{
 			["petID"] = "BattlePet-0-000021D23A26",
 			["petTag"] = "Q1433GG",
 			["added"] = 20231217183708,
 			["preferred"] = true,
-		}, -- [4]
+		}, -- [2]
 		{
 			["petID"] = "BattlePet-0-000021D0270B",
 			["petTag"] = "Q1433DR",
 			["added"] = 20231213165106,
 			["preferred"] = true,
-		}, -- [5]
+		}, -- [3]
 		{
 			["petID"] = "BattlePet-0-000021D805E3",
 			["petTag"] = "Q1433GI",
 			["added"] = 20231226183806,
 			["preferred"] = true,
-		}, -- [6]
+		}, -- [4]
 		{
 			["preferred"] = true,
 			["petTag"] = "Q1442CM",
 			["added"] = 20231130040631,
 			["petID"] = "BattlePet-0-0000210B58A0",
-		}, -- [7]
+		}, -- [5]
 		{
 			["petID"] = "BattlePet-0-00000E0BBEF5",
 			["petTag"] = "Q1491IR",
 			["added"] = 20231130040552,
 			["preferred"] = true,
-		}, -- [8]
+		}, -- [6]
 		{
 			["petID"] = "BattlePet-0-00000E0BBD4A",
 			["petTag"] = "Q144141",
 			["added"] = 20231130040542,
 			["preferred"] = true,
-		}, -- [9]
+		}, -- [7]
 		{
 			["preferred"] = true,
 			["petTag"] = "Q1392R4",
 			["added"] = 20231130040612,
 			["petID"] = "BattlePet-0-0000210533A4",
-		}, -- [10]
+		}, -- [8]
 		{
 			["petTag"] = "Q14338E",
 			["preferred"] = true,
 			["added"] = 20231202001105,
 			["petID"] = "BattlePet-0-000021C91C6F",
-		}, -- [11]
+		}, -- [9]
 		{
 			["petTag"] = "Q1433E3",
 			["preferred"] = true,
 			["added"] = 20231202004735,
 			["petID"] = "BattlePet-0-000021C92098",
-		}, -- [12]
+		}, -- [10]
 		{
 			["petTag"] = "Q1433DS",
 			["preferred"] = true,
 			["added"] = 20231202004751,
 			["petID"] = "BattlePet-0-000021C9209B",
-		}, -- [13]
+		}, -- [11]
 		{
 			["petTag"] = "Q13639K",
 			["petID"] = "BattlePet-0-000021C92DBD",
 			["added"] = 20231202041427,
 			["preferred"] = true,
-		}, -- [14]
+		}, -- [12]
 		{
 			["petTag"] = "Q14535N",
 			["petID"] = "BattlePet-0-000021C9E793",
 			["added"] = 20231203013747,
 			["preferred"] = true,
-		}, -- [15]
+		}, -- [13]
 		{
 			["petTag"] = "Q14446N",
 			["petID"] = "BattlePet-0-000021C9E7A3",
 			["added"] = 20231203013819,
 			["preferred"] = true,
-		}, -- [16]
+		}, -- [14]
 		{
 			["petTag"] = "Q14546H",
 			["preferred"] = true,
 			["added"] = 20231203164757,
 			["petID"] = "BattlePet-0-000021CA50EA",
-		}, -- [17]
+		}, -- [15]
 		{
 			["petTag"] = "Q144468",
 			["preferred"] = true,
 			["added"] = 20231205130403,
 			["petID"] = "BattlePet-0-000021CB6B88",
-		}, -- [18]
+		}, -- [16]
 		{
 			["petTag"] = "Q144462",
 			["preferred"] = true,
 			["added"] = 20231205204117,
 			["petID"] = "BattlePet-0-000021CBCDA8",
-		}, -- [19]
+		}, -- [17]
 		{
 			["petTag"] = "Q143467",
 			["preferred"] = true,
 			["added"] = 20231205204905,
 			["petID"] = "BattlePet-0-000021CBCF9F",
-		}, -- [20]
+		}, -- [18]
 		{
 			["petTag"] = "Q14B23E",
 			["preferred"] = true,
 			["added"] = 20231207165338,
 			["petID"] = "BattlePet-0-000021CCDFD9",
-		}, -- [21]
+		}, -- [19]
 		{
 			["petTag"] = "Q14446C",
 			["preferred"] = true,
 			["added"] = 20231209174459,
 			["petID"] = "BattlePet-0-000021CDF5C8",
-		}, -- [22]
+		}, -- [20]
 		{
 			["petTag"] = "Q1463AN",
 			["preferred"] = true,
 			["added"] = 20231216132858,
 			["petID"] = "BattlePet-0-000021D17397",
-		}, -- [23]
+		}, -- [21]
 		{
 			["petTag"] = "Q14CAH",
 			["petID"] = "BattlePet-0-000021D1B244",
 			["added"] = 20231216205103,
 			["preferred"] = true,
-		}, -- [24]
+		}, -- [22]
 		{
 			["petTag"] = "Q14937D",
 			["petID"] = "BattlePet-0-000021D2703B",
 			["added"] = 20231218024655,
 			["preferred"] = true,
-		}, -- [25]
+		}, -- [23]
 		{
 			["petTag"] = "Q14538J",
 			["petID"] = "BattlePet-0-000021D2A98C",
 			["added"] = 20231218154710,
 			["preferred"] = true,
-		}, -- [26]
+		}, -- [24]
 		{
 			["petTag"] = "Q1483DN",
 			["preferred"] = true,
 			["added"] = 20231218155617,
 			["petID"] = "BattlePet-0-000021D2AA99",
-		}, -- [27]
+		}, -- [25]
 		{
 			["petTag"] = "Q14C46I",
 			["preferred"] = true,
 			["added"] = 20231219190048,
 			["petID"] = "BattlePet-0-000021D3617E",
-		}, -- [28]
+		}, -- [26]
 		{
 			["petTag"] = "Q1431T0",
 			["petID"] = "BattlePet-0-000021D37FDD",
 			["added"] = 20231219213335,
 			["preferred"] = true,
-		}, -- [29]
+		}, -- [27]
 		{
 			["petTag"] = "Q1471T6",
 			["petID"] = "BattlePet-0-000021D37FE0",
 			["added"] = 20231219213338,
 			["preferred"] = true,
-		}, -- [30]
+		}, -- [28]
 		{
 			["petTag"] = "Q14C365",
 			["preferred"] = true,
 			["added"] = 20231220223103,
 			["petID"] = "BattlePet-0-000021D4259C",
-		}, -- [31]
+		}, -- [29]
 		{
 			["petTag"] = "Q14816H",
 			["preferred"] = true,
 			["added"] = 20231221152940,
 			["petID"] = "BattlePet-0-000021D4734E",
-		}, -- [32]
+		}, -- [30]
 		{
 			["petTag"] = "Q1433CK",
 			["preferred"] = true,
 			["added"] = 20231221171027,
 			["petID"] = "BattlePet-0-000021D48012",
-		}, -- [33]
+		}, -- [31]
 		{
 			["petTag"] = "Q14436Q",
 			["preferred"] = true,
 			["added"] = 20231228170711,
 			["petID"] = "BattlePet-0-000021D9547D",
-		}, -- [34]
+		}, -- [32]
 		{
 			["petTag"] = "Q148384",
 			["preferred"] = true,
 			["added"] = 20231228171522,
 			["petID"] = "BattlePet-0-000021D955B2",
-		}, -- [35]
+		}, -- [33]
 		{
 			["petTag"] = "Q13337U",
 			["preferred"] = true,
 			["added"] = 20231230234254,
 			["petID"] = "BattlePet-0-000021DAC77E",
-		}, -- [36]
+		}, -- [34]
 		{
 			["petTag"] = "Q14538H",
 			["preferred"] = true,
 			["added"] = 20231231031147,
 			["petID"] = "BattlePet-0-000021DAD846",
-		}, -- [37]
+		}, -- [35]
 		{
 			["petTag"] = "Q14535O",
 			["petID"] = "BattlePet-0-000021DAD847",
 			["added"] = 20231231031148,
 			["preferred"] = true,
-		}, -- [38]
+		}, -- [36]
 		{
 			["petTag"] = "Q14538I",
 			["petID"] = "BattlePet-0-000021DAD848",
 			["added"] = 20231231031148,
 			["preferred"] = true,
-		}, -- [39]
+		}, -- [37]
 		{
 			["petTag"] = "Q14538G",
 			["petID"] = "BattlePet-0-000021DAD849",
 			["added"] = 20231231031149,
 			["preferred"] = true,
-		}, -- [40]
+		}, -- [38]
 		{
 			["petTag"] = "Q149371",
 			["petID"] = "BattlePet-0-000021DBA714",
 			["added"] = 20240101125244,
 			["preferred"] = true,
-		}, -- [41]
+		}, -- [39]
 		{
 			["petTag"] = "Q1392R4",
 			["petID"] = "BattlePet-0-0000210D9DCD",
 			["added"] = 20240101193335,
 			["preferred"] = true,
-		}, -- [42]
+		}, -- [40]
 		{
 			["petTag"] = "Q1431B9",
 			["preferred"] = true,
 			["added"] = 20240101201612,
 			["petID"] = "BattlePet-0-00000E0BBEB7",
-		}, -- [43]
+		}, -- [41]
 		{
 			["petTag"] = "Q14323D",
 			["preferred"] = true,
 			["added"] = 20240101220738,
 			["petID"] = "BattlePet-0-000010125055",
-		}, -- [44]
+		}, -- [42]
 		{
 			["petID"] = "BattlePet-0-000021DC0F3F",
 			["preferred"] = true,
 			["added"] = 20240101221841,
 			["petTag"] = "Q1433AE",
-		}, -- [45]
+		}, -- [43]
 		{
 			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021DE9A4C",
 			["added"] = 20240107004325,
 			["petTag"] = "Q14737R",
-		}, -- [46]
+		}, -- [44]
 		{
 			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021DECE79",
 			["added"] = 20240107134117,
 			["petTag"] = "Q1463BP",
-		}, -- [47]
+		}, -- [45]
 		{
 			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021E0A2BE",
 			["added"] = 20240111125639,
 			["petTag"] = "Q143395",
-		}, -- [48]
+		}, -- [46]
 		{
 			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021E0A336",
 			["added"] = 20240111130119,
 			["petTag"] = "Q14337A",
-		}, -- [49]
+		}, -- [47]
 		{
 			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021E0A40B",
 			["added"] = 20240111131250,
 			["petTag"] = "Q143452",
-		}, -- [50]
+		}, -- [48]
 		{
 			["petID"] = "BattlePet-0-000021E0A8F3",
 			["preferred"] = true,
 			["added"] = 20240111140032,
 			["petTag"] = "Q14C39J",
-		}, -- [51]
+		}, -- [49]
 		{
 			["petID"] = "BattlePet-0-000021E11228",
 			["preferred"] = true,
 			["added"] = 20240112123734,
 			["petTag"] = "Q1433EF",
-		}, -- [52]
+		}, -- [50]
 		{
 			["preferred"] = true,
 			["petID"] = "BattlePet-0-000021E1288F",
 			["added"] = 20240112162652,
 			["petTag"] = "Q1443GC",
-		}, -- [53]
+		}, -- [51]
 		{
 			["petID"] = "BattlePet-0-000021E19F89",
 			["preferred"] = true,
 			["added"] = 20240113142030,
 			["petTag"] = "Q14C3B3",
-		}, -- [54]
+		}, -- [52]
 		{
 			["petID"] = "BattlePet-0-000021E1B6A7",
 			["petTag"] = "Q1481MP",
 			["added"] = 20240113170952,
 			["preferred"] = true,
-		}, -- [55]
+		}, -- [53]
 		{
 			["petID"] = "BattlePet-0-000021E27962",
 			["petTag"] = "Q14645V",
 			["added"] = 20240114235438,
 			["preferred"] = true,
-		}, -- [56]
+		}, -- [54]
 		{
 			["petID"] = "BattlePet-0-000021E41D28",
 			["petTag"] = "Q14B39L",
 			["added"] = 20240118182609,
 			["preferred"] = true,
-		}, -- [57]
+		}, -- [55]
 		{
 			["petID"] = "BattlePet-0-000021E89AAE",
 			["petTag"] = "Q14445T",
 			["added"] = 20240130000756,
 			["preferred"] = true,
-		}, -- [58]
+		}, -- [56]
 		{
 			["petID"] = "BattlePet-0-000021E89AAF",
 			["petTag"] = "Q144463",
 			["added"] = 20240130000800,
 			["preferred"] = true,
-		}, -- [59]
+		}, -- [57]
 		{
 			["petID"] = "BattlePet-0-000021E920FB",
 			["petTag"] = "Q1443FQ",
 			["added"] = 20240130184751,
 			["preferred"] = true,
-		}, -- [60]
+		}, -- [58]
 		{
 			["preferred"] = true,
 			["petTag"] = "Q13A1DV",
 			["added"] = 20240131182009,
 			["petID"] = "BattlePet-0-000021E9CCDE",
-		}, -- [61]
+		}, -- [59]
 		{
 			["petID"] = "BattlePet-0-000021EA4659",
 			["petTag"] = "Q14620U",
 			["added"] = 20240201154923,
 			["preferred"] = true,
-		}, -- [62]
+		}, -- [60]
 		{
 			["petID"] = "BattlePet-0-000021EA7A75",
 			["petTag"] = "Q14049O",
 			["added"] = 20240201205933,
 			["preferred"] = true,
-		}, -- [63]
+		}, -- [61]
 		{
 			["petID"] = "BattlePet-0-000021EA7A80",
 			["petTag"] = "Q14049N",
 			["added"] = 20240201205941,
 			["preferred"] = true,
-		}, -- [64]
+		}, -- [62]
 		{
 			["preferred"] = true,
 			["petTag"] = "Q14B219",
 			["added"] = 20240201213225,
 			["petID"] = "BattlePet-0-000021EA7FD7",
-		}, -- [65]
+		}, -- [63]
 		{
 			["preferred"] = true,
 			["petTag"] = "Q1463BM",
 			["added"] = 20240202003811,
 			["petID"] = "BattlePet-0-000021EA950D",
-		}, -- [66]
+		}, -- [64]
 		{
 			["petID"] = "BattlePet-0-000021EEF0FE",
 			["petTag"] = "Q1433EK",
 			["added"] = 20240210224105,
 			["preferred"] = true,
+		}, -- [65]
+		{
+			["petID"] = "BattlePet-0-000021EFDEF4",
+			["preferred"] = true,
+			["added"] = 20240212235851,
+			["petTag"] = "Q133AL",
+		}, -- [66]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021EFE315",
+			["added"] = 20240213010556,
+			["petTag"] = "Q14C2B2",
 		}, -- [67]
+		{
+			["petID"] = "BattlePet-0-000021EFE5A8",
+			["preferred"] = true,
+			["added"] = 20240213014755,
+			["petTag"] = "Q133AM",
+		}, -- [68]
+		{
+			["petID"] = "BattlePet-0-000021F03AB8",
+			["preferred"] = true,
+			["added"] = 20240213214750,
+			["petTag"] = "Q14049R",
+		}, -- [69]
+		{
+			["preferred"] = true,
+			["petID"] = "BattlePet-0-000021F082CB",
+			["added"] = 20240214174540,
+			["petTag"] = "Q1352BF",
+		}, -- [70]
+		{
+			["petID"] = "BattlePet-0-000021F10411",
+			["preferred"] = true,
+			["added"] = 20240216021846,
+			["petTag"] = "Q13A2C7",
+		}, -- [71]
 	},
 	["UseDefaultJournal"] = false,
 	["LowerStrata"] = true,
-	["DontConfirmActiveSort"] = false,
+	["HideOptionTooltips"] = false,
 	["MousewheelSpeed"] = "Normal",
 	["FavoriteFilters"] = {
 		{
@@ -604,13 +629,13 @@ Rematch5Settings = {
 				},
 				["Strong"] = {
 				},
-				["Sources"] = {
+				["Similar"] = {
 				},
 				["Breed"] = {
 				},
 				["Script"] = {
 				},
-				["Similar"] = {
+				["Sources"] = {
 				},
 				["Level"] = {
 					[4] = true,
@@ -640,14 +665,14 @@ Rematch5Settings = {
 				},
 				["Rarity"] = {
 				},
-				["Sources"] = {
-					[5] = true,
+				["Similar"] = {
 				},
 				["Breed"] = {
 				},
 				["Script"] = {
 				},
-				["Similar"] = {
+				["Sources"] = {
+					[5] = true,
 				},
 				["Level"] = {
 				},
@@ -670,6 +695,7 @@ Rematch5Settings = {
 		"group:5", -- [7]
 		"group:6", -- [8]
 		"group:7", -- [9]
+		"group:8", -- [10]
 	},
 	["NotesLeft"] = 19.5714282989502,
 	["NoSummonOnDblClick"] = false,
@@ -878,7 +904,7 @@ Rematch5Settings = {
 		[119346] = "team:258",
 		[104970] = "team:195",
 		[105352] = "team:193",
-		[116787] = "team:197",
+		[119342] = "team:196",
 		[200678] = "team:198",
 		[94643] = "team:260",
 		[66741] = "team:257",
@@ -907,11 +933,11 @@ Rematch5Settings = {
 		[68563] = "team:222",
 		[105898] = "team:223",
 		[141077] = "team:246",
-		[116789] = "team:230",
+		[119344] = "team:233",
 		["Low lvl fights"] = "team:274",
-		[85650] = "team:228",
-		[189376] = "team:227",
 		[200682] = "team:234",
+		[116789] = "team:230",
+		[85650] = "team:228",
 		[119408] = "team:229",
 		[197336] = "team:180",
 		[202440] = "team:245",
@@ -923,7 +949,7 @@ Rematch5Settings = {
 		[68564] = "team:236",
 		[105387] = "team:239",
 		[139489] = "team:238",
-		[119344] = "team:233",
+		[189376] = "team:227",
 		[140813] = "team:237",
 		[116788] = "team:235",
 		[119345] = "team:242",
@@ -941,7 +967,7 @@ Rematch5Settings = {
 		[201899] = "team:254",
 		[141799] = "team:208",
 		[128014] = "team:204",
-		[119342] = "team:196",
+		[116787] = "team:197",
 		[116791] = "team:194",
 		[200686] = "team:259",
 		[119341] = "team:261",
@@ -955,7 +981,7 @@ Rematch5Settings = {
 	["MinimapButtonPosition"] = -162,
 	["ResetExceptSearch"] = false,
 	["HideLevelingBadges"] = false,
-	["HideOptionTooltips"] = false,
+	["DontConfirmActiveSort"] = false,
 	["DontMinTabToggle"] = false,
 	["QueueSortOrder"] = 2,
 	["CardBehavior"] = "Normal",
@@ -966,9 +992,7 @@ Rematch5Settings = {
 	["PrioritizeBreedOnImport"] = true,
 	["ImportConflictOverwrite"] = false,
 	["ExpandedGroups"] = {
-		["group:none"] = true,
-		["group:favorites"] = true,
-		["group:7"] = true,
+		["group:8"] = true,
 	},
 	["DontWarnMissing"] = false,
 	["HideMarkerBadges"] = false,
@@ -999,12 +1023,12 @@ Rematch5Settings = {
 		},
 		["Rarity"] = {
 		},
-		["RawSearchText"] = "\"Brulee\"",
+		["RawSearchText"] = "cap'n",
 		["Similar"] = {
 		},
 		["Search"] = {
-			["Pattern"] = "^[bB][rR][uU][lL][eE][eE]$",
-			["Length"] = 8,
+			["Pattern"] = "[cC][aA][pP]'[nN]",
+			["Length"] = 5,
 		},
 		["Breed"] = {
 		},
@@ -1021,17 +1045,17 @@ Rematch5Settings = {
 	["LoadHealthiestAny"] = false,
 	["NotesBottom"] = 458.4285888671875,
 	["WasShownOnLogout"] = false,
-	["AutoWinRecordPVPOnly"] = false,
-	["HidePreferenceBadges"] = false,
+	["ShowLoadedTeamPreferences"] = true,
+	["DontConfirmFillQueue"] = false,
 	["QueueSkipDead"] = true,
 	["LockNotesPosition"] = true,
 	["PetMarkers"] = {
 	},
-	["BarChartCategory"] = 9,
-	["ShowLoadedTeamPreferences"] = true,
-	["QueueAutoLearnRare"] = false,
 	["RandomAbilitiesToo"] = false,
-	["CompactPetList"] = true,
+	["DontConfirmHidePets"] = false,
+	["QueueAutoLearnRare"] = false,
+	["AutoWinRecordPVPOnly"] = false,
+	["AlwaysUsePetSatchel"] = false,
 	["ReverseToolbar"] = false,
 	["ExpandedOptionsHeaders"] = {
 	},
@@ -1070,10 +1094,10 @@ Rematch5SavedTeams = {
 			"1227AI", -- [3]
 		},
 		["teamID"] = "team:203",
+		["groupID"] = "group:4",
 		["targets"] = {
 			107489, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1092,10 +1116,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:129",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128020, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1167,10 +1191,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:211",
+		["groupID"] = "group:4",
 		["targets"] = {
 			106542, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 5,
 		},
@@ -1189,10 +1213,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:168",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68558, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1211,10 +1235,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:70",
+		["groupID"] = "group:1",
 		["targets"] = {
 			71930, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minHP"] = 541,
 			["minXP"] = 10,
@@ -1253,10 +1277,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:30",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175783, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1275,10 +1299,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:244",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119409, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1335,10 +1359,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:189",
+		["groupID"] = "group:5",
 		["targets"] = {
 			140315, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1357,10 +1381,10 @@ Rematch5SavedTeams = {
 			"22171SE", -- [3]
 		},
 		["teamID"] = "team:51",
+		["groupID"] = "group:3",
 		["targets"] = {
 			79751, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1379,10 +1403,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:227",
+		["groupID"] = "group:7",
 		["targets"] = {
 			189376, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1401,10 +1425,10 @@ Rematch5SavedTeams = {
 			"ZR7", -- [3]
 		},
 		["teamID"] = "team:77",
+		["groupID"] = "group:3",
 		["targets"] = {
 			85632, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1423,10 +1447,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:214",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119407, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1445,10 +1469,10 @@ Rematch5SavedTeams = {
 			"1015QC", -- [3]
 		},
 		["teamID"] = "team:206",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68562, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 10,
 		},
@@ -1505,10 +1529,10 @@ Rematch5SavedTeams = {
 			"ZRA", -- [3]
 		},
 		["teamID"] = "team:97",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154917, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1543,10 +1567,10 @@ Rematch5SavedTeams = {
 			"1215QC", -- [3]
 		},
 		["teamID"] = "team:133",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141002, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1565,10 +1589,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:183",
+		["groupID"] = "group:6",
 		["targets"] = {
 			173331, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1587,10 +1611,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:217",
+		["groupID"] = "group:6",
 		["targets"] = {
 			173267, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1647,10 +1671,10 @@ Rematch5SavedTeams = {
 			"01181FS", -- [3]
 		},
 		["teamID"] = "team:124",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154924, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1669,10 +1693,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:80",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154912, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1691,10 +1715,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:154",
+		["groupID"] = "group:5",
 		["targets"] = {
 			162469, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1770,10 +1794,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:44",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105779, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1792,10 +1816,10 @@ Rematch5SavedTeams = {
 			"ZR3", -- [3]
 		},
 		["teamID"] = "team:253",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200679, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1814,10 +1838,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:258",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119346, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -1836,10 +1860,10 @@ Rematch5SavedTeams = {
 			"12171TN", -- [3]
 		},
 		["teamID"] = "team:216",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105674, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1858,10 +1882,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:187",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200697, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1880,10 +1904,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:73",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105241, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1920,10 +1944,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:116",
+		["groupID"] = "group:2",
 		["targets"] = {
 			66730, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1942,10 +1966,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:118",
+		["groupID"] = "group:4",
 		["targets"] = {
 			98572, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1964,10 +1988,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:125",
+		["groupID"] = "group:6",
 		["targets"] = {
 			173129, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -1986,10 +2010,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:202",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154919, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2046,10 +2070,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:191",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68561, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2068,10 +2092,10 @@ Rematch5SavedTeams = {
 			"221CN7", -- [3]
 		},
 		["teamID"] = "team:237",
+		["groupID"] = "group:5",
 		["targets"] = {
 			140813, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 12,
 		},
@@ -2090,10 +2114,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:42",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128007, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2131,10 +2155,10 @@ Rematch5SavedTeams = {
 			"11181FS", -- [3]
 		},
 		["teamID"] = "team:112",
+		["groupID"] = "group:5",
 		["targets"] = {
 			162458, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2172,10 +2196,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:47",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128008, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2232,10 +2256,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:13",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105455, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2273,10 +2297,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:6",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116792, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2332,10 +2356,10 @@ Rematch5SavedTeams = {
 			"022414D", -- [3]
 		},
 		["teamID"] = "team:52",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128009, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2392,10 +2416,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:40",
+		["groupID"] = "group:4",
 		["targets"] = {
 			99742, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2452,10 +2476,10 @@ Rematch5SavedTeams = {
 			"12171SE", -- [3]
 		},
 		["teamID"] = "team:167",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68462, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minHP"] = 707,
 			["minXP"] = 7,
@@ -2475,10 +2499,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:31",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105841, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2497,10 +2521,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:178",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68560, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2576,10 +2600,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:8",
+		["groupID"] = "group:3",
 		["targets"] = {
 			85685, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2598,10 +2622,10 @@ Rematch5SavedTeams = {
 			"202415R", -- [3]
 		},
 		["teamID"] = "team:145",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154929, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2639,10 +2663,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:162",
+		["groupID"] = "group:3",
 		["targets"] = {
 			85420, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2661,10 +2685,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:75",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154911, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2683,10 +2707,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:86",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154914, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minHP"] = 256,
 			["minXP"] = 3,
@@ -2706,10 +2730,10 @@ Rematch5SavedTeams = {
 			"22231TB", -- [3]
 		},
 		["teamID"] = "team:65",
+		["groupID"] = "group:3",
 		["targets"] = {
 			79179, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2728,10 +2752,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:106",
+		["groupID"] = "group:4",
 		["targets"] = {
 			97804, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2774,6 +2798,28 @@ Rematch5SavedTeams = {
 		},
 		["groupID"] = "group:5",
 	},
+	["team:279"] = {
+		["pets"] = {
+			"BattlePet-0-00000E0BBF13", -- [1]
+			0, -- [2]
+			"BattlePet-0-00000E0BBD13", -- [3]
+		},
+		["notes"] = "Strategy added by Corgi\nDocumented by Rendigar (https://www.warcraftpets.com/community/forum/viewtopic.php?t=7556), Petcharge (https://petcharge.wordpress.com/tag/bordin-steadyfist/) and Doobjanka (http://pokemop.com/bordin-steadyfist/).  Actual originator unknown at time of conversion here, but I'd suspect it's Rendigar.\n\nRuby comes in\nBring in your Snarly\nTurn 1: Rip\nTurn 2: Blood in the Water\nTurn 3: Surge\nCrystallus comes in\nTurn 4: Rip\nTurn 5: Surge\nTurn 6: Blood in the Water\nUse Surge when Blood in the Water is not available.\nFracture comes in\nTurn 7: Swap to your Level Pet when Snarly dies.\nTurn 8: Swap to your Pandaren Water Spirit\nTurn 9: Whirlpool\nTurns 10-11: Dive to avoid Elementium Bolt.\nTurn 12: Water Jet if necessary to finish Fracture.\n\n\n\n",
+		["name"] = "Bordin Steadyfist",
+		["tags"] = {
+			"11275D", -- [1]
+			"ZL", -- [2]
+			"1219R4", -- [3]
+		},
+		["teamID"] = "team:279",
+		["preferences"] = {
+			["minXP"] = 10,
+		},
+		["targets"] = {
+			66815, -- [1]
+		},
+		["groupID"] = "group:8",
+	},
 	["team:230"] = {
 		["pets"] = {
 			"BattlePet-0-00000E0BBDCE", -- [1]
@@ -2788,10 +2834,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:230",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116789, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2848,10 +2894,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:198",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200678, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2908,10 +2954,10 @@ Rematch5SavedTeams = {
 			"2126GQ", -- [3]
 		},
 		["teamID"] = "team:142",
+		["groupID"] = "group:4",
 		["targets"] = {
 			99182, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -2949,10 +2995,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:194",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116791, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -2990,10 +3036,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:4",
+		["groupID"] = "group:4",
 		["targets"] = {
 			106476, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3012,10 +3058,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:234",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200682, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3034,10 +3080,10 @@ Rematch5SavedTeams = {
 			"ZR2", -- [3]
 		},
 		["teamID"] = "team:176",
+		["groupID"] = "group:7",
 		["targets"] = {
 			197417, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3075,10 +3121,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:225",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116790, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3116,10 +3162,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:242",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119345, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3138,10 +3184,10 @@ Rematch5SavedTeams = {
 			"20071C8", -- [3]
 		},
 		["teamID"] = "team:140",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105250, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minHP"] = 238,
 			["minXP"] = 3,
@@ -3180,10 +3226,10 @@ Rematch5SavedTeams = {
 			"01181FS", -- [3]
 		},
 		["teamID"] = "team:115",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128018, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minHP"] = 801,
 			["minXP"] = 10,
@@ -3203,10 +3249,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:173",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68463, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 5,
 		},
@@ -3225,10 +3271,10 @@ Rematch5SavedTeams = {
 			"11071C8", -- [3]
 		},
 		["teamID"] = "team:66",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141814, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minHP"] = 401,
 			["minXP"] = 5,
@@ -3248,10 +3294,10 @@ Rematch5SavedTeams = {
 			"221814S", -- [3]
 		},
 		["teamID"] = "team:121",
+		["groupID"] = "group:4",
 		["targets"] = {
 			104992, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minHP"] = 302,
 			["minXP"] = 5,
@@ -3271,10 +3317,10 @@ Rematch5SavedTeams = {
 			"2106FD", -- [3]
 		},
 		["teamID"] = "team:181",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105512, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 7,
 		},
@@ -3293,10 +3339,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:226",
+		["groupID"] = "group:3",
 		["targets"] = {
 			85622, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3315,10 +3361,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:11",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200689, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3431,10 +3477,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:88",
+		["groupID"] = "group:3",
 		["targets"] = {
 			94640, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3453,10 +3499,10 @@ Rematch5SavedTeams = {
 			"ZRA", -- [3]
 		},
 		["teamID"] = "team:208",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141799, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3475,10 +3521,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:134",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154927, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3497,10 +3543,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:212",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119343, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3538,10 +3584,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:235",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116788, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3598,10 +3644,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:29",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200694, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3620,10 +3666,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:247",
+		["groupID"] = "group:5",
 		["targets"] = {
 			162470, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3661,10 +3707,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:137",
+		["groupID"] = "group:2",
 		["targets"] = {
 			66733, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3683,10 +3729,10 @@ Rematch5SavedTeams = {
 			"211A9V", -- [3]
 		},
 		["teamID"] = "team:200",
+		["groupID"] = "group:5",
 		["targets"] = {
 			142054, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3705,10 +3751,10 @@ Rematch5SavedTeams = {
 			"222A14F", -- [3]
 		},
 		["teamID"] = "team:22",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116794, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3727,10 +3773,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:89",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154915, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3768,10 +3814,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:26",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175782, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3790,10 +3836,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:14",
+		["groupID"] = "group:3",
 		["targets"] = {
 			87123, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3850,10 +3896,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:141",
+		["groupID"] = "group:4",
 		["targets"] = {
 			99150, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3891,10 +3937,10 @@ Rematch5SavedTeams = {
 			"11032SF", -- [3]
 		},
 		["teamID"] = "team:146",
+		["groupID"] = "group:3",
 		["targets"] = {
 			87110, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minHP"] = 62,
 		},
@@ -3913,10 +3959,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:155",
+		["groupID"] = "group:5",
 		["targets"] = {
 			140880, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -3935,10 +3981,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:153",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128023, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -3976,10 +4022,10 @@ Rematch5SavedTeams = {
 			"ZR3", -- [3]
 		},
 		["teamID"] = "team:223",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105898, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -4055,10 +4101,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:182",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116786, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -4077,10 +4123,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:39",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105842, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4099,10 +4145,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:58",
+		["groupID"] = "group:7",
 		["targets"] = {
 			197447, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minHP"] = 571,
 			["minXP"] = 13,
@@ -4141,10 +4187,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:175",
+		["groupID"] = "group:2",
 		["targets"] = {
 			66739, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minHP"] = 300,
 		},
@@ -4163,10 +4209,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:143",
+		["groupID"] = "group:6",
 		["targets"] = {
 			173133, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4261,10 +4307,10 @@ Rematch5SavedTeams = {
 			"01181FS", -- [3]
 		},
 		["teamID"] = "team:128",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154925, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minHP"] = 1001,
 			["minXP"] = 18,
@@ -4284,10 +4330,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:252",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68565, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4344,10 +4390,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:122",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128019, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4404,10 +4450,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:2",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68566, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4426,10 +4472,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:193",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105352, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 15,
 		},
@@ -4467,10 +4513,10 @@ Rematch5SavedTeams = {
 			"ZR6", -- [3]
 		},
 		["teamID"] = "team:71",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154910, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -4489,10 +4535,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:131",
+		["groupID"] = "group:5",
 		["targets"] = {
 			142151, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minHP"] = 501,
 			["minXP"] = 25,
@@ -4512,10 +4558,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:34",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141292, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -4534,10 +4580,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:195",
+		["groupID"] = "group:4",
 		["targets"] = {
 			104970, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4556,10 +4602,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:69",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141879, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4597,10 +4643,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:220",
+		["groupID"] = "group:1",
 		["targets"] = {
 			72291, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -4676,10 +4722,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:138",
+		["groupID"] = "group:5",
 		["targets"] = {
 			162465, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4717,10 +4763,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:83",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154913, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4796,10 +4842,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:123",
+		["groupID"] = "group:5",
 		["targets"] = {
 			162461, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4818,10 +4864,10 @@ Rematch5SavedTeams = {
 			"ZR8", -- [3]
 		},
 		["teamID"] = "team:105",
+		["groupID"] = "group:6",
 		["targets"] = {
 			173315, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -4897,10 +4943,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:156",
+		["groupID"] = "group:3",
 		["targets"] = {
 			85419, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -4973,10 +5019,10 @@ Rematch5SavedTeams = {
 			"2126GQ", -- [3]
 		},
 		["teamID"] = "team:37",
+		["groupID"] = "group:1",
 		["targets"] = {
 			71924, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5014,10 +5060,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:38",
+		["groupID"] = "group:3",
 		["targets"] = {
 			83837, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minHP"] = 121,
 			["minXP"] = 1,
@@ -5037,10 +5083,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:117",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154922, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5059,10 +5105,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:221",
+		["groupID"] = "group:4",
 		["targets"] = {
 			105323, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5081,10 +5127,10 @@ Rematch5SavedTeams = {
 			"1215198", -- [3]
 		},
 		["teamID"] = "team:32",
+		["groupID"] = "group:5",
 		["targets"] = {
 			140461, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5103,10 +5149,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:240",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141588, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minHP"] = 113,
 			["minXP"] = 1,
@@ -5126,10 +5172,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:24",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175781, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minHP"] = 701,
 			["minXP"] = 15,
@@ -5262,10 +5308,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:36",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200696, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5284,10 +5330,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:219",
+		["groupID"] = "group:5",
 		["targets"] = {
 			162468, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -5306,10 +5352,10 @@ Rematch5SavedTeams = {
 			"1126140", -- [3]
 		},
 		["teamID"] = "team:87",
+		["groupID"] = "group:2",
 		["targets"] = {
 			66918, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minHP"] = 151,
 			["minXP"] = 2,
@@ -5386,10 +5432,10 @@ Rematch5SavedTeams = {
 			"2015198", -- [3]
 		},
 		["teamID"] = "team:179",
+		["groupID"] = "group:5",
 		["targets"] = {
 			139987, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5446,10 +5492,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:150",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68555, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5487,10 +5533,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:196",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119342, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5509,10 +5555,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:12",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175778, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5569,10 +5615,10 @@ Rematch5SavedTeams = {
 			"ZR9", -- [3]
 		},
 		["teamID"] = "team:231",
+		["groupID"] = "group:1",
 		["targets"] = {
 			116795, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minHP"] = 1501,
 			["minXP"] = 25,
@@ -5630,10 +5676,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:158",
+		["groupID"] = "group:4",
 		["targets"] = {
 			128024, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5671,10 +5717,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:111",
+		["groupID"] = "group:4",
 		["targets"] = {
 			99210, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5711,10 +5757,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:9",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175777, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5733,10 +5779,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:251",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200685, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5755,10 +5801,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:62",
+		["groupID"] = "group:3",
 		["targets"] = {
 			85630, -- [1]
 		},
-		["groupID"] = "group:3",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -5796,10 +5842,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:215",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175785, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5875,34 +5921,34 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:236",
+		["groupID"] = "group:2",
 		["targets"] = {
 			68564, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
 	},
-	["team:161"] = {
+	["team:130"] = {
 		["pets"] = {
-			"BattlePet-0-00000E0BBEC8", -- [1]
-			"random:0", -- [2]
-			"random:0", -- [3]
+			"BattlePet-0-00000E0BBDF1", -- [1]
+			"BattlePet-0-00000E0BBDE9", -- [2]
+			0, -- [3]
 		},
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8497\n\nStrategy added by norng\n7~10 rounds.\n\nTurn 1: Toxic Skin\nTurns 2-4: Emerald Dream\nTurn 5: Emerald Bite\nTurn 6: Emerald Bite\nTurn 7: Repeat Turn 1~6\n",
-		["name"] = "Flight of the Vil'thik",
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9494\n\nStrategy added by DragonsAfterDark\nUpdated to make it more reliable for the level pet.\n\nI imagine you could do it with two Tiny Snowmen, but I can't guarantee the script will work with that pet change, since I don't have a second one on-hand to test this.\n\nTurn 1: Call Blizzard\nTurn 2: Deep Freeze\nTurn 3: Swap to your Grumpling -- // -- Slasher comes in\nTurn 4: Frost Shock\nTurn 5: Snowball\nTurn 6: Deep Freeze\nTurn 7: Swap to your Tiny Snowman -- // -- Battery comes back in\nTurn 8: Deep Freeze\nTurn 9: Call Blizzard -- // -- This hits Slasher\nTurn 10: Snowball\nTurn 11: Snowball\nBattery comes back in\nTurn 12: Snowball\nTurn 13: Snowball\nPounder comes in\nTurn 14: Swap to your Level Pet\nTurn 15: Swap to your Tiny Snowman\nTurn 16: Call Blizzard\nTurn 17: Snowball\nTurn 18: Snowball\nTurn 19: Deep Freeze\nTurn 20: Call Blizzard\n",
+		["name"] = "Micro Defense Force",
 		["tags"] = {
-			"11241LQ", -- [1]
-			"ZR0", -- [2]
-			"ZR0", -- [3]
+			"11233L", -- [1]
+			"22241LT", -- [2]
+			"ZL", -- [3]
 		},
-		["teamID"] = "team:161",
+		["teamID"] = "team:130",
+		["groupID"] = "group:6",
 		["targets"] = {
-			162471, -- [1]
+			173130, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
-			["minXP"] = 25,
+			["minXP"] = 1,
 		},
 	},
 	["team:233"] = {
@@ -5938,10 +5984,10 @@ Rematch5SavedTeams = {
 			"11271C8", -- [3]
 		},
 		["teamID"] = "team:53",
+		["groupID"] = "group:1",
 		["targets"] = {
 			71927, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -5984,25 +6030,6 @@ Rematch5SavedTeams = {
 		},
 		["groupID"] = "group:2",
 	},
-	["team:108"] = {
-		["pets"] = {
-			"BattlePet-0-00000E0BBCC3", -- [1]
-			"BattlePet-0-00000E0BBD0C", -- [2]
-			"BattlePet-0-00000E0BBDCE", -- [3]
-		},
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1414\n\nStrategy added by Aranesh\nTurn 1: Breath - your Unborn Val'kyr is forced in\nTurn 2: Curse of Doom\nTurn 3: Haunt\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Breath - your Ikky is forced in\nTurn 2: Black Claw\nTurns 3+: Flock\n",
-		["name"] = "Corrupted Blood of Argus",
-		["tags"] = {
-			"1005QC", -- [1]
-			"021316M", -- [2]
-			"01181FS", -- [3]
-		},
-		["teamID"] = "team:108",
-		["targets"] = {
-			128017, -- [1]
-		},
-		["groupID"] = "group:4",
-	},
 	["team:25"] = {
 		["pets"] = {
 			"BattlePet-0-00000E0BBD09", -- [1]
@@ -6022,6 +6049,25 @@ Rematch5SavedTeams = {
 		},
 		["groupID"] = "group:4",
 	},
+	["team:108"] = {
+		["pets"] = {
+			"BattlePet-0-00000E0BBCC3", -- [1]
+			"BattlePet-0-00000E0BBD0C", -- [2]
+			"BattlePet-0-00000E0BBDCE", -- [3]
+		},
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1414\n\nStrategy added by Aranesh\nTurn 1: Breath - your Unborn Val'kyr is forced in\nTurn 2: Curse of Doom\nTurn 3: Haunt\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Breath - your Ikky is forced in\nTurn 2: Black Claw\nTurns 3+: Flock\n",
+		["name"] = "Corrupted Blood of Argus",
+		["tags"] = {
+			"1005QC", -- [1]
+			"021316M", -- [2]
+			"01181FS", -- [3]
+		},
+		["teamID"] = "team:108",
+		["targets"] = {
+			128017, -- [1]
+		},
+		["groupID"] = "group:4",
+	},
 	["team:164"] = {
 		["pets"] = {
 			"BattlePet-0-00000E0BBD1B", -- [1]
@@ -6036,10 +6082,10 @@ Rematch5SavedTeams = {
 			"122414D", -- [3]
 		},
 		["teamID"] = "team:164",
+		["groupID"] = "group:5",
 		["targets"] = {
 			142096, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6082,26 +6128,26 @@ Rematch5SavedTeams = {
 		},
 		["groupID"] = "group:2",
 	},
-	["team:130"] = {
+	["team:161"] = {
 		["pets"] = {
-			"BattlePet-0-00000E0BBDF1", -- [1]
-			"BattlePet-0-00000E0BBDE9", -- [2]
-			0, -- [3]
+			"BattlePet-0-00000E0BBEC8", -- [1]
+			"random:0", -- [2]
+			"random:0", -- [3]
 		},
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9494\n\nStrategy added by DragonsAfterDark\nUpdated to make it more reliable for the level pet.\n\nI imagine you could do it with two Tiny Snowmen, but I can't guarantee the script will work with that pet change, since I don't have a second one on-hand to test this.\n\nTurn 1: Call Blizzard\nTurn 2: Deep Freeze\nTurn 3: Swap to your Grumpling -- // -- Slasher comes in\nTurn 4: Frost Shock\nTurn 5: Snowball\nTurn 6: Deep Freeze\nTurn 7: Swap to your Tiny Snowman -- // -- Battery comes back in\nTurn 8: Deep Freeze\nTurn 9: Call Blizzard -- // -- This hits Slasher\nTurn 10: Snowball\nTurn 11: Snowball\nBattery comes back in\nTurn 12: Snowball\nTurn 13: Snowball\nPounder comes in\nTurn 14: Swap to your Level Pet\nTurn 15: Swap to your Tiny Snowman\nTurn 16: Call Blizzard\nTurn 17: Snowball\nTurn 18: Snowball\nTurn 19: Deep Freeze\nTurn 20: Call Blizzard\n",
-		["name"] = "Micro Defense Force",
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8497\n\nStrategy added by norng\n7~10 rounds.\n\nTurn 1: Toxic Skin\nTurns 2-4: Emerald Dream\nTurn 5: Emerald Bite\nTurn 6: Emerald Bite\nTurn 7: Repeat Turn 1~6\n",
+		["name"] = "Flight of the Vil'thik",
 		["tags"] = {
-			"11233L", -- [1]
-			"22241LT", -- [2]
-			"ZL", -- [3]
+			"11241LQ", -- [1]
+			"ZR0", -- [2]
+			"ZR0", -- [3]
 		},
-		["teamID"] = "team:130",
+		["teamID"] = "team:161",
+		["groupID"] = "group:5",
 		["targets"] = {
-			173130, -- [1]
+			162471, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
-			["minXP"] = 1,
+			["minXP"] = 25,
 		},
 	},
 	["team:57"] = {
@@ -6137,10 +6183,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:218",
+		["groupID"] = "group:4",
 		["targets"] = {
 			104553, -- [1]
 		},
-		["groupID"] = "group:4",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6159,10 +6205,10 @@ Rematch5SavedTeams = {
 			"01181FS", -- [3]
 		},
 		["teamID"] = "team:213",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200680, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6181,10 +6227,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:93",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154916, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6203,10 +6249,10 @@ Rematch5SavedTeams = {
 			"22171SE", -- [3]
 		},
 		["teamID"] = "team:18",
+		["groupID"] = "group:5",
 		["targets"] = {
 			141479, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6319,10 +6365,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:190",
+		["groupID"] = "group:7",
 		["targets"] = {
 			200677, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 25,
 		},
@@ -6398,10 +6444,10 @@ Rematch5SavedTeams = {
 			"212415R", -- [3]
 		},
 		["teamID"] = "team:201",
+		["groupID"] = "group:5",
 		["targets"] = {
 			154928, -- [1]
 		},
-		["groupID"] = "group:5",
 		["preferences"] = {
 			["minHP"] = 601,
 			["minXP"] = 10,
@@ -6459,10 +6505,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:33",
+		["groupID"] = "group:6",
 		["targets"] = {
 			175784, -- [1]
 		},
-		["groupID"] = "group:6",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6481,10 +6527,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:262",
+		["groupID"] = "group:7",
 		["targets"] = {
 			197350, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6617,10 +6663,10 @@ Rematch5SavedTeams = {
 			"0127AI", -- [3]
 		},
 		["teamID"] = "team:148",
+		["groupID"] = "group:2",
 		["targets"] = {
 			66734, -- [1]
 		},
-		["groupID"] = "group:2",
 		["preferences"] = {
 			["minHP"] = 248,
 			["allowMM"] = true,
@@ -6641,10 +6687,10 @@ Rematch5SavedTeams = {
 			"ZR0", -- [3]
 		},
 		["teamID"] = "team:261",
+		["groupID"] = "group:1",
 		["targets"] = {
 			119341, -- [1]
 		},
-		["groupID"] = "group:1",
 		["preferences"] = {
 			["minXP"] = 1,
 		},
@@ -6663,10 +6709,10 @@ Rematch5SavedTeams = {
 			"ZL", -- [3]
 		},
 		["teamID"] = "team:159",
+		["groupID"] = "group:7",
 		["targets"] = {
 			196069, -- [1]
 		},
-		["groupID"] = "group:7",
 		["preferences"] = {
 			["minXP"] = 5,
 		},
@@ -6795,6 +6841,73 @@ Rematch5SavedGroups = {
 		["icon"] = "Interface\\Icons\\PetJournalPortrait",
 		["name"] = "Ungrouped Teams",
 	},
+	["group:4"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["isExpanded"] = true,
+		["teams"] = {
+			"team:39", -- [1]
+			"team:181", -- [2]
+			"team:239", -- [3]
+			"team:52", -- [4]
+			"team:129", -- [5]
+			"team:76", -- [6]
+			"team:216", -- [7]
+			"team:221", -- [8]
+			"team:108", -- [9]
+			"team:4", -- [10]
+			"team:195", -- [11]
+			"team:61", -- [12]
+			"team:136", -- [13]
+			"team:203", -- [14]
+			"team:111", -- [15]
+			"team:40", -- [16]
+			"team:73", -- [17]
+			"team:142", -- [18]
+			"team:25", -- [19]
+			"team:106", -- [20]
+			"team:255", -- [21]
+			"team:47", -- [22]
+			"team:90", -- [23]
+			"team:68", -- [24]
+			"team:211", -- [25]
+			"team:57", -- [26]
+			"team:64", -- [27]
+			"team:172", -- [28]
+			"team:31", -- [29]
+			"team:13", -- [30]
+			"team:193", -- [31]
+			"team:115", -- [32]
+			"team:121", -- [33]
+			"team:153", -- [34]
+			"team:20", -- [35]
+			"team:267", -- [36]
+			"team:107", -- [37]
+			"team:158", -- [38]
+			"team:160", -- [39]
+			"team:147", -- [40]
+			"team:54", -- [41]
+			"team:118", -- [42]
+			"team:42", -- [43]
+			"team:207", -- [44]
+			"team:100", -- [45]
+			"team:223", -- [46]
+			"team:218", -- [47]
+			"team:204", -- [48]
+			"team:21", -- [49]
+			"team:140", -- [50]
+			"team:41", -- [51]
+			"team:44", -- [52]
+			"team:141", -- [53]
+			"team:72", -- [54]
+			"team:10", -- [55]
+			"team:122", -- [56]
+			"team:250", -- [57]
+		},
+		["icon"] = 135800,
+		["groupID"] = "group:4",
+		["name"] = "Legion",
+	},
 	["group:1"] = {
 		["showTab"] = true,
 		["sortMode"] = 1,
@@ -6874,17 +6987,6 @@ Rematch5SavedGroups = {
 		["groupID"] = "group:6",
 		["name"] = "Shadowlands",
 	},
-	["group:favorites"] = {
-		["showTab"] = true,
-		["sortMode"] = 1,
-		["name"] = "Favorite Teams",
-		["isExpanded"] = true,
-		["meta"] = true,
-		["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
-		["groupID"] = "group:favorites",
-		["teams"] = {
-		},
-	},
 	["group:5"] = {
 		["showTab"] = true,
 		["sortMode"] = 1,
@@ -6947,6 +7049,17 @@ Rematch5SavedGroups = {
 		["groupID"] = "group:5",
 		["name"] = "BFA",
 	},
+	["group:favorites"] = {
+		["showTab"] = true,
+		["sortMode"] = 1,
+		["name"] = "Favorite Teams",
+		["isExpanded"] = true,
+		["meta"] = true,
+		["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
+		["groupID"] = "group:favorites",
+		["teams"] = {
+		},
+	},
 	["group:3"] = {
 		["showTab"] = true,
 		["sortMode"] = 1,
@@ -7001,72 +7114,15 @@ Rematch5SavedGroups = {
 		["groupID"] = "group:3",
 		["name"] = "Draenor",
 	},
-	["group:4"] = {
-		["showTab"] = true,
+	["group:8"] = {
 		["sortMode"] = 1,
-		["isExpanded"] = true,
+		["name"] = "Old Masters",
 		["teams"] = {
-			"team:39", -- [1]
-			"team:181", -- [2]
-			"team:239", -- [3]
-			"team:52", -- [4]
-			"team:129", -- [5]
-			"team:76", -- [6]
-			"team:216", -- [7]
-			"team:221", -- [8]
-			"team:108", -- [9]
-			"team:4", -- [10]
-			"team:195", -- [11]
-			"team:61", -- [12]
-			"team:136", -- [13]
-			"team:203", -- [14]
-			"team:111", -- [15]
-			"team:40", -- [16]
-			"team:73", -- [17]
-			"team:142", -- [18]
-			"team:25", -- [19]
-			"team:106", -- [20]
-			"team:255", -- [21]
-			"team:47", -- [22]
-			"team:90", -- [23]
-			"team:68", -- [24]
-			"team:211", -- [25]
-			"team:57", -- [26]
-			"team:64", -- [27]
-			"team:172", -- [28]
-			"team:31", -- [29]
-			"team:13", -- [30]
-			"team:193", -- [31]
-			"team:115", -- [32]
-			"team:121", -- [33]
-			"team:153", -- [34]
-			"team:20", -- [35]
-			"team:267", -- [36]
-			"team:107", -- [37]
-			"team:158", -- [38]
-			"team:160", -- [39]
-			"team:147", -- [40]
-			"team:54", -- [41]
-			"team:118", -- [42]
-			"team:42", -- [43]
-			"team:207", -- [44]
-			"team:100", -- [45]
-			"team:223", -- [46]
-			"team:218", -- [47]
-			"team:204", -- [48]
-			"team:21", -- [49]
-			"team:140", -- [50]
-			"team:41", -- [51]
-			"team:44", -- [52]
-			"team:141", -- [53]
-			"team:72", -- [54]
-			"team:10", -- [55]
-			"team:122", -- [56]
-			"team:250", -- [57]
+			"team:279", -- [1]
 		},
-		["icon"] = 135800,
-		["groupID"] = "group:4",
-		["name"] = "Legion",
+		["groupID"] = "group:8",
+		["icon"] = "Interface\\Icons\\INV_Pet_BattlePetTraining",
+		["isExpanded"] = true,
 	},
 	["group:7"] = {
 		["showTab"] = true,
@@ -7245,6 +7301,9 @@ Rematch5SavedTargets = {
 	},
 	[85626] = {
 		"team:43", -- [1]
+	},
+	[66815] = {
+		"team:279", -- [1]
 	},
 	[105779] = {
 		"team:44", -- [1]
@@ -7747,11 +7806,11 @@ Rematch5SavedTargets = {
 	[142234] = {
 		"team:210", -- [1]
 	},
-	[119343] = {
-		"team:212", -- [1]
-	},
 	[116788] = {
 		"team:235", -- [1]
+	},
+	[119343] = {
+		"team:212", -- [1]
 	},
 	[200680] = {
 		"team:213", -- [1]
@@ -7795,14 +7854,14 @@ Rematch5SavedTargets = {
 	[119341] = {
 		"team:261", -- [1]
 	},
-	[85650] = {
-		"team:228", -- [1]
+	[200682] = {
+		"team:234", -- [1]
 	},
 	[119344] = {
 		"team:233", -- [1]
 	},
-	[200682] = {
-		"team:234", -- [1]
+	[85650] = {
+		"team:228", -- [1]
 	},
 	[119408] = {
 		"team:229", -- [1]
@@ -12616,24 +12675,6 @@ Rematch4Saved = {
 		["teamName"] = "Dealing with Satyrs",
 		["minXP"] = 1,
 	},
-	[116787] = {
-		{
-			"BattlePet-0-00000E0BBDD5", -- [1]
-			504, -- [2]
-			574, -- [3]
-			802, -- [4]
-			1416, -- [5]
-		}, -- [1]
-		{
-			"random:0", -- [1]
-		}, -- [2]
-		{
-			"random:0", -- [1]
-		}, -- [3]
-		["tab"] = 2,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8979\n\nStrategy added by Threewolves\nTurn 1: Prowl\nTurn 2: Moonfire (Keep on CD)\nTurns 3+: Spirit Claws til done.\n*: Clean up with remaining pets if needed.\n",
-		["teamName"] = "Deviate Flapper",
-	},
 	[119342] = {
 		{
 			"BattlePet-0-00000E0BBEAB", -- [1]
@@ -12653,27 +12694,46 @@ Rematch4Saved = {
 		["teamName"] = "Angry Geode",
 		["minXP"] = 1,
 	},
-	[66741] = {
+	[116787] = {
 		{
-			"BattlePet-0-00000E0BBCF3", -- [1]
-			110, -- [2]
-			364, -- [3]
-			919, -- [4]
-			1211, -- [5]
+			"BattlePet-0-00000E0BBDD5", -- [1]
+			504, -- [2]
+			574, -- [3]
+			802, -- [4]
+			1416, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBCA9", -- [1]
-			384, -- [2]
-			278, -- [3]
-			710, -- [4]
-			277, -- [5]
+			"random:0", -- [1]
 		}, -- [2]
 		{
-			0, -- [1]
+			"random:0", -- [1]
 		}, -- [3]
-		["tab"] = 3,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/591\n\nBreeds that we know work:\nAnklerender must be a P/P breed for this to work 100%.\nP/S and P/B also work just follow the notes below.\n\n(The notes down there are an estimate of 550 HP). (Saint)\n\nTurn 1: Bite\nTurn 2: Bite\nTurn 3+: Leap until Chirrup is dead.\nStormlash comes in.\nTurn 1: Black Claw - your Anklerender dies.\nBring in your Clockwork Gnome.\nTurn 1: Build Turret - Stormlash dies.  If not, just go on to the next step for your turret will kill him as you repair.\nWhiskers comes in.\nTurns 1-3: Repair\nTurn 4: Build Turret\nNOTE: If Whiskers is 551 HP or below after turn 4, Skip to turn 6. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nNOTE: If Whiskers is above 551 HP after turn 4, continue to Turn 5. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nTurn 5: Metal Fist\nTurn 6: Swap to your Level Pet.\nTurn 7: Swap back to your Clockwork Gnome.\nTurn 8: Build Turret - Whiskers dies.\nTurn 9: Metal Fist - if you think you need to.\n",
-		["teamName"] = "Aki the Chosen",
+		["tab"] = 2,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8979\n\nStrategy added by Threewolves\nTurn 1: Prowl\nTurn 2: Moonfire (Keep on CD)\nTurns 3+: Spirit Claws til done.\n*: Clean up with remaining pets if needed.\n",
+		["teamName"] = "Deviate Flapper",
+	},
+	[200678] = {
+		{
+			"BattlePet-0-00000E0BBD2E", -- [1]
+			0, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1165, -- [5]
+		}, -- [1]
+		{
+			"BattlePet-0-00000E0BBF0F", -- [1]
+			0, -- [2]
+			489, -- [3]
+			589, -- [4]
+			1721, -- [5]
+		}, -- [2]
+		{
+			"random:0", -- [1]
+		}, -- [3]
+		["tab"] = 8,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18741\n\nStrategy added by MiKau\nTurn 1: Arcane Storm\nTurn 2-3: Mana Surge\nTurn 4: Stormborne Whelpling comes in\nTurn 5-7: Mana Surge\n",
+		["teamName"] = "Storm-Touched Slyvern",
+		["minXP"] = 25,
 	},
 	[85463] = {
 		{
@@ -14043,28 +14103,27 @@ Rematch4Saved = {
 		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/12263\n\nStrategy added by matsminer#2480\nFound this strategy on wowhead created by Hunt3x\nTried writing a script for it, but dont know if it will work\n\nTurn 1: Primal Cry\nTurn 2: Black Claw\nTurns 3-4: Hunting Party - Sometimes the pet might die before the second turn of Hunting Party, should still work\nTurn 5-6: Flock\nTurn 7: Emerald Presence\nTurn 8: Emerald Dream\nTurn 9: Emerald Bite\nTurn 10+: Emerald Bite - Keeping using emerald bite, fill in with emerald presence if it runs out, and emerald dream if you get >700 HP\n",
 		["teamName"] = "Dreadwalker",
 	},
-	[200678] = {
+	[66741] = {
 		{
-			"BattlePet-0-00000E0BBD2E", -- [1]
-			0, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1165, -- [5]
+			"BattlePet-0-00000E0BBCF3", -- [1]
+			110, -- [2]
+			364, -- [3]
+			919, -- [4]
+			1211, -- [5]
 		}, -- [1]
 		{
-			"BattlePet-0-00000E0BBF0F", -- [1]
-			0, -- [2]
-			489, -- [3]
-			589, -- [4]
-			1721, -- [5]
+			"BattlePet-0-00000E0BBCA9", -- [1]
+			384, -- [2]
+			278, -- [3]
+			710, -- [4]
+			277, -- [5]
 		}, -- [2]
 		{
-			"random:0", -- [1]
+			0, -- [1]
 		}, -- [3]
-		["tab"] = 8,
-		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18741\n\nStrategy added by MiKau\nTurn 1: Arcane Storm\nTurn 2-3: Mana Surge\nTurn 4: Stormborne Whelpling comes in\nTurn 5-7: Mana Surge\n",
-		["teamName"] = "Storm-Touched Slyvern",
-		["minXP"] = 25,
+		["tab"] = 3,
+		["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/591\n\nBreeds that we know work:\nAnklerender must be a P/P breed for this to work 100%.\nP/S and P/B also work just follow the notes below.\n\n(The notes down there are an estimate of 550 HP). (Saint)\n\nTurn 1: Bite\nTurn 2: Bite\nTurn 3+: Leap until Chirrup is dead.\nStormlash comes in.\nTurn 1: Black Claw - your Anklerender dies.\nBring in your Clockwork Gnome.\nTurn 1: Build Turret - Stormlash dies.  If not, just go on to the next step for your turret will kill him as you repair.\nWhiskers comes in.\nTurns 1-3: Repair\nTurn 4: Build Turret\nNOTE: If Whiskers is 551 HP or below after turn 4, Skip to turn 6. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nNOTE: If Whiskers is above 551 HP after turn 4, continue to Turn 5. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nTurn 5: Metal Fist\nTurn 6: Swap to your Level Pet.\nTurn 7: Swap back to your Clockwork Gnome.\nTurn 8: Build Turret - Whiskers dies.\nTurn 9: Metal Fist - if you think you need to.\n",
+		["teamName"] = "Aki the Chosen",
 	},
 	[119346] = {
 		{
@@ -14312,10 +14371,10 @@ Rematch4Settings = {
 		["BattlePet-0-00002114762B"] = "QQQA1M0",
 		["BattlePet-0-000021A14706"] = "QQQC2AA",
 		["BattlePet-0-00000E7AF511"] = "QQQ822H",
-		["BattlePet-0-00000E0BBEB4"] = "QQQ41HD",
+		["BattlePet-0-00000E0BBE07"] = "QQQ31HN",
 		["BattlePet-0-00000E7AF086"] = "QQQ322L",
-		["BattlePet-0-00000E762BF6"] = "QQQ81NI",
 		["BattlePet-0-000021A14EC2"] = "QQQ92JD",
+		["BattlePet-0-00000E762BF6"] = "QQQ81NI",
 		["BattlePet-0-00000E0BBE8C"] = "QQQ71IF",
 		["BattlePet-0-00000E0BBE94"] = "QQQB1DN",
 		["BattlePet-0-000021A14C46"] = "QQQ42A5",
@@ -14352,7 +14411,7 @@ Rematch4Settings = {
 		["BattlePet-0-000021A1B919"] = "QQQ92IN",
 		["BattlePet-0-000021A151AD"] = "QQQA2JB",
 		["BattlePet-0-0000210BE6DA"] = "QQQ5374",
-		["BattlePet-0-00000E0BBE07"] = "QQQ31HN",
+		["BattlePet-0-00000E0BBEB4"] = "QQQ41HD",
 		["BattlePet-0-000021A14907"] = "QQQ62AF",
 		["BattlePet-0-000021A135EB"] = "QQQ52AM",
 		["BattlePet-0-000021A2DE41"] = "QQQ32IQ",
@@ -14403,9 +14462,9 @@ Rematch4Settings = {
 				["Level"] = {
 					[4] = true,
 				},
-				["Sources"] = {
-				},
 				["Similar"] = {
+				},
+				["Sources"] = {
 				},
 				["Breed"] = {
 				},
@@ -14437,10 +14496,10 @@ Rematch4Settings = {
 				},
 				["Level"] = {
 				},
+				["Similar"] = {
+				},
 				["Sources"] = {
 					[5] = true,
-				},
-				["Similar"] = {
 				},
 				["Breed"] = {
 				},
@@ -14470,7 +14529,7 @@ Rematch4Settings = {
 	["ShowOnTarget"] = true,
 	["QueueDoubleClick"] = true,
 	["CustomScaleValue"] = 100,
-	["StrongVsLevel"] = true,
+	["ShowLoadedTeam"] = false,
 	["QueueActiveSort"] = true,
 	["HiddenPets"] = {
 		[331] = true,
@@ -14494,6 +14553,7 @@ Rematch4Settings = {
 	["ExpandedOptHeaders"] = {
 	},
 	["AllowHiddenPetsDefaulted"] = true,
+	["SinglePanel"] = true,
 	["TeamGroups"] = {
 		{
 			"Miscellaneous", -- [1]
@@ -14528,9 +14588,8 @@ Rematch4Settings = {
 			587740, -- [2]
 		}, -- [8]
 	},
-	["SinglePanel"] = true,
 	["PreferredMode"] = 1,
-	["NotesLeft"] = 1547.71435546875,
+	["ImportTeamTabsToo"] = true,
 	["Sanctuary"] = {
 		["BattlePet-0-000021A14258"] = {
 			1, -- [1]
@@ -15430,15 +15489,15 @@ Rematch4Settings = {
 			205, -- [7]
 			1, -- [8]
 		},
-		["BattlePet-0-00002114762B"] = {
+		["BattlePet-0-000021A1B5B5"] = {
 			1, -- [1]
 			true, -- [2]
-			1728, -- [3]
+			2664, -- [3]
 			23, -- [4]
-			1009, -- [5]
-			228, -- [6]
-			182, -- [7]
-			1, -- [8]
+			1580, -- [5]
+			266, -- [6]
+			209, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-0000105DC65D"] = {
 			1, -- [1]
@@ -15473,14 +15532,14 @@ Rematch4Settings = {
 		[2648] = {
 			1, -- [1]
 		},
-		["BattlePet-0-000021A148BC"] = {
+		["BattlePet-0-00002105E37F"] = {
 			1, -- [1]
 			true, -- [2]
-			2380, -- [3]
-			23, -- [4]
-			1431, -- [5]
-			236, -- [6]
-			266, -- [7]
+			1478, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			289, -- [6]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD8E"] = {
@@ -15676,19 +15735,6 @@ Rematch4Settings = {
 			245, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBE8E"] = {
-			1, -- [1]
-			true, -- [2]
-			1455, -- [3]
-			23, -- [4]
-			1163, -- [5]
-			213, -- [6]
-			225, -- [7]
-			2, -- [8]
-		},
-		["random:8"] = {
-			2, -- [1]
-		},
 		["BattlePet-0-00000E0BBE3A"] = {
 			3, -- [1]
 			true, -- [2]
@@ -15698,6 +15744,19 @@ Rematch4Settings = {
 			276, -- [6]
 			224, -- [7]
 			4, -- [8]
+		},
+		["random:8"] = {
+			2, -- [1]
+		},
+		["BattlePet-0-00000E0BBE8E"] = {
+			1, -- [1]
+			true, -- [2]
+			1455, -- [3]
+			23, -- [4]
+			1163, -- [5]
+			213, -- [6]
+			225, -- [7]
+			2, -- [8]
 		},
 		["BattlePet-0-00000E0BBCF5"] = {
 			1, -- [1]
@@ -15812,15 +15871,15 @@ Rematch4Settings = {
 			211, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021241BBB"] = {
+		["BattlePet-0-00000E0BBC81"] = {
 			1, -- [1]
 			true, -- [2]
-			3385, -- [3]
-			23, -- [4]
-			1210, -- [5]
-			209, -- [6]
-			219, -- [7]
-			2, -- [8]
+			266, -- [3]
+			25, -- [4]
+			1481, -- [5]
+			305, -- [6]
+			257, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-000021A1B6D6"] = {
 			1, -- [1]
@@ -15832,6 +15891,26 @@ Rematch4Settings = {
 			243, -- [7]
 			3, -- [8]
 		},
+		["BattlePet-0-00000E0BBE76"] = {
+			2, -- [1]
+			true, -- [2]
+			817, -- [3]
+			25, -- [4]
+			1627, -- [5]
+			289, -- [6]
+			244, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-000021241BBB"] = {
+			1, -- [1]
+			true, -- [2]
+			3385, -- [3]
+			23, -- [4]
+			1210, -- [5]
+			209, -- [6]
+			219, -- [7]
+			2, -- [8]
+		},
 		["BattlePet-0-00000E0BBEF9"] = {
 			1, -- [1]
 			true, -- [2]
@@ -15841,26 +15920,6 @@ Rematch4Settings = {
 			235, -- [6]
 			235, -- [7]
 			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBC81"] = {
-			1, -- [1]
-			true, -- [2]
-			266, -- [3]
-			25, -- [4]
-			1481, -- [5]
-			305, -- [6]
-			257, -- [7]
-			4, -- [8]
-		},
-		["BattlePet-0-00000E0BBF21"] = {
-			10, -- [1]
-			true, -- [2]
-			1975, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
-			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBDC9"] = {
 			1, -- [1]
@@ -15912,14 +15971,14 @@ Rematch4Settings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBEFC"] = {
+		["BattlePet-0-00000E0BBD04"] = {
 			1, -- [1]
 			true, -- [2]
-			1714, -- [3]
-			23, -- [4]
-			1296, -- [5]
-			266, -- [6]
-			266, -- [7]
+			641, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			227, -- [6]
+			322, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBD22"] = {
@@ -15932,15 +15991,15 @@ Rematch4Settings = {
 			273, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBCA9"] = {
-			9, -- [1]
+		["BattlePet-0-000021A13D8B"] = {
+			1, -- [1]
 			true, -- [2]
-			277, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			257, -- [6]
-			289, -- [7]
-			4, -- [8]
+			2400, -- [3]
+			23, -- [4]
+			1328, -- [5]
+			221, -- [6]
+			246, -- [7]
+			3, -- [8]
 		},
 		["BattlePet-0-00000E0BBDD3"] = {
 			1, -- [1]
@@ -15992,16 +16051,6 @@ Rematch4Settings = {
 			259, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBDE6"] = {
-			1, -- [1]
-			true, -- [2]
-			1073, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			273, -- [6]
-			273, -- [7]
-			4, -- [8]
-		},
 		["BattlePet-0-000021A14C46"] = {
 			1, -- [1]
 			true, -- [2]
@@ -16010,6 +16059,16 @@ Rematch4Settings = {
 			1204, -- [5]
 			276, -- [6]
 			221, -- [7]
+			3, -- [8]
+		},
+		["BattlePet-0-00000E0BBF03"] = {
+			1, -- [1]
+			true, -- [2]
+			1592, -- [3]
+			23, -- [4]
+			1259, -- [5]
+			232, -- [6]
+			246, -- [7]
 			3, -- [8]
 		},
 		["BattlePet-0-00002107EE9F"] = {
@@ -16052,15 +16111,15 @@ Rematch4Settings = {
 			211, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-00000E0BBF03"] = {
+		["BattlePet-0-00000E0BBDE6"] = {
 			1, -- [1]
 			true, -- [2]
-			1592, -- [3]
-			23, -- [4]
-			1259, -- [5]
-			232, -- [6]
-			246, -- [7]
-			3, -- [8]
+			1073, -- [3]
+			25, -- [4]
+			1546, -- [5]
+			273, -- [6]
+			273, -- [7]
+			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBE05"] = {
 			1, -- [1]
@@ -16162,34 +16221,34 @@ Rematch4Settings = {
 			221, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00000E0BBD04"] = {
+		["BattlePet-0-00000E0BBEFC"] = {
 			1, -- [1]
 			true, -- [2]
-			641, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			227, -- [6]
-			322, -- [7]
+			1714, -- [3]
+			23, -- [4]
+			1296, -- [5]
+			266, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021A13D8B"] = {
-			1, -- [1]
+		["BattlePet-0-00000E0BBCA9"] = {
+			9, -- [1]
 			true, -- [2]
-			2400, -- [3]
-			23, -- [4]
-			1328, -- [5]
-			221, -- [6]
-			246, -- [7]
-			3, -- [8]
-		},
-		["BattlePet-0-00000E0BBE76"] = {
-			2, -- [1]
-			true, -- [2]
-			817, -- [3]
+			277, -- [3]
 			25, -- [4]
-			1627, -- [5]
+			1546, -- [5]
+			257, -- [6]
+			289, -- [7]
+			4, -- [8]
+		},
+		["BattlePet-0-00000E0BBF21"] = {
+			10, -- [1]
+			true, -- [2]
+			1975, -- [3]
+			25, -- [4]
+			1546, -- [5]
 			289, -- [6]
-			244, -- [7]
+			260, -- [7]
 			4, -- [8]
 		},
 		["BattlePet-0-00000E0BBCC4"] = {
@@ -16372,25 +16431,25 @@ Rematch4Settings = {
 			221, -- [7]
 			3, -- [8]
 		},
-		["BattlePet-0-00002105E37F"] = {
+		["BattlePet-0-000021A148BC"] = {
 			1, -- [1]
 			true, -- [2]
-			1478, -- [3]
-			25, -- [4]
-			1546, -- [5]
-			289, -- [6]
-			260, -- [7]
+			2380, -- [3]
+			23, -- [4]
+			1431, -- [5]
+			236, -- [6]
+			266, -- [7]
 			4, -- [8]
 		},
-		["BattlePet-0-000021A1B5B5"] = {
+		["BattlePet-0-00002114762B"] = {
 			1, -- [1]
 			true, -- [2]
-			2664, -- [3]
+			1728, -- [3]
 			23, -- [4]
-			1580, -- [5]
-			266, -- [6]
-			209, -- [7]
-			4, -- [8]
+			1009, -- [5]
+			228, -- [6]
+			182, -- [7]
+			1, -- [8]
 		},
 		["BattlePet-0-00000E0BBD0E"] = {
 			5, -- [1]
@@ -16569,7 +16628,7 @@ Rematch4Settings = {
 	["NotesFont"] = "GameFontHighlight",
 	["PrioritizeBreedOnImport"] = true,
 	["HideTooltips"] = false,
-	["ImportTeamTabsToo"] = true,
+	["NotesLeft"] = 1547.71435546875,
 	["Filters"] = {
 		["Other"] = {
 		},
@@ -16585,13 +16644,13 @@ Rematch4Settings = {
 		},
 		["Rarity"] = {
 		},
-		["Similar"] = {
+		["Sources"] = {
 		},
 		["Breed"] = {
 		},
 		["Script"] = {
 		},
-		["Sources"] = {
+		["Similar"] = {
 		},
 		["Level"] = {
 		},
@@ -16726,7 +16785,7 @@ Rematch4Settings = {
 	},
 	["ExpandedTargetHeaders"] = {
 	},
-	["ShowLoadedTeam"] = false,
+	["StrongVsLevel"] = true,
 	["minimapButtonPosition"] = 179.419279382929,
 	["ShowAbilityNumbers"] = true,
 	["ReverseToolbar"] = false,

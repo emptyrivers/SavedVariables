@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-	["currentPage"] = 4,
+	["currentPage"] = 5,
 	["fontSize"] = 14,
 	["pages"] = {
 		{
@@ -21,6 +21,11 @@ WowLua_DB = {
 			["name"] = "Visual fiddles",
 			["content"] = "",
 		}, -- [4]
+		{
+			["untitled"] = true,
+			["name"] = "Untitled 5",
+			["content"] = "",
+		}, -- [5]
 	},
-	["untitled"] = 5,
+	["untitled"] = 6,
 }

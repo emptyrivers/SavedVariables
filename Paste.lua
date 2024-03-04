@@ -213,6 +213,14 @@ PasteDB = {
 		},
 		["Karst - Argent Dawn"] = {
 			["loaded"] = true,
+			["whispertarget"] = "",
+			["where"] = "Default",
+			["pos"] = {
+				["height"] = 320,
+				["top"] = 812.9522705078125,
+				["left"] = 1450.476318359375,
+				["width"] = 500.0000305175781,
+			},
 		},
 		["Skankyrivers - Arthas"] = {
 			["loaded"] = true,
@@ -462,8 +470,8 @@ PasteDB = {
 		},
 		["Riparium - Argent Dawn"] = {
 			["loaded"] = true,
-			["where"] = "Default",
 			["whispertarget"] = "",
+			["where"] = "Default",
 			["pos"] = {
 			},
 		},

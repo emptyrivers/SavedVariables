@@ -1,40 +1,40 @@
 
 DataStore_TalentsDB = {
 	["profileKeys"] = {
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
 			["Default.Argent Dawn.Headcut"] = {
-				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707599966,
+				["activeSpecRole"] = "HEALER",
+				["lastUpdate"] = 1709178666,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
 					0, -- [3]
 				},
 				["Class"] = "SHAMAN",
-				["activeSpecIndex"] = 1,
-				["activeSpecName"] = "Elemental",
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Restoration",
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707680925,
+				["lastUpdate"] = 1709424461,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -46,7 +46,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707628146,
+				["lastUpdate"] = 1709484655,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -56,20 +56,22 @@ DataStore_TalentsDB = {
 				["activeSpecIndex"] = 3,
 				["activeSpecName"] = "Frost",
 			},
-			["Default.Argent Dawn.Confluence"] = {
+			["Default.Argent Dawn.Karst"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707520520,
+				["lastUpdate"] = 1708725946,
 				["Specializations"] = {
-					[2] = 0,
-					[3] = 0,
+					0, -- [1]
+					0, -- [2]
+					0, -- [3]
+					[5] = 0,
 				},
-				["Class"] = "PALADIN",
-				["activeSpecIndex"] = 3,
-				["activeSpecName"] = "Retribution",
+				["Class"] = "WARRIOR",
+				["activeSpecIndex"] = 2,
+				["activeSpecName"] = "Fury",
 			},
 			["Default.Argent Dawn.Alluvium"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707521091,
+				["lastUpdate"] = 1708713074,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -81,7 +83,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Benthos"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707628750,
+				["lastUpdate"] = 1708652264,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -104,7 +106,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Stream"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707522637,
+				["lastUpdate"] = 1709506208,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -115,7 +117,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707675608,
+				["lastUpdate"] = 1708825087,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -127,7 +129,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Cataracts"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1706055581,
+				["lastUpdate"] = 1709502863,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -139,7 +141,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707620443,
+				["lastUpdate"] = 1708716747,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -151,7 +153,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Estuary"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707524155,
+				["lastUpdate"] = 1708713010,
 				["Specializations"] = {
 					0, -- [1]
 					0, -- [2]
@@ -163,7 +165,7 @@ DataStore_TalentsDB = {
 			},
 			["Default.Argent Dawn.Mangrove"] = {
 				["activeSpecRole"] = "HEALER",
-				["lastUpdate"] = 1707522941,
+				["lastUpdate"] = 1708652385,
 				["Specializations"] = {
 					[2] = 0,
 					[4] = 0,
@@ -172,44 +174,53 @@ DataStore_TalentsDB = {
 				["activeSpecIndex"] = 4,
 				["activeSpecName"] = "Restoration",
 			},
-			["Default.Argent Dawn.Karst"] = {
+			["Default.Argent Dawn.Confluence"] = {
 				["activeSpecRole"] = "DAMAGER",
-				["lastUpdate"] = 1707183752,
+				["lastUpdate"] = 1708713208,
 				["Specializations"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					[5] = 0,
+					[2] = 0,
+					[3] = 0,
 				},
-				["Class"] = "WARRIOR",
-				["activeSpecIndex"] = 2,
-				["activeSpecName"] = "Fury",
+				["Class"] = "PALADIN",
+				["activeSpecIndex"] = 3,
+				["activeSpecName"] = "Retribution",
 			},
 		},
 	},
 }
 DataStore_TalentsRefDB = {
 	["profileKeys"] = {
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["DEATHKNIGHT"] = {
 			["Locale"] = "enUS",
+			["Specializations"] = {
+				{
+					["id"] = 250,
+				}, -- [1]
+				{
+					["id"] = 251,
+				}, -- [2]
+				{
+					["id"] = 252,
+				}, -- [3]
+			},
 			["Version"] = 53262,
 		},
 		["WARRIOR"] = {
@@ -225,7 +236,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 73,
 				}, -- [3]
 			},
-			["Version"] = 53162,
+			["Version"] = 53441,
 		},
 		["ROGUE"] = {
 			["Locale"] = "enUS",
@@ -255,7 +266,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 64,
 				}, -- [3]
 			},
-			["Version"] = 53262,
+			["Version"] = 53441,
 		},
 		["PRIEST"] = {
 			["Locale"] = "enUS",
@@ -270,34 +281,34 @@ DataStore_TalentsRefDB = {
 					["id"] = 258,
 				}, -- [3]
 			},
-			["Version"] = 53262,
+			["Version"] = 53441,
 		},
-		["PALADIN"] = {
+		["HUNTER"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 65,
+					["id"] = 253,
 				}, -- [1]
 				{
-					["id"] = 66,
+					["id"] = 254,
 				}, -- [2]
 				{
-					["id"] = 70,
+					["id"] = 255,
 				}, -- [3]
 			},
-			["Version"] = 53262,
+			["Version"] = 53441,
 		},
-		["MONK"] = {
+		["EVOKER"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 268,
+					["id"] = 1467,
 				}, -- [1]
 				{
-					["id"] = 270,
+					["id"] = 1468,
 				}, -- [2]
 				{
-					["id"] = 269,
+					["id"] = 1473,
 				}, -- [3]
 			},
 			["Version"] = 53262,
@@ -315,7 +326,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 267,
 				}, -- [3]
 			},
-			["Version"] = 53262,
+			["Version"] = 53441,
 		},
 		["DEMONHUNTER"] = {
 			["Locale"] = "enUS",
@@ -327,7 +338,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 581,
 				}, -- [2]
 			},
-			["Version"] = 53040,
+			["Version"] = 53441,
 		},
 		["SHAMAN"] = {
 			["Locale"] = "enUS",
@@ -342,7 +353,7 @@ DataStore_TalentsRefDB = {
 					["id"] = 264,
 				}, -- [3]
 			},
-			["Version"] = 53262,
+			["Version"] = 53441,
 		},
 		["DRUID"] = {
 			["Locale"] = "enUS",
@@ -362,32 +373,32 @@ DataStore_TalentsRefDB = {
 			},
 			["Version"] = 53262,
 		},
-		["EVOKER"] = {
+		["MONK"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 1467,
+					["id"] = 268,
 				}, -- [1]
 				{
-					["id"] = 1468,
+					["id"] = 270,
 				}, -- [2]
 				{
-					["id"] = 1473,
+					["id"] = 269,
 				}, -- [3]
 			},
 			["Version"] = 53262,
 		},
-		["HUNTER"] = {
+		["PALADIN"] = {
 			["Locale"] = "enUS",
 			["Specializations"] = {
 				{
-					["id"] = 253,
+					["id"] = 65,
 				}, -- [1]
 				{
-					["id"] = 254,
+					["id"] = 66,
 				}, -- [2]
 				{
-					["id"] = 255,
+					["id"] = 70,
 				}, -- [3]
 			},
 			["Version"] = 53262,
