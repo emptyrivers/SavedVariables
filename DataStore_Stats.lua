@@ -2,46 +2,48 @@
 DataStore_StatsDB = {
 	["profileKeys"] = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
-		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Characters"] = {
+			["Default.The Scryers.Wildeadoriah"] = {
+				["Stats"] = {
+					["Ranged"] = "1-1|0|0|0|5",
+					["HealthMax"] = 176,
+					["Melee"] = "8-9|2.6000001430511|18|0|5|0",
+					["MaxPower"] = "1|100",
+					["Defense"] = "0|0|3|4.1221609115601|10|0",
+					["PVP"] = "0|0",
+					["Base"] = "18|13|44|14|0",
+					["Spell"] = "14|14|0|5|0|0",
+				},
+				["lastUpdate"] = 1709678934,
+			},
 			["Default.Argent Dawn.Headcut"] = {
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|25.578330993652",
-					["HealthMax"] = 892966,
-					["Melee"] = "2775-3194|2.9210002422333|2191|0|25.578330993652|0",
+					["HealthMax"] = 850457,
+					["Melee"] = "2703-3112|2.9210002422333|2191|0|25.578330993652|0",
 					["MaxPower"] = "0|250000",
-					["Defense"] = "0|0|6.2381000518799|0|10|0",
+					["Spell"] = "13975|15765|0|25.578330993652|3952|10000",
 					["PVP"] = "125|0",
-					["Base"] = "898|2087|41341|14674|0",
-					["Spell"] = "14674|16993|0|25.578330993652|3952|10238",
-				},
-				["dungeonScore"] = 2588,
-				["lastUpdate"] = 1709178667,
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["mapID"] = 248,
-						["level"] = 17,
-					}, -- [1]
-					{
-						["mapID"] = 199,
-						["level"] = 17,
-					}, -- [2]
+					["Base"] = "898|2087|39373|13975|0",
+					["Defense"] = "0|0|6.2381000518799|0|10|0",
 				},
 				["Dungeons"] = {
 					[198] = {
@@ -58,27 +60,19 @@ DataStore_StatsDB = {
 						},
 						["seasonBestTimeInSeconds"] = 1550,
 					},
-					[456] = {
-						["seasonBestLevel"] = 20,
-						["weeklyRunHistory"] = {
-						},
-						["seasonBestTimeInSeconds"] = 1598,
+					[251] = {
 					},
 					[245] = {
 					},
-					[168] = {
-						["seasonBestLevel"] = 20,
-						["seasonBestTimeInSeconds"] = 1641,
-						["seasonBestOvertimeTimeInSeconds"] = 2027,
+					[199] = {
+						["seasonBestLevel"] = 18,
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 17,
+							}, -- [1]
 						},
-						["seasonBestOvertimeLevel"] = 20,
-					},
-					[403] = {
-					},
-					[405] = {
-						["weeklyRunHistory"] = {
-						},
+						["seasonBestTimeInSeconds"] = 1289,
 					},
 					[463] = {
 						["seasonBestLevel"] = 20,
@@ -87,6 +81,16 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 1347,
 					},
 					[404] = {
+					},
+					[403] = {
+					},
+					[464] = {
+						["seasonBestLevel"] = 20,
+						["seasonBestTimeInSeconds"] = 1863,
+						["seasonBestOvertimeTimeInSeconds"] = 2242,
+						["seasonBestOvertimeLevel"] = 21,
+						["weeklyRunHistory"] = {
+						},
 					},
 					[248] = {
 						["seasonBestLevel"] = 18,
@@ -100,31 +104,41 @@ DataStore_StatsDB = {
 					},
 					[406] = {
 					},
-					[464] = {
-						["seasonBestLevel"] = 20,
-						["seasonBestTimeInSeconds"] = 1863,
-						["seasonBestOvertimeTimeInSeconds"] = 2242,
+					[405] = {
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeLevel"] = 21,
 					},
 					[438] = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[199] = {
-						["seasonBestLevel"] = 18,
+					[168] = {
+						["seasonBestLevel"] = 20,
+						["seasonBestTimeInSeconds"] = 1641,
+						["seasonBestOvertimeTimeInSeconds"] = 2027,
+						["seasonBestOvertimeLevel"] = 20,
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 17,
-							}, -- [1]
 						},
-						["seasonBestTimeInSeconds"] = 1289,
 					},
-					[251] = {
+					[456] = {
+						["seasonBestLevel"] = 20,
+						["weeklyRunHistory"] = {
+						},
+						["seasonBestTimeInSeconds"] = 1598,
 					},
 				},
+				["lastUpdate"] = 1709675099,
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["level"] = 17,
+						["mapID"] = 248,
+					}, -- [1]
+					{
+						["level"] = 17,
+						["mapID"] = 199,
+					}, -- [2]
+				},
+				["dungeonScore"] = 2588,
 			},
 			["Default.Argent Dawn.Riparium"] = {
 				["Stats"] = {
@@ -132,10 +146,21 @@ DataStore_StatsDB = {
 					["HealthMax"] = 963333,
 					["Melee"] = "1134-1536|2.7260000705719|0|0|27.483940124512|0",
 					["MaxPower"] = "0|250000",
-					["Spell"] = "15391|17092|0|27.483940124512|5488|12500",
+					["Defense"] = "0|0|3|0|0|0",
 					["PVP"] = "0|0",
 					["Base"] = "791|1610|45873|15391|0",
-					["Defense"] = "0|0|3|0|0|0",
+					["Spell"] = "15391|17092|0|27.483940124512|5488|12500",
+				},
+				["dungeonScore"] = 3006,
+				["lastUpdate"] = 1709673005,
+				["WeeklyActivities"] = {
+					1, -- [1]
+				},
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["level"] = 19,
+						["mapID"] = 199,
+					}, -- [1]
 				},
 				["Dungeons"] = {
 					[198] = {
@@ -162,7 +187,13 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[399] = {
+					[464] = {
+						["seasonBestLevel"] = 22,
+						["seasonBestTimeInSeconds"] = 1870,
+						["seasonBestOvertimeTimeInSeconds"] = 2245,
+						["weeklyRunHistory"] = {
+						},
+						["seasonBestOvertimeLevel"] = 22,
 					},
 					[2] = {
 					},
@@ -180,13 +211,7 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[464] = {
-						["seasonBestLevel"] = 22,
-						["seasonBestTimeInSeconds"] = 1870,
-						["seasonBestOvertimeTimeInSeconds"] = 2245,
-						["weeklyRunHistory"] = {
-						},
-						["seasonBestOvertimeLevel"] = 22,
+					[165] = {
 					},
 					[248] = {
 						["seasonBestLevel"] = 23,
@@ -196,24 +221,6 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[200] = {
-					},
-					[210] = {
-					},
-					[199] = {
-						["weeklyBestTimeInSeconds"] = 1306,
-						["seasonBestLevel"] = 23,
-						["seasonBestTimeInSeconds"] = 1710,
-						["seasonBestOvertimeLevel"] = 18,
-						["seasonBestOvertimeTimeInSeconds"] = 2187,
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-						},
-						["weeklyBestLevel"] = 19,
-					},
 					[168] = {
 						["seasonBestLevel"] = 22,
 						["seasonBestTimeInSeconds"] = 1737,
@@ -222,94 +229,94 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[165] = {
+					[199] = {
+						["seasonBestLevel"] = 23,
+						["seasonBestTimeInSeconds"] = 1710,
+						["seasonBestOvertimeTimeInSeconds"] = 2187,
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 19,
+							}, -- [1]
+						},
+						["seasonBestOvertimeLevel"] = 18,
 					},
-				},
-				["WeeklyBestKeystone"] = {
-					["level"] = 19,
-					["name"] = "Black Rook Hold",
-					["timeInSeconds"] = 1306,
-				},
-				["lastUpdate"] = 1709424491,
-				["WeeklyActivities"] = {
-					1, -- [1]
-				},
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["mapID"] = 199,
-						["level"] = 19,
-					}, -- [1]
-				},
-				["dungeonScore"] = 3006,
-			},
-			["Default.Argent Dawn.Emptyrivers"] = {
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["mapID"] = 168,
-						["level"] = 22,
-					}, -- [1]
-					{
-						["mapID"] = 248,
-						["level"] = 20,
-					}, -- [2]
-				},
-				["lastUpdate"] = 1709484666,
-				["SeasonBestMaps"] = {
 					[210] = {
-						["timeInSeconds"] = 1799,
-						["level"] = 21,
-						["name"] = "Court of Stars",
-						["texture"] = 1498160,
-					},
-					[165] = {
-						["timeInSeconds"] = 1806,
-						["level"] = 21,
-						["name"] = "Shadowmoon Burial Grounds",
-						["texture"] = 1042063,
 					},
 					[200] = {
-						["timeInSeconds"] = 1594,
-						["level"] = 5,
-						["name"] = "Halls of Valor",
-						["texture"] = 1498162,
-					},
-					[402] = {
-						["timeInSeconds"] = 1794,
-						["level"] = 18,
-						["name"] = "Algeth'ar Academy",
-						["texture"] = 4746641,
 					},
 					[399] = {
-						["timeInSeconds"] = 1543,
-						["level"] = 16,
-						["name"] = "Ruby Life Pools",
-						["texture"] = 4746639,
 					},
-					[400] = {
-						["timeInSeconds"] = 2019,
-						["level"] = 19,
-						["name"] = "The Nokhud Offensive",
-						["texture"] = 4746636,
-					},
-					[401] = {
-						["timeInSeconds"] = 1965,
+				},
+			},
+			["Default.Argent Dawn.Emptyrivers"] = {
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|23.28932762146",
+					["HealthMax"] = 640080,
+					["Melee"] = "1172-1587|2.6930000782013|0|0|23.28932762146|0",
+					["MaxPower"] = "0|250000",
+					["Defense"] = "0|0|3|0|0|0",
+					["PVP"] = "1|0",
+					["Base"] = "917|1422|32004|12243|0",
+					["Spell"] = "12243|15001|0|23.28932762146|3630|25000",
+				},
+				["lastUpdate"] = 1709672863,
+				["SeasonBestMaps"] = {
+					[210] = {
+						["texture"] = 1498160,
 						["level"] = 21,
-						["name"] = "The Azure Vault",
-						["texture"] = 4746634,
+						["name"] = "Court of Stars",
+						["timeInSeconds"] = 1799,
+					},
+					[165] = {
+						["texture"] = 1042063,
+						["level"] = 21,
+						["name"] = "Shadowmoon Burial Grounds",
+						["timeInSeconds"] = 1806,
 					},
 					[2] = {
-						["timeInSeconds"] = 1698,
+						["texture"] = 632363,
 						["level"] = 20,
 						["name"] = "Temple of the Jade Serpent",
-						["texture"] = 632363,
+						["timeInSeconds"] = 1698,
+					},
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 18,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 1794,
+					},
+					[399] = {
+						["texture"] = 4746639,
+						["level"] = 16,
+						["name"] = "Ruby Life Pools",
+						["timeInSeconds"] = 1543,
+					},
+					[400] = {
+						["texture"] = 4746636,
+						["level"] = 19,
+						["name"] = "The Nokhud Offensive",
+						["timeInSeconds"] = 2019,
+					},
+					[401] = {
+						["texture"] = 4746634,
+						["level"] = 21,
+						["name"] = "The Azure Vault",
+						["timeInSeconds"] = 1965,
+					},
+					[200] = {
+						["texture"] = 1498162,
+						["level"] = 5,
+						["name"] = "Halls of Valor",
+						["timeInSeconds"] = 1594,
 					},
 				},
 				["WeeklyBestMaps"] = {
 					[399] = {
-						["timeInSeconds"] = 1543,
+						["texture"] = 4746639,
 						["level"] = 16,
 						["name"] = "Ruby Life Pools",
-						["texture"] = 4746639,
+						["timeInSeconds"] = 1543,
 					},
 				},
 				["Dungeons"] = {
@@ -334,35 +341,35 @@ DataStore_StatsDB = {
 						},
 					},
 					[244] = {
-						["seasonBestLevel"] = 9,
 						["weeklyRunHistory"] = {
 						},
+						["seasonBestLevel"] = 9,
 						["seasonBestTimeInSeconds"] = 1093,
 					},
 					[248] = {
-						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
 								["level"] = 20,
 							}, -- [1]
 						},
+						["seasonBestLevel"] = 2,
 						["seasonBestTimeInSeconds"] = 901,
 					},
 					[403] = {
 						["weeklyBestTimeInSeconds"] = 1977,
 						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 1977,
-						["weeklyBestLevel"] = 17,
-						["seasonBestOvertimeTimeInSeconds"] = 2526,
 						["seasonBestOvertimeLevel"] = 17,
+						["seasonBestOvertimeTimeInSeconds"] = 2526,
 						["weeklyRunHistory"] = {
 						},
+						["weeklyBestLevel"] = 17,
 					},
 					[198] = {
-						["seasonBestLevel"] = 12,
 						["weeklyRunHistory"] = {
 						},
+						["seasonBestLevel"] = 12,
 						["seasonBestTimeInSeconds"] = 1021,
 					},
 					[404] = {
@@ -378,9 +385,9 @@ DataStore_StatsDB = {
 						["seasonBestOvertimeLevel"] = 21,
 					},
 					[245] = {
+						["seasonBestLevel"] = 15,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 15,
 						["seasonBestTimeInSeconds"] = 1447,
 					},
 					[405] = {
@@ -388,24 +395,28 @@ DataStore_StatsDB = {
 						},
 					},
 					[199] = {
-						["seasonBestLevel"] = 15,
 						["weeklyRunHistory"] = {
 						},
+						["seasonBestLevel"] = 15,
 						["seasonBestTimeInSeconds"] = 1717,
 					},
 					[406] = {
 						["weeklyBestTimeInSeconds"] = 2082,
 						["seasonBestLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 2082,
-						["weeklyBestLevel"] = 17,
-						["seasonBestOvertimeTimeInSeconds"] = 2702,
 						["seasonBestOvertimeLevel"] = 19,
+						["seasonBestOvertimeTimeInSeconds"] = 2702,
 						["weeklyRunHistory"] = {
 						},
+						["weeklyBestLevel"] = 17,
 					},
-					[464] = {
+					[251] = {
+						["weeklyBestTimeInSeconds"] = 1492,
+						["seasonBestLevel"] = 17,
+						["seasonBestTimeInSeconds"] = 1492,
 						["weeklyRunHistory"] = {
 						},
+						["weeklyBestLevel"] = 17,
 					},
 					[399] = {
 						["seasonBestLevel"] = 16,
@@ -432,9 +443,9 @@ DataStore_StatsDB = {
 						},
 					},
 					[200] = {
-						["seasonBestOvertimeLevel"] = 17,
-						["seasonBestOvertimeTimeInSeconds"] = 2295,
 						["seasonBestLevel"] = 5,
+						["seasonBestOvertimeTimeInSeconds"] = 2295,
+						["seasonBestOvertimeLevel"] = 17,
 						["seasonBestTimeInSeconds"] = 1594,
 					},
 					[400] = {
@@ -445,17 +456,13 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[463] = {
+					[401] = {
+						["seasonBestLevel"] = 21,
+						["seasonBestTimeInSeconds"] = 1965,
+						["seasonBestOvertimeTimeInSeconds"] = 2236,
 						["weeklyRunHistory"] = {
 						},
-					},
-					[168] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 22,
-							}, -- [1]
-						},
+						["seasonBestOvertimeLevel"] = 20,
 					},
 					[206] = {
 						["weeklyBestTimeInSeconds"] = 1618,
@@ -465,152 +472,251 @@ DataStore_StatsDB = {
 						},
 						["weeklyBestLevel"] = 17,
 					},
-					[251] = {
-						["weeklyBestTimeInSeconds"] = 1492,
-						["seasonBestLevel"] = 17,
-						["seasonBestTimeInSeconds"] = 1492,
+					[168] = {
 						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 22,
+							}, -- [1]
 						},
-						["weeklyBestLevel"] = 17,
 					},
-					[401] = {
-						["seasonBestLevel"] = 21,
-						["seasonBestTimeInSeconds"] = 1965,
-						["seasonBestOvertimeTimeInSeconds"] = 2236,
+					[463] = {
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestOvertimeLevel"] = 20,
+					},
+					[464] = {
+						["weeklyRunHistory"] = {
+						},
 					},
 				},
 				["SeasonBestMapsOvertime"] = {
 					[210] = {
-						["timeInSeconds"] = 1953,
+						["texture"] = 1498160,
 						["level"] = 21,
 						["name"] = "Court of Stars",
-						["texture"] = 1498160,
+						["timeInSeconds"] = 1953,
 					},
 					[200] = {
-						["timeInSeconds"] = 2295,
+						["texture"] = 1498162,
 						["level"] = 17,
 						["name"] = "Halls of Valor",
-						["texture"] = 1498162,
-					},
-					[165] = {
-						["timeInSeconds"] = 2046,
-						["level"] = 16,
-						["name"] = "Shadowmoon Burial Grounds",
-						["texture"] = 1042063,
-					},
-					[402] = {
-						["timeInSeconds"] = 2018,
-						["level"] = 20,
-						["name"] = "Algeth'ar Academy",
-						["texture"] = 4746641,
-					},
-					[399] = {
-						["timeInSeconds"] = 1885,
-						["level"] = 20,
-						["name"] = "Ruby Life Pools",
-						["texture"] = 4746639,
-					},
-					[400] = {
-						["timeInSeconds"] = 2841,
-						["level"] = 20,
-						["name"] = "The Nokhud Offensive",
-						["texture"] = 4746636,
-					},
-					[401] = {
-						["timeInSeconds"] = 2609,
-						["level"] = 20,
-						["name"] = "The Azure Vault",
-						["texture"] = 4746634,
+						["timeInSeconds"] = 2295,
 					},
 					[2] = {
-						["timeInSeconds"] = 2058,
+						["texture"] = 632363,
 						["level"] = 20,
 						["name"] = "Temple of the Jade Serpent",
-						["texture"] = 632363,
+						["timeInSeconds"] = 2058,
+					},
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 20,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 2018,
+					},
+					[399] = {
+						["texture"] = 4746639,
+						["level"] = 20,
+						["name"] = "Ruby Life Pools",
+						["timeInSeconds"] = 1885,
+					},
+					[400] = {
+						["texture"] = 4746636,
+						["level"] = 20,
+						["name"] = "The Nokhud Offensive",
+						["timeInSeconds"] = 2841,
+					},
+					[401] = {
+						["texture"] = 4746634,
+						["level"] = 20,
+						["name"] = "The Azure Vault",
+						["timeInSeconds"] = 2609,
+					},
+					[165] = {
+						["texture"] = 1042063,
+						["level"] = 16,
+						["name"] = "Shadowmoon Burial Grounds",
+						["timeInSeconds"] = 2046,
 					},
 				},
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|23.28932762146",
-					["HealthMax"] = 640080,
-					["Melee"] = "1160-1571|2.6930000782013|0|0|23.28932762146|0",
-					["MaxPower"] = "0|250000",
-					["Spell"] = "12855|15593|0|23.28932762146|3630|25000",
-					["PVP"] = "1|0",
-					["Base"] = "917|1422|32004|12855|0",
-					["Defense"] = "0|0|3|0|0|0",
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["level"] = 22,
+						["mapID"] = 168,
+					}, -- [1]
+					{
+						["level"] = 20,
+						["mapID"] = 248,
+					}, -- [2]
 				},
 				["dungeonScore"] = 644,
 			},
-			["Default.Argent Dawn.Karst"] = {
-				["Stats"] = {
-					["Ranged"] = "0-1|0|0|0|17.097759246826",
-					["HealthMax"] = 1316,
-					["Melee"] = "35-43|3.1130001544952|96|0|17.097759246826|0",
-					["MaxPower"] = "1|100",
-					["Defense"] = "0|0|3|8.5382175445557|10|0",
-					["PVP"] = "0|0",
-					["Base"] = "96|38|188|40|0",
-					["Spell"] = "40|41|0|17.097759246826|51|0",
+			["Default.Argent Dawn.Confluence"] = {
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["mapID"] = 248,
+						["level"] = 17,
+					}, -- [1]
+					{
+						["mapID"] = 199,
+						["level"] = 17,
+					}, -- [2]
 				},
-				["lastUpdate"] = 1708726338,
+				["lastUpdate"] = 1709675278,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|26.200464248657",
+					["HealthMax"] = 593360,
+					["Melee"] = "6870-7765|2.4190001487732|8389|0|26.200464248657|0",
+					["MaxPower"] = "0|250000",
+					["Spell"] = "10654|11708|0|26.200464248657|3272|12800",
+					["PVP"] = "0|0",
+					["Base"] = "8389|730|29668|2172|0",
+					["Defense"] = "0|0|3|14.656316757202|10|0",
+				},
+				["Dungeons"] = {
+					[168] = {
+						["weeklyRunHistory"] = {
+						},
+					},
+					[456] = {
+						["weeklyRunHistory"] = {
+						},
+					},
+					[244] = {
+						["weeklyRunHistory"] = {
+						},
+					},
+					[200] = {
+					},
+					[399] = {
+					},
+					[400] = {
+					},
+					[401] = {
+					},
+					[402] = {
+					},
+					[463] = {
+						["weeklyRunHistory"] = {
+						},
+					},
+					[210] = {
+					},
+					[248] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 17,
+							}, -- [1]
+						},
+					},
+					[165] = {
+					},
+					[2] = {
+					},
+					[199] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 17,
+							}, -- [1]
+						},
+					},
+					[464] = {
+						["weeklyRunHistory"] = {
+						},
+					},
+					[198] = {
+						["weeklyRunHistory"] = {
+						},
+					},
+				},
+			},
+			["Default.Argent Dawn.Stream"] = {
+				["Stats"] = {
+					["Ranged"] = "1669-1871|2.8540000915527|2765|0|24.727933883667",
+					["HealthMax"] = 137484,
+					["Melee"] = "1438-1439|2.8540000915527|2765|0|24.727933883667|0",
+					["MaxPower"] = "2|100",
+					["Defense"] = "0|0|8.8701305389404|0|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "891|2765|6365|1203|0",
+					["Spell"] = "1203|1251|0|24.727933883667|441|0",
+				},
+				["lastUpdate"] = 1709673314,
+				["Dungeons"] = {
+					[168] = {
+					},
+					[244] = {
+					},
+					[199] = {
+					},
+					[456] = {
+					},
+					[198] = {
+					},
+					[463] = {
+					},
+					[464] = {
+					},
+					[248] = {
+					},
+				},
 			},
 			["Default.Argent Dawn.Flumina"] = {
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|21.794895172119",
-					["HealthMax"] = 602660,
+					["HealthMax"] = 573980,
 					["Melee"] = "889-1205|2.8410000801086|0|0|21.794895172119|0",
 					["MaxPower"] = "13|150",
-					["Spell"] = "12152|12288|0|21.794895172119|4538|12800",
-					["PVP"] = "2|0",
-					["Base"] = "1212|1732|30133|12152|0",
 					["Defense"] = "0|0|3|0|0|0",
+					["PVP"] = "2|0",
+					["Base"] = "1212|1732|28699|12152|0",
+					["Spell"] = "12152|12288|0|21.794895172119|4538|12800",
 				},
-				["lastUpdate"] = 1708825087,
+				["lastUpdate"] = 1709673136,
 				["SeasonBestMaps"] = {
 					[210] = {
-						["texture"] = 1498160,
+						["timeInSeconds"] = 768,
 						["level"] = 2,
 						["name"] = "Court of Stars",
-						["timeInSeconds"] = 768,
+						["texture"] = 1498160,
 					},
 					[200] = {
-						["texture"] = 1498162,
+						["timeInSeconds"] = 909,
 						["level"] = 2,
 						["name"] = "Halls of Valor",
-						["timeInSeconds"] = 909,
-					},
-					[402] = {
-						["texture"] = 4746641,
-						["level"] = 3,
-						["name"] = "Algeth'ar Academy",
-						["timeInSeconds"] = 840,
-					},
-					[399] = {
-						["texture"] = 4746639,
-						["level"] = 3,
-						["name"] = "Ruby Life Pools",
-						["timeInSeconds"] = 658,
-					},
-					[400] = {
-						["texture"] = 4746636,
-						["level"] = 7,
-						["name"] = "The Nokhud Offensive",
-						["timeInSeconds"] = 2005,
-					},
-					[401] = {
-						["texture"] = 4746634,
-						["level"] = 3,
-						["name"] = "The Azure Vault",
-						["timeInSeconds"] = 932,
+						["texture"] = 1498162,
 					},
 					[2] = {
-						["texture"] = 632363,
+						["timeInSeconds"] = 595,
 						["level"] = 4,
 						["name"] = "Temple of the Jade Serpent",
-						["timeInSeconds"] = 595,
+						["texture"] = 632363,
+					},
+					[399] = {
+						["timeInSeconds"] = 658,
+						["level"] = 3,
+						["name"] = "Ruby Life Pools",
+						["texture"] = 4746639,
+					},
+					[400] = {
+						["timeInSeconds"] = 2005,
+						["level"] = 7,
+						["name"] = "The Nokhud Offensive",
+						["texture"] = 4746636,
+					},
+					[401] = {
+						["timeInSeconds"] = 932,
+						["level"] = 3,
+						["name"] = "The Azure Vault",
+						["texture"] = 4746634,
+					},
+					[402] = {
+						["timeInSeconds"] = 840,
+						["level"] = 3,
+						["name"] = "Algeth'ar Academy",
+						["texture"] = 4746641,
 					},
 				},
 				["Dungeons"] = {
@@ -649,13 +755,13 @@ DataStore_StatsDB = {
 						},
 					},
 					[198] = {
+						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
 								["level"] = 19,
 							}, -- [1]
 						},
-						["seasonBestLevel"] = 2,
 						["seasonBestTimeInSeconds"] = 746,
 					},
 					[206] = {
@@ -667,9 +773,9 @@ DataStore_StatsDB = {
 						},
 					},
 					[210] = {
+						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 2,
 						["seasonBestTimeInSeconds"] = 768,
 					},
 					[245] = {
@@ -708,7 +814,11 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[464] = {
+					[404] = {
+						["seasonBestLevel"] = 20,
+						["seasonBestTimeInSeconds"] = 1784,
+						["seasonBestOvertimeTimeInSeconds"] = 2227,
+						["seasonBestOvertimeLevel"] = 17,
 						["weeklyRunHistory"] = {
 						},
 					},
@@ -739,22 +849,16 @@ DataStore_StatsDB = {
 						["seasonBestTimeInSeconds"] = 909,
 					},
 					[400] = {
+						["seasonBestLevel"] = 7,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 7,
 						["seasonBestTimeInSeconds"] = 2005,
 					},
-					[463] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 18,
-							}, -- [1]
-						},
-					},
-					[168] = {
+					[401] = {
+						["seasonBestLevel"] = 3,
 						["weeklyRunHistory"] = {
 						},
+						["seasonBestTimeInSeconds"] = 932,
 					},
 					[251] = {
 						["seasonBestLevel"] = 20,
@@ -764,85 +868,11 @@ DataStore_StatsDB = {
 						["weeklyRunHistory"] = {
 						},
 					},
-					[401] = {
-						["weeklyRunHistory"] = {
-						},
-						["seasonBestLevel"] = 3,
-						["seasonBestTimeInSeconds"] = 932,
-					},
-					[404] = {
-						["seasonBestLevel"] = 20,
-						["seasonBestTimeInSeconds"] = 1784,
-						["seasonBestOvertimeTimeInSeconds"] = 2227,
-						["seasonBestOvertimeLevel"] = 17,
-						["weeklyRunHistory"] = {
-						},
-					},
-				},
-				["SeasonBestMapsOvertime"] = {
-					[399] = {
-						["texture"] = 4746639,
-						["level"] = 16,
-						["name"] = "Ruby Life Pools",
-						["timeInSeconds"] = 2122,
-					},
-				},
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["level"] = 19,
-						["mapID"] = 198,
-					}, -- [1]
-					{
-						["level"] = 18,
-						["mapID"] = 199,
-					}, -- [2]
-					{
-						["level"] = 18,
-						["mapID"] = 199,
-					}, -- [3]
-					{
-						["level"] = 18,
-						["mapID"] = 456,
-					}, -- [4]
-					{
-						["level"] = 18,
-						["mapID"] = 463,
-					}, -- [5]
-					{
-						["level"] = 18,
-						["mapID"] = 244,
-					}, -- [6]
-				},
-				["dungeonScore"] = 68,
-			},
-			["Default.Argent Dawn.Benthos"] = {
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|18.856935501099",
-					["HealthMax"] = 41720,
-					["Melee"] = "666-685|3.342000246048|967|0|18.856935501099|0",
-					["MaxPower"] = "6|100",
-					["Spell"] = "240|248|0|18.856935501099|255|0",
-					["PVP"] = "0|0",
-					["Base"] = "967|375|2086|240|0",
-					["Defense"] = "0|0|3.3372528553009|9.6281480789185|0|0",
-				},
-				["lastUpdate"] = 1708652339,
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["level"] = 19,
-						["mapID"] = 198,
-					}, -- [1]
-					{
-						["level"] = 18,
-						["mapID"] = 199,
-					}, -- [2]
-				},
-				["Dungeons"] = {
 					[168] = {
+						["weeklyRunHistory"] = {
+						},
 					},
-					[244] = {
-					},
-					[199] = {
+					[463] = {
 						["weeklyRunHistory"] = {
 							{
 								["completed"] = true,
@@ -850,49 +880,72 @@ DataStore_StatsDB = {
 							}, -- [1]
 						},
 					},
-					[456] = {
-					},
-					[198] = {
+					[464] = {
 						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
 						},
 					},
-					[463] = {
-					},
-					[464] = {
-					},
-					[248] = {
+				},
+				["SeasonBestMapsOvertime"] = {
+					[399] = {
+						["timeInSeconds"] = 2122,
+						["level"] = 16,
+						["name"] = "Ruby Life Pools",
+						["texture"] = 4746639,
 					},
 				},
-			},
-			["Default.Korgath.Naturerivers"] = {
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["mapID"] = 463,
-						["level"] = 20,
+						["mapID"] = 198,
+						["level"] = 19,
 					}, -- [1]
 					{
-						["mapID"] = 244,
-						["level"] = 19,
+						["mapID"] = 199,
+						["level"] = 18,
 					}, -- [2]
 					{
-						["mapID"] = 168,
-						["level"] = 13,
+						["mapID"] = 199,
+						["level"] = 18,
 					}, -- [3]
+					{
+						["mapID"] = 456,
+						["level"] = 18,
+					}, -- [4]
+					{
+						["mapID"] = 463,
+						["level"] = 18,
+					}, -- [5]
+					{
+						["mapID"] = 244,
+						["level"] = 18,
+					}, -- [6]
 				},
-				["lastUpdate"] = 1704738216,
+				["dungeonScore"] = 68,
+			},
+			["Default.Korgath.Naturerivers"] = {
 				["Stats"] = {
 					["Ranged"] = "258-259|0|0|0|26.758068084717",
 					["HealthMax"] = 8025,
 					["Melee"] = "280-290|3.0370001792908|145|0|26.758068084717|0",
 					["MaxPower"] = "0|4470",
-					["Spell"] = "415|434|0|26.758068084717|172|178",
+					["Defense"] = "0|0|8.2947654724121|0|0|0",
 					["PVP"] = "453|0",
 					["Base"] = "59|145|535|415|0",
-					["Defense"] = "0|0|8.2947654724121|0|0|0",
+					["Spell"] = "415|434|0|26.758068084717|172|178",
+				},
+				["lastUpdate"] = 1704738216,
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["level"] = 20,
+						["mapID"] = 463,
+					}, -- [1]
+					{
+						["level"] = 19,
+						["mapID"] = 244,
+					}, -- [2]
+					{
+						["level"] = 13,
+						["mapID"] = 168,
+					}, -- [3]
 				},
 				["Dungeons"] = {
 					[168] = {
@@ -907,15 +960,13 @@ DataStore_StatsDB = {
 							}, -- [2]
 						},
 					},
-					[244] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 19,
-							}, -- [1]
-						},
+					[464] = {
 					},
-					[199] = {
+					[248] = {
+					},
+					[456] = {
+					},
+					[198] = {
 					},
 					[463] = {
 						["weeklyRunHistory"] = {
@@ -925,57 +976,93 @@ DataStore_StatsDB = {
 							}, -- [1]
 						},
 					},
-					[198] = {
+					[199] = {
 					},
-					[456] = {
-					},
-					[464] = {
-					},
-					[248] = {
+					[244] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 19,
+							}, -- [1]
+						},
 					},
 				},
 			},
-			["Default.Argent Dawn.Stream"] = {
-				["Stats"] = {
-					["Ranged"] = "1669-1871|2.8540000915527|2765|0|24.727933883667",
-					["HealthMax"] = 137484,
-					["Melee"] = "1438-1439|2.8540000915527|2765|0|24.727933883667|0",
-					["MaxPower"] = "2|100",
-					["Spell"] = "1203|1251|0|24.727933883667|441|0",
-					["PVP"] = "0|0",
-					["Base"] = "891|2765|6365|1203|0",
-					["Defense"] = "0|0|8.8701305389404|0|0|0",
+			["Default.Argent Dawn.Benthos"] = {
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["mapID"] = 198,
+						["level"] = 19,
+					}, -- [1]
+					{
+						["mapID"] = 199,
+						["level"] = 18,
+					}, -- [2]
 				},
-				["lastUpdate"] = 1709506255,
+				["lastUpdate"] = 1709675492,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|18.856935501099",
+					["HealthMax"] = 41720,
+					["Melee"] = "666-685|3.342000246048|967|0|18.856935501099|0",
+					["MaxPower"] = "6|100",
+					["Defense"] = "0|0|3.3372528553009|9.6281480789185|0|0",
+					["PVP"] = "0|0",
+					["Base"] = "967|375|2086|240|0",
+					["Spell"] = "240|248|0|18.856935501099|255|0",
+				},
 				["Dungeons"] = {
 					[168] = {
 					},
-					[248] = {
-					},
 					[464] = {
+					},
+					[248] = {
 					},
 					[463] = {
 					},
 					[198] = {
-					},
-					[244] = {
-					},
-					[199] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 19,
+							}, -- [1]
+						},
 					},
 					[456] = {
+					},
+					[199] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 18,
+							}, -- [1]
+						},
+					},
+					[244] = {
 					},
 				},
 			},
 			["Default.Argent Dawn.Alluvium"] = {
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["mapID"] = 248,
 						["level"] = 17,
+						["mapID"] = 248,
 					}, -- [1]
 					{
-						["mapID"] = 199,
 						["level"] = 17,
+						["mapID"] = 199,
 					}, -- [2]
+				},
+				["dungeonScore"] = 1947,
+				["lastUpdate"] = 1709674928,
+				["Stats"] = {
+					["Ranged"] = "1-2|0|0|0|22.572696685791",
+					["HealthMax"] = 751560,
+					["Melee"] = "2130-2458|2.9430000782013|1422|0|22.572696685791|0",
+					["MaxPower"] = "0|250000",
+					["Spell"] = "13530|14935|0|22.572696685791|3794|12750",
+					["PVP"] = "0|0",
+					["Base"] = "918|1422|37578|13530|0",
+					["Defense"] = "0|0|3|0|0|0",
 				},
 				["Dungeons"] = {
 					[2] = {
@@ -1034,7 +1121,11 @@ DataStore_StatsDB = {
 					},
 					[406] = {
 					},
-					[404] = {
+					[464] = {
+						["seasonBestLevel"] = 18,
+						["weeklyRunHistory"] = {
+						},
+						["seasonBestTimeInSeconds"] = 1589,
 					},
 					[399] = {
 					},
@@ -1048,70 +1139,46 @@ DataStore_StatsDB = {
 					},
 					[400] = {
 					},
+					[251] = {
+					},
+					[168] = {
+						["seasonBestLevel"] = 4,
+						["weeklyRunHistory"] = {
+						},
+						["seasonBestTimeInSeconds"] = 844,
+					},
+					[401] = {
+					},
 					[463] = {
 						["weeklyRunHistory"] = {
 						},
 						["seasonBestLevel"] = 18,
 						["seasonBestTimeInSeconds"] = 1103,
 					},
-					[401] = {
-					},
-					[168] = {
-						["weeklyRunHistory"] = {
-						},
-						["seasonBestLevel"] = 4,
-						["seasonBestTimeInSeconds"] = 844,
-					},
-					[251] = {
-					},
-					[464] = {
-						["weeklyRunHistory"] = {
-						},
-						["seasonBestLevel"] = 18,
-						["seasonBestTimeInSeconds"] = 1589,
+					[404] = {
 					},
 				},
-				["lastUpdate"] = 1708713088,
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|21.133766174316",
-					["HealthMax"] = 751560,
-					["Melee"] = "2052-2368|2.9430000782013|1422|0|21.133766174316|0",
-					["MaxPower"] = "0|250000",
-					["Defense"] = "0|0|3|0|0|0",
-					["PVP"] = "0|0",
-					["Base"] = "918|1422|37578|13530|0",
-					["Spell"] = "13530|15105|0|21.133766174316|3794|12750",
-				},
-				["dungeonScore"] = 1947,
 			},
 			["Default.Argent Dawn.Cataracts"] = {
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["level"] = 19,
-						["mapID"] = 199,
-					}, -- [1]
-				},
-				["lastUpdate"] = 1709503515,
 				["Stats"] = {
 					["Ranged"] = "1-2|0|0|0|18.437280654907",
 					["HealthMax"] = 80409,
-					["Melee"] = "1289-1442|1.9800001382828|1693|0|18.437280654907|0",
+					["Melee"] = "1152-1289|2.3770000934601|1693|0|18.437280654907|0",
 					["MaxPower"] = "17|120",
-					["Defense"] = "0|0|8.9662389755249|3|0|0",
+					["Spell"] = "594|665|0|18.437280654907|468|0",
 					["PVP"] = "0|0",
 					["Base"] = "719|1693|3829|594|0",
-					["Spell"] = "594|744|0|18.437280654907|468|0",
+					["Defense"] = "0|0|8.9662389755249|3|0|0",
+				},
+				["lastUpdate"] = 1709673716,
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["mapID"] = 199,
+						["level"] = 19,
+					}, -- [1]
 				},
 				["Dungeons"] = {
 					[168] = {
-					},
-					[248] = {
-					},
-					[464] = {
-					},
-					[463] = {
-					},
-					[198] = {
 					},
 					[244] = {
 					},
@@ -1125,62 +1192,70 @@ DataStore_StatsDB = {
 					},
 					[456] = {
 					},
+					[198] = {
+					},
+					[463] = {
+					},
+					[464] = {
+					},
+					[248] = {
+					},
 				},
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["level"] = 23,
 						["mapID"] = 199,
+						["level"] = 23,
 					}, -- [1]
 					{
-						["level"] = 23,
 						["mapID"] = 199,
+						["level"] = 23,
 					}, -- [2]
 					{
-						["level"] = 22,
 						["mapID"] = 464,
+						["level"] = 22,
 					}, -- [3]
 					{
-						["level"] = 22,
 						["mapID"] = 199,
+						["level"] = 22,
 					}, -- [4]
 					{
-						["level"] = 20,
 						["mapID"] = 456,
+						["level"] = 20,
 					}, -- [5]
 				},
-				["lastUpdate"] = 1708716749,
+				["lastUpdate"] = 1709672755,
 				["SeasonBestMaps"] = {
 					[210] = {
-						["timeInSeconds"] = 793,
+						["texture"] = 1498160,
 						["level"] = 2,
 						["name"] = "Court of Stars",
-						["texture"] = 1498160,
+						["timeInSeconds"] = 793,
 					},
 					[165] = {
-						["timeInSeconds"] = 1195,
+						["texture"] = 1042063,
 						["level"] = 4,
 						["name"] = "Shadowmoon Burial Grounds",
-						["texture"] = 1042063,
+						["timeInSeconds"] = 1195,
 					},
 					[399] = {
-						["timeInSeconds"] = 528,
+						["texture"] = 4746639,
 						["level"] = 2,
 						["name"] = "Ruby Life Pools",
-						["texture"] = 4746639,
-					},
-					[402] = {
-						["timeInSeconds"] = 1788,
-						["level"] = 7,
-						["name"] = "Algeth'ar Academy",
-						["texture"] = 4746641,
+						["timeInSeconds"] = 528,
 					},
 					[2] = {
-						["timeInSeconds"] = 533,
+						["texture"] = 632363,
 						["level"] = 2,
 						["name"] = "Temple of the Jade Serpent",
-						["texture"] = 632363,
+						["timeInSeconds"] = 533,
+					},
+					[402] = {
+						["texture"] = 4746641,
+						["level"] = 7,
+						["name"] = "Algeth'ar Academy",
+						["timeInSeconds"] = 1788,
 					},
 				},
 				["Dungeons"] = {
@@ -1244,18 +1319,12 @@ DataStore_StatsDB = {
 					},
 					[406] = {
 					},
-					[464] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 22,
-							}, -- [1]
-						},
+					[401] = {
 					},
 					[399] = {
+						["seasonBestLevel"] = 2,
 						["weeklyRunHistory"] = {
 						},
-						["seasonBestLevel"] = 2,
 						["seasonBestTimeInSeconds"] = 528,
 					},
 					[438] = {
@@ -1270,9 +1339,11 @@ DataStore_StatsDB = {
 					},
 					[400] = {
 					},
-					[463] = {
+					[251] = {
 						["weeklyRunHistory"] = {
 						},
+					},
+					[404] = {
 					},
 					[199] = {
 						["weeklyRunHistory"] = {
@@ -1290,21 +1361,25 @@ DataStore_StatsDB = {
 							}, -- [3]
 						},
 					},
-					[404] = {
-					},
-					[401] = {
-					},
-					[251] = {
+					[463] = {
 						["weeklyRunHistory"] = {
+						},
+					},
+					[464] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = true,
+								["level"] = 22,
+							}, -- [1]
 						},
 					},
 				},
 				["SeasonBestMapsOvertime"] = {
 					[200] = {
-						["timeInSeconds"] = 2532,
+						["texture"] = 1498162,
 						["level"] = 8,
 						["name"] = "Halls of Valor",
-						["texture"] = 1498162,
+						["timeInSeconds"] = 2532,
 					},
 				},
 				["Stats"] = {
@@ -1312,38 +1387,38 @@ DataStore_StatsDB = {
 					["HealthMax"] = 505920,
 					["Melee"] = "5105-5360|2.3300001621246|8176|0|27.583806991577|0",
 					["MaxPower"] = "3|120",
-					["Defense"] = "0|0|14.394042015076|3|0|0",
+					["Spell"] = "9740|11145|0|27.583806991577|1972|12500",
 					["PVP"] = "109|0",
 					["Base"] = "901|8176|25296|2088|0",
-					["Spell"] = "9740|11145|0|27.583806991577|1972|12500",
+					["Defense"] = "0|0|14.394042015076|3|0|0",
 				},
 				["dungeonScore"] = 465,
 			},
 			["Default.Argent Dawn.Estuary"] = {
+				["WeeklyRunHistoryTop10"] = {
+					{
+						["mapID"] = 463,
+						["level"] = 20,
+					}, -- [1]
+					{
+						["mapID"] = 244,
+						["level"] = 19,
+					}, -- [2]
+					{
+						["mapID"] = 168,
+						["level"] = 13,
+					}, -- [3]
+				},
+				["lastUpdate"] = 1709678489,
 				["Stats"] = {
 					["Ranged"] = "3971-3972|0|7851|0|28.650478363037",
 					["HealthMax"] = 462800,
 					["Melee"] = "5010-5920|2.2220001220703|7851|0|28.650478363037|0",
 					["MaxPower"] = "3|200",
-					["Defense"] = "0|0|13.993713378906|3|0|0",
+					["Spell"] = "1418|1655|0|28.650478363037|2892|0",
 					["PVP"] = "0|0",
 					["Base"] = "1736|7851|23140|1418|0",
-					["Spell"] = "1418|1655|0|28.650478363037|2892|0",
-				},
-				["lastUpdate"] = 1708713032,
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["level"] = 20,
-						["mapID"] = 463,
-					}, -- [1]
-					{
-						["level"] = 19,
-						["mapID"] = 244,
-					}, -- [2]
-					{
-						["level"] = 13,
-						["mapID"] = 168,
-					}, -- [3]
+					["Defense"] = "0|0|13.993713378906|3|0|0",
 				},
 				["Dungeons"] = {
 					[198] = {
@@ -1362,11 +1437,19 @@ DataStore_StatsDB = {
 					},
 					[245] = {
 					},
-					[199] = {
-						["weeklyRunHistory"] = {
-						},
+					[251] = {
 					},
-					[403] = {
+					[168] = {
+						["weeklyRunHistory"] = {
+							{
+								["completed"] = false,
+								["level"] = 20,
+							}, -- [1]
+							{
+								["completed"] = true,
+								["level"] = 13,
+							}, -- [2]
+						},
 					},
 					[463] = {
 						["weeklyRunHistory"] = {
@@ -1390,53 +1473,37 @@ DataStore_StatsDB = {
 					},
 					[438] = {
 					},
-					[168] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = false,
-								["level"] = 20,
-							}, -- [1]
-							{
-								["completed"] = true,
-								["level"] = 13,
-							}, -- [2]
-						},
+					[403] = {
 					},
-					[251] = {
+					[199] = {
+						["weeklyRunHistory"] = {
+						},
 					},
 				},
 			},
 			["Default.Argent Dawn.Mangrove"] = {
 				["WeeklyRunHistoryTop10"] = {
 					{
-						["level"] = 22,
 						["mapID"] = 199,
+						["level"] = 22,
 					}, -- [1]
 				},
-				["lastUpdate"] = 1708652450,
+				["lastUpdate"] = 1709673800,
 				["WeeklyActivities"] = {
 					5, -- [1]
 				},
 				["Stats"] = {
-					["Ranged"] = "1514-1515|0|0|0|14.054505348206",
+					["Ranged"] = "401-402|0|0|0|14.054505348206",
 					["HealthMax"] = 80260,
-					["Melee"] = "1623-1663|3.4630000591278|1128|0|14.054505348206|0",
-					["MaxPower"] = "0|111800",
-					["Defense"] = "0|0|6.2370352745056|0|0|0",
+					["Melee"] = "600-622|0.96200007200241|1128|0|14.054505348206|0",
+					["MaxPower"] = "3|100",
+					["Spell"] = "2241|2425|0|14.054505348206|259|4472",
 					["PVP"] = "0|0",
 					["Base"] = "487|1128|4013|2241|0",
-					["Spell"] = "2241|2425|0|14.054505348206|259|4472",
+					["Defense"] = "0|0|6.2370352745056|0|0|0",
 				},
 				["Dungeons"] = {
 					[168] = {
-					},
-					[248] = {
-					},
-					[464] = {
-					},
-					[463] = {
-					},
-					[198] = {
 					},
 					[244] = {
 					},
@@ -1450,88 +1517,28 @@ DataStore_StatsDB = {
 					},
 					[456] = {
 					},
-				},
-			},
-			["Default.Argent Dawn.Confluence"] = {
-				["Stats"] = {
-					["Ranged"] = "1-2|0|0|0|26.200464248657",
-					["HealthMax"] = 593360,
-					["Melee"] = "6870-7765|2.4190001487732|8389|0|26.200464248657|0",
-					["MaxPower"] = "0|250000",
-					["Defense"] = "0|0|3|14.656316757202|10|0",
-					["PVP"] = "0|0",
-					["Base"] = "8389|730|29668|2172|0",
-					["Spell"] = "10654|11708|0|26.200464248657|3272|12800",
-				},
-				["lastUpdate"] = 1708713262,
-				["WeeklyRunHistoryTop10"] = {
-					{
-						["level"] = 17,
-						["mapID"] = 248,
-					}, -- [1]
-					{
-						["level"] = 17,
-						["mapID"] = 199,
-					}, -- [2]
-				},
-				["Dungeons"] = {
-					[168] = {
-						["weeklyRunHistory"] = {
-						},
-					},
-					[456] = {
-						["weeklyRunHistory"] = {
-						},
-					},
-					[244] = {
-						["weeklyRunHistory"] = {
-						},
-					},
 					[198] = {
-						["weeklyRunHistory"] = {
-						},
-					},
-					[200] = {
-					},
-					[400] = {
-					},
-					[401] = {
-					},
-					[402] = {
 					},
 					[463] = {
-						["weeklyRunHistory"] = {
-						},
-					},
-					[210] = {
-					},
-					[248] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 17,
-							}, -- [1]
-						},
 					},
 					[464] = {
-						["weeklyRunHistory"] = {
-						},
 					},
-					[199] = {
-						["weeklyRunHistory"] = {
-							{
-								["completed"] = true,
-								["level"] = 17,
-							}, -- [1]
-						},
-					},
-					[2] = {
-					},
-					[165] = {
-					},
-					[399] = {
+					[248] = {
 					},
 				},
+			},
+			["Default.Argent Dawn.Karst"] = {
+				["Stats"] = {
+					["Ranged"] = "0-1|0|0|0|17.097759246826",
+					["HealthMax"] = 1316,
+					["Melee"] = "35-43|3.1130001544952|96|0|17.097759246826|0",
+					["MaxPower"] = "1|100",
+					["Spell"] = "40|41|0|17.097759246826|51|0",
+					["PVP"] = "0|0",
+					["Base"] = "96|38|188|40|0",
+					["Defense"] = "0|0|3|8.5382175445557|10|0",
+				},
+				["lastUpdate"] = 1709676167,
 			},
 		},
 	},

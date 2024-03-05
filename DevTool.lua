@@ -9,16 +9,17 @@ DevToolDatabase = {
 		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -61,6 +62,19 @@ DevToolDatabase = {
 			},
 			["collResizeWidth"] = 249.9993896484375,
 		},
+		["Flumina - Argent Dawn"] = {
+			["collResizeWidth"] = 249.999755859375,
+			["history"] = {
+				"WeakAuras", -- [1]
+				"WeakAurasPrivate", -- [2]
+				"DevTool", -- [3]
+				"find LFR", -- [4]
+				"find SLASH", -- [5]
+				"find Data DevTool", -- [6]
+				"startswith DevTool", -- [7]
+				"DevTool.settings.history", -- [8]
+			},
+		},
 		["Headcut - Argent Dawn"] = {
 		},
 		["Confluence - Argent Dawn"] = {
@@ -78,23 +92,6 @@ DevToolDatabase = {
 		},
 		["Mothugeon - Argent Dawn"] = {
 		},
-		["Flumina - Argent Dawn"] = {
-			["collResizeWidth"] = 249.999755859375,
-			["history"] = {
-				"WeakAuras", -- [1]
-				"WeakAurasPrivate", -- [2]
-				"DevTool", -- [3]
-				"find LFR", -- [4]
-				"find SLASH", -- [5]
-				"find Data DevTool", -- [6]
-				"startswith DevTool", -- [7]
-				"DevTool.settings.history", -- [8]
-			},
-		},
-		["Riparium - Argent Dawn"] = {
-			["collResizeWidth"] = 250.002685546875,
-			["fontSize"] = 16,
-		},
 		["Benthos - Argent Dawn"] = {
 			["fontSize"] = 16,
 			["history"] = {
@@ -107,19 +104,25 @@ DevToolDatabase = {
 				"startswith DevTool", -- [7]
 			},
 		},
+		["Wildeadoriah - The Scryers"] = {
+		},
+		["Zimuures - Argent Dawn"] = {
+		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Karst - Argent Dawn"] = {
-			["fontSize"] = 16,
 			["history"] = {
 				"find SLASH", -- [1]
 				"DevTool", -- [2]
 				"find LFR", -- [3]
 			},
+			["fontSize"] = 16,
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Zimuures - Argent Dawn"] = {
+		["Riparium - Argent Dawn"] = {
+			["fontSize"] = 16,
+			["collResizeWidth"] = 250.002685546875,
 		},
 		["Estuary - Argent Dawn"] = {
 		},

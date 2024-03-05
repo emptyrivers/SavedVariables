@@ -37,59 +37,60 @@ TomTomDB = {
 		["Stream - Argent Dawn"] = "Default",
 		["Naturerivers - Korgath"] = "Default",
 		["Ailisuul - Arthas"] = "Default",
+		["Karst - Argent Dawn"] = "Default",
 		["Mindrivers - Korgath"] = "Default",
 		["Bittydots - Korgath"] = "Default",
 		["Ochrian - Argent Dawn"] = "Default",
 		["Emptyrivers - Korgath"] = "Default",
-		["Mangrove - Argent Dawn"] = "Default",
+		["Cataracts - Argent Dawn"] = "Default",
 		["Blindrivers - Sargeras"] = "Default",
 		["Tinyrivers - Kel'Thuzad"] = "Default",
-		["Mothugeon - Argent Dawn"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
 		["Testrivers - Bleeding Hollow"] = "Default",
 		["Sassyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Serenerivers - Kel'Thuzad"] = "Default",
-		["Flumina - Argent Dawn"] = "Default",
+		["Brightrivers - Korgath"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
 		["Benthos - Argent Dawn"] = "Default",
-		["Brightrivers - Korgath"] = "Default",
+		["Zimuures - Argent Dawn"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
 		["Littlerivers - Kel'Thuzad"] = "Default",
 		["Alandere - Argent Dawn"] = "Default",
 		["Spicydremer - Korgath"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Garumn - Arthas"] = "Default",
+		["Confluence - Argent Dawn"] = "Default",
+		["Wildeadoriah - The Scryers"] = "Default",
 		["Hiddenrivers - Korgath"] = "Default",
 		["Edgyrivers - Arthas"] = "Default",
 		["Notariver - Arthas"] = "Default",
-		["Alluvium - Argent Dawn"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Lotic - Argent Dawn"] = "Default",
 		["Evilrivers - Korgath"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
-		["Blindrivers - Arthas"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
+		["Treesurgeon - Korgath"] = "Default",
 		["Savattellir - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Edgyrivers - Kel'Thuzad"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
 		["Luckyrivers - Korgath"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
-		["Mecharivers - Sargeras"] = "Default",
 		["Ragingrivers - Arthas"] = "Default",
-		["Edgyrivers - Kel'Thuzad"] = "Default",
+		["Mecharivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Treesurgeon - Korgath"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
-		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Blindrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
+		["Evilrivers - Kel'Thuzad"] = "Default",
+		["Alluvium - Argent Dawn"] = "Default",
 		["Riparium - Argent Dawn"] = "Default",
-		["Confluence - Argent Dawn"] = "Default",
+		["Garumn - Arthas"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Zimuures - Argent Dawn"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Cataracts - Argent Dawn"] = "Default",
-		["Karst - Argent Dawn"] = "Default",
+		["Mothugeon - Argent Dawn"] = "Default",
+		["Mangrove - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -110,8 +111,8 @@ TomTomDB = {
 				},
 			},
 			["mapcoords"] = {
-				["playerenable"] = false,
 				["cursorenable"] = false,
+				["playerenable"] = false,
 			},
 			["block"] = {
 				["enable"] = false,
@@ -140,21 +141,22 @@ TomTomWaypointsM = {
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
-		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
+		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -423,17 +425,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["534:324000000:704000000:|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r"] = {
+				["534:193000000:410000000:|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r"] = {
 					534, -- [1]
-					0.324, -- [2]
-					0.704, -- [3]
+					0.193, -- [2]
+					0.41, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r",
+					["desc"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r",
+					["title"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
 					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
@@ -538,17 +540,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["534:736000000:432000000:Jungle Treasure Master"] = {
+				["534:268000000:441000000:|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r"] = {
 					534, -- [1]
-					0.736, -- [2]
-					0.432, -- [3]
+					0.268, -- [2]
+					0.441, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "Jungle Treasure Master",
+					["desc"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
+					["title"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
 					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
@@ -561,17 +563,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["534:160000000:594000000:|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r"] = {
+				["534:585000000:250000000:|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r"] = {
 					534, -- [1]
-					0.16, -- [2]
-					0.594, -- [3]
+					0.585, -- [2]
+					0.25, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
+					["desc"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
+					["title"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
 					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
@@ -676,17 +678,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["534:585000000:250000000:|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r"] = {
+				["534:160000000:594000000:|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r"] = {
 					534, -- [1]
-					0.585, -- [2]
-					0.25, -- [3]
+					0.16, -- [2]
+					0.594, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
+					["desc"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
+					["title"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
 					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
@@ -699,17 +701,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["534:268000000:441000000:|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r"] = {
+				["534:736000000:432000000:Jungle Treasure Master"] = {
 					534, -- [1]
-					0.268, -- [2]
-					0.441, -- [3]
+					0.736, -- [2]
+					0.432, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
+					["desc"] = "Jungle Treasure Master",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
+					["title"] = "Jungle Treasure Master",
 					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
@@ -745,17 +747,17 @@ TomTomWaypointsM = {
 					["minimap"] = true,
 					["world"] = true,
 				},
-				["534:193000000:410000000:|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r"] = {
+				["534:324000000:704000000:|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r"] = {
 					534, -- [1]
-					0.193, -- [2]
-					0.41, -- [3]
+					0.324, -- [2]
+					0.704, -- [3]
 					["arrivaldistance"] = 15,
 					["crazy"] = true,
 					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
+					["desc"] = "|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r",
 					["silent"] = true,
 					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
+					["title"] = "|cff0070dd|Hitem:127670::::::::59:103:::::::::|hAccursed Tome of the Sargerei|h|r",
 					["from"] = "?",
 					["callbacks"] = {
 						["distance"] = {
@@ -794,35 +796,37 @@ TomTomWaypointsM = {
 		},
 		["Benthos - Argent Dawn"] = {
 		},
-		["Mahntaiaga - Arthas"] = {
+		["Stream - Argent Dawn"] = {
 		},
 		["Ragingrivers - Arthas"] = {
 		},
-		["Testrivers - Arthas"] = {
+		["Lotic - Argent Dawn"] = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Emptyrivers - Bleeding Hollow"] = {
-		},
 		["Ochrian - Argent Dawn"] = {
 		},
-		["Evilrivers - Kel'Thuzad"] = {
+		["Emptyrivers - Bleeding Hollow"] = {
+		},
+		["Emptyrivers - Sargeras"] = {
+		},
+		["Wildeadoriah - The Scryers"] = {
 		},
 		["Mothugeon - Argent Dawn"] = {
 		},
-		["Riparium - Argent Dawn"] = {
-		},
 		["Daedrasminia - Arthas"] = {
 		},
-		["Emptyrivers - Sargeras"] = {
+		["Riparium - Argent Dawn"] = {
+		},
+		["Evilrivers - Kel'Thuzad"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Karst - Argent Dawn"] = {
 		},
-		["Lotic - Argent Dawn"] = {
+		["Testrivers - Arthas"] = {
 		},
-		["Stream - Argent Dawn"] = {
+		["Mahntaiaga - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

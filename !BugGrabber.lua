@@ -1,6 +1,6 @@
 
 BugGrabberDB = {
-	["session"] = 5346,
+	["session"] = 5372,
 	["lastSanitation"] = 3,
 	["errors"] = {
 		{
@@ -370,21 +370,13 @@ BugGrabberDB = {
 			["counter"] = 1,
 		}, -- [46]
 		{
-			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Immersion' tried to call the protected function 'ImmersionFrame:SetPropagateKeyboardInput()'.",
-			["time"] = "2024/02/19 16:35:13",
-			["locals"] = "_ = Frame {\n RegisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n 0 = <userdata>\n UnregisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n SetScript = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n}\nevent = \"ADDON_ACTION_BLOCKED\"\nevents = <table> {\n ADDON_ACTION_BLOCKED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:557\n ADDON_ACTION_FORBIDDEN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:557\n PLAYER_LOGIN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:551\n LUA_WARNING = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:566\n ADDON_LOADED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:511\n}\n",
-			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetPropagateKeyboardInput'\n[string \"@Interface/AddOns/Immersion/Logic/Frame.lua\"]:431: in function <Interface/AddOns/Immersion/Logic/Frame.lua:406>",
-			["session"] = 5340,
-			["counter"] = 6,
-		}, -- [47]
-		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'MultiBar5:SetFrameStrata()'.",
 			["time"] = "2024/02/20 00:20:36",
 			["locals"] = "_ = Frame {\n RegisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n 0 = <userdata>\n UnregisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n SetScript = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n}\nevent = \"ADDON_ACTION_BLOCKED\"\nevents = <table> {\n ADDON_ACTION_BLOCKED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:557\n ADDON_ACTION_FORBIDDEN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:557\n PLAYER_LOGIN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:551\n LUA_WARNING = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:566\n ADDON_LOADED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:511\n}\n",
 			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetFrameStrata'\n[string \"@Interface/FrameXML/ActionBar.lua\"]:184: in function `UpdateFrameStrata'\n[string \"@Interface/FrameXML/ActionBar.lua\"]:170: in function `SetShowGrid'\n[string \"@Interface/FrameXML/MultiActionBars.lua\"]:94: in function `MultiActionBar_HideAllGrids'\n[string \"@Interface/AddOns/Blizzard_ClassTalentUI/Blizzard_ClassTalentFrameTemplate.lua\"]:54: in function <..._ClassTalentUI/Blizzard_ClassTalentFrameTemplate.lua:42>\n[string \"=[C]\"]: in function `Hide'\n[string \"@Interface/FrameXML/UIParent.lua\"]:2952: in function `SetUIPanel'\n[string \"@Interface/FrameXML/UIParent.lua\"]:2983: in function `MoveUIPanel'\n[string \"@Interface/FrameXML/UIParent.lua\"]:3014: in function `HideUIPanel'\n[string \"@Interface/FrameXML/UIParent.lua\"]:2680: in function <Interface/FrameXML/UIParent.lua:2672>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface/FrameXML/UIParent.lua\"]:3298: in function `HideUIPanel'\n[string \"@Interface/AddOns/Blizzard_ClassTalentUI/Blizzard_ClassTalentFrameTemplate.lua\"]:243: in function `CheckConfirmClose'\n[string \"@Interface/FrameXML/UIParent.lua\"]:4146: in function <Interface/FrameXML/UIParent.lua:4090>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `ToggleGameMenu'\n[string \"TOGGLEGAMEMENU\"]:1: in function <[string \"TOGGLEGAMEMENU\"]:1>",
 			["session"] = 5341,
 			["counter"] = 3,
-		}, -- [48]
+		}, -- [47]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'MacroToolkit' tried to call the protected function 'Frame:SetPassThroughButtons()'.",
 			["time"] = "2024/03/02 22:24:21",
@@ -392,7 +384,7 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetPassThroughButtons'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:189: in function `AcquirePin'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/MapLinkDataProvider.lua\"]:13: in function `RefreshAllData'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/MapCanvas_DataProviderBase.lua\"]:76: in function `OnMapChanged'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:587: in function <...ace/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua:586>\n[string \"=[C]\"]: in function `secureexecuterange'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:590: in function `OnMapChanged'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:236: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:235>\n[string \"=[C]\"]: in function `OnMapChanged'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:60: in function `SetMapID'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:247: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:245>\n...\n[string \"@Interface/FrameXML/UIParent.lua\"]:2676: in function <Interface/FrameXML/UIParent.lua:2672>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface/FrameXML/UIParent.lua\"]:3278: in function <Interface/FrameXML/UIParent.lua:3257>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface/FrameXML/QuestLogOwnerMixin.lua\"]:103: in function `SetDisplayState'\n[string \"@Interface/FrameXML/QuestLogOwnerMixin.lua\"]:41: in function `HandleUserActionToggleSelf'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:444: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:443>\n[string \"=[C]\"]: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>",
 			["session"] = 5341,
 			["counter"] = 1,
-		}, -- [49]
+		}, -- [48]
 		{
 			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'AngrierWorldQuests' tried to call the protected function 'Frame:SetPassThroughButtons()'.",
 			["time"] = "2024/03/03 11:06:56",
@@ -400,6 +392,54 @@ BugGrabberDB = {
 			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetPassThroughButtons'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:189: in function `AcquirePin'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/BonusObjectiveDataProvider.lua\"]:93: in function <...haredMapDataProviders/BonusObjectiveDataProvider.lua:80>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/FrameXML/ObjectAPI/AsyncCallbackSystem.lua\"]:76: in function `FireCallbacks'\n[string \"@Interface/FrameXML/ObjectAPI/AsyncCallbackSystem.lua\"]:35: in function <Interface/FrameXML/ObjectAPI/AsyncCallbackSystem.lua:31>\n[string \"=[C]\"]: in function `accessor'\n[string \"@Interface/FrameXML/ObjectAPI/AsyncCallbackSystem.lua\"]:52: in function `AddCallback'\n[string \"@Interface/FrameXML/ObjectAPI/AsyncCallbackSystem.lua\"]:60: in function `AddCancelableCallback'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/BonusObjectiveDataProvider.lua\"]:80: in function `RefreshAllData'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/BonusObjectiveDataProvider.lua\"]:62: in function `OnEvent'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/MapCanvas_DataProviderBase.lua\"]:99: in function `SignalEvent'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:106: in function <...ace/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua:105>\n[string \"=[C]\"]: in function `secureexecuterange'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:109: in function `OnEvent'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:111: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:110>",
 			["session"] = 5344,
 			["counter"] = 1,
+		}, -- [49]
+		{
+			["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'Immersion' tried to call the protected function 'ImmersionFrame:SetPropagateKeyboardInput()'.",
+			["time"] = "2024/02/19 16:35:13",
+			["locals"] = "_ = Frame {\n RegisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n 0 = <userdata>\n UnregisterEvent = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n SetScript = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:491\n}\nevent = \"ADDON_ACTION_BLOCKED\"\nevents = <table> {\n ADDON_ACTION_BLOCKED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:557\n ADDON_ACTION_FORBIDDEN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:557\n PLAYER_LOGIN = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:551\n LUA_WARNING = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:566\n ADDON_LOADED = <function> defined @Interface/AddOns/!BugGrabber/BugGrabber.lua:511\n}\n",
+			["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetPropagateKeyboardInput'\n[string \"@Interface/AddOns/Immersion/Logic/Frame.lua\"]:431: in function <Interface/AddOns/Immersion/Logic/Frame.lua:406>",
+			["session"] = 5351,
+			["counter"] = 7,
 		}, -- [50]
+		{
+			["message"] = "[string \"local t = {} t[0/0] = 40 print(t[1])\"]:1: table index is NaN",
+			["time"] = "2024/03/05 16:21:28",
+			["locals"] = "t = <table> {\n}\n(*temporary) = Infinite\n(*temporary) = nil\n(*temporary) = \"table index is NaN\"\n",
+			["stack"] = "[string \"local t = {} t[0/0] = 40 print(t[1])\"]:1: in main chunk\n[string \"=[C]\"]: in function `RunScript'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:2204: in function `?'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:5291: in function <Interface/FrameXML/ChatFrame.lua:5237>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4948: in function `ChatEdit_SendText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4984: in function <Interface/FrameXML/ChatFrame.lua:4980>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1: in function <[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1>",
+			["session"] = 5365,
+			["counter"] = 1,
+		}, -- [51]
+		{
+			["message"] = "[string \"local t = { [0/0]} = 40 print(t[1])\"]:1: '=' expected near '}'",
+			["time"] = "2024/03/05 16:21:49",
+			["locals"] = "(*temporary) = \"local t = { [0/0]} = 40 print(t[1])\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `RunScript'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:2204: in function `?'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:5291: in function <Interface/FrameXML/ChatFrame.lua:5237>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4948: in function `ChatEdit_SendText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4984: in function <Interface/FrameXML/ChatFrame.lua:4980>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1: in function <[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1>",
+			["session"] = 5365,
+			["counter"] = 1,
+		}, -- [52]
+		{
+			["message"] = "[string \"local t = { [0/0] = 40} print(t[1])\"]:1: table index is NaN",
+			["time"] = "2024/03/05 16:21:58",
+			["locals"] = "(*temporary) = <table> {\n}\n(*temporary) = Infinite\n(*temporary) = nil\n(*temporary) = \"table index is NaN\"\n",
+			["stack"] = "[string \"local t = { [0/0] = 40} print(t[1])\"]:1: in main chunk\n[string \"=[C]\"]: in function `RunScript'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:2204: in function `?'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:5291: in function <Interface/FrameXML/ChatFrame.lua:5237>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4948: in function `ChatEdit_SendText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4984: in function <Interface/FrameXML/ChatFrame.lua:4980>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1: in function <[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1>",
+			["session"] = 5365,
+			["counter"] = 1,
+		}, -- [53]
+		{
+			["message"] = "[string \"print(1/\"0\")\"]:1: Division by zero",
+			["time"] = "2024/03/05 16:29:09",
+			["locals"] = "(*temporary) = <function> defined @Interface/FrameXML/RestrictedInfrastructure.lua:123\n(*temporary) = nil\n(*temporary) = \"Division by zero\"\n",
+			["stack"] = "[string \"print(1/\"0\")\"]:1: in main chunk\n[string \"=[C]\"]: in function `RunScript'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:2204: in function `?'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:5291: in function <Interface/FrameXML/ChatFrame.lua:5237>\n[string \"=[C]\"]: in function `ChatEdit_ParseText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4948: in function `ChatEdit_SendText'\n[string \"@Interface/FrameXML/ChatFrame.lua\"]:4984: in function <Interface/FrameXML/ChatFrame.lua:4980>\n[string \"=[C]\"]: in function `ChatEdit_OnEnterPressed'\n[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1: in function <[string \"*ChatFrame.xml:141_OnEnterPressed\"]:1>",
+			["session"] = 5365,
+			["counter"] = 1,
+		}, -- [54]
+		{
+			["message"] = "Interface/AddOns/M6/Repaint.lua:54: attempt to index field 'animOut' (a nil value)",
+			["time"] = "2024/03/05 16:47:04",
+			["locals"] = "s = _M6ActivationAlert0 {\n 0 = <userdata>\n ProcLoop = AnimationGroup {\n }\n OnHide = <function> defined @Interface/FrameXML/ActionButton.lua:937\n ProcStartAnim = AnimationGroup {\n }\n ProcLoopFlipbook = Texture {\n }\n ProcStartFlipbook = Texture {\n }\n}\n(*temporary) = nil\n(*temporary) = nil\n(*temporary) = \"OnHide\"\n(*temporary) = <function> defined @Interface/AddOns/M6/Repaint.lua:40\n(*temporary) = 103507\n(*temporary) = nil\n(*temporary) = \"attempt to index field 'animOut' (a nil value)\"\nspares = <table> {\n}\ncount = 1\nbaseName = \"_M6ActivationAlert\"\nOnHide = <function> defined @Interface/AddOns/M6/Repaint.lua:40\nOnFinished = <function> defined @Interface/AddOns/M6/Repaint.lua:34\n",
+			["stack"] = "[string \"@Interface/AddOns/M6/Repaint.lua\"]:54: in function `GetOverlayGlow'\n[string \"@Interface/AddOns/M6/Repaint.lua\"]:59: in main chunk",
+			["session"] = 5369,
+			["counter"] = 3,
+		}, -- [55]
 	},
 }

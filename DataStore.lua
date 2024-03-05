@@ -2,20 +2,21 @@
 DataStoreDB = {
 	["profileKeys"] = {
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
-		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
@@ -24,65 +25,69 @@ DataStoreDB = {
 				["faction"] = "Horde",
 			},
 			["Default.Argent Dawn.House Stalwart"] = {
-				["faction"] = "Horde",
+				["faction"] = "Alliance",
 			},
 		},
 		["Characters"] = {
-			["Default.Argent Dawn.Headcut"] = {
+			["Default.The Scryers.Wildeadoriah"] = {
 				["faction"] = "Alliance",
+			},
+			["Default.Argent Dawn.Headcut"] = {
 				["guildName"] = "House Stalwart",
+				["faction"] = "Alliance",
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["faction"] = "Horde",
 				["guildName"] = "House Stalwart",
-			},
-			["Default.Argent Dawn.Karst"] = {
 				["faction"] = "Horde",
+			},
+			["Default.Argent Dawn.Confluence"] = {
+				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Cataracts"] = {
+				["guildName"] = "House Stalwart",
 				["faction"] = "Horde",
-				["guildName"] = "House Stalwart",
 			},
-			["Default.Argent Dawn.Flumina"] = {
-				["guildName"] = "House Stalwart",
+			["Default.Argent Dawn.Benthos"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Korgath.Naturerivers"] = {
 				["faction"] = "Alliance",
 			},
-			["Default.Argent Dawn.Benthos"] = {
+			["Default.Argent Dawn.Flumina"] = {
 				["faction"] = "Horde",
+				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Stream"] = {
 				["faction"] = "Horde",
 			},
 			["Default.Argent Dawn.Alluvium"] = {
-				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["faction"] = "Horde",
 				["guildName"] = "House Stalwart",
+				["faction"] = "Horde",
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
 			["Default.Argent Dawn.Mangrove"] = {
-				["guildName"] = "House Stalwart",
 				["faction"] = "Alliance",
+				["guildName"] = "House Stalwart",
 			},
-			["Default.Argent Dawn.Confluence"] = {
-				["guildName"] = "House Stalwart",
-				["faction"] = "Alliance",
+			["Default.Argent Dawn.Karst"] = {
+				["faction"] = "Horde",
 			},
 		},
 		["ShortToLongRealmNames"] = {
 			["Korgath"] = "Korgath",
+			["TheScryers"] = "The Scryers",
 			["ArgentDawn"] = "Argent Dawn",
 		},
 	},
