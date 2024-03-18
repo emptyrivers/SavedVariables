@@ -3,23 +3,15 @@ M6DB = {
 	["icRangeColor"] = "ffffff",
 	["groups"] = {
 	},
+	["icManaColor"] = "8080ff",
+	["actions"] = {
+		{
+			"macrotext", -- [1]
+			"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal", -- [2]
+			["name"] = "flash",
+		}, -- [1]
+	},
 	["profiles"] = {
-		["Korgath"] = {
-			["Naturerivers"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[4] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-		},
 		["The Scryers"] = {
 			["Wildeadoriah"] = {
 				{
@@ -29,6 +21,22 @@ M6DB = {
 					},
 				}, -- [1]
 				[5] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+		},
+		["Korgath"] = {
+			["Naturerivers"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[4] = {
 					["slots"] = {
 					},
 					["bind"] = {
@@ -51,7 +59,15 @@ M6DB = {
 					},
 				},
 			},
-			["Flumina"] = {
+			["Mangrove"] = {
+				[4] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Benthos"] = {
 				{
 					["slots"] = {
 					},
@@ -64,28 +80,8 @@ M6DB = {
 					["bind"] = {
 					},
 				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
 			},
-			["Riparium"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[3] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Estuary"] = {
+			["Karst"] = {
 				{
 					["slots"] = {
 					},
@@ -113,7 +109,117 @@ M6DB = {
 					},
 				},
 			},
+			["Flumina"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
+			["Stream"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+			},
+			["Confluence"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[3] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Riparium"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
 			["Headcut"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				[3] = {
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				},
+			},
+			["Estuary"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [2]
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [3]
+			},
+			["Cataracts"] = {
+				{
+					["slots"] = {
+					},
+					["bind"] = {
+					},
+				}, -- [1]
+			},
+			["Alluvium"] = {
 				{
 					["slots"] = {
 					},
@@ -143,12 +249,4 @@ M6DB = {
 			},
 		},
 	},
-	["actions"] = {
-		{
-			"macrotext", -- [1]
-			"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal", -- [2]
-			["name"] = "flash",
-		}, -- [1]
-	},
-	["icManaColor"] = "8080ff",
 }

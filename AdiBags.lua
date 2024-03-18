@@ -289,17 +289,17 @@ AdiBagsDB = {
 		["ItemCategory"] = {
 			["profiles"] = {
 				["Default"] = {
-					["splitExpansion"] = true,
 					["splitBySubclass"] = {
 						["Recipe"] = true,
 						["Tradeskill"] = true,
 						["Gem"] = true,
 						["Consumable"] = true,
-						["Glyph"] = true,
 						["Item Enhancement!"] = true,
+						["Glyph"] = true,
 						["Trade Goods"] = false,
 						["Miscellaneous"] = true,
 					},
+					["splitExpansion"] = true,
 				},
 			},
 		},
@@ -319,6 +319,8 @@ AdiBagsDB = {
 					["dispatchRule"] = "slot",
 				},
 			},
+		},
+		["DataSource"] = {
 		},
 		["ItemSets"] = {
 		},
@@ -352,13 +354,13 @@ AdiBagsDB = {
 						["Whelpling's Dreaming Crest"] = true,
 						["Epicurean's Award"] = false,
 						["Honor Points"] = false,
-						["Dream Infusion"] = false,
 						["Conquest Points"] = false,
+						["Wakening Essence"] = false,
 						["Flightstones"] = true,
 						["Apexis Crystal"] = false,
 						["Darkmoon Prize Ticket"] = true,
 						["Garrison Resources"] = false,
-						["Wakening Essence"] = false,
+						["Dream Infusion"] = false,
 						["Seal of Tempered Fate"] = false,
 						["Champion's Seal"] = false,
 						["Mysterious Fragment"] = true,
@@ -367,8 +369,6 @@ AdiBagsDB = {
 					["width"] = 10,
 				},
 			},
-		},
-		["DataSource"] = {
 		},
 		["Junk"] = {
 			["profiles"] = {
@@ -436,17 +436,17 @@ AdiBagsDB = {
 		["Flumina - Argent Dawn"] = "Default",
 		["Ochrian - Argent Dawn"] = "Default",
 		["Serenerivers - Bleeding Hollow"] = "Default",
-		["Serenerivers - Kel'Thuzad"] = "Default",
+		["Mahntaiaga - Arthas"] = "Default",
 		["Blindrivers - Sargeras"] = "Default",
 		["Tinyrivers - Kel'Thuzad"] = "Default",
-		["Mahntaiaga - Arthas"] = "Default",
+		["Serenerivers - Kel'Thuzad"] = "Default",
 		["Testrivers - Bleeding Hollow"] = "Default",
 		["Sassyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
-		["Emptyrivers - Korgath"] = "Default",
-		["Greedyrivers - Arthas"] = "Default",
 		["Hulyon - Kel'Thuzad"] = "Default",
+		["Greedyrivers - Arthas"] = "Default",
+		["Benthos - Argent Dawn"] = "Default",
 		["Zimuures - Argent Dawn"] = "Default",
 		["Evilrivers - Sargeras"] = "Default",
 		["Littlerivers - Kel'Thuzad"] = "Default",
@@ -481,7 +481,7 @@ AdiBagsDB = {
 		["Riparium - Argent Dawn"] = "Default",
 		["Brightrivers - Korgath"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Benthos - Argent Dawn"] = "Default",
+		["Emptyrivers - Korgath"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
 		["Mothugeon - Argent Dawn"] = "Default",
 		["Mangrove - Argent Dawn"] = "Default",
@@ -572,16 +572,16 @@ AdiBagsDB = {
 			["experiments"] = {
 				["Bag Lag Fix"] = {
 					["Enabled"] = false,
-					["Description"] = "This experiment will fix the lag when opening bags via per-item change draws instead of full redraws.",
 					["Percent"] = 1,
 					["Name"] = "Bag Lag Fix",
+					["Description"] = "This experiment will fix the lag when opening bags via per-item change draws instead of full redraws.",
 				},
 			},
 			["positions"] = {
 				["Backpack"] = {
-					["xOffset"] = 539.5179767894442,
+					["xOffset"] = 529.6132403137271,
 					["point"] = "TOPLEFT",
-					["yOffset"] = -213.7982778527658,
+					["yOffset"] = -218.3696646396347,
 				},
 				["Bank"] = {
 					["xOffset"] = 117.5390154233428,

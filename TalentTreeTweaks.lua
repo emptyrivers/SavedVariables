@@ -6,21 +6,21 @@ TalentTreeTweaksDB = {
 		["InspectDiff"] = {
 			["colorYellow"] = {
 				["a"] = 0.75,
-				["b"] = 0,
-				["g"] = 0.67,
 				["r"] = 1,
+				["g"] = 0.67,
+				["b"] = 0,
 			},
 			["colorGreen"] = {
 				["a"] = 0.58,
-				["b"] = 0.3,
-				["g"] = 1,
 				["r"] = 0,
+				["g"] = 1,
+				["b"] = 0.3,
 			},
 			["colorRed"] = {
 				["a"] = 0.5,
-				["b"] = 0,
-				["g"] = 0,
 				["r"] = 1,
+				["g"] = 0,
+				["b"] = 0,
 			},
 			["enableTalentTreeViewerDiff"] = true,
 		},
@@ -33,32 +33,32 @@ TalentTreeTweaksDB = {
 			["reportPurchases"] = true,
 		},
 		["UnlockRestrictions"] = {
-			["unlockShareButton"] = true,
 			["unlockInCombatSpending"] = true,
+			["unlockShareButton"] = true,
 		},
 		["MiniTreeInTooltip"] = {
 			["displayStyle"] = "simple-default-diff",
 			["upgradedDisplayStyle"] = 1,
 			["diffRed"] = {
-				["r"] = 1,
-				["g"] = 0,
 				["b"] = 0,
+				["g"] = 0,
+				["r"] = 1,
 			},
 			["scale"] = 1,
 			["diffGreen"] = {
-				["r"] = 0,
-				["g"] = 1,
 				["b"] = 0,
-			},
-			["diffYellow"] = {
-				["r"] = 1,
 				["g"] = 1,
-				["b"] = 1,
+				["r"] = 0,
 			},
 			["diffOrange"] = {
-				["r"] = 1,
-				["g"] = 1,
 				["b"] = 0,
+				["g"] = 1,
+				["r"] = 1,
+			},
+			["diffYellow"] = {
+				["b"] = 1,
+				["g"] = 1,
+				["r"] = 1,
 			},
 		},
 		["ReduceTaint"] = {
@@ -66,8 +66,8 @@ TalentTreeTweaksDB = {
 			["replaceDropDown"] = true,
 		},
 		["ExportInspectedBuild"] = {
-			["exportOnDropdownRightClick"] = true,
 			["showLinkInChatButton"] = true,
+			["exportOnDropdownRightClick"] = true,
 		},
 		["TooltipIds"] = {
 			["professionTooltip"] = {
@@ -97,14 +97,12 @@ TalentTreeTweaksDB = {
 		["HighlightCascadeRepurchable"] = {
 			["color"] = {
 				["a"] = 0.5,
-				["b"] = 1,
-				["g"] = 0,
 				["r"] = 0,
+				["g"] = 0,
+				["b"] = 1,
 			},
 		},
-		["ImportIntoCurrentLoadout"] = {
-			["defaultCheckboxState"] = false,
-			["unlockImportButton"] = true,
+		["ReduceSpam"] = {
 		},
 		["DebugNodeInfo"] = {
 			["addButtonToTable"] = true,
@@ -123,7 +121,9 @@ TalentTreeTweaksDB = {
 			["dropdownUpdateOnLoadConfigFix"] = true,
 			["linkChoiceNodeInChatFix"] = true,
 		},
-		["ReduceSpam"] = {
+		["ImportIntoCurrentLoadout"] = {
+			["defaultCheckboxState"] = false,
+			["unlockImportButton"] = true,
 		},
 	},
 }

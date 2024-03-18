@@ -50,9 +50,9 @@ TomTomDB = {
 		["Sassyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Serenerivers - Kel'Thuzad"] = "Default",
-		["Brightrivers - Korgath"] = "Default",
-		["Greedyrivers - Arthas"] = "Default",
 		["Benthos - Argent Dawn"] = "Default",
+		["Greedyrivers - Arthas"] = "Default",
+		["Brightrivers - Korgath"] = "Default",
 		["Zimuures - Argent Dawn"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
 		["Littlerivers - Kel'Thuzad"] = "Default",
@@ -142,21 +142,21 @@ TomTomWaypointsM = {
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Testrivers - Arthas"] = "Testrivers - Arthas",
-		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -187,9 +187,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -210,9 +210,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -233,9 +233,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -256,9 +256,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -279,9 +279,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -302,9 +302,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -325,9 +325,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -348,9 +348,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -371,9 +371,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -394,9 +394,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -417,9 +417,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -440,9 +440,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -463,9 +463,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -486,9 +486,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -509,9 +509,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -532,9 +532,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -555,9 +555,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -578,9 +578,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -601,9 +601,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -624,9 +624,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -647,9 +647,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -670,9 +670,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -693,9 +693,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -716,9 +716,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -739,9 +739,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -762,9 +762,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["minimap"] = {
-						},
 						["world"] = {
+						},
+						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -798,7 +798,7 @@ TomTomWaypointsM = {
 		},
 		["Stream - Argent Dawn"] = {
 		},
-		["Ragingrivers - Arthas"] = {
+		["Mahntaiaga - Arthas"] = {
 		},
 		["Lotic - Argent Dawn"] = {
 		},
@@ -812,13 +812,13 @@ TomTomWaypointsM = {
 		},
 		["Wildeadoriah - The Scryers"] = {
 		},
-		["Mothugeon - Argent Dawn"] = {
+		["Evilrivers - Kel'Thuzad"] = {
 		},
 		["Daedrasminia - Arthas"] = {
 		},
 		["Riparium - Argent Dawn"] = {
 		},
-		["Evilrivers - Kel'Thuzad"] = {
+		["Mothugeon - Argent Dawn"] = {
 		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
@@ -826,7 +826,7 @@ TomTomWaypointsM = {
 		},
 		["Testrivers - Arthas"] = {
 		},
-		["Mahntaiaga - Arthas"] = {
+		["Ragingrivers - Arthas"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},
