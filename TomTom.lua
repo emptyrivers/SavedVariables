@@ -37,12 +37,12 @@ TomTomDB = {
 		["Stream - Argent Dawn"] = "Default",
 		["Naturerivers - Korgath"] = "Default",
 		["Ailisuul - Arthas"] = "Default",
-		["Karst - Argent Dawn"] = "Default",
+		["Mangrove - Argent Dawn"] = "Default",
 		["Mindrivers - Korgath"] = "Default",
 		["Bittydots - Korgath"] = "Default",
 		["Ochrian - Argent Dawn"] = "Default",
 		["Emptyrivers - Korgath"] = "Default",
-		["Cataracts - Argent Dawn"] = "Default",
+		["Mothugeon - Argent Dawn"] = "Default",
 		["Blindrivers - Sargeras"] = "Default",
 		["Tinyrivers - Kel'Thuzad"] = "Default",
 		["Flumina - Argent Dawn"] = "Default",
@@ -50,47 +50,47 @@ TomTomDB = {
 		["Sassyrivers - Arthas"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Serenerivers - Kel'Thuzad"] = "Default",
-		["Benthos - Argent Dawn"] = "Default",
+		["Serenerivers - Bleeding Hollow"] = "Default",
 		["Greedyrivers - Arthas"] = "Default",
-		["Brightrivers - Korgath"] = "Default",
 		["Zimuures - Argent Dawn"] = "Default",
+		["Brightrivers - Korgath"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
 		["Littlerivers - Kel'Thuzad"] = "Default",
 		["Alandere - Argent Dawn"] = "Default",
 		["Spicydremer - Korgath"] = "Default",
-		["Confluence - Argent Dawn"] = "Default",
-		["Wildeadoriah - The Scryers"] = "Default",
+		["Garumn - Arthas"] = "Default",
+		["Riparium - Argent Dawn"] = "Default",
 		["Hiddenrivers - Korgath"] = "Default",
 		["Edgyrivers - Arthas"] = "Default",
-		["Notariver - Arthas"] = "Default",
+		["Alluvium - Argent Dawn"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
 		["Elakai - Korgath"] = "Default",
 		["Wildrivers - Arthas"] = "Default",
-		["Beefyrivers - Arthas"] = "Default",
-		["Lotic - Argent Dawn"] = "Default",
-		["Evilrivers - Korgath"] = "Default",
-		["Hulyon - Kel'Thuzad"] = "Default",
-		["Treesurgeon - Korgath"] = "Default",
-		["Savattellir - Arthas"] = "Default",
-		["Edgyrivers - Kel'Thuzad"] = "Default",
-		["Serenerivers - Sargeras"] = "Default",
-		["Luckyrivers - Korgath"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
-		["Mecharivers - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
-		["Emptyrivers - Bleeding Hollow"] = "Default",
-		["Blindrivers - Arthas"] = "Default",
 		["Blindrivers - Korgath"] = "Default",
+		["Beefyrivers - Arthas"] = "Default",
+		["Evilrivers - Korgath"] = "Default",
+		["Blindrivers - Arthas"] = "Default",
+		["Treesurgeon - Korgath"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
+		["Serenerivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
+		["Luckyrivers - Korgath"] = "Default",
+		["Mecharivers - Sargeras"] = "Default",
+		["Edgyrivers - Kel'Thuzad"] = "Default",
+		["Savattellir - Arthas"] = "Default",
+		["Emptyrivers - Bleeding Hollow"] = "Default",
+		["Hulyon - Kel'Thuzad"] = "Default",
+		["Lotic - Argent Dawn"] = "Default",
 		["Evilrivers - Kel'Thuzad"] = "Default",
-		["Alluvium - Argent Dawn"] = "Default",
-		["Riparium - Argent Dawn"] = "Default",
-		["Garumn - Arthas"] = "Default",
+		["Notariver - Arthas"] = "Default",
+		["Wildeadoriah - The Scryers"] = "Default",
+		["Confluence - Argent Dawn"] = "Default",
 		["Magicrivers - Korgath"] = "Default",
-		["Serenerivers - Bleeding Hollow"] = "Default",
+		["Benthos - Argent Dawn"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
-		["Mothugeon - Argent Dawn"] = "Default",
-		["Mangrove - Argent Dawn"] = "Default",
+		["Cataracts - Argent Dawn"] = "Default",
+		["Karst - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -111,8 +111,8 @@ TomTomDB = {
 				},
 			},
 			["mapcoords"] = {
-				["cursorenable"] = false,
 				["playerenable"] = false,
+				["cursorenable"] = false,
 			},
 			["block"] = {
 				["enable"] = false,
@@ -141,22 +141,22 @@ TomTomWaypointsM = {
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Testrivers - Arthas"] = "Testrivers - Arthas",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
-		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
 		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+		["Daedrasminia - Arthas"] = "Daedrasminia - Arthas",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+		["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-		["Testrivers - Arthas"] = "Testrivers - Arthas",
-		["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -187,9 +187,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -210,9 +210,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -233,9 +233,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -256,9 +256,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -279,9 +279,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -302,9 +302,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -325,9 +325,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -348,9 +348,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -371,9 +371,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -394,9 +394,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -417,331 +417,9 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
-						["world"] = {
-						},
 						["minimap"] = {
 						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:193000000:410000000:|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r"] = {
-					534, -- [1]
-					0.193, -- [2]
-					0.41, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
 						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:149000000:544000000:|cff0070dd|Hitem:127325::::::::59:103:::::::::|hAxe of the Weeping Wolf|h|r"] = {
-					534, -- [1]
-					0.149, -- [2]
-					0.544, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127325::::::::59:103:::::::::|hAxe of the Weeping Wolf|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127325::::::::59:103:::::::::|hAxe of the Weeping Wolf|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:265000000:629000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.265, -- [2]
-					0.629, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Jungle Treasure Master",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:516000000:327000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.516, -- [2]
-					0.327, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Jungle Treasure Master",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:303000000:719000000:|cff0070dd|Hitem:127389::::::::59:103:::::::::|hPolished Crystal|h|r"] = {
-					534, -- [1]
-					0.303, -- [2]
-					0.719, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127389::::::::59:103:::::::::|hPolished Crystal|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127389::::::::59:103:::::::::|hPolished Crystal|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:268000000:441000000:|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r"] = {
-					534, -- [1]
-					0.268, -- [2]
-					0.441, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:585000000:250000000:|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r"] = {
-					534, -- [1]
-					0.585, -- [2]
-					0.25, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:287000000:233000000:|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r"] = {
-					534, -- [1]
-					0.287, -- [2]
-					0.233, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:288000000:346000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.288, -- [2]
-					0.346, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Jungle Treasure Master",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:344000000:783000000:|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r"] = {
-					534, -- [1]
-					0.344, -- [2]
-					0.783, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:370000000:462000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.37, -- [2]
-					0.462, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Jungle Treasure Master",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:160000000:594000000:|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r"] = {
-					534, -- [1]
-					0.16, -- [2]
-					0.594, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:736000000:432000000:Jungle Treasure Master"] = {
-					534, -- [1]
-					0.736, -- [2]
-					0.432, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "Jungle Treasure Master",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "Jungle Treasure Master",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
-						},
-					},
-					["minimap"] = true,
-					["world"] = true,
-				},
-				["534:634000000:281000000:|cff0070dd|Hitem:128309::::::::59:103:::::::::|hShard of Cyrukh|h|r"] = {
-					534, -- [1]
-					0.634, -- [2]
-					0.281, -- [3]
-					["arrivaldistance"] = 15,
-					["crazy"] = true,
-					["persistent"] = true,
-					["desc"] = "|cff0070dd|Hitem:128309::::::::59:103:::::::::|hShard of Cyrukh|h|r",
-					["silent"] = true,
-					["cleardistance"] = 10,
-					["title"] = "|cff0070dd|Hitem:128309::::::::59:103:::::::::|hShard of Cyrukh|h|r",
-					["from"] = "?",
-					["callbacks"] = {
-						["distance"] = {
-						},
-						["world"] = {
-						},
-						["minimap"] = {
 						},
 					},
 					["minimap"] = true,
@@ -762,9 +440,331 @@ TomTomWaypointsM = {
 					["callbacks"] = {
 						["distance"] = {
 						},
+						["minimap"] = {
+						},
 						["world"] = {
 						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:149000000:544000000:|cff0070dd|Hitem:127325::::::::59:103:::::::::|hAxe of the Weeping Wolf|h|r"] = {
+					534, -- [1]
+					0.149, -- [2]
+					0.544, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:127325::::::::59:103:::::::::|hAxe of the Weeping Wolf|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127325::::::::59:103:::::::::|hAxe of the Weeping Wolf|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
 						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:265000000:629000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.265, -- [2]
+					0.629, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Jungle Treasure Master",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:516000000:327000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.516, -- [2]
+					0.327, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Jungle Treasure Master",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:303000000:719000000:|cff0070dd|Hitem:127389::::::::59:103:::::::::|hPolished Crystal|h|r"] = {
+					534, -- [1]
+					0.303, -- [2]
+					0.719, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:127389::::::::59:103:::::::::|hPolished Crystal|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127389::::::::59:103:::::::::|hPolished Crystal|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:736000000:432000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.736, -- [2]
+					0.432, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Jungle Treasure Master",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:160000000:594000000:|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r"] = {
+					534, -- [1]
+					0.16, -- [2]
+					0.594, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:128220::::::::59:103:::::::::|hGrannok's Lidless Eye|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:287000000:233000000:|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r"] = {
+					534, -- [1]
+					0.287, -- [2]
+					0.233, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127668::::::::59:103:::::::::|hJewel of Hellfire|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:288000000:346000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.288, -- [2]
+					0.346, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Jungle Treasure Master",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:344000000:783000000:|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r"] = {
+					534, -- [1]
+					0.344, -- [2]
+					0.783, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cffffffff|Hitem:128346::::::::59:103:::::::::|hFel-Corrupted Apexis Fragment|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:370000000:462000000:Jungle Treasure Master"] = {
+					534, -- [1]
+					0.37, -- [2]
+					0.462, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "Jungle Treasure Master",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "Jungle Treasure Master",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:585000000:250000000:|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r"] = {
+					534, -- [1]
+					0.585, -- [2]
+					0.25, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff1eff00|Hitem:115804::::::::59:103:::::::::|hHaste Taladite|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:268000000:441000000:|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r"] = {
+					534, -- [1]
+					0.268, -- [2]
+					0.441, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127709::::::::59:103:::::::::|hThrobbing Blood Orb|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:634000000:281000000:|cff0070dd|Hitem:128309::::::::59:103:::::::::|hShard of Cyrukh|h|r"] = {
+					534, -- [1]
+					0.634, -- [2]
+					0.281, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:128309::::::::59:103:::::::::|hShard of Cyrukh|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:128309::::::::59:103:::::::::|hShard of Cyrukh|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["534:193000000:410000000:|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r"] = {
+					534, -- [1]
+					0.193, -- [2]
+					0.41, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "|cff0070dd|Hitem:127338::::::::59:103:::::::::|hGuardian Swiftblade of Kra'nak|h|r",
+					["from"] = "?",
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
 						},
 					},
 					["minimap"] = true,
@@ -796,11 +796,11 @@ TomTomWaypointsM = {
 		},
 		["Benthos - Argent Dawn"] = {
 		},
-		["Stream - Argent Dawn"] = {
-		},
 		["Mahntaiaga - Arthas"] = {
 		},
-		["Lotic - Argent Dawn"] = {
+		["Ragingrivers - Arthas"] = {
+		},
+		["Testrivers - Arthas"] = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
@@ -808,25 +808,25 @@ TomTomWaypointsM = {
 		},
 		["Emptyrivers - Bleeding Hollow"] = {
 		},
-		["Emptyrivers - Sargeras"] = {
-		},
-		["Wildeadoriah - The Scryers"] = {
-		},
 		["Evilrivers - Kel'Thuzad"] = {
-		},
-		["Daedrasminia - Arthas"] = {
 		},
 		["Riparium - Argent Dawn"] = {
 		},
 		["Mothugeon - Argent Dawn"] = {
 		},
+		["Daedrasminia - Arthas"] = {
+		},
+		["Wildeadoriah - The Scryers"] = {
+		},
+		["Emptyrivers - Sargeras"] = {
+		},
 		["Emptyrivers - Argent Dawn"] = {
 		},
 		["Karst - Argent Dawn"] = {
 		},
-		["Testrivers - Arthas"] = {
+		["Lotic - Argent Dawn"] = {
 		},
-		["Ragingrivers - Arthas"] = {
+		["Stream - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

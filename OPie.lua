@@ -4,27 +4,15 @@ OPie_SavedData = {
 	["CenterActions"] = {
 		["Mounts"] = "ABuen6efgHt",
 	},
-	["_GameVersion"] = "10.2.5",
+	["_GameVersion"] = "10.2.6",
 	["CharProfiles"] = {
 	},
 	["_TimeBand"] = 0.078125,
-	["_OPieVersion"] = "Zeta 4.5 (4.119)",
+	["_OPieVersion"] = "Zeta 4.5a (4.119)",
 	["ProfileStorage"] = {
 		["default"] = {
-			["Bindings"] = {
-				["WarlockLTS"] = "F4",
-				["SpecMenu"] = "F3",
-				["CommonTrades"] = "ALT-`",
-				["Mounts"] = "F7",
-				["onsumables"] = "F6",
-				["RaidSymbols"] = "H",
-				["Teleportal"] = "F2",
-				["HerosPath"] = "F5",
-				["OPieAutoQuest"] = "CTRL-`",
-				["nsformtoys"] = "`",
-				["OPieTracking"] = false,
-				["WorldMarkers"] = "SHIFT-H",
-				["MageTools"] = "F4",
+			["RotationTokens"] = {
+				["OPCTAt"] = "OPCHSs",
 			},
 			["RingOptions"] = {
 				["Teleport1#CenterAction"] = true,
@@ -36,14 +24,20 @@ OPie_SavedData = {
 				["Teleportal#CenterAction"] = true,
 				["Portal#CenterAction"] = true,
 			},
-			["RotationTokens"] = {
-				["OPCTAt"] = "OPCHSdf",
-				["ABuen/y44ow"] = "ABuenG8ciuw",
-				["ABuen6w3r/4"] = "ABuen6w3r/h",
-				["ABuenmguorT"] = "ABuenmguorm",
-				["ABuenmguorU"] = "ABuenmguorY",
-				["ABuenmguorg"] = "ABuenmguorj",
-				["ABuebiafrDd"] = "ABuebiafrDo",
+			["Bindings"] = {
+				["WarlockLTS"] = "F4",
+				["SpecMenu"] = "F3",
+				["CommonTrades"] = "ALT-`",
+				["Mounts"] = "F7",
+				["OPieTracking"] = false,
+				["RaidSymbols"] = "H",
+				["onsumables"] = "F6",
+				["HerosPath"] = "F5",
+				["Teleportal"] = "F2",
+				["nsformtoys"] = "`",
+				["WorldMarkers"] = "SHIFT-H",
+				["OPieAutoQuest"] = "CTRL-`",
+				["MageTools"] = "F4",
 			},
 			["Bindings2"] = {
 				["OPieAutoQuest"] = "CTRL-X",
@@ -153,18 +147,38 @@ OPie_SavedData = {
 				["internal"] = true,
 				["save"] = true,
 			},
-			["Food"] = {
+			["agonriding"] = {
 				{
-					"item", -- [1]
-					204072, -- [2]
-					["sliceToken"] = "ABuen6w3r/o",
+					"mount", -- [1]
+					1591, -- [2]
+					["sliceToken"] = "ABuen6w3r/s",
 				}, -- [1]
 				{
-					"item", -- [1]
-					197783, -- [2]
-					["sliceToken"] = "ABuenE4Bncw",
+					"mount", -- [1]
+					1744, -- [2]
+					["sliceToken"] = "ABuen6w3r/3",
 				}, -- [2]
-				["name"] = "Food",
+				{
+					"mount", -- [1]
+					1563, -- [2]
+					["sliceToken"] = "ABuen6w3r/d",
+				}, -- [3]
+				{
+					"mount", -- [1]
+					1589, -- [2]
+					["sliceToken"] = "ABuen6w3r/f",
+				}, -- [4]
+				{
+					"mount", -- [1]
+					1590, -- [2]
+					["sliceToken"] = "ABuen6w3r/g",
+				}, -- [5]
+				{
+					"mount", -- [1]
+					1588, -- [2]
+					["sliceToken"] = "ABuen6w3r/h",
+				}, -- [6]
+				["name"] = "Dragonriding",
 				["save"] = true,
 				["internal"] = true,
 			},
@@ -347,24 +361,20 @@ OPie_SavedData = {
 				["internal"] = true,
 				["save"] = true,
 			},
-			["Teleportal"] = {
+			["Food"] = {
 				{
-					"ring", -- [1]
-					"Teleport1", -- [2]
-					["sliceToken"] = "ABuenmguorg",
-					["embed"] = false,
-					["rotationMode"] = "reset",
+					"item", -- [1]
+					204072, -- [2]
+					["sliceToken"] = "ABuen6w3r/o",
 				}, -- [1]
 				{
-					"ring", -- [1]
-					"Portal", -- [2]
-					["sliceToken"] = "ABuenmguorT",
-					["embed"] = false,
-					["rotationMode"] = "reset",
+					"item", -- [1]
+					197783, -- [2]
+					["sliceToken"] = "ABuenE4Bncw",
 				}, -- [2]
+				["name"] = "Food",
 				["save"] = true,
-				["limit"] = "MAGE",
-				["name"] = "Teleportal",
+				["internal"] = true,
 			},
 			["SpecMenu"] = {
 				{
@@ -423,12 +433,12 @@ OPie_SavedData = {
 					["sliceToken"] = "OPCTAd",
 				}, -- [10]
 				{
-					["id"] = 312370,
 					["sliceToken"] = "ABuenLcNRyw",
+					["id"] = 312370,
 				}, -- [11]
 				{
-					["id"] = 312372,
 					["sliceToken"] = "ABuenLcNRye",
+					["id"] = 312372,
 				}, -- [12]
 				["name"] = "Specializations and Travel",
 				["vm"] = 127,
@@ -504,8 +514,8 @@ OPie_SavedData = {
 					["sliceToken"] = "ABuebiafrDf",
 				}, -- [5]
 				["name"] = "cooking pets",
-				["save"] = true,
 				["internal"] = true,
+				["save"] = true,
 			},
 			["BfAPortals"] = {
 				{
@@ -562,15 +572,95 @@ OPie_SavedData = {
 				["save"] = true,
 				["internal"] = true,
 			},
-			["Elixirs"] = {
+			["CommonTrades"] = {
 				{
-					"item", -- [1]
-					191341, -- [2]
-					["sliceToken"] = "ABuen6w3r/p",
+					["id"] = 2259,
+					["sliceToken"] = "ABuenGT9Jtw",
 				}, -- [1]
-				["name"] = "Elixirs",
+				{
+					["id"] = 2018,
+					["sliceToken"] = "ABuenGDUSiw",
+				}, -- [2]
+				{
+					["id"] = 7411,
+					["sliceToken"] = "ABuenGTz4E1",
+				}, -- [3]
+				{
+					["id"] = 195112,
+					["sliceToken"] = "ABuenGTVXVw",
+				}, -- [4]
+				{
+					["id"] = 45357,
+					["sliceToken"] = "ABuenGTGlTw",
+				}, -- [5]
+				{
+					["id"] = 195116,
+					["sliceToken"] = "ABuenGTDRow",
+				}, -- [6]
+				{
+					["id"] = 2108,
+					["sliceToken"] = "ABuenGTPFIw",
+				}, -- [7]
+				{
+					["id"] = 3908,
+					["sliceToken"] = "ABuenGTz4Er",
+				}, -- [8]
+				{
+					["id"] = 2550,
+					["sliceToken"] = "ABuenGTz4Et",
+				}, -- [9]
+				{
+					["id"] = 53428,
+					["sliceToken"] = "OPCCTu",
+					["vm"] = 2,
+				}, -- [10]
+				{
+					["id"] = 2656,
+					["sliceToken"] = "OPCCTm",
+				}, -- [11]
+				{
+					["id"] = 194174,
+					["sliceToken"] = "OPCCTsj",
+					["vm"] = 2,
+				}, -- [12]
+				{
+					["id"] = 193290,
+					["sliceToken"] = "OPCCThj",
+				}, -- [13]
+				{
+					["id"] = 271990,
+					["sliceToken"] = "ABuenGTz4Ee",
+				}, -- [14]
+				{
+					"ring", -- [1]
+					"ookingpets", -- [2]
+					["sliceToken"] = "ABuebiafrDd",
+					["embed"] = false,
+					["rotationMode"] = "random",
+				}, -- [15]
+				{
+					"toy", -- [1]
+					198428, -- [2]
+					["sliceToken"] = "ABuenGTz4Ew",
+				}, -- [16]
 				["save"] = true,
-				["internal"] = true,
+				["v"] = 1,
+				["name"] = "Trade Skills",
+				["vm"] = 127,
+				["hotkey"] = "ALT-T",
+				["dropTokens"] = {
+					["OPCCTc"] = 1,
+					["OPCCTfj"] = 1,
+					["OPCCTa"] = 1,
+					["OPCCTg"] = 1,
+					["OPCCTj"] = 1,
+					["OPCCTi"] = 1,
+					["OPCCTt"] = 1,
+					["OPCCTl"] = 1,
+					["OPCCTe"] = 1,
+					["OPCCTr"] = 1,
+					["OPCCTb"] = 1,
+				},
 			},
 			["Runes"] = {
 				{
@@ -681,78 +771,31 @@ OPie_SavedData = {
 					["id"] = 20707,
 					["sliceToken"] = "ABue6/2klr1",
 				}, -- [12]
-				["limit"] = "WARLOCK",
 				["name"] = "Warlock General",
+				["limit"] = "WARLOCK",
 				["hotkey"] = "F4",
 				["save"] = true,
 				["vm"] = 125,
 				["v"] = 2,
 			},
-			["Portal"] = {
+			["Teleportal"] = {
 				{
-					["id"] = 395289,
-					["sliceToken"] = "ABuenmguorl",
+					"ring", -- [1]
+					"Teleport1", -- [2]
+					["sliceToken"] = "ABuenmguorg",
+					["embed"] = false,
+					["rotationMode"] = "reset",
 				}, -- [1]
 				{
-					["id"] = 344597,
-					["sliceToken"] = "ABuenmguorz",
+					"ring", -- [1]
+					"Portal", -- [2]
+					["sliceToken"] = "ABuenmguorT",
+					["embed"] = false,
+					["rotationMode"] = "reset",
 				}, -- [2]
-				{
-					["id"] = 281402,
-					["sliceToken"] = "ABuenmguor5",
-				}, -- [3]
-				{
-					["id"] = 224871,
-					["sliceToken"] = "ABuenmguorx",
-				}, -- [4]
-				{
-					["id"] = 176244,
-					["sliceToken"] = "ABuenmguorc",
-				}, -- [5]
-				{
-					["id"] = 132626,
-					["sliceToken"] = "ABuenmguorv",
-				}, -- [6]
-				{
-					["id"] = 88346,
-					["sliceToken"] = "ABuenmguorb",
-				}, -- [7]
-				{
-					["id"] = 53142,
-					["sliceToken"] = "ABuenmguor6",
-				}, -- [8]
-				{
-					["id"] = 35717,
-					["sliceToken"] = "ABuenmguorn",
-				}, -- [9]
-				{
-					["id"] = 120146,
-					["sliceToken"] = "ABuenmguorm",
-				}, -- [10]
-				{
-					["id"] = 49361,
-					["sliceToken"] = "ABuenmguorQ",
-				}, -- [11]
-				{
-					["id"] = 32267,
-					["sliceToken"] = "ABuenmguorW",
-				}, -- [12]
-				{
-					["id"] = 11420,
-					["sliceToken"] = "ABuenmguorE",
-				}, -- [13]
-				{
-					["id"] = 11418,
-					["sliceToken"] = "ABuenmguor7",
-				}, -- [14]
-				{
-					["id"] = 11417,
-					["sliceToken"] = "ABuenmguorR",
-				}, -- [15]
-				["limit"] = "MAGE",
-				["name"] = "Portal",
-				["internal"] = true,
 				["save"] = true,
+				["limit"] = "MAGE",
+				["name"] = "Teleportal",
 			},
 			["ExtraPortals"] = {
 				{
@@ -1229,130 +1272,81 @@ OPie_SavedData = {
 				["internal"] = true,
 				["save"] = true,
 			},
-			["agonriding"] = {
+			["Elixirs"] = {
 				{
-					"mount", -- [1]
-					1591, -- [2]
-					["sliceToken"] = "ABuen6w3r/s",
+					"item", -- [1]
+					191341, -- [2]
+					["sliceToken"] = "ABuen6w3r/p",
 				}, -- [1]
-				{
-					"mount", -- [1]
-					1744, -- [2]
-					["sliceToken"] = "ABuen6w3r/3",
-				}, -- [2]
-				{
-					"mount", -- [1]
-					1563, -- [2]
-					["sliceToken"] = "ABuen6w3r/d",
-				}, -- [3]
-				{
-					"mount", -- [1]
-					1589, -- [2]
-					["sliceToken"] = "ABuen6w3r/f",
-				}, -- [4]
-				{
-					"mount", -- [1]
-					1590, -- [2]
-					["sliceToken"] = "ABuen6w3r/g",
-				}, -- [5]
-				{
-					"mount", -- [1]
-					1588, -- [2]
-					["sliceToken"] = "ABuen6w3r/h",
-				}, -- [6]
-				["name"] = "Dragonriding",
+				["name"] = "Elixirs",
 				["save"] = true,
 				["internal"] = true,
 			},
-			["CommonTrades"] = {
+			["Portal"] = {
 				{
-					["id"] = 2259,
-					["sliceToken"] = "ABuenGT9Jtw",
+					["id"] = 395289,
+					["sliceToken"] = "ABuenmguorl",
 				}, -- [1]
 				{
-					["id"] = 2018,
-					["sliceToken"] = "ABuenGDUSiw",
+					["id"] = 344597,
+					["sliceToken"] = "ABuenmguorz",
 				}, -- [2]
 				{
-					["id"] = 7411,
-					["sliceToken"] = "ABuenGTz4E1",
+					["id"] = 281402,
+					["sliceToken"] = "ABuenmguor5",
 				}, -- [3]
 				{
-					["id"] = 195112,
-					["sliceToken"] = "ABuenGTVXVw",
+					["id"] = 224871,
+					["sliceToken"] = "ABuenmguorx",
 				}, -- [4]
 				{
-					["id"] = 45357,
-					["sliceToken"] = "ABuenGTGlTw",
+					["id"] = 176244,
+					["sliceToken"] = "ABuenmguorc",
 				}, -- [5]
 				{
-					["id"] = 195116,
-					["sliceToken"] = "ABuenGTDRow",
+					["id"] = 132626,
+					["sliceToken"] = "ABuenmguorv",
 				}, -- [6]
 				{
-					["id"] = 2108,
-					["sliceToken"] = "ABuenGTPFIw",
+					["id"] = 88346,
+					["sliceToken"] = "ABuenmguorb",
 				}, -- [7]
 				{
-					["id"] = 3908,
-					["sliceToken"] = "ABuenGTz4Er",
+					["id"] = 53142,
+					["sliceToken"] = "ABuenmguor6",
 				}, -- [8]
 				{
-					["sliceToken"] = "ABuenGTz4Et",
-					["id"] = 2550,
+					["id"] = 35717,
+					["sliceToken"] = "ABuenmguorn",
 				}, -- [9]
 				{
-					["id"] = 53428,
-					["sliceToken"] = "OPCCTu",
-					["vm"] = 2,
+					["id"] = 120146,
+					["sliceToken"] = "ABuenmguorm",
 				}, -- [10]
 				{
-					["id"] = 2656,
-					["sliceToken"] = "OPCCTm",
+					["id"] = 49361,
+					["sliceToken"] = "ABuenmguorQ",
 				}, -- [11]
 				{
-					["id"] = 194174,
-					["sliceToken"] = "OPCCTsj",
-					["vm"] = 2,
+					["id"] = 32267,
+					["sliceToken"] = "ABuenmguorW",
 				}, -- [12]
 				{
-					["id"] = 193290,
-					["sliceToken"] = "OPCCThj",
+					["id"] = 11420,
+					["sliceToken"] = "ABuenmguorE",
 				}, -- [13]
 				{
-					["sliceToken"] = "ABuenGTz4Ee",
-					["id"] = 271990,
+					["id"] = 11418,
+					["sliceToken"] = "ABuenmguor7",
 				}, -- [14]
 				{
-					"ring", -- [1]
-					"ookingpets", -- [2]
-					["sliceToken"] = "ABuebiafrDd",
-					["embed"] = false,
-					["rotationMode"] = "random",
+					["id"] = 11417,
+					["sliceToken"] = "ABuenmguorR",
 				}, -- [15]
-				{
-					"toy", -- [1]
-					198428, -- [2]
-					["sliceToken"] = "ABuenGTz4Ew",
-				}, -- [16]
+				["limit"] = "MAGE",
+				["name"] = "Portal",
+				["internal"] = true,
 				["save"] = true,
-				["v"] = 1,
-				["name"] = "Trade Skills",
-				["vm"] = 127,
-				["hotkey"] = "ALT-T",
-				["dropTokens"] = {
-					["OPCCTc"] = 1,
-					["OPCCTfj"] = 1,
-					["OPCCTa"] = 1,
-					["OPCCTg"] = 1,
-					["OPCCTj"] = 1,
-					["OPCCTi"] = 1,
-					["OPCCTt"] = 1,
-					["OPCCTl"] = 1,
-					["OPCCTe"] = 1,
-					["OPCCTr"] = 1,
-					["OPCCTb"] = 1,
-				},
 			},
 		},
 	},

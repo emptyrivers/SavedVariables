@@ -1,12 +1,12 @@
 
 BugGrabberDB = {
+	["session"] = 5946,
 	["lastSanitation"] = 3,
-	["session"] = 5939,
 	["errors"] = {
 		{
 			["message"] = "BisectorResults",
-			["session"] = 5618,
 			["time"] = "2024/03/13 15:49:44",
+			["session"] = 5618,
 			["counter"] = 1,
 		}, -- [1]
 		{
@@ -241,5 +241,13 @@ BugGrabberDB = {
 			["session"] = 5924,
 			["counter"] = 52,
 		}, -- [30]
+		{
+			["message"] = "Usage: local spellName, spellID = C_Item.GetItemSpell(itemInfo)",
+			["time"] = "2024/03/19 23:22:23",
+			["locals"] = "(*temporary) = \"Usage: local spellName, spellID = C_Item.GetItemSpell(itemInfo)\"\n",
+			["stack"] = "[string \"=[C]\"]: in function `GetItemSpell'\n[string \"@Interface/AddOns/OPie/Bundle/QuestItems.lua\"]:80: in function <Interface/AddOns/OPie/Bundle/QuestItems.lua:60>\n[string \"@Interface/AddOns/OPie/Bundle/QuestItems.lua\"]:212: in function <Interface/AddOns/OPie/Bundle/QuestItems.lua:203>\n[string \"@Interface/AddOns/OPie/Bundle/QuestItems.lua\"]:251: in function <Interface/AddOns/OPie/Bundle/QuestItems.lua:250>\n[string \"=[C]\"]: ?\n[string \"@Interface/AddOns/OPie/Libs/Evie.lua\"]:37: in function <Interface/AddOns/OPie/Libs/Evie.lua:32>",
+			["session"] = 5943,
+			["counter"] = 2,
+		}, -- [31]
 	},
 }

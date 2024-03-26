@@ -1,39 +1,39 @@
 
 HandyNotes_TreasureHunterDB = {
 	["profileKeys"] = {
-		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
+		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-		["Naturerivers - Korgath"] = "Naturerivers - Korgath",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
-		["Stream - Argent Dawn"] = {
+		["Sverdrup - Argent Dawn"] = {
 		},
 		["Alluvium - Argent Dawn"] = {
 		},
-		["Wildeadoriah - The Scryers"] = {
-		},
-		["Sverdrup - Argent Dawn"] = {
-		},
-		["Cataracts - Argent Dawn"] = {
-		},
 		["Headcut - Argent Dawn"] = {
+		},
+		["Stream - Argent Dawn"] = {
+		},
+		["Flumina - Argent Dawn"] = {
+		},
+		["Naturerivers - Korgath"] = {
 		},
 		["Confluence - Argent Dawn"] = {
 		},
-		["Riparium - Argent Dawn"] = {
+		["Mangrove - Argent Dawn"] = {
 		},
 		["Lotic - Argent Dawn"] = {
 			["groupsHidden"] = {
@@ -45,7 +45,7 @@ HandyNotes_TreasureHunterDB = {
 				[10053] = true,
 			},
 		},
-		["Mangrove - Argent Dawn"] = {
+		["Riparium - Argent Dawn"] = {
 		},
 		["Benthos - Argent Dawn"] = {
 		},
@@ -53,9 +53,9 @@ HandyNotes_TreasureHunterDB = {
 		},
 		["Karst - Argent Dawn"] = {
 		},
-		["Flumina - Argent Dawn"] = {
+		["Cataracts - Argent Dawn"] = {
 		},
-		["Naturerivers - Korgath"] = {
+		["Wildeadoriah - The Scryers"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

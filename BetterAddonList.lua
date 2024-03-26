@@ -45,75 +45,9 @@ BetterAddonListDB = {
 		},
 		["!Main"] = {
 		},
-		["Details"] = {
-			"Details", -- [1]
-			"Details_Compare2", -- [2]
-			"Details_DataStorage", -- [3]
-			"Details_EncounterDetails", -- [4]
-			"Details_RaidCheck", -- [5]
-			"Details_Streamer", -- [6]
-			"Details_TinyThreat", -- [7]
-			"Details_Vanguard", -- [8]
-		},
 		["TSM"] = {
 			"TradeSkillMaster", -- [1]
 			"TradeSkillMaster_AppHelper", -- [2]
-		},
-		["!Combat"] = {
-			"DeleteManaGem", -- [1]
-			"MythicDungeonTools", -- [2]
-			"OPie", -- [3]
-			"OPie_ElvUI", -- [4]
-			"OmniCD", -- [5]
-			"OmniCD_BattleRes", -- [6]
-			"Plater", -- [7]
-			"Simulationcraft", -- [8]
-			"TalentLoadoutManager", -- [9]
-			"TalentTreeTweaks", -- [10]
-		},
-		["ElvUI"] = {
-			"AddOnSkins", -- [1]
-			"ElvUI", -- [2]
-			"ElvUI_Libraries", -- [3]
-			"ElvUI_Options", -- [4]
-			"ElvUI_SLE", -- [5]
-		},
-		["BetterBags"] = {
-			"BetterBags", -- [1]
-			"BetterBags_Archaeology", -- [2]
-			"BetterBags_AzerothianArchives", -- [3]
-			"BetterBags_BattlePetItems", -- [4]
-			"BetterBags_Dragonflight", -- [5]
-			"BetterBags_DragonflightReputationInsignia", -- [6]
-		},
-		["Macros"] = {
-			"MacroToolkit", -- [1]
-			"MacroToolkitIcons", -- [2]
-		},
-		["WeakAuras"] = {
-			"CurseBreakerCompanion", -- [1]
-			"SharedMedia_Causese", -- [2]
-			"WeakAuras", -- [3]
-			"WeakAurasArchive", -- [4]
-			"WeakAurasCompanion", -- [5]
-			"WeakAurasModelPaths", -- [6]
-			"WeakAurasOptions", -- [7]
-		},
-		["!Casual Content"] = {
-			"AngrierWorldQuests", -- [1]
-			"BattlePetBreedID", -- [2]
-			"CandyBuckets", -- [3]
-			"DialogKey", -- [4]
-			"DynamicCam", -- [5]
-			"Immersion", -- [6]
-			"InFlight", -- [7]
-			"InFlight_Load", -- [8]
-			"MinimalArchaeology", -- [9]
-			"Rematch", -- [10]
-			"TomTom", -- [11]
-			"ToyBoxEnhanced", -- [12]
-			"TwitchEmotesvKEKL", -- [13]
-			"tdBattlePetScript", -- [14]
 		},
 		["Altoholic"] = {
 			"AddonFactory", -- [1]
@@ -144,6 +78,72 @@ BetterAddonListDB = {
 			"DataStore_Stats", -- [26]
 			"DataStore_Talents", -- [27]
 		},
+		["!Casual Content"] = {
+			"AngrierWorldQuests", -- [1]
+			"BattlePetBreedID", -- [2]
+			"CandyBuckets", -- [3]
+			"DialogKey", -- [4]
+			"DynamicCam", -- [5]
+			"Immersion", -- [6]
+			"InFlight", -- [7]
+			"InFlight_Load", -- [8]
+			"MinimalArchaeology", -- [9]
+			"Rematch", -- [10]
+			"TomTom", -- [11]
+			"ToyBoxEnhanced", -- [12]
+			"TwitchEmotesvKEKL", -- [13]
+			"tdBattlePetScript", -- [14]
+		},
+		["WeakAuras"] = {
+			"CurseBreakerCompanion", -- [1]
+			"SharedMedia_Causese", -- [2]
+			"WeakAuras", -- [3]
+			"WeakAurasArchive", -- [4]
+			"WeakAurasCompanion", -- [5]
+			"WeakAurasModelPaths", -- [6]
+			"WeakAurasOptions", -- [7]
+		},
+		["BetterBags"] = {
+			"BetterBags", -- [1]
+			"BetterBags_Archaeology", -- [2]
+			"BetterBags_AzerothianArchives", -- [3]
+			"BetterBags_BattlePetItems", -- [4]
+			"BetterBags_Dragonflight", -- [5]
+			"BetterBags_DragonflightReputationInsignia", -- [6]
+		},
+		["Macros"] = {
+			"MacroToolkit", -- [1]
+			"MacroToolkitIcons", -- [2]
+		},
+		["ElvUI"] = {
+			"AddOnSkins", -- [1]
+			"ElvUI", -- [2]
+			"ElvUI_Libraries", -- [3]
+			"ElvUI_Options", -- [4]
+			"ElvUI_SLE", -- [5]
+		},
+		["!Combat"] = {
+			"DeleteManaGem", -- [1]
+			"MythicDungeonTools", -- [2]
+			"OPie", -- [3]
+			"OPie_ElvUI", -- [4]
+			"OmniCD", -- [5]
+			"OmniCD_BattleRes", -- [6]
+			"Plater", -- [7]
+			"Simulationcraft", -- [8]
+			"TalentLoadoutManager", -- [9]
+			"TalentTreeTweaks", -- [10]
+		},
+		["Details"] = {
+			"Details", -- [1]
+			"Details_Compare2", -- [2]
+			"Details_DataStorage", -- [3]
+			"Details_EncounterDetails", -- [4]
+			"Details_RaidCheck", -- [5]
+			"Details_Streamer", -- [6]
+			"Details_TinyThreat", -- [7]
+			"Details_Vanguard", -- [8]
+		},
 	},
 	["nested"] = {
 		["M+/Raiding"] = {
@@ -163,12 +163,12 @@ BetterAddonListDB = {
 			["BigWigs"] = true,
 			["Details"] = true,
 			["ElvUI"] = true,
-			["TSM"] = true,
+			["Altoholic"] = true,
 			["BetterBags"] = true,
 			["Macros"] = true,
-			["WeakAuras"] = true,
 			["!Casual Content"] = true,
-			["Altoholic"] = true,
+			["WeakAuras"] = true,
+			["TSM"] = true,
 		},
 		["!Casual Content"] = {
 			["Altoholic"] = true,
