@@ -5,8 +5,8 @@ Details_StreamerDB = {
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Naturerivers - Korgath"] = "Ailisuul - Arthas",
 		["Stream - Argent Dawn"] = "Ailisuul - Arthas",
+		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
 		["Lotic - Argent Dawn"] = "Ailisuul - Arthas",
-		["Beefyrivers - Arthas"] = "Ailisuul - Arthas",
 		["Mangrove - Argent Dawn"] = "Ailisuul - Arthas",
 		["Cataracts - Argent Dawn"] = "Ailisuul - Arthas",
 		["Mahntaiaga - Arthas"] = "Ailisuul - Arthas",
@@ -28,7 +28,7 @@ Details_StreamerDB = {
 		["Emptyrivers - Argent Dawn"] = "Ailisuul - Arthas",
 		["Karst - Argent Dawn"] = "Ailisuul - Arthas",
 		["Alandere - Argent Dawn"] = "Ailisuul - Arthas",
-		["Ailisuul - Arthas"] = "Ailisuul - Arthas",
+		["Beefyrivers - Arthas"] = "Ailisuul - Arthas",
 		["Estuary - Argent Dawn"] = "Ailisuul - Arthas",
 	},
 	["profiles"] = {
@@ -41,32 +41,29 @@ Details_StreamerDB = {
 				1, -- [3]
 				0.5, -- [4]
 			},
-			["main_frame_size"] = {
-				300, -- [1]
-				500.000030517578, -- [2]
-			},
+			["scale"] = 1,
 			["arrow_anchor_y"] = 0,
 			["minimap"] = {
 				["minimapPos"] = 303.234030123659,
 				["radius"] = 160,
 				["hide"] = false,
 			},
-			["main_frame_locked"] = false,
+			["row_height"] = 20,
 			["arrow_anchor_x"] = 0,
-			["author"] = "Details! Team",
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
 			["row_texture"] = "Details Serenity",
 			["square_grow_direction"] = "right",
-			["font_size"] = 10,
-			["row_color"] = {
-				0.1, -- [1]
-				0.1, -- [2]
-				0.1, -- [3]
-				0.4, -- [4]
-			},
+			["point"] = "CENTER",
+			["main_frame_strata"] = "LOW",
 			["square_amount"] = 5,
 			["enabled"] = false,
 			["arrow_size"] = 10,
-			["use_spark"] = true,
+			["font_size"] = 10,
 			["row_spacement"] = 21,
 			["main_frame_color"] = {
 				0, -- [1]
@@ -74,7 +71,12 @@ Details_StreamerDB = {
 				0, -- [3]
 				0.2, -- [4]
 			},
-			["main_frame_strata"] = "LOW",
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
 			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
 			["per_second"] = {
 				["enabled"] = false,
@@ -83,23 +85,21 @@ Details_StreamerDB = {
 				["font_shadow"] = true,
 				["y"] = 3.0517578125e-05,
 				["x"] = 3.0517578125e-05,
-				["attribute_type"] = 1,
-				["update_speed"] = 0.05,
 				["size"] = 32,
+				["update_speed"] = 0.05,
+				["attribute_type"] = 1,
 			},
-			["y"] = 4.57763671875e-05,
+			["use_spark"] = true,
 			["x"] = 0,
 			["font_face"] = "Friz Quadrata TT",
 			["square_size"] = 32,
-			["point"] = "CENTER",
-			["font_color"] = {
-				1, -- [1]
-				1, -- [2]
-				1, -- [3]
-				1, -- [4]
+			["y"] = 4.57763671875e-05,
+			["author"] = "Details! Team",
+			["main_frame_locked"] = false,
+			["main_frame_size"] = {
+				300, -- [1]
+				500.000030517578, -- [2]
 			},
-			["row_height"] = 20,
-			["scale"] = 1,
 		},
 		["Sverdrup - Argent Dawn"] = {
 			["use_square_mode"] = false,

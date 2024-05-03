@@ -10,20 +10,20 @@ DataStore_AgendaDB = {
 		["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2024-03-26",
+			["NextWeeklyReset"] = "2024-05-07",
 		},
 		["Characters"] = {
 			["Default.The Scryers.Wildeadoriah"] = {
@@ -33,38 +33,65 @@ DataStore_AgendaDB = {
 				["lastUpdate"] = 1710386408,
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["Calendar"] = {
-					"2024-03-27|20:30|WWPC|0|7", -- [1]
-					"2024-03-29|21:30|WWPC|0|7", -- [2]
+				["lastUpdate"] = 1714716533,
+				["DungeonIDs"] = {
+					["Aberrus, the Shadowed Crucible Normal|838157730"] = "377476|1714716529|0|1",
+					["Aberrus, the Shadowed Crucible Heroic|838161499"] = "377476|1714716529|0|1",
+					["Aberrus, the Shadowed Crucible Looking For Raid|1360159320"] = "377476|1714716529|0|1",
 				},
-				["lastUpdate"] = 1710907624,
+				["LFGDungeons"] = {
+					["2709.Count"] = 1,
+					["2704.Count"] = 3,
+					["2404.Count"] = 6,
+					["2403.Kazzara, the Hellforged"] = true,
+					["2403.Assault of the Zaqali"] = true,
+					["2403.The Forgotten Experiments"] = true,
+					["2709.Scalecommander Sarkareth"] = true,
+					["2704.The Forgotten Experiments"] = true,
+					["2404.Kazzara, the Hellforged"] = true,
+					["2404.The Amalgamation Chamber"] = true,
+					["2704.Kazzara, the Hellforged"] = true,
+					["2708.Magmorax"] = true,
+					["2708.Echo of Neltharion"] = true,
+					["2403.Scalecommander Sarkareth"] = true,
+					["2404.Rashok, the Elder"] = true,
+					["2707.The Vigilant Steward, Zskarn"] = true,
+					["2403.Count"] = 9,
+					["2403.Magmorax"] = true,
+					["2707.Rashok, the Elder"] = true,
+					["2708.Count"] = 2,
+					["2404.Assault of the Zaqali"] = true,
+					["2704.The Amalgamation Chamber"] = true,
+					["2403.The Amalgamation Chamber"] = true,
+					["2403.The Vigilant Steward, Zskarn"] = true,
+					["2707.Count"] = 3,
+					["2403.Echo of Neltharion"] = true,
+					["2707.Assault of the Zaqali"] = true,
+					["2404.The Forgotten Experiments"] = true,
+					["2403.Rashok, the Elder"] = true,
+					["2404.The Vigilant Steward, Zskarn"] = true,
+				},
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["Calendar"] = {
-					"2024-03-27|20:30|WWPC|0|7", -- [1]
-					"2024-03-29|21:30|WWPC|0|7", -- [2]
-					"2024-04-03|20:30|WWPC|0|7", -- [3]
-					"2024-04-05|21:30|WWPC|0|7", -- [4]
-				},
 				["lastUpdate"] = 1710543938,
 			},
-			["Default.Argent Dawn.Confluence"] = {
-				["lastUpdate"] = 1710304870,
-			},
-			["Default.Argent Dawn.Flumina"] = {
-				["lastUpdate"] = 1710906955,
+			["Default.Argent Dawn.Karst"] = {
+				["lastUpdate"] = 1714716326,
 			},
 			["Default.Argent Dawn.Benthos"] = {
 				["lastUpdate"] = 1710305272,
 			},
-			["Default.Korgath.Naturerivers"] = {
-				["lastUpdate"] = 1704737966,
-			},
 			["Default.Argent Dawn.Stream"] = {
 				["lastUpdate"] = 1711414341,
 			},
+			["Default.Korgath.Naturerivers"] = {
+				["lastUpdate"] = 1704737966,
+			},
+			["Default.Argent Dawn.Flumina"] = {
+				["lastUpdate"] = 1710906955,
+			},
 			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1710304548,
+				["lastUpdate"] = 1713334076,
 			},
 			["Default.Argent Dawn.Cataracts"] = {
 				["lastUpdate"] = 1710711308,
@@ -78,8 +105,8 @@ DataStore_AgendaDB = {
 			["Default.Argent Dawn.Mangrove"] = {
 				["lastUpdate"] = 1710304417,
 			},
-			["Default.Argent Dawn.Karst"] = {
-				["lastUpdate"] = 1710304964,
+			["Default.Argent Dawn.Confluence"] = {
+				["lastUpdate"] = 1710304870,
 			},
 		},
 	},

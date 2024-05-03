@@ -1,19 +1,22 @@
 
 WarpDepleteDB = {
+	["global"] = {
+		["mdtAlertShown"] = true,
+	},
 	["profileKeys"] = {
 		["Alluvium - Argent Dawn"] = "Default",
 		["Sverdrup - Argent Dawn"] = "Default",
 		["Stream - Argent Dawn"] = "Default",
 		["Headcut - Argent Dawn"] = "Default",
 		["Confluence - Argent Dawn"] = "Default",
-		["Riparium - Argent Dawn"] = "Default",
-		["Flumina - Argent Dawn"] = "Default",
 		["Mangrove - Argent Dawn"] = "Default",
+		["Cataracts - Argent Dawn"] = "Default",
+		["Wildeadoriah - The Scryers"] = "Default",
 		["Benthos - Argent Dawn"] = "Default",
 		["Emptyrivers - Argent Dawn"] = "Default",
 		["Karst - Argent Dawn"] = "Default",
-		["Cataracts - Argent Dawn"] = "Default",
-		["Wildeadoriah - The Scryers"] = "Default",
+		["Flumina - Argent Dawn"] = "Default",
+		["Riparium - Argent Dawn"] = "Default",
 		["Estuary - Argent Dawn"] = "Default",
 	},
 	["profiles"] = {

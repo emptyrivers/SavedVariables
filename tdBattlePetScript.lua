@@ -38,14 +38,14 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Feralrivers - Sargeras"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
+		["Crazyrivers - Arthas"] = "Default",
 		["Cataracts - Argent Dawn"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
 		["Mahntaiaga - Arthas"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Eysta - Sargeras"] = "Default",
-		["Crazyrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Emptyrivers - Bleeding Hollow"] = "Default",
 		["Evilrivers - Sargeras"] = "Default",
 		["Kdajshtlaiuw - Bleeding Hollow"] = "Default",
@@ -60,7 +60,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 		["Estuary - Argent Dawn"] = "Default",
 	},
 	["global"] = {
-		["version"] = "v1.10",
+		["version"] = "v1.10.1",
 		["scripts"] = {
 			["FirstEnemy"] = {
 			},

@@ -55,8 +55,8 @@ DynamicCamDB = {
 		["Beefyrivers - Bleeding Hollow"] = "Default",
 		["Emptyrivers - Arthas"] = "Default",
 		["Serenerivers - Sargeras"] = "Default",
+		["Ragingrivers - Arthas"] = "Default",
 		["Crazyrivers - Arthas"] = "Default",
-		["Emptyrivers - Sargeras"] = "Default",
 		["Mecharivers - Sargeras"] = "Default",
 		["Eysta - Sargeras"] = "Default",
 		["Wildeadoriah - The Scryers"] = "Default",
@@ -66,7 +66,7 @@ DynamicCamDB = {
 		["Evilrivers - Kel'Thuzad"] = "Default",
 		["Edgyrivers - Kel'Thuzad"] = "Serenerivers - Arthas",
 		["Riparium - Argent Dawn"] = "Default",
-		["Ragingrivers - Arthas"] = "Default",
+		["Emptyrivers - Sargeras"] = "Default",
 		["Boringrivers - Bleeding Hollow"] = "Default",
 		["Beefyrivers - Arthas"] = "Default",
 		["Tinyrivers - Sargeras"] = "Default",
@@ -114,14 +114,14 @@ DynamicCamDB = {
 							["test_cameraDynamicPitch"] = 0,
 						},
 					},
-					["name"] = "World (Combat)",
-					["condition"] = "return not IsInInstance() and UnitAffectingCombat(\"player\");",
 					["viewZoom"] = {
 						["viewZoomType"] = "view",
 						["viewRestore"] = false,
 						["viewNumber"] = 5,
 						["enabled"] = true,
 					},
+					["name"] = "World (Combat)",
+					["condition"] = "return not IsInInstance() and UnitAffectingCombat(\"player\");",
 				},
 				["302"] = {
 					["situationSettings"] = {
@@ -129,8 +129,6 @@ DynamicCamDB = {
 							["test_cameraDynamicPitch"] = 1,
 						},
 					},
-					["delay"] = 2,
-					["condition"] = "return (UnitChannelInfo(\"player\") == GetSpellInfo(7620))",
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomMax"] = 20,
@@ -138,11 +136,14 @@ DynamicCamDB = {
 						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 7,
 					},
+					["delay"] = 2,
+					["condition"] = "return (UnitChannelInfo(\"player\") == GetSpellInfo(7620))",
 				},
 				["060"] = {
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"pvp\");",
 				},
 				["002"] = {
+					["name"] = "City (Indoors)",
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "in",
@@ -152,28 +153,16 @@ DynamicCamDB = {
 						["zoomValue"] = 8,
 					},
 					["condition"] = "return IsResting() and IsIndoors();",
-					["name"] = "City (Indoors)",
 				},
-				["101"] = {
+				["034"] = {
+					["enabled"] = true,
 					["situationSettings"] = {
 						["cvars"] = {
-							["test_cameraHeadMovementStrength"] = 0,
-							["test_cameraOverShoulder"] = -1,
+							["test_cameraDynamicPitch"] = 0,
 						},
 					},
-					["condition"] = "return UnitOnTaxi(\"player\");",
-					["viewZoom"] = {
-						["enabled"] = true,
-						["zoomMax"] = 20,
-						["zoomTransitionTime"] = 0.75,
-						["zoomTimeIsMax"] = true,
-						["zoomValue"] = 15,
-					},
-					["hideUI"] = {
-						["enabled"] = true,
-						["hideEntireUI"] = true,
-						["fadeOpacity"] = 0,
-					},
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
+					["name"] = "Raid (Combat, Trash)",
 				},
 				["030"] = {
 					["enabled"] = true,
@@ -214,6 +203,12 @@ DynamicCamDB = {
 					},
 				},
 				["301"] = {
+					["events"] = {
+						"MAIL_CLOSED", -- [1]
+						"MAIL_SHOW", -- [2]
+						"GOSSIP_CLOSED", -- [3]
+					},
+					["priority"] = 20,
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "in",
@@ -222,15 +217,10 @@ DynamicCamDB = {
 						["zoomTimeIsMax"] = true,
 						["zoomValue"] = 4,
 					},
-					["priority"] = 20,
 					["condition"] = "return (MailFrame and MailFrame:IsShown())",
-					["events"] = {
-						"MAIL_CLOSED", -- [1]
-						"MAIL_SHOW", -- [2]
-						"GOSSIP_CLOSED", -- [3]
-					},
 				},
 				["005"] = {
+					["name"] = "World (Indoors)",
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "in",
@@ -239,17 +229,27 @@ DynamicCamDB = {
 						["zoomTimeIsMax"] = true,
 					},
 					["condition"] = "return not IsResting() and not IsInInstance() and IsIndoors();",
-					["name"] = "World (Indoors)",
 				},
-				["031"] = {
-					["enabled"] = true,
+				["101"] = {
 					["situationSettings"] = {
 						["cvars"] = {
-							["test_cameraDynamicPitch"] = 0,
+							["test_cameraHeadMovementStrength"] = 0,
+							["test_cameraOverShoulder"] = -1,
 						},
 					},
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
-					["name"] = "Raid (Outdoors)",
+					["condition"] = "return UnitOnTaxi(\"player\");",
+					["viewZoom"] = {
+						["enabled"] = true,
+						["zoomMax"] = 20,
+						["zoomTransitionTime"] = 0.75,
+						["zoomTimeIsMax"] = true,
+						["zoomValue"] = 15,
+					},
+					["hideUI"] = {
+						["enabled"] = true,
+						["hideEntireUI"] = true,
+						["fadeOpacity"] = 0,
+					},
 				},
 				["201"] = {
 					["enabled"] = true,
@@ -386,6 +386,10 @@ DynamicCamDB = {
 							["test_cameraOverShoulder"] = 0,
 						},
 					},
+					["events"] = {
+						"SPELL_UPDATE_USABLE", -- [1]
+						"UNIT_AURA", -- [2]
+					},
 					["viewZoom"] = {
 						["enabled"] = true,
 						["zoomType"] = "out",
@@ -395,10 +399,6 @@ DynamicCamDB = {
 						["zoomValue"] = 30,
 					},
 					["condition"] = "return IsMounted();",
-					["events"] = {
-						"SPELL_UPDATE_USABLE", -- [1]
-						"UNIT_AURA", -- [2]
-					},
 				},
 				["021"] = {
 					["enabled"] = true,
@@ -410,15 +410,15 @@ DynamicCamDB = {
 					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and IsOutdoors();",
 					["name"] = "Dungeon (Outdoors)",
 				},
-				["034"] = {
+				["031"] = {
 					["enabled"] = true,
 					["situationSettings"] = {
 						["cvars"] = {
 							["test_cameraDynamicPitch"] = 0,
 						},
 					},
-					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
-					["name"] = "Raid (Combat, Trash)",
+					["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
+					["name"] = "Raid (Outdoors)",
 				},
 			},
 			["defaultVersion"] = 1,

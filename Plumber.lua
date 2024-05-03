@@ -32,7 +32,7 @@ PlumberDB = {
 	["BackpackItemTracker"] = false,
 	["TalkingHead_InstantText"] = false,
 	["TooltipShowExtraInfoCrest"] = false,
-	["TalkingHead_PositionY"] = 469,
+	["TalkingHead_PositionY"] = 468,
 	["Navigator_MasterSwitch"] = true,
 	["ConciseTokenTooltip"] = true,
 }

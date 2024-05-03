@@ -1,17 +1,17 @@
 
 HandyNotes_DragonflightTreasuresDB = {
 	["char"] = {
-		["Riparium - Argent Dawn"] = {
-			["hidden"] = {
-				[2112] = {
-					[62815726] = true,
-				},
-			},
-		},
 		["Emptyrivers - Argent Dawn"] = {
 			["hidden"] = {
 				[2023] = {
 					[41546227] = true,
+				},
+			},
+		},
+		["Riparium - Argent Dawn"] = {
+			["hidden"] = {
+				[2112] = {
+					[62815726] = true,
 				},
 			},
 		},
@@ -45,9 +45,9 @@ HandyNotes_DragonflightTreasuresDB = {
 	["profiles"] = {
 		["Stream - Argent Dawn"] = {
 			["groupsHidden"] = {
+				["glyphs"] = true,
 				["races"] = true,
 				["magicbound"] = true,
-				["glyphs"] = true,
 			},
 			["achievementsHidden"] = {
 				[16576] = true,
@@ -126,15 +126,15 @@ HandyNotes_DragonflightTreasuresDB = {
 				[18150] = true,
 				[16638] = true,
 				[16576] = true,
-				[16634] = true,
+				[16424] = true,
 				[16584] = true,
 				[16678] = true,
 				[16323] = true,
 				[15890] = true,
 				[16301] = true,
-				[16574] = true,
+				[16634] = true,
 				[16578] = true,
-				[16424] = true,
+				[16574] = true,
 				[16577] = true,
 			},
 		},
@@ -143,12 +143,11 @@ HandyNotes_DragonflightTreasuresDB = {
 		["Riparium - Argent Dawn"] = {
 			["groupsHidden"] = {
 				["glyphs"] = true,
+				["professionknowledge"] = false,
 				["races"] = true,
 				["hunts"] = false,
-				["professionknowledge"] = false,
 				["magicbound"] = true,
 			},
-			["show_npcs_onlynotable"] = true,
 			["achievementsHidden"] = {
 				[16424] = true,
 				[16676] = true,
@@ -169,6 +168,7 @@ HandyNotes_DragonflightTreasuresDB = {
 				[19306] = true,
 				[16576] = true,
 			},
+			["show_npcs_onlynotable"] = true,
 		},
 		["Emptyrivers - Arthas"] = {
 		},
@@ -252,16 +252,16 @@ HandyNotes_DragonflightTreasuresDB = {
 				[19306] = true,
 				[16323] = true,
 				[19316] = true,
-				[17411] = true,
+				[16574] = true,
 				[19317] = true,
-				[15890] = true,
+				[17411] = true,
 				[16301] = true,
 				[16575] = true,
 				[16638] = true,
 				[16576] = true,
 				[16406] = false,
 				[16577] = true,
-				[16574] = true,
+				[15890] = true,
 				[16578] = true,
 				[16677] = true,
 			},
