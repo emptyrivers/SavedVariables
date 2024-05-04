@@ -11,89 +11,99 @@ DataStore_AgendaDB = {
 		["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 		["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 		["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-		["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+		["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["global"] = {
 		["Options"] = {
 			["WeeklyResetHour"] = 6,
 			["WeeklyResetDay"] = 2,
-			["NextWeeklyReset"] = "2024-03-19",
+			["NextWeeklyReset"] = "2024-05-07",
 		},
 		["Characters"] = {
 			["Default.The Scryers.Wildeadoriah"] = {
 				["lastUpdate"] = 1709678935,
 			},
 			["Default.Argent Dawn.Headcut"] = {
-				["DungeonIDs"] = {
-					["Amirdrassil, the Dream's Hope Heroic|836239628"] = "473992|1710386408|0|1",
-				},
-				["lastUpdate"] = 1710386408,
-				["LFGDungeons"] = {
-					["2503.Smolderon"] = true,
-					["2503.Volcoross"] = true,
-					["2503.Council of Dreams"] = true,
-					["2503.Tindral Sageswift, Seer of the Flame"] = true,
-					["2503.Larodar, Keeper of the Flame"] = true,
-					["2503.Nymue, Weaver of the Cycle"] = true,
-					["2503.Count"] = 7,
-					["2503.Fyrakk the Blazing"] = true,
-				},
+				["lastUpdate"] = 1712199179,
 			},
 			["Default.Argent Dawn.Riparium"] = {
-				["Calendar"] = {
-					"2024-03-20|20:30|WWPC|0|7", -- [1]
-					"2024-03-22|21:30|WWPC|0|7", -- [2]
-					"2024-03-27|20:30|WWPC|0|7", -- [3]
-					"2024-03-29|21:30|WWPC|0|7", -- [4]
+				["DungeonIDs"] = {
+					["Aberrus, the Shadowed Crucible Normal|838157730"] = "312847|1714781153|0|1",
+					["Aberrus, the Shadowed Crucible Heroic|838161499"] = "312847|1714781153|0|1",
+					["Aberrus, the Shadowed Crucible Looking For Raid|1360159320"] = "312847|1714781153|0|1",
 				},
-				["lastUpdate"] = 1710544239,
+				["lastUpdate"] = 1714781153,
+				["LFGDungeons"] = {
+					["2404.Rashok, the Elder"] = true,
+					["2704.Count"] = 3,
+					["2404.Count"] = 6,
+					["2403.Kazzara, the Hellforged"] = true,
+					["2403.Assault of the Zaqali"] = true,
+					["2403.The Forgotten Experiments"] = true,
+					["2404.The Vigilant Steward, Zskarn"] = true,
+					["2404.Kazzara, the Hellforged"] = true,
+					["2404.The Amalgamation Chamber"] = true,
+					["2708.Magmorax"] = true,
+					["2708.Echo of Neltharion"] = true,
+					["2709.Count"] = 1,
+					["2403.Scalecommander Sarkareth"] = true,
+					["2704.Kazzara, the Hellforged"] = true,
+					["2707.The Vigilant Steward, Zskarn"] = true,
+					["2403.Echo of Neltharion"] = true,
+					["2403.Magmorax"] = true,
+					["2403.Count"] = 9,
+					["2708.Count"] = 2,
+					["2404.Assault of the Zaqali"] = true,
+					["2403.The Vigilant Steward, Zskarn"] = true,
+					["2403.The Amalgamation Chamber"] = true,
+					["2704.The Forgotten Experiments"] = true,
+					["2707.Count"] = 3,
+					["2704.The Amalgamation Chamber"] = true,
+					["2707.Rashok, the Elder"] = true,
+					["2707.Assault of the Zaqali"] = true,
+					["2404.The Forgotten Experiments"] = true,
+					["2403.Rashok, the Elder"] = true,
+					["2709.Scalecommander Sarkareth"] = true,
+				},
 			},
 			["Default.Argent Dawn.Emptyrivers"] = {
-				["Calendar"] = {
-					"2024-03-20|20:30|WWPC|0|7", -- [1]
-					"2024-03-22|21:30|WWPC|0|7", -- [2]
-					"2024-03-27|20:30|WWPC|0|7", -- [3]
-					"2024-03-29|21:30|WWPC|0|7", -- [4]
-					"2024-04-03|20:30|WWPC|0|7", -- [5]
-					"2024-04-05|21:30|WWPC|0|7", -- [6]
-				},
-				["lastUpdate"] = 1710543938,
+				["lastUpdate"] = 1714104220,
 			},
 			["Default.Argent Dawn.Karst"] = {
 				["lastUpdate"] = 1710304964,
 			},
-			["Default.Argent Dawn.Stream"] = {
-				["lastUpdate"] = 1710304795,
+			["Default.Argent Dawn.Benthos"] = {
+				["lastUpdate"] = 1714604443,
 			},
-			["Default.Argent Dawn.Flumina"] = {
-				["lastUpdate"] = 1710562106,
+			["Default.Argent Dawn.Stream"] = {
+				["lastUpdate"] = 1714089649,
 			},
 			["Default.Korgath.Naturerivers"] = {
 				["lastUpdate"] = 1704737966,
 			},
-			["Default.Argent Dawn.Benthos"] = {
-				["lastUpdate"] = 1710305272,
+			["Default.Argent Dawn.Flumina"] = {
+				["lastUpdate"] = 1711232494,
 			},
 			["Default.Argent Dawn.Alluvium"] = {
-				["lastUpdate"] = 1710304548,
+				["lastUpdate"] = 1711948945,
 			},
 			["Default.Argent Dawn.Cataracts"] = {
-				["lastUpdate"] = 1710711308,
+				["lastUpdate"] = 1710793225,
 			},
 			["Default.Argent Dawn.Sverdrup"] = {
-				["lastUpdate"] = 1710299537,
+				["lastUpdate"] = 1714351121,
 			},
 			["Default.Argent Dawn.Estuary"] = {
-				["lastUpdate"] = 1710299696,
+				["lastUpdate"] = 1711947552,
 			},
 			["Default.Argent Dawn.Mangrove"] = {
-				["lastUpdate"] = 1710304417,
+				["lastUpdate"] = 1713737217,
 			},
 			["Default.Argent Dawn.Confluence"] = {
 				["lastUpdate"] = 1710304870,

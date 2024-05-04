@@ -2,7 +2,7 @@
 MinimapButtonButtonOptions = {
 	["direction"] = "leftdown",
 	["scale"] = 1,
-	["buttonsShown"] = true,
+	["buttonsShown"] = false,
 	["buttonScale"] = 1,
 	["blacklist"] = {
 	},
@@ -11,8 +11,8 @@ MinimapButtonButtonOptions = {
 		"TOPRIGHT", -- [1]
 		nil, -- [2]
 		"TOPRIGHT", -- [3]
-		-227.5228424072266, -- [4]
-		-6.857060432434082, -- [5]
+		-231.9898834228516, -- [4]
+		-10.59651851654053, -- [5]
 	},
 	["buttonsPerRow"] = 10,
 	["hidecompartment"] = false,

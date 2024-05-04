@@ -8,68 +8,6 @@ NarciBarberShopDB = {
 		["ZoomIn"] = "W",
 	},
 	["PlayerData"] = {
-		["0EE580BC"] = {
-			["playerName"] = "Emptyrivers",
-			["realmID"] = "75",
-			["SavedLooks"] = {
-				["chrModel129"] = {
-				},
-				[7] = {
-					["male"] = {
-					},
-					["female"] = {
-					},
-				},
-				["chrModel126"] = {
-				},
-				["chrModel124"] = {
-				},
-				["chrModel123"] = {
-				},
-			},
-			["realmName"] = "Argent Dawn",
-		},
-		["0EEA1695"] = {
-			["playerName"] = "Riparium",
-			["realmID"] = "75",
-			["SavedLooks"] = {
-				["chrModel183"] = {
-				},
-				["chrModel149"] = {
-				},
-				["chrModel129"] = {
-				},
-				["chrModel184"] = {
-				},
-				[29] = {
-					["male"] = {
-					},
-					["female"] = {
-					},
-				},
-				["chrModel180"] = {
-				},
-				["chrModel182"] = {
-				},
-				["chrModel181"] = {
-				},
-				["chrModel123"] = {
-				},
-				["chrModel126"] = {
-				},
-				["chrModel176"] = {
-				},
-				["chrModel188"] = {
-				},
-				["chrModel125"] = {
-				},
-				["chrModel124"] = {
-				},
-				["chrModel148"] = {
-				},
-			},
-			["realmName"] = "Argent Dawn",
-		},
 		["0EE8A760"] = {
 			["playerName"] = "Estuary",
 			["realmID"] = "75",
@@ -123,6 +61,92 @@ NarciBarberShopDB = {
 			},
 			["realmName"] = "Argent Dawn",
 		},
+		["0EEA1695"] = {
+			["playerName"] = "Riparium",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				["chrModel182"] = {
+				},
+				["chrModel149"] = {
+				},
+				["chrModel129"] = {
+				},
+				["chrModel184"] = {
+				},
+				[29] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["chrModel148"] = {
+				},
+				["chrModel183"] = {
+				},
+				["chrModel181"] = {
+				},
+				["chrModel123"] = {
+				},
+				["chrModel126"] = {
+				},
+				["chrModel176"] = {
+				},
+				["chrModel188"] = {
+				},
+				["chrModel125"] = {
+				},
+				["chrModel124"] = {
+				},
+				["chrModel180"] = {
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+		["0EEA10F9"] = {
+			["playerName"] = "Headcut",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[24] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["chrModel124"] = {
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+		["0F3C82E0"] = {
+			["playerName"] = "Stream",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[35] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["chrModel124"] = {
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
+		["0F471196"] = {
+			["playerName"] = "Cataracts",
+			["realmID"] = "75",
+			["SavedLooks"] = {
+				[10] = {
+					["male"] = {
+					},
+					["female"] = {
+					},
+				},
+				["chrModel124"] = {
+				},
+			},
+			["realmName"] = "Argent Dawn",
+		},
 		["0EEA107B"] = {
 			["playerName"] = "Sverdrup",
 			["realmID"] = "75",
@@ -135,6 +159,7 @@ NarciBarberShopDB = {
 				},
 				["chrModel124"] = {
 					{
+						["name"] = "New Look #1",
 						["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 						["data"] = {
 							{
@@ -214,24 +239,29 @@ NarciBarberShopDB = {
 								20009, -- [2]
 							}, -- [19]
 						},
-						["name"] = "New Look #1",
 						["timeCreated"] = 1672083038,
 					}, -- [1]
 				},
 			},
 			["realmName"] = "Argent Dawn",
 		},
-		["0EEA10F9"] = {
-			["playerName"] = "Headcut",
+		["0EE580BC"] = {
+			["playerName"] = "Emptyrivers",
 			["realmID"] = "75",
 			["SavedLooks"] = {
-				[24] = {
+				["chrModel129"] = {
+				},
+				[7] = {
 					["male"] = {
 					},
 					["female"] = {
 					},
 				},
+				["chrModel126"] = {
+				},
 				["chrModel124"] = {
+				},
+				["chrModel123"] = {
 				},
 			},
 			["realmName"] = "Argent Dawn",

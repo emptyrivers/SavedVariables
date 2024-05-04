@@ -7,8 +7,8 @@ SimulationCraftDB = {
 		["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 		["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 		["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
+		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 		["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 		["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 		["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
@@ -25,7 +25,7 @@ SimulationCraftDB = {
 		["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 		["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 		["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-		["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+		["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 		["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 	},
 	["profiles"] = {
@@ -41,9 +41,13 @@ SimulationCraftDB = {
 		},
 		["Lotic - Argent Dawn"] = {
 		},
-		["Cataracts - Argent Dawn"] = {
+		["Flumina - Argent Dawn"] = {
+			["frame"] = {
+				["ofsx"] = 246.85693359375,
+				["ofsy"] = 21.33332633972168,
+			},
 		},
-		["Ochrian - Argent Dawn"] = {
+		["Cataracts - Argent Dawn"] = {
 		},
 		["Stream - Argent Dawn"] = {
 		},
@@ -90,11 +94,7 @@ SimulationCraftDB = {
 		},
 		["Alandere - Argent Dawn"] = {
 		},
-		["Flumina - Argent Dawn"] = {
-			["frame"] = {
-				["ofsx"] = 246.85693359375,
-				["ofsy"] = 21.33332633972168,
-			},
+		["Ochrian - Argent Dawn"] = {
 		},
 		["Estuary - Argent Dawn"] = {
 		},

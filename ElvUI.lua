@@ -598,84 +598,65 @@ ElvDB = {
 						nil, -- [1]
 						nil, -- [2]
 						nil, -- [3]
-						{
-							nil, -- [1]
-							nil, -- [2]
-							nil, -- [3]
-							true, -- [4]
-						}, -- [4]
+						nil, -- [4]
 						nil, -- [5]
 						nil, -- [6]
 						nil, -- [7]
-						{
-							nil, -- [1]
-							nil, -- [2]
-							nil, -- [3]
-							true, -- [4]
-						}, -- [8]
+						nil, -- [8]
 						nil, -- [9]
+						nil, -- [10]
+						nil, -- [11]
 						{
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [10]
-						nil, -- [11]
-						nil, -- [12]
+						}, -- [12]
 						nil, -- [13]
 						nil, -- [14]
 						nil, -- [15]
-						{
-							nil, -- [1]
-							nil, -- [2]
-							nil, -- [3]
-							true, -- [4]
-						}, -- [16]
+						nil, -- [16]
 						nil, -- [17]
+						nil, -- [18]
 						{
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [18]
-						nil, -- [19]
+						}, -- [19]
+						nil, -- [20]
 						{
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [20]
-						nil, -- [21]
+						}, -- [21]
+						nil, -- [22]
 						{
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						}, -- [22]
-						[28] = {
+						}, -- [23]
+						nil, -- [24]
+						nil, -- [25]
+						nil, -- [26]
+						nil, -- [27]
+						nil, -- [28]
+						{
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						},
-						[31] = {
+						}, -- [29]
+						nil, -- [30]
+						nil, -- [31]
+						{
 							nil, -- [1]
 							nil, -- [2]
 							nil, -- [3]
 							true, -- [4]
-						},
-						[35] = {
-							nil, -- [1]
-							nil, -- [2]
-							nil, -- [3]
-							true, -- [4]
-						},
-						[33] = {
-							nil, -- [1]
-							nil, -- [2]
-							nil, -- [3]
-							true, -- [4]
-						},
+						}, -- [32]
 					},
 				},
 				["Friends"] = {
@@ -818,8 +799,14 @@ ElvDB = {
 					"heal", -- [4]
 					["enabled"] = true,
 				},
-				["Serenerivers - Sargeras"] = {
-					"Default", -- [1]
+				["Serenerivers - Korgath"] = {
+					"Brewmaster Monk", -- [1]
+					"Mistweaver Monk", -- [2]
+					"Windwalker Monk", -- [3]
+					["enabled"] = true,
+				},
+				["Crazyrivers - Arthas"] = {
+					"heal", -- [1]
 					"heal", -- [2]
 					"dps", -- [3]
 					["enabled"] = true,
@@ -833,9 +820,6 @@ ElvDB = {
 				["Beefyrivers - Arthas"] = {
 					["enabled"] = false,
 				},
-				["Headcut - Argent Dawn"] = {
-					["enabled"] = false,
-				},
 				["Emptyrivers - Arthas"] = {
 					["enabled"] = false,
 				},
@@ -845,16 +829,13 @@ ElvDB = {
 				["Tinyrivers - Sargeras"] = {
 					["enabled"] = false,
 				},
-				["Crazyrivers - Arthas"] = {
-					"heal", -- [1]
+				["Headcut - Argent Dawn"] = {
+					["enabled"] = false,
+				},
+				["Serenerivers - Sargeras"] = {
+					"Default", -- [1]
 					"heal", -- [2]
 					"dps", -- [3]
-					["enabled"] = true,
-				},
-				["Serenerivers - Korgath"] = {
-					"Brewmaster Monk", -- [1]
-					"Mistweaver Monk", -- [2]
-					"Windwalker Monk", -- [3]
 					["enabled"] = true,
 				},
 			},
@@ -6595,7 +6576,7 @@ ElvDB = {
 				["fadeChatToggles"] = false,
 				["hideVoiceButtons"] = true,
 			},
-			["dbConverted"] = 13.55,
+			["dbConverted"] = 13.61,
 			["layoutSet"] = "dpsMelee",
 			["thinBorderColorSet"] = true,
 			["bagSortIgnoreItemsReset"] = true,
@@ -6613,7 +6594,7 @@ ElvDB = {
 				["PowerBarContainerMover"] = "TOP,UIParent,TOP,0,-522",
 				["ElvUF_PetCastbarMover"] = "BOTTOM,ElvUIParent,BOTTOM,-292,29",
 				["VehicleSeatMover"] = "TOPRIGHT,UIParent,TOPRIGHT,-513,-60",
-				["BossBannerMover"] = "TOP,UIParent,TOP,0,-34",
+				["BossBannerMover"] = "TOP,UIParent,TOP,0,-107",
 				["ElvUIBankMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,0,40",
 				["LossControlMover"] = "BOTTOM,ElvUIParent,BOTTOM,0,437",
 				["TorghastChoiceToggle"] = "TOP,UIParent,TOP,0,-464",
@@ -6630,7 +6611,7 @@ ElvDB = {
 				["ElvUF_PlayerMover"] = "BOTTOM,ElvUIParent,BOTTOM,-317,165",
 				["RightChatMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-4,4",
 				["ElvUF_AssistMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,628",
-				["TopCenterContainerMover"] = "TOP,UIParent,TOP,0,-187",
+				["TopCenterContainerMover"] = "TOP,UIParent,TOP,0,-181",
 				["ThreatBarMover"] = "BOTTOM,UIParent,BOTTOM,0,280",
 				["PetAB"] = "BOTTOM,ElvUIParent,BOTTOM,-317,98",
 				["LeftChatMover"] = "BOTTOMLEFT,UIParent,BOTTOMLEFT,4,4",
@@ -6648,7 +6629,7 @@ ElvDB = {
 				["ElvAB_1"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,555,4",
 				["ElvAB_2"] = "BOTTOM,ElvUIParent,BOTTOM,317,4",
 				["BelowMinimapContainerMover"] = "TOPRIGHT,UIParent,TOPRIGHT,-4,-253",
-				["EventToastMover"] = "TOP,UIParent,TOP,0,-35",
+				["EventToastMover"] = "TOP,UIParent,TOP,0,-41",
 				["MirrorTimer2Mover"] = "TOP,UIParent,TOP,0,-31",
 				["ElvUIBagMover"] = "BOTTOMRIGHT,UIParent,BOTTOMRIGHT,-4,323",
 				["ArtifactBarMover"] = "TOP,ElvUIParent,TOP,0,1",
@@ -21392,19 +21373,19 @@ ElvDB = {
 			["Emptyrivers"] = 70950762,
 		},
 		["Argent Dawn"] = {
-			["Sverdrup"] = 61482332,
+			["Sverdrup"] = 61721432,
 			["Flumina"] = 807556102,
-			["Benthos"] = 54405966,
+			["Benthos"] = 78533426,
 			["Karst"] = 52855343,
-			["Mangrove"] = 26641310,
+			["Mangrove"] = 27969252,
 			["Confluence"] = 158719818,
-			["Stream"] = 88324298,
-			["Riparium"] = 1972592098,
-			["Headcut"] = 346414107,
-			["Estuary"] = 169093785,
-			["Cataracts"] = 72816672,
-			["Alluvium"] = 267564859,
-			["Emptyrivers"] = 366003579,
+			["Stream"] = 129363793,
+			["Riparium"] = 1811191847,
+			["Headcut"] = 337594844,
+			["Estuary"] = 173090340,
+			["Cataracts"] = 150723669,
+			["Alluvium"] = 267911755,
+			["Emptyrivers"] = 367528213,
 		},
 	},
 	["DisabledAddOns"] = {
@@ -21851,6 +21832,11 @@ ElvPrivateDB = {
 			},
 		},
 		["Emptyrivers - Argent Dawn"] = {
+			["general"] = {
+				["minimap"] = {
+					["hideTracking"] = true,
+				},
+			},
 			["sle"] = {
 				["pvpreadydialogreset"] = true,
 				["characterGoldsSorting"] = {
@@ -21859,19 +21845,14 @@ ElvPrivateDB = {
 				},
 				["install_complete"] = "4.57",
 			},
-			["general"] = {
-				["minimap"] = {
-					["hideTracking"] = true,
-				},
-			},
-			["skins"] = {
-				["parchmentRemoverEnable"] = true,
+			["nameplates"] = {
+				["enable"] = false,
 			},
 			["bags"] = {
 				["enable"] = false,
 			},
-			["nameplates"] = {
-				["enable"] = false,
+			["skins"] = {
+				["parchmentRemoverEnable"] = true,
 			},
 			["install_complete"] = 13.1,
 		},
@@ -21898,12 +21879,10 @@ ElvPrivateDB = {
 			["install_complete"] = "10.14",
 		},
 		["Estuary - Argent Dawn"] = {
-			["sle"] = {
-				["characterGoldsSorting"] = {
-					["Argent Dawn"] = {
-					},
+			["general"] = {
+				["minimap"] = {
+					["hideTracking"] = true,
 				},
-				["install_complete"] = "4.57",
 			},
 			["nameplates"] = {
 				["enable"] = false,
@@ -21911,10 +21890,12 @@ ElvPrivateDB = {
 			["bags"] = {
 				["enable"] = false,
 			},
-			["general"] = {
-				["minimap"] = {
-					["hideTracking"] = true,
+			["sle"] = {
+				["characterGoldsSorting"] = {
+					["Argent Dawn"] = {
+					},
 				},
+				["install_complete"] = "4.57",
 			},
 			["install_complete"] = 13.1,
 		},
@@ -21994,10 +21975,10 @@ ElvPrivateDB = {
 			["install_complete"] = 13.54,
 		},
 		["Cataracts - Argent Dawn"] = {
-			["bags"] = {
+			["nameplates"] = {
 				["enable"] = false,
 			},
-			["nameplates"] = {
+			["bags"] = {
 				["enable"] = false,
 			},
 			["sle"] = {
@@ -22175,10 +22156,10 @@ ElvPrivateDB = {
 			["install_complete"] = 13.15,
 		},
 		["Riparium - Argent Dawn"] = {
-			["nameplates"] = {
+			["bags"] = {
 				["enable"] = false,
 			},
-			["bags"] = {
+			["nameplates"] = {
 				["enable"] = false,
 			},
 			["sle"] = {
@@ -22631,6 +22612,9 @@ ElvPrivateDB = {
 		},
 		["Mangrove - Argent Dawn"] = {
 			["nameplates"] = {
+				["enable"] = false,
+			},
+			["bags"] = {
 				["enable"] = false,
 			},
 			["sle"] = {
