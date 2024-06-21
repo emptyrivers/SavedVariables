@@ -1,270 +1,416 @@
 
 M6DB = {
-	["icRangeColor"] = "ffffff",
-	["groups"] = {
-	},
-	["icManaColor"] = "8080ff",
-	["actions"] = {
-		{
-			"macrotext", -- [1]
-			"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal", -- [2]
-			["name"] = "flash",
-		}, -- [1]
-	},
-	["profiles"] = {
-		["Korgath"] = {
-			["Naturerivers"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[4] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-		},
-		["The Scryers"] = {
-			["Wildeadoriah"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[5] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-		},
-		["Argent Dawn"] = {
-			["Sverdrup"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[3] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Flumina"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-			["Benthos"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-			},
-			["Karst"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[3] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Lotic"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[5] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Mangrove"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[4] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Stream"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-			["Confluence"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[3] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Riparium"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-			["Headcut"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				[3] = {
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				},
-			},
-			["Estuary"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-			["Cataracts"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-			},
-			["Alluvium"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-			},
-			["Emptyrivers"] = {
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [1]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [2]
-				{
-					["slots"] = {
-					},
-					["bind"] = {
-					},
-				}, -- [3]
-			},
-		},
-	},
+["icRangeColor"] = "ffffff",
+["groups"] = {
+},
+["icManaColor"] = "8080ff",
+["actions"] = {
+{
+"macrotext",
+"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal",
+["name"] = "flash",
+},
+},
+["profiles"] = {
+["Korgath"] = {
+["Naturerivers"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[4] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
+["Kel'Thuzad"] = {
+["Esker"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[3] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Asperos"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Inundito"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Gelae"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Strid"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Saellindris"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
+["The Scryers"] = {
+["Wildeadoriah"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[5] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
+["Sargeras"] = {
+["Calestin"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[5] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Emptyrivers"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
+["Argent Dawn"] = {
+["Sverdrup"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[3] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Mangrove"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[4] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Benthos"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Karst"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[3] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Lotic"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[5] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Flumina"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Stream"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Confluence"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[3] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Riparium"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Headcut"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Estuary"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Cataracts"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Alluvium"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Emptyrivers"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
+},
 }

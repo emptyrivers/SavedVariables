@@ -1,5 +1,5 @@
 
 SLE_ArmoryDB = {
-	["EnchantString"] = {
-	},
+["EnchantString"] = {
+},
 }

@@ -1,6 +1,6 @@
 
 BetterFishingDB = {
-	["enhanceSoundsScale"] = 1,
-	["doubleClickEnabled"] = true,
-	["enhanceSounds"] = true,
+["enhanceSoundsScale"] = 1,
+["doubleClickEnabled"] = true,
+["enhanceSounds"] = true,
 }
