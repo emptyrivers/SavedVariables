@@ -5,10 +5,6 @@ MacroToolkitDB = {
 ["macros"] = {
 },
 },
-["Strid - Kel'Thuzad"] = {
-["macros"] = {
-},
-},
 ["Stream - Argent Dawn"] = {
 ["macros"] = {
 [122] = {
@@ -154,8 +150,8 @@ MacroToolkitDB = {
 ["Inundito - Kel'Thuzad"] = {
 ["macros"] = {
 [121] = {
-["name"] = "md",
 ["icon"] = "132180",
+["name"] = "md",
 ["body"] = "#showtooltip\n/use [@focus] Misdirection\n",
 },
 },
@@ -727,7 +723,7 @@ MacroToolkitDB = {
 },
 [126] = {
 ["name"] = "RUSH",
-["icon"] = "538043",
+["icon"] = "840191",
 ["body"] = "#showtooltip Burning Rush\n/console Sound_EnableErrorSpeech 0\n/use Prismatic Bauble\n/cast Burning Rush\n/run C_Timer.After(0, function() SetCVar(\"Sound_EnableErrorSpeech\", 1) UIErrorsFrame:Clear() end)\n",
 },
 [123] = {
@@ -752,7 +748,7 @@ MacroToolkitDB = {
 },
 [121] = {
 ["name"] = "biles/demo str",
-["icon"] = "134400",
+["icon"] = "236292",
 ["body"] = "#showtooltip\n/use [known:267171] Demonic Strength; [known:267211, @cursor] Bilescourge Bombers\n",
 },
 [125] = {
@@ -918,6 +914,11 @@ MacroToolkitDB = {
 ["name"] = "ravager",
 ["body"] = "#showtooltip\n/use [@player] Ravager\n",
 },
+[124] = {
+["icon"] = "3565453",
+["name"] = "Spear",
+["body"] = "#showtooltip\n/use [@player] Champion's Spear\n",
+},
 },
 ["backups"] = {
 },
@@ -950,7 +951,6 @@ MacroToolkitDB = {
 },
 },
 ["global"] = {
-["lastbackup"] = "Nov 30 15:35:51",
 ["backups"] = {
 {
 ["m"] = {
@@ -1001,9 +1001,9 @@ MacroToolkitDB = {
 ["n"] = "test",
 },
 },
+["lastbackup"] = "Nov 30 15:35:51",
 ["ebackups"] = {
 },
-["allcharmacros"] = true,
 },
 ["profileKeys"] = {
 ["Calestin - Sargeras"] = "profile",
@@ -1046,8 +1046,8 @@ MacroToolkitDB = {
 },
 ["profiles"] = {
 ["profile"] = {
-["y"] = 106.7490386962891,
-["x"] = 266.0995178222656,
+["y"] = 327.7013854980469,
+["x"] = 296.5758056640625,
 ["height"] = 424.761962890625,
 ["override"] = true,
 ["visconditions"] = true,

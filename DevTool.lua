@@ -60,7 +60,7 @@ DevToolDatabase = {
 "DevTool.settings.history",
 },
 ["isSideBarOpen"] = false,
-["collResizeWidth"] = 249.999755859375,
+["collResizeWidth"] = 249.99951171875,
 },
 ["Saellindris - Kel'Thuzad"] = {
 },
@@ -175,6 +175,8 @@ DevToolDatabase = {
 ["Mothugeon - Argent Dawn"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
+["isWndOpen"] = true,
+["fontSize"] = 16,
 },
 ["Wildeadoriah - The Scryers"] = {
 },

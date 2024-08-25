@@ -67,7 +67,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["global"] = {
-["version"] = "v1.10.1",
+["version"] = "0.0.0.0",
 ["scripts"] = {
 ["FirstEnemy"] = {
 },

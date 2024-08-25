@@ -3,7 +3,7 @@ DataStore_Crafts_Characters = {
 {
 ["Professions"] = {
 },
-["lastUpdate"] = 1718904639,
+["lastUpdate"] = 1719188877,
 ["Indices"] = {
 },
 ["Ranks"] = {
@@ -12,7 +12,7 @@ DataStore_Crafts_Characters = {
 {
 ["Professions"] = {
 },
-["lastUpdate"] = 1718991878,
+["lastUpdate"] = 1721853641,
 ["Indices"] = {
 },
 ["Ranks"] = {
@@ -37,7 +37,7 @@ DataStore_Crafts_Characters = {
 ["CurrentLevelName"] = "Dragon Isles Fishing",
 },
 },
-["lastUpdate"] = 1718241426,
+["lastUpdate"] = 1723668905,
 ["Indices"] = {
 ["Jewelcrafting"] = 2,
 ["Mining"] = 1,
@@ -92,9 +92,14 @@ DataStore_Crafts_Characters = {
 },
 {
 ["Professions"] = {
+[4] = {
+["Name"] = "Fishing",
+["CurrentLevelName"] = "Shadowlands Fishing",
 },
-["lastUpdate"] = 1718902734,
+},
+["lastUpdate"] = 1719182615,
 ["Indices"] = {
+["Fishing"] = 4,
 },
 ["Ranks"] = {
 },
@@ -111,7 +116,7 @@ DataStore_Crafts_Characters = {
 {
 ["Professions"] = {
 },
-["lastUpdate"] = 1718498450,
+["lastUpdate"] = 1719287700,
 ["Indices"] = {
 },
 ["Ranks"] = {

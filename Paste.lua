@@ -54,7 +54,7 @@ PasteDB = {
 ["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 ["Greedyrivers - Arthas"] = "Greedyrivers - Arthas",
 ["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
-["Hulyon - Kel'Thuzad"] = "Hulyon - Kel'Thuzad",
+["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
 ["Littlerivers - Kel'Thuzad"] = "Littlerivers - Kel'Thuzad",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
@@ -62,7 +62,7 @@ PasteDB = {
 ["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 ["Boringrivers - Korgath"] = "Boringrivers - Korgath",
 ["Hiddenrivers - Korgath"] = "Hiddenrivers - Korgath",
-["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
+["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 ["Angryrivers - Korgath"] = "Angryrivers - Korgath",
 ["Savattellir - Arthas"] = "Savattellir - Arthas",
@@ -73,22 +73,22 @@ PasteDB = {
 ["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 ["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 ["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
-["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
-["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
+["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
+["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
 ["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
+["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
 ["Brightrivers - Korgath"] = "Brightrivers - Korgath",
 ["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 ["Notariver - Arthas"] = "Notariver - Arthas",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 ["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
-["Edgyrivers - Kel'Thuzad"] = "Edgyrivers - Kel'Thuzad",
+["Edgyrivers - Arthas"] = "Edgyrivers - Arthas",
 ["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 ["Blindrivers - Arthas"] = "Blindrivers - Arthas",
 ["Magicrivers - Korgath"] = "Magicrivers - Korgath",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+["Hulyon - Kel'Thuzad"] = "Hulyon - Kel'Thuzad",
 ["Tinyrivers - Sargeras"] = "Tinyrivers - Sargeras",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
@@ -363,7 +363,7 @@ PasteDB = {
 ["Zimuures - Argent Dawn"] = {
 ["loaded"] = true,
 },
-["Hulyon - Kel'Thuzad"] = {
+["Benthos - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Emptyrivers - Arthas"] = {
@@ -403,7 +403,7 @@ PasteDB = {
 ["Hiddenrivers - Korgath"] = {
 ["loaded"] = true,
 },
-["Edgyrivers - Arthas"] = {
+["Edgyrivers - Kel'Thuzad"] = {
 ["loaded"] = true,
 },
 ["Confluence - Argent Dawn"] = {
@@ -448,15 +448,6 @@ PasteDB = {
 ["Saellindris - Kel'Thuzad"] = {
 ["loaded"] = true,
 },
-["Luckyrivers - Korgath"] = {
-["loaded"] = true,
-},
-["Serenerivers - Sargeras"] = {
-["loaded"] = true,
-},
-["Ragingrivers - Arthas"] = {
-["loaded"] = true,
-},
 ["Emptyrivers - Sargeras"] = {
 ["loaded"] = true,
 ["whispertarget"] = "",
@@ -468,6 +459,15 @@ PasteDB = {
 ["width"] = 500.000030517578,
 },
 },
+["Serenerivers - Sargeras"] = {
+["loaded"] = true,
+},
+["Luckyrivers - Korgath"] = {
+["loaded"] = true,
+},
+["Crazyrivers - Arthas"] = {
+["loaded"] = true,
+},
 ["Mecharivers - Sargeras"] = {
 ["loaded"] = true,
 ["whispertarget"] = "",
@@ -475,7 +475,7 @@ PasteDB = {
 ["pos"] = {
 },
 },
-["Crazyrivers - Arthas"] = {
+["Ragingrivers - Arthas"] = {
 ["loaded"] = true,
 },
 ["Brightrivers - Korgath"] = {
@@ -513,7 +513,7 @@ PasteDB = {
 ["width"] = 500.000061035156,
 },
 },
-["Edgyrivers - Kel'Thuzad"] = {
+["Edgyrivers - Arthas"] = {
 ["loaded"] = true,
 },
 ["Wildeadoriah - The Scryers"] = {
@@ -525,7 +525,7 @@ PasteDB = {
 ["Magicrivers - Korgath"] = {
 ["loaded"] = true,
 },
-["Benthos - Argent Dawn"] = {
+["Hulyon - Kel'Thuzad"] = {
 ["loaded"] = true,
 },
 ["Tinyrivers - Sargeras"] = {

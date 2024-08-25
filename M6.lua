@@ -3,6 +3,7 @@ M6DB = {
 ["icRangeColor"] = "ffffff",
 ["groups"] = {
 },
+["enableClientBars"] = true,
 ["icManaColor"] = "8080ff",
 ["actions"] = {
 {
@@ -29,14 +30,20 @@ M6DB = {
 },
 },
 ["Kel'Thuzad"] = {
-["Esker"] = {
+["Gelae"] = {
 {
 ["slots"] = {
 },
 ["bind"] = {
 },
 },
-[3] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
 ["slots"] = {
 },
 ["bind"] = {
@@ -63,27 +70,27 @@ M6DB = {
 },
 },
 },
+["Esker"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
 ["Inundito"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-},
-["Gelae"] = {
 {
 ["slots"] = {
 },

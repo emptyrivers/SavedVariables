@@ -1,13 +1,13 @@
 
 DataStore_Garrisons_Characters = {
 {
-["lastUpdate"] = 1718904641,
+["lastUpdate"] = 1719191416,
 },
 {
-["lastUpdate"] = 1718993517,
+["lastUpdate"] = 1721853644,
 },
 {
-["lastUpdate"] = 1718245473,
+["lastUpdate"] = 1723669111,
 },
 {
 ["lastUpdate"] = 1716855777,
@@ -16,46 +16,59 @@ DataStore_Garrisons_Characters = {
 ["lastUpdate"] = 1717656552,
 },
 {
-["lastUpdate"] = 1718902736,
+["lastUpdate"] = 1719186372,
 },
 {
 ["lastUpdate"] = 1718126847,
 },
 {
-["lastUpdate"] = 1718508244,
+["lastUpdate"] = 1719289565,
 },
 }
 DataStore_Garrisons_Missions = {
 {
-["lastUpdate"] = 1718904641,
+["lastUpdate"] = 1719191416,
 ["Infos"] = {
 },
 },
 {
-["lastUpdate"] = 1718993517,
+["lastUpdate"] = 1721853644,
 ["Infos"] = {
 },
 },
 {
-["lastUpdate"] = 1718245473,
+["lastUpdate"] = 1723669111,
 ["Infos"] = {
 },
 ["Available"] = {
 {
 65,
-135,
-205,
-229,
-136,
+222,
+498,
+170,
+171,
+168,
+191,
+329,
+300,
+115,
+301,
+130,
+125,
+274,
+275,
 143,
-142,
+141,
+136,
+135,
+202,
 369,
-368,
+159,
 },
 {
-1045,
-1060,
+1173,
 1059,
+1178,
 1341,
 },
 },
@@ -100,7 +113,7 @@ nil,
 },
 },
 {
-["lastUpdate"] = 1718902736,
+["lastUpdate"] = 1719186372,
 ["Infos"] = {
 },
 },
@@ -110,55 +123,105 @@ nil,
 },
 },
 {
-["lastUpdate"] = 1718508244,
+["lastUpdate"] = 1719289565,
 ["Infos"] = {
 },
 },
 }
 DataStore_Garrisons_MissionInfos = {
 ["Infos"] = {
-[1947] = 55029289505158,
-[1774] = 61895899939011,
-[1341] = 52272999469251,
 [1920] = 55029273747846,
-[364] = 32214900996,
+[245] = 41878564929,
+[365] = 32218862220,
+[369] = 33291260034,
+[500] = 42956247170,
+[128] = 42952347778,
+[130] = 42953629826,
+[1937] = 55029294756230,
+[136] = 32214880386,
+[274] = 42952347713,
+[142] = 33288630402,
 [1176] = 52269778231491,
 [1621] = 59147133944003,
-[368] = 32217518210,
-[369] = 33291260034,
+[664] = 42953629826,
+[170] = 41878601858,
+[1606] = 58459939176643,
+[1178] = 52266688102595,
+[497] = 42956247170,
+[188] = 35433488514,
+[190] = 37580972162,
+[192] = 39728459906,
+[194] = 41875947650,
+[665] = 42953629826,
+[275] = 42953658433,
+[1608] = 58459939176643,
+[210] = 37584912514,
+[212] = 39732461698,
+[214] = 41879912578,
 [1704] = 65332083454282,
-[1775] = 61895873732803,
+[1339] = 52274073215171,
+[222] = 33288626241,
+[1927] = 55029273776518,
+[2092] = 55029320946119,
+[666] = 42953629826,
+[1340] = 52275146948803,
 [2093] = 55029294731719,
-[65] = 32213569601,
-[1173] = 52267683205315,
-[1681] = 61896109617482,
-[1937] = 55029294756230,
-[1059] = 52272999506245,
 [2094] = 55029294731719,
 [2126] = 55029281645000,
-[1339] = 52274073215171,
-[229] = 33288626241,
-[2095] = 55029294731719,
-[136] = 32214880386,
-[1611] = 59834289393859,
-[1556] = 52275199398083,
-[1056] = 52274125648197,
-[1060] = 52274125640005,
-[1505] = 58459926065673,
-[135] = 32214880386,
-[141] = 33288630402,
-[1606] = 58459939176643,
-[1340] = 52275146948803,
 [1595] = 58803536597187,
+[1611] = 59834289393859,
+[2095] = 55029294731719,
+[129] = 42952347778,
+[131] = 42953629826,
+[1056] = 52274125648197,
+[272] = 42952331329,
+[141] = 33288630402,
 [143] = 33288630402,
-[1927] = 55029273776518,
-[1608] = 58459939176643,
-[1045] = 52268704489667,
+[300] = 42954969218,
+[1343] = 52270878187715,
+[202] = 39733772418,
+[159] = 38657343618,
+[125] = 42954940546,
+[163] = 39731077250,
 [1931] = 55029273747846,
-[2092] = 55029320946119,
+[332] = 40804823627,
+[271] = 42953642049,
+[171] = 32214880386,
+[173] = 33286008962,
+[1336] = 52270878228675,
+[373] = 37586227330,
+[1341] = 52273025724611,
+[187] = 34359746690,
+[1059] = 52272999452997,
+[368] = 32217518210,
+[499] = 42956247170,
+[189] = 36507230338,
+[191] = 38654718082,
+[1774] = 61895899939011,
+[168] = 41878601858,
+[1556] = 52275199398083,
+[1060] = 52274086314309,
+[273] = 42954969153,
+[115] = 42952331394,
 [205] = 33289945218,
-[142] = 33288630402,
-[1178] = 52266570113219,
+[1505] = 58459926065673,
+[1775] = 61895873732803,
+[135] = 32214880386,
+[1045] = 52268730728643,
+[301] = 42957590658,
+[183] = 32212258946,
+[65] = 32213569601,
+[229] = 33288626241,
+[1173] = 52267643859139,
+[364] = 32214900996,
+[114] = 42953642114,
+[1681] = 61896109617482,
+[329] = 32213570188,
+[1947] = 55029289505158,
+[118] = 42953658498,
+[119] = 42953629826,
+[120] = 42952319106,
+[498] = 42956247170,
 },
 ["TypeAtlas"] = {
 ["Set"] = {
@@ -166,12 +229,14 @@ DataStore_Garrisons_MissionInfos = {
 ["ClassHall-CombatIcon-Desaturated"] = 3,
 ["BfAMission-Icon-Normal"] = 6,
 ["GarrMission_MissionIcon-Combat"] = 2,
-["GarrMission_MissionIcon-Provision"] = 4,
 ["ClassHall-TreasureIcon-Desaturated"] = 5,
 ["BfAMission-Icon-HUB"] = 7,
+["GarrMission_MissionIcon-Provision"] = 4,
+["GarrMission_MissionIcon-Training"] = 10,
+["GarrMission_MissionIcon-Exploration"] = 9,
 ["ClassHall-BonusIcon-Desaturated"] = 8,
 },
-["Count"] = 8,
+["Count"] = 10,
 ["List"] = {
 "GarrMission_MissionIcon-Patrol",
 "GarrMission_MissionIcon-Combat",
@@ -181,33 +246,11 @@ DataStore_Garrisons_MissionInfos = {
 "BfAMission-Icon-Normal",
 "BfAMission-Icon-HUB",
 "ClassHall-BonusIcon-Desaturated",
+"GarrMission_MissionIcon-Exploration",
+"GarrMission_MissionIcon-Training",
 },
 },
 ["Rewards"] = {
-[1947] = {
-{
-["title"] = "Currency Reward",
-["quantity"] = 250,
-["icon"] = 2032593,
-["currencyID"] = 1600,
-},
-},
-[1774] = {
-{
-["quantity"] = 1,
-["itemID"] = 152437,
-["itemLink"] = "|cffffffff|Hitem:152437::::::::70:64:::::::::|h[]|h|r",
-},
-},
-[1341] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 1800,
-["tooltip"] = "+1,800 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+1,800 XP",
-},
-},
 [1920] = {
 {
 ["title"] = "Currency Reward",
@@ -216,10 +259,80 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1553,
 },
 },
-[364] = {
+[245] = {
 {
-["itemID"] = 118428,
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1500,
+["tooltip"] = "+1,500 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,500 XP",
+},
+},
+[365] = {
+{
+["itemID"] = 118354,
 ["quantity"] = 1,
+},
+},
+[369] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 400,
+["tooltip"] = "+400 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+400 XP",
+},
+},
+[500] = {
+{
+["itemID"] = 122584,
+["quantity"] = 1,
+},
+},
+[128] = {
+{
+["itemID"] = 114616,
+["quantity"] = 1,
+},
+},
+[130] = {
+{
+["itemID"] = 120302,
+["quantity"] = 1,
+},
+},
+[1937] = {
+{
+["quantity"] = 3,
+["itemID"] = 160053,
+["itemLink"] = "|cffffffff|Hitem:160053::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[136] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 100,
+["tooltip"] = "+100 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+100 XP",
+},
+},
+[274] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 10000,
+["tooltip"] = "+10,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10,000 XP",
+},
+},
+[142] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 200,
+["tooltip"] = "+200 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+200 XP",
 },
 },
 [1176] = {
@@ -237,22 +350,143 @@ DataStore_Garrisons_MissionInfos = {
 ["itemLink"] = "|cffffffff|Hitem:146935::::::::70:64:::::::::|h[]|h|r",
 },
 },
-[368] = {
+[664] = {
 {
-["title"] = "Bonus Follower XP",
-["followerXP"] = 200,
-["tooltip"] = "+200 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+200 XP",
+["title"] = "Currency Reward",
+["quantity"] = 25,
+["icon"] = 1131085,
+["currencyID"] = 1101,
 },
 },
-[369] = {
+[170] = {
 {
 ["title"] = "Bonus Follower XP",
-["followerXP"] = 400,
-["tooltip"] = "+400 XP",
+["followerXP"] = 1000,
+["tooltip"] = "+1,000 XP",
 ["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+400 XP",
+["name"] = "+1,000 XP",
+},
+},
+[1606] = {
+{
+["quantity"] = 2,
+["itemID"] = 146937,
+["itemLink"] = "|cffffffff|Hitem:146937::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[1178] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 5,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[497] = {
+{
+["itemID"] = 122580,
+["quantity"] = 1,
+},
+},
+[188] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 36,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[190] = {
+{
+["icon"] = 1005027,
+["quantity"] = 40,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
+[192] = {
+{
+["icon"] = 1005027,
+["quantity"] = 44,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
+[194] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 48,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[665] = {
+{
+["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Currency Reward",
+["currencyID"] = 1101,
+},
+},
+[275] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 10000,
+["tooltip"] = "+10,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10,000 XP",
+},
+},
+[1608] = {
+{
+["quantity"] = 1,
+["itemID"] = 146938,
+["itemLink"] = "|cffffffff|Hitem:146938::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[210] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 900,
+["tooltip"] = "+900 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+900 XP",
+},
+{
+["title"] = "Currency Reward",
+["quantity"] = 175,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[212] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1200,
+["tooltip"] = "+1,200 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,200 XP",
+},
+{
+["title"] = "Currency Reward",
+["quantity"] = 225,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[214] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1500,
+["tooltip"] = "+1,500 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,500 XP",
+},
+{
+["icon"] = 1005027,
+["quantity"] = 275,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
 },
 },
 [1704] = {
@@ -262,55 +496,59 @@ DataStore_Garrisons_MissionInfos = {
 ["itemLink"] = "|cffffffff|Hitem:152314::::::::70:64:::::::::|h[]|h|r",
 },
 },
-[1775] = {
+[1339] = {
 {
+["title"] = "Bonus Follower XP",
+["followerXP"] = 2000,
+["tooltip"] = "+2,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+2,000 XP",
+},
+},
+[222] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 300,
+["tooltip"] = "+300 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+300 XP",
+},
+},
+[1927] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 250,
+["icon"] = 2032592,
+["currencyID"] = 1579,
+},
+},
+[2092] = {
+{
+["itemID"] = 163184,
 ["quantity"] = 1,
-["itemID"] = 139795,
-["itemLink"] = "|cffffffff|Hitem:139795::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[666] = {
+{
+["icon"] = 1131085,
+["quantity"] = 25,
+["title"] = "Currency Reward",
+["currencyID"] = 1101,
+},
+},
+[1340] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 3000,
+["tooltip"] = "+3,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+3,000 XP",
 },
 },
 [2093] = {
 {
 ["itemID"] = 163190,
 ["quantity"] = 1,
-},
-},
-[65] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 150,
-["tooltip"] = "+150 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+150 XP",
-},
-},
-[1173] = {
-{
-["title"] = "Currency Reward",
-["quantity"] = 5,
-["icon"] = 236521,
-["currencyID"] = 1533,
-},
-},
-[1681] = {
-{
-["quantity"] = 1,
-["itemID"] = 147503,
-["itemLink"] = "|cffffffff|Hitem:147503::::::::70:64:::::::::|h[]|h|r",
-},
-},
-[1937] = {
-{
-["quantity"] = 3,
-["itemID"] = 160053,
-["itemLink"] = "|cffffffff|Hitem:160053::::::::70:64:::::::::|h[]|h|r",
-},
-},
-[1059] = {
-{
-["quantity"] = 1,
-["itemID"] = 147348,
-["itemLink"] = "|cffffffff|Hitem:147348::::::::70:266:::::::::|h[]|h|r",
 },
 },
 [2094] = {
@@ -327,37 +565,11 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1166,
 },
 },
-[1339] = {
+[1595] = {
 {
-["title"] = "Bonus Follower XP",
-["followerXP"] = 2000,
-["tooltip"] = "+2,000 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+2,000 XP",
-},
-},
-[229] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 300,
-["tooltip"] = "+300 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+300 XP",
-},
-},
-[2095] = {
-{
-["itemID"] = 163334,
 ["quantity"] = 1,
-},
-},
-[136] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 100,
-["tooltip"] = "+100 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+100 XP",
+["itemID"] = 146949,
+["itemLink"] = "|cffffffff|Hitem:146949::::::::70:64:::::::::|h[]|h|r",
 },
 },
 [1611] = {
@@ -366,41 +578,38 @@ DataStore_Garrisons_MissionInfos = {
 ["quantity"] = 5,
 },
 },
-[1556] = {
+[2095] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 6,
-["icon"] = 236521,
-["currencyID"] = 1533,
+["itemID"] = 163334,
+["quantity"] = 1,
+},
+},
+[129] = {
+{
+["itemID"] = 114616,
+["quantity"] = 1,
+},
+},
+[131] = {
+{
+["itemID"] = 120301,
+["quantity"] = 1,
 },
 },
 [1056] = {
 {
 ["quantity"] = 1,
 ["itemID"] = 147348,
-["itemLink"] = "|cffffffff|Hitem:147348::::::::70:266:::::::::|h[]|h|r",
+["itemLink"] = "|cff1eff00|Hitem:147348::::::::70:266:::::::::|h[Bulky Armor Set]|h|r",
 },
 },
-[1060] = {
-{
-["quantity"] = 1,
-["itemID"] = 147348,
-["itemLink"] = "|cffffffff|Hitem:147348::::::::70:266:::::::::|h[]|h|r",
-},
-},
-[1505] = {
-{
-["itemID"] = 143328,
-["quantity"] = 1,
-},
-},
-[135] = {
+[272] = {
 {
 ["title"] = "Bonus Follower XP",
-["followerXP"] = 100,
-["tooltip"] = "+100 XP",
+["followerXP"] = 10000,
+["tooltip"] = "+10,000 XP",
 ["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+100 XP",
+["name"] = "+10,000 XP",
 },
 },
 [141] = {
@@ -412,29 +621,6 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+200 XP",
 },
 },
-[1606] = {
-{
-["quantity"] = 2,
-["itemID"] = 146937,
-["itemLink"] = "|cffffffff|Hitem:146937::::::::70:64:::::::::|h[]|h|r",
-},
-},
-[1340] = {
-{
-["title"] = "Bonus Follower XP",
-["followerXP"] = 3000,
-["tooltip"] = "+3,000 XP",
-["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+3,000 XP",
-},
-},
-[1595] = {
-{
-["quantity"] = 1,
-["itemID"] = 146949,
-["itemLink"] = "|cffffffff|Hitem:146949::::::::70:64:::::::::|h[]|h|r",
-},
-},
 [143] = {
 {
 ["title"] = "Bonus Follower XP",
@@ -444,27 +630,52 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+200 XP",
 },
 },
-[1927] = {
+[300] = {
 {
-["title"] = "Currency Reward",
-["quantity"] = 250,
-["icon"] = 2032592,
-["currencyID"] = 1579,
+["title"] = "Bonus Follower XP",
+["followerXP"] = 8000,
+["tooltip"] = "+8,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8,000 XP",
 },
 },
-[1608] = {
+[1343] = {
 {
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1400,
+["tooltip"] = "+1,400 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,400 XP",
+},
+},
+[202] = {
+{
+["itemID"] = 114097,
 ["quantity"] = 1,
-["itemID"] = 146938,
-["itemLink"] = "|cffffffff|Hitem:146938::::::::70:64:::::::::|h[]|h|r",
 },
 },
-[1045] = {
+[159] = {
 {
-["icon"] = 236521,
-["quantity"] = 5,
-["title"] = "Currency Reward",
-["currencyID"] = 1533,
+["title"] = "Bonus Follower XP",
+["followerXP"] = 700,
+["tooltip"] = "+700 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+700 XP",
+},
+},
+[125] = {
+{
+["itemID"] = 120301,
+["quantity"] = 1,
+},
+},
+[163] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 800,
+["tooltip"] = "+800 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+800 XP",
 },
 },
 [1931] = {
@@ -475,10 +686,166 @@ DataStore_Garrisons_MissionInfos = {
 ["currencyID"] = 1553,
 },
 },
-[2092] = {
+[332] = {
 {
-["itemID"] = 163184,
+["itemID"] = 26045,
+["quantity"] = 100,
+},
+{
+["itemID"] = 26044,
+["quantity"] = 40,
+},
+},
+[271] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 10000,
+["tooltip"] = "+10,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10,000 XP",
+},
+},
+[171] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 100,
+["tooltip"] = "+100 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+100 XP",
+},
+},
+[173] = {
+{
+["itemID"] = 6662,
+["quantity"] = 10,
+},
+{
+["icon"] = 1005027,
+["quantity"] = 32,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
+[1336] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1400,
+["tooltip"] = "+1,400 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,400 XP",
+},
+},
+[373] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1200,
+["tooltip"] = "+1,200 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,200 XP",
+},
+},
+[1341] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1800,
+["tooltip"] = "+1,800 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,800 XP",
+},
+},
+[187] = {
+{
+["icon"] = 1005027,
+["quantity"] = 34,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
+[1059] = {
+{
 ["quantity"] = 1,
+["itemID"] = 147348,
+["itemLink"] = "|cffffffff|Hitem:147348::::::::70:266:::::::::|h[]|h|r",
+},
+},
+[368] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 200,
+["tooltip"] = "+200 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+200 XP",
+},
+},
+[499] = {
+{
+["itemID"] = 122583,
+["quantity"] = 1,
+},
+},
+[189] = {
+{
+["icon"] = 1005027,
+["quantity"] = 38,
+["title"] = "Currency Reward",
+["currencyID"] = 824,
+},
+},
+[191] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 42,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[1774] = {
+{
+["quantity"] = 1,
+["itemID"] = 152437,
+["itemLink"] = "|cffffffff|Hitem:152437::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[168] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 1000,
+["tooltip"] = "+1,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+1,000 XP",
+},
+},
+[1556] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 6,
+["icon"] = 236521,
+["currencyID"] = 1533,
+},
+},
+[1060] = {
+{
+["quantity"] = 1,
+["itemID"] = 147348,
+["itemLink"] = "|cff1eff00|Hitem:147348::::::::70:266:::::::::|h[Bulky Armor Set]|h|r",
+},
+},
+[273] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 10000,
+["tooltip"] = "+10,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+10,000 XP",
+},
+},
+[115] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 8000,
+["tooltip"] = "+8,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8,000 XP",
 },
 },
 [205] = {
@@ -496,21 +863,140 @@ DataStore_Garrisons_MissionInfos = {
 ["name"] = "+300 XP",
 },
 },
-[142] = {
+[1505] = {
+{
+["itemID"] = 143328,
+["quantity"] = 1,
+},
+},
+[1775] = {
+{
+["quantity"] = 1,
+["itemID"] = 139795,
+["itemLink"] = "|cffffffff|Hitem:139795::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[135] = {
 {
 ["title"] = "Bonus Follower XP",
-["followerXP"] = 200,
-["tooltip"] = "+200 XP",
+["followerXP"] = 100,
+["tooltip"] = "+100 XP",
 ["icon"] = "Interface\\Icons\\XPBonus_Icon",
-["name"] = "+200 XP",
+["name"] = "+100 XP",
 },
 },
-[1178] = {
+[1045] = {
+{
+["icon"] = 236521,
+["quantity"] = 5,
+["title"] = "Currency Reward",
+["currencyID"] = 1533,
+},
+},
+[301] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 8000,
+["tooltip"] = "+8,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8,000 XP",
+},
+},
+[183] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 30,
+["icon"] = 1005027,
+["currencyID"] = 824,
+},
+},
+[65] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 150,
+["tooltip"] = "+150 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+150 XP",
+},
+},
+[229] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 300,
+["tooltip"] = "+300 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+300 XP",
+},
+},
+[1173] = {
 {
 ["title"] = "Currency Reward",
 ["quantity"] = 5,
 ["icon"] = 236521,
 ["currencyID"] = 1533,
+},
+},
+[364] = {
+{
+["itemID"] = 118428,
+["quantity"] = 1,
+},
+},
+[114] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 8000,
+["tooltip"] = "+8,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8,000 XP",
+},
+},
+[1681] = {
+{
+["quantity"] = 1,
+["itemID"] = 147503,
+["itemLink"] = "|cffffffff|Hitem:147503::::::::70:64:::::::::|h[]|h|r",
+},
+},
+[329] = {
+{
+["itemID"] = 118474,
+["quantity"] = 1,
+},
+},
+[1947] = {
+{
+["title"] = "Currency Reward",
+["quantity"] = 250,
+["icon"] = 2032593,
+["currencyID"] = 1600,
+},
+},
+[118] = {
+{
+["title"] = "Bonus Follower XP",
+["followerXP"] = 8000,
+["tooltip"] = "+8,000 XP",
+["icon"] = "Interface\\Icons\\XPBonus_Icon",
+["name"] = "+8,000 XP",
+},
+},
+[119] = {
+{
+["itemID"] = 120301,
+["quantity"] = 1,
+},
+},
+[120] = {
+{
+["itemID"] = 120302,
+["quantity"] = 1,
+},
+},
+[498] = {
+{
+["itemID"] = 122582,
+["quantity"] = 1,
 },
 },
 },
@@ -520,6 +1006,7 @@ DataStore_Garrisons_MissionInfos = {
 [86400] = 17,
 [25200] = 16,
 [50400] = 11,
+[6750] = 20,
 [1800] = 1,
 [3600] = 3,
 [7200] = 12,
@@ -536,7 +1023,7 @@ DataStore_Garrisons_MissionInfos = {
 [21600] = 9,
 [36000] = 5,
 },
-["Count"] = 19,
+["Count"] = 20,
 ["List"] = {
 1800,
 2700,
@@ -557,14 +1044,17 @@ DataStore_Garrisons_MissionInfos = {
 86400,
 72000,
 10800,
+6750,
 },
 },
 ["Types"] = {
 ["Set"] = {
 ["8.0 - Hub Unlock"] = 7,
+["Training"] = 12,
 ["Patrol"] = 1,
 ["7.0 Class Hall - Treasure Missions - Raid"] = 10,
 ["Combat"] = 2,
+["Exploration"] = 11,
 ["8.0 - Generic Missions"] = 6,
 ["7.0 Class Hall - Generic Missions"] = 3,
 ["Provision"] = 4,
@@ -572,7 +1062,7 @@ DataStore_Garrisons_MissionInfos = {
 ["8.2 - Holiday Mission"] = 8,
 ["7.0 Class Hall - Special Reward Missions"] = 9,
 },
-["Count"] = 10,
+["Count"] = 12,
 ["List"] = {
 "Patrol",
 "Combat",
@@ -584,6 +1074,8 @@ DataStore_Garrisons_MissionInfos = {
 "8.2 - Holiday Mission",
 "7.0 Class Hall - Special Reward Missions",
 "7.0 Class Hall - Treasure Missions - Raid",
+"Exploration",
+"Training",
 },
 },
 }
@@ -613,7 +1105,7 @@ DataStore_Garrisons_Followers = {
 },
 },
 {
-["LevelCount"] = 0,
+["LevelCount"] = 1,
 ["FollowerLinks"] = {
 [616] = "|cffffffff|Hgarrfollower:616:1:43:760:440:0:0:0:0:0:0:0:338|h[Calydus]|h|r",
 [617] = "|cffffffff|Hgarrfollower:617:1:45:765:439:0:0:0:0:0:0:0:339|h[Kira Iresoul]|h|r",
@@ -626,6 +1118,7 @@ DataStore_Garrisons_Followers = {
 [452] = "|cff0070dd|Hgarrfollower:452:3:31:600:147:0:0:0:7:256:0:0:0|h[Sprynt Starkflange]|h|r",
 [734] = "|cffffffff|Hgarrfollower:734:1:35:700:486:0:0:0:0:0:0:0:0|h[Pack of Imps]|h|r",
 [153] = "|cff1eff00|Hgarrfollower:153:2:30:600:161:0:0:0:54:0:0:0:0|h[Bruma Swiftstone]|h|r",
+[465] = "|cff0070dd|Hgarrfollower:465:3:40:600:105:0:0:0:248:256:0:0:0|h[Harrison Jones]|h|r",
 [621] = "|cffffffff|Hgarrfollower:621:1:45:760:438:0:0:0:0:0:0:0:338|h[Eredar Twins]|h|r",
 [740] = "|cffffffff|Hgarrfollower:740:1:35:700:487:0:0:0:0:0:0:0:0|h[Black Harvest Acolytes]|h|r",
 [728] = "|cffffffff|Hgarrfollower:728:1:35:700:486:0:0:0:0:0:0:0:0|h[Pack of Imps]|h|r",
@@ -640,7 +1133,7 @@ DataStore_Garrisons_Followers = {
 },
 ["Traits"] = {
 },
-["lastUpdate"] = 1718245473,
+["lastUpdate"] = 1723669110,
 ["Followers"] = {
 [616] = 847254808,
 [617] = 9210707584,
@@ -653,6 +1146,7 @@ DataStore_Garrisons_Followers = {
 [452] = 1329595968,
 [734] = 400,
 [153] = 698352416,
+[465] = 240000,
 [621] = 16000,
 [740] = 400,
 [728] = 400,
@@ -663,7 +1157,7 @@ DataStore_Garrisons_Followers = {
 [463] = 230688320,
 [620] = 8145354368,
 },
-["Infos"] = 520,
+["Infos"] = 10317987840777,
 ["AbilityCounters"] = {
 },
 },

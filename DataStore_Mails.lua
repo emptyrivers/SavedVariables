@@ -17,10 +17,10 @@ DataStore_Mails_Characters = {
 },
 },
 {
-["lastUpdate"] = 1718243526,
+["lastUpdate"] = 1723196104,
 ["Mails"] = {
 },
-["lastVisitDate"] = "2024/06/12 20:52",
+["lastVisitDate"] = "2024/08/09 04:35",
 ["MailCache"] = {
 },
 },
@@ -37,10 +37,10 @@ DataStore_Mails_Characters = {
 },
 },
 {
-["lastUpdate"] = 1718894126,
+["lastUpdate"] = 1719111264,
 ["Mails"] = {
 },
-["lastVisitDate"] = "2024/06/20 09:35",
+["lastVisitDate"] = "2024/06/22 21:54",
 ["MailCache"] = {
 },
 },
@@ -51,12 +51,12 @@ DataStore_Mails_Characters = {
 },
 },
 {
-["lastUpdate"] = 1718499299,
+["lastUpdate"] = 1719252652,
 ["Mails"] = {
 },
 ["MailCache"] = {
 },
-["lastVisitDate"] = "2024/06/15 19:54",
+["lastVisitDate"] = "2024/06/24 13:10",
 },
 }
 DataStore_Mails_Options = {

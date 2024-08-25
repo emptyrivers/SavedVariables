@@ -170,6 +170,9 @@ BetterAddonListDB = {
 ["!Casual Content"] = true,
 ["Altoholic"] = true,
 },
+["WeakAuras"] = {
+["Development"] = true,
+},
 ["!Casual Content"] = {
 ["Altoholic"] = true,
 ["Talents"] = true,
@@ -178,9 +181,6 @@ BetterAddonListDB = {
 ["!Combat"] = {
 ["Macros"] = true,
 ["Talents"] = true,
-},
-["WeakAuras"] = {
-["Development"] = true,
 },
 },
 ["protected"] = {

@@ -14,6 +14,16 @@ AdventureArchivesMailDB = {
 ["ta"] = 951387,
 },
 },
+["Vaskarn"] = {
+{
+["items"] = {
+"212458:1",
+},
+["sn"] = "Awakened Crest Advancements",
+["st"] = "Must be brief. Those Drake's Awakened Crests? I have discovered what separates them from Wyrm's Awakened Crests. Should be able to make this transformation now as well.\r\n\r\nStill in Valdrakken. Hope you're well.\r\n\r\nVaskarn",
+["ta"] = 23119607,
+},
+},
 ["Brew of the Month Club"] = {
 {
 ["items"] = {

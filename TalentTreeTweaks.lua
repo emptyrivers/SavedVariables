@@ -31,40 +31,44 @@ TalentTreeTweaksDB = {
 },
 ["DragonRiding Auto Purchaser"] = {
 ["reportPurchases"] = true,
+["rideAlongCache"] = {
+["Riparium-Argent Dawn"] = 1,
+["Esker-Kel'Thuzad"] = 1,
+},
+["rideAlong"] = 1,
 },
 ["UnlockRestrictions"] = {
 ["unlockShareButton"] = true,
 ["unlockInCombatSpending"] = true,
 },
 ["MiniTreeInTooltip"] = {
-["diffGreen"] = {
-["r"] = 0,
-["g"] = 1,
-["b"] = 0,
-},
+["inactiveSubTreeAlpha"] = 0.5,
 ["displayStyle"] = "simple-default-diff",
-["diffOrange"] = {
-["r"] = 1,
-["g"] = 1,
-["b"] = 0,
-},
+["upgradedDisplayStyle"] = 1,
 ["diffRed"] = {
 ["r"] = 1,
 ["g"] = 0,
 ["b"] = 0,
 },
 ["scale"] = 1,
-["inactiveSubTreeAlpha"] = 0.5,
+["diffGreen"] = {
+["r"] = 0,
+["g"] = 1,
+["b"] = 0,
+},
 ["diffYellow"] = {
 ["r"] = 1,
 ["g"] = 1,
 ["b"] = 1,
 },
-["upgradedDisplayStyle"] = 1,
+["diffOrange"] = {
+["r"] = 1,
+["g"] = 1,
+["b"] = 0,
+},
 },
 ["ReduceTaint"] = {
 ["disableMultiActionBarShowHide"] = true,
-["replaceDropDown"] = true,
 },
 ["ExportInspectedBuild"] = {
 ["exportOnDropdownRightClick"] = true,
@@ -87,13 +91,20 @@ TalentTreeTweaksDB = {
 },
 },
 ["AlwaysShowGates"] = {
+["shiftHeroTrees"] = false,
 },
 ["ChangeBackground"] = {
+["showAlphaInSpellbookUI"] = true,
+["showAlphaInViewerUI"] = true,
+["spellbookAlpha"] = 1,
 ["showAlphaInUI"] = true,
 ["alpha"] = 0.800000011920929,
-["showAlphaInViewerUI"] = true,
 },
 ["CopyTalentButtonInfo"] = {
+},
+["ImportIntoCurrentLoadout"] = {
+["defaultCheckboxState"] = false,
+["unlockImportButton"] = true,
 },
 ["HighlightCascadeRepurchable"] = {
 ["color"] = {
@@ -103,9 +114,18 @@ TalentTreeTweaksDB = {
 ["r"] = 0,
 },
 },
-["ImportIntoCurrentLoadout"] = {
-["defaultCheckboxState"] = false,
-["unlockImportButton"] = true,
+["Skyriding Auto Purchaser"] = {
+["reportPurchases"] = true,
+["surge"] = 1,
+["surgeCache"] = {
+["Strid-Kel'Thuzad"] = 1,
+},
+["rideAlongCache"] = {
+["Strid-Kel'Thuzad"] = 1,
+},
+["rideAlong"] = 1,
+},
+["HeroTalents"] = {
 },
 ["DebugNodeInfo"] = {
 ["addButtonToTable"] = true,

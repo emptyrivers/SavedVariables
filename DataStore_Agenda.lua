@@ -1,13 +1,13 @@
 
 DataStore_Agenda_Characters = {
 {
-["lastUpdate"] = 1718904640,
+["lastUpdate"] = 1719191416,
 },
 {
-["lastUpdate"] = 1718993517,
+["lastUpdate"] = 1721853641,
 },
 {
-["lastUpdate"] = 1718245473,
+["lastUpdate"] = 1723669110,
 },
 {
 ["lastUpdate"] = 1716855355,
@@ -16,13 +16,13 @@ DataStore_Agenda_Characters = {
 ["lastUpdate"] = 1717656552,
 },
 {
-["lastUpdate"] = 1718902734,
+["lastUpdate"] = 1719186372,
 },
 {
 ["lastUpdate"] = 1718126846,
 },
 {
-["lastUpdate"] = 1718508245,
+["lastUpdate"] = 1719289565,
 },
 }
 DataStore_Agenda_SavedInstances = {
@@ -46,5 +46,5 @@ DataStore_Agenda_Contacts = {
 DataStore_Agenda_Options = {
 ["WeeklyResetHour"] = 6,
 ["WeeklyResetDay"] = 2,
-["NextWeeklyReset"] = "2024-06-25",
+["NextWeeklyReset"] = "2024-08-20",
 }
