@@ -1,16 +1,8 @@
 
 BugGrabberDB = {
-["session"] = 7228,
+["session"] = 7234,
 ["lastSanitation"] = 3,
 ["errors"] = {
-{
-["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'ElvUI' tried to call the protected function 'UseQuestLogSpecialItem()'.",
-["time"] = "2024/08/22 18:51:37",
-["locals"] = "_ = Frame {\n}\nevent = \"ADDON_ACTION_FORBIDDEN\"\nevents = <table> {\n}\n",
-["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `UseQuestLogSpecialItem'\n[string \"@Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerShared.lua\"]:94: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerShared.lua:87>",
-["session"] = 7195,
-["counter"] = 1,
-},
 {
 ["message"] = "Plater Mod |cFFAAAA22Enhanced Enemy Castbar [Plater]|r code for |cFFBB8800Cast Start|r error: \nMod/Script URL: https://wago.io/3408lMaNb/3\nPlater-v584a-Retail - DF v561 - 11.0.2\n[string \"Constructor for Enhanced Enemy Castbar [Pla...\"]:147: attempt to perform arithmetic on local 'start' (a nil value)",
 ["time"] = "2024/08/22 21:14:57",
@@ -36,14 +28,6 @@ BugGrabberDB = {
 ["counter"] = 6,
 },
 {
-["message"] = "...Ons/Blizzard_FrameXML/Mainline/AlertFrameSystems.lua:325: Action[SetPoint] failed because[Cannot anchor to a region dependent on it]: attempted from: Texture:SetPoint.",
-["time"] = "2024/08/23 12:52:03",
-["locals"] = "(*temporary) = Texture {\n PixelSnapDisabled = true\n b = Frame {\n }\n}\n(*temporary) = \"CENTER\"\n(*temporary) = -1\n(*temporary) = -2\n",
-["stack"] = "[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrameSystems.lua\"]:325: in function <...Ons/Blizzard_FrameXML/Mainline/AlertFrameSystems.lua:299>\n[string \"=[C]\"]: in function `setUpFunction'\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:180: in function <...ce/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua:166>\n[string \"=(tail call)\"]: ?\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:86: in function `resetFunc'\n[string \"@Interface/AddOns/Blizzard_SharedXMLBase/Pools.lua\"]:184: in function `CallReset'\n[string \"@Interface/AddOns/Blizzard_SharedXMLBase/Pools.lua\"]:88: in function <Interface/AddOns/Blizzard_SharedXMLBase/Pools.lua:68>\n[string \"=(tail call)\"]: ?\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:108: in function `OnFrameHide'\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:163: in function <...ce/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua:162>\n[string \"=[C]\"]: in function `Hide'\n[string \"*AlertFrameSystems.xml:176_OnFinished\"]:1: in function <[string \"*AlertFrameSystems.xml:176_OnFinished\"]:1>",
-["session"] = 7219,
-["counter"] = 3,
-},
-{
 ["message"] = "...rd_PlayerSpells/SpellBook/Blizzard_SpellBookItem.lua:63: attempt to call method 'OnEnter' (a nil value)",
 ["time"] = "2024/08/24 18:04:23",
 ["locals"] = "self = Frame {\n SubName = FontString {\n }\n isTrainable = false\n elementData = <table> {\n }\n gridColumnSize = 1\n Button = Button {\n }\n isUnlearned = false\n actionBarStatus = 1\n Name = FontString {\n }\n slotIndex = 23\n iconHighlightHoverAlpha = 0.350000\n isOffSpec = false\n unlearnedTextAlpha = 0.600000\n spellBank = 0\n canClickBind = false\n unlearnedIconAlpha = 0.600000\n defaultBackplateAlpha = 0.250000\n GlyphActivateAnim = AnimationGroup {\n }\n gridColumn = 3\n artSet = <table> {\n }\n TextContainer = Frame {\n }\n spellBookItemInfo = <table> {\n }\n Backplate = Texture {\n }\n hoverBackplateAlpha = 1\n gridRow = 5\n iconHighlightPressAlpha = 0.650000\n GlyphHighlightAnim = AnimationGroup {\n }\n ArtSet = <table> {\n }\n cellSize = 1\n RequiredLevel = FontString {\n }\n}\nevent = \"SPELL_UPDATE_COOLDOWN\"\n(*temporary) = nil\n(*temporary) = Frame {\n SubName = FontString {\n }\n isTrainable = false\n elementData = <table> {\n }\n gridColumnSize = 1\n Button = Button {\n }\n isUnlearned = false\n actionBarStatus = 1\n Name = FontString {\n }\n slotIndex = 23\n iconHighlightHoverAlpha = 0.350000\n isOffSpec = false\n unlearnedTextAlpha = 0.600000\n spellBank = 0\n canClickBind = false\n unlearnedIconAlpha = 0.600000\n defaultBackplateAlpha = 0.250000\n GlyphActivateAnim = AnimationGroup {\n }\n gridColumn = 3\n artSet = <table> {\n }\n TextContainer = Frame {\n }\n spellBookItemInfo = <table> {\n }\n Backplate = Texture {\n }\n hoverBackplateAlpha = 1\n gridRow = 5\n iconHighlightPressAlpha = 0.650000\n GlyphHighlightAnim = AnimationGroup {\n }\n ArtSet = <table> {\n }\n cellSize = 1\n RequiredLevel = FontString {\n }\n}\n(*temporary) = \"attempt to call method 'OnEnter' (a nil value)\"\n",
@@ -65,6 +49,30 @@ BugGrabberDB = {
 ["locals"] = "_ = Frame {\n}\nevent = \"ADDON_ACTION_BLOCKED\"\nevents = <table> {\n}\n",
 ["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetPassThroughButtons'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/MapCanvas_DataProviderBase.lua\"]:224: in function `CheckMouseButtonPassthrough'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:209: in function `AcquirePin'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/AreaPOIEventDataProvider.lua\"]:46: in function `RefreshAllData'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/MapCanvas_DataProviderBase.lua\"]:76: in function `OnMapChanged'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:595: in function <...ace/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua:594>\n[string \"=[C]\"]: in function `secureexecuterange'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:598: in function `OnMapChanged'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:303: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:302>\n[string \"=[C]\"]: in function `OnMapChanged'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:60: in function `SetMapID'\n...\n[string \"@Interface/AddOns/Blizzard_UIParentPanelManager/Mainline/UIParentPanelManager.lua\"]:174: in function <...ParentPanelManager/Mainline/UIParentPanelManager.lua:169>\n[string \"=[C]\"]: in function `SetAttribute'\n[string \"@Interface/AddOns/Blizzard_UIParentPanelManager/Mainline/UIParentPanelManager.lua\"]:888: in function <...ParentPanelManager/Mainline/UIParentPanelManager.lua:866>\n[string \"=[C]\"]: ?\n[string \"=[C]\"]: in function `ShowUIPanel'\n[string \"@Interface/AddOns/Blizzard_WorldMap/QuestLogOwnerMixin.lua\"]:106: in function `SetDisplayState'\n[string \"@Interface/AddOns/Blizzard_WorldMap/QuestLogOwnerMixin.lua\"]:42: in function `HandleUserActionToggleSelf'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:511: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:510>\n[string \"=[C]\"]: in function `ToggleWorldMap'\n[string \"TOGGLEWORLDMAP\"]:1: in function <[string \"TOGGLEWORLDMAP\"]:1>",
 ["session"] = 7228,
+["counter"] = 1,
+},
+{
+["message"] = "...Ons/Blizzard_FrameXML/Mainline/AlertFrameSystems.lua:325: Action[SetPoint] failed because[Cannot anchor to a region dependent on it]: attempted from: Texture:SetPoint.",
+["time"] = "2024/08/23 12:52:03",
+["locals"] = "(*temporary) = Texture {\n PixelSnapDisabled = true\n b = Frame {\n }\n}\n(*temporary) = \"CENTER\"\n(*temporary) = -1\n(*temporary) = -2\n",
+["stack"] = "[string \"=[C]\"]: in function `SetPoint'\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrameSystems.lua\"]:325: in function <...Ons/Blizzard_FrameXML/Mainline/AlertFrameSystems.lua:299>\n[string \"=[C]\"]: in function `setUpFunction'\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:180: in function <...ce/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua:166>\n[string \"=(tail call)\"]: ?\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:86: in function `resetFunc'\n[string \"@Interface/AddOns/Blizzard_SharedXMLBase/Pools.lua\"]:184: in function `CallReset'\n[string \"@Interface/AddOns/Blizzard_SharedXMLBase/Pools.lua\"]:88: in function <Interface/AddOns/Blizzard_SharedXMLBase/Pools.lua:68>\n[string \"=(tail call)\"]: ?\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:108: in function `OnFrameHide'\n[string \"@Interface/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua\"]:163: in function <...ce/AddOns/Blizzard_FrameXML/Mainline/AlertFrames.lua:162>\n[string \"=[C]\"]: in function `Hide'\n[string \"*AlertFrameSystems.xml:176_OnFinished\"]:1: in function <[string \"*AlertFrameSystems.xml:176_OnFinished\"]:1>",
+["session"] = 7229,
+["counter"] = 4,
+},
+{
+["message"] = "[ADDON_ACTION_FORBIDDEN] AddOn 'ElvUI' tried to call the protected function 'UseQuestLogSpecialItem()'.",
+["time"] = "2024/08/22 18:51:37",
+["locals"] = "_ = Frame {\n}\nevent = \"ADDON_ACTION_FORBIDDEN\"\nevents = <table> {\n}\n",
+["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `UseQuestLogSpecialItem'\n[string \"@Interface/AddOns/Blizzard_ObjectiveTracker/Blizzard_ObjectiveTrackerShared.lua\"]:94: in function <...ObjectiveTracker/Blizzard_ObjectiveTrackerShared.lua:87>",
+["session"] = 7233,
+["counter"] = 2,
+},
+{
+["message"] = "[ADDON_ACTION_BLOCKED] AddOn 'ElvUI' tried to call the protected function 'Button:SetPassThroughButtons()'.",
+["time"] = "2024/08/25 02:34:47",
+["locals"] = "_ = Frame {\n}\nevent = \"ADDON_ACTION_BLOCKED\"\nevents = <table> {\n}\n",
+["stack"] = "[string \"@Interface/AddOns/!BugGrabber/BugGrabber.lua\"]:485: in function <Interface/AddOns/!BugGrabber/BugGrabber.lua:485>\n[string \"=[C]\"]: in function `SetPassThroughButtons'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/MapCanvas_DataProviderBase.lua\"]:224: in function `CheckMouseButtonPassthrough'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:209: in function `AcquirePin'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/BonusObjectiveDataProvider.lua\"]:97: in function <...haredMapDataProviders/BonusObjectiveDataProvider.lua:92>\n[string \"=[C]\"]: in function `xpcall'\n[string \"@Interface/AddOns/Blizzard_ObjectAPI/Mainline/AsyncCallbackSystem.lua\"]:76: in function `FireCallbacks'\n[string \"@Interface/AddOns/Blizzard_ObjectAPI/Mainline/AsyncCallbackSystem.lua\"]:35: in function <.../Blizzard_ObjectAPI/Mainline/AsyncCallbackSystem.lua:31>\n[string \"=[C]\"]: in function `accessor'\n[string \"@Interface/AddOns/Blizzard_ObjectAPI/Mainline/AsyncCallbackSystem.lua\"]:52: in function `AddCallback'\n[string \"@Interface/AddOns/Blizzard_ObjectAPI/Mainline/AsyncCallbackSystem.lua\"]:60: in function `AddCancelableCallback'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/BonusObjectiveDataProvider.lua\"]:92: in function `RefreshAllData'\n[string \"@Interface/AddOns/Blizzard_SharedMapDataProviders/BonusObjectiveDataProvider.lua\"]:65: in function `OnEvent'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/MapCanvas_DataProviderBase.lua\"]:99: in function `SignalEvent'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:106: in function <...ace/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua:105>\n[string \"=[C]\"]: in function `secureexecuterange'\n[string \"@Interface/AddOns/Blizzard_MapCanvas/Blizzard_MapCanvas.lua\"]:109: in function `OnEvent'\n[string \"@Interface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua\"]:148: in function <...rface/AddOns/Blizzard_WorldMap/Blizzard_WorldMap.lua:147>",
+["session"] = 7234,
 ["counter"] = 1,
 },
 },

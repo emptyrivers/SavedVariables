@@ -14,9 +14,9 @@ BetterBagsDB = {
 ["Asperos - Kel'Thuzad"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Gelae - Kel'Thuzad"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
+["Gelae - Kel'Thuzad"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
@@ -108,6 +108,9 @@ BetterBagsDB = {
 ["Waist"] = {
 ["shown"] = true,
 },
+["Gear: Augmentation"] = {
+["shown"] = true,
+},
 ["Battle Pet"] = {
 ["shown"] = true,
 },
@@ -138,10 +141,16 @@ BetterBagsDB = {
 ["Archaeology"] = {
 ["shown"] = true,
 },
+["|cff0070ddPhoenix Wishwing|r"] = {
+["shown"] = true,
+},
 ["Diamanthia Journal"] = {
 ["shown"] = true,
 },
 ["|cfff49813Eternal Threads|r"] = {
+["shown"] = true,
+},
+["Glyph"] = {
 ["shown"] = true,
 },
 ["Other"] = {
@@ -150,31 +159,31 @@ BetterBagsDB = {
 ["Fortune Cards"] = {
 ["shown"] = true,
 },
-["|cff0070ddPhoenix Wishwing|r"] = {
+["Item Enhancement"] = {
 ["shown"] = true,
 },
 ["Finger"] = {
 ["shown"] = true,
 },
-["Herbalism"] = {
-["shown"] = true,
-},
-["Glyph"] = {
-["shown"] = true,
-},
-["Item Enhancement"] = {
-["shown"] = true,
-},
 ["Neck"] = {
 ["shown"] = true,
 },
-["Cooking"] = {
+["Quest"] = {
+["shown"] = true,
+},
+["Armor"] = {
+["shown"] = true,
+},
+["Wrist"] = {
+["shown"] = true,
+},
+["Recipe"] = {
 ["shown"] = true,
 },
 ["Azerothian Archives"] = {
 ["shown"] = true,
 },
-["Armor"] = {
+["Consumable"] = {
 ["shown"] = true,
 },
 ["|cff67CF9EDreamsurge|r"] = {
@@ -183,16 +192,22 @@ BetterBagsDB = {
 ["Battle Pets"] = {
 ["shown"] = true,
 },
-["Wrist"] = {
+["Gear: Preservation"] = {
 ["shown"] = true,
 },
 ["|cfff49813Bronze|r"] = {
 ["shown"] = true,
 },
-["Consumable"] = {
+["Darkmoon Cards"] = {
 ["shown"] = true,
 },
-["|cff0070ddProfession Knowledge|r"] = {
+["Two-Hand"] = {
+["shown"] = true,
+},
+["Mining"] = {
+["shown"] = true,
+},
+["|cffEDE4D3Time Rift|r"] = {
 ["shown"] = true,
 },
 ["Leatherworking"] = {
@@ -201,16 +216,10 @@ BetterBagsDB = {
 ["|cff0070ddChip|r"] = {
 ["shown"] = true,
 },
-["Mining"] = {
-["shown"] = true,
-},
-["Two-Hand"] = {
-["shown"] = true,
-},
 ["|cffff8040Loamm|r"] = {
 ["shown"] = true,
 },
-["|cffEDE4D3Time Rift|r"] = {
+["|cff0070ddProfession Knowledge|r"] = {
 ["shown"] = true,
 },
 ["Miscellaneous"] = {
@@ -225,16 +234,16 @@ BetterBagsDB = {
 ["|cffff8040Crests|r"] = {
 ["shown"] = true,
 },
-["Darkmoon Cards"] = {
+["Cooking"] = {
 ["shown"] = true,
 },
-["Recipe"] = {
-["shown"] = true,
-},
-["Quest"] = {
+["|cff88AAFFArtisan Curios|r"] = {
 ["shown"] = true,
 },
 ["Profession Tool"] = {
+["shown"] = true,
+},
+["Herbalism"] = {
 ["shown"] = true,
 },
 ["Inscription"] = {
@@ -583,6 +592,16 @@ true,
 ["name"] = "Waist",
 ["dynamic"] = true,
 },
+["Gear: Augmentation"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gear: Augmentation",
+["dynamic"] = true,
+},
 ["Battle Pet"] = {
 ["enabled"] = {
 true,
@@ -632,6 +651,16 @@ true,
 ["name"] = "Elemental",
 ["dynamic"] = true,
 },
+["Leatherworking"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Leatherworking",
+["dynamic"] = true,
+},
 ["Treasure Sacks"] = {
 ["enabled"] = {
 true,
@@ -659,15 +688,23 @@ true,
 },
 ["name"] = "|cff910951Fyrakk Assault|r",
 },
-["Leatherworking"] = {
+["|cff0070ddPhoenix Wishwing|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Leatherworking",
-["dynamic"] = true,
+["name"] = "|cff0070ddPhoenix Wishwing|r",
+},
+["|cffB5D3E7Storm's Fury|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffB5D3E7Storm's Fury|r",
 },
 ["Item Enhancement"] = {
 ["enabled"] = {
@@ -679,23 +716,24 @@ true,
 ["name"] = "Item Enhancement",
 ["dynamic"] = true,
 },
-["|cff0070ddPhoenix Wishwing|r"] = {
+["Tailoring"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cff0070ddPhoenix Wishwing|r",
+["name"] = "Tailoring",
+["dynamic"] = true,
 },
-["|cffa335eeMagmashell|r"] = {
+["|cffEDE4D3Time Rift|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeMagmashell|r",
+["name"] = "|cffEDE4D3Time Rift|r",
 },
 ["Diamanthia Journal"] = {
 ["enabled"] = {
@@ -715,14 +753,14 @@ true,
 },
 ["name"] = "|cfff49813Eternal Threads|r",
 },
-["|cffB5D3E7Storm's Fury|r"] = {
+["|cffa335eeMagmashell|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffB5D3E7Storm's Fury|r",
+["name"] = "|cffa335eeMagmashell|r",
 },
 ["Other"] = {
 ["enabled"] = {
@@ -743,14 +781,14 @@ true,
 },
 ["name"] = "Fortune Cards",
 },
-["Neck"] = {
+["Quest"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Neck",
+["name"] = "Quest",
 ["dynamic"] = true,
 },
 ["Finger"] = {
@@ -773,14 +811,14 @@ true,
 ["name"] = "Herbalism",
 ["dynamic"] = true,
 },
-["|cffEDE4D3Time Rift|r"] = {
+["|cffa335eeAwakened|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffEDE4D3Time Rift|r",
+["name"] = "|cffa335eeAwakened|r",
 },
 ["Remix Cogwheel"] = {
 ["enabled"] = {
@@ -792,14 +830,15 @@ true,
 ["name"] = "Remix Cogwheel",
 ["dynamic"] = true,
 },
-["|cffa335eeAwakened|r"] = {
+["Cooking"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeAwakened|r",
+["name"] = "Cooking",
+["dynamic"] = true,
 },
 ["Recipe"] = {
 ["enabled"] = {
@@ -820,53 +859,6 @@ true,
 },
 ["name"] = "Azerothian Archives",
 },
-["Cooking"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Cooking",
-["dynamic"] = true,
-},
-["Armor"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Armor",
-["dynamic"] = true,
-},
-["Darkmoon Cards"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Darkmoon Cards",
-},
-["|cff67CF9EDreamsurge|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff67CF9EDreamsurge|r",
-},
-["|cfff49813Bronze|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cfff49813Bronze|r",
-},
 ["|cff0070ddProfession Knowledge|r"] = {
 ["enabled"] = {
 true,
@@ -875,15 +867,6 @@ true,
 ["itemList"] = {
 },
 ["name"] = "|cff0070ddProfession Knowledge|r",
-},
-["|cff56BBFFDrakewatcher Manuscript|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
 },
 ["Mining"] = {
 ["enabled"] = {
@@ -895,6 +878,34 @@ true,
 ["name"] = "Mining",
 ["dynamic"] = true,
 },
+["Darkmoon Cards"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Darkmoon Cards",
+},
+["Gear: Preservation"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gear: Preservation",
+["dynamic"] = true,
+},
+["|cfff49813Bronze|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cfff49813Bronze|r",
+},
 ["|cff0070ddChip|r"] = {
 ["enabled"] = {
 true,
@@ -904,6 +915,15 @@ true,
 },
 ["name"] = "|cff0070ddChip|r",
 },
+["|cff56BBFFDrakewatcher Manuscript|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
+},
 ["Archaeology"] = {
 ["enabled"] = {
 true,
@@ -912,6 +932,25 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Archaeology",
+},
+["Wrist"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Wrist",
+["dynamic"] = true,
+},
+["|cff67CF9EDreamsurge|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff67CF9EDreamsurge|r",
 },
 ["Two-Hand"] = {
 ["enabled"] = {
@@ -932,14 +971,14 @@ true,
 },
 ["name"] = "|cffff8040Loamm|r",
 },
-["Wrist"] = {
+["Armor"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Wrist",
+["name"] = "Armor",
 ["dynamic"] = true,
 },
 ["Miscellaneous"] = {
@@ -981,14 +1020,14 @@ true,
 },
 ["name"] = "|cffff8040Crests|r",
 },
-["Quest"] = {
+["Neck"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Quest",
+["name"] = "Neck",
 ["dynamic"] = true,
 },
 ["|cff88AAFFArtisan Curios|r"] = {
@@ -999,16 +1038,6 @@ true,
 ["itemList"] = {
 },
 ["name"] = "|cff88AAFFArtisan Curios|r",
-},
-["Tailoring"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Tailoring",
-["dynamic"] = true,
 },
 ["Profession Tool"] = {
 ["enabled"] = {
@@ -1028,6 +1057,16 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Inscription",
+["dynamic"] = true,
+},
+["Gem"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gem",
 ["dynamic"] = true,
 },
 },
@@ -1065,7 +1104,7 @@ true,
 [211101] = true,
 [216643] = true,
 [210714] = true,
-[210718] = true,
+[216639] = true,
 [79819] = true,
 [220367] = true,
 [220371] = true,
@@ -1081,11 +1120,11 @@ true,
 [211103] = true,
 [210681] = true,
 [210716] = true,
-[211123] = true,
 [216641] = true,
+[211123] = true,
 [220369] = true,
 [220373] = true,
-[216639] = true,
+[210718] = true,
 },
 ["name"] = "Remix Stat",
 },
@@ -1268,7 +1307,7 @@ true,
 [130927] = true,
 [79909] = true,
 [114145] = true,
-[89171] = true,
+[114161] = true,
 [114177] = true,
 [114193] = true,
 [114209] = true,
@@ -1282,10 +1321,10 @@ true,
 [79912] = true,
 [130928] = true,
 [118732] = true,
-[114162] = true,
-[114146] = true,
 [89172] = true,
-[154914] = true,
+[114146] = true,
+[114162] = true,
+[114178] = true,
 [114194] = true,
 [114210] = true,
 [160741] = true,
@@ -1300,19 +1339,19 @@ true,
 [130912] = true,
 [114159] = true,
 [114147] = true,
-[89173] = true,
-[114179] = true,
+[114163] = true,
+[154916] = true,
 [114195] = true,
 [114211] = true,
 [130913] = true,
 [95373] = true,
 [95389] = true,
 [79898] = true,
-[130930] = true,
+[52843] = true,
 [154917] = true,
 [87548] = true,
-[79914] = true,
-[52843] = true,
+[130914] = true,
+[130930] = true,
 [130911] = true,
 [64395] = true,
 [114148] = true,
@@ -1329,21 +1368,21 @@ true,
 [79899] = true,
 [79915] = true,
 [130931] = true,
-[154921] = true,
+[87534] = true,
 [183384] = true,
 [114149] = true,
-[114165] = true,
+[89175] = true,
 [114181] = true,
 [114197] = true,
 [114213] = true,
-[130916] = true,
+[79916] = true,
 [95375] = true,
 [183385] = true,
 [114166] = true,
 [79868] = true,
-[87534] = true,
+[154921] = true,
 [79900] = true,
-[79916] = true,
+[130916] = true,
 [130932] = true,
 [154922] = true,
 [154935] = true,
@@ -1354,18 +1393,18 @@ true,
 [114214] = true,
 [114176] = true,
 [95376] = true,
-[79917] = true,
+[130917] = true,
 [64657] = true,
 [79869] = true,
-[87535] = true,
+[154923] = true,
 [79901] = true,
-[130917] = true,
+[79917] = true,
 [130933] = true,
 [64394] = true,
 [117386] = true,
 [114151] = true,
 [114167] = true,
-[154924] = true,
+[114183] = true,
 [114199] = true,
 [114215] = true,
 [136383] = true,
@@ -1384,36 +1423,36 @@ true,
 [154926] = true,
 [114200] = true,
 [154990] = true,
-[64392] = true,
 [95378] = true,
-[142114] = true,
+[64392] = true,
+[114153] = true,
 [142113] = true,
 [114185] = true,
-[154927] = true,
-[79903] = true,
+[87537] = true,
+[130903] = true,
 [130919] = true,
 [130935] = true,
 [136632] = true,
 [154933] = true,
-[114153] = true,
+[142114] = true,
 [114169] = true,
 [154928] = true,
 [114201] = true,
 [114217] = true,
 [122606] = true,
 [95379] = true,
-[154929] = true,
-[142115] = true,
-[79904] = true,
 [87538] = true,
+[142115] = true,
 [130904] = true,
+[154929] = true,
+[79904] = true,
 [130920] = true,
 [117389] = true,
 [89174] = true,
 [118728] = true,
 [114154] = true,
 [114170] = true,
-[154930] = true,
+[114186] = true,
 [114202] = true,
 [114218] = true,
 [134086] = true,
@@ -1432,7 +1471,7 @@ true,
 [114187] = true,
 [114203] = true,
 [114219] = true,
-[114186] = true,
+[154930] = true,
 [95381] = true,
 [136372] = true,
 [117388] = true,
@@ -1440,46 +1479,46 @@ true,
 [87540] = true,
 [130906] = true,
 [130922] = true,
-[130903] = true,
-[87537] = true,
+[79903] = true,
+[154927] = true,
 [118730] = true,
 [114156] = true,
 [114172] = true,
 [114188] = true,
 [114204] = true,
 [114220] = true,
-[114183] = true,
+[154924] = true,
 [95382] = true,
 [63127] = true,
-[154923] = true,
+[87535] = true,
 [130910] = true,
-[164625] = true,
+[87541] = true,
 [130907] = true,
 [130923] = true,
-[87541] = true,
-[89175] = true,
+[164625] = true,
+[114165] = true,
 [114141] = true,
 [114157] = true,
 [114173] = true,
 [114189] = true,
 [114205] = true,
 [114221] = true,
-[130914] = true,
+[79914] = true,
 [95383] = true,
 [109585] = true,
-[154916] = true,
-[114163] = true,
+[114179] = true,
+[89173] = true,
 [164627] = true,
 [79908] = true,
 [130924] = true,
 [95386] = true,
-[114178] = true,
+[154914] = true,
 [114142] = true,
 [114158] = true,
 [87399] = true,
 [114190] = true,
 [114206] = true,
-[114161] = true,
+[89171] = true,
 },
 ["name"] = "Archaeology",
 },
@@ -1591,14 +1630,14 @@ true,
 },
 ["name"] = "Recipe",
 },
-["|cfff49813Bronze|r"] = {
+["|cffa335eeMossy Mammoth|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cfff49813Bronze|r",
+["name"] = "|cffa335eeMossy Mammoth|r",
 },
 ["Cooking"] = {
 ["enabled"] = {
@@ -1627,14 +1666,14 @@ true,
 },
 ["name"] = "|cff88AAFFZskera Vault|r",
 },
-["Darkmoon Cards"] = {
+["Battle Pets"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Darkmoon Cards",
+["name"] = "Battle Pets",
 },
 ["|cff67CF9EDreamsurge|r"] = {
 ["enabled"] = {
@@ -1645,14 +1684,14 @@ true,
 },
 ["name"] = "|cff67CF9EDreamsurge|r",
 },
-["|cffa335eeMossy Mammoth|r"] = {
+["|cfff49813Bronze|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeMossy Mammoth|r",
+["name"] = "|cfff49813Bronze|r",
 },
 ["Consumable"] = {
 ["enabled"] = {
@@ -1773,14 +1812,14 @@ true,
 },
 ["name"] = "|cffFFAB00Primordial Stones|r",
 },
-["Battle Pets"] = {
+["Darkmoon Cards"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Battle Pets",
+["name"] = "Darkmoon Cards",
 },
 ["|cff88AAFFArtisan Curios|r"] = {
 ["enabled"] = {
@@ -2038,7 +2077,7 @@ true,
 [114148] = "Archaeology",
 [130931] = "Archaeology",
 [114149] = "Archaeology",
-[154935] = "Archaeology",
+[118731] = "Archaeology",
 [114164] = "Archaeology",
 [114196] = "Archaeology",
 [130917] = "Archaeology",
@@ -2049,12 +2088,12 @@ true,
 [114173] = "Archaeology",
 [219386] = "Remix Meta",
 [87538] = "Archaeology",
-[130932] = "Archaeology",
+[216640] = "Remix Stat",
 [218045] = "Remix Cogwheel",
 [218109] = "Remix Cogwheel",
-[216640] = "Remix Stat",
-[79896] = "Archaeology",
+[130932] = "Archaeology",
 [118732] = "Archaeology",
+[79896] = "Archaeology",
 [114165] = "Archaeology",
 [114197] = "Archaeology",
 [212361] = "Remix Tinker",
@@ -2083,8 +2122,8 @@ true,
 [218108] = "Remix Cogwheel",
 [217983] = "Remix Cogwheel",
 [109584] = "Archaeology",
-[130934] = "Archaeology",
 [216644] = "Remix Stat",
+[130934] = "Archaeology",
 [154931] = "Archaeology",
 [79898] = "Archaeology",
 [114167] = "Archaeology",
@@ -2161,7 +2200,7 @@ true,
 [219944] = "Remix Tinker",
 [221982] = "Remix Meta",
 [210718] = "Remix Stat",
-[118731] = "Archaeology",
+[154935] = "Archaeology",
 [210716] = "Remix Stat",
 [130907] = "Archaeology",
 [211107] = "Remix Stat",

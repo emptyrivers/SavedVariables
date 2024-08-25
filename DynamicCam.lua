@@ -63,7 +63,7 @@ DynamicCamDB = {
 ["Boringrivers - Bleeding Hollow"] = "Default",
 ["Serenerivers - Sargeras"] = "Default",
 ["Riparium - Argent Dawn"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
+["Crazyrivers - Arthas"] = "Default",
 ["Mecharivers - Sargeras"] = "Default",
 ["Eysta - Sargeras"] = "Default",
 ["Ragingrivers - Arthas"] = "Default",
@@ -73,7 +73,7 @@ DynamicCamDB = {
 ["Evilrivers - Kel'Thuzad"] = "Default",
 ["Feralrivers - Sargeras"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
-["Crazyrivers - Arthas"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
 ["Beefyrivers - Bleeding Hollow"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
 ["Tinyrivers - Sargeras"] = "Default",
@@ -106,8 +106,8 @@ DynamicCamDB = {
 },
 ["023"] = {
 ["enabled"] = true,
-["name"] = "Dungeon (Combat, Boss)",
 ["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and UnitAffectingCombat(\"player\") and IsEncounterInProgress();",
+["name"] = "Dungeon (Combat, Boss)",
 ["situationSettings"] = {
 ["cvars"] = {
 ["test_cameraDynamicPitch"] = 0,
@@ -165,9 +165,9 @@ DynamicCamDB = {
 ["zoomValue"] = 8,
 },
 },
-["034"] = {
+["031"] = {
 ["enabled"] = true,
-["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
+["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
 ["situationSettings"] = {
 ["cvars"] = {
 ["test_cameraDynamicPitch"] = 0,
@@ -225,38 +225,42 @@ DynamicCamDB = {
 ["rotationTime"] = 10,
 ["rotateBack"] = false,
 },
-["executeOnInit"] = "this.spells = {136508, 189838, 54406, 94719, 556, 168487, 168499, 171253, 50977, 8690, 222695, 171253, 224869, 53140, 3565, 32271, 193759, 3562, 3567, 33690, 35715, 32272, 49358, 176248, 3561, 49359, 3566, 88342, 88344, 3563, 132627, 132621, 176242, 192085, 192084, 216016};",
-["condition"] = "for k,v in pairs(this.spells) do \n    if (UnitCastingInfo(\"player\") == GetSpellInfo(v)) then \n        return true;\n    end\nend\nreturn false;",
 ["priority"] = 20,
+["condition"] = "for k,v in pairs(this.spells) do \n    if (UnitCastingInfo(\"player\") == GetSpellInfo(v)) then \n        return true;\n    end\nend\nreturn false;",
+["executeOnInit"] = "this.spells = {136508, 189838, 54406, 94719, 556, 168487, 168499, 171253, 50977, 8690, 222695, 171253, 224869, 53140, 3565, 32271, 193759, 3562, 3567, 33690, 35715, 32272, 49358, 176248, 3561, 49359, 3566, 88342, 88344, 3563, 132627, 132621, 176242, 192085, 192084, 216016};",
 },
 ["050"] = {
 ["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"arena\");",
 },
 ["021"] = {
 ["enabled"] = true,
-["name"] = "Dungeon (Outdoors)",
 ["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and IsOutdoors();",
+["name"] = "Dungeon (Outdoors)",
 ["situationSettings"] = {
 ["cvars"] = {
 ["test_cameraDynamicPitch"] = 0,
 },
 },
 },
-["301"] = {
+["160"] = {
+["situationSettings"] = {
+["cvars"] = {
+["test_cameraHeadMovementStrength"] = 0,
+["test_cameraOverShoulder"] = -1,
+},
+},
 ["viewZoom"] = {
 ["enabled"] = true,
-["zoomType"] = "in",
 ["zoomMax"] = 20,
 ["zoomTransitionTime"] = 0.75,
 ["zoomTimeIsMax"] = true,
-["zoomValue"] = 4,
+["zoomValue"] = 15,
 },
-["priority"] = 20,
-["condition"] = "return (MailFrame and MailFrame:IsShown())",
-["events"] = {
-"MAIL_CLOSED",
-"MAIL_SHOW",
-"GOSSIP_CLOSED",
+["condition"] = "return UnitOnTaxi(\"player\");",
+["hideUI"] = {
+["enabled"] = true,
+["hideEntireUI"] = true,
+["fadeOpacity"] = 0,
 },
 },
 ["170"] = {
@@ -269,9 +273,9 @@ DynamicCamDB = {
 },
 },
 },
-["031"] = {
+["034"] = {
 ["enabled"] = true,
-["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and IsOutdoors();",
+["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"raid\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
 ["situationSettings"] = {
 ["cvars"] = {
 ["test_cameraDynamicPitch"] = 0,
@@ -314,8 +318,8 @@ DynamicCamDB = {
 },
 ["024"] = {
 ["enabled"] = true,
-["name"] = "Dungeon (Combat, Trash)",
 ["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"party\") and UnitAffectingCombat(\"player\") and not IsEncounterInProgress();",
+["name"] = "Dungeon (Combat, Trash)",
 ["situationSettings"] = {
 ["cvars"] = {
 ["test_cameraDynamicPitch"] = 0,
@@ -357,15 +361,15 @@ nil,
 ["enabled"] = true,
 ["zoomType"] = "fit",
 ["zoomMax"] = 30,
-["zoomMin"] = 3,
 ["zoomTransitionTime"] = 0.75,
+["zoomMin"] = 3,
 ["zoomTimeIsMax"] = true,
 ["zoomValue"] = 4,
 },
 ["delay"] = 0.5,
-["executeOnInit"] = "this.frames = {\"GarrisonCapacitiveDisplayFrame\", \"BankFrame\", \"MerchantFrame\", \"GossipFrame\", \"ClassTrainerFrame\", \"QuestFrame\",}",
-["condition"] = "local shown = false;\nfor k,v in pairs(this.frames) do\n    if (_G[v] and _G[v]:IsShown()) then\n        shown = true;\n    end\nend\nreturn UnitExists(\"npc\") and UnitIsUnit(\"npc\", \"target\") and shown;",
 ["priority"] = 20,
+["condition"] = "local shown = false;\nfor k,v in pairs(this.frames) do\n    if (_G[v] and _G[v]:IsShown()) then\n        shown = true;\n    end\nend\nreturn UnitExists(\"npc\") and UnitIsUnit(\"npc\", \"target\") and shown;",
+["executeOnInit"] = "this.frames = {\"GarrisonCapacitiveDisplayFrame\", \"BankFrame\", \"MerchantFrame\", \"GossipFrame\", \"ClassTrainerFrame\", \"QuestFrame\",}",
 },
 ["020"] = {
 ["enabled"] = true,
@@ -395,25 +399,21 @@ nil,
 ["060"] = {
 ["condition"] = "local isInstance, instanceType = IsInInstance(); return (isInstance and instanceType == \"pvp\");",
 },
-["160"] = {
-["situationSettings"] = {
-["cvars"] = {
-["test_cameraHeadMovementStrength"] = 0,
-["test_cameraOverShoulder"] = -1,
-},
-},
+["301"] = {
 ["viewZoom"] = {
 ["enabled"] = true,
+["zoomType"] = "in",
 ["zoomMax"] = 20,
 ["zoomTransitionTime"] = 0.75,
 ["zoomTimeIsMax"] = true,
-["zoomValue"] = 15,
+["zoomValue"] = 4,
 },
-["condition"] = "return UnitOnTaxi(\"player\");",
-["hideUI"] = {
-["enabled"] = true,
-["hideEntireUI"] = true,
-["fadeOpacity"] = 0,
+["priority"] = 20,
+["condition"] = "return (MailFrame and MailFrame:IsShown())",
+["events"] = {
+"MAIL_CLOSED",
+"MAIL_SHOW",
+"GOSSIP_CLOSED",
 },
 },
 },

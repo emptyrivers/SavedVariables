@@ -8,9 +8,9 @@ DevToolDatabase = {
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 ["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
+["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 ["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
@@ -27,7 +27,7 @@ DevToolDatabase = {
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -44,6 +44,7 @@ DevToolDatabase = {
 ["Mangrove - Argent Dawn"] = {
 },
 ["Esker - Kel'Thuzad"] = {
+["isSideBarOpen"] = false,
 ["fontSize"] = 15,
 ["history"] = {
 "C_TransmogCollection",
@@ -59,10 +60,7 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["isSideBarOpen"] = false,
 ["collResizeWidth"] = 249.99951171875,
-},
-["Saellindris - Kel'Thuzad"] = {
 },
 ["Inundito - Kel'Thuzad"] = {
 ["fontSize"] = 17,
@@ -79,20 +77,9 @@ DevToolDatabase = {
 },
 ["collResizeWidth"] = 250.0003662109375,
 },
-["Flumina - Argent Dawn"] = {
-["isSideBarOpen"] = false,
-["fontSize"] = 16,
-["history"] = {
-"WeakAuras",
-"WeakAurasPrivate",
-"DevTool",
-"find LFR",
-"find SLASH",
-"find Data DevTool",
-"startswith DevTool",
-"DevTool.settings.history",
+["Saellindris - Kel'Thuzad"] = {
 },
-["collResizeWidth"] = 250.0003662109375,
+["Cataracts - Argent Dawn"] = {
 },
 ["Sverdrup - Argent Dawn"] = {
 ["fontSize"] = 15,
@@ -112,7 +99,6 @@ DevToolDatabase = {
 ["Emptyrivers - Sargeras"] = {
 },
 ["Alluvium - Argent Dawn"] = {
-["collResizeWidth"] = 249.9998779296875,
 ["history"] = {
 "DataStore.IsQuestCompletedBy(DataStore:GetCharacterTable(\"DataStore_Quests\", \"Headcut\"), 70516)",
 "ASDFJKL",
@@ -124,6 +110,7 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
+["collResizeWidth"] = 249.9998779296875,
 },
 ["Riparium - Argent Dawn"] = {
 ["fontSize"] = 16,
@@ -211,7 +198,20 @@ DevToolDatabase = {
 },
 ["Alandere - Argent Dawn"] = {
 },
-["Cataracts - Argent Dawn"] = {
+["Flumina - Argent Dawn"] = {
+["isSideBarOpen"] = false,
+["fontSize"] = 16,
+["history"] = {
+"WeakAuras",
+"WeakAurasPrivate",
+"DevTool",
+"find LFR",
+"find SLASH",
+"find Data DevTool",
+"startswith DevTool",
+"DevTool.settings.history",
+},
+["collResizeWidth"] = 250.0003662109375,
 },
 ["Estuary - Argent Dawn"] = {
 },

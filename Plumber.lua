@@ -24,7 +24,7 @@ PlumberDB = {
 ["HideZeroCountItem"] = true,
 ["HandyLockpick"] = true,
 ["TrackHolidayItem"] = true,
-["TalkingHead_HideWorldQuest"] = false,
+["EmeraldBountySeedList"] = true,
 ["Navigator_MasterSwitch"] = true,
 ["TalkingHead_InstantText"] = false,
 ["TalkingHead_TextOutline"] = true,
@@ -42,7 +42,7 @@ PlumberDB = {
 ["BackpackItemTracker"] = false,
 ["TalkingHead_PositionX"] = -1,
 ["TooltipShowExtraInfoCrest"] = false,
-["EmeraldBountySeedList"] = true,
+["TalkingHead_HideWorldQuest"] = false,
 ["AutoJoinEvents"] = true,
 ["WorldMapPin_TWW"] = true,
 }

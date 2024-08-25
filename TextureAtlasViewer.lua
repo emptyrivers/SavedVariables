@@ -7,6 +7,7 @@ ATVDB = {
 ["Esker - Kel'Thuzad"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Inundito - Kel'Thuzad"] = "Default",
+["Alluvium - Argent Dawn"] = "Default",
 },
 ["global"] = {
 ["settings"] = {
