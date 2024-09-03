@@ -13,7 +13,7 @@ DialogKeyDFDB = {
 ["Ochrian - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
-["Flumina - Argent Dawn"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
 ["Zimuures - Argent Dawn"] = "Default",
 ["Emptystreams - Argent Dawn"] = "Default",
 ["Emptyrivers - Sargeras"] = "Default",
@@ -30,7 +30,7 @@ DialogKeyDFDB = {
 ["Emptyrivers - Arthas"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
 ["Alandere - Argent Dawn"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["global"] = {

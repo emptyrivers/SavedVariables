@@ -40,17 +40,17 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["Shachein - Arthas"] = "Default",
 ["Beefyrivers - Bleeding Hollow"] = "Default",
 ["Wildrivers - Arthas"] = "Default",
-["Crazyrivers - Arthas"] = "Default",
-["Beefyrivers - Arthas"] = "Default",
-["Feralrivers - Sargeras"] = "Default",
 ["Emptyrivers - Sargeras"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Feralrivers - Sargeras"] = "Default",
+["Crazyrivers - Arthas"] = "Default",
 ["Boringrivers - Bleeding Hollow"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Serenerivers - Sargeras"] = "Default",
 ["Mahntaiaga - Arthas"] = "Default",
 ["Ragingrivers - Arthas"] = "Default",
-["Lotic - Argent Dawn"] = "Default",
+["Beefyrivers - Arthas"] = "Default",
 ["Eysta - Sargeras"] = "Default",
 ["Evilrivers - Sargeras"] = "Default",
 ["Emptyrivers - Bleeding Hollow"] = "Default",
@@ -607,9 +607,17 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Deebs, Tyri and Puzzle",
 ["code"] = "ability(Sweep:457) [ round=1 ]\nchange(next) [ !self(#3).active & !self(#3).played ]\nability(Wind-Up:459) [ enemy(#3).active ]\nability(#1)\nability(#2)\nability(#3)\nchange(#1)",
 },
+["team:95"] = {
+["name"] = "Little Tommy Newcomer",
+["code"] = "ability(Call Lightning:204)\nability(Build Turret:710) [self.ability(#1).usable]\nability(Metal Fist:384)\nchange(#1) [round=3 & self.aura(Mechanical:244).exists]\nability(Decoy:334)\nability(#1)\nchange(next)",
+},
 ["team:267"] = {
 ["name"] = "My Beast's Bidding (2)",
 ["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
+},
+["team:169"] = {
+["name"] = "The Terrible Three",
+["code"] = "standby [round=5]\nuse(Corrosion:447) [round=1]\nuse(Void Nova:2356)\nuse(Poison Protocol:1954)\nuse(Corrosion:447)\nuse(Explode:282)\nability(Howl:362) [enemy(#3).active]\nability(Surge of Power:593) [enemy.aura(Howl:1725).exists]\nuse(Bite:110)\nchange(next)",
 },
 ["team:146"] = {
 ["name"] = "Tarr the Terrible",
@@ -668,17 +676,17 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Dreadcoil",
 ["code"] = "if [enemy(#1).active]\n    ability(392) [self.round=1]\n    ability(985) [self.round=2]\n    ability(1002)\nendif\nability(1002)\nchange(#2) [self(#1).dead]\n\nability(#3) [enemy.hp<618 & enemy.type !~ 3]\nability(#3) [enemy.hp<406 & enemy.type ~ 3]\nability(#2) [!self(#2).aura(820).exists]\nability(#1)",
 },
-["team:254"] = {
-["name"] = "A New Vocation",
-["code"] = "ability(#2) [self.aura(Emerald Presence).duration<=1]\nability(#3) [self.hp<800]\nability(#1)\nstandby",
+["team:148"] = {
+["name"] = "Farmer Nishi",
+["code"] = "change(#2) [self(#1).dead & !self(#2).played]\nchange(#3) [self(#2).active]\nability(Pump) [enemy.round=1]\nability(Pump) [enemy.round=3 & enemy(#2).active]\nability(Cleansing Rain) [enemy.round=2]\nability(Water Jet)\nability(Shock and Awe)\nability(Ion Cannon) (edited)",
 },
 ["team:266"] = {
 ["name"] = "Growing Ectoplasm 2",
 ["code"] = "change(#2) [self(#1).dead]\nchange(#3) [self(#2).dead]\nif [enemy(#1).active]\n    ability(919) [!enemy.aura(918).exists]\n    ability(921)\n    ability(364) [enemy.aura(542).exists]\nendif\nability(919) [!enemy.aura(918).exists]\nability(921)\nability(597) [self.aura(823).duration<=1]\nability(598) [self.hp<1000]\nability(525)",
 },
-["team:148"] = {
-["name"] = "Farmer Nishi",
-["code"] = "change(#2) [self(#1).dead & !self(#2).played]\nchange(#3) [self(#2).active]\nability(Pump) [enemy.round=1]\nability(Pump) [enemy.round=3 & enemy(#2).active]\nability(Cleansing Rain) [enemy.round=2]\nability(Water Jet)\nability(Shock and Awe)\nability(Ion Cannon) (edited)",
+["team:254"] = {
+["name"] = "A New Vocation",
+["code"] = "ability(#2) [self.aura(Emerald Presence).duration<=1]\nability(#3) [self.hp<800]\nability(#1)\nstandby",
 },
 ["team:231"] = {
 ["name"] = "Everliving Spore",
@@ -831,14 +839,14 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Oh, Ominitron",
 ["code"] = "ability(453)\nability(406) [self.round=2]\nability(814)\nability(406)\nchange(#2) [!self(#2).played]\nchange(#3)\nability(334) [self.round=1]\nability(779) [enemy(#1).dead & enemy(#2).dead]\nability(115)",
 },
-["team:164"] = {
-["author"] = "Emptyrivers-Arthas",
-["name"] = "Critters are Friends, Not Food",
-["code"] = "ability(Decoy:334) [ enemy.aura(Bomb:819).duration=1 ]\nability(Bombing Run:647) [ enemy.round<3 ]\nability(Bombing Run:647) [ self.aura(Mechanical:244).exists & enemy(#1).hp<220 ]\nability(Missile:777)\nchange(#2) [ !self(#2).played ]\nchange(#3)\nability(Arcane Storm:589)\nability(Mana Surge:489)\nability(Tail Sweep:122)",
+["team:121"] = {
+["author"] = "Tinyrivers-Sargeras",
+["name"] = "Meet The Maw",
+["code"] = "ability(Proto-Strike:612) [round=1]\nability(Emerald Presence:597) [round=3]\nability(#1)\nchange(#2)",
 },
-["team:95"] = {
-["name"] = "Little Tommy Newcomer",
-["code"] = "ability(Call Lightning:204)\nability(Build Turret:710) [self.ability(#1).usable]\nability(Metal Fist:384)\nchange(#1) [round=3 & self.aura(Mechanical:244).exists]\nability(Decoy:334)\nability(#1)\nchange(next)",
+["team:245"] = {
+["name"] = "Enok the Stinky",
+["code"] = "ability(Curse of Doom:218)\nability(Haunt:652) [round=3]\nability(Black Claw:919) [!enemy.aura(Black Claw:918).exists]\nability(Flock:581)\nability(Hunting Party:921)\nability(Leap:364)\nability(#1)\nchange(next)",
 },
 ["team:181"] = {
 ["author"] = "Tinyrivers-Sargeras",
@@ -849,10 +857,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Storm-Touched Swoglet",
 ["code"] = "use(#1) [round=5]\nuse(Black Claw:919) [!enemy.aura(Black Claw:918).exists]\nuse(#3)\nchange(#2)",
 },
-["team:121"] = {
-["author"] = "Tinyrivers-Sargeras",
-["name"] = "Meet The Maw",
-["code"] = "ability(Proto-Strike:612) [round=1]\nability(Emerald Presence:597) [round=3]\nability(#1)\nchange(#2)",
+["team:164"] = {
+["author"] = "Emptyrivers-Arthas",
+["name"] = "Critters are Friends, Not Food",
+["code"] = "ability(Decoy:334) [ enemy.aura(Bomb:819).duration=1 ]\nability(Bombing Run:647) [ enemy.round<3 ]\nability(Bombing Run:647) [ self.aura(Mechanical:244).exists & enemy(#1).hp<220 ]\nability(Missile:777)\nchange(#2) [ !self(#2).played ]\nchange(#3)\nability(Arcane Storm:589)\nability(Mana Surge:489)\nability(Tail Sweep:122)",
 },
 ["team:87"] = {
 ["name"] = "Seeker Zusshi",

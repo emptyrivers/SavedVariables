@@ -10,7 +10,7 @@ MythicDungeonToolsDB = {
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
 ["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 ["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
+["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
@@ -28,7 +28,7 @@ MythicDungeonToolsDB = {
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["global"] = {
@@ -634,19 +634,19 @@ nil,
 [11] = {
 3,
 },
+["color"] = "fffb3e",
+[8] = {
+2,
+},
+[3] = {
+7,
+},
 [12] = {
 3,
 2,
 6,
 5,
 },
-[8] = {
-2,
-},
-[10] = {
-4,
-},
-["color"] = "fffb3e",
 [5] = {
 4,
 3,
@@ -654,8 +654,8 @@ nil,
 [9] = {
 4,
 },
-[3] = {
-7,
+[10] = {
+4,
 },
 },
 {
@@ -740,10 +740,6 @@ nil,
 5,
 },
 ["color"] = "a1ff3e",
-[4] = {
-},
-[12] = {
-},
 [14] = {
 28,
 27,
@@ -756,15 +752,19 @@ nil,
 13,
 15,
 },
+[12] = {
+},
+[4] = {
+},
 },
 {
 {
 },
 ["color"] = "ff3eff",
+[4] = {
+},
 [15] = {
 8,
-},
-[4] = {
 },
 [14] = {
 32,
@@ -1056,26 +1056,26 @@ nil,
 [24] = {
 3,
 },
-[16] = {
-7,
+[23] = {
+2,
 },
 [32] = {
 4,
 10,
 14,
 },
-[33] = {
-7,
-8,
-},
+["color"] = "a1ff3e",
 [14] = {
 7,
 8,
 },
-[23] = {
-2,
+[16] = {
+7,
 },
-["color"] = "a1ff3e",
+[33] = {
+7,
+8,
+},
 },
 {
 [20] = {
@@ -1209,16 +1209,16 @@ nil,
 [15] = {
 2,
 },
-["color"] = "3effff",
+[29] = {
+1,
+},
 [36] = {
 11,
 },
 [9] = {
 6,
 },
-[29] = {
-1,
-},
+["color"] = "3effff",
 },
 {
 {
@@ -2049,10 +2049,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -2373,10 +2373,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -2697,10 +2697,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -3021,10 +3021,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -3345,10 +3345,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {

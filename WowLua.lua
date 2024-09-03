@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-["currentPage"] = 5,
+["currentPage"] = 7,
 ["fontSize"] = 14,
 ["pages"] = {
 {
@@ -24,8 +24,18 @@ WowLua_DB = {
 {
 ["untitled"] = true,
 ["name"] = "Untitled 13",
+["content"] = "local function make()\n   local f = CreateFrame 'frame'\n   local function d(str)\n      print(str)\n      print(f:GetBoundsRect())\n   end\n   return f, d\nend\n\nlocal f, d = make()\nd'lonely frame'\nf:SetSize(8,8)\nd'lonely frame with size 8x8'\nf:SetParent(UIParent)\nd'lonely frame with size 8x8 and child of UIParent'\nf:SetPoint(\"CENTER\")\nd'lonely frame with size 8x8 and child of UIParent, and a CENTER point set'\n\nlocal c = CreateFrame('frame', nil, f)\nd'frame with size 8x8 & anchored to UIParent, with an unanchored frame child'\nc:SetPoint(\"CENTER\", UIParent)\nc:SetSize(16, 16)\nd'frame with size 8x8 & anchored to UIParent, with a frame child also anchored to UIParent and size 16x16'\nc:SetParent(UIParent)\nd'as before, but child frame is reparented to UIParent'\n\n--[[\nlocal c2 = CreateFrame('frame', nil, f)\nc2:SetPoint(\"Center\", 20, 0)\nc2:SetSize(16, 16)\nd'frame with size 8x8 & anchored to UIParent, with a frame child anchored to CENTER and size 16x16, and a second child anchored to CENTER and size 16x16, but xOffset of 20'\nc2:SetPoint(\"LEFT\", c, \"RIGHT\")\nd'frame with size 8x8 & anchored to UIParent, with a frame child anchored to CENTER and size 16x16, and a second child\\'s LEFT anchored to RIGHT of first child and size 16x16'\nc2:SetParent(c)\nd'frame with size 8x8 & anchored to UIParent, with a frame child anchored to CENTER and size 16x16, and a grandchild whose LEFT is anchored to RIGHT of first child and size 16x6'\nc:SetPoint(\"CENTER\", UIParent)\nd'frame with size 8x8 & anchored to UIParent, with a frame child anchored to UIParent CENTER and size 16x16, and a grandchild whose LEFT is anchored to RIGHT of first child and size 16x6'\nc:ClearAllPoints()\nd'frame with size 8x8 & anchored to UIParent, with a frame child cleared of all points and size 16x16, and a grandchild whose LEFT is anchored to RIGHT of first child and size 16x6'\n--]]\n\n--[[\nlocal s = f:CreateFontString(nil, \"ARTWORK\", \"GameFontNormal\")\n\nd'frame with size 8x8 & anchored to UIParent, with an unanchored fonstring child'\ns:SetPoint(\"CENTER\")\nd'frame with size 8x8 & anchored to UIParent, with an fonstring child anchored to CENTER'\ns:SetText(\"Hello, world!\")\nd'frame with size 8x8 & anchored to UIParent, with an fonstring child anchored to CENTER with text'\n\n--]]",
+},
+{
+["untitled"] = true,
+["name"] = "Untitled 14",
+["content"] = "local parent = CreateFrame(\"Frame\", nil, UIParent)\nparent:SetPoint(\"CENTER\")\nparent:SetSize(1,1)\n\nlocal right = CreateFrame(\"Frame\", nil, parent)\nright:SetPoint(\"LEFT\", parent, \"RIGHT\")\nright:SetSize(64, 64)\n\nright.tex = right:CreateTexture()\nright.tex:SetAllPoints()\nright.tex:SetColorTexture(1, 1, 0, 0.5)\n\nlocal left = CreateFrame(\"Frame\", nil, parent)\nleft:SetPoint(\"RIGHT\", parent, \"LEFT\", 30, 0)\nleft:SetSize(64, 64)\n\nleft.tex = left:CreateTexture()\nleft.tex:SetAllPoints()\nleft.tex:SetColorTexture(1, 0, 1, 0.5)\n\nlocal left, bottom, width, height = parent:GetBoundsRect()\n\n\nlocal bg = CreateFrame(\"Frame\", nil, parent, \"BackdropTemplate\")\nbg:SetBackdrop(BACKDROP_GOLD_DIALOG_32_32)\nbg:ClearAllPoints()\nbg:SetPoint(\"BOTTOMLEFT\", parent, \"CENTER\", -width / 2, -height / 2)\nbg:SetPoint(\"TOPRIGHT\", parent, \"CENTER\", width / 2, height / 2)\nbg:Show()",
+},
+{
+["untitled"] = true,
+["name"] = "Untitled 15",
 ["content"] = "",
 },
 },
-["untitled"] = 14,
+["untitled"] = 16,
 }

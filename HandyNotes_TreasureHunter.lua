@@ -16,9 +16,9 @@ HandyNotes_TreasureHunterDB = {
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
 ["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 ["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
@@ -65,11 +65,11 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Riparium - Argent Dawn"] = {
 },
 ["Benthos - Argent Dawn"] = {
 },

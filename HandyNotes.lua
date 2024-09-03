@@ -6,11 +6,11 @@ HandyNotesDB = {
 ["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 ["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
@@ -44,7 +44,7 @@ HandyNotesDB = {
 },
 ["Naturerivers - Korgath"] = {
 },
-["Cataracts - Argent Dawn"] = {
+["Flumina - Argent Dawn"] = {
 },
 ["Inundito - Kel'Thuzad"] = {
 },
@@ -52,7 +52,7 @@ HandyNotesDB = {
 },
 ["Mangrove - Argent Dawn"] = {
 },
-["Flumina - Argent Dawn"] = {
+["Cataracts - Argent Dawn"] = {
 },
 ["Emptyrivers - Argent Dawn"] = {
 },
@@ -105,11 +105,11 @@ HandyNotes_HandyNotesDB = {
 ["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 ["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
+["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
@@ -143,7 +143,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Naturerivers - Korgath"] = {
 },
-["Cataracts - Argent Dawn"] = {
+["Flumina - Argent Dawn"] = {
 },
 ["Inundito - Kel'Thuzad"] = {
 },
@@ -151,7 +151,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Mangrove - Argent Dawn"] = {
 },
-["Flumina - Argent Dawn"] = {
+["Cataracts - Argent Dawn"] = {
 },
 ["Emptyrivers - Argent Dawn"] = {
 },

@@ -6,11 +6,11 @@ AddOnSkinsDB = {
 ["Stream - Argent Dawn"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
 ["Naturerivers - Korgath"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
 ["Inundito - Kel'Thuzad"] = "Default",
 ["Lotic - Argent Dawn"] = "Default",
 ["Mangrove - Argent Dawn"] = "Default",
-["Flumina - Argent Dawn"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
@@ -37,18 +37,18 @@ AddOnSkinsDB = {
 ["Default"] = {
 ["MinimalArchaeology"] = false,
 ["Auctionator"] = false,
-["EmbedBackdrop"] = false,
 ["EmbedBackdropTransparent"] = false,
 ["Immersion"] = false,
 ["Altoholic"] = false,
 ["ColorPickerPlus"] = false,
 ["EmbedOoCDelay"] = 30,
+["EmbedBackdrop"] = false,
 ["EmbedBelowTop"] = true,
 },
 },
 }
 AddOnSkinsDS = {
-[4.71] = {
+[4.73] = {
 ["MinimalArchaeology"] = true,
 },
 }

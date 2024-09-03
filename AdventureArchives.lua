@@ -23,6 +23,27 @@ AdventureArchivesMailDB = {
 ["st"] = "Must be brief. Those Drake's Awakened Crests? I have discovered what separates them from Wyrm's Awakened Crests. Should be able to make this transformation now as well.\r\n\r\nStill in Valdrakken. Hope you're well.\r\n\r\nVaskarn",
 ["ta"] = 23119607,
 },
+{
+["items"] = {
+"212458:1",
+},
+["st"] = "Alluvium,\r\n\r\nI believe we have shaken the very foundation of Valdrakken. There's a kind of... deep and resonant beauty hidden within these Awakened Crests. It folds in on itself and blooms out again, almost like... no. Like nothing I've ever seen before.\r\n\r\nBut I understand them well enough now that I can now turn your Wyrm's Awakened Crests into Aspect's Awakened Crests. This is significant. I just don't know what it means yet. Nozdormu himself came by, inspected our work, and patted me on the shoulder. \"Better late than never,\" he said.\r\n\r\nI'm not sure what *that* means, but regardless: Come to Valdrakken and I'll be happy to upgrade those Wyrm's Awakened Crests.\r\n\r\nEver your friend,\r\nVaskarn",
+["sn"] = "Awakened Crest Ascension",
+["ta"] = 23652021,
+},
+{
+["items"] = {
+"228624:0",
+},
+["st"] = "My friend,\r\n\r\nUnfortunately, it seems that these flightstone items can be depleted by time as much as by use. Why they have lasted as long as they have only to expire now is a mystery. But I intend on researching this topic further. I don't think we'll ever be able to restore these. But we can learn more of how this power works!\r\n\r\nI have enclosed what remains of your item.\r\n\r\nYour friend,\r\n-Vaskarn",
+["sn"] = "Alas, Time",
+["ta"] = 23653263,
+},
+{
+["st"] = "My friend!\r\n\r\nI know you've been collecting these new \"awakened crests\" that have cropped up lately. I think you'll be glad to know that Cuzolth and I are making excellent progress in analyzing their nature and how to control them.\r\n\r\nI should be able to transmute your Whelpling's Awakened Crests into Drake's Awakened Crests now. We've relocated to Valdrakken, whenever you'd like to meet us.\r\n\r\nYour friend,\r\nVaskarn",
+["sn"] = "Awakened Crest Analysis",
+["ta"] = 23653267,
+},
 },
 ["Brew of the Month Club"] = {
 {
@@ -76,6 +97,15 @@ AdventureArchivesMailDB = {
 ["sn"] = "Order Filled: Master's Wildercloth Chef's Hat",
 ["st"] = "",
 ["ta"] = 177377,
+},
+{
+["items"] = {
+"227713:1",
+"210814:10",
+},
+["sn"] = "Patron Crafting Order Commision",
+["st"] = "Thank you for providing your crafting services, friend. Here is your commission.\r\n\r\n\r\nThe Artisan's Consortium",
+["ta"] = 23833324,
 },
 },
 ["Johnny Awesome"] = {

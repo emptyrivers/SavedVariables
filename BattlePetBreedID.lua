@@ -8,7 +8,7 @@ BPBID_Options = {
 ["BPT"] = true,
 ["BattleTooltip"] = true,
 },
-["ManualChange"] = "v1.30.2",
+["ManualChange"] = "v1.30.3",
 ["Breedtip"] = {
 ["Current"] = true,
 ["Possible"] = true,
