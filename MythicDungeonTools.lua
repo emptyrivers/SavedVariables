@@ -8,27 +8,27 @@ MythicDungeonToolsDB = {
 ["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
+["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
 ["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 ["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["global"] = {
@@ -50,8 +50,9 @@ MythicDungeonToolsDB = {
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[2] = {
+["pulls"] = {
+{
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 1,
@@ -59,9 +60,8 @@ MythicDungeonToolsDB = {
 ["selection"] = {
 1,
 },
-["pulls"] = {
-{
-["color"] = "ff3eff",
+["riftOffsets"] = {
+[2] = {
 },
 },
 },
@@ -76,15 +76,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[3] = {
-},
-},
-["currentDungeonIdx"] = 4,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 {
@@ -124,11 +115,11 @@ nil,
 [2] = {
 2,
 },
+["color"] = "3eff9e",
 [6] = {
 2,
 1,
 },
-["color"] = "3eff9e",
 },
 {
 [2] = {
@@ -298,6 +289,15 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 4,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[3] = {
+},
+},
 },
 },
 },
@@ -321,6 +321,13 @@ nil,
 2,
 },
 ["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 8,
+["teeming"] = false,
+["currentPull"] = 2,
 ["pulls"] = {
 {
 {
@@ -528,20 +535,13 @@ nil,
 },
 },
 },
-["currentDungeonIdx"] = 8,
-["teeming"] = false,
-["currentPull"] = 2,
-["riftOffsets"] = {
-{
-},
-},
 },
 ["text"] = "Default 2",
+["difficulty"] = 10,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
 },
-["difficulty"] = 10,
 },
 {
 ["value"] = 0,
@@ -561,6 +561,17 @@ nil,
 ["value"] = {
 ["currentPull"] = 11,
 ["currentSublevel"] = 1,
+["riftOffsets"] = {
+[4] = {
+},
+[2] = {
+},
+},
+["currentDungeonIdx"] = 15,
+["teeming"] = false,
+["selection"] = {
+11,
+},
 ["pulls"] = {
 {
 {
@@ -634,12 +645,14 @@ nil,
 [11] = {
 3,
 },
-["color"] = "fffb3e",
+[3] = {
+7,
+},
 [8] = {
 2,
 },
-[3] = {
-7,
+[10] = {
+4,
 },
 [12] = {
 3,
@@ -647,16 +660,14 @@ nil,
 6,
 5,
 },
+[9] = {
+4,
+},
 [5] = {
 4,
 3,
 },
-[9] = {
-4,
-},
-[10] = {
-4,
-},
+["color"] = "fffb3e",
 },
 {
 ["color"] = "3eff3e",
@@ -680,13 +691,13 @@ nil,
 {
 [11] = {
 },
-["color"] = "3effff",
-[12] = {
-},
 [8] = {
 3,
 4,
 },
+[12] = {
+},
+["color"] = "3effff",
 },
 {
 [14] = {
@@ -735,11 +746,6 @@ nil,
 4,
 1,
 },
-[8] = {
-8,
-5,
-},
-["color"] = "a1ff3e",
 [14] = {
 28,
 27,
@@ -752,25 +758,30 @@ nil,
 13,
 15,
 },
+["color"] = "a1ff3e",
+[4] = {
+},
 [12] = {
 },
-[4] = {
+[8] = {
+8,
+5,
 },
 },
 {
 {
 },
 ["color"] = "ff3eff",
-[4] = {
-},
-[15] = {
-8,
-},
 [14] = {
 32,
 33,
 34,
 31,
+},
+[15] = {
+8,
+},
+[4] = {
 },
 },
 {
@@ -806,24 +817,13 @@ nil,
 },
 },
 },
-["currentDungeonIdx"] = 15,
-["teeming"] = false,
-["selection"] = {
-11,
 },
-["riftOffsets"] = {
-[4] = {
-},
-[2] = {
-},
-},
-},
-["difficulty"] = 10,
 ["mdi"] = {
 ["freeholdJoined"] = false,
-["freehold"] = 1,
 ["beguiling"] = 1,
+["freehold"] = 1,
 },
+["difficulty"] = 10,
 },
 },
 {
@@ -833,17 +833,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 12,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-[4] = {
-},
-},
-["currentDungeonIdx"] = 16,
-["teeming"] = false,
-["selection"] = {
-12,
-},
 ["pulls"] = {
 {
 {
@@ -958,15 +947,15 @@ nil,
 [3] = {
 15,
 },
-[36] = {
-8,
+[33] = {
+5,
 },
 [32] = {
 9,
 23,
 },
-[33] = {
-5,
+[36] = {
+8,
 },
 },
 {
@@ -1027,9 +1016,9 @@ nil,
 1,
 12,
 },
-[32] = {
-},
 [33] = {
+},
+[32] = {
 },
 },
 {
@@ -1056,15 +1045,16 @@ nil,
 [24] = {
 3,
 },
-[23] = {
-2,
-},
+["color"] = "a1ff3e",
 [32] = {
 4,
 10,
 14,
 },
-["color"] = "a1ff3e",
+[33] = {
+7,
+8,
+},
 [14] = {
 7,
 8,
@@ -1072,9 +1062,8 @@ nil,
 [16] = {
 7,
 },
-[33] = {
-7,
-8,
+[23] = {
+2,
 },
 },
 {
@@ -1085,12 +1074,12 @@ nil,
 1,
 },
 ["color"] = "ff3eff",
-[22] = {
-1,
+[27] = {
 },
 [28] = {
 },
-[27] = {
+[22] = {
+1,
 },
 },
 {
@@ -1148,15 +1137,15 @@ nil,
 [38] = {
 4,
 },
-[19] = {
-9,
-8,
+[36] = {
+20,
 },
 [23] = {
 10,
 },
-[36] = {
-20,
+[19] = {
+9,
+8,
 },
 },
 {
@@ -1206,19 +1195,19 @@ nil,
 [28] = {
 2,
 },
-[15] = {
-2,
-},
 [29] = {
 1,
 },
+["color"] = "3effff",
 [36] = {
 11,
 },
 [9] = {
 6,
 },
-["color"] = "3effff",
+[15] = {
+2,
+},
 },
 {
 {
@@ -1246,6 +1235,17 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 16,
+["teeming"] = false,
+["selection"] = {
+12,
+},
+["riftOffsets"] = {
+{
+},
+[4] = {
+},
+},
 },
 },
 },
@@ -1256,15 +1256,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[10] = {
-},
-},
-["currentDungeonIdx"] = 22,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 ["color"] = "ff3eff",
@@ -1308,6 +1299,15 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 22,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[10] = {
+},
+},
 },
 },
 },
@@ -1318,6 +1318,15 @@ nil,
 ["value"] = {
 ["currentPull"] = 18,
 ["currentSublevel"] = 1,
+["riftOffsets"] = {
+[4] = {
+},
+},
+["currentDungeonIdx"] = 42,
+["teeming"] = false,
+["selection"] = {
+18,
+},
 ["pulls"] = {
 {
 {
@@ -1574,22 +1583,13 @@ nil,
 ["color"] = "3effff",
 },
 },
-["currentDungeonIdx"] = 42,
-["teeming"] = false,
-["selection"] = {
-18,
-},
-["riftOffsets"] = {
-[4] = {
-},
-},
-},
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
 },
 ["difficulty"] = 10,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
 },
 },
 [43] = {
@@ -1599,8 +1599,9 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[6] = {
+["pulls"] = {
+{
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 43,
@@ -1608,9 +1609,8 @@ nil,
 ["selection"] = {
 1,
 },
-["pulls"] = {
-{
-["color"] = "ff3eff",
+["riftOffsets"] = {
+[6] = {
 },
 },
 },
@@ -1623,15 +1623,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 2,
-["riftOffsets"] = {
-[9] = {
-},
-},
-["currentDungeonIdx"] = 44,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 [13] = {
@@ -1653,13 +1644,22 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 44,
+["teeming"] = false,
+["selection"] = {
+1,
 },
-["mdi"] = {
-["freeholdJoined"] = false,
-["beguiling"] = 1,
-["freehold"] = 1,
+["riftOffsets"] = {
+[9] = {
+},
+},
 },
 ["difficulty"] = 10,
+["mdi"] = {
+["freeholdJoined"] = false,
+["freehold"] = 1,
+["beguiling"] = 1,
+},
 },
 },
 [49] = {
@@ -1669,8 +1669,9 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[4] = {
+["pulls"] = {
+{
+["color"] = "ff3eff",
 },
 },
 ["currentDungeonIdx"] = 49,
@@ -1678,9 +1679,8 @@ nil,
 ["selection"] = {
 1,
 },
-["pulls"] = {
-{
-["color"] = "ff3eff",
+["riftOffsets"] = {
+[4] = {
 },
 },
 },
@@ -1693,15 +1693,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 16,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[2] = {
-},
-},
-["currentDungeonIdx"] = 100,
-["teeming"] = false,
-["selection"] = {
-16,
-},
 ["pulls"] = {
 {
 {
@@ -1746,16 +1737,16 @@ nil,
 [5] = {
 2,
 },
-["color"] = "3e9eff",
+[8] = {
+2,
+3,
+},
 [9] = {
 4,
 5,
 12,
 },
-[8] = {
-2,
-3,
-},
+["color"] = "3e9eff",
 },
 {
 ["color"] = "fffb3e",
@@ -1901,10 +1892,10 @@ nil,
 [2] = {
 8,
 },
-["color"] = "3e9eff",
 [19] = {
 5,
 },
+["color"] = "3e9eff",
 },
 {
 ["color"] = "fffb3e",
@@ -1920,6 +1911,15 @@ nil,
 },
 },
 },
+["currentDungeonIdx"] = 100,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["riftOffsets"] = {
+[2] = {
+},
+},
 },
 },
 },
@@ -1930,15 +1930,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-[4] = {
-},
-},
-["currentDungeonIdx"] = 101,
-["teeming"] = false,
-["selection"] = {
-1,
-},
 ["pulls"] = {
 {
 ["color"] = "ff3eff",
@@ -1963,6 +1954,15 @@ nil,
 [29] = {
 1,
 },
+},
+},
+["currentDungeonIdx"] = 101,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[4] = {
 },
 },
 },
@@ -1992,7 +1992,7 @@ nil,
 },
 ["uid"] = "QcvYBSlYlVs",
 ["addonVersion"] = 4204,
-["difficulty"] = 12,
+["week"] = 1,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
@@ -2001,15 +2001,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 4,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 102,
-["teeming"] = false,
-["selection"] = {
-4,
-},
 ["pulls"] = {
 {
 {
@@ -2021,11 +2012,11 @@ nil,
 2,
 3,
 },
-["color"] = "ff3eff",
 [21] = {
 1,
 2,
 },
+["color"] = "ff3eff",
 },
 {
 [17] = {
@@ -2049,7 +2040,11 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
+[13] = {
+6,
+4,
+5,
+},
 [12] = {
 2,
 },
@@ -2063,11 +2058,7 @@ nil,
 43,
 45,
 },
-[13] = {
-6,
-4,
-5,
-},
+["color"] = "ff3e3e",
 },
 {
 [27] = {
@@ -2240,7 +2231,6 @@ nil,
 [14] = {
 3,
 },
-["color"] = "ff3eff",
 [5] = {
 21,
 27,
@@ -2252,6 +2242,7 @@ nil,
 19,
 23,
 },
+["color"] = "ff3eff",
 },
 {
 [27] = {
@@ -2308,15 +2299,24 @@ nil,
 ["color"] = "3e9eff",
 },
 },
+["currentDungeonIdx"] = 102,
+["teeming"] = false,
+["selection"] = {
+4,
 },
-["week"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+},
+["difficulty"] = 12,
 },
 {
 ["objects"] = {
 },
 ["uid"] = "IRCvEyGLcmn",
 ["addonVersion"] = 4204,
-["difficulty"] = 12,
+["week"] = 1,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
@@ -2325,15 +2325,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 4,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 102,
-["teeming"] = false,
-["selection"] = {
-4,
-},
 ["pulls"] = {
 {
 {
@@ -2345,11 +2336,11 @@ nil,
 2,
 3,
 },
-["color"] = "ff3eff",
 [21] = {
 1,
 2,
 },
+["color"] = "ff3eff",
 },
 {
 [17] = {
@@ -2373,7 +2364,11 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
+[13] = {
+6,
+4,
+5,
+},
 [12] = {
 2,
 },
@@ -2387,11 +2382,7 @@ nil,
 43,
 45,
 },
-[13] = {
-6,
-4,
-5,
-},
+["color"] = "ff3e3e",
 },
 {
 [27] = {
@@ -2564,7 +2555,6 @@ nil,
 [14] = {
 3,
 },
-["color"] = "ff3eff",
 [5] = {
 21,
 27,
@@ -2576,6 +2566,7 @@ nil,
 19,
 23,
 },
+["color"] = "ff3eff",
 },
 {
 [27] = {
@@ -2632,15 +2623,24 @@ nil,
 ["color"] = "3e9eff",
 },
 },
+["currentDungeonIdx"] = 102,
+["teeming"] = false,
+["selection"] = {
+4,
 },
-["week"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+},
+["difficulty"] = 12,
 },
 {
 ["objects"] = {
 },
 ["uid"] = "X6qhPHKpr0o",
 ["addonVersion"] = 4204,
-["difficulty"] = 12,
+["week"] = 1,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
@@ -2649,15 +2649,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 102,
-["teeming"] = false,
-["selection"] = {
-3,
-},
 ["pulls"] = {
 {
 {
@@ -2669,11 +2660,11 @@ nil,
 2,
 3,
 },
-["color"] = "ff3eff",
 [21] = {
 1,
 2,
 },
+["color"] = "ff3eff",
 },
 {
 [17] = {
@@ -2697,7 +2688,11 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
+[13] = {
+6,
+4,
+5,
+},
 [12] = {
 2,
 },
@@ -2711,11 +2706,7 @@ nil,
 43,
 45,
 },
-[13] = {
-6,
-4,
-5,
-},
+["color"] = "ff3e3e",
 },
 {
 [27] = {
@@ -2888,7 +2879,6 @@ nil,
 [14] = {
 3,
 },
-["color"] = "ff3eff",
 [5] = {
 21,
 27,
@@ -2900,6 +2890,7 @@ nil,
 19,
 23,
 },
+["color"] = "ff3eff",
 },
 {
 [27] = {
@@ -2956,15 +2947,24 @@ nil,
 ["color"] = "3e9eff",
 },
 },
+["currentDungeonIdx"] = 102,
+["teeming"] = false,
+["selection"] = {
+3,
 },
-["week"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+},
+["difficulty"] = 12,
 },
 {
 ["objects"] = {
 },
 ["uid"] = "Gw7a7jkAvlR",
 ["addonVersion"] = 4204,
-["difficulty"] = 12,
+["week"] = 1,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
@@ -2973,15 +2973,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 4,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 102,
-["teeming"] = false,
-["selection"] = {
-4,
-},
 ["pulls"] = {
 {
 {
@@ -2993,11 +2984,11 @@ nil,
 2,
 3,
 },
-["color"] = "ff3eff",
 [21] = {
 1,
 2,
 },
+["color"] = "ff3eff",
 },
 {
 [17] = {
@@ -3021,7 +3012,11 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
+[13] = {
+6,
+4,
+5,
+},
 [12] = {
 2,
 },
@@ -3035,11 +3030,7 @@ nil,
 43,
 45,
 },
-[13] = {
-6,
-4,
-5,
-},
+["color"] = "ff3e3e",
 },
 {
 [27] = {
@@ -3212,7 +3203,6 @@ nil,
 [14] = {
 3,
 },
-["color"] = "ff3eff",
 [5] = {
 21,
 27,
@@ -3224,6 +3214,7 @@ nil,
 19,
 23,
 },
+["color"] = "ff3eff",
 },
 {
 [27] = {
@@ -3280,15 +3271,24 @@ nil,
 ["color"] = "3e9eff",
 },
 },
+["currentDungeonIdx"] = 102,
+["teeming"] = false,
+["selection"] = {
+4,
 },
-["week"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+},
+["difficulty"] = 12,
 },
 {
 ["objects"] = {
 },
 ["uid"] = "HTja2S6J5)w",
 ["addonVersion"] = 4204,
-["difficulty"] = 12,
+["week"] = 1,
 ["colorPaletteInfo"] = {
 ["autoColoring"] = true,
 ["colorPaletteIdx"] = 4,
@@ -3297,15 +3297,6 @@ nil,
 ["value"] = {
 ["currentPull"] = 4,
 ["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 102,
-["teeming"] = false,
-["selection"] = {
-4,
-},
 ["pulls"] = {
 {
 {
@@ -3317,11 +3308,11 @@ nil,
 2,
 3,
 },
-["color"] = "ff3eff",
 [21] = {
 1,
 2,
 },
+["color"] = "ff3eff",
 },
 {
 [17] = {
@@ -3345,7 +3336,11 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
+[13] = {
+6,
+4,
+5,
+},
 [12] = {
 2,
 },
@@ -3359,11 +3354,7 @@ nil,
 43,
 45,
 },
-[13] = {
-6,
-4,
-5,
-},
+["color"] = "ff3e3e",
 },
 {
 [27] = {
@@ -3536,7 +3527,6 @@ nil,
 [14] = {
 3,
 },
-["color"] = "ff3eff",
 [5] = {
 21,
 27,
@@ -3548,6 +3538,7 @@ nil,
 19,
 23,
 },
+["color"] = "ff3eff",
 },
 {
 [27] = {
@@ -3603,8 +3594,17 @@ nil,
 ["color"] = "3e9eff",
 },
 },
+["currentDungeonIdx"] = 102,
+["teeming"] = false,
+["selection"] = {
+4,
 },
-["week"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+},
+["difficulty"] = 12,
 },
 {
 ["value"] = 0,
@@ -3618,6 +3618,15 @@ nil,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 103,
+["teeming"] = false,
+["selection"] = {
+1,
+},
 ["pulls"] = {
 {
 ["color"] = "ff3eff",
@@ -3629,15 +3638,6 @@ nil,
 },
 },
 },
-["currentDungeonIdx"] = 103,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-{
-},
-},
 },
 },
 },
@@ -3645,7 +3645,6 @@ nil,
 {
 ["objects"] = {
 {
-["n"] = true,
 ["d"] = {
 546.2836902287219,
 -177.7691599591965,
@@ -3653,6 +3652,7 @@ nil,
 true,
 "Gateway behind the house, sneak behind the pat",
 },
+["n"] = true,
 },
 {
 ["d"] = {
@@ -3663,18 +3663,17 @@ true,
 "662cfc",
 -8,
 },
-["t"] = {
--1.659846579203743,
-},
 ["l"] = {
 "537.4",
 "-177.1",
 "539.0",
 "-158.5",
 },
+["t"] = {
+-1.659846579203743,
+},
 },
 {
-["n"] = true,
 ["d"] = {
 473.1265242192338,
 -222.1308784281652,
@@ -3682,6 +3681,7 @@ true,
 true,
 "can hero for triple caster pull, or for boss",
 },
+["n"] = true,
 },
 [5] = {
 ["d"] = {
@@ -3692,14 +3692,14 @@ false,
 "662cfc",
 -8,
 },
-["t"] = {
--1.52165445717384,
-},
 ["l"] = {
 "505.5",
 "-150.0",
 "504.5",
 "-129.8",
+},
+["t"] = {
+-1.52165445717384,
 },
 },
 },
@@ -3708,6 +3708,15 @@ false,
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
+["riftOffsets"] = {
+[8] = {
+},
+},
+["currentDungeonIdx"] = 104,
+["teeming"] = false,
+["selection"] = {
+1,
+},
 ["pulls"] = {
 {
 {
@@ -3832,10 +3841,10 @@ nil,
 35,
 36,
 },
+["color"] = "3eff3e",
 [5] = {
 1,
 },
-["color"] = "3eff3e",
 },
 {
 {
@@ -4034,19 +4043,10 @@ nil,
 },
 },
 },
-["currentDungeonIdx"] = 104,
-["teeming"] = false,
-["selection"] = {
-1,
-},
-["riftOffsets"] = {
-[8] = {
-},
-},
 },
 ["text"] = "Secret lock skip",
-["difficulty"] = 26,
 ["uid"] = "bKXq6MR)sXM",
+["difficulty"] = 26,
 },
 },
 },
@@ -4054,9 +4054,9 @@ nil,
 ["toolbarExpanded"] = false,
 ["toolbar"] = {
 ["color"] = {
-["b"] = 0.988235354423523,
-["g"] = 0.1725490242242813,
 ["r"] = 0.4000000357627869,
+["g"] = 0.1725490242242813,
+["b"] = 0.988235354423523,
 },
 },
 ["currentPreset"] = {

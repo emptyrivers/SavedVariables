@@ -12,18 +12,18 @@ HandyNotes_TreasureHunterDB = {
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
 ["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 ["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -57,7 +57,7 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
-["Stream - Argent Dawn"] = {
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -65,7 +65,7 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Esker - Kel'Thuzad"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
@@ -77,9 +77,9 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Esker - Kel'Thuzad"] = {
+["Wildeadoriah - The Scryers"] = {
 },
-["Saellindris - Kel'Thuzad"] = {
+["Stream - Argent Dawn"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },

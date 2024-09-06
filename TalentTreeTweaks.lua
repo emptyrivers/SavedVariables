@@ -6,21 +6,21 @@ TalentTreeTweaksDB = {
 ["InspectDiff"] = {
 ["colorYellow"] = {
 ["a"] = 0.75,
-["b"] = 0,
-["g"] = 0.67,
 ["r"] = 1,
+["g"] = 0.67,
+["b"] = 0,
 },
 ["colorGreen"] = {
 ["a"] = 0.58,
-["b"] = 0.3,
-["g"] = 1,
 ["r"] = 0,
+["g"] = 1,
+["b"] = 0.3,
 },
 ["colorRed"] = {
 ["a"] = 0.5,
-["b"] = 0,
-["g"] = 0,
 ["r"] = 1,
+["g"] = 0,
+["b"] = 0,
 },
 ["enableTalentTreeViewerDiff"] = true,
 },
@@ -38,41 +38,41 @@ TalentTreeTweaksDB = {
 ["rideAlong"] = 1,
 },
 ["UnlockRestrictions"] = {
-["unlockShareButton"] = true,
 ["unlockInCombatSpending"] = true,
+["unlockShareButton"] = true,
 },
 ["MiniTreeInTooltip"] = {
-["inactiveSubTreeAlpha"] = 0.5,
-["displayStyle"] = "simple-default-diff",
 ["upgradedDisplayStyle"] = 1,
-["diffRed"] = {
-["r"] = 1,
-["g"] = 0,
+["displayStyle"] = "simple-default-diff",
+["diffOrange"] = {
 ["b"] = 0,
+["g"] = 1,
+["r"] = 1,
+},
+["diffRed"] = {
+["b"] = 0,
+["g"] = 0,
+["r"] = 1,
 },
 ["scale"] = 1,
 ["diffGreen"] = {
-["r"] = 0,
-["g"] = 1,
 ["b"] = 0,
+["g"] = 1,
+["r"] = 0,
 },
 ["diffYellow"] = {
-["r"] = 1,
-["g"] = 1,
 ["b"] = 1,
-},
-["diffOrange"] = {
-["r"] = 1,
 ["g"] = 1,
-["b"] = 0,
+["r"] = 1,
 },
+["inactiveSubTreeAlpha"] = 0.5,
 },
 ["ReduceTaint"] = {
 ["disableMultiActionBarShowHide"] = true,
 },
 ["ExportInspectedBuild"] = {
-["exportOnDropdownRightClick"] = true,
 ["showLinkInChatButton"] = true,
+["exportOnDropdownRightClick"] = true,
 },
 ["TooltipIds"] = {
 ["professionTooltip"] = {
@@ -102,16 +102,14 @@ TalentTreeTweaksDB = {
 },
 ["CopyTalentButtonInfo"] = {
 },
-["ImportIntoCurrentLoadout"] = {
-["defaultCheckboxState"] = false,
-["unlockImportButton"] = true,
+["ReduceSpam"] = {
 },
 ["HighlightCascadeRepurchable"] = {
 ["color"] = {
 ["a"] = 0.5,
-["b"] = 1,
-["g"] = 0,
 ["r"] = 0,
+["g"] = 0,
+["b"] = 1,
 },
 },
 ["Skyriding Auto Purchaser"] = {
@@ -120,24 +118,26 @@ TalentTreeTweaksDB = {
 ["surgeCache"] = {
 ["Sverdrup-Argent Dawn"] = 1,
 ["Emptyrivers-Argent Dawn"] = 1,
-["Gelae-Kel'Thuzad"] = 1,
-["Strid-Kel'Thuzad"] = 1,
-["Estuary-Argent Dawn"] = 1,
-["Headcut-Argent Dawn"] = 1,
 ["Alluvium-Argent Dawn"] = 1,
+["Headcut-Argent Dawn"] = 1,
+["Estuary-Argent Dawn"] = 1,
+["Strid-Kel'Thuzad"] = 1,
+["Gelae-Kel'Thuzad"] = 1,
 },
+["rideAlong"] = 1,
 ["rideAlongCache"] = {
 ["Sverdrup-Argent Dawn"] = 1,
 ["Emptyrivers-Argent Dawn"] = 1,
-["Gelae-Kel'Thuzad"] = 1,
-["Strid-Kel'Thuzad"] = 1,
-["Estuary-Argent Dawn"] = 1,
-["Headcut-Argent Dawn"] = 1,
 ["Alluvium-Argent Dawn"] = 1,
+["Headcut-Argent Dawn"] = 1,
+["Estuary-Argent Dawn"] = 1,
+["Strid-Kel'Thuzad"] = 1,
+["Gelae-Kel'Thuzad"] = 1,
 },
-["rideAlong"] = 1,
 },
-["HeroTalents"] = {
+["MiscFixes"] = {
+["dropdownUpdateOnLoadConfigFix"] = true,
+["linkChoiceNodeInChatFix"] = true,
 },
 ["DebugNodeInfo"] = {
 ["addButtonToTable"] = true,
@@ -152,11 +152,11 @@ TalentTreeTweaksDB = {
 ["ScaleTalentFrame"] = {
 ["scale"] = 1,
 },
-["MiscFixes"] = {
-["dropdownUpdateOnLoadConfigFix"] = true,
-["linkChoiceNodeInChatFix"] = true,
+["HeroTalents"] = {
 },
-["ReduceSpam"] = {
+["ImportIntoCurrentLoadout"] = {
+["defaultCheckboxState"] = false,
+["unlockImportButton"] = true,
 },
 },
 }

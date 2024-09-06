@@ -17,9 +17,9 @@ ATVDB = {
 ["global"] = {
 ["settings"] = {
 ["backgroundColor"] = {
-["b"] = 1,
-["g"] = 1,
 ["r"] = 1,
+["g"] = 1,
+["b"] = 1,
 },
 },
 },

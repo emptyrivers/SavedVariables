@@ -10,300 +10,23 @@ BetterBagsDB = {
 ["Emptyrivers - Sargeras"] = "Default",
 ["Alluvium - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
-["categoryOptions"] = {
-["Remix Cogwheel"] = {
-["shown"] = true,
-},
-["|cff16B7FFPrimal Storms|r"] = {
-["shown"] = true,
-},
-["Remix Stat"] = {
-["shown"] = true,
-},
-["Legs"] = {
-["shown"] = true,
-},
-["|cff67CF9ESuperbloom|r"] = {
-["shown"] = true,
-},
-["Main Hand"] = {
-["shown"] = true,
-},
-["Reputation Insignia"] = {
-["shown"] = true,
-},
-["Hands"] = {
-["shown"] = true,
-},
-["Junk"] = {
-["shown"] = true,
-},
-["Tailoring"] = {
-["shown"] = true,
-},
-["Head"] = {
-["shown"] = true,
-},
-["Gear: Elemental"] = {
-["shown"] = true,
-},
-["Feet"] = {
-["shown"] = true,
-},
-["Chest"] = {
-["shown"] = true,
-},
-["|cffa335eeLizi's Reins|r"] = {
-["shown"] = true,
-},
-["Engineering"] = {
-["shown"] = true,
-},
-["Ranged"] = {
-["shown"] = true,
-},
-["Bag"] = {
-["shown"] = true,
-},
-["Held In Off-hand"] = {
-["shown"] = true,
-},
-["Jewelcrafting"] = {
-["shown"] = true,
-},
-["One-Hand"] = {
-["shown"] = true,
-},
-["Key"] = {
-["shown"] = true,
-},
-["|cff88AAFFZskera Vault|r"] = {
-["shown"] = true,
-},
-["Recent Items"] = {
-["shown"] = true,
-},
-["|cff56BBFFDrakewatcher Manuscript - DF|r"] = {
-["shown"] = true,
-},
-["Darkmoon Cards - DF"] = {
-["shown"] = true,
-},
-["Remix Meta"] = {
-["shown"] = true,
-},
-["Optional Reagents"] = {
-["shown"] = true,
-},
-["|cffa335eeTemperamental Skyclaw|r"] = {
-["shown"] = true,
-},
-["Trinket"] = {
-["shown"] = true,
-},
-["Gem"] = {
-["shown"] = true,
-},
-["Shoulder"] = {
-["shown"] = true,
-},
-["Waist"] = {
-["shown"] = true,
-},
-["Gear: Augmentation"] = {
-["shown"] = true,
-},
-["Gear: Devastation"] = {
-["shown"] = true,
-},
-["Battle Pet"] = {
-["shown"] = true,
-},
-["Back"] = {
-["shown"] = true,
-},
-["|cffFFAB00Primordial Stones|r"] = {
-["shown"] = true,
-},
-["|cffAFB42BContracts|r"] = {
-["shown"] = true,
-},
-["Remix Tinker"] = {
-["shown"] = true,
-},
-["Glyph"] = {
-["shown"] = true,
-},
-["Off Hand"] = {
-["shown"] = true,
-},
-["Leatherworking"] = {
-["shown"] = true,
-},
-["Enchanting"] = {
-["shown"] = true,
-},
-["|cffa335eeGooey Snailemental|r"] = {
-["shown"] = true,
-},
-["Tradeskill"] = {
-["shown"] = true,
-},
-["Elemental"] = {
-["shown"] = true,
-},
-["Profession Tool"] = {
-["shown"] = true,
-},
-["Consumable"] = {
-["shown"] = true,
-},
-["Treasure Sacks"] = {
-["shown"] = true,
-},
-["|cffff8040Reputation|r"] = {
-["shown"] = true,
-},
-["|cff910951Fyrakk Assault|r"] = {
-["shown"] = true,
-},
-["Inscription"] = {
-["shown"] = true,
-},
-["Item Enhancement"] = {
-["shown"] = true,
-},
-["Archaeology"] = {
-["shown"] = true,
-},
-["Quest"] = {
-["shown"] = true,
-},
-["|cffAFB42BContracts - DF|r"] = {
-["shown"] = true,
-},
-["Diamanthia Journal"] = {
-["shown"] = true,
-},
-["|cfff49813Eternal Threads|r"] = {
-["shown"] = true,
-},
-["|cffB5D3E7Storm's Fury|r"] = {
-["shown"] = true,
-},
-["Other"] = {
-["shown"] = true,
-},
-["Fortune Cards"] = {
-["shown"] = true,
-},
-["Mining"] = {
-["shown"] = true,
-},
-["Finger"] = {
-["shown"] = true,
-},
-["Herbalism"] = {
-["shown"] = true,
-},
-["Two-Hand"] = {
-["shown"] = true,
-},
-["|cffEDE4D3Time Rift|r"] = {
-["shown"] = true,
-},
-["Recipe"] = {
-["shown"] = true,
-},
-["Cooking"] = {
-["shown"] = true,
-},
-["Azerothian Archives"] = {
-["shown"] = true,
-},
-["Neck"] = {
-["shown"] = true,
-},
-["|cff67CF9EDreamsurge|r"] = {
-["shown"] = true,
-},
-["Battle Pets"] = {
-["shown"] = true,
-},
-["Gear: Preservation"] = {
-["shown"] = true,
-},
-["|cfff49813Bronze|r"] = {
-["shown"] = true,
-},
-["Wrist"] = {
-["shown"] = true,
-},
-["|cff56BBFFDrakewatcher Manuscript|r"] = {
-["shown"] = true,
-},
-["Darkmoon Cards"] = {
-["shown"] = true,
-},
-["Armor"] = {
-["shown"] = true,
-},
-["Finishing Reagents"] = {
-["shown"] = true,
-},
-["|cff0070ddChip|r"] = {
-["shown"] = true,
-},
-["|cffff8040Loamm|r"] = {
-["shown"] = true,
-},
-["|cff0070ddProfession Knowledge|r"] = {
-["shown"] = true,
-},
-["Miscellaneous"] = {
-["shown"] = true,
-},
-["Free Space"] = {
-["shown"] = true,
-},
-["|cffa335eeAwakened|r"] = {
-["shown"] = true,
-},
-["|cffff8040Crests|r"] = {
-["shown"] = true,
-},
-["|cff0070ddPhoenix Wishwing|r"] = {
-["shown"] = true,
-},
-["|cff88AAFFArtisan Curios|r"] = {
-["shown"] = true,
-},
-["Profession Equipment"] = {
-["shown"] = true,
-},
-["Gear: Restoration"] = {
-["shown"] = true,
-},
-["|cff0070ddProfession Knowledge - DF|r"] = {
-["shown"] = true,
-},
-},
+["newItemTime"] = 0,
 ["sectionSort"] = {
 [0] = {
 nil,
@@ -312,14 +35,14 @@ nil,
 },
 ["positions"] = {
 {
-["y"] = 103.8569946289063,
-["x"] = 272.9047546386719,
-["point"] = "LEFT",
+["y"] = 35.38117980957031,
+["x"] = -280.1899108886719,
+["point"] = "CENTER",
 ["scale"] = 1,
 },
 [0] = {
-["y"] = -76.88763809204102,
-["x"] = -167.4931030273438,
+["y"] = -42.10768127441406,
+["x"] = -207.361572265625,
 ["point"] = "RIGHT",
 ["scale"] = 0.75,
 },
@@ -333,9 +56,9 @@ nil,
 {
 [0] = {
 ["itemsPerRow"] = 20,
-["opacity"] = 79,
-["height"] = 475.1302185058594,
 ["columnCount"] = 1,
+["height"] = 475.1302185058594,
+["opacity"] = 79,
 ["scale"] = 75,
 ["width"] = 458.3153076171875,
 },
@@ -501,6 +224,15 @@ true,
 ["name"] = "Engineering",
 ["dynamic"] = true,
 },
+["|cff88AAFFAssembly of the Deeps|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff88AAFFAssembly of the Deeps|r",
+},
 ["Ranged"] = {
 ["enabled"] = {
 true,
@@ -607,6 +339,16 @@ true,
 },
 ["name"] = "Darkmoon Cards - DF",
 },
+["Gear: Restoration"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gear: Restoration",
+["dynamic"] = true,
+},
 ["Remix Meta"] = {
 ["enabled"] = {
 true,
@@ -646,6 +388,42 @@ true,
 ["name"] = "Trinket",
 ["dynamic"] = true,
 },
+["|cfff49813Resonance Crystals|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cfff49813Resonance Crystals|r",
+},
+["|cffff8040Valorstones|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffff8040Valorstones|r",
+},
+["|cffff8040Reputation - DF|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffff8040Reputation - DF|r",
+},
+["|cff88AAFFHallowfall Arathi|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff88AAFFHallowfall Arathi|r",
+},
 ["|cffFFAB00Primordial Stones|r"] = {
 ["enabled"] = {
 true,
@@ -663,6 +441,36 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Shoulder",
+["dynamic"] = true,
+},
+["Inscription"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Inscription",
+["dynamic"] = true,
+},
+["Consumable"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Consumable",
+["dynamic"] = true,
+},
+["Glyph"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Glyph",
 ["dynamic"] = true,
 },
 ["|cffa335eeLoyal Magmammoth|r"] = {
@@ -704,15 +512,23 @@ true,
 ["name"] = "Gear: Devastation",
 ["dynamic"] = true,
 },
-["Tailoring"] = {
+["|cff0070ddProfession Knowledge - DF|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tailoring",
-["dynamic"] = true,
+["name"] = "|cff0070ddProfession Knowledge - DF|r",
+},
+["|cff0070ddIllusive Kobyss Lure|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff0070ddIllusive Kobyss Lure|r",
 },
 ["Battle Pet"] = {
 ["enabled"] = {
@@ -723,14 +539,14 @@ true,
 },
 ["name"] = "Battle Pet",
 },
-["|cffff8040Reputation - DF|r"] = {
+["|cff0070ddPhoenix Wishwing|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffff8040Reputation - DF|r",
+["name"] = "|cff0070ddPhoenix Wishwing|r",
 },
 ["Back"] = {
 ["enabled"] = {
@@ -740,6 +556,45 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Back",
+["dynamic"] = true,
+},
+["Remix Cogwheel"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Remix Cogwheel",
+["dynamic"] = true,
+},
+["|cffff8040Loamm|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffff8040Loamm|r",
+},
+["Two-Hand"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Two-Hand",
+["dynamic"] = true,
+},
+["Remix Tinker"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Remix Tinker",
 ["dynamic"] = true,
 },
 ["Profession Tool"] = {
@@ -752,44 +607,6 @@ true,
 ["name"] = "Profession Tool",
 ["dynamic"] = true,
 },
-["|cff0070ddProfession Knowledge - DF|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddProfession Knowledge - DF|r",
-},
-["|cff0070ddPhoenix Wishwing|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddPhoenix Wishwing|r",
-},
-["Remix Tinker"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Remix Tinker",
-["dynamic"] = true,
-},
-["Leatherworking"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Leatherworking",
-["dynamic"] = true,
-},
 ["Off Hand"] = {
 ["enabled"] = {
 true,
@@ -800,14 +617,15 @@ true,
 ["name"] = "Off Hand",
 ["dynamic"] = true,
 },
-["|cffa335eeAwakened|r"] = {
+["Item Enhancement"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeAwakened|r",
+["name"] = "Item Enhancement",
+["dynamic"] = true,
 },
 ["Enchanting"] = {
 ["enabled"] = {
@@ -819,14 +637,14 @@ true,
 ["name"] = "Enchanting",
 ["dynamic"] = true,
 },
-["Quest"] = {
+["Gear: Preservation"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Quest",
+["name"] = "Gear: Preservation",
 ["dynamic"] = true,
 },
 ["Tradeskill"] = {
@@ -849,15 +667,14 @@ true,
 ["name"] = "Elemental",
 ["dynamic"] = true,
 },
-["Gem"] = {
+["|cff56BBFFDrakewatcher Manuscript|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gem",
-["dynamic"] = true,
+["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
 },
 ["|cffff8040Crests - DF|r"] = {
 ["enabled"] = {
@@ -895,43 +712,42 @@ true,
 },
 ["name"] = "|cff910951Fyrakk Assault|r",
 },
-["|cff0070ddProfession Knowledge|r"] = {
+["Darkmoon Cards"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cff0070ddProfession Knowledge|r",
+["name"] = "Darkmoon Cards",
 },
-["Mining"] = {
+["|cffEDE4D3Time Rift|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Mining",
+["name"] = "|cffEDE4D3Time Rift|r",
+},
+["Archaeology"] = {
+["enabled"] = {
+false,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Archaeology",
+},
+["Wrist"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Wrist",
 ["dynamic"] = true,
-},
-["Item Enhancement"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Item Enhancement",
-["dynamic"] = true,
-},
-["|cff0070ddChip|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddChip|r",
 },
 ["|cffAFB42BContracts - DF|r"] = {
 ["enabled"] = {
@@ -988,14 +804,15 @@ true,
 },
 ["name"] = "Fortune Cards",
 },
-["|cffa335eeMagmashell|r"] = {
+["Battle Pets"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeMagmashell|r",
+["name"] = "Battle Pets",
+["dynamic"] = true,
 },
 ["Finger"] = {
 ["enabled"] = {
@@ -1007,24 +824,24 @@ true,
 ["name"] = "Finger",
 ["dynamic"] = true,
 },
-["|cffEDE4D3Time Rift|r"] = {
+["Neck"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffEDE4D3Time Rift|r",
-},
-["Herbalism"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Herbalism",
+["name"] = "Neck",
 ["dynamic"] = true,
+},
+["|cffa335eeMagmashell|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeMagmashell|r",
 },
 ["Recipe"] = {
 ["enabled"] = {
@@ -1036,14 +853,14 @@ true,
 ["name"] = "Recipe",
 ["dynamic"] = true,
 },
-["Wrist"] = {
+["Finishing Reagents"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Wrist",
+["name"] = "Finishing Reagents",
 ["dynamic"] = true,
 },
 ["Cooking"] = {
@@ -1065,33 +882,33 @@ true,
 },
 ["name"] = "Azerothian Archives",
 },
-["Darkmoon Cards"] = {
+["|cffa335eeAlunira|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Darkmoon Cards",
+["name"] = "|cffa335eeAlunira|r",
 },
-["Gear: Preservation"] = {
+["Herbalism"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Preservation",
+["name"] = "Herbalism",
 ["dynamic"] = true,
 },
-["Battle Pets"] = {
+["Armor"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Battle Pets",
+["name"] = "Armor",
 ["dynamic"] = true,
 },
 ["|cff67CF9EDreamsurge|r"] = {
@@ -1112,81 +929,80 @@ true,
 },
 ["name"] = "|cfff49813Bronze|r",
 },
-["Armor"] = {
+["Mining"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Armor",
+["name"] = "Mining",
 ["dynamic"] = true,
 },
-["|cff56BBFFDrakewatcher Manuscript|r"] = {
+["|cff16B7FFRadiant Echoes|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
+["name"] = "|cff16B7FFRadiant Echoes|r",
 },
-["Finishing Reagents"] = {
+["|cff0070ddProfession Knowledge|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Finishing Reagents",
+["name"] = "|cff0070ddProfession Knowledge|r",
+},
+["Gem"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gem",
 ["dynamic"] = true,
 },
-["Archaeology"] = {
+["Leatherworking"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Archaeology",
-},
-["Neck"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Neck",
+["name"] = "Leatherworking",
 ["dynamic"] = true,
 },
-["Two-Hand"] = {
+["|cff0070ddChip|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Two-Hand",
-["dynamic"] = true,
+["name"] = "|cff0070ddChip|r",
 },
-["|cffff8040Loamm|r"] = {
+["|cff0070ddDusty Prospector's Chest|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffff8040Loamm|r",
+["name"] = "|cff0070ddDusty Prospector's Chest|r",
 },
-["Remix Cogwheel"] = {
+["Quest"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Remix Cogwheel",
+["name"] = "Quest",
 ["dynamic"] = true,
 },
 ["Miscellaneous"] = {
@@ -1209,15 +1025,14 @@ true,
 ["name"] = "Free Space",
 ["dynamic"] = true,
 },
-["Consumable"] = {
+["|cffa335eeAwakened|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable",
-["dynamic"] = true,
+["name"] = "|cffa335eeAwakened|r",
 },
 ["|cffff8040Crests|r"] = {
 ["enabled"] = {
@@ -1228,14 +1043,14 @@ true,
 },
 ["name"] = "|cffff8040Crests|r",
 },
-["Inscription"] = {
+["Tailoring"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Inscription",
+["name"] = "Tailoring",
 ["dynamic"] = true,
 },
 ["|cff88AAFFArtisan Curios|r"] = {
@@ -1247,6 +1062,15 @@ true,
 },
 ["name"] = "|cff88AAFFArtisan Curios|r",
 },
+["|cff88AAFFDelves|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff88AAFFDelves|r",
+},
 ["Profession Equipment"] = {
 ["enabled"] = {
 true,
@@ -1257,25 +1081,14 @@ true,
 ["name"] = "Profession Equipment",
 ["dynamic"] = true,
 },
-["Glyph"] = {
+["|cff56BBFFAirship Schematics|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Glyph",
-["dynamic"] = true,
-},
-["Gear: Restoration"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Gear: Restoration",
-["dynamic"] = true,
+["name"] = "|cff56BBFFAirship Schematics|r",
 },
 },
 ["firstTimeMenu"] = false,
@@ -1309,11 +1122,11 @@ true,
 [211124] = true,
 [220370] = true,
 [220374] = true,
-[211101] = true,
-[216643] = true,
-[210714] = true,
 [210718] = true,
 [79819] = true,
+[210714] = true,
+[216639] = true,
+[216643] = true,
 [220367] = true,
 [220371] = true,
 [211106] = true,
@@ -1325,14 +1138,14 @@ true,
 [220368] = true,
 [220372] = true,
 [211107] = true,
-[211103] = true,
+[211123] = true,
 [210681] = true,
 [210716] = true,
-[211123] = true,
 [216641] = true,
+[211103] = true,
 [220369] = true,
 [220373] = true,
-[216639] = true,
+[211101] = true,
 },
 ["name"] = "Remix Stat",
 },
@@ -1375,27 +1188,27 @@ true,
 [212361] = true,
 [217961] = true,
 [212362] = true,
-[219817] = true,
+[219818] = true,
 [217907] = true,
 [212749] = true,
 [212694] = true,
 [219801] = true,
-[219777] = true,
+[216647] = true,
 [216624] = true,
-[212365] = true,
+[216649] = true,
 [216650] = true,
 [216648] = true,
-[219389] = true,
-[212758] = true,
-[219523] = true,
 [219452] = true,
+[212758] = true,
 [216625] = true,
+[219389] = true,
+[219523] = true,
 [212916] = true,
 [217964] = true,
-[216649] = true,
-[216647] = true,
+[212365] = true,
+[219777] = true,
 [212759] = true,
-[219818] = true,
+[219817] = true,
 },
 ["name"] = "Remix Tinker",
 },
@@ -1513,9 +1326,9 @@ true,
 [108439] = true,
 [79911] = true,
 [130927] = true,
-[79909] = true,
-[114145] = true,
 [89171] = true,
+[114145] = true,
+[114161] = true,
 [114177] = true,
 [114193] = true,
 [114209] = true,
@@ -1528,37 +1341,37 @@ true,
 [79896] = true,
 [79912] = true,
 [130928] = true,
-[118732] = true,
-[114162] = true,
+[114142] = true,
+[154914] = true,
 [114146] = true,
 [89172] = true,
-[154914] = true,
+[114178] = true,
 [114194] = true,
 [114210] = true,
-[160741] = true,
-[95388] = true,
+[95386] = true,
 [64397] = true,
-[130908] = true,
+[95388] = true,
+[79908] = true,
 [114143] = true,
 [154915] = true,
 [79897] = true,
 [79913] = true,
 [130929] = true,
-[130912] = true,
-[114159] = true,
-[114147] = true,
 [89173] = true,
 [114179] = true,
+[114147] = true,
+[114163] = true,
+[154916] = true,
 [114195] = true,
 [114211] = true,
-[130913] = true,
+[109585] = true,
 [95373] = true,
 [95389] = true,
-[79898] = true,
-[130930] = true,
-[154917] = true,
 [87548] = true,
 [79914] = true,
+[154917] = true,
+[79898] = true,
+[130914] = true,
 [52843] = true,
 [130911] = true,
 [64395] = true,
@@ -1567,166 +1380,166 @@ true,
 [114180] = true,
 [114196] = true,
 [114212] = true,
-[164626] = true,
-[87549] = true,
-[95390] = true,
-[130915] = true,
-[118731] = true,
-[87533] = true,
+[114189] = true,
 [79899] = true,
+[95390] = true,
 [79915] = true,
+[114141] = true,
+[87533] = true,
+[87549] = true,
+[130915] = true,
 [130931] = true,
-[154921] = true,
+[114165] = true,
 [183384] = true,
 [114149] = true,
-[114165] = true,
+[89175] = true,
 [114181] = true,
 [114197] = true,
 [114213] = true,
-[130916] = true,
+[164625] = true,
 [95375] = true,
 [183385] = true,
-[114166] = true,
+[89176] = true,
 [79868] = true,
 [87534] = true,
 [79900] = true,
 [79916] = true,
 [130932] = true,
-[154922] = true,
-[154935] = true,
-[114150] = true,
-[89176] = true,
 [114182] = true,
+[87541] = true,
+[114150] = true,
+[114166] = true,
+[154922] = true,
 [114198] = true,
 [114214] = true,
-[114176] = true,
+[130910] = true,
 [95376] = true,
-[79917] = true,
-[64657] = true,
-[79869] = true,
 [87535] = true,
+[63127] = true,
+[79869] = true,
+[154923] = true,
 [79901] = true,
 [130917] = true,
 [130933] = true,
-[64394] = true,
-[117386] = true,
+[95382] = true,
+[154924] = true,
 [114151] = true,
 [114167] = true,
-[154924] = true,
+[114183] = true,
 [114199] = true,
 [114215] = true,
-[136383] = true,
+[114220] = true,
 [95377] = true,
-[154925] = true,
-[154934] = true,
-[154989] = true,
 [87536] = true,
-[79902] = true,
+[114188] = true,
 [130918] = true,
+[154925] = true,
+[79902] = true,
+[154989] = true,
 [130934] = true,
-[114184] = true,
-[114216] = true,
+[154926] = true,
+[154990] = true,
 [114152] = true,
 [114168] = true,
-[154926] = true,
+[114184] = true,
 [114200] = true,
-[154990] = true,
-[64392] = true,
-[95378] = true,
-[142114] = true,
-[142113] = true,
-[114185] = true,
+[114216] = true,
 [154927] = true,
+[95378] = true,
 [79903] = true,
+[142113] = true,
+[154928] = true,
+[87537] = true,
+[130903] = true,
 [130919] = true,
 [130935] = true,
-[136632] = true,
-[154933] = true,
+[114217] = true,
+[87540] = true,
 [114153] = true,
 [114169] = true,
-[154928] = true,
+[114185] = true,
 [114201] = true,
-[114217] = true,
-[122606] = true,
+[136632] = true,
+[117387] = true,
 [95379] = true,
-[154929] = true,
+[117388] = true,
 [142115] = true,
-[79904] = true,
+[136372] = true,
 [87538] = true,
 [130904] = true,
 [130920] = true,
 [117389] = true,
-[89174] = true,
+[154930] = true,
 [118728] = true,
 [114154] = true,
 [114170] = true,
-[154930] = true,
+[114186] = true,
 [114202] = true,
 [114218] = true,
-[134086] = true,
+[114219] = true,
 [95380] = true,
-[87539] = true,
-[154932] = true,
-[130905] = true,
 [154931] = true,
+[114187] = true,
 [79905] = true,
+[87539] = true,
+[130905] = true,
 [130921] = true,
-[135488] = true,
+[114155] = true,
 [117390] = true,
 [118729] = true,
-[114155] = true,
+[135488] = true,
 [114171] = true,
-[114187] = true,
+[154932] = true,
 [114203] = true,
-[114219] = true,
-[114186] = true,
+[134086] = true,
+[89174] = true,
 [95381] = true,
-[136372] = true,
-[117388] = true,
-[117387] = true,
-[87540] = true,
+[79904] = true,
+[154929] = true,
+[122606] = true,
+[154933] = true,
 [130906] = true,
 [130922] = true,
-[130903] = true,
-[87537] = true,
+[142114] = true,
+[64392] = true,
 [118730] = true,
 [114156] = true,
 [114172] = true,
-[114188] = true,
+[154934] = true,
 [114204] = true,
-[114220] = true,
-[114183] = true,
-[95382] = true,
-[63127] = true,
-[154923] = true,
-[130910] = true,
-[164625] = true,
+[136383] = true,
+[117386] = true,
+[64394] = true,
+[64657] = true,
+[79917] = true,
+[114176] = true,
+[154935] = true,
 [130907] = true,
 [130923] = true,
-[87541] = true,
-[89175] = true,
-[114141] = true,
+[130916] = true,
+[154921] = true,
+[118731] = true,
 [114157] = true,
 [114173] = true,
-[114189] = true,
+[164626] = true,
 [114205] = true,
 [114221] = true,
-[130914] = true,
+[130930] = true,
 [95383] = true,
-[109585] = true,
-[154916] = true,
-[114163] = true,
+[130913] = true,
+[114159] = true,
+[130912] = true,
 [164627] = true,
-[79908] = true,
+[130908] = true,
 [130924] = true,
-[95386] = true,
-[114178] = true,
-[114142] = true,
+[160741] = true,
+[114162] = true,
+[118732] = true,
 [114158] = true,
 [87399] = true,
 [114190] = true,
 [114206] = true,
-[114161] = true,
+[79909] = true,
 },
 ["name"] = "Archaeology",
 },
@@ -1739,14 +1552,14 @@ true,
 },
 ["name"] = "|cffa335eeLizi's Reins|r",
 },
-["|cffff8040Crests|r"] = {
+["|cffFFAB00Primordial Stones|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffff8040Crests|r",
+["name"] = "|cffFFAB00Primordial Stones|r",
 },
 ["Diamanthia Journal"] = {
 ["enabled"] = {
@@ -1820,32 +1633,31 @@ true,
 },
 ["name"] = "|cffEDE4D3Time Rift|r",
 },
-["Feet"] = {
+["Remix Cogwheel"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
+[216630] = true,
+[218045] = true,
+[216631] = true,
+[218003] = true,
+[218108] = true,
+[216632] = true,
+[218004] = true,
+[218043] = true,
+[218109] = true,
+[218082] = true,
+[216629] = true,
+[218046] = true,
+[218005] = true,
+[217989] = true,
+[218044] = true,
+[218110] = true,
+[217983] = true,
 },
-["name"] = "Feet",
-},
-["Recipe"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Recipe",
-},
-["|cfff49813Bronze|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cfff49813Bronze|r",
+["name"] = "Remix Cogwheel",
 },
 ["Cooking"] = {
 ["enabled"] = {
@@ -1855,6 +1667,24 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Cooking",
+},
+["Darkmoon Cards"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Darkmoon Cards",
+},
+["Recipe"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Recipe",
 },
 ["Key"] = {
 ["enabled"] = {
@@ -1874,14 +1704,14 @@ true,
 },
 ["name"] = "|cff88AAFFZskera Vault|r",
 },
-["Darkmoon Cards"] = {
+["Battle Pets"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Darkmoon Cards",
+["name"] = "Battle Pets",
 },
 ["|cff67CF9EDreamsurge|r"] = {
 ["enabled"] = {
@@ -1901,14 +1731,14 @@ true,
 },
 ["name"] = "|cffa335eeMossy Mammoth|r",
 },
-["Consumable"] = {
+["|cffa335eeAwakened|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable",
+["name"] = "|cffa335eeAwakened|r",
 },
 ["|cff56BBFFDrakewatcher Manuscript|r"] = {
 ["enabled"] = {
@@ -1940,22 +1770,13 @@ true,
 [219878] = true,
 [220120] = true,
 [221982] = true,
-[220211] = true,
+[216671] = true,
 [220117] = true,
 [216663] = true,
 [216695] = true,
-[216671] = true,
+[220211] = true,
 },
 ["name"] = "Remix Meta",
-},
-["|cff0070ddChip|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddChip|r",
 },
 ["|cffa335eeTemperamental Skyclaw|r"] = {
 ["enabled"] = {
@@ -1965,6 +1786,15 @@ true,
 ["itemList"] = {
 },
 ["name"] = "|cffa335eeTemperamental Skyclaw|r",
+},
+["|cff0070ddChip|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff0070ddChip|r",
 },
 ["|cffff8040Loamm|r"] = {
 ["enabled"] = {
@@ -2002,32 +1832,32 @@ true,
 },
 ["name"] = "Free Space",
 },
-["|cffa335eeAwakened|r"] = {
+["Consumable"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeAwakened|r",
+["name"] = "Consumable",
 },
-["|cffFFAB00Primordial Stones|r"] = {
+["|cffff8040Crests|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffFFAB00Primordial Stones|r",
+["name"] = "|cffff8040Crests|r",
 },
-["Battle Pets"] = {
+["|cfff49813Bronze|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Battle Pets",
+["name"] = "|cfff49813Bronze|r",
 },
 ["|cff88AAFFArtisan Curios|r"] = {
 ["enabled"] = {
@@ -2038,31 +1868,14 @@ true,
 },
 ["name"] = "|cff88AAFFArtisan Curios|r",
 },
-["Remix Cogwheel"] = {
+["Feet"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
-[216630] = true,
-[218045] = true,
-[216631] = true,
-[218003] = true,
-[218108] = true,
-[216632] = true,
-[218004] = true,
-[218043] = true,
-[218109] = true,
-[218082] = true,
-[216629] = true,
-[217983] = true,
-[218005] = true,
-[217989] = true,
-[218044] = true,
-[218110] = true,
-[218046] = true,
 },
-["name"] = "Remix Cogwheel",
+["name"] = "Feet",
 },
 ["Glyph"] = {
 ["enabled"] = {
@@ -2084,6 +1897,9 @@ true,
 },
 },
 ["categoryFilters"] = {
+{
+["TradeSkill"] = true,
+},
 [0] = {
 ["TradeSkill"] = true,
 ["Subtype"] = false,
@@ -2249,10 +2065,10 @@ true,
 [117387] = "Archaeology",
 [154930] = "Archaeology",
 [160743] = "Archaeology",
-[114141] = "Archaeology",
-[210715] = "Remix Stat",
+[130927] = "Archaeology",
+[212759] = "Remix Tinker",
 [130929] = "Archaeology",
-[130926] = "Archaeology",
+[109586] = "Archaeology",
 [118729] = "Archaeology",
 [114162] = "Archaeology",
 [114194] = "Archaeology",
@@ -2263,44 +2079,44 @@ true,
 [64395] = "Archaeology",
 [154932] = "Archaeology",
 [104198] = "Archaeology",
-[130924] = "Archaeology",
+[79909] = "Archaeology",
 [87399] = "Archaeology",
-[114159] = "Archaeology",
-[63127] = "Archaeology",
+[79910] = "Archaeology",
+[219818] = "Remix Tinker",
 [130930] = "Archaeology",
-[130923] = "Archaeology",
+[87549] = "Archaeology",
 [154933] = "Archaeology",
 [114163] = "Archaeology",
 [114195] = "Archaeology",
 [114147] = "Archaeology",
-[210714] = "Remix Stat",
+[114172] = "Archaeology",
 [95384] = "Archaeology",
 [117389] = "Archaeology",
-[212694] = "Remix Tinker",
+[79903] = "Archaeology",
 [154934] = "Archaeology",
 [212758] = "Remix Tinker",
-[130919] = "Archaeology",
+[211107] = "Remix Stat",
 [219878] = "Remix Meta",
 [218043] = "Remix Cogwheel",
-[114148] = "Archaeology",
+[210716] = "Remix Stat",
 [130931] = "Archaeology",
-[114149] = "Archaeology",
 [154935] = "Archaeology",
+[118731] = "Archaeology",
 [114164] = "Archaeology",
 [114196] = "Archaeology",
-[130917] = "Archaeology",
+[210718] = "Remix Stat",
 [218044] = "Remix Cogwheel",
 [95385] = "Archaeology",
 [216639] = "Remix Stat",
 [64396] = "Archaeology",
-[114173] = "Archaeology",
+[221982] = "Remix Meta",
 [219386] = "Remix Meta",
-[87538] = "Archaeology",
-[130932] = "Archaeology",
+[219944] = "Remix Tinker",
+[220211] = "Remix Meta",
 [218045] = "Remix Cogwheel",
 [218109] = "Remix Cogwheel",
 [216640] = "Remix Stat",
-[79896] = "Archaeology",
+[216631] = "Remix Cogwheel",
 [118732] = "Archaeology",
 [114165] = "Archaeology",
 [114197] = "Archaeology",
@@ -2308,8 +2124,8 @@ true,
 [218046] = "Remix Cogwheel",
 [95386] = "Archaeology",
 [216641] = "Remix Stat",
-[211103] = "Remix Stat",
-[114154] = "Archaeology",
+[216632] = "Remix Cogwheel",
+[134086] = "Archaeology",
 [87537] = "Archaeology",
 [219452] = "Remix Tinker",
 [219516] = "Remix Tinker",
@@ -2321,111 +2137,418 @@ true,
 [219389] = "Remix Tinker",
 [114198] = "Archaeology",
 [89169] = "Archaeology",
-[114151] = "Archaeology",
+[114150] = "Archaeology",
 [95387] = "Archaeology",
 [216643] = "Remix Stat",
 [64397] = "Archaeology",
 [89171] = "Archaeology",
-[216626] = "Remix Tinker",
-[218108] = "Remix Cogwheel",
-[217983] = "Remix Cogwheel",
-[109584] = "Archaeology",
-[130934] = "Archaeology",
+[89172] = "Archaeology",
+[89173] = "Archaeology",
+[89174] = "Archaeology",
+[118728] = "Archaeology",
+[89175] = "Archaeology",
 [216644] = "Remix Stat",
-[154931] = "Archaeology",
+[117390] = "Archaeology",
 [79898] = "Archaeology",
 [114167] = "Archaeology",
 [114199] = "Archaeology",
 [212365] = "Remix Tinker",
 [89176] = "Archaeology",
 [95388] = "Archaeology",
-[89170] = "Archaeology",
-[136372] = "Archaeology",
-[212362] = "Remix Tinker",
+[118730] = "Archaeology",
+[217964] = "Remix Tinker",
+[114145] = "Archaeology",
 [212749] = "Remix Tinker",
 [218110] = "Remix Cogwheel",
 [212366] = "Remix Tinker",
-[136419] = "Archaeology",
-[130903] = "Archaeology",
 [130935] = "Archaeology",
+[130903] = "Archaeology",
+[136419] = "Archaeology",
 [216695] = "Remix Meta",
 [79899] = "Archaeology",
 [114168] = "Archaeology",
 [114200] = "Archaeology",
-[87534] = "Archaeology",
-[219777] = "Remix Tinker",
+[79869] = "Archaeology",
+[216711] = "Remix Meta",
 [95389] = "Archaeology",
 [216647] = "Remix Tinker",
-[216711] = "Remix Meta",
+[219777] = "Remix Tinker",
 [114142] = "Archaeology",
-[114144] = "Archaeology",
-[114146] = "Archaeology",
+[114166] = "Archaeology",
+[211124] = "Remix Stat",
 [217989] = "Remix Cogwheel",
-[79868] = "Archaeology",
+[87533] = "Archaeology",
 [130904] = "Archaeology",
 [216648] = "Remix Tinker",
-[87533] = "Archaeology",
+[79868] = "Archaeology",
 [79900] = "Archaeology",
 [114169] = "Archaeology",
 [114201] = "Archaeology",
 [219523] = "Remix Tinker",
-[109585] = "Archaeology",
+[211123] = "Remix Stat",
 [95390] = "Archaeology",
 [216649] = "Remix Tinker",
-[164625] = "Archaeology",
 [164626] = "Archaeology",
-[211123] = "Remix Stat",
+[164625] = "Archaeology",
+[109585] = "Archaeology",
 [217927] = "Remix Tinker",
-[211124] = "Remix Stat",
-[114166] = "Archaeology",
+[114146] = "Archaeology",
+[114144] = "Archaeology",
 [130905] = "Archaeology",
 [216650] = "Remix Tinker",
-[79869] = "Archaeology",
+[87534] = "Archaeology",
 [79901] = "Archaeology",
 [114170] = "Archaeology",
 [114202] = "Archaeology",
-[114145] = "Archaeology",
-[217964] = "Remix Tinker",
-[118730] = "Archaeology",
+[212362] = "Remix Tinker",
+[136372] = "Archaeology",
+[89170] = "Archaeology",
 [216651] = "Remix Tinker",
-[117390] = "Archaeology",
-[89175] = "Archaeology",
-[118728] = "Archaeology",
-[89174] = "Archaeology",
-[89173] = "Archaeology",
-[89172] = "Archaeology",
+[154931] = "Archaeology",
+[130934] = "Archaeology",
+[109584] = "Archaeology",
+[217983] = "Remix Cogwheel",
+[218108] = "Remix Cogwheel",
+[216626] = "Remix Tinker",
 [130906] = "Archaeology",
-[114150] = "Archaeology",
+[114151] = "Archaeology",
 [87535] = "Archaeology",
 [79902] = "Archaeology",
 [114171] = "Archaeology",
 [114203] = "Archaeology",
 [219527] = "Remix Tinker",
-[134086] = "Archaeology",
-[216632] = "Remix Cogwheel",
-[216631] = "Remix Cogwheel",
-[220211] = "Remix Meta",
-[219944] = "Remix Tinker",
-[221982] = "Remix Meta",
-[210718] = "Remix Stat",
-[118731] = "Archaeology",
-[210716] = "Remix Stat",
+[114154] = "Archaeology",
+[211103] = "Remix Stat",
+[79896] = "Archaeology",
+[130932] = "Archaeology",
+[87538] = "Archaeology",
+[114173] = "Archaeology",
+[130917] = "Archaeology",
+[114149] = "Archaeology",
+[114148] = "Archaeology",
 [130907] = "Archaeology",
-[211107] = "Remix Stat",
+[130919] = "Archaeology",
 [87536] = "Archaeology",
-[79903] = "Archaeology",
-[114172] = "Archaeology",
+[212694] = "Remix Tinker",
+[210714] = "Remix Stat",
 [114204] = "Archaeology",
-[87549] = "Archaeology",
-[219818] = "Remix Tinker",
-[79910] = "Archaeology",
-[79909] = "Archaeology",
+[130923] = "Archaeology",
+[63127] = "Archaeology",
+[114159] = "Archaeology",
+[130924] = "Archaeology",
 [142113] = "Archaeology",
-[109586] = "Archaeology",
-[212759] = "Remix Tinker",
-[130927] = "Archaeology",
+[130926] = "Archaeology",
+[210715] = "Remix Stat",
+[114141] = "Archaeology",
 },
-["newItemTime"] = 0,
+["categoryOptions"] = {
+["Remix Cogwheel"] = {
+["shown"] = true,
+},
+["|cff16B7FFPrimal Storms|r"] = {
+["shown"] = true,
+},
+["Remix Stat"] = {
+["shown"] = true,
+},
+["Legs"] = {
+["shown"] = true,
+},
+["|cff67CF9ESuperbloom|r"] = {
+["shown"] = true,
+},
+["Main Hand"] = {
+["shown"] = true,
+},
+["Reputation Insignia"] = {
+["shown"] = true,
+},
+["Hands"] = {
+["shown"] = true,
+},
+["Junk"] = {
+["shown"] = true,
+},
+["Tailoring"] = {
+["shown"] = true,
+},
+["Head"] = {
+["shown"] = true,
+},
+["Gear: Elemental"] = {
+["shown"] = true,
+},
+["Feet"] = {
+["shown"] = true,
+},
+["Chest"] = {
+["shown"] = true,
+},
+["|cffa335eeLizi's Reins|r"] = {
+["shown"] = true,
+},
+["Engineering"] = {
+["shown"] = true,
+},
+["|cff88AAFFAssembly of the Deeps|r"] = {
+["shown"] = true,
+},
+["Ranged"] = {
+["shown"] = true,
+},
+["Bag"] = {
+["shown"] = true,
+},
+["Held In Off-hand"] = {
+["shown"] = true,
+},
+["Jewelcrafting"] = {
+["shown"] = true,
+},
+["One-Hand"] = {
+["shown"] = true,
+},
+["Key"] = {
+["shown"] = true,
+},
+["|cff88AAFFZskera Vault|r"] = {
+["shown"] = true,
+},
+["Recent Items"] = {
+["shown"] = true,
+},
+["|cffa335eeMossy Mammoth|r"] = {
+["shown"] = true,
+},
+["|cff56BBFFDrakewatcher Manuscript - DF|r"] = {
+["shown"] = true,
+},
+["Darkmoon Cards - DF"] = {
+["shown"] = true,
+},
+["Remix Meta"] = {
+["shown"] = true,
+},
+["Optional Reagents"] = {
+["shown"] = true,
+},
+["|cffa335eeTemperamental Skyclaw|r"] = {
+["shown"] = true,
+},
+["Trinket"] = {
+["shown"] = true,
+},
+["|cff88AAFFHallowfall Arathi|r"] = {
+["shown"] = true,
+},
+["Gem"] = {
+["shown"] = true,
+},
+["|cffff8040Reputation - DF|r"] = {
+["shown"] = true,
+},
+["|cff0070ddProfession Knowledge - DF|r"] = {
+["shown"] = true,
+},
+["Shoulder"] = {
+["shown"] = true,
+},
+["|cffa335eeLoyal Magmammoth|r"] = {
+["shown"] = true,
+},
+["Waist"] = {
+["shown"] = true,
+},
+["Gear: Augmentation"] = {
+["shown"] = true,
+},
+["Gear: Devastation"] = {
+["shown"] = true,
+},
+["|cffAFB42BContracts|r"] = {
+["shown"] = true,
+},
+["|cff0070ddIllusive Kobyss Lure|r"] = {
+["shown"] = true,
+},
+["Battle Pet"] = {
+["shown"] = true,
+},
+["Glyph"] = {
+["shown"] = true,
+},
+["Back"] = {
+["shown"] = true,
+},
+["|cff0070ddPhoenix Wishwing|r"] = {
+["shown"] = true,
+},
+["|cffa335eeGooey Snailemental|r"] = {
+["shown"] = true,
+},
+["|cffa335eeAwakened|r"] = {
+["shown"] = true,
+},
+["Remix Tinker"] = {
+["shown"] = true,
+},
+["Leatherworking"] = {
+["shown"] = true,
+},
+["Off Hand"] = {
+["shown"] = true,
+},
+["Profession Tool"] = {
+["shown"] = true,
+},
+["Enchanting"] = {
+["shown"] = true,
+},
+["|cff0070ddProfession Knowledge|r"] = {
+["shown"] = true,
+},
+["Tradeskill"] = {
+["shown"] = true,
+},
+["Elemental"] = {
+["shown"] = true,
+},
+["|cffff8040Loamm|r"] = {
+["shown"] = true,
+},
+["|cffff8040Crests - DF|r"] = {
+["shown"] = true,
+},
+["Treasure Sacks"] = {
+["shown"] = true,
+},
+["|cffff8040Reputation|r"] = {
+["shown"] = true,
+},
+["|cff910951Fyrakk Assault|r"] = {
+["shown"] = true,
+},
+["|cff0070ddChip|r"] = {
+["shown"] = true,
+},
+["Archaeology"] = {
+["shown"] = true,
+},
+["Item Enhancement"] = {
+["shown"] = true,
+},
+["|cffa335eeMagmashell|r"] = {
+["shown"] = true,
+},
+["|cffAFB42BContracts - DF|r"] = {
+["shown"] = true,
+},
+["Diamanthia Journal"] = {
+["shown"] = true,
+},
+["|cfff49813Eternal Threads|r"] = {
+["shown"] = true,
+},
+["|cffB5D3E7Storm's Fury|r"] = {
+["shown"] = true,
+},
+["Other"] = {
+["shown"] = true,
+},
+["Fortune Cards"] = {
+["shown"] = true,
+},
+["|cffEDE4D3Time Rift|r"] = {
+["shown"] = true,
+},
+["Finger"] = {
+["shown"] = true,
+},
+["Neck"] = {
+["shown"] = true,
+},
+["Cooking"] = {
+["shown"] = true,
+},
+["|cff67CF9EDreamsurge|r"] = {
+["shown"] = true,
+},
+["Battle Pets"] = {
+["shown"] = true,
+},
+["Recipe"] = {
+["shown"] = true,
+},
+["Azerothian Archives"] = {
+["shown"] = true,
+},
+["Wrist"] = {
+["shown"] = true,
+},
+["Armor"] = {
+["shown"] = true,
+},
+["Darkmoon Cards"] = {
+["shown"] = true,
+},
+["Gear: Preservation"] = {
+["shown"] = true,
+},
+["|cfff49813Bronze|r"] = {
+["shown"] = true,
+},
+["Finishing Reagents"] = {
+["shown"] = true,
+},
+["|cff56BBFFDrakewatcher Manuscript|r"] = {
+["shown"] = true,
+},
+["Herbalism"] = {
+["shown"] = true,
+},
+["Mining"] = {
+["shown"] = true,
+},
+["Quest"] = {
+["shown"] = true,
+},
+["Two-Hand"] = {
+["shown"] = true,
+},
+["|cff0070ddDusty Prospector's Chest|r"] = {
+["shown"] = true,
+},
+["Inscription"] = {
+["shown"] = true,
+},
+["Miscellaneous"] = {
+["shown"] = true,
+},
+["Free Space"] = {
+["shown"] = true,
+},
+["Consumable"] = {
+["shown"] = true,
+},
+["|cffff8040Crests|r"] = {
+["shown"] = true,
+},
+["Profession Equipment"] = {
+["shown"] = true,
+},
+["|cff88AAFFArtisan Curios|r"] = {
+["shown"] = true,
+},
+["|cff88AAFFDelves|r"] = {
+["shown"] = true,
+},
+["|cffFFAB00Primordial Stones|r"] = {
+["shown"] = true,
+},
+["Gear: Restoration"] = {
+["shown"] = true,
+},
+},
 },
 },
 }

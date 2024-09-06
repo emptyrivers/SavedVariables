@@ -6,31 +6,31 @@ HandyNotesDB = {
 ["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 ["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
+["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 ["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -44,23 +44,23 @@ HandyNotesDB = {
 },
 ["Naturerivers - Korgath"] = {
 },
-["Flumina - Argent Dawn"] = {
+["Sverdrup - Argent Dawn"] = {
 },
-["Inundito - Kel'Thuzad"] = {
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Lotic - Argent Dawn"] = {
 },
 ["Mangrove - Argent Dawn"] = {
 },
-["Cataracts - Argent Dawn"] = {
-},
-["Emptyrivers - Argent Dawn"] = {
-},
-["Saellindris - Kel'Thuzad"] = {
-},
 ["Ochrian - Argent Dawn"] = {
 },
-["Zimuures - Argent Dawn"] = {
+["Emptyrivers - Arthas"] = {
+},
+["Inundito - Kel'Thuzad"] = {
+},
+["Cataracts - Argent Dawn"] = {
+},
+["Benthos - Argent Dawn"] = {
 },
 ["Emptystreams - Argent Dawn"] = {
 },
@@ -68,9 +68,9 @@ HandyNotesDB = {
 },
 ["Alluvium - Argent Dawn"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Riparium - Argent Dawn"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
+["Mothugeon - Argent Dawn"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -78,21 +78,21 @@ HandyNotesDB = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Mothugeon - Argent Dawn"] = {
+["Evilrivers - Kel'Thuzad"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
-["Benthos - Argent Dawn"] = {
+["Zimuures - Argent Dawn"] = {
 },
-["Emptyrivers - Arthas"] = {
+["Emptyrivers - Argent Dawn"] = {
 },
 ["Karst - Argent Dawn"] = {
 },
 ["Alandere - Argent Dawn"] = {
 },
-["Sverdrup - Argent Dawn"] = {
+["Flumina - Argent Dawn"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },
@@ -105,31 +105,31 @@ HandyNotes_HandyNotesDB = {
 ["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 ["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
+["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
+["Evilrivers - Kel'Thuzad"] = "Evilrivers - Kel'Thuzad",
 ["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-["Emptyrivers - Arthas"] = "Emptyrivers - Arthas",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -143,23 +143,23 @@ HandyNotes_HandyNotesDB = {
 },
 ["Naturerivers - Korgath"] = {
 },
-["Flumina - Argent Dawn"] = {
+["Sverdrup - Argent Dawn"] = {
 },
-["Inundito - Kel'Thuzad"] = {
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Lotic - Argent Dawn"] = {
 },
 ["Mangrove - Argent Dawn"] = {
 },
-["Cataracts - Argent Dawn"] = {
-},
-["Emptyrivers - Argent Dawn"] = {
-},
-["Saellindris - Kel'Thuzad"] = {
-},
 ["Ochrian - Argent Dawn"] = {
 },
-["Zimuures - Argent Dawn"] = {
+["Emptyrivers - Arthas"] = {
+},
+["Inundito - Kel'Thuzad"] = {
+},
+["Cataracts - Argent Dawn"] = {
+},
+["Benthos - Argent Dawn"] = {
 },
 ["Emptystreams - Argent Dawn"] = {
 },
@@ -167,9 +167,9 @@ HandyNotes_HandyNotesDB = {
 },
 ["Alluvium - Argent Dawn"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Riparium - Argent Dawn"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
+["Mothugeon - Argent Dawn"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -177,21 +177,21 @@ HandyNotes_HandyNotesDB = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Mothugeon - Argent Dawn"] = {
+["Evilrivers - Kel'Thuzad"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
-["Benthos - Argent Dawn"] = {
+["Zimuures - Argent Dawn"] = {
 },
-["Emptyrivers - Arthas"] = {
+["Emptyrivers - Argent Dawn"] = {
 },
 ["Karst - Argent Dawn"] = {
 },
 ["Alandere - Argent Dawn"] = {
 },
-["Sverdrup - Argent Dawn"] = {
+["Flumina - Argent Dawn"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },
