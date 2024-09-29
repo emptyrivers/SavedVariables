@@ -12,18 +12,18 @@ HandyNotes_TreasureHunterDB = {
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
+["Stream - Argent Dawn"] = "Stream - Argent Dawn",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
 ["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 ["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -57,7 +57,7 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
-["Saellindris - Kel'Thuzad"] = {
+["Stream - Argent Dawn"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -65,11 +65,11 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Esker - Kel'Thuzad"] = {
+["Riparium - Argent Dawn"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
 ["Benthos - Argent Dawn"] = {
 },
@@ -77,9 +77,15 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Esker - Kel'Thuzad"] = {
+["achievementsHidden"] = {
+[9728] = true,
 },
-["Stream - Argent Dawn"] = {
+["groupsHidden"] = {
+["evershiftingmirror"] = true,
+},
+},
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },

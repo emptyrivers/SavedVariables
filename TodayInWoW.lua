@@ -1,0 +1,2 @@
+
+TodayInWoWSaved = nil

@@ -8297,6 +8297,2175 @@ AdventureArchivesTalkingHeadDB_9 = {
 ["ci"] = 1809,
 ["nl"] = 1,
 },
+{
+["lines"] = {
+{
+["vd"] = 7.100000000000001,
+["ln"] = 0,
+["vo"] = 252007,
+["st"] = "The kobyss encroach on Velhan's Claim. Protect the residents from their aggression.",
+["ta"] = 24253033,
+},
+},
+["nl"] = 1,
+["ci"] = 118,
+["di"] = 115288,
+["nm"] = "Great Kyron",
+["la"] = "2215-4687-2257-Velhan's Claim",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.33,
+["ln"] = 0,
+["vo"] = 251971,
+["st"] = "Our miners had to leave their tools behind when the nerubians attacked. Please retrieve them.",
+["ta"] = 24309278,
+},
+},
+["la"] = "2248-4644-5805-The Opalcreg",
+["nm"] = "Adelgonn",
+["di"] = 117127,
+["ci"] = 1809,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 10.55,
+["ln"] = 0,
+["vo"] = 251942,
+["st"] = "Splendid work. The mosswools look quite content and our lawns look as well kept as ever!",
+["ta"] = 24335645,
+},
+},
+["nl"] = 1,
+["ci"] = 1807,
+["di"] = 116815,
+["nm"] = "Merrix",
+["la"] = "2339-6139-2261-Stoneshaper's Atrium",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.13,
+["ln"] = 0,
+["vo"] = 250773,
+["st"] = "Ah, you've arrived. Our \"friend\" awaits you in the High Hollows.",
+["ta"] = 24336761,
+},
+},
+["la"] = "2343---Umbral Bazaar",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 10.42,
+["ln"] = 0,
+["vo"] = 250774,
+["st"] = "Our queen offers a most wondrous gift. We will become greater than we are.",
+["ta"] = 24336800,
+},
+},
+["la"] = "2343---Umbral Bazaar",
+["nm"] = "Orator Krix'vizk",
+["di"] = 116692,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 7.560000000000001,
+["ln"] = 0,
+["vo"] = 250775,
+["st"] = "Invaders! Fear not, citizens. We will show them Ansurek's wrath.",
+["ta"] = 24336851,
+},
+},
+["la"] = "2343---Umbral Bazaar",
+["nm"] = "Orator Krix'vizk",
+["di"] = 116692,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 5.29,
+["ln"] = 0,
+["vo"] = 250776,
+["st"] = "Do you not know who I am? Whose voice you challenge?",
+["ta"] = 24336890,
+},
+},
+["la"] = "2343---Umbral Bazaar",
+["nm"] = "Orator Krix'vizk",
+["di"] = 116692,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 5.08,
+["ln"] = 0,
+["vo"] = 250778,
+["st"] = "Ansurek has eyes everywhere. You'll need to blind them to meet the Vizier.",
+["ta"] = 24336963,
+},
+},
+["la"] = "2343---Umbral Bazaar",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 5.87,
+["ln"] = 0,
+["vo"] = 250779,
+["st"] = "By the weave! One of Ansurek's spies has fallen.",
+["ta"] = 24337017,
+},
+},
+["la"] = "2343---High Hollows",
+["nm"] = "Executor Nizrek",
+["di"] = 114268,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.18,
+["ln"] = 0,
+["vo"] = 250780,
+["st"] = "Another spy has fallen? This cannot be!",
+["ta"] = 24337071,
+},
+},
+["la"] = "2343---High Hollows",
+["nm"] = "Executor Nizrek",
+["di"] = 114268,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.7,
+["ln"] = 0,
+["vo"] = 250781,
+["st"] = "If this distressing trend continues, we will run out of spies!",
+["ta"] = 24337114,
+},
+},
+["la"] = "2343---High Hollows",
+["nm"] = "Executor Nizrek",
+["di"] = 114268,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.36,
+["ln"] = 0,
+["vo"] = 250782,
+["st"] = "Ah, much better. Come to me, and I will help you as agreed.",
+["ta"] = 24337175,
+},
+},
+["la"] = "2343---High Hollows",
+["nm"] = "Executor Nizrek",
+["di"] = 114268,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 3.78,
+["ln"] = 0,
+["vo"] = 250790,
+["st"] = "Our strands are strong! None will pass!",
+["ta"] = 24337298,
+},
+},
+["la"] = "2343---High Hollows",
+["nm"] = "Royal Venomshell",
+["di"] = 115721,
+["ci"] = 1799,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 5.36,
+["ln"] = 0,
+["vo"] = 250791,
+["st"] = "Overcrawlers? I've enough of you in my collection. Begone.",
+["ta"] = 24337377,
+},
+},
+["la"] = "2344---The Transformatory",
+["nm"] = "Izo, the Grand Splicer",
+["di"] = 116701,
+["ci"] = 1753,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 7,
+["ln"] = 0,
+["vo"] = 250795,
+["st"] = "The pursuit of perfection can be... messy. But worthwhile in the end.",
+["ta"] = 24337510,
+},
+},
+["la"] = "2344---The Transformatory",
+["nm"] = "Izo, the Grand Splicer",
+["di"] = 116701,
+["ci"] = 1753,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.120000000000001,
+["ln"] = 0,
+["vo"] = 250798,
+["st"] = "Ansurek will be absolutely furious when she learns of Izo's demise. I cannot wait to witness it.",
+["ta"] = 24337659,
+},
+},
+["la"] = "2344---The Transformatory",
+["nm"] = "Executor Nizrek",
+["di"] = 114268,
+["ci"] = 1751,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 3.11,
+["ln"] = 1,
+["vo"] = 251195,
+["st"] = "She's lost control of her magic! Get out of there!",
+["ta"] = 24339290,
+},
+},
+["la"] = "2359---Hallowfall",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 6.97,
+["ln"] = 0,
+["vo"] = 251196,
+["st"] = "While you valiantly fought to retake our flagship, the Order of Night has ravaged Mereldar.",
+["ta"] = 24339373,
+},
+{
+["vd"] = 5.16,
+["ln"] = 1,
+["vo"] = 251197,
+["st"] = "Three nerubian lieutenants are empowering the commander who leads them.",
+["ta"] = 24339380,
+},
+{
+["vd"] = 6.97,
+["ln"] = 2,
+["vo"] = 251198,
+["st"] = "We must liberate the city. We need your help, outsider--no. Champion.",
+["ta"] = 24339385,
+},
+},
+["la"] = "2359---Hallowfall",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 3.47,
+["ln"] = 0,
+["vo"] = 247638,
+["st"] = "The Arathi will fall to ruin!",
+["ta"] = 24339395,
+},
+{
+["vd"] = 3.61,
+["ln"] = 1,
+["vo"] = 251199,
+["st"] = "Down here, champion. The cultists have overrun the city.",
+["ta"] = 24339398,
+},
+{
+["vd"] = 4.25,
+["ln"] = 2,
+["vo"] = 251200,
+["st"] = "Find and defeat them, or we will have to face that commander at full strength.",
+["ta"] = 24339402,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "Anub'ikkaj",
+["di"] = 114315,
+["ci"] = 1751,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 5.09,
+["ln"] = 0,
+["vo"] = 251202,
+["st"] = "They try to defile our faith. Instead you have weakened their commander.",
+["ta"] = 24339455,
+},
+},
+["la"] = "2359---Church of the Sacred Flame",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.3,
+["ln"] = 0,
+["vo"] = 251203,
+["st"] = "Ashes! There's a lieutenant in my house! Kill it!",
+["ta"] = 24339472,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 7.16,
+["ln"] = 0,
+["vo"] = 251204,
+["st"] = "Luckily, my daughter and her children are safe. You've weakened the commander and cleansed my home. Thank you.",
+["ta"] = 24339515,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 3.58,
+["ln"] = 0,
+["vo"] = 251205,
+["st"] = "They've taken the inn as a foothold! And a lieutenant leads them.",
+["ta"] = 24339536,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.16,
+["ln"] = 0,
+["vo"] = 251206,
+["st"] = "We've weakened the nerubian's foothold on the town and their commander.",
+["ta"] = 24339583,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.14,
+["ln"] = 0,
+["vo"] = 251207,
+["st"] = "You've saved Mereldar, champion. We'll drive the remainder of this shadowy lot from the city.",
+["ta"] = 24339666,
+},
+{
+["vd"] = 4.560000000000001,
+["ln"] = 1,
+["vo"] = 251208,
+["st"] = "Wait. No! They've sent a force back up and retaken the Dawnbreaker!",
+["ta"] = 24339674,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.25,
+["ln"] = 0,
+["vo"] = 251184,
+["st"] = "If the Order of Night steals the Dawnbreaker, Mereldar will be defenseless!",
+["ta"] = 24339682,
+},
+},
+["la"] = "2359---Hallowfall",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 2.71,
+["ln"] = 0,
+["vo"] = 251209,
+["st"] = "Get these shadow cultists off my ship!",
+["ta"] = 24339688,
+},
+},
+["la"] = "2359---Hallowfall",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.850000000000001,
+["ln"] = 0,
+["vo"] = 251210,
+["st"] = "By the light of the Flame! What is that fresh horror?",
+["ta"] = 24339722,
+},
+},
+["la"] = "2359---Hallowfall",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 6.01,
+["ln"] = 0,
+["vo"] = 251211,
+["st"] = "You chased that monster from the Dawnbreaker! You must pursue and drive them from Hallowfall.",
+["ta"] = 24339793,
+},
+{
+["vd"] = 4.270000000000001,
+["ln"] = 1,
+["vo"] = 251189,
+["st"] = "This darkness is deadly. The lamplighter's blessing will keep you safe.",
+["ta"] = 24339799,
+},
+},
+["la"] = "2359---Dayspring Fields",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 11.68,
+["ln"] = 0,
+["vo"] = 251212,
+["st"] = "You've done it, champion! You've broken the unholy alliance between the Order of Night and Azj-Kahet.",
+["ta"] = 24339908,
+},
+{
+["vd"] = 12.91,
+["ln"] = 1,
+["vo"] = 251213,
+["st"] = "That creature of theirs has fled back to their queen. No doubt with tales of your fearsome heroism.",
+["ta"] = 24339919,
+},
+{
+["vd"] = 5.7,
+["ln"] = 2,
+["vo"] = 251214,
+["st"] = "I'm sure your paths will cross again. But for now, enjoy your victory.",
+["ta"] = 24339932,
+},
+},
+["la"] = "2359---Hallowfall",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 7.3,
+["ln"] = 0,
+["vo"] = 252028,
+["st"] = "Fungarians grow unchecked. Destroy the colony's leader and collect the spores to prevent a new fungal army.",
+["ta"] = 24339971,
+},
+},
+["la"] = "2215-6004-6167-Stagnant Mire",
+["nm"] = "Great Kyron",
+["di"] = 115288,
+["ci"] = 118,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.32,
+["ln"] = 0,
+["vo"] = 251845,
+["st"] = "Esker! I've managed to free some of the cinderbees.",
+["ta"] = 24343237,
+},
+{
+["vd"] = 6.350000000000001,
+["ln"] = 1,
+["vo"] = 251846,
+["st"] = "We should use them to make a bee line to Goldie's office. Come back to the taps to use them!",
+["ta"] = 24343242,
+},
+},
+["la"] = "2335---The Stills",
+["nm"] = "Wenbrandt",
+["di"] = 114514,
+["ci"] = 1807,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.73,
+["ln"] = 0,
+["vo"] = 251943,
+["st"] = "Those confounded nerubians are still lurking around my meadery! Clear them out before they steal my cinderbrew!",
+["ta"] = 24360609,
+},
+},
+["la"] = "2248-7482-3707-Sunrise Shadow",
+["nm"] = "Wenbrandt",
+["di"] = 114514,
+["ci"] = 1807,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 10.44,
+["ln"] = 0,
+["vo"] = 251955,
+["st"] = "We must take extreme methods to stop the kobolds plundering Mourning Rise. Use explosives to collapse their tunnels.",
+["ta"] = 24413887,
+},
+},
+["la"] = "2248-6262-4327-Mourning Rise",
+["nm"] = "Adelgonn",
+["di"] = 117127,
+["ci"] = 1809,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 11.64,
+["ln"] = 0,
+["vo"] = 251965,
+["st"] = "With an empty stomach, a ramolith has one directive: to eat! Help guide this one's hunger into a constructive activity.",
+["ta"] = 24498669,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-5257-5831-Isle of Dorn",
+},
+{
+["lines"] = {
+{
+["vd"] = 7.520000000000001,
+["ln"] = 0,
+["vo"] = 251400,
+["st"] = "The orphans of Mereldar have been asking to play with you again. I think they'd appreciate it if you visited them.",
+["ta"] = 24584130,
+},
+},
+["nl"] = 1,
+["ci"] = 1818,
+["di"] = 115280,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-4303-5538-Mereldar",
+},
+{
+["lines"] = {
+{
+["vd"] = 4.53,
+["ln"] = 0,
+["vo"] = 251401,
+["st"] = "I can hear their laughter already. Thank you, Estuary.",
+["ta"] = 24584983,
+},
+},
+["la"] = "2215-4169-5523-Mereldar",
+["nm"] = "Faerin Lothar",
+["di"] = 115280,
+["ci"] = 1818,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.84,
+["ln"] = 0,
+["vo"] = 251966,
+["st"] = "Nothing is better than a leveled field and a happy ramolith! Thank you, outlander.",
+["ta"] = 24594346,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-5120-5563-Isle of Dorn",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.56,
+["ln"] = 0,
+["vo"] = 251956,
+["st"] = "Hopefully that will finally deter them, but if I have learned anything, it's that kobolds always come back.",
+["ta"] = 24594613,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-6285-4471-Mourning Rise",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.22,
+["ln"] = 0,
+["vo"] = 251967,
+["st"] = "The fall of Dalaran shattered countless irreplaceable artifacts of immense power. It is our duty to preserve what we can.",
+["ta"] = 24594952,
+},
+},
+["nl"] = 1,
+["ci"] = 611,
+["di"] = 88316,
+["nm"] = "Lady Jaina Proudmoore",
+["la"] = "2248-2954-5234-Tranquil Strand",
+},
+{
+["lines"] = {
+{
+["vd"] = 9.39,
+["ln"] = 0,
+["vo"] = 251968,
+["st"] = "Well done, Estuary. Your efforts have brought us one step closer to securing the crash site and Dalaran's legacy.",
+["ta"] = 24594988,
+},
+},
+["nl"] = 1,
+["ci"] = 611,
+["di"] = 88316,
+["nm"] = "Lady Jaina Proudmoore",
+["la"] = "2248-2991-5248-Tranquil Strand",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.02,
+["ln"] = 0,
+["vo"] = 251972,
+["st"] = "Thank you. We'll go back for the rest when the nerubians are gone for good.",
+["ta"] = 24595296,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-4782-6032-The Opalcreg",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.9,
+["ln"] = 0,
+["vo"] = 250958,
+["st"] = "Another outbreak of violence. Time to stand up and shut this down.",
+["ta"] = 24596377,
+},
+},
+["nl"] = 1,
+["ci"] = 1842,
+["di"] = 117238,
+["nm"] = "High Speaker Brinthe",
+["la"] = "2214-5667-4037-Shadowvein Extraction Site",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.66,
+["ln"] = 0,
+["vo"] = 251005,
+["st"] = "Now that the dust has settled, we can all move on to our next agenda. Expressing gratitude, friends.",
+["ta"] = 24596500,
+},
+},
+["nl"] = 1,
+["ci"] = 1842,
+["di"] = 117238,
+["nm"] = "High Speaker Brinthe",
+["la"] = "2214-6018-3819-Shadowvein Extraction Site",
+},
+{
+["lines"] = {
+{
+["vd"] = 13.24,
+["ln"] = 0,
+["vo"] = 250707,
+["st"] = "The nearby kobyss have become a problem. Our citizens would appreciate you culling their numbers, and my alchemists would appreciate you... retaining their organs.",
+["ta"] = 24597663,
+},
+},
+["nl"] = 1,
+["ci"] = 1752,
+["di"] = 114268,
+["nm"] = "Executor Nizrek",
+["la"] = "2255-6172-6742-Salien Gutters",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.4,
+["ln"] = 0,
+["vo"] = 250681,
+["st"] = "Vix'aron's incompetence has allowed skitterlings to invade my threadling hollows. Deal with the thieves and protect my investment!",
+["ta"] = 24598770,
+},
+},
+["nl"] = 1,
+["ci"] = 1799,
+["di"] = 114775,
+["nm"] = "Anub'azal",
+["la"] = "2255-7301-7784-Rak-Ush",
+},
+{
+["lines"] = {
+{
+["vd"] = 12.16,
+["ln"] = 0,
+["vo"] = 251945,
+["st"] = "Cinderbees! Stunning yet perilous creatures. When their numbers surge, honey production halts, triggering extreme aggression instead!",
+["ta"] = 24601629,
+},
+},
+["nl"] = 1,
+["ci"] = 1807,
+["di"] = 114514,
+["nm"] = "Wenbrandt",
+["la"] = "2248-7132-4216-Cinderwold",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.6,
+["ln"] = 0,
+["vo"] = 251997,
+["st"] = "It's your team against my one unit! Easy! You win by getting my unit's health to zero. I win by getting each of your unit's health to zero.",
+["ta"] = 24607666,
+},
+{
+["vd"] = 7.3,
+["ln"] = 1,
+["vo"] = 251998,
+["st"] = "Look carefully at each of your unit's abilities! Don't worry, I won't start until you make your first move.",
+["ta"] = 24607676,
+},
+{
+["vd"] = 9.200000000000001,
+["ln"] = 2,
+["vo"] = 251999,
+["st"] = "Your castle has a powerful ranged attack, but it can't move. The other two can move and have both ranged and melee abilities.",
+["ta"] = 24607684,
+},
+{
+["vd"] = 3.94,
+["ln"] = 3,
+["vo"] = 252001,
+["st"] = "Try using an ability!",
+["ta"] = 24607693,
+},
+},
+["nl"] = 4,
+["ci"] = 84,
+["di"] = 118719,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-4319-5238-Lamplighter Headquarters",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.19,
+["ln"] = 0,
+["vo"] = 252000,
+["st"] = "Each unit can only do one ability, then it has to recharge. While it's recharging, switch to another unit!",
+["ta"] = 24607713,
+},
+{
+["vd"] = 10.2,
+["ln"] = 1,
+["vo"] = 252002,
+["st"] = "Move your pieces around the board to avoid my attacks and deal your own! The first player to wipe out the other side's team wins! Let's do this!",
+["ta"] = 24607722,
+},
+},
+["nl"] = 2,
+["ci"] = 84,
+["di"] = 118719,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-4319-5238-Lamplighter Headquarters",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.81,
+["ln"] = 0,
+["vo"] = 251957,
+["st"] = "In this season, the Unbound adorn their ramoliths with flowers, symbolizing harmony and their gratitude for nature's gifts.",
+["ta"] = 24689647,
+},
+},
+["la"] = "2248-4337-7351-Freywold Village",
+["nm"] = "Adelgonn",
+["di"] = 117127,
+["ci"] = 1809,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 7.69,
+["ln"] = 0,
+["vo"] = 251958,
+["st"] = "Well done! Decorating ramoliths is one of my favorite Unbound traditions.",
+["ta"] = 24689700,
+},
+},
+["la"] = "2248-4219-7411-Freywold Village",
+["nm"] = "Adelgonn",
+["di"] = 117127,
+["ci"] = 1809,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 12.45,
+["ln"] = 0,
+["vo"] = 250709,
+["st"] = "All the silk in the Sureki war effort is spun in Rak-Ahat. It would be terribly inconvenient if someone were to despoil it, mmm?",
+["ta"] = 24691335,
+},
+},
+["la"] = "2255-7298-4214-Rak-Ahat",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 9.75,
+["ln"] = 0,
+["vo"] = 250710,
+["st"] = "The empire runs on silk, as they say. They'll have a much harder time keeping up with the Severed Threads now.",
+["ta"] = 24691431,
+},
+},
+["la"] = "2255-7593-4008-Rak-Ahat",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 7.96,
+["ln"] = 0,
+["vo"] = 250682,
+["st"] = "Rak-Ush's swarmbeasts are imperative to the war effort! I expect them to be treated as such.",
+["ta"] = 24691775,
+},
+},
+["la"] = "2255-7444-8479-Rak-Ush",
+["nm"] = "Anub'azal",
+["di"] = 114775,
+["ci"] = 1799,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 11.21,
+["ln"] = 0,
+["vo"] = 250708,
+["st"] = "Ah, excellent. I'm sure the air will be laden with the aroma of boiling kobyss innards before long.",
+["ta"] = 24692040,
+},
+},
+["la"] = "2255-5777-7066-Salien Gutters",
+["nm"] = "Executor Nizrek",
+["di"] = 114268,
+["ci"] = 1752,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 10.11,
+["ln"] = 0,
+["vo"] = 250725,
+["st"] = "The queen's forces are amassing once more, little morsel. Time to ensnare them in our web... and burn them in it!",
+["ta"] = 24692539,
+},
+},
+["la"] = "2255-6481-1190-Arathi's End",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 9.120000000000001,
+["ln"] = 0,
+["vo"] = 250726,
+["st"] = "Perhaps this time they will learn. If not, we'll sear the lesson into their hearts again.",
+["ta"] = 24693060,
+},
+},
+["la"] = "2255-6508-1204-Arathi's End",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 11.29,
+["ln"] = 0,
+["vo"] = 250964,
+["st"] = "I admire how you handle yourself on the battlefield. Some intruders need to see another demonstration of your skills.",
+["ta"] = 24694454,
+},
+},
+["la"] = "2214-6501-8462-Lightless Chasm",
+["nm"] = "High Speaker Brinthe",
+["di"] = 117238,
+["ci"] = 1842,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 11.3,
+["ln"] = 0,
+["vo"] = 251007,
+["st"] = "Recognition for your swift resolution. Those poor earthen didn't deserve to become... whatever that was.",
+["ta"] = 24694904,
+},
+},
+["la"] = "2214-6514-8744-Lightless Chasm",
+["nm"] = "High Speaker Brinthe",
+["di"] = 117238,
+["ci"] = -1,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.78,
+["ln"] = 0,
+["vo"] = 250893,
+["st"] = "New things come down rivers and sky holes. Too much! Help us out. Point out any good scrap.",
+["ta"] = 24705583,
+},
+},
+["nl"] = 1,
+["ci"] = 1804,
+["di"] = 117831,
+["nm"] = "Skitter",
+["la"] = "2214-7130-4127-Chittering Den",
+},
+{
+["lines"] = {
+{
+["vd"] = 9.52,
+["ln"] = 0,
+["vo"] = 250894,
+["st"] = "My friend's almost as good at scrounging as kobold! Almost. We'll put scrap to good use.",
+["ta"] = 24705717,
+},
+},
+["nl"] = 1,
+["ci"] = 1804,
+["di"] = 117831,
+["nm"] = "Skitter",
+["la"] = "2214-7147-4376-Chittering Den",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.100000000000001,
+["ln"] = 0,
+["vo"] = 251861,
+["st"] = "This has gone on long enough. Get them to be quiet!",
+["ta"] = 24706646,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-4985-6435-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 6.57,
+["ln"] = 0,
+["vo"] = 251867,
+["st"] = "We've been rehearsing for just this moment. Time to sieze it!",
+["ta"] = 24706856,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-3722-6178-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 6.86,
+["ln"] = 0,
+["vo"] = 251872,
+["st"] = "A messy stage makes for real broken legs... best clean it up!",
+["ta"] = 24706869,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-5220-7650-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.600000000000001,
+["ln"] = 0,
+["vo"] = 251868,
+["st"] = "Imagine how these props will look with just a bit more polish!",
+["ta"] = 24706960,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-3448-7728-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 6.05,
+["ln"] = 0,
+["vo"] = 251390,
+["st"] = "Word has gotten around that you play, friend. A challenger awaits you for a game of Light's Gambit.",
+["ta"] = 24708456,
+},
+},
+["nl"] = 1,
+["ci"] = 84,
+["di"] = 118719,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-6929-4632-Dunelle's Kindness",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.63,
+["ln"] = 0,
+["vo"] = 252021,
+["st"] = "Some lynx get lost in the darkness. They're nocturnal, but it's dangerous. Bring them home.",
+["ta"] = 24709850,
+},
+},
+["nl"] = 1,
+["ci"] = 1818,
+["di"] = 121525,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-6412-6052-Sanguine Grasps",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.96,
+["ln"] = 0,
+["vo"] = 252020,
+["st"] = "Even fierce predators can feel scared. I'm glad you led them home.",
+["ta"] = 24710053,
+},
+},
+["nl"] = 1,
+["ci"] = 1818,
+["di"] = 115280,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-6527-6402-Sanguine Grasps",
+},
+{
+["lines"] = {
+{
+["vd"] = 9.74,
+["ln"] = 0,
+["vo"] = 251590,
+["st"] = "More titan artifacts! Will ye have a go at bringin' me some samples? I'd love tae go with ye, but I'm a little busy here.",
+["ta"] = 24744901,
+},
+},
+["la"] = "2248-7790-3084-The Three Shields",
+["nm"] = "Dagran Thaurissan II",
+["di"] = 119519,
+["ci"] = 1845,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 6.69,
+["ln"] = 0,
+["vo"] = 251591,
+["st"] = "Thank ye for the samples, Estuary. This is will greatly advance our knowledge o' the titans and their technology!",
+["ta"] = 24744950,
+},
+},
+["la"] = "2248-7894-2843-The Three Shields",
+["nm"] = "Dagran Thaurissan II",
+["di"] = 119519,
+["ci"] = 1845,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 2.09,
+["ln"] = 0,
+["vo"] = 250897,
+["st"] = "It's time! Go take candle!",
+["ta"] = 24745074,
+},
+},
+["la"] = "2214-5828-2557-Lost Mines",
+["nm"] = "Skitter",
+["di"] = 117831,
+["ci"] = 1803,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 2.91,
+["ln"] = 0,
+["vo"] = 250898,
+["st"] = "Not so strong without candle, are they?",
+["ta"] = 24745258,
+},
+},
+["la"] = "2214-5808-2119-Lost Mines",
+["nm"] = "Skitter",
+["di"] = 117831,
+["ci"] = 1803,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.32,
+["ln"] = 0,
+["vo"] = 251403,
+["st"] = "My people are fighting against a never-ending tide. Courage can falter... but it never disappears.",
+["ta"] = 24759844,
+},
+},
+["la"] = "2215-5369-3297-Sina's Yearning",
+["nm"] = "Faerin Lothar",
+["di"] = 115280,
+["ci"] = 1818,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 13.41,
+["ln"] = 0,
+["vo"] = 250711,
+["st"] = "Ansurek's brutish miscreants have tracked grime all over our prized Royal Preservatorium. See to it that the facade shines like a well-polished beetle shell.",
+["ta"] = 24763671,
+},
+},
+["nl"] = 1,
+["ci"] = 1799,
+["di"] = 114775,
+["nm"] = "Anub'azal",
+["la"] = "2213-2990-1957-The Skeins",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.2,
+["ln"] = 0,
+["vo"] = 252011,
+["st"] = "Excellent job, we'll put these to good use. May the Flame light your way.",
+["ta"] = 24765738,
+},
+},
+["la"] = "2215-2509-6204-Hallowfall",
+["nm"] = "Auralia Steelstrike",
+["di"] = 115956,
+["ci"] = 84,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 4.61,
+["ln"] = 0,
+["vo"] = 249833,
+["st"] = "The queen's inner sanctum is impenetrable, but her ego is not.",
+["ta"] = 24775678,
+},
+{
+["vd"] = 4.08,
+["ln"] = 1,
+["vo"] = 249834,
+["st"] = "Cause enough destruction and the queen will deal with you herself.",
+["ta"] = 24775682,
+},
+},
+["nl"] = 2,
+["ci"] = 1751,
+["di"] = 114268,
+["nm"] = "Executor Nizrek",
+["la"] = "2294---The Narthex",
+},
+{
+["lines"] = {
+{
+["vd"] = 2.74,
+["ln"] = 0,
+["vo"] = 251201,
+["st"] = "A lieutenant is in the Church of the Sacred Flame!",
+["ta"] = 24788586,
+},
+{
+["vd"] = 11.79,
+["ln"] = 1,
+["vo"] = 249545,
+["st"] = "Behold, beloved earthen! I have generously provided you with a new leader: Dornic!",
+["ta"] = 24789830,
+},
+{
+["vd"] = 9.51,
+["ln"] = 2,
+["vo"] = 249546,
+["st"] = "I am Watcher Dornic! Under my leadership, the earthen shall reach their full potential!",
+["ta"] = 24789842,
+},
+{
+["vd"] = 6.65,
+["ln"] = 3,
+["vo"] = 249547,
+["st"] = "I command you to celebrate my arrival!",
+["ta"] = 24789851,
+},
+},
+["la"] = "2359---Mereldar",
+["nm"] = "General Steelstrike",
+["di"] = 115282,
+["ci"] = 85,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.34,
+["ln"] = 0,
+["vo"] = 249548,
+["st"] = "Now that the keeper is gone... Get to work, you blockheads!",
+["ta"] = 24789864,
+},
+{
+["vd"] = 9.76,
+["ln"] = 1,
+["vo"] = 249549,
+["st"] = "I decree that you shall triple your production rates, or I will punt you down the Coreway!",
+["ta"] = 24789872,
+},
+{
+["vd"] = 3.85,
+["ln"] = 2,
+["vo"] = 249550,
+["st"] = "Mua ha ha ha haaaaa!",
+["ta"] = 24789882,
+},
+},
+["la"] = "2328-4841-5543-The Proscenium",
+["nm"] = "Dornic",
+["di"] = 118049,
+["ci"] = 598,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 14.37,
+["ln"] = 0,
+["vo"] = 249551,
+["st"] = "What is this? What is he doing? Dornic's brutality knows no bounds! I have made a terrible mistake!",
+["ta"] = 24789905,
+},
+{
+["vd"] = 10.46,
+["ln"] = 1,
+["vo"] = 249552,
+["st"] = "Rise up, my children! You have my permission to rebel against your cruel Watcher!",
+["ta"] = 24789919,
+},
+{
+["vd"] = 8.81,
+["ln"] = 2,
+["vo"] = 249553,
+["st"] = "Traitorous Keeper! Wretched earthen! You will all regret this!",
+["ta"] = 24789929,
+},
+},
+["la"] = "2328-5046-5070-The Proscenium",
+["nm"] = "The Keeper",
+["di"] = 118653,
+["ci"] = 599,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.09,
+["ln"] = 0,
+["vo"] = 249554,
+["st"] = "Gah! I've been struck! I... I cannot move!",
+["ta"] = 24789945,
+},
+{
+["vd"] = 11.06,
+["ln"] = 1,
+["vo"] = 249555,
+["st"] = "Well done, my beloved earthen. I promise to never leave you with such a tyrannical master again.",
+["ta"] = 24789953,
+},
+{
+["vd"] = 6.18,
+["ln"] = 2,
+["vo"] = 249556,
+["st"] = "Now, drag his husk from this place!",
+["ta"] = 24789964,
+},
+},
+["la"] = "2328-5234-5414-The Proscenium",
+["nm"] = "Dornic",
+["di"] = 118049,
+["ci"] = 598,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 9,
+["ln"] = 0,
+["vo"] = 249557,
+["st"] = "You will regret this, earthen! My sister Galan will strike you all down!",
+["ta"] = 24789981,
+},
+{
+["vd"] = 9.92,
+["ln"] = 1,
+["vo"] = 249558,
+["st"] = "Do not worry, my stone-born children. You will never have a cruel master again!",
+["ta"] = 24789990,
+},
+{
+["vd"] = 11.07,
+["ln"] = 2,
+["vo"] = 249559,
+["st"] = "You are my bedrock, you are my foundation. You are my beloved earthen!",
+["ta"] = 24790000,
+},
+},
+["la"] = "2328-4960-6046-The Proscenium",
+["nm"] = "Dornic",
+["di"] = 118049,
+["ci"] = 598,
+["nl"] = 3,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.290000000000001,
+["ln"] = 0,
+["vo"] = 252025,
+["st"] = "These supplies are pristine and empire-quality. Your work keeps the Arathi Army strong.",
+["ta"] = 24791460,
+},
+},
+["nl"] = 1,
+["ci"] = 85,
+["di"] = 115282,
+["nm"] = "General Steelstrike",
+["la"] = "2215-5645-6598-Tenir's Ascent",
+},
+{
+["lines"] = {
+{
+["vd"] = 14.09,
+["ln"] = 0,
+["vo"] = 248823,
+["st"] = "And so the thraegar's adventure ended before they reached the bottom of the Coreway.",
+["ta"] = 24793584,
+},
+{
+["vd"] = 11.27,
+["ln"] = 1,
+["vo"] = 248824,
+["st"] = "But with this play we honor the memory of the thraegar and the call they heed.",
+["ta"] = 24793598,
+},
+},
+["la"] = "2328-4755-5331-The Proscenium",
+["nm"] = "Rabaan",
+["di"] = 121134,
+["ci"] = 1807,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 9.65,
+["ln"] = 0,
+["vo"] = 250712,
+["st"] = "Excellent job! There is nothing that cannot be cleaned with hard work... and military-grade munitions.",
+["ta"] = 24828721,
+},
+},
+["nl"] = 1,
+["ci"] = 1799,
+["di"] = 114775,
+["nm"] = "Anub'azal",
+["la"] = "2213-3011-3969-The Royal Preservatorium",
+},
+{
+["lines"] = {
+{
+["vd"] = 6.850000000000001,
+["ln"] = 0,
+["vo"] = 251859,
+["st"] = "Soon they'll outnumber our audience. Give them a graceful exit! Quickly!",
+["ta"] = 24829285,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-4916-6424-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 12.81,
+["ln"] = 0,
+["vo"] = 248831,
+["st"] = "And now we begin our play to honor the thraegar--heroes lost to time but not forgotten!",
+["ta"] = 24829424,
+},
+{
+["vd"] = 14.69,
+["ln"] = 1,
+["vo"] = 248832,
+["st"] = "I hear a call from deep in the earth. It strengthens me. I must go to it!",
+["ta"] = 24829437,
+},
+},
+["nl"] = 2,
+["ci"] = 1807,
+["di"] = 121134,
+["nm"] = "Rabaan",
+["la"] = "2328-4897-5576-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 12.81,
+["ln"] = 0,
+["vo"] = 248829,
+["st"] = "Now we venture into the Ringing Deeps. The Machine Speakers will neither help nor hinder us.",
+["ta"] = 24829465,
+},
+},
+["nl"] = 2,
+["ci"] = 1809,
+["di"] = 118617,
+["nm"] = "Sonnebrid",
+["la"] = "2328-4895-4907-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 13.67,
+["ln"] = 0,
+["vo"] = 248828,
+["st"] = "The canyons in Hallowfall are getting darker. But the song is getting stronger. We must light the way!",
+["ta"] = 24829506,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 118617,
+["nm"] = "Sonnebrid",
+["la"] = "2328-5428-5523-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.67,
+["ln"] = 0,
+["vo"] = 248825,
+["st"] = "The song is louder still! But the nerubians... there are so many!",
+["ta"] = 24829544,
+},
+{
+["vd"] = 4.99,
+["ln"] = 1,
+["vo"] = 248826,
+["st"] = "I must heed the call!",
+["ta"] = 24829555,
+},
+{
+["vd"] = 5.58,
+["ln"] = 2,
+["vo"] = 248827,
+["st"] = "Arghhh! We are all slain!",
+["ta"] = 24829559,
+},
+},
+["nl"] = 3,
+["ci"] = 1809,
+["di"] = 118617,
+["nm"] = "Sonnebrid",
+["la"] = "2328-5282-5553-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 4.19,
+["ln"] = 0,
+["vo"] = 251870,
+["st"] = "Get that stage cleared for the next act!",
+["ta"] = 24854545,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-5628-7079-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 7.66,
+["ln"] = 0,
+["vo"] = 248899,
+["st"] = "I must sail home. These outlanders are too dangerous!",
+["ta"] = 24854766,
+},
+{
+["vd"] = 14.09,
+["ln"] = 1,
+["vo"] = 248900,
+["st"] = "I see the wisdom in our directives. They were protecting us from the outlanders! I will follow a different path.",
+["ta"] = 24854774,
+},
+},
+["la"] = "2328-4975-5689-The Proscenium",
+["nm"] = "Wanderer Ida",
+["di"] = 118383,
+["ci"] = 1809,
+["nl"] = 2,
+},
+{
+["lines"] = {
+{
+["vd"] = 11.4,
+["ln"] = 0,
+["vo"] = 251963,
+["st"] = "The ruins of Dalaran hold more than just debris; they conceal invaluable arcane tomes. Our mission is to retrieve them before they're lost to history.",
+["ta"] = 24859936,
+},
+},
+["la"] = "2248-3016-5424-Tranquil Strand",
+["nm"] = "Lady Jaina Proudmoore",
+["di"] = 88316,
+["ci"] = 611,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 10.03,
+["ln"] = 0,
+["vo"] = 251937,
+["st"] = "Even though The Coreway is usable again, there is still plenty of construction work and rubble clearing needed.",
+["ta"] = 24934036,
+},
+},
+["la"] = "2339-3807-5491-The Coreway",
+["nm"] = "Merrix",
+["di"] = 116815,
+["ci"] = 1807,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 13.17,
+["ln"] = 0,
+["vo"] = 251938,
+["st"] = "Well done! It is going to take years to restore the Coreway to full working order, but we have made significant progress.",
+["ta"] = 24934110,
+},
+},
+["la"] = "2339-3702-6309-The Coreway",
+["nm"] = "Merrix",
+["di"] = 116815,
+["ci"] = 1807,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 6.51,
+["ln"] = 0,
+["vo"] = 251964,
+["st"] = "Well done, Champion. Your efforts have safeguarded our knowledge for generations.",
+["ta"] = 24943877,
+},
+},
+["nl"] = 1,
+["ci"] = 611,
+["di"] = 88316,
+["nm"] = "Lady Jaina Proudmoore",
+["la"] = "2248-3048-5754-Tranquil Strand",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.73,
+["ln"] = 0,
+["vo"] = 252009,
+["st"] = "The people on the island are safe. Yet with his reputation, I would have expected Velhan to handle this.",
+["ta"] = 24964429,
+},
+},
+["la"] = "2215-4509-1318-Velhan's Claim",
+["nm"] = "Great Kyron",
+["di"] = 115288,
+["ci"] = 118,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 13.75,
+["ln"] = 0,
+["vo"] = 250719,
+["st"] = "Sympathetic vendors in the Umbral Bazaar have offered goods to support our cause. Go and gather them--but be discreet, unless you'd like your appendages removed by force.",
+["ta"] = 25007526,
+},
+},
+["nl"] = 1,
+["ci"] = 1752,
+["di"] = 114268,
+["nm"] = "Executor Nizrek",
+["la"] = "2213-5256-3159-Umbral Bazaar",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.66,
+["ln"] = 0,
+["vo"] = 250697,
+["st"] = "The danger is rising in the Maddening Deep. We must clear out what monstrosities we can before they spread further into the city.",
+["ta"] = 25007542,
+},
+},
+["nl"] = 1,
+["ci"] = 1797,
+["di"] = 116208,
+["nm"] = "Widow Arak'nai",
+["la"] = "2255-6192-7818-The Maddening Deep",
+},
+{
+["lines"] = {
+{
+["vd"] = 12.31,
+["ln"] = 0,
+["vo"] = 251001,
+["st"] = "That did it! If you ever want to visit the local inn, your first round is on me. We might even have something you can drink!",
+["ta"] = 25039734,
+},
+},
+["nl"] = 1,
+["ci"] = 1842,
+["di"] = 117238,
+["nm"] = "High Speaker Brinthe",
+["la"] = "2214-4338-3372-Shimmermist Falls",
+},
+{
+["lines"] = {
+{
+["vd"] = 9.120000000000001,
+["ln"] = 0,
+["vo"] = 251944,
+["st"] = "That's that then. Can you imagine what those multi-limbed freaks would've done with even a drop of Cinderbrew?",
+["ta"] = 25040135,
+},
+},
+["nl"] = 1,
+["ci"] = 1807,
+["di"] = 114514,
+["nm"] = "Wenbrandt",
+["la"] = "2248-7589-3681-Sunrise Shadow",
+},
+{
+["lines"] = {
+{
+["vd"] = 9.52,
+["ln"] = 0,
+["vo"] = 251954,
+["st"] = "Fortune guide your path, Outlander. Maybe this will be the last time we see them. One can only hope.",
+["ta"] = 25097971,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-6383-4153-Mourning Rise",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.600000000000001,
+["ln"] = 0,
+["vo"] = 251877,
+["st"] = "We have a big show prepared. Let's get the venue ready, shall we?",
+["ta"] = 25099209,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-3759-5028-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 11.27,
+["ln"] = 0,
+["vo"] = 250720,
+["st"] = "It certainly isn't slashing through Sureki loyalists, but these supplies will greatly further our goals. Excellent work.",
+["ta"] = 25187026,
+},
+},
+["nl"] = 1,
+["ci"] = 1752,
+["di"] = 114268,
+["nm"] = "Executor Nizrek",
+["la"] = "2213-5766-3194-Toy Hollow",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.96,
+["ln"] = 0,
+["vo"] = 251397,
+["st"] = "With those siege weapons destroyed, our stalwarts can repel the attackers.",
+["ta"] = 25188741,
+},
+},
+["nl"] = 1,
+["ci"] = 1818,
+["di"] = 115280,
+["nm"] = "Faerin Lothar",
+["la"] = "2215-5972-6735-Tenir's Ascent",
+},
+{
+["lines"] = {
+{
+["vd"] = 4.63,
+["ln"] = 0,
+["vo"] = 251858,
+["st"] = "We need a pair of deft hands for this task.",
+["ta"] = 25189286,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-4999-5817-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.19,
+["ln"] = 0,
+["vo"] = 251875,
+["st"] = "We must prepare with everything we've got! Lend a hand.",
+["ta"] = 25189319,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-5233-7075-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.63,
+["ln"] = 0,
+["vo"] = 252233,
+["st"] = "Another of the titans' constructs has been sighted approaching the shore.",
+["ta"] = 25189701,
+},
+{
+["vd"] = 5.600000000000001,
+["ln"] = 1,
+["vo"] = 252234,
+["st"] = "Stormward Lufsela has sent a rook you can use to take it down.",
+["ta"] = 25189707,
+},
+},
+["nl"] = 2,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-7175-3104-Isle of Dorn",
+},
+{
+["lines"] = {
+{
+["vd"] = 6.5,
+["ln"] = 0,
+["vo"] = 252235,
+["st"] = "Well done. The horizon is clear once again. Thank you.",
+["ta"] = 25189748,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-7493-2844-The Three Shields",
+},
+{
+["lines"] = {
+{
+["vd"] = 4.310000000000001,
+["ln"] = 0,
+["vo"] = 250777,
+["st"] = "Buffoon. Not even worthy of the fifth strand.",
+["ta"] = 25205904,
+},
+},
+["nl"] = 1,
+["ci"] = 1797,
+["di"] = 116208,
+["nm"] = "Widow Arak'nai",
+["la"] = "2343---Umbral Bazaar",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.99,
+["ln"] = 0,
+["vo"] = 252012,
+["st"] = "Our enemies have become brazen, attacking in the shadow and the light. We need you to take the fight to them.",
+["ta"] = 25298622,
+},
+},
+["nl"] = 1,
+["ci"] = 84,
+["di"] = 115282,
+["nm"] = "General Steelstrike",
+["la"] = "2215-4652-1940-Velhan's Claim",
+},
+{
+["lines"] = {
+{
+["vd"] = 5.65,
+["ln"] = 0,
+["vo"] = 251871,
+["st"] = "Presentation is everything. Get those pieces polished up!",
+["ta"] = 25365636,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-4228-4308-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 12.16,
+["ln"] = 0,
+["vo"] = 250695,
+["st"] = "The stain of dead gods infests this area. It is being used to twist my people into the unrecognizable. Show them mercy and unmake them.",
+["ta"] = 25366742,
+},
+},
+["la"] = "2255-6716-7658-The Maddening Deep",
+["nm"] = "Widow Arak'nai",
+["di"] = 116208,
+["ci"] = 1797,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 8.3,
+["ln"] = 0,
+["vo"] = 251869,
+["st"] = "A set is hard work. You build it, fix it, fix it again... it's never finished!",
+["ta"] = 25383625,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117124,
+["nm"] = "Stage Manager Huberta",
+["la"] = "2328-4845-3980-The Proscenium",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.36,
+["ln"] = 0,
+["vo"] = 250972,
+["st"] = "Mission accomplished. Thank you for doing what needed to be done.",
+["ta"] = 25485653,
+},
+},
+["la"] = "2214-5255-3668-Brunwin's Terrace",
+["nm"] = "High Speaker Brinthe",
+["di"] = 122811,
+["ci"] = 1841,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 10.74,
+["ln"] = 0,
+["vo"] = 251962,
+["st"] = "Thank you for collecting those rare reagents. They will be used not only at Fallside Outpost but across the isle.",
+["ta"] = 25654550,
+},
+},
+["la"] = "2248-5637-4266-Isle of Dorn",
+["nm"] = "Adelgonn",
+["di"] = 117127,
+["ci"] = 1809,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 7.29,
+["ln"] = 0,
+["vo"] = 251970,
+["st"] = "That should keep them at bay for now. Eating all that is not good for them anyway.",
+["ta"] = 25709704,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-4072-6084-Isle of Dorn",
+},
+{
+["lines"] = {
+{
+["vd"] = 7.2,
+["ln"] = 0,
+["vo"] = 252030,
+["st"] = "The Sacred Flame is powerful. Even those outside our faith can wield it through the use of holy oil.",
+["ta"] = 25911121,
+},
+},
+["nl"] = 1,
+["ci"] = 118,
+["di"] = 115288,
+["nm"] = "Great Kyron",
+["la"] = "2215-6869-3269-Growling Hollow",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.14,
+["ln"] = 0,
+["vo"] = 252031,
+["st"] = "The Flame burns bright with the faith of the Arathi. But it takes a true champion to wield it with such conviction.",
+["ta"] = 25955042,
+},
+},
+["la"] = "2215-6995-3087-Growling Hollow",
+["nm"] = "Great Kyron",
+["di"] = 115288,
+["ci"] = 118,
+["nl"] = 1,
+},
+{
+["lines"] = {
+{
+["vd"] = 13.37,
+["ln"] = 0,
+["vo"] = 252352,
+["st"] = "The Cataract River is known for its wildlife and waterfalls. Can you use your camera to document the region? Appreciation expressed.",
+["ta"] = 26046993,
+},
+},
+["nl"] = 1,
+["ci"] = 1810,
+["di"] = 117238,
+["nm"] = "Speaker Brinthe",
+["la"] = "2214-5327-5109-The Cataract River",
+},
+{
+["lines"] = {
+{
+["vd"] = 10.12,
+["ln"] = 0,
+["vo"] = 251960,
+["st"] = "Well executed! Harmot will be thrilled with all this excess muck. We'll make sure it's distributed to the earthen who need it.",
+["ta"] = 26053123,
+},
+},
+["nl"] = 1,
+["ci"] = 1809,
+["di"] = 117127,
+["nm"] = "Adelgonn",
+["la"] = "2248-7103-5570-Restless Estuary",
+},
+{
+["lines"] = {
+{
+["vd"] = 7,
+["ln"] = 0,
+["vo"] = 252349,
+["st"] = "Well done. Looking forward to seeing the images you captured.",
+["ta"] = 26086150,
+},
+},
+["nl"] = 1,
+["ci"] = 1810,
+["di"] = 117238,
+["nm"] = "Speaker Brinthe",
+["la"] = "2214-5122-5723-The Cataract River",
+},
+{
+["lines"] = {
+{
+["vd"] = 8.43,
+["ln"] = 0,
+["vo"] = 247111,
+["st"] = "Opportunity's knocking! If you've got the mettle, there are valuables waiting to be won.",
+["ta"] = 26153975,
+},
+},
+["nl"] = 1,
+["ci"] = 1807,
+["di"] = 118482,
+["nm"] = "Ruffious",
+["la"] = "2248-5396-5810-Isle of Dorn",
+},
 }
 AdventureArchivesMessageDB_9 = {
 ["Cutscene"] = {
@@ -12746,6 +14915,25 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-2409-6977-Dragonbane Keep",
 },
 },
+["Newt"] = {
+{
+["ta"] = 24936824,
+["st"] = "Spoilsport!",
+["la"] = "85-4976-7653-Valley of Strength",
+},
+},
+["Telemancer Aerilyn"] = {
+{
+["la"] = "2023-6596-2510-Emberwatch",
+["st"] = "Make haste, Benthos. The skyscribe may be in a grim situation!",
+["ta"] = 10611068,
+},
+{
+["la"] = "2023-6598-2513-Emberwatch",
+["st"] = "Just how much more of Neltharion's legacy is out there to be found?",
+["ta"] = 10614724,
+},
+},
 ["Wisdom of Senegos"] = {
 {
 ["la"] = "2024-3923-6416-Azure Archives",
@@ -13305,6 +15493,38 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5884-2734-Chittering Caverns",
 },
 },
+["Smoldering Hierophant"] = {
+{
+["la"] = "2253-4028-5590-Sor'theril Barrow Den",
+["st"] = "The Prophet has opened my eyes!",
+["ta"] = 571704,
+},
+{
+["la"] = "2253-4376-3092-Sor'theril Barrow Den",
+["st"] = "This stagnant dream will be renewed!",
+["ta"] = 571889,
+},
+{
+["la"] = "2253-4508-2777-Sor'theril Barrow Den",
+["st"] = "I will be immortal again!",
+["ta"] = 571891,
+},
+{
+["la"] = "2253-5437-2285-Sor'theril Barrow Den",
+["st"] = "We will bring forth the new Firelord!",
+["ta"] = 571948,
+},
+{
+["la"] = "2253-5846-2346-Sor'theril Barrow Den",
+["st"] = "Fyrakk will open the way!",
+["ta"] = 574112,
+},
+{
+["ta"] = 1709469,
+["st"] = "I wanted... immortality.",
+["la"] = "2253-3984-6033-Sor'theril Barrow Den",
+},
+},
 ["Professor Mystakria"] = {
 {
 ["la"] = "2097---The Quad",
@@ -13382,23 +15602,19 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-1740-3871-Brackenhide Brambles",
 },
 },
-["Telemancer Aerilyn"] = {
+["Qalashi Flameslinger"] = {
 {
-["la"] = "2023-6596-2510-Emberwatch",
-["st"] = "Make haste, Benthos. The skyscribe may be in a grim situation!",
-["ta"] = 10611068,
-},
-{
-["la"] = "2023-6598-2513-Emberwatch",
-["st"] = "Just how much more of Neltharion's legacy is out there to be found?",
-["ta"] = 10614724,
+["ta"] = 14046665,
+["st"] = "Eternal power...",
+["la"] = "2022-3189-5861-The Slagmire",
 },
 },
-["Arthur Tradewind"] = {
+["Krrrn Trr Cryomancer"] = {
 {
-["la"] = "2254-3361-5313-Barrows of Reverie",
-["st"] = "Did you drop it? Everyone knows you never put them in water!",
-["ta"] = 740587,
+["mt"] = 2,
+["ta"] = 14475568,
+["st"] = "%s attempts to run away in fear!",
+["la"] = "2199-4206-2856-Tyrhold Reservoir",
 },
 },
 ["Qalashi Pillager"] = {
@@ -13430,77 +15646,11 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3104-5705-The Slagmire",
 },
 },
-["Krrrn Trr Cryomancer"] = {
+["Arthur Tradewind"] = {
 {
-["mt"] = 2,
-["ta"] = 14475568,
-["st"] = "%s attempts to run away in fear!",
-["la"] = "2199-4206-2856-Tyrhold Reservoir",
-},
-},
-["Smoldering Hierophant"] = {
-{
-["la"] = "2253-4028-5590-Sor'theril Barrow Den",
-["st"] = "The Prophet has opened my eyes!",
-["ta"] = 571704,
-},
-{
-["la"] = "2253-4376-3092-Sor'theril Barrow Den",
-["st"] = "This stagnant dream will be renewed!",
-["ta"] = 571889,
-},
-{
-["la"] = "2253-4508-2777-Sor'theril Barrow Den",
-["st"] = "I will be immortal again!",
-["ta"] = 571891,
-},
-{
-["la"] = "2253-5437-2285-Sor'theril Barrow Den",
-["st"] = "We will bring forth the new Firelord!",
-["ta"] = 571948,
-},
-{
-["la"] = "2253-5846-2346-Sor'theril Barrow Den",
-["st"] = "Fyrakk will open the way!",
-["ta"] = 574112,
-},
-{
-["ta"] = 1709469,
-["st"] = "I wanted... immortality.",
-["la"] = "2253-3984-6033-Sor'theril Barrow Den",
-},
-},
-["Primalist Stormsmith"] = {
-{
-["ta"] = 871316,
-["st"] = "Ohn'ahra... is ours...",
-["la"] = "2023-5954-6544-Windsong Rise",
-},
-},
-["Igys the Believer"] = {
-{
-["mt"] = 3,
-["ta"] = 14045969,
-["st"] = "Zolza, we shall celebrate this moment in the flames that consume all.",
-["la"] = "2022-3198-5492-The Slagmire",
-},
-{
-["mt"] = 3,
-["ta"] = 14046131,
-["st"] = "None will be alive to know how great a sacrifice you have made Sylozen.",
-["la"] = "2022-3106-5706-The Slagmire",
-},
-{
-["mt"] = 3,
-["ta"] = 14046714,
-["st"] = "A place awaits you Beckabecka, amongst the flame ascended.",
-["la"] = "2022-2957-5360-The Slagmire",
-},
-{
-["mt"] = 3,
-["ta"] = 14047638,
-["st"] = "Prepare yourself, Drakira, the Morchok's arrival is near.",
-["la"] = "2022-3437-5374-The Slagmire",
+["la"] = "2254-3361-5313-Barrows of Reverie",
+["st"] = "Did you drop it? Everyone knows you never put them in water!",
+["ta"] = 740587,
 },
 },
 ["Sootscale the Indomitable"] = {
@@ -13515,12 +15665,43 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10614456,
 },
 },
-["Flashfrost Chillweaver"] = {
+["Primalist Stormsmith"] = {
 {
-["mt"] = 3,
-["la"] = "2095---Infusion Chambers",
-["st"] = "Protect Melidrussa! She must continue her work! Allow them no further!",
-["ta"] = 481642,
+["ta"] = 871316,
+["st"] = "Ohn'ahra... is ours...",
+["la"] = "2023-5954-6544-Windsong Rise",
+},
+},
+["Fel Lieutenant Koltharius"] = {
+{
+["ta"] = 14044740,
+["st"] = "I shall take your head for the queen!",
+["la"] = "2025-5816-6787-East Shrine",
+},
+{
+["ta"] = 14044746,
+["st"] = "Bested by... the imperfect...",
+["la"] = "2025-5830-6761-East Shrine",
+},
+},
+["Janey Anship"] = {
+{
+["lg"] = 7,
+["ta"] = 13806393,
+["st"] = "Only if we didn't follow the proper initialization procedures.",
+["la"] = "84-5114-7176-The Canals",
+},
+},
+["Bronze Whelptender"] = {
+{
+["ta"] = 4076,
+["st"] = "Bronze whelptenders often find ourselves pulled in many different directions at times.",
+["la"] = "2022-5591-6323-Ruby Life Pools",
+},
+{
+["ta"] = 4082,
+["st"] = "Our greatest tool? Patience. Our journeys are not linear. How can we expect theirs to be?",
+["la"] = "2022-5604-6348-Ruby Life Pools",
 },
 },
 ["Kurdran Wildhammer"] = {
@@ -13546,16 +15727,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-3909-9260-Cascade's Edge",
 },
 },
-["Bronze Whelptender"] = {
+["Flashfrost Chillweaver"] = {
 {
-["ta"] = 4076,
-["st"] = "Bronze whelptenders often find ourselves pulled in many different directions at times.",
-["la"] = "2022-5591-6323-Ruby Life Pools",
-},
-{
-["ta"] = 4082,
-["st"] = "Our greatest tool? Patience. Our journeys are not linear. How can we expect theirs to be?",
-["la"] = "2022-5604-6348-Ruby Life Pools",
+["mt"] = 3,
+["la"] = "2095---Infusion Chambers",
+["st"] = "Protect Melidrussa! She must continue her work! Allow them no further!",
+["ta"] = 481642,
 },
 },
 ["Bonebolt Hunter"] = {
@@ -13605,24 +15782,24 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 11983251,
 },
 },
-["Fel Lieutenant Koltharius"] = {
+["Emerald Whelpling"] = {
 {
-["ta"] = 14044740,
-["st"] = "I shall take your head for the queen!",
-["la"] = "2025-5816-6787-East Shrine",
+["la"] = "2112-6051-1723-The Ruby Enclave",
+["st"] = "Snrrk... snrzzzzz...",
+["ta"] = 847416,
 },
 {
-["ta"] = 14044746,
-["st"] = "Bested by... the imperfect...",
-["la"] = "2025-5830-6761-East Shrine",
+["la"] = "2112-6037-1883-The Ruby Enclave",
+["st"] = "Is the game over? My pillow is back at the daycare...",
+["ta"] = 847424,
 },
 },
-["Janey Anship"] = {
+["Humor for Highbrow Academicians"] = {
 {
-["lg"] = 7,
-["ta"] = 13806393,
-["st"] = "Only if we didn't follow the proper initialization procedures.",
-["la"] = "84-5114-7176-The Canals",
+["mt"] = 2,
+["la"] = "2112-3609-3260-The Sapphire Enclave",
+["st"] = "Faint laughter emanates from nearby.",
+["ta"] = 1520995,
 },
 },
 ["Scalecommander Azurathel"] = {
@@ -13632,11 +15809,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-2490-3496-Valdrakken",
 },
 },
-["Ambassador Taurasza"] = {
+["Fwaang"] = {
 {
-["ta"] = 10599760,
-["st"] = "Take this life bloom with you as a sign of good faith to the centaur. Its healing qualities will serve them well.",
-["la"] = "2022-4829-8859-Rubyscale Outpost",
+["mt"] = 2,
+["la"] = "2025-4814-5454-Tyrhold Reservoir",
+["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
+["ta"] = 13950005,
 },
 },
 ["Crystal Fury"] = {
@@ -13703,12 +15881,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13722888,
 },
 },
-["Humor for Highbrow Academicians"] = {
+["Ohn'ir Ancestor"] = {
 {
-["mt"] = 2,
-["la"] = "2112-3609-3260-The Sapphire Enclave",
-["st"] = "Faint laughter emanates from nearby.",
-["ta"] = 1520995,
+["ta"] = 14052952,
+["st"] = "Winds take you!",
+["la"] = "2262-5530-5052-Traitor's Rest",
 },
 },
 ["Great Glorious Alliance Footman"] = {
@@ -13777,51 +15954,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 252845,
 },
 },
-["Treemouth"] = {
-{
-["mt"] = 3,
-["ta"] = 12580973,
-["st"] = "Feed... Treemouth!",
-["la"] = "2096---The Rotwood",
-},
-{
-["mt"] = 3,
-["ta"] = 12580979,
-["st"] = "Get... back!",
-["la"] = "2096---The Rotwood",
-},
-{
-["mt"] = 3,
-["ta"] = 12580989,
-["st"] = "Wither... and... spread...!",
-["la"] = "2096---The Rotwood",
-},
-{
-["mt"] = 3,
-["ta"] = 12580997,
-["st"] = "Treemouth hungry!",
-["la"] = "2096---The Rotwood",
-},
-{
-["mt"] = 5,
-["ta"] = 12581002,
-["st"] = "|TInterface\\ICONS\\Spell_Nature_StrangleVines.blp:20|t %s draws everyone in closer. \r\nEveryone within 10 yards will be consumed!",
-["la"] = "2096---The Rotwood",
-},
-{
-["mt"] = 3,
-["ta"] = 12581146,
-["st"] = "Treemouth... withers... away...",
-["la"] = "2096---The Rotwood",
-},
-},
-["Ohn'ir Ancestor"] = {
-{
-["ta"] = 14052952,
-["st"] = "Winds take you!",
-["la"] = "2262-5530-5052-Traitor's Rest",
-},
-},
 ["Degotoga"] = {
 {
 ["mt"] = 2,
@@ -13830,30 +15962,18 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13950092,
 },
 },
-["Essence of Shadow"] = {
+["Magmorax"] = {
 {
-["mt"] = 3,
-["la"] = "2167---Onyx Laboratory",
-["st"] = "You cannot escape the dark.",
-["ta"] = 13279614,
+["mt"] = 5,
+["la"] = "2166---Molten Crucible",
+["st"] = "|TInterface\\ICONS\\Spell_Nature_Earthquake.blp:20|t %s charges an |cFFFF0000|Hspell:403671|h[Overpowering Stomp]|h|r!",
+["ta"] = 13281758,
 },
 {
-["mt"] = 3,
-["ta"] = 16911787,
-["st"] = "Gloom advances.",
-["la"] = "2167---Onyx Laboratory",
-},
-},
-["Worldbreaker Brute"] = {
-{
-["ta"] = 164963,
-["st"] = "The sky darkens...",
-["la"] = "2022-3489-4744-Smoldering Perch",
-},
-{
-["ta"] = 164983,
-["st"] = "Accept the coming of the end!",
-["la"] = "2022-3490-4696-Smoldering Perch",
+["mt"] = 6,
+["ta"] = 16913994,
+["st"] = "|TInterface\\ICONS\\Spell_Fire_FireBolt02.blp:20|t You have been afflicted with |cFFFF0000|Hspell:402994|h[Molten Spittle]|h|r!",
+["la"] = "2166---Molten Crucible",
 },
 },
 ["Boku"] = {
@@ -13876,6 +15996,61 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12780473,
 ["st"] = "Balakar Khan is beyond mercy. Clan Teerai will join our khan at Nokhudon Hold.",
 ["la"] = "2093---The Eternal Kurgans",
+},
+},
+["Marisina"] = {
+{
+["mt"] = 3,
+["ta"] = 13206590,
+["st"] = "My pillar in the southeast is together again. And it looks like we made some angry elementals.",
+["la"] = "2133-4303-5722-Molten Overflow",
+},
+{
+["mt"] = 3,
+["ta"] = 13206602,
+["st"] = "The southeast pillar has a nice hum. It tickles my nose!",
+["la"] = "2133-4346-5689-Molten Overflow",
+},
+{
+["ta"] = 13206669,
+["st"] = "Of course, I am here to help.",
+["la"] = "2133-4492-5748-Molten Overflow",
+},
+{
+["ta"] = 13206673,
+["st"] = "I've heard legends that the djaradin tamed the fiery beasts of the cavern through dark rituals. This might be where they did it!",
+["la"] = "2133-4470-5739-Molten Overflow",
+},
+{
+["mt"] = 3,
+["ta"] = 13206681,
+["st"] = "Thaelin, the lava is boiling. It looks like elementals are forming! Adventurers, prepare for an attack!",
+["la"] = "2133-4415-5738-Molten Overflow",
+},
+{
+["mt"] = 3,
+["ta"] = 13206694,
+["st"] = "I'm right behind you, Kortei!",
+["la"] = "2133-4472-5747-Molten Overflow",
+},
+},
+["Worldbreaker Brute"] = {
+{
+["ta"] = 164963,
+["st"] = "The sky darkens...",
+["la"] = "2022-3489-4744-Smoldering Perch",
+},
+{
+["ta"] = 164983,
+["st"] = "Accept the coming of the end!",
+["la"] = "2022-3490-4696-Smoldering Perch",
+},
+},
+["Amella"] = {
+{
+["la"] = "2022-6021-7553-Flashfrost Incursion",
+["st"] = "There are more whelps at the shrine that could use your guidance in their training.",
+["ta"] = 482053,
 },
 },
 ["Tigari Khan"] = {
@@ -13971,40 +16146,26 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-7147-2470-Upper Frostlands",
 },
 },
-["Marisina"] = {
+["Imprisoned Dracthyr"] = {
 {
-["mt"] = 3,
-["ta"] = 13206590,
-["st"] = "My pillar in the southeast is together again. And it looks like we made some angry elementals.",
-["la"] = "2133-4303-5722-Molten Overflow",
+["ta"] = 1865146,
+["st"] = "Whoever you are... thank you!",
+["la"] = "2151-2815-5641-Zskera Vault: Ix",
 },
 {
-["mt"] = 3,
-["ta"] = 13206602,
-["st"] = "The southeast pillar has a nice hum. It tickles my nose!",
-["la"] = "2133-4346-5689-Molten Overflow",
+["ta"] = 1865245,
+["st"] = "There are no words that can express this feeling!",
+["la"] = "2151-3063-5709-Zskera Vault: Ix",
 },
 {
-["ta"] = 13206669,
-["st"] = "Of course, I am here to help.",
-["la"] = "2133-4492-5748-Molten Overflow",
+["ta"] = 1865503,
+["st"] = "Freed! I could never have dreamt this!",
+["la"] = "2151-2957-5841-Zskera Vault: Ix",
 },
 {
-["ta"] = 13206673,
-["st"] = "I've heard legends that the djaradin tamed the fiery beasts of the cavern through dark rituals. This might be where they did it!",
-["la"] = "2133-4470-5739-Molten Overflow",
-},
-{
-["mt"] = 3,
-["ta"] = 13206681,
-["st"] = "Thaelin, the lava is boiling. It looks like elementals are forming! Adventurers, prepare for an attack!",
-["la"] = "2133-4415-5738-Molten Overflow",
-},
-{
-["mt"] = 3,
-["ta"] = 13206694,
-["st"] = "I'm right behind you, Kortei!",
-["la"] = "2133-4472-5747-Molten Overflow",
+["ta"] = 1865584,
+["st"] = "So many years...freedom at last!",
+["la"] = "2151-2821-5570-Zskera Vault: Ix",
 },
 },
 ["Obsidian Hatchling"] = {
@@ -14059,11 +16220,16 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-4751-4841-Gaze of Neltharion",
 },
 },
-["Amella"] = {
+["Great Glorious Alliance Musketeer"] = {
 {
-["la"] = "2022-6021-7553-Flashfrost Incursion",
-["st"] = "There are more whelps at the shrine that could use your guidance in their training.",
-["ta"] = 482053,
+["ta"] = 13197701,
+["st"] = "Glorious!",
+["la"] = "2199-3427-4809-Tyrhold Reservoir",
+},
+{
+["ta"] = 13197704,
+["st"] = "I... stood... my ground...",
+["la"] = "2199-3416-4767-Tyrhold Reservoir",
 },
 },
 ["Blackscales"] = {
@@ -14251,65 +16417,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1896281,
 ["st"] = "Does my Blood Guard cower? Fight!",
 ["la"] = "2197---Immemorial Battlefield",
-},
-},
-["Great Glorious Alliance Musketeer"] = {
-{
-["ta"] = 13197701,
-["st"] = "Glorious!",
-["la"] = "2199-3427-4809-Tyrhold Reservoir",
-},
-{
-["ta"] = 13197704,
-["st"] = "I... stood... my ground...",
-["la"] = "2199-3416-4767-Tyrhold Reservoir",
-},
-},
-["Imprisoned Dracthyr"] = {
-{
-["ta"] = 1865146,
-["st"] = "Whoever you are... thank you!",
-["la"] = "2151-2815-5641-Zskera Vault: Ix",
-},
-{
-["ta"] = 1865245,
-["st"] = "There are no words that can express this feeling!",
-["la"] = "2151-3063-5709-Zskera Vault: Ix",
-},
-{
-["ta"] = 1865503,
-["st"] = "Freed! I could never have dreamt this!",
-["la"] = "2151-2957-5841-Zskera Vault: Ix",
-},
-{
-["ta"] = 1865584,
-["st"] = "So many years...freedom at last!",
-["la"] = "2151-2821-5570-Zskera Vault: Ix",
-},
-},
-["Aquifon"] = {
-{
-["mt"] = 2,
-["ta"] = 4511,
-["st"] = "Aquifon stirs the waters in the cascades.",
-["la"] = "2133-5683-5515-Loamm",
-},
-},
-["Winglord Dezran"] = {
-{
-["la"] = "2170---Edge of Oblivion",
-["st"] = "What is this foul place?",
-["ta"] = 13186106,
-},
-{
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Sarkareth lost himself to his pursuit of power. Now what will happen to my people?",
-["ta"] = 13186122,
-},
-{
-["la"] = "2169---Neltharion's Sanctum",
-["st"] = "We will never bow to you, deceiver!",
-["ta"] = 13281989,
 },
 },
 ["Big Kinook"] = {
@@ -15422,6 +17529,88 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-1330-4839-Iskaara",
 },
 },
+["Soulharvester Tumen"] = {
+{
+["mt"] = 3,
+["ta"] = 12779991,
+["st"] = "The first ancestors... shall rise...",
+["la"] = "2093---The Eternal Kurgans",
+},
+{
+["mt"] = 3,
+["ta"] = 13802259,
+["st"] = "Eagles will feast on your flesh.",
+["la"] = "2093---The Eternal Kurgans",
+},
+},
+["Aquifon"] = {
+{
+["mt"] = 2,
+["ta"] = 4511,
+["st"] = "Aquifon stirs the waters in the cascades.",
+["la"] = "2133-5683-5515-Loamm",
+},
+},
+["Oppressive Artificer"] = {
+{
+["la"] = "2024-4846-2398-Cobalt Assembly",
+["st"] = "It all... will be ours...",
+["ta"] = 12842047,
+},
+{
+["la"] = "2024-4847-2400-Cobalt Assembly",
+["st"] = "It wasn't... supposed to end... this way...",
+["ta"] = 12842054,
+},
+{
+["la"] = "2024-4675-2193-Cobalt Assembly",
+["st"] = "You will never stop our charge!",
+["ta"] = 12842156,
+},
+{
+["la"] = "2024-4696-2545-Cobalt Assembly",
+["st"] = "No... the power...",
+["ta"] = 12842575,
+},
+{
+["la"] = "2024-4773-2327-Cobalt Assembly",
+["st"] = "Need... more arcana...",
+["ta"] = 12843455,
+},
+{
+["la"] = "2024-4672-2191-Cobalt Assembly",
+["st"] = "Think you can best me?!",
+["ta"] = 12843465,
+},
+{
+["la"] = "2024-4818-2534-Cobalt Assembly",
+["st"] = "The Assembly belongs to The Sundered Flame!",
+["ta"] = 12843644,
+},
+{
+["la"] = "2024-4831-2491-Cobalt Assembly",
+["st"] = "I still can taste... the magic...",
+["ta"] = 12843656,
+},
+{
+["la"] = "2024-4649-2880-Cobalt Assembly",
+["st"] = "Have a taste of my power!",
+["ta"] = 12843764,
+},
+{
+["la"] = "2024-4865-2397-Cobalt Assembly",
+["st"] = "The arcana here is not for you!",
+["ta"] = 12844284,
+},
+},
+["Infoxy"] = {
+{
+["mt"] = 2,
+["ta"] = 13197244,
+["st"] = "Infoxy warbles on their Seafarer's Slidewhistle.",
+["la"] = "2025-5107-5704-Tyrhold Reservoir",
+},
+},
 ["Zaaga"] = {
 {
 ["mt"] = 2,
@@ -15522,71 +17711,32 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5217-8172-Everywhen Inn",
 },
 },
-["Oppressive Artificer"] = {
-{
-["la"] = "2024-4846-2398-Cobalt Assembly",
-["st"] = "It all... will be ours...",
-["ta"] = 12842047,
-},
-{
-["la"] = "2024-4847-2400-Cobalt Assembly",
-["st"] = "It wasn't... supposed to end... this way...",
-["ta"] = 12842054,
-},
-{
-["la"] = "2024-4675-2193-Cobalt Assembly",
-["st"] = "You will never stop our charge!",
-["ta"] = 12842156,
-},
-{
-["la"] = "2024-4696-2545-Cobalt Assembly",
-["st"] = "No... the power...",
-["ta"] = 12842575,
-},
-{
-["la"] = "2024-4773-2327-Cobalt Assembly",
-["st"] = "Need... more arcana...",
-["ta"] = 12843455,
-},
-{
-["la"] = "2024-4672-2191-Cobalt Assembly",
-["st"] = "Think you can best me?!",
-["ta"] = 12843465,
-},
-{
-["la"] = "2024-4818-2534-Cobalt Assembly",
-["st"] = "The Assembly belongs to The Sundered Flame!",
-["ta"] = 12843644,
-},
-{
-["la"] = "2024-4831-2491-Cobalt Assembly",
-["st"] = "I still can taste... the magic...",
-["ta"] = 12843656,
-},
-{
-["la"] = "2024-4649-2880-Cobalt Assembly",
-["st"] = "Have a taste of my power!",
-["ta"] = 12843764,
-},
-{
-["la"] = "2024-4865-2397-Cobalt Assembly",
-["st"] = "The arcana here is not for you!",
-["ta"] = 12844284,
-},
-},
-["Infoxy"] = {
-{
-["mt"] = 2,
-["ta"] = 13197244,
-["st"] = "Infoxy warbles on their Seafarer's Slidewhistle.",
-["la"] = "2025-5107-5704-Tyrhold Reservoir",
-},
-},
 ["Warmage Bernante"] = {
 {
 ["ta"] = 13197691,
 ["st"] = "Hate... never... dies.",
 ["la"] = "2199-3447-4580-Tyrhold Reservoir",
+},
+},
+["Perisimona"] = {
+{
+["ta"] = 13206197,
+["st"] = "Yeah! They would force the monsters through the caustic pools! You can smell all these icky containers here. The elders told us all about the beastly things they did!",
+["la"] = "2133-4787-5678-Ruins of Drekazera",
+},
+},
+["Verlann Timbercrush"] = {
+{
+["mt"] = 3,
+["la"] = "2200-4400-7161-Emerald Dream",
+["st"] = "Tinder gathers for the flames! Come, Primalists! Scorch them from the land!",
+["ta"] = 310741,
+},
+{
+["mt"] = 3,
+["la"] = "2200-4407-7190-Emerald Dream",
+["st"] = "I'll crush you myself!",
+["ta"] = 310925,
 },
 },
 ["Kokia Blazehoof"] = {
@@ -15651,25 +17801,24 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13722521,
 },
 },
-["Perisimona"] = {
-{
-["ta"] = 13206197,
-["st"] = "Yeah! They would force the monsters through the caustic pools! You can smell all these icky containers here. The elders told us all about the beastly things they did!",
-["la"] = "2133-4787-5678-Ruins of Drekazera",
-},
-},
-["Verlann Timbercrush"] = {
+["Keeper of the Dream"] = {
 {
 ["mt"] = 3,
-["la"] = "2200-4400-7161-Emerald Dream",
-["st"] = "Tinder gathers for the flames! Come, Primalists! Scorch them from the land!",
-["ta"] = 310741,
+["la"] = "2240---Verdant Terrace",
+["st"] = "You don't belong here!",
+["ta"] = 157757,
 },
 {
 ["mt"] = 3,
-["la"] = "2200-4407-7190-Emerald Dream",
-["st"] = "I'll crush you myself!",
-["ta"] = 310925,
+["la"] = "2240---Verdant Terrace",
+["st"] = "Your presence erodes the dream!",
+["ta"] = 572954,
+},
+{
+["mt"] = 3,
+["ta"] = 587605,
+["st"] = "Defilers!",
+["la"] = "2240---Verdant Terrace",
 },
 },
 ["Granyth"] = {
@@ -15739,24 +17888,46 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-3761-8560-South Hold Gate",
 },
 },
-["Keeper of the Dream"] = {
+["Professor Ichistrasz"] = {
 {
-["mt"] = 3,
-["la"] = "2240---Verdant Terrace",
-["st"] = "You don't belong here!",
-["ta"] = 157757,
+["la"] = "2097---The Quad",
+["st"] = "Indeed! Come with us! It should only take a moment to set up for a new lesson.",
+["ta"] = 11982857,
+},
+{
+["la"] = "2097---The Quad",
+["st"] = "Well, it seems like things are in further disrepair than we anticipated.",
+["ta"] = 11984250,
+},
+{
+["la"] = "2097---The Botanica",
+["st"] = "Me?! There is too much nature! What are you doing?",
+["ta"] = 12588079,
+},
+{
+["la"] = "2097---The Botanica",
+["st"] = "Absolutely not!",
+["ta"] = 12588088,
 },
 {
 ["mt"] = 3,
-["la"] = "2240---Verdant Terrace",
-["st"] = "Your presence erodes the dream!",
-["ta"] = 572954,
+["ta"] = 13025030,
+["st"] = "You are lucky we both know how to heal.",
+["la"] = "2097---The Botanica",
 },
 {
 ["mt"] = 3,
-["ta"] = 587605,
-["st"] = "Defilers!",
-["la"] = "2240---Verdant Terrace",
+["ta"] = 13025173,
+["st"] = "Life magic can only do so much, you know.",
+["la"] = "2097---The Botanica",
+},
+},
+["Nuo Bunny"] = {
+{
+["mt"] = 2,
+["ta"] = 471174,
+["st"] = "The visions of a young dreamer fill the air around the Fields of Reverie!",
+["la"] = "2200-5209-6301-Amirdrassil",
 },
 },
 ["Chrono-Lord Deios"] = {
@@ -15939,19 +18110,23 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14494859,
 },
 },
-["Nuo Bunny"] = {
+["Unusual Researcher"] = {
 {
-["mt"] = 2,
-["ta"] = 471174,
-["st"] = "The visions of a young dreamer fill the air around the Fields of Reverie!",
-["la"] = "2200-5209-6301-Amirdrassil",
+["la"] = "2022-4708-8055-Dragonscale Basecamp",
+["st"] = "Did you think I wouldn't return? How naive.",
+["ta"] = 1610709,
 },
 },
-["Shuja Grimaxe"] = {
+["Zenata"] = {
 {
-["ta"] = 12234401,
-["st"] = "Do you really think we can trust them, mother?",
-["la"] = "2022-7634-3314-Wingrest Embassy",
+["ta"] = 12950911,
+["st"] = "There are more secrets. We must uncover them, yes? We should start scrying!",
+["la"] = "2022-5516-4610-Concord Observatory",
+},
+{
+["ta"] = 14052864,
+["st"] = "The Technoscryers will beep when they find a rune. Once you have it in your sights, analyze it!",
+["la"] = "2262-5583-5030-Traitor's Rest",
 },
 },
 ["Dinn"] = {
@@ -15974,11 +18149,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3617-8576-The Waking Shores",
 },
 },
-["Unusual Researcher"] = {
+["Alverich"] = {
 {
-["la"] = "2022-4708-8055-Dragonscale Basecamp",
-["st"] = "Did you think I wouldn't return? How naive.",
-["ta"] = 1610709,
+["mt"] = 2,
+["ta"] = 13197786,
+["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
+["la"] = "2199-6618-7015-Tyrhold Reservoir",
 },
 },
 ["Somnikus"] = {
@@ -16008,12 +18184,30 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2200-5686-2323-Eye of Ysera",
 },
 },
-["Tempestrian"] = {
+["Uwudaddyheal"] = {
 {
-["mt"] = 5,
-["la"] = "2025-4814-5454-Tyrhold Reservoir",
-["st"] = "%s is being empowered by the Dreamsurge!",
-["ta"] = 13949890,
+["mt"] = 3,
+["ta"] = 917374,
+["st"] = "Common... such a crude language. Bandal!",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 917413,
+["st"] = "Shal'mor sinabanal!",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 917535,
+["st"] = "Sha'amoor ara mashal?",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 917746,
+["st"] = "Diel ma'ahn... orindel'o.",
+["la"] = "2238---Heart of Amirdrassil",
 },
 },
 ["Merithra"] = {
@@ -16373,16 +18567,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10865821,
 },
 },
-["Alleria Windrunner"] = {
+["Scaleseeker Mezeri"] = {
 {
-["la"] = "1978-5623-4909-",
-["st"] = "Throughout your journeys across Azeroth, you have achieved mastery over the forces that constantly seek to control you.",
-["ta"] = 15873548,
-},
-{
-["la"] = "2112-5296-5677-Valdrakken",
-["st"] = "You have become a formidable weapon of the Alliance, Riparium. Return to the void rift so that we may honor your accomplishment.",
-["ta"] = 15873552,
+["mt"] = 3,
+["la"] = "2023-2022-4373-Ancient Bough",
+["st"] = "How dare you!",
+["ta"] = 179728,
 },
 },
 ["Khanam Matra Sarest"] = {
@@ -16444,12 +18634,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2093---Nokhudon Hold",
 },
 },
-["Alverich"] = {
+["Tempestrian"] = {
 {
-["mt"] = 2,
-["ta"] = 13197786,
-["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
-["la"] = "2199-6618-7015-Tyrhold Reservoir",
+["mt"] = 5,
+["la"] = "2025-4814-5454-Tyrhold Reservoir",
+["st"] = "%s is being empowered by the Dreamsurge!",
+["ta"] = 13949890,
 },
 },
 ["Pirdan the Blinder"] = {
@@ -16481,30 +18671,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1958566,
 },
 },
-["Uwudaddyheal"] = {
+["Burgers"] = {
 {
-["mt"] = 3,
-["ta"] = 917374,
-["st"] = "Common... such a crude language. Bandal!",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917413,
-["st"] = "Shal'mor sinabanal!",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917535,
-["st"] = "Sha'amoor ara mashal?",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917746,
-["st"] = "Diel ma'ahn... orindel'o.",
-["la"] = "2238---Heart of Amirdrassil",
+["mt"] = 2,
+["ta"] = 1001696,
+["st"] = "%s just won a game of Hearthstone!",
+["la"] = "2112-4304-3873-Gladiator's Refuge",
 },
 },
 ["Amythora"] = {
@@ -16519,19 +18691,36 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1694979,
 },
 },
-["Malia Pierce"] = {
+["Temporal Investigator Tempo"] = {
 {
-["la"] = "2200-5000-6267-Central Encampment",
-["st"] = "A dance party? I'm not sure how that will help, but sounds like fun!",
-["ta"] = 739640,
+["ta"] = 13114345,
+["st"] = "Last I heard, Ironormu was up in his forge with a rather important mortal from Azmerloth.",
+["la"] = "2025-5478-8161-Eon's Fringe",
 },
-},
-["Scaleseeker Mezeri"] = {
 {
-["mt"] = 3,
-["la"] = "2023-2022-4373-Ancient Bough",
-["st"] = "How dare you!",
-["ta"] = 179728,
+["ta"] = 13114515,
+["st"] = "Oh, are you with the exuberant little vulpera?",
+["la"] = "2025-5475-8166-Eon's Fringe",
+},
+{
+["ta"] = 13114517,
+["st"] = "Apologies, but I am quite busy at the moment.",
+["la"] = "2025-5477-8160-Eon's Fringe",
+},
+{
+["ta"] = 13114519,
+["st"] = "We temporal investigators are dealing with... remnants. Loose threads. Mismatched moments.",
+["la"] = "2025-5403-8199-Eon's Fringe",
+},
+{
+["ta"] = 14044676,
+["st"] = "Thank you for your help. I heard of all the work you have done.",
+["la"] = "2025-5474-8160-Eon's Fringe",
+},
+{
+["ta"] = 14044680,
+["st"] = "Is there anything I can help you with?",
+["la"] = "2025-5473-8170-Eon's Fringe",
 },
 },
 ["Alexstrasza"] = {
@@ -16591,48 +18780,16 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2194---Galakrond's Fall",
 },
 },
-["Thadrion"] = {
+["Alleria Windrunner"] = {
 {
-["mt"] = 3,
-["la"] = "2166---Onyx Laboratory",
-["st"] = "Toys to smash!",
-["ta"] = 13280116,
+["la"] = "1978-5623-4909-",
+["st"] = "Throughout your journeys across Azeroth, you have achieved mastery over the forces that constantly seek to control you.",
+["ta"] = 15873548,
 },
 {
-["mt"] = 3,
-["la"] = "2166---Onyx Laboratory",
-["st"] = "Heave!",
-["ta"] = 13280122,
-},
-{
-["mt"] = 3,
-["la"] = "2166---Onyx Laboratory",
-["st"] = "Pop your insides!",
-["ta"] = 13280133,
-},
-{
-["mt"] = 3,
-["la"] = "2166---Onyx Laboratory",
-["st"] = "Destroy!",
-["ta"] = 13280156,
-},
-{
-["mt"] = 3,
-["ta"] = 16912255,
-["st"] = "Carnage!",
-["la"] = "2166---Onyx Laboratory",
-},
-{
-["mt"] = 3,
-["ta"] = 16912267,
-["st"] = "Detonate!",
-["la"] = "2166---Onyx Laboratory",
-},
-{
-["mt"] = 3,
-["ta"] = 16912289,
-["st"] = "Tear you apart!",
-["la"] = "2166---Onyx Laboratory",
+["la"] = "2112-5296-5677-Valdrakken",
+["st"] = "You have become a formidable weapon of the Alliance, Riparium. Return to the void rift so that we may honor your accomplishment.",
+["ta"] = 15873552,
 },
 },
 ["Melôdie"] = {
@@ -16641,6 +18798,13 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-4814-5454-Tyrhold Reservoir",
 ["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
 ["ta"] = 13949838,
+},
+},
+["Malia Pierce"] = {
+{
+["la"] = "2200-5000-6267-Central Encampment",
+["st"] = "A dance party? I'm not sure how that will help, but sounds like fun!",
+["ta"] = 739640,
 },
 },
 ["Dreambreaker Cragfist"] = {
@@ -16805,6 +18969,13 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5590-8821-Thaldraszus",
 },
 },
+["Doopurt"] = {
+{
+["ta"] = 13454695,
+["st"] = "*Pant* Please, help! My wagon is too heavy for me to push it!",
+["la"] = "2133-6595-4926-The Throughway",
+},
+},
 ["Nokhud Lancemaster"] = {
 {
 ["mt"] = 3,
@@ -16819,43 +18990,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2093---Battle of Spears",
 },
 },
-["Edith Morgan"] = {
+["Council Icecaller"] = {
 {
-["la"] = "2200-5102-6246-Central Encampment",
-["st"] = "Flower crowns... What a thoughtful idea!",
-["ta"] = 739659,
-},
-},
-["Temporal Investigator Tempo"] = {
-{
-["ta"] = 13114345,
-["st"] = "Last I heard, Ironormu was up in his forge with a rather important mortal from Azmerloth.",
-["la"] = "2025-5478-8161-Eon's Fringe",
-},
-{
-["ta"] = 13114515,
-["st"] = "Oh, are you with the exuberant little vulpera?",
-["la"] = "2025-5475-8166-Eon's Fringe",
-},
-{
-["ta"] = 13114517,
-["st"] = "Apologies, but I am quite busy at the moment.",
-["la"] = "2025-5477-8160-Eon's Fringe",
-},
-{
-["ta"] = 13114519,
-["st"] = "We temporal investigators are dealing with... remnants. Loose threads. Mismatched moments.",
-["la"] = "2025-5403-8199-Eon's Fringe",
-},
-{
-["ta"] = 14044676,
-["st"] = "Thank you for your help. I heard of all the work you have done.",
-["la"] = "2025-5474-8160-Eon's Fringe",
-},
-{
-["ta"] = 14044680,
-["st"] = "Is there anything I can help you with?",
-["la"] = "2025-5473-8170-Eon's Fringe",
+["mt"] = 3,
+["la"] = "2120---The Vault Approach",
+["st"] = "Stop! Look what you caused!",
+["ta"] = 12674474,
 },
 },
 ["Eadweard Dalyngrigge"] = {
@@ -17267,11 +19407,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2237---The Blessed Boughs",
 },
 },
-["Doopurt"] = {
+["Qalashi Emissary"] = {
 {
-["ta"] = 13454695,
-["st"] = "*Pant* Please, help! My wagon is too heavy for me to push it!",
-["la"] = "2133-6595-4926-The Throughway",
+["mt"] = 3,
+["la"] = "2120---The Elemental Conclave",
+["st"] = "Be on your guard, I do not trust these dragon worshippers.",
+["ta"] = 12674598,
 },
 },
 ["Hanu"] = {
@@ -17291,12 +19432,31 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-5631-6504-Imbu",
 },
 },
-["Ancient Protector"] = {
+["Blue"] = {
 {
-["mt"] = 2,
-["ta"] = 12914674,
-["st"] = "The Ancient Protector has been awakened.",
-["la"] = "2025-6089-5523-Tyrhold",
+["la"] = "84-5030-8541-Mage Quarter",
+["st"] = "I'll have to limit myself to three!",
+["ta"] = 31844,
+},
+{
+["la"] = "84-4888-8703-Wizard's Sanctum",
+["st"] = "How many of these do you think I could sneak into our quarters before Azurathel noticed? Ten?",
+["ta"] = 49412,
+},
+{
+["la"] = "84-4958-8622-Mage Quarter",
+["st"] = "You're right, you're right. There's no way he would miss that many running around.",
+["ta"] = 49420,
+},
+{
+["ta"] = 68194,
+["st"] = "Look at this thing!",
+["la"] = "84-5126-8376-Stormwind City",
+},
+{
+["ta"] = 68202,
+["st"] = "How are you so cute? Aspects, it's so soft and round I could molt!",
+["la"] = "84-4839-8797-Wizard's Sanctum",
 },
 },
 ["Greeb Ramrocket"] = {
@@ -17307,26 +19467,30 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "85-4421-7273-Valley of Strength",
 },
 },
-["Qalashi Emissary"] = {
+["Titanic Reactor"] = {
 {
-["mt"] = 3,
-["la"] = "2120---The Elemental Conclave",
-["st"] = "Be on your guard, I do not trust these dragon worshippers.",
-["ta"] = 12674598,
+["mt"] = 2,
+["ta"] = 12913174,
+["st"] = "The northeastern pillar has been activated.",
+["la"] = "2025-5859-5983-Tyrhold",
 },
-},
-["Theladre"] = {
 {
-["la"] = "2112-2979-4786-The Victorious Visage",
-["st"] = "Wait! I have one more to try!",
-["ta"] = 1446726,
+["mt"] = 2,
+["ta"] = 12913394,
+["st"] = "The northern pillar has been activated.",
+["la"] = "2025-6092-5516-Tyrhold",
 },
-},
-["Flamecrested Portalweaver"] = {
 {
-["la"] = "2200-3738-2225-Primalist Stronghold",
-["st"] = "Flame will engulf all...",
-["ta"] = 1713405,
+["mt"] = 2,
+["ta"] = 12914443,
+["st"] = "The eastern pillar has been activated.",
+["la"] = "2025-6088-6235-Tyrhold",
+},
+{
+["mt"] = 2,
+["ta"] = 12914463,
+["st"] = "The southeastern pillar has been activated.",
+["la"] = "2025-5942-6070-Tyrhold",
 },
 },
 ["Kalecgos"] = {
@@ -17491,38 +19655,25 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12680361,
 },
 },
+["Flamecrested Portalweaver"] = {
+{
+["la"] = "2200-3738-2225-Primalist Stronghold",
+["st"] = "Flame will engulf all...",
+["ta"] = 1713405,
+},
+},
+["Theladre"] = {
+{
+["la"] = "2112-2979-4786-The Victorious Visage",
+["st"] = "Wait! I have one more to try!",
+["ta"] = 1446726,
+},
+},
 ["Guff Runetotem"] = {
 {
 ["la"] = "2254-3626-4915-Barrows of Reverie",
 ["st"] = "I thought maybe it was thirsty. I just wanted to give it a drink.",
 ["ta"] = 740663,
-},
-},
-["Blue"] = {
-{
-["la"] = "84-5030-8541-Mage Quarter",
-["st"] = "I'll have to limit myself to three!",
-["ta"] = 31844,
-},
-{
-["la"] = "84-4888-8703-Wizard's Sanctum",
-["st"] = "How many of these do you think I could sneak into our quarters before Azurathel noticed? Ten?",
-["ta"] = 49412,
-},
-{
-["la"] = "84-4958-8622-Mage Quarter",
-["st"] = "You're right, you're right. There's no way he would miss that many running around.",
-["ta"] = 49420,
-},
-{
-["ta"] = 68194,
-["st"] = "Look at this thing!",
-["la"] = "84-5126-8376-Stormwind City",
-},
-{
-["ta"] = 68202,
-["st"] = "How are you so cute? Aspects, it's so soft and round I could molt!",
-["la"] = "84-4839-8797-Wizard's Sanctum",
 },
 },
 ["Obsidian Guard"] = {
@@ -17545,16 +19696,175 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2168---Defiant Ramparts",
 },
 },
-["Ramaniel"] = {
+["Resentful Spa Patron"] = {
 {
-["la"] = "2112-7386-4700-The Parting Glass",
-["st"] = "Surely you can see the similarities, Melinor. The void shows us a winding road of infinite possibilities - just like the various timelines we are charged to observe.",
-["ta"] = 12782101,
+["la"] = "2025-4030-4881-Serene Dreams Spa",
+["st"] = "I want to know what is being done about this!",
+["ta"] = 1978160,
+},
+},
+["Sarkareth"] = {
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "The Sundered Flame will never serve!",
+["ta"] = 13185415,
 },
 {
-["la"] = "2112-7386-4700-The Parting Glass",
-["st"] = "So quick to presume the void's influence. Have you never wondered where exactly your Light might lead you? Are you certain you will like what lies at journey's end?",
-["ta"] = 12782120,
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Your resistance weakens.",
+["ta"] = 13185430,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Incineration!",
+["ta"] = 13185479,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "My power surges!",
+["ta"] = 13185496,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "The darkness bends to me!",
+["ta"] = 13185508,
+},
+{
+["mt"] = 4,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Gaze into the endless dark, and despair.",
+["ta"] = 13185516,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Void is mine to command.",
+["ta"] = 13185548,
+},
+{
+["mt"] = 4,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Your bodies will linger in the nothing beyond stars!",
+["ta"] = 13185569,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "The abyss beckons.",
+["ta"] = 13185584,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Father... grant me your strength!",
+["ta"] = 13185586,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Stars fall upon you!",
+["ta"] = 13185602,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Witness my ascension!",
+["ta"] = 13185607,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Burn in the light of a dying star!",
+["ta"] = 13185642,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "So much for your destiny.",
+["ta"] = 13185679,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Thus falls dragonkind.",
+["ta"] = 13185683,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "His powers are mine to command!",
+["ta"] = 13185783,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Such potent energy here, for those strong enough to seize it!",
+["ta"] = 13185872,
+},
+{
+["mt"] = 4,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Darkness hides such delicious knowledge!",
+["ta"] = 13185880,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "It... was... mine...",
+["ta"] = 13186089,
+},
+{
+["mt"] = 3,
+["ta"] = 13282834,
+["st"] = "Within the scale of the universe, you are nothing.",
+["la"] = "2170---Edge of Oblivion",
+},
+{
+["mt"] = 3,
+["ta"] = 13282876,
+["st"] = "I will make the world kneel!",
+["la"] = "2170---Edge of Oblivion",
+},
+{
+["mt"] = 3,
+["ta"] = 13282916,
+["st"] = "You will be cast into the void!",
+["la"] = "2170---Edge of Oblivion",
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "My reign begins with your annihilation.",
+["ta"] = 13456937,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Eternal suffering.",
+["ta"] = 13457106,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Bend to me, and break!",
+["ta"] = 13457117,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Ahhh... failure, as expected.",
+["ta"] = 13457858,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "You cannot deny my rule.",
+["ta"] = 13458149,
 },
 },
 ["Destia"] = {
@@ -17883,12 +20193,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13456531,
 },
 },
-["Neela Firebane"] = {
+["Crimsastrasza"] = {
 {
-["mt"] = 5,
-["ta"] = 14048342,
-["st"] = "Neela Firebane has appeared!",
-["la"] = "2022-3437-5374-The Slagmire",
+["ta"] = 23899326,
+["st"] = "Coldostos, you did remember to properly bind your spell this time? It will not explode?",
+["la"] = "2025-6289-3665-Algeth'ar Academy",
+},
+{
+["ta"] = 23899329,
+["st"] = "Aaaah! Coldostos! What did you do?",
+["la"] = "2025-6291-3666-Algeth'ar Academy",
 },
 },
 ["Eternal Blaze"] = {
@@ -17938,16 +20252,16 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-4775-5678-Ruins of Drekazera",
 },
 },
-["Crimsastrasza"] = {
+["Zaqali Cragslasher"] = {
 {
-["ta"] = 23899326,
-["st"] = "Coldostos, you did remember to properly bind your spell this time? It will not explode?",
-["la"] = "2025-6289-3665-Algeth'ar Academy",
+["ta"] = 1603065,
+["st"] = "You... will burn before the end.",
+["la"] = "2024-5355-3359-Suffusion Camp: Frostburn",
 },
 {
-["ta"] = 23899329,
-["st"] = "Aaaah! Coldostos! What did you do?",
-["la"] = "2025-6291-3666-Algeth'ar Academy",
+["ta"] = 1603358,
+["st"] = "Obey my orders, dragon pets!",
+["la"] = "2024-5452-3356-Suffusion Camp: Frostburn",
 },
 },
 ["Kadria"] = {
@@ -17970,192 +20284,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-4029-6116-Teerakai",
 },
 },
-["Resentful Spa Patron"] = {
-{
-["la"] = "2025-4030-4881-Serene Dreams Spa",
-["st"] = "I want to know what is being done about this!",
-["ta"] = 1978160,
-},
-},
-["Sarkareth"] = {
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "The Sundered Flame will never serve!",
-["ta"] = 13185415,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Your resistance weakens.",
-["ta"] = 13185430,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Incineration!",
-["ta"] = 13185479,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "My power surges!",
-["ta"] = 13185496,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "The darkness bends to me!",
-["ta"] = 13185508,
-},
-{
-["mt"] = 4,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Gaze into the endless dark, and despair.",
-["ta"] = 13185516,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Void is mine to command.",
-["ta"] = 13185548,
-},
-{
-["mt"] = 4,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Your bodies will linger in the nothing beyond stars!",
-["ta"] = 13185569,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "The abyss beckons.",
-["ta"] = 13185584,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Father... grant me your strength!",
-["ta"] = 13185586,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Stars fall upon you!",
-["ta"] = 13185602,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Witness my ascension!",
-["ta"] = 13185607,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Burn in the light of a dying star!",
-["ta"] = 13185642,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "So much for your destiny.",
-["ta"] = 13185679,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Thus falls dragonkind.",
-["ta"] = 13185683,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "His powers are mine to command!",
-["ta"] = 13185783,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Such potent energy here, for those strong enough to seize it!",
-["ta"] = 13185872,
-},
-{
-["mt"] = 4,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Darkness hides such delicious knowledge!",
-["ta"] = 13185880,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "It... was... mine...",
-["ta"] = 13186089,
-},
-{
-["mt"] = 3,
-["ta"] = 13282834,
-["st"] = "Within the scale of the universe, you are nothing.",
-["la"] = "2170---Edge of Oblivion",
-},
-{
-["mt"] = 3,
-["ta"] = 13282876,
-["st"] = "I will make the world kneel!",
-["la"] = "2170---Edge of Oblivion",
-},
-{
-["mt"] = 3,
-["ta"] = 13282916,
-["st"] = "You will be cast into the void!",
-["la"] = "2170---Edge of Oblivion",
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "My reign begins with your annihilation.",
-["ta"] = 13456937,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Eternal suffering.",
-["ta"] = 13457106,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Bend to me, and break!",
-["ta"] = 13457117,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Ahhh... failure, as expected.",
-["ta"] = 13457858,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "You cannot deny my rule.",
-["ta"] = 13458149,
-},
-},
-["Holgar Stormaxe"] = {
-{
-["ta"] = 22935899,
-["st"] = "Can you hear the roar of battle already, Esker? It calls to you!",
-["la"] = "1-4587-1350-The Dranosh'ar Blockade",
-},
-},
-["Blight of Galakrond"] = {
-{
-["mt"] = 6,
-["la"] = "2194---Galakrond's Fall",
-["st"] = "|TInterface\\ICONS\\Sha_INV_Misc_Slime_01.blp:20|t You are afflicted with |cFFFF0000|Hspell:407406|h[Corrosion]|h|r!",
-["ta"] = 414317,
-},
-},
 ["Kerzanthi"] = {
 {
 ["la"] = "2024-4693-2483-Cobalt Assembly",
@@ -18166,18 +20294,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-4690-2491-Cobalt Assembly",
 ["st"] = "My soldiers... we fall... with honor.",
 ["ta"] = 12843128,
-},
-},
-["Azure Whelpling"] = {
-{
-["ta"] = 227987,
-["st"] = "Oh, wow! Cool!",
-["la"] = "2112-4115-4888-The Obsidian Enclave",
-},
-{
-["ta"] = 227997,
-["st"] = "This place is so cool! We have to come back!",
-["la"] = "2112-4273-4878-The Obsidian Enclave",
 },
 },
 ["Screechflight Snatcher"] = {
@@ -18195,6 +20311,72 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-4454-6950-Bluefeather Cliffs",
 ["st"] = "Must protect food for Matriarch!",
 ["ta"] = 13097513,
+},
+},
+["Holgar Stormaxe"] = {
+{
+["ta"] = 22935899,
+["st"] = "Can you hear the roar of battle already, Esker? It calls to you!",
+["la"] = "1-4587-1350-The Dranosh'ar Blockade",
+},
+},
+["Blight of Galakrond"] = {
+{
+["mt"] = 6,
+["la"] = "2194---Galakrond's Fall",
+["st"] = "|TInterface\\ICONS\\Sha_INV_Misc_Slime_01.blp:20|t You are afflicted with |cFFFF0000|Hspell:407406|h[Corrosion]|h|r!",
+["ta"] = 414317,
+},
+},
+["Primalist Windweaver"] = {
+{
+["la"] = "2151-7084-5563-Stormsunder Crater",
+["st"] = "I have failed...",
+["ta"] = 1960368,
+},
+},
+["Azure Whelpling"] = {
+{
+["ta"] = 227987,
+["st"] = "Oh, wow! Cool!",
+["la"] = "2112-4115-4888-The Obsidian Enclave",
+},
+{
+["ta"] = 227997,
+["st"] = "This place is so cool! We have to come back!",
+["la"] = "2112-4273-4878-The Obsidian Enclave",
+},
+},
+["Srivantor"] = {
+{
+["mt"] = 5,
+["ta"] = 1600876,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2024-7344-3304-Upper Frostlands",
+},
+{
+["la"] = "2024-4683-2189-Cobalt Assembly",
+["st"] = "Feel the power of arcana unleashed!",
+["ta"] = 12842155,
+},
+{
+["la"] = "2024-4721-2233-Cobalt Assembly",
+["st"] = "More... I need... more...!",
+["ta"] = 12842347,
+},
+},
+["Kanuk"] = {
+{
+["mt"] = 3,
+["ta"] = 16913457,
+["st"] = "Here comes the heat!",
+["la"] = "2166---Molten Crucible",
+},
+{
+["mt"] = 3,
+["ta"] = 16913998,
+["st"] = "Are you ready to EXPLODE?",
+["la"] = "2166---Molten Crucible",
 },
 },
 ["Cousin Slowhands"] = {
@@ -18269,20 +20451,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1949742,
 },
 },
-["Kanuk"] = {
-{
-["mt"] = 3,
-["ta"] = 16913457,
-["st"] = "Here comes the heat!",
-["la"] = "2166---Molten Crucible",
-},
-{
-["mt"] = 3,
-["ta"] = 16913998,
-["st"] = "Are you ready to EXPLODE?",
-["la"] = "2166---Molten Crucible",
-},
-},
 ["Sandana the Tempest"] = {
 {
 ["mt"] = 5,
@@ -18291,29 +20459,37 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1960981,
 },
 },
-["Primalist Windweaver"] = {
+["Malicia"] = {
 {
-["la"] = "2151-7084-5563-Stormsunder Crater",
-["st"] = "I have failed...",
-["ta"] = 1960368,
+["ta"] = 12763202,
+["st"] = "I sense powerful magical energy in this area. See what you can discover about it for me.",
+["la"] = "2024-5198-2404-Training Grounds",
 },
 },
-["Srivantor"] = {
+["Puzzle Box of Yogg-Saron"] = {
 {
-["mt"] = 5,
-["ta"] = 1600876,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2024-7344-3304-Upper Frostlands",
+["mt"] = 4,
+["ta"] = 981368,
+["st"] = "The stars sweep chill currents that make men shiver in the dark.",
+["la"] = "2112-4773-5843-Valdrakken",
 },
 {
-["la"] = "2024-4683-2189-Cobalt Assembly",
-["st"] = "Feel the power of arcana unleashed!",
-["ta"] = 12842155,
+["mt"] = 4,
+["ta"] = 1697963,
+["st"] = "Open me! Open me! Open me! Then only will you know peace.",
+["la"] = "85-5249-7891-Valley of Strength",
 },
 {
-["la"] = "2024-4721-2233-Cobalt Assembly",
-["st"] = "More... I need... more...!",
-["ta"] = 12842347,
+["mt"] = 4,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "The giant rook watches from the dead trees. Nothing breathes beneath his shadow.",
+["ta"] = 13459439,
+},
+{
+["mt"] = 4,
+["ta"] = 14064416,
+["st"] = "Y'knath k'th'rygg k'yi mrr'ungha gr'mula.",
+["la"] = "2233---Throne of the Firelord",
 },
 },
 ["Ohn Meluun"] = {
@@ -18328,26 +20504,17 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10614896,
 },
 },
-["Malicia"] = {
+["Blood Horde Reaver"] = {
 {
-["ta"] = 12763202,
-["st"] = "I sense powerful magical energy in this area. See what you can discover about it for me.",
-["la"] = "2024-5198-2404-Training Grounds",
+["mt"] = 3,
+["ta"] = 13197707,
+["st"] = "You know what you are!",
+["la"] = "2199-3406-4782-Tyrhold Reservoir",
 },
-},
-["Bosseakhar"] = {
 {
-["mt"] = 2,
-["la"] = "2238---Heart of Amirdrassil",
-["st"] = "Bosseakhar sets out a Toy Train Set!",
-["ta"] = 912597,
-},
-},
-["Clove"] = {
-{
-["ta"] = 990717,
-["st"] = "I'll be feeling that tomorrow...",
-["la"] = "2022-2764-7122-Dragonbane Keep",
+["ta"] = 13197714,
+["st"] = "Our... land... defended....",
+["la"] = "2199-3387-4814-Tyrhold Reservoir",
 },
 },
 ["Morchok"] = {
@@ -18358,16 +20525,41 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-7669-3362-Wingrest Embassy",
 },
 },
-["Coldostos"] = {
+["Clove"] = {
 {
-["ta"] = 23899330,
-["st"] = "It was working this morning! Granted, that was on a ficus but it should have worked.",
-["la"] = "2025-6280-3676-Algeth'ar Academy",
+["ta"] = 990717,
+["st"] = "I'll be feeling that tomorrow...",
+["la"] = "2022-2764-7122-Dragonbane Keep",
 },
+},
+["Bosseakhar"] = {
 {
-["ta"] = 23899331,
-["st"] = "How dare you suggest my spell work is anything less than sublime?",
-["la"] = "2025-6280-3676-Algeth'ar Academy",
+["mt"] = 2,
+["la"] = "2238---Heart of Amirdrassil",
+["st"] = "Bosseakhar sets out a Toy Train Set!",
+["ta"] = 912597,
+},
+},
+["Faera"] = {
+{
+["ta"] = 13029491,
+["st"] = "Do you like it...? Oh. Probably not.",
+["la"] = "2025-5890-3295-Algeth'ar Academy",
+},
+},
+["Initiate Radiya"] = {
+{
+["la"] = "2023-5623-7591-Ohn'iri Springs",
+["st"] = "Breezy! After all's said and done, come back and I'll work my magic.",
+["ta"] = 10614889,
+},
+},
+["Krrrn Trr Pyromancer"] = {
+{
+["mt"] = 2,
+["ta"] = 14475565,
+["st"] = "%s attempts to run away in fear!",
+["la"] = "2199-4254-2789-Tyrhold Reservoir",
 },
 },
 ["Molten Primalist"] = {
@@ -18387,50 +20579,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-5534-2374-Life-Binder Conservatory",
 },
 },
-["Blood Horde Reaver"] = {
-{
-["mt"] = 3,
-["ta"] = 13197707,
-["st"] = "You know what you are!",
-["la"] = "2199-3406-4782-Tyrhold Reservoir",
-},
-{
-["ta"] = 13197714,
-["st"] = "Our... land... defended....",
-["la"] = "2199-3387-4814-Tyrhold Reservoir",
-},
-},
-["Maruuk"] = {
-{
-["mt"] = 3,
-["ta"] = 12780269,
-["st"] = "This is what has become of our legacy?",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["mt"] = 3,
-["ta"] = 12780294,
-["st"] = "You shall pay for this blasphemy with your lives.",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["mt"] = 3,
-["ta"] = 12780300,
-["st"] = "Flee before me!",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["mt"] = 3,
-["ta"] = 12780347,
-["st"] = "Rend the earth!",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["ta"] = 12780459,
-["st"] = "Peace... at last...",
-["la"] = "2093---The Eternal Kurgans",
-},
-},
 ["Dyore"] = {
 {
 ["mt"] = 3,
@@ -18445,16 +20593,21 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2237---The Blessed Boughs",
 },
 },
-["Worldbreaker Guard"] = {
+["Japukitat"] = {
 {
-["ta"] = 164824,
-["st"] = "Look to... the sky.",
-["la"] = "2022-3766-4707-Smoldering Perch",
+["ta"] = 12579887,
+["st"] = "Rescuing them will probably upset Hackclaw and her war-band, so be ready for a fight!",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["ta"] = 164978,
-["st"] = "You trespass, outsider!",
-["la"] = "2022-3498-4715-Smoldering Perch",
+["ta"] = 12581167,
+["st"] = "Bertinaut, would you set up a camp in case our friends need help?",
+["la"] = "2096---The Rotwood",
+},
+{
+["la"] = "2024-1146-4895-Iskaara",
+["st"] = "We've got to go back! We didn't rescue...ergh...enough...",
+["ta"] = 12595089,
 },
 },
 ["Nokhud Goliath"] = {
@@ -18501,43 +20654,108 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-1326-4845-Iskaara",
 },
 },
-["Iskaara Fisher"] = {
+["Nirobin"] = {
 {
-["la"] = "2024-1346-4873-Iskaara",
-["st"] = "Big catch for you today, Luko!",
-["ta"] = 500419,
+["ta"] = 12762109,
+["st"] = "Here to assist me in research again, are you? Very well! Find my familiar so we may begin our investigation.",
+["la"] = "2023-6605-4148-Ohn'ahran Plains",
 },
 {
-["la"] = "2024-1297-4931-Iskaara",
-["st"] = "Looking for Nappa? He's running the inn, in the tent right behind me.",
-["ta"] = 835616,
+["ta"] = 14052758,
+["st"] = "I hope you're ready for knowledge, fellow knowledge-seeker! I've just caught wind of a clue!",
+["la"] = "2262-5539-5045-Traitor's Rest",
+},
+},
+["Archmage Khadgar"] = {
+{
+["la"] = "2119---The Primal Bulwark",
+["st"] = "Looks like we go the rest of the way on foot.",
+["ta"] = 12674037,
 },
 {
-["la"] = "2024-1353-4823-Iskaara",
-["st"] = "I've been drying this seaweed for the soup. It should be ready now!",
-["ta"] = 1785593,
+["la"] = "2119---The Primal Bulwark",
+["st"] = "Set up a perimeter and tend the wounded! Champions, rally to me.",
+["ta"] = 12674376,
 },
 {
-["ta"] = 1785980,
-["st"] = "Only the best for you, Unpiat.",
-["la"] = "2024-1266-4976-Iskaara",
-},
-},
-["Vakril"] = {
-{
-["la"] = "2024-1756-4154-The Azure Span",
-["st"] = "Come to test the legendary Vakril?",
-["ta"] = 1246358,
+["la"] = "2119---The Primal Bulwark",
+["st"] = "Kalecgos, think we can take to the skies?",
+["ta"] = 12674382,
 },
 {
-["la"] = "2024-1756-4153-The Azure Span",
-["st"] = "I suppose it's time I unleash the ancient powers of --",
-["ta"] = 1246361,
+["la"] = "2119---The Primal Bulwark",
+["st"] = "I expect they won't make it easy for us. Champions, when you're ready.",
+["ta"] = 12674399,
 },
 {
-["la"] = "2024-1754-4150-The Azure Span",
-["st"] = "Oh! Well... I can't miss dinner. Until next time, fair challenger!",
-["ta"] = 1246365,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "If Kurog can manifest creatures this powerful, we should proceed with caution.",
+["ta"] = 12676531,
+},
+{
+["la"] = "2122---Quarry of Infusion",
+["st"] = "We'll need to destroy any that remain before we confront him.",
+["ta"] = 12676537,
+},
+{
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "This cold chills me to the bone.",
+["ta"] = 12676767,
+},
+{
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "Hold. We are not alone. Something stalks us.",
+["ta"] = 12676775,
+},
+{
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "Looks like Kurog has himself an ice spider... and it laid eggs.",
+["ta"] = 12676790,
+},
+{
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "Another time, my friend. The Grand Summoner awaits.",
+["ta"] = 12677201,
+},
+{
+["la"] = "2124---The Primal Convergence",
+["st"] = "Kurog and his creations will not threaten us again.",
+["ta"] = 12677989,
+},
+{
+["la"] = "2126---The Clutchwarren",
+["st"] = "The drakes are fleeing!",
+["ta"] = 12679219,
+},
+{
+["la"] = "2126---The Clutchwarren",
+["st"] = "Champions, now is the time to strike.",
+["ta"] = 12679226,
+},
+{
+["la"] = "2135---The Seat of the Aspects",
+["st"] = "We've failed. The Incarnates are free.",
+["ta"] = 12680350,
+},
+{
+["la"] = "2135---The Seat of the Aspects",
+["st"] = "Then let us not delay.",
+["ta"] = 12680368,
+},
+{
+["la"] = "2135---The Seat of the Aspects",
+["st"] = "If there's one thing I've learned from all the battles I've fought, it's that no matter how dark things get, we must never lose hope.",
+["ta"] = 12680370,
+},
+{
+["la"] = "2112-6300-3317-The Seat of the Aspects",
+["st"] = "We are in need of your aid once more, champion. A mysterious figure moves within the shadows. The Harbinger...",
+["ta"] = 13783689,
+},
+{
+["la"] = "2112-5980-3691-The Seat of the Aspects",
+["st"] = "Let us speak in the Chamber of the Guardian. I've asked Alleria to meet us there as well.",
+["ta"] = 13783698,
 },
 },
 ["Rootsear Defiler"] = {
@@ -18572,35 +20790,26 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12596741,
 },
 },
-["Gashtooth"] = {
+["Iskaara Fisher"] = {
 {
-["ta"] = 12580087,
-["st"] = "Who stealing our meat?!",
-["la"] = "2096---Lost Kanniak",
+["la"] = "2024-1346-4873-Iskaara",
+["st"] = "Big catch for you today, Luko!",
+["ta"] = 500419,
 },
 {
-["mt"] = 3,
-["ta"] = 12580462,
-["st"] = "I take stolen meat from your bones!",
-["la"] = "2096---Lost Kanniak",
+["la"] = "2024-1297-4931-Iskaara",
+["st"] = "Looking for Nappa? He's running the inn, in the tent right behind me.",
+["ta"] = 835616,
 },
 {
-["mt"] = 3,
-["ta"] = 12580476,
-["st"] = "Butcher and slice!",
-["la"] = "2096---Lost Kanniak",
+["la"] = "2024-1353-4823-Iskaara",
+["st"] = "I've been drying this seaweed for the soup. It should be ready now!",
+["ta"] = 1785593,
 },
 {
-["mt"] = 3,
-["ta"] = 12580508,
-["st"] = "They never see it coming!",
-["la"] = "2096---Lost Kanniak",
-},
-{
-["mt"] = 3,
-["ta"] = 12580599,
-["st"] = "Didn't... cut... deep enough...",
-["la"] = "2096---Lost Kanniak",
+["ta"] = 1785980,
+["st"] = "Only the best for you, Unpiat.",
+["la"] = "2024-1266-4976-Iskaara",
 },
 },
 ["Groffnar"] = {
@@ -18618,19 +20827,29 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 932980,
 },
 },
-["Krrrn Trr Pyromancer"] = {
+["Vakril"] = {
+{
+["la"] = "2024-1756-4154-The Azure Span",
+["st"] = "Come to test the legendary Vakril?",
+["ta"] = 1246358,
+},
+{
+["la"] = "2024-1756-4153-The Azure Span",
+["st"] = "I suppose it's time I unleash the ancient powers of --",
+["ta"] = 1246361,
+},
+{
+["la"] = "2024-1754-4150-The Azure Span",
+["st"] = "Oh! Well... I can't miss dinner. Until next time, fair challenger!",
+["ta"] = 1246365,
+},
+},
+["Trickclaw Mystic"] = {
 {
 ["mt"] = 2,
-["ta"] = 14475565,
+["ta"] = 12580192,
 ["st"] = "%s attempts to run away in fear!",
-["la"] = "2199-4254-2789-Tyrhold Reservoir",
-},
-},
-["Initiate Radiya"] = {
-{
-["la"] = "2023-5623-7591-Ohn'iri Springs",
-["st"] = "Breezy! After all's said and done, come back and I'll work my magic.",
-["ta"] = 10614889,
+["la"] = "2096---Lost Kanniak",
 },
 },
 ["Nokhud Fighter"] = {
@@ -18645,43 +20864,39 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10609456,
 },
 },
-["Sentiu"] = {
+["Belika"] = {
 {
-["ta"] = 12579876,
-["st"] = "We appreciate your help, adventurer!",
-["la"] = "2096---Lost Kanniak",
+["ta"] = 10600362,
+["st"] = "You wish, Aru. Which of us killed their proto-drake faster?",
+["la"] = "2023-8581-2649-Timberstep Outpost",
 },
 {
-["ta"] = 12579881,
-["st"] = "Hold still, or you won't be rescuing anyone anymore!",
-["la"] = "2096---Lost Kanniak",
+["ta"] = 10600378,
+["st"] = "I bet we can out-hunt you. I will out-hunt both of you!",
+["la"] = "2023-8548-2691-Mirewood Fen",
 },
 {
-["ta"] = 12581162,
-["st"] = "We can't do much in our state, but we'll back you up, should you fall.",
-["la"] = "2096---The Rotwood",
-},
-},
-["Headmaster"] = {
-{
-["ta"] = 2039243,
-["st"] = "At Algeth'ar Academy we believe in teaching by example. Please show these students how it is done.",
-["la"] = "2025-5796-4354-Algeth'ar Academy",
+["ta"] = 10604432,
+["st"] = "The hunt is on, Benthos!",
+["la"] = "2023-7607-3165-Wanderer's Steppe",
 },
 {
-["la"] = "2025-5811-4279-Algeth'ar Academy",
-["st"] = "Another A plus performance from my favorite student.",
-["ta"] = 12587067,
+["mt"] = 3,
+["ta"] = 10604597,
+["st"] = "That's three more, Aru and Benthos! Try to keep up.",
+["la"] = "2023-7487-3275-Wanderer's Steppe",
 },
 {
-["ta"] = 23899326,
-["st"] = "Our other students require assistance with their exams. Could you be so kind as to help them?",
-["la"] = "2025-6289-3665-Algeth'ar Academy",
+["ta"] = 10605081,
+["st"] = "I won! I won!",
+["la"] = "2023-7566-3162-Wanderer's Steppe",
 },
+},
+["Searing Rootguard"] = {
 {
-["ta"] = 23899342,
-["st"] = "Wondrously done. That would have been fatal for someone less... accomplished.",
-["la"] = "2025-6300-3654-Algeth'ar Academy",
+["ta"] = 1986874,
+["st"] = "Your meddling comes too late!",
+["la"] = "2200-6160-4869-Meandering Rootlands",
 },
 },
 ["Unruly Textbook"] = {
@@ -18811,27 +21026,46 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1246364,
 },
 },
-["Trickclaw Mystic"] = {
+["Quartermaster Huseng"] = {
+{
+["la"] = "2023-6037-3769-Maruukai",
+["st"] = "I'm the quartermaster for the Maruuk. If you prove useful to us then maybe I can supply you with some of our goods. We'll see. Don't get any big ideas.",
+["ta"] = 10608946,
+},
+},
+["Gunner Fren"] = {
+{
+["la"] = "2022-4998-6844-The Waking Shores",
+["st"] = "Hold onto that camera. Lost the last one to a mischievous marmoni!",
+["ta"] = 312006,
+},
 {
 ["mt"] = 2,
-["ta"] = 12580192,
-["st"] = "%s attempts to run away in fear!",
-["la"] = "2096---Lost Kanniak",
+["la"] = "2022-5013-6800-The Waking Shores",
+["st"] = "%s inhales deeply and sighs contentedly.",
+["ta"] = 312009,
 },
-},
-["Searing Rootguard"] = {
 {
-["ta"] = 1986874,
-["st"] = "Your meddling comes too late!",
-["la"] = "2200-6160-4869-Meandering Rootlands",
+["la"] = "2022-5024-6775-The Waking Shores",
+["st"] = "The river flows strong here. As it should. These isles are truly remarkable...",
+["ta"] = 312011,
 },
-},
-["Captain Caspartine"] = {
 {
-["mt"] = 3,
-["ta"] = 12233880,
-["st"] = "Welcome to the Dragon Isles, adventurers!",
-["la"] = "2022-7726-3329-Wild Coast",
+["la"] = "2022-5459-5990-Overflowing Rapids",
+["st"] = "That should be enough pictures for Akunda. I'll take you back.",
+["ta"] = 312063,
+},
+},
+["Lupas Lightsprocket"] = {
+{
+["ta"] = 1605010,
+["st"] = "Anything worth doing is worth doing dangerously!",
+["la"] = "2022-4868-3694-Crumbling Cliffs",
+},
+{
+["ta"] = 1605075,
+["st"] = "I'd like to see our lazy sister do climbing as impressive as that!",
+["la"] = "2022-4878-3610-Crumbling Cliffs",
 },
 },
 ["Nokhud Sentry"] = {
@@ -19112,27 +21346,36 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2199-5182-5232-Tyrhold Reservoir",
 },
 },
-["Gunner Fren"] = {
+["Fel-Blessed Highborne"] = {
 {
-["la"] = "2022-4998-6844-The Waking Shores",
-["st"] = "Hold onto that camera. Lost the last one to a mischievous marmoni!",
-["ta"] = 312006,
+["ta"] = 901657,
+["st"] = "Fandu-dath-belore?",
+["la"] = "2025-5807-6764-Thaldraszus",
 },
 {
-["mt"] = 2,
-["la"] = "2022-5013-6800-The Waking Shores",
-["st"] = "%s inhales deeply and sighs contentedly.",
-["ta"] = 312009,
+["ta"] = 901926,
+["st"] = "Tor ilisar'thera'nal!",
+["la"] = "2025-5860-6756-East Shrine",
 },
 {
-["la"] = "2022-5024-6775-The Waking Shores",
-["st"] = "The river flows strong here. As it should. These isles are truly remarkable...",
-["ta"] = 312011,
+["la"] = "2025-5821-6758-East Shrine",
+["st"] = "The Great One will claim this world!",
+["ta"] = 1977953,
 },
 {
-["la"] = "2022-5459-5990-Overflowing Rapids",
-["st"] = "That should be enough pictures for Akunda. I'll take you back.",
-["ta"] = 312063,
+["ta"] = 14044725,
+["st"] = "Death... will not spare... me his....",
+["la"] = "2025-5783-6776-Thaldraszus",
+},
+{
+["ta"] = 14044761,
+["st"] = "He... promised...",
+["la"] = "2025-5843-6762-East Shrine",
+},
+{
+["ta"] = 14044859,
+["st"] = "The skies of this world will burn and so shall you!",
+["la"] = "2025-5912-6889-Passage of Time",
 },
 },
 ["Arcane Manipulator"] = {
@@ -19142,16 +21385,36 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-6564-5897-Ruins of Karnthar",
 },
 },
-["Windsage Togotseng"] = {
+["Shïnïgämï"] = {
 {
-["la"] = "2023-5630-7590-Ohn'iri Springs",
-["st"] = "I'm sure she just wants a change of scenery now and then. You know how restless she can be.",
-["ta"] = 10614891,
+["mt"] = 3,
+["ta"] = 917371,
+["st"] = "Surprise.",
+["la"] = "2238---Heart of Amirdrassil",
 },
 {
-["la"] = "2023-5672-7654-Ohn'iri Springs",
-["st"] = "As you will the winds, Ohn Meluun.",
-["ta"] = 10614903,
+["mt"] = 3,
+["ta"] = 917408,
+["st"] = "Let's get to work, shall we?",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 917653,
+["st"] = "Bye-bye.",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 917659,
+["st"] = "Tch!  So soon?",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 917751,
+["st"] = "You're much... better... than I thought...",
+["la"] = "2238---Heart of Amirdrassil",
 },
 },
 ["Vicious Rimefang"] = {
@@ -19220,36 +21483,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3498-4555-Smoldering Perch",
 },
 },
-["Fel-Blessed Highborne"] = {
+["Emblazion"] = {
 {
-["ta"] = 901657,
-["st"] = "Fandu-dath-belore?",
-["la"] = "2025-5807-6764-Thaldraszus",
-},
-{
-["ta"] = 901926,
-["st"] = "Tor ilisar'thera'nal!",
-["la"] = "2025-5860-6756-East Shrine",
-},
-{
-["la"] = "2025-5821-6758-East Shrine",
-["st"] = "The Great One will claim this world!",
-["ta"] = 1977953,
-},
-{
-["ta"] = 14044725,
-["st"] = "Death... will not spare... me his....",
-["la"] = "2025-5783-6776-Thaldraszus",
-},
-{
-["ta"] = 14044761,
-["st"] = "He... promised...",
-["la"] = "2025-5843-6762-East Shrine",
-},
-{
-["ta"] = 14044859,
-["st"] = "The skies of this world will burn and so shall you!",
-["la"] = "2025-5912-6889-Passage of Time",
+["mt"] = 5,
+["ta"] = 14046653,
+["st"] = "Emblazion has appeared!",
+["la"] = "2022-3131-5719-The Slagmire",
 },
 },
 ["Alliance Destroyer"] = {
@@ -19553,6 +21792,16 @@ AdventureArchivesMessageDB_9 = {
 ["st"] = "But Riparium, undaunted, promptly killed it and cooked it into the most delicious of soups, nourishing their family for weeks!",
 ["ta"] = 12845290,
 },
+{
+["ta"] = 25193462,
+["st"] = "At those times, both Sun and Moon hide their faces in embarrassment at the rudeness of their cousins.",
+["la"] = "2024-1245-4933-The Filled Bowl",
+},
+{
+["ta"] = 25193468,
+["st"] = "So I tell you, politely avert your eyes from such a struggle that you do not lose your vision. The greatest spirits do not favor those who stare at them.",
+["la"] = "2024-1262-4933-The Filled Bowl",
+},
 },
 ["Okir"] = {
 {
@@ -19611,24 +21860,18 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10608937,
 },
 },
-["Emblazion"] = {
+["Telemancer Astrandis"] = {
 {
-["mt"] = 5,
-["ta"] = 14046653,
-["st"] = "Emblazion has appeared!",
-["la"] = "2022-3131-5719-The Slagmire",
+["la"] = "2023-6587-2522-Emberwatch",
+["st"] = "I do not believe this will be the end of it. We must be prepared when the time comes. We have work to do.",
+["ta"] = 10614729,
 },
 },
-["Prophet of the Flame"] = {
+["Primalist Stormfury"] = {
 {
-["ta"] = 1604080,
-["st"] = "You wish to face the flames? So be it.",
-["la"] = "2024-3330-4000-The Azure Span",
-},
-{
-["ta"] = 13789745,
-["st"] = "The flame consumes all, embrace its power!",
-["la"] = "2025-6165-2600-Thaldraszus",
+["ta"] = 1248421,
+["st"] = "Koroleth leads us to victory!",
+["la"] = "2023-2318-3762-The Storm Scar",
 },
 },
 ["Harbinger of Incineration"] = {
@@ -19651,11 +21894,17 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2232---Wellspring Atrium",
 },
 },
-["Telemancer Astrandis"] = {
+["Lillistrasza"] = {
 {
-["la"] = "2023-6587-2522-Emberwatch",
-["st"] = "I do not believe this will be the end of it. We must be prepared when the time comes. We have work to do.",
-["ta"] = 10614729,
+["mt"] = 2,
+["ta"] = 168143,
+["st"] = "Lillistrasza sniffles.",
+["la"] = "2022-5996-7010-Ruby Lifeshrine",
+},
+{
+["ta"] = 168145,
+["st"] = "No... Happy Duck... no no no...",
+["la"] = "2022-5970-6937-Ruby Lifeshrine",
 },
 },
 ["Aurostor"] = {
@@ -19702,19 +21951,19 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 177542,
 },
 },
-["Primalist Stormfury"] = {
+["Gnarls"] = {
 {
-["ta"] = 1248421,
-["st"] = "Koroleth leads us to victory!",
-["la"] = "2023-2318-3762-The Storm Scar",
+["mt"] = 5,
+["ta"] = 1246747,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2024-1688-4809-The Azure Span",
 },
 },
-["Nuït"] = {
+["Icarius"] = {
 {
-["mt"] = 2,
-["ta"] = 585702,
-["st"] = "Nuït prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
-["la"] = "2244---The Scorched Hall",
+["ta"] = 307623,
+["st"] = "I hope they were able to find a safe place to rest...",
+["la"] = "2200-5056-6355-Central Encampment",
 },
 },
 ["[DNT] FX Stalker"] = {
@@ -19821,17 +22070,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2190---Temporal Vestibule",
 },
 },
-["Lillistrasza"] = {
+["Nuït"] = {
 {
 ["mt"] = 2,
-["ta"] = 168143,
-["st"] = "Lillistrasza sniffles.",
-["la"] = "2022-5996-7010-Ruby Lifeshrine",
-},
-{
-["ta"] = 168145,
-["st"] = "No... Happy Duck... no no no...",
-["la"] = "2022-5970-6937-Ruby Lifeshrine",
+["ta"] = 585702,
+["st"] = "Nuït prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
+["la"] = "2244---The Scorched Hall",
 },
 },
 ["Lethka"] = {
@@ -19891,12 +22135,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1714012,
 },
 },
-["Gnarls"] = {
+["Amirdrassil Defender"] = {
 {
-["mt"] = 5,
-["ta"] = 1246747,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2024-1688-4809-The Azure Span",
+["la"] = "2200-5191-6386-Amirdrassil",
+["st"] = "Silence, traitor!",
+["ta"] = 578692,
+},
+{
+["la"] = "2200-5192-6390-Amirdrassil",
+["st"] = "Why should we trust a word you say?",
+["ta"] = 578694,
 },
 },
 ["Cirroll"] = {
@@ -19938,13 +22186,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 832242,
 },
 },
-["Icarius"] = {
-{
-["ta"] = 307623,
-["st"] = "I hope they were able to find a safe place to rest...",
-["la"] = "2200-5056-6355-Central Encampment",
-},
-},
 ["Cauldronbearer Blakor"] = {
 {
 ["mt"] = 5,
@@ -19953,11 +22194,23 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-2006-3914-Hissing Grotto",
 },
 },
-["Chen Stormstout"] = {
+["Veteran Flameguard"] = {
 {
-["la"] = "2022-5335-6105-Overflowing Rapids",
-["st"] = "May your journey be long, friend.",
-["ta"] = 312053,
+["la"] = "2151-7391-5576-Stormsunder Crater",
+["st"] = "We will consume this land...",
+["ta"] = 1960397,
+},
+},
+["Haleh"] = {
+{
+["la"] = "2025-6682-1191-Veiled Ossuary",
+["st"] = "And now they are reliving those final moments of their lives in an endless loop.",
+["ta"] = 950772,
+},
+{
+["la"] = "2024-3957-6330-Azure Archives",
+["st"] = "Let us just... make sure someone always accompanies Zeros to the Nexus.",
+["ta"] = 951343,
 },
 },
 ["Suspicious Explorer"] = {
@@ -19985,25 +22238,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-4793-8331-Dragonscale Basecamp",
 ["st"] = "I didn't consent to this research study.",
 ["ta"] = 1610673,
-},
-},
-["Veteran Flameguard"] = {
-{
-["la"] = "2151-7391-5576-Stormsunder Crater",
-["st"] = "We will consume this land...",
-["ta"] = 1960397,
-},
-},
-["Haleh"] = {
-{
-["la"] = "2025-6682-1191-Veiled Ossuary",
-["st"] = "And now they are reliving those final moments of their lives in an endless loop.",
-["ta"] = 950772,
-},
-{
-["la"] = "2024-3957-6330-Azure Archives",
-["st"] = "Let us just... make sure someone always accompanies Zeros to the Nexus.",
-["ta"] = 951343,
 },
 },
 ["Iridikron"] = {
@@ -20080,6 +22314,34 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1981433,
 },
 },
+["Infinite Infiltrator"] = {
+{
+["mt"] = 3,
+["ta"] = 398600,
+["st"] = "You shall not interfere with our infinite dawn!",
+["la"] = "2192---Locus of Eternity",
+},
+},
+["Spirit of the Kaldorei"] = {
+{
+["mt"] = 3,
+["ta"] = 583606,
+["st"] = "Amirdrassil must not fall.",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["ta"] = 583627,
+["st"] = "This tree will not fall!",
+["la"] = "2238---Heart of Amirdrassil",
+},
+{
+["mt"] = 3,
+["la"] = "2238---Heart of Amirdrassil",
+["st"] = "Our lives are sworn to Amirdrassil!",
+["ta"] = 909015,
+},
+},
 ["Injured Gelikyr Guard"] = {
 {
 ["ta"] = 13789200,
@@ -20109,6 +22371,123 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1685464,
 ["st"] = "Raszageth will purge this magic from Azeroth!",
 ["la"] = "2024-7259-3683-Vakthros Range",
+},
+},
+["Cenrrrn Cirrgl Mender"] = {
+{
+["mt"] = 2,
+["ta"] = 14475674,
+["st"] = "%s attempts to run away in fear!",
+["la"] = "2199-7412-6444-Tyrhold Reservoir",
+},
+},
+["Kortei"] = {
+{
+["mt"] = 3,
+["ta"] = 13206586,
+["st"] = "Thaelin, I would like tae report that the northeast pillar is restored and properly summoning elementals.",
+["la"] = "2133-4464-5699-Molten Overflow",
+},
+{
+["mt"] = 3,
+["ta"] = 13206608,
+["st"] = "Elemental harmony established with the northeast pillar and ready for you, Thaelin!",
+["la"] = "2133-4324-5676-Molten Overflow",
+},
+{
+["ta"] = 13206670,
+["st"] = "I will make sure every stone is in place, Thaelin.",
+["la"] = "2133-4492-5746-Molten Overflow",
+},
+{
+["mt"] = 3,
+["ta"] = 13206693,
+["st"] = "With all haste, Master Thaelin!",
+["la"] = "2133-4467-5742-Molten Overflow",
+},
+},
+["Ruby Drakonid"] = {
+{
+["ta"] = 12234045,
+["st"] = "May this brazier once more guide every peaceful denizen of Azeroth to these shores!",
+["la"] = "2022-7835-3181-Wild Coast",
+},
+},
+["Rusziona"] = {
+{
+["mt"] = 3,
+["ta"] = 227723,
+["st"] = "I don't like it, I don't like it, I don't like it...",
+["la"] = "2023-4266-4367-Ohn'ahran Plains",
+},
+{
+["mt"] = 3,
+["ta"] = 227734,
+["st"] = "Stay away you flat-footed terror!",
+["la"] = "2023-4252-4420-Primordial Vale",
+},
+{
+["mt"] = 3,
+["ta"] = 227763,
+["st"] = "Eep! Scary!",
+["la"] = "2023-4272-4521-Primordial Vale",
+},
+{
+["ta"] = 227767,
+["st"] = "Aaah! No more ducks!",
+["la"] = "2023-4272-4521-Primordial Vale",
+},
+{
+["ta"] = 227864,
+["st"] = "Don't follow me, okay?",
+["la"] = "2112-1134-5737-Little Scales Daycare",
+},
+{
+["ta"] = 227894,
+["st"] = "I hope this is a good spot...",
+["la"] = "2112-4004-5093-The Obsidian Enclave",
+},
+{
+["ta"] = 227922,
+["st"] = "Eek!",
+["la"] = "2112-3767-5044-The Obsidian Enclave",
+},
+{
+["ta"] = 227930,
+["st"] = "You found me! I need more practice...",
+["la"] = "2112-3589-5121-The Obsidian Enclave",
+},
+},
+["Infinite Watchkeeper"] = {
+{
+["mt"] = 3,
+["ta"] = 394905,
+["st"] = "Our vision shall come to pass!",
+["la"] = "2195---Infinite Conflux",
+},
+},
+["Dreambreaker Stonewarden"] = {
+{
+["la"] = "2200-4025-2084-Scorching Chasm",
+["st"] = "I'm loyal to Terro. And Terro was loyal to Vyranoth.",
+["ta"] = 833449,
+},
+{
+["la"] = "2200-3989-2156-Scorching Chasm",
+["st"] = "If Fyrakk turns the world to fire, where am I supposed to live?",
+["ta"] = 833502,
+},
+{
+["la"] = "2200-4024-2087-Scorching Chasm",
+["st"] = "Harming the Dream was a step too far.",
+["ta"] = 1713756,
+},
+},
+["Hemet Nesingwary Jr."] = {
+{
+["ta"] = 1686280,
+["st"] = "I missed on purpose!",
+["la"] = "2023-6731-3388-Ohn'ahran Plains",
 },
 },
 ["Fyrakk"] = {
@@ -20381,171 +22760,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 15874961,
 },
 },
-["Kortei"] = {
-{
-["mt"] = 3,
-["ta"] = 13206586,
-["st"] = "Thaelin, I would like tae report that the northeast pillar is restored and properly summoning elementals.",
-["la"] = "2133-4464-5699-Molten Overflow",
-},
-{
-["mt"] = 3,
-["ta"] = 13206608,
-["st"] = "Elemental harmony established with the northeast pillar and ready for you, Thaelin!",
-["la"] = "2133-4324-5676-Molten Overflow",
-},
-{
-["ta"] = 13206670,
-["st"] = "I will make sure every stone is in place, Thaelin.",
-["la"] = "2133-4492-5746-Molten Overflow",
-},
-{
-["mt"] = 3,
-["ta"] = 13206693,
-["st"] = "With all haste, Master Thaelin!",
-["la"] = "2133-4467-5742-Molten Overflow",
-},
-},
-["Infinite Infiltrator"] = {
-{
-["mt"] = 3,
-["ta"] = 398600,
-["st"] = "You shall not interfere with our infinite dawn!",
-["la"] = "2192---Locus of Eternity",
-},
-},
-["Rusziona"] = {
-{
-["mt"] = 3,
-["ta"] = 227723,
-["st"] = "I don't like it, I don't like it, I don't like it...",
-["la"] = "2023-4266-4367-Ohn'ahran Plains",
-},
-{
-["mt"] = 3,
-["ta"] = 227734,
-["st"] = "Stay away you flat-footed terror!",
-["la"] = "2023-4252-4420-Primordial Vale",
-},
-{
-["mt"] = 3,
-["ta"] = 227763,
-["st"] = "Eep! Scary!",
-["la"] = "2023-4272-4521-Primordial Vale",
-},
-{
-["ta"] = 227767,
-["st"] = "Aaah! No more ducks!",
-["la"] = "2023-4272-4521-Primordial Vale",
-},
-{
-["ta"] = 227864,
-["st"] = "Don't follow me, okay?",
-["la"] = "2112-1134-5737-Little Scales Daycare",
-},
-{
-["ta"] = 227894,
-["st"] = "I hope this is a good spot...",
-["la"] = "2112-4004-5093-The Obsidian Enclave",
-},
-{
-["ta"] = 227922,
-["st"] = "Eek!",
-["la"] = "2112-3767-5044-The Obsidian Enclave",
-},
-{
-["ta"] = 227930,
-["st"] = "You found me! I need more practice...",
-["la"] = "2112-3589-5121-The Obsidian Enclave",
-},
-},
-["Infinite Watchkeeper"] = {
-{
-["mt"] = 3,
-["ta"] = 394905,
-["st"] = "Our vision shall come to pass!",
-["la"] = "2195---Infinite Conflux",
-},
-},
-["Seed of Life"] = {
-{
-["mt"] = 5,
-["la"] = "2244---The Charred Arbor",
-["st"] = "|TInterface\\ICONS\\Ability_Xavius_DreamSimulacrum.BLP:20|t Expeling emerald magic, dousing |cFFFF0000|Hspell:417632|h[Burning Ground]|h|r!",
-["ta"] = 153581,
-},
-},
-["Hemet Nesingwary Jr."] = {
-{
-["ta"] = 1686280,
-["st"] = "I missed on purpose!",
-["la"] = "2023-6731-3388-Ohn'ahran Plains",
-},
-},
-["Spirit of the Kaldorei"] = {
-{
-["mt"] = 3,
-["ta"] = 583606,
-["st"] = "Amirdrassil must not fall.",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 583627,
-["st"] = "This tree will not fall!",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["la"] = "2238---Heart of Amirdrassil",
-["st"] = "Our lives are sworn to Amirdrassil!",
-["ta"] = 909015,
-},
-},
-["Cenrrrn Cirrgl Mender"] = {
-{
-["mt"] = 2,
-["ta"] = 14475674,
-["st"] = "%s attempts to run away in fear!",
-["la"] = "2199-7412-6444-Tyrhold Reservoir",
-},
-},
-["Sylvia Whisperbloom"] = {
-{
-["ta"] = 1986164,
-["st"] = "With your help, we will restore these lost seed lineages.",
-["la"] = "2200-5979-1690-Wildling Garden",
-},
-},
-["Lost Whelp"] = {
-{
-["la"] = "2234---The Blessed Boughs",
-["st"] = "I don't see any centaurs around here...",
-["ta"] = 906403,
-},
-{
-["ta"] = 1369249,
-["st"] = "This\" Ferak\" guy is done for when I find him!",
-["la"] = "2234---The Blessed Boughs",
-},
-{
-["ta"] = 1370710,
-["st"] = "This is fine. This is fine. This is fine...",
-["la"] = "2234---The Blessed Boughs",
-},
-{
-["ta"] = 14067018,
-["st"] = "This \"Ferak\" guy is done for when I find him!",
-["la"] = "2234---The Blessed Boughs",
-},
-},
-["Ruby Drakonid"] = {
-{
-["ta"] = 12234045,
-["st"] = "May this brazier once more guide every peaceful denizen of Azeroth to these shores!",
-["la"] = "2022-7835-3181-Wild Coast",
-},
-},
 ["Rira Hackclaw"] = {
 {
 ["ta"] = 12580445,
@@ -20580,6 +22794,36 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12667592,
 ["st"] = "Rip 'em apart!",
 ["la"] = "2096---Lost Kanniak",
+},
+},
+["Sylvia Whisperbloom"] = {
+{
+["ta"] = 1986164,
+["st"] = "With your help, we will restore these lost seed lineages.",
+["la"] = "2200-5979-1690-Wildling Garden",
+},
+},
+["Stormcaller Narkena"] = {
+{
+["mt"] = 5,
+["la"] = "2023-2419-5608-Lilac Ramble",
+["st"] = "%s is being empowered by the Dreamsurge!",
+["ta"] = 851020,
+},
+},
+["Igneous Stonemauler"] = {
+{
+["la"] = "2200-4008-2031-Scorching Chasm",
+["st"] = "Keep your hands off Lethka's prize!",
+["ta"] = 833394,
+},
+},
+["Seed of Life"] = {
+{
+["mt"] = 5,
+["la"] = "2244---The Charred Arbor",
+["st"] = "|TInterface\\ICONS\\Ability_Xavius_DreamSimulacrum.BLP:20|t Expeling emerald magic, dousing |cFFFF0000|Hspell:417632|h[Burning Ground]|h|r!",
+["ta"] = 153581,
 },
 },
 ["Recruiter Gearburns"] = {
@@ -20834,21 +23078,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10609374,
 },
 },
-["Dreambreaker Stonewarden"] = {
+["Zmac"] = {
 {
-["la"] = "2200-4025-2084-Scorching Chasm",
-["st"] = "I'm loyal to Terro. And Terro was loyal to Vyranoth.",
-["ta"] = 833449,
-},
-{
-["la"] = "2200-3989-2156-Scorching Chasm",
-["st"] = "If Fyrakk turns the world to fire, where am I supposed to live?",
-["ta"] = 833502,
-},
-{
-["la"] = "2200-4024-2087-Scorching Chasm",
-["st"] = "Harming the Dream was a step too far.",
-["ta"] = 1713756,
+["mt"] = 2,
+["ta"] = 13197631,
+["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
+["la"] = "2199-5746-6383-Tyrhold Reservoir",
 },
 },
 ["Moira Thaurissan"] = {
@@ -20873,11 +23108,78 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-2496-8100-Apex Canopy",
 },
 },
-["Faenina"] = {
+["Terros"] = {
 {
-["ta"] = 13787787,
-["st"] = "But will you look at the view!",
-["la"] = "2200-5471-4045-Haven Cascades",
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Crush!",
+["ta"] = 12676269,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "The mountain rises against you!",
+["ta"] = 12676274,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Fracture!",
+["ta"] = 12676285,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Bedrock cracks!",
+["ta"] = 12676295,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Splinter!",
+["ta"] = 12676303,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Earth bends to my will!",
+["ta"] = 12676317,
+},
+{
+["mt"] = 6,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "|TInterface\\ICONS\\Spell_Nature_Earthquake.blp:20|t Terros has targeted you with |cFFFF0000|Hspell:381253|h[Awakened Earth]|h|r!",
+["ta"] = 12676317,
+},
+{
+["mt"] = 5,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "|TInterface\\ICONS\\spell_Shaman_ImprovedFirenova.blp:20|t %s begins to cast |cFFFF0000|Hspell:377166|h[Resonating Annihilation]|h|r!",
+["ta"] = 12676359,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Break!",
+["ta"] = 12676361,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Ground shatters!",
+["ta"] = 12676392,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Fall!",
+["ta"] = 12676458,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "I... am... broken.",
+["ta"] = 12676521,
 },
 },
 ["Primalist Earthshaker"] = {
@@ -20904,12 +23206,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 177505,
 },
 },
-["Zmac"] = {
+["Romily"] = {
 {
 ["mt"] = 2,
-["ta"] = 13197631,
-["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
-["la"] = "2199-5746-6383-Tyrhold Reservoir",
+["ta"] = 13197733,
+["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
+["la"] = "2199-4120-4694-Tyrhold Reservoir",
 },
 },
 ["Clinkyclick Shatterboom"] = {
@@ -20937,126 +23239,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13804265,
 },
 },
-["Gnarlroot"] = {
+["Numernormi"] = {
 {
-["mt"] = 3,
-["ta"] = 320711,
-["st"] = "There is only darkness and pain!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320721,
-["st"] = "Destruction takes root!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320728,
-["st"] = "The inferno must bloom.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320733,
-["st"] = "Harvest of pain!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320744,
-["st"] = "Till the soil with blood.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320749,
-["st"] = "All life turns to dust.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320760,
-["st"] = "Char flesh!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320770,
-["st"] = "Torment spreads!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320782,
-["st"] = "The dark garden must feed.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320790,
-["st"] = "Reap the torment!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320802,
-["st"] = "Shadow and flame take root.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320810,
-["st"] = "My roots scorch the earth.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320825,
-["st"] = "Snapped!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320847,
-["st"] = "Cleave the rot, but more will grow!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 320922,
-["st"] = "Extinguished...",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["la"] = "2232---Wellspring Atrium",
-["st"] = "Broken!",
-["ta"] = 570048,
-},
-{
-["mt"] = 3,
-["ta"] = 581953,
-["st"] = "Flourish and feast!",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 6,
-["ta"] = 581963,
-["st"] = "|TInterface\\ICONS\\Spell_BurningSoul.blp:20|t You are targeted with |cFFFF0000|Hspell:421972|h[Controlled Burn]|h|r",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 1701191,
-["st"] = "Scorched.",
-["la"] = "2232---Wellspring Atrium",
-},
-{
-["mt"] = 3,
-["ta"] = 13884047,
-["st"] = "Endless agony!",
-["la"] = "2232---Wellspring Atrium",
+["mt"] = 2,
+["ta"] = 34369,
+["st"] = "Numernormi chuckles.",
+["la"] = "2112-5265-6210-Valdrakken",
 },
 },
 ["Robochop"] = {
@@ -21065,207 +23253,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1077524,
 ["st"] = "Robochop prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
 ["la"] = "2237---The Blessed Boughs",
-},
-},
-["Coulisa"] = {
-{
-["la"] = "2112-5925-1466-The Ruby Enclave",
-["st"] = "Welcome to The Ruby Feast! The food is scrumptious and dancing is encouraged!",
-["ta"] = 847394,
-},
-},
-["Flashfrost Earthshaper"] = {
-{
-["mt"] = 3,
-["la"] = "2095---Infusion Chambers",
-["st"] = "Reinforcements!",
-["ta"] = 481638,
-},
-},
-["Romily"] = {
-{
-["mt"] = 2,
-["ta"] = 13197733,
-["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
-["la"] = "2199-4120-4694-Tyrhold Reservoir",
-},
-},
-["Forge-Keep Custodian"] = {
-{
-["la"] = "2025-5865-5714-Tyrhold",
-["st"] = "Titans' wrath... find you...",
-["ta"] = 1958873,
-},
-{
-["ta"] = 12913140,
-["st"] = "Tyrhold... overrun...",
-["la"] = "2025-5865-6163-Tyrhold",
-},
-},
-["Gohfyrr"] = {
-{
-["la"] = "2112-3551-6139-The Artisan's Market",
-["st"] = "Sorry, we don't sell healing potions. I can sell you vials if you want to make your own healing potions?",
-["ta"] = 177478,
-},
-},
-["Buri"] = {
-{
-["la"] = "2200-3682-2584-Emerald Dream",
-["st"] = "Vyranoth? You have returned.",
-["ta"] = 833115,
-},
-{
-["la"] = "2200-3694-2610-Emerald Dream",
-["st"] = "I had not expected him to let us live.",
-["ta"] = 833125,
-},
-{
-["la"] = "2200-3820-2345-Scorching Chasm",
-["st"] = "He separated any of us he feared would be loyal to you early on.",
-["ta"] = 833386,
-},
-{
-["la"] = "2200-3357-3052-Field of Flames",
-["st"] = "There she is. You can get closer without me drawing their attention.",
-["ta"] = 833532,
-},
-{
-["la"] = "2200-3356-3023-Field of Flames",
-["st"] = "Vyranoth should be back by now.",
-["ta"] = 833943,
-},
-{
-["la"] = "2200-3311-2898-Field of Flames",
-["st"] = "Vyranoth pursued Lethka to Cinder Summit.",
-["ta"] = 833948,
-},
-{
-["la"] = "2200-3343-2893-Field of Flames",
-["st"] = "After we saw what she did to Terro...",
-["ta"] = 833952,
-},
-},
-["Akxall"] = {
-{
-["ta"] = 1176895,
-["st"] = "Blue whelps are full of magic and mischief. The best way to keep them still is to give them a good book.",
-["la"] = "2022-5939-7246-Ruby Lifeshrine",
-},
-},
-["Kaithius"] = {
-{
-["ta"] = 3730,
-["st"] = "Another!",
-["la"] = "2112-4717-4560-The Roasted Ram",
-},
-{
-["ta"] = 167979,
-["st"] = "Hey, Tithris. Where were you? You weren't working last night.",
-["la"] = "2112-4636-4632-The Roasted Ram",
-},
-{
-["ta"] = 167991,
-["st"] = "Well, will you be here tonight?",
-["la"] = "2112-4636-4632-The Roasted Ram",
-},
-{
-["la"] = "2112-4775-4841-The Roasted Ram",
-["st"] = "Looks like my drink's empty again.",
-["ta"] = 326698,
-},
-},
-["Little Duck"] = {
-{
-["mt"] = 3,
-["ta"] = 5884,
-["st"] = "Hey everyone! The gang's all here!",
-["la"] = "2022-3008-7304-Dragonbane Keep",
-},
-},
-["Headteacher Doragosa"] = {
-{
-["mt"] = 3,
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Welcome to Algeth'ar Academy! I am delighted that you received our invitation. The school is a touch behind schedule, but I have heard wondrous things about your capabilities. Perhaps you could help us?",
-["ta"] = 11982835,
-},
-{
-["mt"] = 3,
-["la"] = "2097---The Headteacher's Enclave",
-["st"] = "Oh dear. It seems that the parameters I wove into my out of office spell were a bit... extreme. Thank you for all your help in getting the school ready.",
-["ta"] = 11983945,
-},
-{
-["la"] = "2097---The Botanica",
-["st"] = "It appears some new students have trickled in after you. They seem interested in our sports field. Help them sort out clearing the place, it is in quite a state.",
-["ta"] = 12930909,
-},
-{
-["ta"] = 13027401,
-["st"] = "Hmmm, we have been gone for some time. The growth here... ah! The way should be clear, please head to my office and wait. I hear new students that require my personal attention.",
-["la"] = "2097---The Botanica",
-},
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Our history professor Maxdormu is almost ready for lessons. Do see if there is anything he needs assistance with.",
-["ta"] = 13105245,
-},
-},
-["Cenka"] = {
-{
-["la"] = "2133-5424-5650-Loamm",
-["st"] = "I'll try to follow your scent to safety!",
-["ta"] = 932124,
-},
-},
-["Primal Watercaller"] = {
-{
-["ta"] = 901401,
-["st"] = "We will never... stop coming...",
-["la"] = "2024-5675-7042-Imbu",
-},
-{
-["ta"] = 1884731,
-["st"] = "Join us, and we will spare the tuskarr!",
-["la"] = "2024-5695-6451-Imbu",
-},
-{
-["ta"] = 1884761,
-["st"] = "The waters... will obey...",
-["la"] = "2024-5692-6457-Imbu",
-},
-{
-["la"] = "2024-5782-6407-Imbu",
-["st"] = "Imbu will join us, or it will fall!",
-["ta"] = 1977100,
-},
-{
-["la"] = "2024-5781-6420-Imbu",
-["st"] = "How can you... still fight back...?",
-["ta"] = 1977113,
-},
-{
-["la"] = "2024-5831-6430-Imbu",
-["st"] = "Imbu's water spirits will bend to our will!",
-["ta"] = 1977141,
-},
-{
-["la"] = "2024-5803-6775-Imbu",
-["st"] = "Resistance... will not last...",
-["ta"] = 1977282,
-},
-},
-["Time-Lost Murloc"] = {
-{
-["ta"] = 1423762,
-["st"] = "Mrrrmgrl!",
-["la"] = "2025-5981-7821-Shifting Sands",
-},
-{
-["la"] = "2025-5962-7852-Shifting Sands",
-["st"] = "Rgll mgrgl... rgl...",
-["ta"] = 14121478,
 },
 },
 ["Larodar, Avatar of Ash"] = {
@@ -21324,6 +23311,124 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2244---The Charred Arbor",
 },
 },
+["Flashfrost Earthshaper"] = {
+{
+["mt"] = 3,
+["la"] = "2095---Infusion Chambers",
+["st"] = "Reinforcements!",
+["ta"] = 481638,
+},
+},
+["Akxall"] = {
+{
+["ta"] = 1176895,
+["st"] = "Blue whelps are full of magic and mischief. The best way to keep them still is to give them a good book.",
+["la"] = "2022-5939-7246-Ruby Lifeshrine",
+},
+},
+["Forge-Keep Custodian"] = {
+{
+["la"] = "2025-5865-5714-Tyrhold",
+["st"] = "Titans' wrath... find you...",
+["ta"] = 1958873,
+},
+{
+["ta"] = 12913140,
+["st"] = "Tyrhold... overrun...",
+["la"] = "2025-5865-6163-Tyrhold",
+},
+},
+["Dathea, Ascended"] = {
+{
+["la"] = "2121---The Primal Bulwark",
+["st"] = "I will not fail.",
+["ta"] = 12675352,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "Feel my fury!",
+["ta"] = 12675532,
+},
+{
+["mt"] = 5,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "|TInterface\\ICONS\\Spell_Shaman_StaticShock.blp:20|t Dathea targets players with |cFFFF0000|Hspell:391686|h[Conductive Mark]|h|r.",
+["ta"] = 12675537,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "Nothing can stand against my gale winds!",
+["ta"] = 12675540,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "Rushing gust!",
+["ta"] = 12675562,
+},
+{
+["mt"] = 5,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "|TInterface\\Icons\\CREATUREPORTRAIT_CYCLONE_NODEBRIS.BLP:20|tDathea prepares to whip up a violent |cFFFF0000|Hspell:376943|h[Cyclone]|h|r!",
+["ta"] = 12675579,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "You cannot outrun a cyclone!",
+["ta"] = 12675579,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "Winds buffet you!",
+["ta"] = 12675602,
+},
+{
+["mt"] = 6,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "|TInterface\\ICONS\\Spell_Shaman_StaticShock.blp:20|t You are targeted with |cFFFF0000|Hspell:391686|h[Conductive Mark]|h|r.",
+["ta"] = 12675605,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "Scatter like leaves in a hurricane!",
+["ta"] = 12675614,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "You were filth to be cleansed.",
+["ta"] = 12675643,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "There is no shelter from my storm!",
+["ta"] = 12675752,
+},
+{
+["mt"] = 3,
+["la"] = "2121---The Primal Bulwark",
+["st"] = "The storm... never... breaks...",
+["ta"] = 12675799,
+},
+},
+["Time-Lost Murloc"] = {
+{
+["ta"] = 1423762,
+["st"] = "Mrrrmgrl!",
+["la"] = "2025-5981-7821-Shifting Sands",
+},
+{
+["la"] = "2025-5962-7852-Shifting Sands",
+["st"] = "Rgll mgrgl... rgl...",
+["ta"] = 14121478,
+},
+},
 ["Jandra Thornbough"] = {
 {
 ["mt"] = 3,
@@ -21338,18 +23443,217 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-4495-5758-Molten Overflow",
 },
 },
-["Tserasor the Preserver"] = {
+["Kaithius"] = {
 {
-["la"] = "2023-6293-1862-Nelthazan Ruins",
-["st"] = "The shadowy whispers from below! I can't resist.",
-["ta"] = 10614349,
+["ta"] = 3730,
+["st"] = "Another!",
+["la"] = "2112-4717-4560-The Roasted Ram",
+},
+{
+["ta"] = 167979,
+["st"] = "Hey, Tithris. Where were you? You weren't working last night.",
+["la"] = "2112-4636-4632-The Roasted Ram",
+},
+{
+["ta"] = 167991,
+["st"] = "Well, will you be here tonight?",
+["la"] = "2112-4636-4632-The Roasted Ram",
+},
+{
+["la"] = "2112-4775-4841-The Roasted Ram",
+["st"] = "Looks like my drink's empty again.",
+["ta"] = 326698,
 },
 },
-["Ruby Dragonspawn"] = {
+["Coulisa"] = {
 {
-["ta"] = 12234033,
-["st"] = "Queen Alexstrasza is far more impressive than any statue you'll find in the Isles!",
-["la"] = "2022-7564-3420-Wingrest Embassy",
+["la"] = "2112-5925-1466-The Ruby Enclave",
+["st"] = "Welcome to The Ruby Feast! The food is scrumptious and dancing is encouraged!",
+["ta"] = 847394,
+},
+},
+["Headteacher Doragosa"] = {
+{
+["mt"] = 3,
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Welcome to Algeth'ar Academy! I am delighted that you received our invitation. The school is a touch behind schedule, but I have heard wondrous things about your capabilities. Perhaps you could help us?",
+["ta"] = 11982835,
+},
+{
+["mt"] = 3,
+["la"] = "2097---The Headteacher's Enclave",
+["st"] = "Oh dear. It seems that the parameters I wove into my out of office spell were a bit... extreme. Thank you for all your help in getting the school ready.",
+["ta"] = 11983945,
+},
+{
+["la"] = "2097---The Botanica",
+["st"] = "It appears some new students have trickled in after you. They seem interested in our sports field. Help them sort out clearing the place, it is in quite a state.",
+["ta"] = 12930909,
+},
+{
+["ta"] = 13027401,
+["st"] = "Hmmm, we have been gone for some time. The growth here... ah! The way should be clear, please head to my office and wait. I hear new students that require my personal attention.",
+["la"] = "2097---The Botanica",
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Our history professor Maxdormu is almost ready for lessons. Do see if there is anything he needs assistance with.",
+["ta"] = 13105245,
+},
+},
+["Onos"] = {
+{
+["la"] = "2024-1356-4837-Iskaara",
+["st"] = "Don't just stand there, Distorted.",
+["ta"] = 1785577,
+},
+{
+["la"] = "2024-1357-4858-Iskaara",
+["st"] = "Don't just stand there, Headcut.",
+["ta"] = 1785580,
+},
+{
+["la"] = "2024-1357-4853-Iskaara",
+["st"] = "Big Kinook! Where did you learn how to cook?",
+["ta"] = 1785584,
+},
+{
+["la"] = "2024-1358-4857-Iskaara",
+["st"] = "Speed up, Inorev!",
+["ta"] = 1785587,
+},
+{
+["la"] = "2024-1355-4826-Iskaara",
+["st"] = "Luxenna! Where did you learn how to cook?",
+["ta"] = 1785593,
+},
+{
+["la"] = "2024-1345-4808-Iskaara",
+["st"] = "Move faster, Stoobers!",
+["ta"] = 1785596,
+},
+{
+["la"] = "2024-1380-4853-Iskaara",
+["st"] = "Erugosa, I'm going to need you to cook better than that.",
+["ta"] = 1785600,
+},
+},
+["Primal Watercaller"] = {
+{
+["ta"] = 901401,
+["st"] = "We will never... stop coming...",
+["la"] = "2024-5675-7042-Imbu",
+},
+{
+["ta"] = 1884731,
+["st"] = "Join us, and we will spare the tuskarr!",
+["la"] = "2024-5695-6451-Imbu",
+},
+{
+["ta"] = 1884761,
+["st"] = "The waters... will obey...",
+["la"] = "2024-5692-6457-Imbu",
+},
+{
+["la"] = "2024-5782-6407-Imbu",
+["st"] = "Imbu will join us, or it will fall!",
+["ta"] = 1977100,
+},
+{
+["la"] = "2024-5781-6420-Imbu",
+["st"] = "How can you... still fight back...?",
+["ta"] = 1977113,
+},
+{
+["la"] = "2024-5831-6430-Imbu",
+["st"] = "Imbu's water spirits will bend to our will!",
+["ta"] = 1977141,
+},
+{
+["la"] = "2024-5803-6775-Imbu",
+["st"] = "Resistance... will not last...",
+["ta"] = 1977282,
+},
+},
+["Shandris Feathermoon"] = {
+{
+["ta"] = 33711,
+["st"] = "Headcut, may I have a word with you?",
+["la"] = "2112-4859-5426-Valdrakken",
+},
+{
+["la"] = "2112-4974-5375-Valdrakken",
+["st"] = "Benthos, may I have a word with you?",
+["ta"] = 10670254,
+},
+{
+["ta"] = 22339420,
+["st"] = "Father, we have so much to tell you...",
+["la"] = "2239-5194-6105-Bel'ameth",
+},
+},
+["Gohfyrr"] = {
+{
+["la"] = "2112-3551-6139-The Artisan's Market",
+["st"] = "Sorry, we don't sell healing potions. I can sell you vials if you want to make your own healing potions?",
+["ta"] = 177478,
+},
+},
+["Brackenhide Deadeye"] = {
+{
+["ta"] = 1246875,
+["st"] = "Me make you dead!",
+["la"] = "2024-1672-3821-Brackenhide Brambles",
+},
+{
+["ta"] = 1984422,
+["st"] = "Soon... all rot.",
+["la"] = "2024-1936-3600-Brackenhide Outskirts",
+},
+{
+["ta"] = 1984431,
+["st"] = "Your meat make good rot!",
+["la"] = "2024-1839-3587-Brackenhide Outskirts",
+},
+{
+["ta"] = 1984432,
+["st"] = "Me crunch your bones!",
+["la"] = "2024-1824-3591-Brackenhide Outskirts",
+},
+},
+["Sully \"The Pickle\" McLeary"] = {
+{
+["mt"] = 2,
+["la"] = "84-5141-7357-Mage Quarter",
+["st"] = "Sully sniffles.",
+["ta"] = 13348093,
+},
+{
+["la"] = "84-5059-7162-Stormwind City",
+["st"] = "Aye, maybe I'm not ready. It needs to be someone truly special to replace Socks.",
+["ta"] = 13348098,
+},
+{
+["ta"] = 22338996,
+["st"] = "Tawny, it's good tae see ye again. I was wondering... do ye have any pets?",
+["la"] = "84-5115-7187-Stormwind City",
+},
+{
+["ta"] = 22339006,
+["st"] = "Aye, it is, feels like it was yesterday, but... Socks would want me to move on.",
+["la"] = "84-5115-7187-Stormwind City",
+},
+{
+["ta"] = 22339017,
+["st"] = "Thank ye. Do yah have anyone tha's loyal, and brave, and wonderful, and soft, and willin' ta be the best friend a dwarf could have?",
+["la"] = "84-5169-7140-The Canals",
+},
+},
+["Ruby Searer"] = {
+{
+["ta"] = 12235472,
+["st"] = "... That doesn't look normal.",
+["la"] = "2022-7130-4153-The Waking Shores",
 },
 },
 ["Controller Bunny [DNT]"] = {
@@ -21480,278 +23784,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12677979,
 },
 },
-["Shandris Feathermoon"] = {
-{
-["ta"] = 33711,
-["st"] = "Headcut, may I have a word with you?",
-["la"] = "2112-4859-5426-Valdrakken",
-},
-{
-["la"] = "2112-4974-5375-Valdrakken",
-["st"] = "Benthos, may I have a word with you?",
-["ta"] = 10670254,
-},
-{
-["ta"] = 22339420,
-["st"] = "Father, we have so much to tell you...",
-["la"] = "2239-5194-6105-Bel'ameth",
-},
-},
-["Commander Thadezus"] = {
-{
-["ta"] = 14043577,
-["st"] = "I do not accept your apology, soldier.",
-["la"] = "2025-5332-6693-Gelikyr Overlook",
-},
-},
-["Rylacus"] = {
-{
-["mt"] = 2,
-["la"] = "2238---Heart of Amirdrassil",
-["st"] = "Rylacus has completed the Hoard of Draconic Delicacies. Enjoy!",
-["ta"] = 15875016,
-},
-},
-["Azure Hatchling"] = {
-{
-["ta"] = 1247293,
-["st"] = "I need a head start. I can't see very well!",
-["la"] = "2112-969-5678-Little Scales Daycare",
-},
-{
-["ta"] = 1247317,
-["st"] = "Did you know argali need help to get up if they lie down on their backs?",
-["la"] = "2112-1253-5569-Little Scales Daycare",
-},
-{
-["ta"] = 1247326,
-["st"] = "Frogs wear mucus as a protective layer! Don't touch them!",
-["la"] = "2112-1370-5695-Little Scales Daycare",
-},
-{
-["ta"] = 1247327,
-["st"] = "Shimmerwing wings are actually transparent!",
-["la"] = "2112-1370-5695-Little Scales Daycare",
-},
-{
-["ta"] = 1247332,
-["st"] = "You have to tell me if I'm gonna run into anything!",
-["la"] = "2112-1251-5730-Little Scales Daycare",
-},
-{
-["ta"] = 1247343,
-["st"] = "Wow, you're almost as loud as a bakar!",
-["la"] = "2112-1237-5688-Little Scales Daycare",
-},
-{
-["ta"] = 1247367,
-["st"] = "You didn't run into anything! You're amazing!",
-["la"] = "2112-1063-5834-Little Scales Daycare",
-},
-},
-["Heikuro"] = {
-{
-["mt"] = 3,
-["la"] = "2126---The Clutchwarren",
-["st"] = "Mrgl...",
-["ta"] = 12679170,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Men, women, and children... None were spared the master's wrath. Your death will be no different.",
-["ta"] = 13457434,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Fear... so exhilarating...",
-["ta"] = 13457765,
-},
-{
-["mt"] = 3,
-["ta"] = 14060154,
-["st"] = "The work must continue!",
-["la"] = "2244---The Charred Arbor",
-},
-{
-["mt"] = 3,
-["ta"] = 14060199,
-["st"] = "Don't make me kill you!",
-["la"] = "2244---The Charred Arbor",
-},
-{
-["mt"] = 3,
-["ta"] = 14060400,
-["st"] = "You brought this on yourselves!",
-["la"] = "2244---The Charred Arbor",
-},
-{
-["mt"] = 3,
-["la"] = "2125---Vault of the Incarnates",
-["st"] = "Don't look so smug! I know what you're thinking, but Tempest Keep was merely a setback. Did you honestly believe I would trust the future to some blind, half-night elf mongrel? Oh no, he was merely an instrument, a stepping stone to a much larger plan! It has all led to this... and this time you will not interfere!",
-["ta"] = 14493961,
-},
-{
-["mt"] = 3,
-["la"] = "2125---Vault of the Incarnates",
-["st"] = "Master, grant me strength.",
-["ta"] = 14493992,
-},
-{
-["mt"] = 3,
-["la"] = "2125---Vault of the Incarnates",
-["st"] = "My demise accomplishes nothing! The master will have you! You will drown in your own blood! The world shall burn! Aaaghh!",
-["ta"] = 14494087,
-},
-{
-["mt"] = 3,
-["la"] = "2125---Vault of the Incarnates",
-["st"] = "Do not get... too comfortable.",
-["ta"] = 14495113,
-},
-{
-["mt"] = 3,
-["ta"] = 16911410,
-["st"] = "I have better things to do...",
-["la"] = "2167---Onyx Laboratory",
-},
-{
-["mt"] = 3,
-["ta"] = 16911771,
-["st"] = "Enjoy your final moments.",
-["la"] = "2167---Onyx Laboratory",
-},
-{
-["mt"] = 3,
-["ta"] = 16912029,
-["st"] = "You are mine!",
-["la"] = "2167---Onyx Laboratory",
-},
-},
-["Ruby Searer"] = {
-{
-["ta"] = 12235472,
-["st"] = "... That doesn't look normal.",
-["la"] = "2022-7130-4153-The Waking Shores",
-},
-},
-["Dathea, Ascended"] = {
-{
-["la"] = "2121---The Primal Bulwark",
-["st"] = "I will not fail.",
-["ta"] = 12675352,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "Feel my fury!",
-["ta"] = 12675532,
-},
-{
-["mt"] = 5,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "|TInterface\\ICONS\\Spell_Shaman_StaticShock.blp:20|t Dathea targets players with |cFFFF0000|Hspell:391686|h[Conductive Mark]|h|r.",
-["ta"] = 12675537,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "Nothing can stand against my gale winds!",
-["ta"] = 12675540,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "Rushing gust!",
-["ta"] = 12675562,
-},
-{
-["mt"] = 5,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "|TInterface\\Icons\\CREATUREPORTRAIT_CYCLONE_NODEBRIS.BLP:20|tDathea prepares to whip up a violent |cFFFF0000|Hspell:376943|h[Cyclone]|h|r!",
-["ta"] = 12675579,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "You cannot outrun a cyclone!",
-["ta"] = 12675579,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "Winds buffet you!",
-["ta"] = 12675602,
-},
-{
-["mt"] = 6,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "|TInterface\\ICONS\\Spell_Shaman_StaticShock.blp:20|t You are targeted with |cFFFF0000|Hspell:391686|h[Conductive Mark]|h|r.",
-["ta"] = 12675605,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "Scatter like leaves in a hurricane!",
-["ta"] = 12675614,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "You were filth to be cleansed.",
-["ta"] = 12675643,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "There is no shelter from my storm!",
-["ta"] = 12675752,
-},
-{
-["mt"] = 3,
-["la"] = "2121---The Primal Bulwark",
-["st"] = "The storm... never... breaks...",
-["ta"] = 12675799,
-},
-},
-["Onos"] = {
-{
-["la"] = "2024-1356-4837-Iskaara",
-["st"] = "Don't just stand there, Distorted.",
-["ta"] = 1785577,
-},
-{
-["la"] = "2024-1357-4858-Iskaara",
-["st"] = "Don't just stand there, Headcut.",
-["ta"] = 1785580,
-},
-{
-["la"] = "2024-1357-4853-Iskaara",
-["st"] = "Big Kinook! Where did you learn how to cook?",
-["ta"] = 1785584,
-},
-{
-["la"] = "2024-1358-4857-Iskaara",
-["st"] = "Speed up, Inorev!",
-["ta"] = 1785587,
-},
-{
-["la"] = "2024-1355-4826-Iskaara",
-["st"] = "Luxenna! Where did you learn how to cook?",
-["ta"] = 1785593,
-},
-{
-["la"] = "2024-1345-4808-Iskaara",
-["st"] = "Move faster, Stoobers!",
-["ta"] = 1785596,
-},
-{
-["la"] = "2024-1380-4853-Iskaara",
-["st"] = "Erugosa, I'm going to need you to cook better than that.",
-["ta"] = 1785600,
-},
-},
 ["Alexstrasza the Life-Binder"] = {
 {
 ["ta"] = 3806,
@@ -21845,6 +23877,168 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-2894-5434-The Slagmire",
 },
 },
+["Commander Thadezus"] = {
+{
+["ta"] = 14043577,
+["st"] = "I do not accept your apology, soldier.",
+["la"] = "2025-5332-6693-Gelikyr Overlook",
+},
+},
+["Rylacus"] = {
+{
+["mt"] = 2,
+["la"] = "2238---Heart of Amirdrassil",
+["st"] = "Rylacus has completed the Hoard of Draconic Delicacies. Enjoy!",
+["ta"] = 15875016,
+},
+},
+["Clinteastwud"] = {
+{
+["mt"] = 2,
+["ta"] = 13879676,
+["st"] = "Clinteastwud warbles on their Seafarer's Slidewhistle.",
+["la"] = "2112-5061-5633-Valdrakken",
+},
+},
+["Heikuro"] = {
+{
+["mt"] = 3,
+["la"] = "2126---The Clutchwarren",
+["st"] = "Mrgl...",
+["ta"] = 12679170,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Men, women, and children... None were spared the master's wrath. Your death will be no different.",
+["ta"] = 13457434,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Fear... so exhilarating...",
+["ta"] = 13457765,
+},
+{
+["mt"] = 3,
+["ta"] = 14060154,
+["st"] = "The work must continue!",
+["la"] = "2244---The Charred Arbor",
+},
+{
+["mt"] = 3,
+["ta"] = 14060199,
+["st"] = "Don't make me kill you!",
+["la"] = "2244---The Charred Arbor",
+},
+{
+["mt"] = 3,
+["ta"] = 14060400,
+["st"] = "You brought this on yourselves!",
+["la"] = "2244---The Charred Arbor",
+},
+{
+["mt"] = 3,
+["la"] = "2125---Vault of the Incarnates",
+["st"] = "Don't look so smug! I know what you're thinking, but Tempest Keep was merely a setback. Did you honestly believe I would trust the future to some blind, half-night elf mongrel? Oh no, he was merely an instrument, a stepping stone to a much larger plan! It has all led to this... and this time you will not interfere!",
+["ta"] = 14493961,
+},
+{
+["mt"] = 3,
+["la"] = "2125---Vault of the Incarnates",
+["st"] = "Master, grant me strength.",
+["ta"] = 14493992,
+},
+{
+["mt"] = 3,
+["la"] = "2125---Vault of the Incarnates",
+["st"] = "My demise accomplishes nothing! The master will have you! You will drown in your own blood! The world shall burn! Aaaghh!",
+["ta"] = 14494087,
+},
+{
+["mt"] = 3,
+["la"] = "2125---Vault of the Incarnates",
+["st"] = "Do not get... too comfortable.",
+["ta"] = 14495113,
+},
+{
+["mt"] = 3,
+["ta"] = 16911410,
+["st"] = "I have better things to do...",
+["la"] = "2167---Onyx Laboratory",
+},
+{
+["mt"] = 3,
+["ta"] = 16911771,
+["st"] = "Enjoy your final moments.",
+["la"] = "2167---Onyx Laboratory",
+},
+{
+["mt"] = 3,
+["ta"] = 16912029,
+["st"] = "You are mine!",
+["la"] = "2167---Onyx Laboratory",
+},
+},
+["Ruby Dragonspawn"] = {
+{
+["ta"] = 12234033,
+["st"] = "Queen Alexstrasza is far more impressive than any statue you'll find in the Isles!",
+["la"] = "2022-7564-3420-Wingrest Embassy",
+},
+},
+["Elusive Feral Bakar"] = {
+{
+["mt"] = 2,
+["ta"] = 1801388,
+["st"] = "You hear a rustling nearby...",
+["la"] = "2023-7892-3728-Ohn'ahran Plains",
+},
+},
+["Cenka"] = {
+{
+["la"] = "2133-5424-5650-Loamm",
+["st"] = "I'll try to follow your scent to safety!",
+["ta"] = 932124,
+},
+},
+["Azure Hatchling"] = {
+{
+["ta"] = 1247293,
+["st"] = "I need a head start. I can't see very well!",
+["la"] = "2112-969-5678-Little Scales Daycare",
+},
+{
+["ta"] = 1247317,
+["st"] = "Did you know argali need help to get up if they lie down on their backs?",
+["la"] = "2112-1253-5569-Little Scales Daycare",
+},
+{
+["ta"] = 1247326,
+["st"] = "Frogs wear mucus as a protective layer! Don't touch them!",
+["la"] = "2112-1370-5695-Little Scales Daycare",
+},
+{
+["ta"] = 1247327,
+["st"] = "Shimmerwing wings are actually transparent!",
+["la"] = "2112-1370-5695-Little Scales Daycare",
+},
+{
+["ta"] = 1247332,
+["st"] = "You have to tell me if I'm gonna run into anything!",
+["la"] = "2112-1251-5730-Little Scales Daycare",
+},
+{
+["ta"] = 1247343,
+["st"] = "Wow, you're almost as loud as a bakar!",
+["la"] = "2112-1237-5688-Little Scales Daycare",
+},
+{
+["ta"] = 1247367,
+["st"] = "You didn't run into anything! You're amazing!",
+["la"] = "2112-1063-5834-Little Scales Daycare",
+},
+},
 ["Elder Cassaphine"] = {
 {
 ["ta"] = 307941,
@@ -21901,12 +24095,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-5052-5765-Valdrakken",
 },
 },
-["Clinteastwud"] = {
+["Reconstituted Magmental"] = {
 {
-["mt"] = 2,
-["ta"] = 13879676,
-["st"] = "Clinteastwud warbles on their Seafarer's Slidewhistle.",
-["la"] = "2112-5061-5633-Valdrakken",
+["mt"] = 3,
+["ta"] = 13206597,
+["st"] = "Who dares to control the elements?",
+["la"] = "2133-4298-5715-Molten Overflow",
 },
 },
 ["Reamdrassil"] = {
@@ -21982,12 +24176,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10614850,
 },
 },
-["Numernormi"] = {
+["Threadfinder Pax"] = {
 {
-["mt"] = 2,
-["ta"] = 34369,
-["st"] = "Numernormi chuckles.",
-["la"] = "2112-5265-6210-Valdrakken",
+["la"] = "2112-3166-6541-The Artisan's Market",
+["st"] = "Come on, Fula, you 'ol slyvern! I'm still waiting for that thread of yours!",
+["ta"] = 1711595,
 },
 },
 ["Quarry Earthshaper"] = {
@@ -22008,98 +24201,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14376162,
 ["st"] = "We have to get out of here!",
 ["la"] = "2122---Quarry of Infusion",
-},
-},
-["Reconstituted Magmental"] = {
-{
-["mt"] = 3,
-["ta"] = 13206597,
-["st"] = "Who dares to control the elements?",
-["la"] = "2133-4298-5715-Molten Overflow",
-},
-},
-["Mara"] = {
-{
-["la"] = "2199-2341-6435-Tyrhold Reservoir",
-["st"] = "Thank you void elf. Is all lost? Is Zuttiki...",
-["ta"] = 12841459,
-},
-{
-["la"] = "2199-2483-6385-Tyrhold Reservoir",
-["st"] = "This cannot be good. The Primalists would only attack for one reason!",
-["ta"] = 12841462,
-},
-{
-["la"] = "2199-2787-6219-Tyrhold Reservoir",
-["st"] = "We must make haste, void elf! We have to stop the Primalists!",
-["ta"] = 12841466,
-},
-{
-["la"] = "2025-4955-5888-Tyrhold Reservoir",
-["st"] = "Zuttiki. I am so sorry. The void elf found no survivors.",
-["ta"] = 12921884,
-},
-{
-["la"] = "2025-4966-5878-Tyrhold Reservoir",
-["st"] = "Failure would be if we all died. There are still some of us alive.",
-["ta"] = 12921891,
-},
-{
-["la"] = "2025-4969-5879-Tyrhold Reservoir",
-["st"] = "Zuttiki I did not mean it in that--",
-["ta"] = 12922218,
-},
-{
-["la"] = "2025-4964-5891-Tyrhold Reservoir",
-["st"] = "Zuttiki, I cannot explain it, but seeing you like this makes me feel strange.",
-["ta"] = 12922222,
-},
-},
-["Primal Nightflame"] = {
-{
-["mt"] = 3,
-["ta"] = 1602800,
-["st"] = "Arrogant djaradin filth! You are taking too long. Make haste or Fyrakk will render you unto ash.",
-["la"] = "2024-5689-3176-Suffusion Camp: Frostburn",
-},
-{
-["ta"] = 10602528,
-["st"] = "Impossible...",
-["la"] = "2023-7296-7160-Suffusion Camp: Cinderwind",
-},
-},
-["Qalashi Scaleripper"] = {
-{
-["ta"] = 1894102,
-["st"] = "This one's mine!",
-["la"] = "2022-2920-5878-Obsidian Citadel",
-},
-{
-["ta"] = 1894301,
-["st"] = "Others will... avenge me.",
-["la"] = "2022-2788-5870-Obsidian Citadel",
-},
-{
-["ta"] = 1894493,
-["st"] = "You're no challenge!",
-["la"] = "2022-2894-5896-Obsidian Citadel",
-},
-{
-["ta"] = 1894561,
-["st"] = "Good fight!",
-["la"] = "2022-2891-5863-Obsidian Citadel",
-},
-{
-["ta"] = 14045991,
-["st"] = "It is... not over.",
-["la"] = "2022-3216-5461-The Slagmire",
-},
-},
-["Suspicious Artisan"] = {
-{
-["la"] = "2022-4767-8322-Dragonscale Basecamp",
-["st"] = "Don't you have anything better to do?",
-["ta"] = 1610391,
 },
 },
 ["Soridormi"] = {
@@ -22184,34 +24285,68 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2199-7106-6765-Tyrhold Reservoir",
 },
 },
-["Crawth"] = {
+["Mara"] = {
 {
-["mt"] = 5,
-["la"] = "2098---The Pitch",
-["st"] = "Crawth is about to |TInterface\\ICONS\\Ability_Vehicle_SonicShockwave.blp:20|t|cFFFF0000|Hspell:377004|h[Deafening Screech]|h|r !",
-["ta"] = 11983272,
+["la"] = "2199-2341-6435-Tyrhold Reservoir",
+["st"] = "Thank you void elf. Is all lost? Is Zuttiki...",
+["ta"] = 12841459,
 },
 {
-["mt"] = 5,
-["la"] = "2098---The Pitch",
-["st"] = "The Pitch's goals have activated, |TInterface\\ICONS\\INV_Misc_ThrowingBall_01.blp:20|t|cFFFF0000|Hspell:377182|h[Play Ball!]|h|r",
-["ta"] = 11983353,
+["la"] = "2199-2483-6385-Tyrhold Reservoir",
+["st"] = "This cannot be good. The Primalists would only attack for one reason!",
+["ta"] = 12841462,
 },
-},
-["Rimecaller Raava"] = {
 {
-["mt"] = 2,
-["la"] = "2133-5604-5440-Loamm",
-["st"] = "The Primalists have begun summoning something massive in the Cascades Column!",
-["ta"] = 931954,
+["la"] = "2199-2787-6219-Tyrhold Reservoir",
+["st"] = "We must make haste, void elf! We have to stop the Primalists!",
+["ta"] = 12841466,
 },
-},
-["Maeleera"] = {
 {
-["mt"] = 5,
-["la"] = "2024-4411-3115-Cobalt Assembly",
-["st"] = "The Iceblade Trio has appeared!",
-["ta"] = 12844626,
+["la"] = "2025-4955-5888-Tyrhold Reservoir",
+["st"] = "Zuttiki. I am so sorry. The void elf found no survivors.",
+["ta"] = 12921884,
+},
+{
+["la"] = "2025-4966-5878-Tyrhold Reservoir",
+["st"] = "Failure would be if we all died. There are still some of us alive.",
+["ta"] = 12921891,
+},
+{
+["la"] = "2025-4969-5879-Tyrhold Reservoir",
+["st"] = "Zuttiki I did not mean it in that--",
+["ta"] = 12922218,
+},
+{
+["la"] = "2025-4964-5891-Tyrhold Reservoir",
+["st"] = "Zuttiki, I cannot explain it, but seeing you like this makes me feel strange.",
+["ta"] = 12922222,
+},
+},
+["Primal Nightflame"] = {
+{
+["mt"] = 3,
+["ta"] = 1602800,
+["st"] = "Arrogant djaradin filth! You are taking too long. Make haste or Fyrakk will render you unto ash.",
+["la"] = "2024-5689-3176-Suffusion Camp: Frostburn",
+},
+{
+["ta"] = 10602528,
+["st"] = "Impossible...",
+["la"] = "2023-7296-7160-Suffusion Camp: Cinderwind",
+},
+},
+["Primalist Chainmaster"] = {
+{
+["la"] = "2200-4135-3397-Skystone Falls",
+["st"] = "We will... retake... Azeroth...",
+["ta"] = 1615885,
+},
+},
+["Suspicious Artisan"] = {
+{
+["la"] = "2022-4767-8322-Dragonscale Basecamp",
+["st"] = "Don't you have anything better to do?",
+["ta"] = 1610391,
 },
 },
 ["Surge Widget"] = {
@@ -22240,11 +24375,38 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2200-5034-6218-Central Encampment",
 },
 },
-["Nokhud Spearthrower"] = {
+["Crawth"] = {
 {
-["la"] = "2023-5983-4136-Maruukai",
-["st"] = "I'm done with this useless fight.",
-["ta"] = 10609430,
+["mt"] = 5,
+["la"] = "2098---The Pitch",
+["st"] = "Crawth is about to |TInterface\\ICONS\\Ability_Vehicle_SonicShockwave.blp:20|t|cFFFF0000|Hspell:377004|h[Deafening Screech]|h|r !",
+["ta"] = 11983272,
+},
+{
+["mt"] = 5,
+["la"] = "2098---The Pitch",
+["st"] = "The Pitch's goals have activated, |TInterface\\ICONS\\INV_Misc_ThrowingBall_01.blp:20|t|cFFFF0000|Hspell:377182|h[Play Ball!]|h|r",
+["ta"] = 11983353,
+},
+},
+["Off-Duty Guard"] = {
+{
+["ta"] = 2038350,
+["st"] = "I don't care that we're under attack. Why does everything have to be so disorganized...",
+["la"] = "2025-5093-6712-Gelikyr Post",
+},
+{
+["ta"] = 2038357,
+["st"] = "Look at this, Smoht! There's just a pile of loose gold on the floor! We're Dragonkin, not slobs!!",
+["la"] = "2025-5125-6679-Gelikyr Post",
+},
+},
+["Maeleera"] = {
+{
+["mt"] = 5,
+["la"] = "2024-4411-3115-Cobalt Assembly",
+["st"] = "The Iceblade Trio has appeared!",
+["ta"] = 12844626,
 },
 },
 ["Riparium"] = {
@@ -23125,6 +25287,80 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2166---Molten Crucible",
 },
 },
+["Nokhud Spearthrower"] = {
+{
+["la"] = "2023-5983-4136-Maruukai",
+["st"] = "I'm done with this useless fight.",
+["ta"] = 10609430,
+},
+},
+["Professor Maxdormu"] = {
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Please excuse the mess! It has been quite some time since students have been here. I am just putting together my lesson plan.",
+["ta"] = 11982881,
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Ah! Here we are! Ahem--long ago, members of the blue dragonflight accidentally overloaded an arcane elemental and created a powerful construct named Vexamus that quickly started to wreak havoc!",
+["ta"] = 11982908,
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "The blue dragons battled Vexamus fiercely, attempting to prevent it from absorbing stray Arcane Orbs that could allow it to grow further out of control.",
+["ta"] = 11982983,
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Though Vexamus tried its best to defeat the dragons, it was ultimately destroyed. Well done!",
+["ta"] = 11983002,
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Since you did so well on your lesson, feel free to take something from the 'Good Students' Reward Chest.",
+["ta"] = 11983011,
+},
+{
+["mt"] = 3,
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "You should study harder.",
+["ta"] = 12589350,
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Vexamus began manifesting powerful Arcane Bombs in order to drive back the dragons.",
+["ta"] = 12589374,
+},
+{
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "As the dragons neared victory, Vexamus unleashed its full arcane power against them.",
+["ta"] = 12589392,
+},
+{
+["mt"] = 3,
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "That is not what it says in the book!",
+["ta"] = 12931867,
+},
+{
+["mt"] = 3,
+["ta"] = 13023173,
+["st"] = "Are you trying to rewrite history? No orbs!",
+["la"] = "2097---Algeth'ar Academy",
+},
+{
+["mt"] = 3,
+["ta"] = 13023690,
+["st"] = "The dragons absorbed the orbs! Not Vexamus.",
+["la"] = "2097---Algeth'ar Academy",
+},
+{
+["mt"] = 3,
+["ta"] = 13023941,
+["st"] = "Ahem! Vexamus did NOT absorb any arcane orbs.",
+["la"] = "2097---Algeth'ar Academy",
+},
+},
 ["Blood Horde Bomber"] = {
 {
 ["ta"] = 13197695,
@@ -23145,39 +25381,49 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2199-5266-7051-Tyrhold Reservoir",
 },
 },
+["Flynn Fairwind"] = {
+{
+["la"] = "84-5627-6938-The Canals",
+["st"] = "Hey, Wilder... I was wondering if you had any pets for adoption? Shaw has been overworked recently, and I wanted to get him something that would help him unwind.",
+["ta"] = 1850579,
+},
+{
+["la"] = "84-5061-7129-The Canals",
+["st"] = "Thanks, I'll have a look around.",
+["ta"] = 13254700,
+},
+{
+["la"] = "84-5061-7129-The Canals",
+["st"] = "Oh no, I can't say I was here. He's wanted a pet for ages, although he'll never admit it. I'm going to surprise him!",
+["ta"] = 13254706,
+},
+{
+["la"] = "84-5061-7129-The Canals",
+["st"] = "Hey, I've trained with SI:7! I can be sneaky!",
+["ta"] = 13254719,
+},
+{
+["ta"] = 23624979,
+["st"] = "I have a surprise for you later.",
+["la"] = "84-7881-6724-Stormwind City",
+},
+{
+["ta"] = 23624983,
+["st"] = "You can't... I was just there! How could you possibly know?",
+["la"] = "84-7881-6724-Stormwind City",
+},
+{
+["ta"] = 23624989,
+["st"] = "Spoilsport!",
+["la"] = "84-7881-6724-Stormwind City",
+},
+},
 ["Fortybelow"] = {
 {
 ["mt"] = 2,
 ["ta"] = 13285950,
 ["st"] = "Fortybelow prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
 ["la"] = "2166---Elder's Conduit",
-},
-},
-["Bound Spirit"] = {
-{
-["la"] = "2025-6501-1268-Veiled Ossuary",
-["st"] = "Such anger and hatred... what are these creatures?",
-["ta"] = 950566,
-},
-{
-["la"] = "2025-6173-1272-Veiled Ossuary",
-["st"] = "They're gathering arcane energy from the area!",
-["ta"] = 950604,
-},
-{
-["la"] = "2025-6181-1279-Veiled Ossuary",
-["st"] = "These strange creatures are trying to release something!",
-["ta"] = 950609,
-},
-{
-["la"] = "2025-5995-1500-Veiled Ossuary",
-["st"] = "They wanted my essence to fuel something!",
-["ta"] = 950691,
-},
-{
-["la"] = "2025-5995-1487-Veiled Ossuary",
-["st"] = "The creatures have no mind of their own!",
-["ta"] = 950697,
 },
 },
 ["Ray of Anguish"] = {
@@ -23270,83 +25516,30 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 23917285,
 },
 },
-["Embertooth Harvester"] = {
+["Oxdh"] = {
 {
-["ta"] = 901690,
-["st"] = "Gnaw your bones!",
-["la"] = "2025-5839-6734-Passage of Time",
-},
-{
-["ta"] = 901811,
-["st"] = "Tear you... Apart...",
-["la"] = "2025-5855-6732-Passage of Time",
-},
-},
-["Professor Maxdormu"] = {
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Please excuse the mess! It has been quite some time since students have been here. I am just putting together my lesson plan.",
-["ta"] = 11982881,
-},
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Ah! Here we are! Ahem--long ago, members of the blue dragonflight accidentally overloaded an arcane elemental and created a powerful construct named Vexamus that quickly started to wreak havoc!",
-["ta"] = 11982908,
-},
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "The blue dragons battled Vexamus fiercely, attempting to prevent it from absorbing stray Arcane Orbs that could allow it to grow further out of control.",
-["ta"] = 11982983,
-},
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Though Vexamus tried its best to defeat the dragons, it was ultimately destroyed. Well done!",
-["ta"] = 11983002,
-},
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Since you did so well on your lesson, feel free to take something from the 'Good Students' Reward Chest.",
-["ta"] = 11983011,
+["mt"] = 3,
+["ta"] = 1525184,
+["st"] = "You wish to test me?",
+["la"] = "2191---Millennia's Threshold",
 },
 {
 ["mt"] = 3,
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "You should study harder.",
-["ta"] = 12589350,
+["ta"] = 1525408,
+["st"] = "A glorious kill!",
+["la"] = "2194---Galakrond's Fall",
+},
+},
+["Boneshaper Jardak"] = {
+{
+["ta"] = 1894691,
+["st"] = "Yes, come here... I shall twist your bones into a fine souvenir.",
+["la"] = "2022-2790-5899-Obsidian Citadel",
 },
 {
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Vexamus began manifesting powerful Arcane Bombs in order to drive back the dragons.",
-["ta"] = 12589374,
-},
-{
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "As the dragons neared victory, Vexamus unleashed its full arcane power against them.",
-["ta"] = 12589392,
-},
-{
-["mt"] = 3,
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "That is not what it says in the book!",
-["ta"] = 12931867,
-},
-{
-["mt"] = 3,
-["ta"] = 13023173,
-["st"] = "Are you trying to rewrite history? No orbs!",
-["la"] = "2097---Algeth'ar Academy",
-},
-{
-["mt"] = 3,
-["ta"] = 13023690,
-["st"] = "The dragons absorbed the orbs! Not Vexamus.",
-["la"] = "2097---Algeth'ar Academy",
-},
-{
-["mt"] = 3,
-["ta"] = 13023941,
-["st"] = "Ahem! Vexamus did NOT absorb any arcane orbs.",
-["la"] = "2097---Algeth'ar Academy",
+["ta"] = 1894702,
+["st"] = "A fine trophy... I will... make.",
+["la"] = "2022-2807-5902-Obsidian Citadel",
 },
 },
 ["Captive Tuskarr"] = {
@@ -23391,30 +25584,33 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2096---Lost Kanniak",
 },
 },
-["Boneshaper Jardak"] = {
+["Bertinuat"] = {
 {
-["ta"] = 1894691,
-["st"] = "Yes, come here... I shall twist your bones into a fine souvenir.",
-["la"] = "2022-2790-5899-Obsidian Citadel",
+["la"] = "2024-1185-4832-Iskaara",
+["st"] = "Adventurer! Please help! Gnolls are holding our friends captive!",
+["ta"] = 835476,
 },
 {
-["ta"] = 1894702,
-["st"] = "A fine trophy... I will... make.",
-["la"] = "2022-2807-5902-Obsidian Citadel",
-},
-},
-["Oxdh"] = {
-{
-["mt"] = 3,
-["ta"] = 1525184,
-["st"] = "You wish to test me?",
-["la"] = "2191---Millennia's Threshold",
+["ta"] = 12579880,
+["st"] = "If you free our friends, we'll make sure they get home safely.",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["mt"] = 3,
-["ta"] = 1525408,
-["st"] = "A glorious kill!",
-["la"] = "2194---Galakrond's Fall",
+["ta"] = 12581157,
+["st"] = "Thank you for your aid--but we won't let you do this alone.",
+["la"] = "2096---The Rotwood",
+},
+{
+["ta"] = 12581173,
+["st"] = "I'm on it, friends!",
+["la"] = "2096---The Rotwood",
+},
+},
+["Goblin Shredder"] = {
+{
+["la"] = "2112-1149-6457-Little Scales Daycare",
+["st"] = "Smoke and saws!",
+["ta"] = 1080791,
 },
 },
 ["Turboris"] = {
@@ -23498,19 +25694,23 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12930923,
 },
 },
-["Goblin Shredder"] = {
+["Red Dragonflight Recruiter"] = {
 {
-["la"] = "2112-1149-6457-Little Scales Daycare",
-["st"] = "Smoke and saws!",
-["ta"] = 1080791,
+["la"] = "2097---The Quad",
+["st"] = "Greetings! Have you considered pledging the Red Dragonflight? Anyone who is anyone will be. We are kind of a big deal.",
+["ta"] = 12587392,
 },
 },
-["Alcanon"] = {
+["Zaqali Ironshield"] = {
 {
-["mt"] = 2,
-["la"] = "2133-5142-2586-Obsidian Rest",
-["st"] = "Alcanon toils to protect the deep secrets of the cavern.",
-["ta"] = 934077,
+["ta"] = 1715403,
+["st"] = "The djaradin... will... rise!",
+["la"] = "2200-5238-2872-Eye of Ysera",
+},
+{
+["ta"] = 1715590,
+["st"] = "I die... with honor!",
+["la"] = "2200-5635-2686-Eye of Ysera",
 },
 },
 ["Aberrus Observer"] = {
@@ -23521,16 +25721,24 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 933850,
 },
 },
-["Warlord Breka Grimaxe"] = {
+["Holyheaux"] = {
 {
-["ta"] = 12232020,
-["st"] = "Our orders were clear, Shuja. We have other threats to worry about.",
-["la"] = "2022-7635-3366-Wingrest Embassy",
+["mt"] = 3,
+["la"] = "2237---The Blessed Boughs",
+["st"] = "Foolishly you have sought your own demise, brazenly you have disregarded powers beyond your understanding. You have fought hard to invade the realm of the harvester, now there is only one way out- to walk the lonely path of the damned.",
+["ta"] = 1865951,
 },
 {
-["ta"] = 12234404,
-["st"] = "I fought alongside many honorable Alliance in the scourge invasions, Captain Garrick included.",
-["la"] = "2022-7655-3430-Wingrest Embassy",
+["mt"] = 3,
+["la"] = "2237---The Blessed Boughs",
+["st"] = "Death is the only escape!",
+["ta"] = 1865971,
+},
+{
+["mt"] = 3,
+["la"] = "2237---The Blessed Boughs",
+["st"] = "I have waited long enough. Now you face the harvester of souls.",
+["ta"] = 1865971,
 },
 },
 ["Forge-Keep Sentinel"] = {
@@ -23555,11 +25763,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5877-5752-Tyrhold",
 },
 },
-["Red Dragonflight Recruiter"] = {
+["MR-7 Shadowflipper"] = {
 {
-["la"] = "2097---The Quad",
-["st"] = "Greetings! Have you considered pledging the Red Dragonflight? Anyone who is anyone will be. We are kind of a big deal.",
-["ta"] = 12587392,
+["mt"] = 2,
+["ta"] = 14475732,
+["st"] = "%s attempts to run away in fear!",
+["la"] = "2199-4130-6979-Tyrhold Reservoir",
 },
 },
 ["Reclaimer Makko"] = {
@@ -23579,12 +25788,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-4416-6431-Szar Skeleth",
 },
 },
-["MR-7 Shadowflipper"] = {
+["Alcanon"] = {
 {
 ["mt"] = 2,
-["ta"] = 14475732,
-["st"] = "%s attempts to run away in fear!",
-["la"] = "2199-4130-6979-Tyrhold Reservoir",
+["la"] = "2133-5142-2586-Obsidian Rest",
+["st"] = "Alcanon toils to protect the deep secrets of the cavern.",
+["ta"] = 934077,
 },
 },
 ["Saran Khan"] = {
@@ -23604,12 +25813,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10610873,
 },
 },
-["Overgrown Ancient"] = {
+["Warlord Breka Grimaxe"] = {
 {
-["mt"] = 5,
-["la"] = "2097---The Botanica",
-["st"] = "|TInterface\\ICONS\\Spell_Nature_Earthquake.blp:20|t Dormant lashers begin to |cFFFF0000|Hspell:388923|h[Burst Forth]|h|r!",
-["ta"] = 12588146,
+["ta"] = 12232020,
+["st"] = "Our orders were clear, Shuja. We have other threats to worry about.",
+["la"] = "2022-7635-3366-Wingrest Embassy",
+},
+{
+["ta"] = 12234404,
+["st"] = "I fought alongside many honorable Alliance in the scourge invasions, Captain Garrick included.",
+["la"] = "2022-7655-3430-Wingrest Embassy",
 },
 },
 ["Haephesta"] = {
@@ -23743,70 +25956,45 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 738324,
 },
 },
-["Ysera"] = {
+["Expedition Engineer"] = {
 {
-["mt"] = 3,
-["ta"] = 395972,
-["st"] = "Your nightmare shall not be!",
-["la"] = "2194---Murozond's Rise",
+["la"] = "2022-8198-3146-Wild Coast",
+["st"] = "All good to go!",
+["ta"] = 25200574,
+},
+},
+["The Black Locus"] = {
+{
+["mt"] = 4,
+["la"] = "2023-6386-1645-Nelthazan Ruins",
+["st"] = "Hear me and obey.",
+["ta"] = 10613941,
 },
 {
-["mt"] = 3,
-["ta"] = 594413,
-["st"] = "Our dream is our hope!",
-["la"] = "2194---Murozond's Rise",
+["mt"] = 4,
+["la"] = "2023-6292-1862-Nelthazan Ruins",
+["st"] = "You are mine to command.",
+["ta"] = 10614395,
 },
 {
-["mt"] = 3,
-["ta"] = 594426,
-["st"] = "Thank you for your aid!",
-["la"] = "2194---Murozond's Rise",
+["mt"] = 4,
+["la"] = "2023-6165-1866-Nelthazan Ruins",
+["st"] = "Disobedience brings pain.",
+["ta"] = 10614545,
 },
 {
-["mt"] = 3,
-["ta"] = 594523,
-["st"] = "And dream of a better tomorrow!",
-["la"] = "2194---Murozond's Rise",
+["mt"] = 4,
+["la"] = "2023-6046-1860-Ohn'ahran Plains",
+["st"] = "Seek me below.",
+["ta"] = 10614658,
 },
-{
-["la"] = "2200-5020-6192-Central Encampment",
-["st"] = "The Eye of Ysera must not fall to fire. Merithra...",
-["ta"] = 834070,
 },
+["The Envoy's Tribute"] = {
 {
-["la"] = "2200-5263-2829-Eye of Ysera",
-["st"] = "It is not... working. Why does it reject me?",
-["ta"] = 1714626,
-},
-{
-["la"] = "2200-5271-2815-Eye of Ysera",
-["st"] = "The Eye is my problem to solve, dear daughter.",
-["ta"] = 1714645,
-},
-{
-["la"] = "2200-5276-2806-Eye of Ysera",
-["st"] = "Faithful Bodwin brings news. Follow him. Lead your flight.",
-["ta"] = 1714648,
-},
-{
-["ta"] = 1715188,
-["st"] = "You no longer need my counsel, daughter... But you are all correct--it is time to act.",
-["la"] = "2200-5287-2796-Eye of Ysera",
-},
-{
-["ta"] = 1715369,
-["st"] = "They are here.",
-["la"] = "2200-5273-2814-Eye of Ysera",
-},
-{
-["ta"] = 1715370,
-["st"] = "I am fine. Go. Our flight needs you.",
-["la"] = "2200-5266-2831-Eye of Ysera",
-},
-{
-["ta"] = 1715766,
-["st"] = "We will deal with them in time, Merithra. For now, we must meditate and consider our next course of action.",
-["la"] = "2200-5201-2947-Eye of Ysera",
+["mt"] = 2,
+["ta"] = 309320,
+["st"] = "An otherworldly chill settles over Shiversnap Grove, where Amirdrassil's roots run deep.",
+["la"] = "2200-5039-6242-Central Encampment",
 },
 },
 ["First Mate Jamboya"] = {
@@ -23829,6 +26017,18 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "85-5096-7993-Valley of Strength",
 ["st"] = "What? I mean yes, an alpaca, of course.",
 ["ta"] = 23918580,
+},
+},
+["Ruby Whelptender"] = {
+{
+["ta"] = 3809,
+["st"] = "Never underestimate the power of an appropriate snack.",
+["la"] = "2022-5567-6563-Ruby Life Pools",
+},
+{
+["ta"] = 3812,
+["st"] = "Sweets are enjoyable, but you never know when a dramatic sugar crash is around the corner.",
+["la"] = "2022-5548-6499-Ruby Life Pools",
 },
 },
 ["Agapanthus"] = {
@@ -23966,6 +26166,72 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-1328-5728-Little Scales Daycare",
 },
 },
+["Ysera"] = {
+{
+["mt"] = 3,
+["ta"] = 395972,
+["st"] = "Your nightmare shall not be!",
+["la"] = "2194---Murozond's Rise",
+},
+{
+["mt"] = 3,
+["ta"] = 594413,
+["st"] = "Our dream is our hope!",
+["la"] = "2194---Murozond's Rise",
+},
+{
+["mt"] = 3,
+["ta"] = 594426,
+["st"] = "Thank you for your aid!",
+["la"] = "2194---Murozond's Rise",
+},
+{
+["mt"] = 3,
+["ta"] = 594523,
+["st"] = "And dream of a better tomorrow!",
+["la"] = "2194---Murozond's Rise",
+},
+{
+["la"] = "2200-5020-6192-Central Encampment",
+["st"] = "The Eye of Ysera must not fall to fire. Merithra...",
+["ta"] = 834070,
+},
+{
+["la"] = "2200-5263-2829-Eye of Ysera",
+["st"] = "It is not... working. Why does it reject me?",
+["ta"] = 1714626,
+},
+{
+["la"] = "2200-5271-2815-Eye of Ysera",
+["st"] = "The Eye is my problem to solve, dear daughter.",
+["ta"] = 1714645,
+},
+{
+["la"] = "2200-5276-2806-Eye of Ysera",
+["st"] = "Faithful Bodwin brings news. Follow him. Lead your flight.",
+["ta"] = 1714648,
+},
+{
+["ta"] = 1715188,
+["st"] = "You no longer need my counsel, daughter... But you are all correct--it is time to act.",
+["la"] = "2200-5287-2796-Eye of Ysera",
+},
+{
+["ta"] = 1715369,
+["st"] = "They are here.",
+["la"] = "2200-5273-2814-Eye of Ysera",
+},
+{
+["ta"] = 1715370,
+["st"] = "I am fine. Go. Our flight needs you.",
+["la"] = "2200-5266-2831-Eye of Ysera",
+},
+{
+["ta"] = 1715766,
+["st"] = "We will deal with them in time, Merithra. For now, we must meditate and consider our next course of action.",
+["la"] = "2200-5201-2947-Eye of Ysera",
+},
+},
 ["Cataloger Coralie"] = {
 {
 ["ta"] = 5373,
@@ -24008,40 +26274,194 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 23897767,
 },
 },
-["Ruby Whelptender"] = {
-{
-["ta"] = 3809,
-["st"] = "Never underestimate the power of an appropriate snack.",
-["la"] = "2022-5567-6563-Ruby Life Pools",
-},
-{
-["ta"] = 3812,
-["st"] = "Sweets are enjoyable, but you never know when a dramatic sugar crash is around the corner.",
-["la"] = "2022-5548-6499-Ruby Life Pools",
-},
-},
-["Estuary"] = {
+["Grand Artificer Zeerak"] = {
 {
 ["mt"] = 5,
-["ta"] = 1163395,
-["st"] = "A wingshredder is aiming at you! Get on the ground or retreat!",
-["la"] = "2022-2717-7173-Dragonbane Keep",
+["ta"] = 1603366,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2024-5453-3381-Suffusion Camp: Frostburn",
+},
+{
+["la"] = "2024-4792-2355-Cobalt Assembly",
+["st"] = "Need... more arcana...",
+["ta"] = 12844171,
+},
+{
+["la"] = "2024-4829-2314-Cobalt Assembly",
+["st"] = "It all... will be ours...",
+["ta"] = 22422341,
 },
 },
-["The Envoy's Tribute"] = {
+["Tarasek Boarder"] = {
+{
+["mt"] = 6,
+["ta"] = 1603785,
+["st"] = "A tarasek boarder is attempting to dismount you! Knock it off by attacking it first!",
+["la"] = "2024-5621-3255-Suffusion Camp: Frostburn",
+},
+},
+["Drenicus"] = {
 {
 ["mt"] = 2,
-["ta"] = 309320,
-["st"] = "An otherworldly chill settles over Shiversnap Grove, where Amirdrassil's roots run deep.",
-["la"] = "2200-5039-6242-Central Encampment",
+["la"] = "2025-4814-5454-Tyrhold Reservoir",
+["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
+["ta"] = 13950125,
 },
 },
-["Fulgurb"] = {
+["Chronikar"] = {
+{
+["mt"] = 3,
+["ta"] = 398135,
+["st"] = "You only delay the inevitable! Murozond shall rise!",
+["la"] = "2190---Temporal Vestibule",
+},
+{
+["mt"] = 3,
+["ta"] = 398244,
+["st"] = "Here and no farther!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 398251,
+["st"] = "Time itself cannot stop me!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 398263,
+["st"] = "Reel from the shards of time!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 398281,
+["st"] = "You will not get past me!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 398287,
+["st"] = "Your lifespan is mine!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 398297,
+["st"] = "No! Murozond must rise...",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 6,
+["ta"] = 401117,
+["st"] = "|TInterface\\ICONS\\Spell_SandExplosion.blp:20|t You are targeted by a follow-up |cFFFF0000|Hspell:413142|h[Eon Shatter]|h|r!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 1424434,
+["st"] = "We hold the line!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 1424535,
+["st"] = "Your time is up!",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["ta"] = 1424535,
+["st"] = "This is fate, and it is infinite.",
+["la"] = "2190---Sanctum of Chronology",
+},
+{
+["mt"] = 3,
+["la"] = "2190---Sanctum of Chronology",
+["st"] = "You're out of time!",
+["ta"] = 14319683,
+},
+},
+["Malfurion Stormrage"] = {
+{
+["ta"] = 22339424,
+["st"] = "As I slumbered within Ardenweald, Ysera let me dream through her eyes. I saw the courage you showed defending Amirdrassil.",
+["la"] = "2239-5262-6036-Bel'ameth",
+},
+{
+["ta"] = 22339435,
+["st"] = "I am so proud of you both. And of all the heroes of Azeroth who joined together for this cause.",
+["la"] = "2239-5100-5951-Bel'ameth",
+},
+},
+["Eminent Earthshaper"] = {
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "The invaders are here! Work quickly!",
+["ta"] = 12676134,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Cowards! The elemental is almost to our plane!",
+["ta"] = 12676193,
+},
+{
+["mt"] = 3,
+["la"] = "2122---Quarry of Infusion",
+["st"] = "Be free...",
+["ta"] = 12676201,
+},
+},
+["Penumbrus"] = {
 {
 ["mt"] = 5,
-["la"] = "2023-7099-6004-Ohn'ahran Plains",
+["ta"] = 12233873,
 ["st"] = "%s is being empowered by the Dreamsurge!",
-["ta"] = 851326,
+["la"] = "2022-7678-3328-Wild Coast",
+},
+},
+["Worldbreaker Cultist"] = {
+{
+["ta"] = 164792,
+["st"] = "Neltharion guides me!",
+["la"] = "2022-3770-4751-Smoldering Perch",
+},
+{
+["ta"] = 164806,
+["st"] = "Accept the coming of the end!",
+["la"] = "2022-3767-4782-Smoldering Perch",
+},
+},
+["Rasnar the War Ender"] = {
+{
+["mt"] = 2,
+["ta"] = 10617302,
+["st"] = "A faint war horn announces the arrival of an unknown champion.",
+["la"] = "2022-2861-6043-Obsidian Citadel",
+},
+{
+["mt"] = 5,
+["la"] = "2022-7093-4073-The Waking Shores",
+["st"] = "%s is being empowered by the Dreamsurge!",
+["ta"] = 12236893,
+},
+},
+["General Hammond Clay"] = {
+{
+["mt"] = 3,
+["la"] = "84-5820-1465-Olivia's Pond",
+["st"] = "For their courage, we honor Pride-TheScryers as Lionguard, defender of Stormwind and all her people. Rise and Light bless you, Lion of Stormwind!",
+["ta"] = 49987,
+},
+},
+["Christoph Faral"] = {
+{
+["lg"] = 7,
+["la"] = "84-7630-5367-Pig and Whistle Tavern",
+["st"] = "Less than a hundred of us, and over a thousand orcs. Only a handful of us managed to walk away from that one.",
+["ta"] = 1542989,
 },
 },
 ["Pedgi"] = {
@@ -24145,226 +26565,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5495-8156-Eon's Fringe",
 },
 },
-["Tarasek Boarder"] = {
-{
-["mt"] = 6,
-["ta"] = 1603785,
-["st"] = "A tarasek boarder is attempting to dismount you! Knock it off by attacking it first!",
-["la"] = "2024-5621-3255-Suffusion Camp: Frostburn",
-},
-},
-["Drenicus"] = {
-{
-["mt"] = 2,
-["la"] = "2025-4814-5454-Tyrhold Reservoir",
-["st"] = "%s has constructed a Blood Horde gun rack! Lock and load!",
-["ta"] = 13950125,
-},
-},
-["Chronikar"] = {
-{
-["mt"] = 3,
-["ta"] = 398135,
-["st"] = "You only delay the inevitable! Murozond shall rise!",
-["la"] = "2190---Temporal Vestibule",
-},
-{
-["mt"] = 3,
-["ta"] = 398244,
-["st"] = "Here and no farther!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 398251,
-["st"] = "Time itself cannot stop me!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 398263,
-["st"] = "Reel from the shards of time!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 398281,
-["st"] = "You will not get past me!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 398287,
-["st"] = "Your lifespan is mine!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 398297,
-["st"] = "No! Murozond must rise...",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 6,
-["ta"] = 401117,
-["st"] = "|TInterface\\ICONS\\Spell_SandExplosion.blp:20|t You are targeted by a follow-up |cFFFF0000|Hspell:413142|h[Eon Shatter]|h|r!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 1424434,
-["st"] = "We hold the line!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 1424535,
-["st"] = "Your time is up!",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["ta"] = 1424535,
-["st"] = "This is fate, and it is infinite.",
-["la"] = "2190---Sanctum of Chronology",
-},
-{
-["mt"] = 3,
-["la"] = "2190---Sanctum of Chronology",
-["st"] = "You're out of time!",
-["ta"] = 14319683,
-},
-},
-["Maximillian of Northshire"] = {
-{
-["la"] = "84-5623-7490-The Canals",
-["st"] = "Greetings, Shopkeeper!",
-["ta"] = 31999,
-},
-{
-["la"] = "84-5514-7508-The Canals",
-["st"] = "No need! Now that I have my sword, I am complete and can continue about my day!",
-["ta"] = 1856689,
-},
-},
-["Eminent Earthshaper"] = {
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "The invaders are here! Work quickly!",
-["ta"] = 12676134,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Cowards! The elemental is almost to our plane!",
-["ta"] = 12676193,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Be free...",
-["ta"] = 12676201,
-},
-},
-["Ritual Disruption"] = {
-{
-["mt"] = 2,
-["ta"] = 13206004,
-["st"] = "A spawning swarm of magmaclaws begins to form, threatening the ecological balance of the caverns!",
-["la"] = "2133-4751-7350-Cascades Column",
-},
-},
-["Worldbreaker Cultist"] = {
-{
-["ta"] = 164792,
-["st"] = "Neltharion guides me!",
-["la"] = "2022-3770-4751-Smoldering Perch",
-},
-{
-["ta"] = 164806,
-["st"] = "Accept the coming of the end!",
-["la"] = "2022-3767-4782-Smoldering Perch",
-},
-},
-["Finduin Wryngrrlgulgll"] = {
-{
-["lg"] = 179,
-["ta"] = 13114434,
-["st"] = "Mrgl, gl grl mrgl grl grgrl grl mrgl  gl grgrl mrgl?",
-["la"] = "2025-5259-8047-Eon's Fringe",
-},
-{
-["mt"] = 2,
-["ta"] = 13114498,
-["st"] = "Finduin sighs as he lets out a mournful gurgle.",
-["la"] = "2025-5255-8047-Eon's Fringe",
-},
-{
-["mt"] = 2,
-["ta"] = 13114503,
-["st"] = "Finduin tilts his head in uncertainty as he mumbles something in nerglish.",
-["la"] = "2025-5260-8042-Eon's Fringe",
-},
-{
-["mt"] = 2,
-["ta"] = 14045058,
-["st"] = "Finduin shakes his head, wincing slightly.",
-["la"] = "2025-5259-8039-Eon's Fringe",
-},
-{
-["mt"] = 2,
-["ta"] = 14045068,
-["st"] = "Finduin lets out a worried gurgle as he backs away from the forge.",
-["la"] = "2025-5247-8051-The Chronosmith's Forge",
-},
-{
-["mt"] = 2,
-["ta"] = 14045072,
-["st"] = "Finduin gurgles in panic as his sword is carried away by the forge elementals.",
-["la"] = "2025-5251-8050-The Chronosmith's Forge",
-},
-{
-["mt"] = 2,
-["ta"] = 14045108,
-["st"] = "The High Tide King glances between Ironus and Riparium, babbling rapidly in nerglish.",
-["la"] = "2025-5241-8052-The Chronosmith's Forge",
-},
-{
-["lg"] = 179,
-["ta"] = 14045175,
-["st"] = "Gl mmml!  grl mrgllll gl !",
-["la"] = "2025-5225-8067-The Chronosmith's Forge",
-},
-},
-["General Hammond Clay"] = {
-{
-["mt"] = 3,
-["la"] = "84-5820-1465-Olivia's Pond",
-["st"] = "For their courage, we honor Pride-TheScryers as Lionguard, defender of Stormwind and all her people. Rise and Light bless you, Lion of Stormwind!",
-["ta"] = 49987,
-},
-},
-["Penumbrus"] = {
-{
-["mt"] = 5,
-["ta"] = 12233873,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2022-7678-3328-Wild Coast",
-},
-},
-["Malfurion Stormrage"] = {
-{
-["ta"] = 22339424,
-["st"] = "As I slumbered within Ardenweald, Ysera let me dream through her eyes. I saw the courage you showed defending Amirdrassil.",
-["la"] = "2239-5262-6036-Bel'ameth",
-},
-{
-["ta"] = 22339435,
-["st"] = "I am so proud of you both. And of all the heroes of Azeroth who joined together for this cause.",
-["la"] = "2239-5100-5951-Bel'ameth",
-},
-},
 ["Karantun"] = {
 {
 ["mt"] = 5,
@@ -24436,33 +26636,69 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 934445,
 },
 },
-["Christoph Faral"] = {
-{
-["lg"] = 7,
-["la"] = "84-7630-5367-Pig and Whistle Tavern",
-["st"] = "Less than a hundred of us, and over a thousand orcs. Only a handful of us managed to walk away from that one.",
-["ta"] = 1542989,
-},
-},
-["Q'onzu"] = {
-{
-["ta"] = 307898,
-["st"] = "Now why would I want to stop the Dream from changing? I think I will wait and see what happens. Try not to die, mortal.",
-["la"] = "2200-6569-7008-Fields of Reverie",
-},
-},
-["Rasnar the War Ender"] = {
+["Ritual Disruption"] = {
 {
 ["mt"] = 2,
-["ta"] = 10617302,
-["st"] = "A faint war horn announces the arrival of an unknown champion.",
-["la"] = "2022-2861-6043-Obsidian Citadel",
+["ta"] = 13206004,
+["st"] = "A spawning swarm of magmaclaws begins to form, threatening the ecological balance of the caverns!",
+["la"] = "2133-4751-7350-Cascades Column",
+},
+},
+["Qalashi Ironskin"] = {
+{
+["ta"] = 4850,
+["st"] = "Good fight!",
+["la"] = "2022-3685-6004-Burning Ascent",
+},
+},
+["Finduin Wryngrrlgulgll"] = {
+{
+["lg"] = 179,
+["ta"] = 13114434,
+["st"] = "Mrgl, gl grl mrgl grl grgrl grl mrgl  gl grgrl mrgl?",
+["la"] = "2025-5259-8047-Eon's Fringe",
 },
 {
-["mt"] = 5,
-["la"] = "2022-7093-4073-The Waking Shores",
-["st"] = "%s is being empowered by the Dreamsurge!",
-["ta"] = 12236893,
+["mt"] = 2,
+["ta"] = 13114498,
+["st"] = "Finduin sighs as he lets out a mournful gurgle.",
+["la"] = "2025-5255-8047-Eon's Fringe",
+},
+{
+["mt"] = 2,
+["ta"] = 13114503,
+["st"] = "Finduin tilts his head in uncertainty as he mumbles something in nerglish.",
+["la"] = "2025-5260-8042-Eon's Fringe",
+},
+{
+["mt"] = 2,
+["ta"] = 14045058,
+["st"] = "Finduin shakes his head, wincing slightly.",
+["la"] = "2025-5259-8039-Eon's Fringe",
+},
+{
+["mt"] = 2,
+["ta"] = 14045068,
+["st"] = "Finduin lets out a worried gurgle as he backs away from the forge.",
+["la"] = "2025-5247-8051-The Chronosmith's Forge",
+},
+{
+["mt"] = 2,
+["ta"] = 14045072,
+["st"] = "Finduin gurgles in panic as his sword is carried away by the forge elementals.",
+["la"] = "2025-5251-8050-The Chronosmith's Forge",
+},
+{
+["mt"] = 2,
+["ta"] = 14045108,
+["st"] = "The High Tide King glances between Ironus and Riparium, babbling rapidly in nerglish.",
+["la"] = "2025-5241-8052-The Chronosmith's Forge",
+},
+{
+["lg"] = 179,
+["ta"] = 14045175,
+["st"] = "Gl mmml!  grl mrgllll gl !",
+["la"] = "2025-5225-8067-The Chronosmith's Forge",
 },
 },
 ["O'nank Shorescour"] = {
@@ -24480,28 +26716,28 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10609406,
 },
 },
-["Beastmaster Nuqut"] = {
+["Emerald Whelptender"] = {
 {
-["ta"] = 10600433,
-["st"] = "Hmmm, no. I'm afraid my hooves no longer take me to Maruukai, but my beasts of burden are vital to the caravan. I shall ready my musken to pull the wagons.",
-["la"] = "2023-8392-2594-Timberstep Outpost",
-},
-},
-["Smoldering Enforcer"] = {
-{
-["la"] = "2200-3640-4769-The Smoldering Copse",
-["st"] = "We will bring forth the new Firelord!",
-["ta"] = 831624,
+["ta"] = 4088,
+["st"] = "Spending time in the Dream is important to their growth, but green whelps ought not stay there too long.",
+["la"] = "2022-5672-6414-Ruby Life Pools",
 },
 {
-["la"] = "2200-3663-4941-The Smoldering Copse",
-["st"] = "The Prophet has opened my eyes!",
-["ta"] = 832142,
+["ta"] = 4094,
+["st"] = "Being part of the waking world is sometimes hard for whelps. We must be their encouraging guides.",
+["la"] = "2022-5509-6365-Ruby Life Pools",
+},
+},
+["Blood Horde Shaman"] = {
+{
+["ta"] = 13197712,
+["st"] = "Spirits... avenge me...",
+["la"] = "2199-3388-4816-Tyrhold Reservoir",
 },
 {
-["la"] = "2200-3459-4688-Emerald Dream",
-["st"] = "The Prophet promised... eternal life.",
-["ta"] = 832528,
+["ta"] = 13197803,
+["st"] = "We... won...",
+["la"] = "2199-6616-6976-Tyrhold Reservoir",
 },
 },
 ["Mother Elion"] = {
@@ -24524,16 +26760,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-4558-8163-Glimmerogg",
 },
 },
-["Emerald Whelptender"] = {
+["Overloading Defense Matrix"] = {
 {
-["ta"] = 4088,
-["st"] = "Spending time in the Dream is important to their growth, but green whelps ought not stay there too long.",
-["la"] = "2022-5672-6414-Ruby Life Pools",
-},
-{
-["ta"] = 4094,
-["st"] = "Being part of the waking world is sometimes hard for whelps. We must be their encouraging guides.",
-["la"] = "2022-5509-6365-Ruby Life Pools",
+["mt"] = 2,
+["ta"] = 12913855,
+["st"] = "%s alerts nearby allies of your presence.",
+["la"] = "2025-5991-6218-Tyrhold",
 },
 },
 ["Elder Odgerel"] = {
@@ -24548,21 +26780,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 10610881,
 },
 },
-["Guard Hakota"] = {
+["Beastmaster Nuqut"] = {
 {
-["ta"] = 165276,
-["st"] = "Halt, outsider!",
-["la"] = "2022-5489-3808-Uktulut Backwater",
-},
-{
-["ta"] = 165279,
-["st"] = "State your purpose before we skewer you for this intrusion.",
-["la"] = "2022-5501-3816-Uktulut Backwater",
-},
-{
-["ta"] = 165290,
-["st"] = "The closer the djaradin push towards us, the more the river dries up. If my guards can't keep them away, we'll run out of food soon.",
-["la"] = "2022-5520-3829-Uktulut Backwater",
+["ta"] = 10600433,
+["st"] = "Hmmm, no. I'm afraid my hooves no longer take me to Maruukai, but my beasts of burden are vital to the caravan. I shall ready my musken to pull the wagons.",
+["la"] = "2023-8392-2594-Timberstep Outpost",
 },
 },
 ["Elder Clearwater"] = {
@@ -24572,42 +26794,35 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 23897737,
 },
 },
-["Blood Horde Shaman"] = {
-{
-["ta"] = 13197712,
-["st"] = "Spirits... avenge me...",
-["la"] = "2199-3388-4816-Tyrhold Reservoir",
-},
-{
-["ta"] = 13197803,
-["st"] = "We... won...",
-["la"] = "2199-6616-6976-Tyrhold Reservoir",
-},
-},
-["Overloading Defense Matrix"] = {
-{
-["mt"] = 2,
-["ta"] = 12913855,
-["st"] = "%s alerts nearby allies of your presence.",
-["la"] = "2025-5991-6218-Tyrhold",
-},
-},
-["Grand Artificer Zeerak"] = {
+["Sennarth"] = {
 {
 ["mt"] = 5,
-["ta"] = 1603366,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2024-5453-3381-Suffusion Camp: Frostburn",
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "|TInterface\\ICONS\\Priest_icon_Chakra.blp:20|t %s begins to charge a |cFFFF0000|Hspell:373405|h[Gossamer Burst]|h|r!",
+["ta"] = 12676926,
 },
 {
-["la"] = "2024-4792-2355-Cobalt Assembly",
-["st"] = "Need... more arcana...",
-["ta"] = 12844171,
+["mt"] = 5,
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "|TInterface\\ICONS\\INV_MineSpider2_Crystal.blp:20|t %s begins to ascend!",
+["ta"] = 12676936,
+},
+},
+["Smoldering Enforcer"] = {
+{
+["la"] = "2200-3640-4769-The Smoldering Copse",
+["st"] = "We will bring forth the new Firelord!",
+["ta"] = 831624,
 },
 {
-["la"] = "2024-4829-2314-Cobalt Assembly",
-["st"] = "It all... will be ours...",
-["ta"] = 22422341,
+["la"] = "2200-3663-4941-The Smoldering Copse",
+["st"] = "The Prophet has opened my eyes!",
+["ta"] = 832142,
+},
+{
+["la"] = "2200-3459-4688-Emerald Dream",
+["st"] = "The Prophet promised... eternal life.",
+["ta"] = 832528,
 },
 },
 ["Brutal Motivator"] = {
@@ -24662,18 +26877,24 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12844621,
 },
 },
-["Sennarth"] = {
+["Lucianblanc"] = {
 {
-["mt"] = 5,
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "|TInterface\\ICONS\\Priest_icon_Chakra.blp:20|t %s begins to charge a |cFFFF0000|Hspell:373405|h[Gossamer Burst]|h|r!",
-["ta"] = 12676926,
+["mt"] = 2,
+["ta"] = 13197797,
+["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
+["la"] = "2199-6627-6990-Tyrhold Reservoir",
+},
+},
+["Ittu"] = {
+{
+["la"] = "2024-1251-4930-The Filled Bowl",
+["st"] = "That one's my favorite! Tell it again!",
+["ta"] = 1787462,
 },
 {
-["mt"] = 5,
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "|TInterface\\ICONS\\INV_MineSpider2_Crystal.blp:20|t %s begins to ascend!",
-["ta"] = 12676936,
+["la"] = "2024-1251-4930-The Filled Bowl",
+["st"] = "Another one!",
+["ta"] = 1787468,
 },
 },
 ["Nymue"] = {
@@ -24840,19 +27061,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1703044,
 },
 },
-["Lucianblanc"] = {
+["Zahkrana"] = {
 {
-["mt"] = 2,
-["ta"] = 13197797,
-["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
-["la"] = "2199-6627-6990-Tyrhold Reservoir",
-},
-},
-["Tale-Teller Talpi"] = {
-{
-["la"] = "2133-5775-5337-Loamm",
-["st"] = "Please, save the others!",
-["ta"] = 932150,
+["ta"] = 1528883,
+["st"] = "Sleep is important to all whelps, but none more than green. Make sure they get plenty of rest.",
+["la"] = "2022-6277-7036-Ruby Lifeshrine",
 },
 },
 ["Warlord Kagni"] = {
@@ -24929,12 +27142,19 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13280584,
 },
 },
-["Karokta"] = {
+["Tale-Teller Talpi"] = {
+{
+["la"] = "2133-5775-5337-Loamm",
+["st"] = "Please, save the others!",
+["ta"] = 932150,
+},
+},
+["Emberdusk"] = {
 {
 ["mt"] = 2,
-["ta"] = 836939,
-["st"] = "A flash of teeth and wings darts across the cavern ceiling.",
-["la"] = "2133-5822-4959-Shimmering Towers",
+["la"] = "2133-4306-3330-Battlefield Ruins",
+["st"] = "Emberdusk's plumage burns with dark flames.",
+["ta"] = 933066,
 },
 },
 ["Hemet Nesingwary"] = {
@@ -24949,12 +27169,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-1331-4828-Iskaara",
 },
 },
-["Emberdusk"] = {
+["Karokta"] = {
 {
 ["mt"] = 2,
-["la"] = "2133-4306-3330-Battlefield Ruins",
-["st"] = "Emberdusk's plumage burns with dark flames.",
-["ta"] = 933066,
+["ta"] = 836939,
+["st"] = "A flash of teeth and wings darts across the cavern ceiling.",
+["la"] = "2133-5822-4959-Shimmering Towers",
 },
 },
 ["Gondola"] = {
@@ -24965,13 +27185,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1806962,
 },
 },
-["Zahkrana"] = {
-{
-["ta"] = 1528883,
-["st"] = "Sleep is important to all whelps, but none more than green. Make sure they get plenty of rest.",
-["la"] = "2022-6277-7036-Ruby Lifeshrine",
-},
-},
 ["Elusive Thunder Lizard"] = {
 {
 ["mt"] = 2,
@@ -24980,228 +27193,31 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-7890-3725-Ohn'ahran Plains",
 },
 },
-["Hunter Narman"] = {
+["Kirygosa"] = {
 {
-["la"] = "2023-5671-3883-Ohn'ahran Plains",
-["st"] = "Great Khan! I come before you for your blessing in seeking the hand of your grandson.",
-["ta"] = 10610858,
+["la"] = "2024-3927-6381-Azure Archives",
+["st"] = "Dearest Kalec. It was neverending, getting to know grief.",
+["ta"] = 951431,
 },
 {
-["la"] = "2023-5651-3922-Ohn'ahran Plains",
-["st"] = "I am among the mightiest of Shikaar hunters of the current day. I can hit the eye of a bruffalon from 60 paces. I am faster than--",
-["ta"] = 10610862,
+["la"] = "2024-3896-6422-Azure Archives",
+["st"] = "It was deeper than the oceans of Azeroth, more twisted than the sands of time, darker than the void...",
+["ta"] = 951438,
 },
 {
-["la"] = "2023-5665-3876-Ohn'ahran Plains",
-["st"] = "It is.",
-["ta"] = 10610872,
+["la"] = "2024-3937-6224-Azure Archives",
+["st"] = "Stranglethorn was a welcome distraction. Here, however, rekindled a hope I thought lost.",
+["ta"] = 951448,
 },
 {
-["la"] = "2023-6361-4042-Maruukai",
-["st"] = "Already? Then I must hurry! Meet us there when you are able.",
-["ta"] = 10614789,
+["la"] = "2024-4013-6233-Azure Archives",
+["st"] = "If grief decides to visit Dawn's Blossom, I will meet it with my life.",
+["ta"] = 951458,
 },
 {
-["la"] = "2023-4662-6044-Ohn'ahran Plains",
-["st"] = "Dawa! I must ask-",
-["ta"] = 10614821,
-},
-{
-["mt"] = 2,
-["la"] = "2023-4678-6046-Ohn'ahran Plains",
-["st"] = "Narman erupts in laughter.",
-["ta"] = 10614826,
-},
-{
-["la"] = "2023-4647-6058-Ohn'ahran Plains",
-["st"] = "We did. Want to get married?",
-["ta"] = 10614828,
-},
-{
-["la"] = "2023-4665-6055-Ohn'ahran Plains",
-["st"] = "And I, you. More than anything.",
-["ta"] = 10614831,
-},
-{
-["la"] = "2023-4672-6043-Ohn'ahran Plains",
-["st"] = "Yes! We must tell our clans!",
-["ta"] = 10614856,
-},
-},
-["Mykellqtea"] = {
-{
-["mt"] = 3,
-["ta"] = 587118,
-["st"] = "Rook... needs help!",
-["la"] = "2244---The Charred Arbor",
-},
-{
-["mt"] = 3,
-["ta"] = 587282,
-["st"] = "Rook fight!",
-["la"] = "2244---The Charred Arbor",
-},
-{
-["mt"] = 3,
-["ta"] = 588111,
-["st"] = "Brawl... with Rook.",
-["la"] = "2240---Sylvan Conservatory",
-},
-{
-["mt"] = 3,
-["ta"] = 1525183,
-["st"] = "Bleed for the Grand Magistrix!",
-["la"] = "2191---Millennia's Threshold",
-},
-{
-["mt"] = 3,
-["ta"] = 1525196,
-["st"] = "The wind slices to the bone!",
-["la"] = "2191---Millennia's Threshold",
-},
-{
-["mt"] = 3,
-["ta"] = 1525449,
-["st"] = "Death by a thousand cuts!",
-["la"] = "2194---Galakrond's Fall",
-},
-{
-["mt"] = 3,
-["ta"] = 1525736,
-["st"] = "If you blink... you bleed!",
-["la"] = "2194---Iridikron's Precipice",
-},
-{
-["mt"] = 3,
-["ta"] = 1525740,
-["st"] = "Elisande... forgive me!",
-["la"] = "2194---Iridikron's Precipice",
-},
-{
-["mt"] = 3,
-["ta"] = 1798147,
-["st"] = "Sacrolash!",
-["la"] = "2234---The Blessed Boughs",
-},
-{
-["mt"] = 3,
-["ta"] = 1798170,
-["st"] = "Fire to the aid of shadow!",
-["la"] = "2234---The Blessed Boughs",
-},
-{
-["mt"] = 3,
-["ta"] = 1798294,
-["st"] = "Your luck has run its course!",
-["la"] = "2235---The Blessed Boughs",
-},
-{
-["mt"] = 3,
-["ta"] = 1895330,
-["st"] = "Soft, vulnerable shells. Brief fragile lives. You cannot escape the curse of flesh!",
-["la"] = "2190---Temporal Vestibule",
-},
-{
-["mt"] = 3,
-["ta"] = 1895512,
-["st"] = "Flesh is no match for iron!",
-["la"] = "2195---Infinite Conflux",
-},
-{
-["mt"] = 3,
-["ta"] = 1895620,
-["st"] = "Loken will not rest... until the forge is retaken! You change... nothing!",
-["la"] = "2195---Infinite Conflux",
-},
-{
-["mt"] = 3,
-["ta"] = 1895788,
-["st"] = "Armies of iron will smother the world!",
-["la"] = "2195---Infinite Conflux",
-},
-{
-["mt"] = 3,
-["ta"] = 1896080,
-["st"] = "Folvynn buul hrom onn!",
-["la"] = "2191---Millennia's Threshold",
-},
-{
-["mt"] = 2,
-["la"] = "2237---The Blessed Boughs",
-["st"] = "Mykellqtea prepares a Portable Party Platter!",
-["ta"] = 1970734,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "You dare to disturb these waters? You will drown!",
-["ta"] = 13457361,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Do not run, it only delays the inevitable.",
-["ta"] = 13457423,
-},
-{
-["mt"] = 3,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "Behold the power of torrential waters!",
-["ta"] = 13457561,
-},
-{
-["mt"] = 3,
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Finally, my banishment ends!",
-["ta"] = 14137787,
-},
-{
-["mt"] = 3,
-["la"] = "2097---The Botanica",
-["st"] = "I have no equal!",
-["ta"] = 14138011,
-},
-{
-["mt"] = 3,
-["la"] = "2097---The Botanica",
-["st"] = "Kill, kill!",
-["ta"] = 14138107,
-},
-{
-["mt"] = 3,
-["la"] = "2098---The Pitch",
-["st"] = "Perish, mortal!",
-["ta"] = 14138276,
-},
-{
-["mt"] = 3,
-["la"] = "2097---Algeth'ar Academy",
-["st"] = "Yes... yes!",
-["ta"] = 14138664,
-},
-{
-["mt"] = 3,
-["la"] = "2095---Flashfrost Incursion",
-["st"] = "Let your mind be clouded.",
-["ta"] = 14142522,
-},
-{
-["mt"] = 3,
-["la"] = "2095---Flashfrost Incursion",
-["st"] = "You will pay with your life!",
-["ta"] = 14142588,
-},
-{
-["mt"] = 3,
-["la"] = "2095---Ruby Lifeshrine",
-["st"] = "There is no turning back now!",
-["ta"] = 14142846,
-},
-{
-["mt"] = 3,
-["la"] = "2095---Ruby Lifeshrine",
-["st"] = "These walls will be your tomb!",
-["ta"] = 14142855,
+["la"] = "2024-4076-6283-Azure Archives",
+["st"] = "Some day, let's fly over Azeroth again.",
+["ta"] = 951465,
 },
 },
 ["Blingtron 7000"] = {
@@ -25209,6 +27225,160 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-4962-5626-Valdrakken",
 ["st"] = "Operating parameters have been satisfied. \r\n\r\nSYSTEM SHUTDOWN IN 3... 2...",
 ["ta"] = 746494,
+},
+},
+["Naleidea Rivergleam"] = {
+{
+["ta"] = 227826,
+["st"] = "Our surveyors spotted something that might be of interest to our research. I trust you brought your climbing gear?",
+["la"] = "2023-8287-3350-Rusza'thar Reach",
+},
+{
+["la"] = "2025-4559-5227-Scalewatch Caverns",
+["st"] = "According to my notes, there should be some unique artifacts in this area. Search the upper areas here while my team scouts below.",
+["ta"] = 897948,
+},
+{
+["ta"] = 986930,
+["st"] = "The proto-dragons are a little too bold today. Take down a few so we can study the area safely.",
+["la"] = "2022-3979-7942-Wild Preserve",
+},
+{
+["ta"] = 1177015,
+["st"] = "These ruins are teeming with magic ley lines. We must gather all the energy we can for our studies.",
+["la"] = "2024-3947-6290-Azure Archives",
+},
+{
+["ta"] = 1177418,
+["st"] = "There are some strange magical anomalies in the ice here. Could you climb up and gather some samples for my research?",
+["la"] = "2024-4910-3835-Upper Frostlands",
+},
+{
+["la"] = "2023-8087-6923-Roaring Dragonsprings",
+["st"] = "These hot springs are positively bubbling over with elemental energy! Collect a few samples, so we can see if it is affecting the local wildlife.",
+["ta"] = 1520730,
+},
+{
+["ta"] = 1604855,
+["st"] = "Powerful fire elemental magic abounds in these ruins. Collect as much as you can, but watch your feet.",
+["la"] = "2022-5822-2401-Life-Binder Conservatory",
+},
+{
+["ta"] = 1604987,
+["st"] = "Well done! You managed to keep your cool and return elemental energy for us to study.",
+["la"] = "2022-5636-2361-Life-Binder Conservatory",
+},
+{
+["ta"] = 1883343,
+["st"] = "The Dream has such diverse wildlife. Could you help us catalogue the denizens of this land?",
+["la"] = "2200-5804-5205-Sprigling Gloam",
+},
+{
+["ta"] = 1883837,
+["st"] = "Well done. Kieule is looking forward to your pictures. You may be her favorite photographer!",
+["la"] = "2200-5879-5285-Sprigling Gloam",
+},
+{
+["la"] = "2023-5764-5785-Ohn'ahran Plains",
+["st"] = "The local thunderspines have infused lightning energy into some of the minerals in this area. Let's gather a few specimens, shall we?",
+["ta"] = 1976327,
+},
+{
+["ta"] = 2034608,
+["st"] = "The gorlocs have stashed many stolen items in the upper reaches of this area. Gather them so they can be returned to their rightful owners.",
+["la"] = "2022-5957-4990-The Waking Shores",
+},
+{
+["ta"] = 2039258,
+["st"] = "Look at all these ancient titan relics scattered about. Never pass up an opportunity to study the past!",
+["la"] = "2025-5705-3550-Drake Grotto",
+},
+{
+["ta"] = 10603078,
+["st"] = "A magnificent find! I will bring these materials back to our camp.",
+["la"] = "2023-8301-3115-Mudfin Village",
+},
+{
+["ta"] = 12233895,
+["st"] = "The Horde and Alliance have a long history of rivalry. But Toddy and I pursue knowledge, not violence.",
+["la"] = "2022-7629-3356-Wingrest Embassy",
+},
+{
+["ta"] = 12234086,
+["st"] = "Does the majordomo personally respond to every call for help?",
+["la"] = "2022-7667-3355-Wingrest Embassy",
+},
+{
+["ta"] = 12234109,
+["st"] = "Incredible!",
+["la"] = "2022-7626-3431-Wingrest Embassy",
+},
+{
+["ta"] = 12234199,
+["st"] = "There's plenty to study here before we move on, Toddy.",
+["la"] = "2022-7630-3455-Wingrest Embassy",
+},
+{
+["ta"] = 12234244,
+["st"] = "We'll launch expeditions to every corner of these isles as soon as it's safe to do so.",
+["la"] = "2022-7631-3429-Wingrest Embassy",
+},
+{
+["ta"] = 12234263,
+["st"] = "Incredible! The elements here surge with power!",
+["la"] = "2022-7608-3361-Wingrest Embassy",
+},
+{
+["ta"] = 13789089,
+["st"] = "Creatures and relics from the past have made their way into our present. Collect any artifacts you can find before they are lost to the timeways!",
+["la"] = "2025-5803-8038-Shifting Sands",
+},
+{
+["ta"] = 14043893,
+["st"] = "Perhaps we can deduce what these relics were used for. I shall add them to the collection!",
+["la"] = "2025-5798-3635-Drake Grotto",
+},
+{
+["la"] = "2025-5815-8448-Shifting Sands",
+["st"] = "Thank you, hero. Just thinking about the temporal implications can give you a headache.",
+["ta"] = 14145995,
+},
+{
+["ta"] = 23898567,
+["st"] = "Excellent! I will begin studying these immediately.",
+["la"] = "2024-4816-3750-Camp Antonidas",
+},
+},
+["Gerithus"] = {
+{
+["ta"] = 307772,
+["st"] = "Welcome to the Emerald Dream! My mother awaits you further ahead. I must... recover...",
+["la"] = "2200-7198-5375-Ancient Bough",
+},
+{
+["la"] = "2200-4987-6233-Central Encampment",
+["st"] = "Mother, I am fully recovered. Let me join you--",
+["ta"] = 1714310,
+},
+{
+["la"] = "2200-5272-2800-Eye of Ysera",
+["st"] = "Go, Mother. Check on Grandmother. I will hold the defense here.",
+["ta"] = 1714624,
+},
+{
+["ta"] = 1715162,
+["st"] = "All the suffering that has been endured here... We must act.",
+["la"] = "2200-5302-2833-Eye of Ysera",
+},
+{
+["ta"] = 1715171,
+["st"] = "I will busy myself conceiving strategies for Lord Itharius and Somnikus. I believe that is where I am most useful.",
+["la"] = "2200-5305-2823-Eye of Ysera",
+},
+{
+["ta"] = 1715754,
+["st"] = "Galok is defeated! The Eye is safe again. We did it, mother!",
+["la"] = "2200-5201-2947-Eye of Ysera",
 },
 },
 ["Beckite"] = {
@@ -25243,38 +27413,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13802587,
 ["st"] = "Raise... raise me... again...",
 ["la"] = "2093---The Eternal Kurgans",
-},
-},
-["Gerithus"] = {
-{
-["ta"] = 307772,
-["st"] = "Welcome to the Emerald Dream! My mother awaits you further ahead. I must... recover...",
-["la"] = "2200-7198-5375-Ancient Bough",
-},
-{
-["la"] = "2200-4987-6233-Central Encampment",
-["st"] = "Mother, I am fully recovered. Let me join you--",
-["ta"] = 1714310,
-},
-{
-["la"] = "2200-5272-2800-Eye of Ysera",
-["st"] = "Go, Mother. Check on Grandmother. I will hold the defense here.",
-["ta"] = 1714624,
-},
-{
-["ta"] = 1715162,
-["st"] = "All the suffering that has been endured here... We must act.",
-["la"] = "2200-5302-2833-Eye of Ysera",
-},
-{
-["ta"] = 1715171,
-["st"] = "I will busy myself conceiving strategies for Lord Itharius and Somnikus. I believe that is where I am most useful.",
-["la"] = "2200-5305-2823-Eye of Ysera",
-},
-{
-["ta"] = 1715754,
-["st"] = "Galok is defeated! The Eye is safe again. We did it, mother!",
-["la"] = "2200-5201-2947-Eye of Ysera",
 },
 },
 ["Ingot"] = {
@@ -25430,6 +27568,11 @@ AdventureArchivesMessageDB_9 = {
 ["st"] = "Again, again!",
 ["la"] = "2024-1246-4926-The Filled Bowl",
 },
+{
+["ta"] = 25193470,
+["st"] = "I love that one!",
+["la"] = "2024-1277-4932-The Filled Bowl",
+},
 },
 ["Lasztak"] = {
 {
@@ -25558,26 +27701,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-4696-6515-The Waking Shores",
 },
 },
-["Suzanne"] = {
-{
-["lg"] = 7,
-["la"] = "84-5013-8487-Mage Quarter",
-["st"] = "If we reverse the Essence flows perhaps we can alter the polarity.",
-["ta"] = 1856683,
-},
-{
-["lg"] = 7,
-["ta"] = 13287644,
-["st"] = "Only if we didn't follow the proper initialization procedures.",
-["la"] = "84-5114-7190-Stormwind City",
-},
-{
-["lg"] = 7,
-["ta"] = 13806391,
-["st"] = "But isn't that what caused the initial problems with Adept Syleria's magical formulae?",
-["la"] = "84-5114-7176-The Canals",
-},
-},
 ["Lilliyi"] = {
 {
 ["mt"] = 3,
@@ -25604,12 +27727,42 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2234---The Blessed Boughs",
 },
 },
-["Elayna"] = {
+["Suzanne"] = {
+{
+["lg"] = 7,
+["la"] = "84-5013-8487-Mage Quarter",
+["st"] = "If we reverse the Essence flows perhaps we can alter the polarity.",
+["ta"] = 1856683,
+},
+{
+["lg"] = 7,
+["ta"] = 13287644,
+["st"] = "Only if we didn't follow the proper initialization procedures.",
+["la"] = "84-5114-7190-Stormwind City",
+},
+{
+["lg"] = 7,
+["ta"] = 13806391,
+["st"] = "But isn't that what caused the initial problems with Adept Syleria's magical formulae?",
+["la"] = "84-5114-7176-The Canals",
+},
+},
+["Krenzen"] = {
 {
 ["mt"] = 2,
-["la"] = "2098---The Pitch",
-["st"] = "Elayna's Ruby Whelpling belches, and gives a hearty grin as smoke rises from his nose.",
-["ta"] = 12931078,
+["la"] = "84-5164-8320-Stormwind City",
+["st"] = "Krenzen sighs to himself.",
+["ta"] = 31846,
+},
+{
+["la"] = "84-4958-8622-Mage Quarter",
+["st"] = "Did you hit your head on the flight here? He'd have your scales for even trying that.",
+["ta"] = 49416,
+},
+{
+["ta"] = 68195,
+["st"] = "Indeed. I understand that the other races use similar creatures as hunting companions or guardians, but I have a hard time seeing the resemblance...",
+["la"] = "84-4998-8562-Mage Quarter",
 },
 },
 ["Obsidian Whelptender"] = {
@@ -25622,6 +27775,14 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 4063,
 ["st"] = "But supporting them in all things, no matter what... that is the calling of a whelptender.",
 ["la"] = "2022-5507-6467-Ruby Life Pools",
+},
+},
+["Elayna"] = {
+{
+["mt"] = 2,
+["la"] = "2098---The Pitch",
+["st"] = "Elayna's Ruby Whelpling belches, and gives a hearty grin as smoke rises from his nose.",
+["ta"] = 12931078,
 },
 },
 ["Grun Ashbeard"] = {
@@ -25661,30 +27822,20 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 950646,
 },
 },
-["Krenzen"] = {
-{
-["mt"] = 2,
-["la"] = "84-5164-8320-Stormwind City",
-["st"] = "Krenzen sighs to himself.",
-["ta"] = 31846,
-},
-{
-["la"] = "84-4958-8622-Mage Quarter",
-["st"] = "Did you hit your head on the flight here? He'd have your scales for even trying that.",
-["ta"] = 49416,
-},
-{
-["ta"] = 68195,
-["st"] = "Indeed. I understand that the other races use similar creatures as hunting companions or guardians, but I have a hard time seeing the resemblance...",
-["la"] = "84-4998-8562-Mage Quarter",
-},
-},
 ["Reefbreaker Moruud"] = {
 {
 ["mt"] = 2,
 ["ta"] = 471932,
 ["st"] = "Amirdrassil's roots tremble as large waves lap against the shoreline. Something lurks beneath the water threatening the island.",
 ["la"] = "2200-4295-6979-Emerald Dream",
+},
+},
+["Notrice"] = {
+{
+["mt"] = 2,
+["la"] = "2237---The Blessed Boughs",
+["st"] = "Notrice prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
+["ta"] = 904506,
 },
 },
 ["Anduin Lothar"] = {
@@ -25767,44 +27918,27 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 771738,
 },
 },
-["Notrice"] = {
+["Officer Blythe"] = {
 {
-["mt"] = 2,
-["la"] = "2237---The Blessed Boughs",
-["st"] = "Notrice prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
-["ta"] = 904506,
+["ta"] = 735906,
+["st"] = "The third fleet has been deployed against the southern shores of the Broken Isles.",
+["la"] = "84-3702-4293-Stormwind Harbor",
 },
 },
-["Marinth"] = {
+["Kranac Sagesnow"] = {
 {
-["ta"] = 4289,
-["st"] = "Welcome to the Ram! I can help you with anything you may need.",
-["la"] = "2112-4730-4652-The Roasted Ram",
+["lg"] = 303,
+["mt"] = 3,
+["ta"] = 993535,
+["st"] = "|A:furblan-w-16:0:1.00:0:0:255:64:64|a|A:furblan-w-17:0:1.00:0:0:255:64:64|a|A:furblan-w-15:0:1.00:0:0:255:64:64|a |A:furblan-w-8:0:1.00:0:0:255:64:64|a|A:furblan-w-10:0:1.00:0:0:255:64:64|a|A:furblan-w-30:0:1.00:0:0:255:64:64|a |A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-24:0:1.00:0:0:255:64:64|a|A:furblan-w-34:0:1.00:0:0:255:64:64|a |A:furblan-w-15:0:1.00:0:0:255:64:64|a|A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-6:0:1.00:0:0:255:64:64|a|A:furblan-w-24:0:1.00:0:0:255:64:64|a |A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-10:0:1.00:0:0:255:64:64|a|A:furblan-w-29:0:1.00:0:0:255:64:64|a|A:furblan-w-1:0:1.00:0:0:255:64:64|a |A:furblan-w-24:0:1.00:0:0:255:64:64|a|A:furblan-w-7:0:1.00:0:0:255:64:64|a|A:furblan-w-23:0:1.00:0:0:255:64:64|a|A:furblan-w-29:0:1.00:0:0:255:64:64|a |A:furblan-w-16:0:1.00:0:0:255:64:64|a|A:furblan-w-5:0:1.00:0:0:255:64:64|a|A:furblan-w-20:0:1.00:0:0:255:64:64|a|A:furblan-w-13:0:1.00:0:0:255:64:64|a Lunamae |A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-18:0:1.00:0:0:255:64:64|a |A:furblan-w-20:0:1.00:0:0:255:64:64|a|A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-33:0:1.00:0:0:255:64:64|a|A:furblan-w-28:0:1.00:0:0:255:64:64|a|A:furblan-w-13:0:1.00:0:0:255:64:64|a|A:furblan-w-36:0:1.00:0:0:255:64:64|a |A:furblan-w-25:0:1.00:0:0:255:64:64|a|A:furblan-w-16:0:1.00:0:0:255:64:64|a|A:furblan-w-25:0:1.00:0:0:255:64:64|a|A:furblan-w-6:0:1.00:0:0:255:64:64|a|A:furblan-w-27:0:1.00:0:0:255:64:64|a|A:furblan-w-34:0:1.00:0:0:255:64:64|a|A:furblan-w-35:0:1.00:0:0:255:64:64|a|A:furblan-w-30:0:1.00:0:0:255:64:64|a|A:furblan-w-20:0:1.00:0:0:255:64:64|a|A:furblan-w-20:0:1.00:0:0:255:64:64|a |A:furblan-w-8:0:1.00:0:0:255:64:64|a|A:furblan-w-30:0:1.00:0:0:255:64:64|a |A:furblan-w-9:0:1.00:0:0:255:64:64|a|A:furblan-w-35:0:1.00:0:0:255:64:64|a |A:furblan-w-29:0:1.00:0:0:255:64:64|a |A:furblan-w-1:0:1.00:0:0:255:64:64|a|A:furblan-w-4:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-7:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-31:0:1.00:0:0:255:64:64|a|A:furblan-w-36:0:1.00:0:0:255:64:64|a |A:furblan-w-8:0:1.00:0:0:255:64:64|a|A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-15:0:1.00:0:0:255:64:64|a |A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-35:0:1.00:0:0:255:64:64|a |A:furblan-w-33:0:1.00:0:0:255:64:64|a|A:furblan-w-17:0:1.00:0:0:255:64:64|a|A:furblan-w-26:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-32:0:1.00:0:0:255:64:64|a|A:furblan-w-5:0:1.00:0:0:255:64:64|a |A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-34:0:1.00:0:0:255:64:64|a |A:furblan-w-29:0:1.00:0:0:255:64:64|a|A:furblan-w-31:0:1.00:0:0:255:64:64|a|A:furblan-w-33:0:1.00:0:0:255:64:64|a |A:furblan-w-2:0:1.00:0:0:255:64:64|a|A:furblan-w-33:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-15:0:1.00:0:0:255:64:64|a|A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-1:0:1.00:0:0:255:64:64|a|A:furblan-w-10:0:1.00:0:0:255:64:64|a|A:furblan-w-1:0:1.00:0:0:255:64:64|a|A:furblan-w-4:0:1.00:0:0:255:64:64|a|A:furblan-w-26:0:1.00:0:0:255:64:64|a|A:furblan-w-3:0:1.00:0:0:255:64:64|a",
+["la"] = "2024-2942-2674-The Azure Span",
 },
-{
-["ta"] = 4294,
-["st"] = "If you need cheese for those crackers, I recommend Gorgonzormu's stock. Best in Valdrakken!",
-["la"] = "2112-4729-4651-The Roasted Ram",
 },
+["Sundered Runebinder"] = {
 {
-["ta"] = 167985,
-["st"] = "Kaithius, how many times do I have to say it, I am not Tithris.",
-["la"] = "2112-4636-4632-The Roasted Ram",
-},
-{
-["ta"] = 167998,
-["st"] = "Yes, Kaithius. I will be here.",
-["la"] = "2112-4613-4630-The Roasted Ram",
-},
-{
-["ta"] = 1176104,
-["st"] = "Ah, welcome, Riparium! Here for more crackers?",
-["la"] = "2112-4755-4708-The Roasted Ram",
-},
-{
-["ta"] = 1176109,
-["st"] = "More will be in stock soon, so return any time those little ones need more crackers.",
-["la"] = "2112-4751-4692-The Roasted Ram",
+["la"] = "2023-6347-1589-Nelthazan Ruins",
+["st"] = "It's insufferable! Make it stop!",
+["ta"] = 10613816,
 },
 },
 ["Harkyn Grymstone"] = {
@@ -25815,23 +27949,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-7320-3773-Wingrest Embassy",
 },
 },
-["Spry Zhusa"] = {
-{
-["la"] = "2112-7759-4138-The Bronze Enclave",
-["st"] = "Heh, this hiding spot is the BEST!",
-["ta"] = 1080999,
-},
-{
-["la"] = "2112-7626-3808-The Bronze Enclave",
-["st"] = "That didn't work? You're really good at this, Riparium!",
-["ta"] = 1081144,
-},
-{
-["ta"] = 1535940,
-["st"] = "Aw, how did you find me? I need more time to hide in the future...",
-["la"] = "2112-8200-4026-The Bronze Enclave",
-},
-},
 ["Brigita"] = {
 {
 ["ta"] = 3738,
@@ -25839,11 +27956,16 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-4809-4914-The Roasted Ram",
 },
 },
-["Sundered Runebinder"] = {
+["Roska Rocktooth"] = {
 {
-["la"] = "2023-6347-1589-Nelthazan Ruins",
-["st"] = "It's insufferable! Make it stop!",
-["ta"] = 10613816,
+["ta"] = 14052722,
+["st"] = "Freshly shined and ready to dig! Only the best for our Eadweard.",
+["la"] = "2262-5327-4686-Traitor's Rest",
+},
+{
+["ta"] = 14052902,
+["st"] = "I wouldn't trust this to any old archivist! Lead the pack for me and get this done, would ya?",
+["la"] = "2262-5597-5085-Traitor's Rest",
 },
 },
 ["Rionthus"] = {
@@ -25896,38 +28018,29 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2166---Onyx Laboratory",
 },
 },
-["Roska Rocktooth"] = {
+["Spry Zhusa"] = {
 {
-["ta"] = 14052722,
-["st"] = "Freshly shined and ready to dig! Only the best for our Eadweard.",
-["la"] = "2262-5327-4686-Traitor's Rest",
+["la"] = "2112-7759-4138-The Bronze Enclave",
+["st"] = "Heh, this hiding spot is the BEST!",
+["ta"] = 1080999,
 },
 {
-["ta"] = 14052902,
-["st"] = "I wouldn't trust this to any old archivist! Lead the pack for me and get this done, would ya?",
-["la"] = "2262-5597-5085-Traitor's Rest",
-},
-},
-["Elder Honeypelt"] = {
-{
-["la"] = "2133-5665-5463-Loamm",
-["st"] = "Brynn, please wake up! We've been through worse! I taught you the first rule of hunting was to always come home safely...",
-["ta"] = 932163,
+["la"] = "2112-7626-3808-The Bronze Enclave",
+["st"] = "That didn't work? You're really good at this, Riparium!",
+["ta"] = 1081144,
 },
 {
-["la"] = "2133-5687-5566-Loamm",
-["st"] = "I'm not leaving Brynnsahce here, I won't--",
-["ta"] = 932189,
+["ta"] = 1535940,
+["st"] = "Aw, how did you find me? I need more time to hide in the future...",
+["la"] = "2112-8200-4026-The Bronze Enclave",
 },
-{
-["la"] = "2133-5612-5430-Loamm",
-["st"] = "Brynn... You should have sought cover instead of worrying about me. You were so young.",
-["ta"] = 932210,
 },
+["Unstable Arcanogolem"] = {
 {
-["la"] = "2133-5608-5453-Loamm",
-["st"] = "That beast, the one that smelled like death and sulfur. You kill it for Brynnsahce, you hear?",
-["ta"] = 932221,
+["mt"] = 5,
+["ta"] = 1603471,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2024-5838-3270-Suffusion Camp: Frostburn",
 },
 },
 ["Ahnzon"] = {
@@ -25980,31 +28093,56 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1546847,
 },
 },
+["Skornak"] = {
+{
+["mt"] = 2,
+["la"] = "2133-5448-5664-Loamm",
+["st"] = "You feel the temperature within the cavern rise significantly.",
+["ta"] = 931526,
+},
+},
+["Azuregos"] = {
+{
+["la"] = "2024-3940-6301-Azure Archives",
+["st"] = "Kalecgos! I need aid at the Veiled Ossuary. The memories of Sindragosa and Malygos are destroying this place!",
+["ta"] = 950452,
+},
+{
+["la"] = "2025-6579-1247-Veiled Ossuary",
+["st"] = "Good, you are all here. I need as many of you as possible to drain the arcana coming out of this tomb!",
+["ta"] = 950498,
+},
+{
+["la"] = "2025-6620-1222-Veiled Ossuary",
+["st"] = "Sindragosa and Malygos should be at rest. Yet their anger is growing larger by the moment.",
+["ta"] = 950749,
+},
+{
+["la"] = "2025-6705-1182-Veiled Ossuary",
+["st"] = "Well we certainly hear them, and we are going to help. Riparium, recover their essences. We are taking them back to the Azure Archives.",
+["ta"] = 950789,
+},
+{
+["la"] = "2025-6704-1183-Veiled Ossuary",
+["st"] = "Quickly, everyone! Perhaps Kalecgos and Sindragosa know what must be done next.",
+["ta"] = 950822,
+},
+{
+["la"] = "2024-3964-6275-Azure Archives",
+["st"] = "I suppose it is a bit bigger than the Nexus. The vaults seem to have more knowledge that I haven't recorded yet.",
+["ta"] = 951322,
+},
+{
+["la"] = "2024-3945-6313-Azure Archives",
+["st"] = "I suppose company in my studies would be a change of pace.",
+["ta"] = 951356,
+},
+},
 ["Recruiter Lee"] = {
 {
 ["ta"] = 735905,
 ["st"] = "I can help you over here, Lotic.",
 ["la"] = "84-3699-4204-Stormwind Harbor",
-},
-},
-["Worldbreaker Shapist"] = {
-{
-["ta"] = 164958,
-["st"] = "Neltharion guides me!",
-["la"] = "2022-3482-4749-Smoldering Perch",
-},
-{
-["ta"] = 164994,
-["st"] = "You only delay the inevitable.",
-["la"] = "2022-3477-4645-Smoldering Perch",
-},
-},
-["Unstable Arcanogolem"] = {
-{
-["mt"] = 5,
-["ta"] = 1603471,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2024-5838-3270-Suffusion Camp: Frostburn",
 },
 },
 ["Remnants of Sindragosa"] = {
@@ -26225,14 +28363,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12675332,
 },
 },
-["Skornak"] = {
-{
-["mt"] = 2,
-["la"] = "2133-5448-5664-Loamm",
-["st"] = "You feel the temperature within the cavern rise significantly.",
-["ta"] = 931526,
-},
-},
 ["Thal'kiel"] = {
 {
 ["mt"] = 4,
@@ -26283,6 +28413,14 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2097---Algeth'ar Academy",
 },
 },
+["Frostbreath Arachnid"] = {
+{
+["mt"] = 5,
+["la"] = "2122---Iceskitter Hollow",
+["st"] = "|TInterface\\ICONS\\Ability_Mage_IceWall.BLP:20|t A %s skitters down from the webs above!",
+["ta"] = 12676998,
+},
+},
 ["Memory of a Traitorous Sister"] = {
 {
 ["la"] = "2025-6414-1636-Veiled Ossuary",
@@ -26295,49 +28433,29 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 950640,
 },
 },
-["Azuregos"] = {
-{
-["la"] = "2024-3940-6301-Azure Archives",
-["st"] = "Kalecgos! I need aid at the Veiled Ossuary. The memories of Sindragosa and Malygos are destroying this place!",
-["ta"] = 950452,
-},
-{
-["la"] = "2025-6579-1247-Veiled Ossuary",
-["st"] = "Good, you are all here. I need as many of you as possible to drain the arcana coming out of this tomb!",
-["ta"] = 950498,
-},
-{
-["la"] = "2025-6620-1222-Veiled Ossuary",
-["st"] = "Sindragosa and Malygos should be at rest. Yet their anger is growing larger by the moment.",
-["ta"] = 950749,
-},
-{
-["la"] = "2025-6705-1182-Veiled Ossuary",
-["st"] = "Well we certainly hear them, and we are going to help. Riparium, recover their essences. We are taking them back to the Azure Archives.",
-["ta"] = 950789,
-},
-{
-["la"] = "2025-6704-1183-Veiled Ossuary",
-["st"] = "Quickly, everyone! Perhaps Kalecgos and Sindragosa know what must be done next.",
-["ta"] = 950822,
-},
-{
-["la"] = "2024-3964-6275-Azure Archives",
-["st"] = "I suppose it is a bit bigger than the Nexus. The vaults seem to have more knowledge that I haven't recorded yet.",
-["ta"] = 951322,
-},
-{
-["la"] = "2024-3945-6313-Azure Archives",
-["st"] = "I suppose company in my studies would be a change of pace.",
-["ta"] = 951356,
-},
-},
 ["Elusive Elder Rockfang"] = {
 {
 ["mt"] = 2,
 ["la"] = "2023-7852-3577-Ohn'ahran Plains",
 ["st"] = "You hear a rustling nearby...",
 ["ta"] = 851350,
+},
+},
+["Kiya Featherpaw"] = {
+{
+["ta"] = 1715336,
+["st"] = "This shall cast an illusion that they are just baby cubs.",
+["la"] = "2200-5743-2582-Eye of Ysera",
+},
+{
+["ta"] = 1715339,
+["st"] = "When the djaradin come, they will appear as easy prey.",
+["la"] = "2200-5689-2368-Eye of Ysera",
+},
+{
+["ta"] = 1715343,
+["st"] = "Then, to motivate the umbraclaw to fight the djaradin, just say dinner time!",
+["la"] = "2200-5687-2365-Eye of Ysera",
 },
 },
 ["Ruby Clutchwarden"] = {
@@ -26369,30 +28487,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 11982843,
 },
 },
-["Surigosa"] = {
-{
-["la"] = "2025-6703-1186-Veiled Ossuary",
-["st"] = "Perhaps all of this chaos was their only way of getting our attention? Wildly lashing out, hoping someone would hear them.",
-["ta"] = 950780,
-},
-{
-["la"] = "2024-3948-6291-Azure Archives",
-["st"] = "I can help you look after the Nexus if you want to start to come here.",
-["ta"] = 951330,
-},
-},
-["Thrall"] = {
-{
-["la"] = "1978-5614-4920-",
-["st"] = "There is a vision being seen across Azeroth. A \"Radiant Song.\" We believe it's a warning, but we are unsure of its meaning.",
-["ta"] = 23698087,
-},
-{
-["la"] = "2112-5263-5871-Valdrakken",
-["st"] = "Meet me in Silithus. We must ask Azeroth's Speaker what this vision means.",
-["ta"] = 23698099,
-},
-},
 ["Ecologist Iskha"] = {
 {
 ["ta"] = 165502,
@@ -26419,6 +28513,30 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "85-5071-5572-Orgrimmar",
 ["st"] = "The zeppelin to Grom'gol has just arrived! All aboard for Stranglethorn!",
 ["ta"] = 1787651,
+},
+},
+["Felina Starrunner"] = {
+{
+["ta"] = 900919,
+["st"] = "Where is he? He was supposed to meet us here.",
+["la"] = "2023-2521-5704-Lilac Ramble",
+},
+{
+["ta"] = 900941,
+["st"] = "I have to warn you that Theramus hasn't been feeling well.",
+["la"] = "2023-2502-5690-Lilac Ramble",
+},
+},
+["Surigosa"] = {
+{
+["la"] = "2025-6703-1186-Veiled Ossuary",
+["st"] = "Perhaps all of this chaos was their only way of getting our attention? Wildly lashing out, hoping someone would hear them.",
+["ta"] = 950780,
+},
+{
+["la"] = "2024-3948-6291-Azure Archives",
+["st"] = "I can help you look after the Nexus if you want to start to come here.",
+["ta"] = 951330,
 },
 },
 ["Imbu Refugee"] = {
@@ -26449,22 +28567,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-5598-7870-Ohn'iri Springs",
 },
 },
-["Tuberros"] = {
+["MR-7 Gutcutter"] = {
 {
-["ta"] = 13206188,
-["st"] = "Well, I dunno about dragon script, but that's in line with our ancient stories. The great black dragon would use this platform to test his monsters.",
-["la"] = "2133-4794-5678-Ruins of Drekazera",
-},
-{
-["mt"] = 3,
-["ta"] = 13206494,
-["st"] = "Watch out! A flayer matriarch is on the cavern roof! It's coming down! Quick! Get it!",
-["la"] = "2133-4815-5717-Ruins of Drekazera",
-},
-{
-["ta"] = 13454699,
-["st"] = "Snail slime! One of the best smellies! But the snailettes are a bit stingy. Luckily, we niffen have a special way of gathering some.",
-["la"] = "2133-6255-4917-Shimmering Towers",
+["mt"] = 2,
+["ta"] = 14475747,
+["st"] = "%s attempts to run away in fear!",
+["la"] = "2199-4062-6859-Tyrhold Reservoir",
 },
 },
 ["Studious Whelp"] = {
@@ -26622,41 +28730,18 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-3738-6239-The Conjured Biscuit Inn",
 },
 },
-["Forge-Keep Overseer"] = {
+["Lieutenant Narlena"] = {
 {
-["ta"] = 12912995,
-["st"] = "Titans' wrath... find you...",
-["la"] = "2025-5876-5847-Tyrhold",
-},
-{
-["ta"] = 12914013,
-["st"] = "Outsiders are not permitted!",
-["la"] = "2025-5833-5943-Tyrhold",
+["mt"] = 3,
+["ta"] = 13206789,
+["st"] = "You have interfered in our affairs for the last time. Prepare to meet your end!",
+["la"] = "2133-4782-5543-Ruins of Drekazera",
 },
 {
-["ta"] = 12914766,
-["st"] = "I... have... failed...",
-["la"] = "2025-5879-5935-Tyrhold",
-},
-},
-["Felina Starrunner"] = {
-{
-["ta"] = 900919,
-["st"] = "Where is he? He was supposed to meet us here.",
-["la"] = "2023-2521-5704-Lilac Ramble",
-},
-{
-["ta"] = 900941,
-["st"] = "I have to warn you that Theramus hasn't been feeling well.",
-["la"] = "2023-2502-5690-Lilac Ramble",
-},
-},
-["MR-7 Gutcutter"] = {
-{
-["mt"] = 2,
-["ta"] = 14475747,
-["st"] = "%s attempts to run away in fear!",
-["la"] = "2199-4062-6859-Tyrhold Reservoir",
+["mt"] = 3,
+["ta"] = 13206817,
+["st"] = "Reykal, I have failed! Avenge me!",
+["la"] = "2133-4863-5804-Ruins of Drekazera",
 },
 },
 ["Cenrrrn Cirrgl Mooncaller"] = {
@@ -26665,6 +28750,36 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14475668,
 ["st"] = "%s attempts to run away in fear!",
 ["la"] = "2199-7327-6429-Tyrhold Reservoir",
+},
+},
+["Thrall"] = {
+{
+["la"] = "1978-5614-4920-",
+["st"] = "There is a vision being seen across Azeroth. A \"Radiant Song.\" We believe it's a warning, but we are unsure of its meaning.",
+["ta"] = 23698087,
+},
+{
+["la"] = "2112-5263-5871-Valdrakken",
+["st"] = "Meet me in Silithus. We must ask Azeroth's Speaker what this vision means.",
+["ta"] = 23698099,
+},
+},
+["Tuberros"] = {
+{
+["ta"] = 13206188,
+["st"] = "Well, I dunno about dragon script, but that's in line with our ancient stories. The great black dragon would use this platform to test his monsters.",
+["la"] = "2133-4794-5678-Ruins of Drekazera",
+},
+{
+["mt"] = 3,
+["ta"] = 13206494,
+["st"] = "Watch out! A flayer matriarch is on the cavern roof! It's coming down! Quick! Get it!",
+["la"] = "2133-4815-5717-Ruins of Drekazera",
+},
+{
+["ta"] = 13454699,
+["st"] = "Snail slime! One of the best smellies! But the snailettes are a bit stingy. Luckily, we niffen have a special way of gathering some.",
+["la"] = "2133-6255-4917-Shimmering Towers",
 },
 },
 ["Shikaar Lancer"] = {
@@ -26681,39 +28796,61 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2093---Battle of Spears",
 },
 },
-["Aedis Brom"] = {
+["Plainswalker Mammoth"] = {
 {
-["lg"] = 7,
-["la"] = "84-7533-5442-Pig and Whistle Tavern",
-["st"] = "Was that the third or fourth time you nearly got me gutted trying one of your crazy stunts?",
-["ta"] = 1542991,
+["mt"] = 2,
+["ta"] = 10604681,
+["st"] = "%s prepares to charge!",
+["la"] = "2023-7541-3255-Wanderer's Steppe",
 },
 },
-["Captain Garrick"] = {
+["Time-Lost Mudskipper"] = {
 {
-["la"] = "2022-7676-3371-Wingrest Embassy",
-["st"] = "Our orders were clear, Private Garrick. We have other threats to worry about.",
-["ta"] = 1960787,
+["la"] = "2025-5819-8470-Shifting Sands",
+["st"] = "Grgl...",
+["ta"] = 848491,
+},
+},
+["Qalashi Crustshaper"] = {
+{
+["ta"] = 4889,
+["st"] = "You can break me but not the mountains...",
+["la"] = "2022-3669-6102-Burning Ascent",
 },
 {
-["ta"] = 12234403,
-["st"] = "Not bad, Private Garrick. Continue practicing your orcish. It will prove useful on this assignment.",
-["la"] = "2022-7648-3402-Wingrest Embassy",
+["ta"] = 4899,
+["st"] = "I've fought bigger.",
+["la"] = "2022-3639-6125-Burning Ascent",
 },
 {
-["ta"] = 12234410,
-["st"] = "Wish our comrade luck, Private Garrick.",
-["la"] = "2022-7669-3452-Wingrest Embassy",
+["ta"] = 4901,
+["st"] = "Good fight!",
+["la"] = "2022-3634-6099-Burning Ascent",
+},
+},
+["Researcher Sneakwing"] = {
+{
+["mt"] = 5,
+["la"] = "2023-7828-4021-Ohn'ahran Plains",
+["st"] = "%s is being empowered by the Dreamsurge!",
+["ta"] = 660713,
+},
+},
+["Drakonid Breaker"] = {
+{
+["la"] = "2075---Azure Vault",
+["st"] = "For the Sundered Flame!",
+["ta"] = 11986916,
 },
 {
-["ta"] = 12234877,
-["st"] = "Tell Grimaxe the first drink is on me once we're both off our shifts.",
-["la"] = "2022-7670-3451-Wingrest Embassy",
+["la"] = "2076---Crystal Chambers",
+["st"] = "The secrets of the vault are mine!",
+["ta"] = 12938961,
 },
 {
-["ta"] = 12234884,
-["st"] = "I would and I have, Private Garrick. And tonight, so will you.",
-["la"] = "2022-7559-3561-Wingrest Embassy",
+["la"] = "2076---Crystal Chambers",
+["st"] = "This hall will be your tomb!",
+["ta"] = 12939018,
 },
 },
 ["Headcut"] = {
@@ -26886,57 +29023,24 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2240---Sylvan Conservatory",
 },
 },
-["Researcher Sneakwing"] = {
+["Ecologist Tharu"] = {
 {
-["mt"] = 5,
-["la"] = "2023-7828-4021-Ohn'ahran Plains",
-["st"] = "%s is being empowered by the Dreamsurge!",
-["ta"] = 660713,
-},
-},
-["Fel Queen's Guard"] = {
-{
-["ta"] = 14044722,
-["st"] = "This world is imperfect!",
-["la"] = "2025-5783-6776-Thaldraszus",
+["ta"] = 165507,
+["st"] = "What's more respectful than finding out what's killing them as quickly as we can?",
+["la"] = "2022-7455-4206-Restless Wetlands",
 },
 {
-["ta"] = 14044761,
-["st"] = "Light of Lights... save me...",
-["la"] = "2025-5843-6762-East Shrine",
+["ta"] = 165512,
+["st"] = "We're supposed to preserve life, Iskha... not just carefully observe it!",
+["la"] = "2022-7631-4235-Restless Wetlands",
 },
+},
+["Natureboy"] = {
 {
-["ta"] = 14044820,
-["st"] = "In Azshara's name!",
-["la"] = "2025-5869-6840-Passage of Time",
-},
-{
-["ta"] = 14044837,
-["st"] = "I failed... her...",
-["la"] = "2025-5897-6909-Passage of Time",
-},
-},
-["Slobbering Raider"] = {
-{
-["ta"] = 14052648,
-["st"] = "You meat no dig here!",
-["la"] = "2262-5527-5063-Traitor's Rest",
-},
-},
-["Lurgan"] = {
-{
-["mt"] = 5,
-["la"] = "2023-7520-4777-Ohn'ahran Plains",
-["st"] = "%s is being empowered by the Dreamsurge!",
-["ta"] = 659455,
-},
-},
-["Amethyzar the Glittering"] = {
-{
-["mt"] = 5,
-["ta"] = 12234672,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2022-7559-3664-Wingrest Embassy",
+["mt"] = 2,
+["la"] = "2025-4814-5454-Tyrhold Reservoir",
+["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
+["ta"] = 13949967,
 },
 },
 ["Xavin"] = {
@@ -26964,6 +29068,281 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "84-6083-6830-Trade District",
 ["st"] = "Hi, Topper.",
 ["ta"] = 13348670,
+},
+},
+["Lurgan"] = {
+{
+["mt"] = 5,
+["la"] = "2023-7520-4777-Ohn'ahran Plains",
+["st"] = "%s is being empowered by the Dreamsurge!",
+["ta"] = 659455,
+},
+},
+["Portal"] = {
+{
+["mt"] = 5,
+["ta"] = 583276,
+["st"] = "|TInterface\\ICONS\\Ability_DragonRiding_DragonRiding01.BLP:20|t Take flight!",
+["la"] = "2236---The Blessed Boughs",
+},
+},
+["Nokhud Huntmaster"] = {
+{
+["la"] = "2023-3561-4031-Nokhudon Hold",
+["st"] = "Your kind will all die.",
+["ta"] = 14471510,
+},
+},
+["Lunk"] = {
+{
+["la"] = "2112-4811-5480-Valdrakken",
+["st"] = "Here you go.",
+["ta"] = 336768,
+},
+},
+["Party Attendee"] = {
+{
+["la"] = "2112-6001-1241-The Ruby Feast",
+["st"] = "I'm still trying to get the sous chef to talk to me! I just know he'll spill the beans on Chef Rumi's secret dish if I butter him up enough...",
+["ta"] = 847398,
+},
+{
+["la"] = "2112-6001-1241-The Ruby Feast",
+["st"] = "The flavors have changed since my last visit. I bet they've got a new hire sourcing ingredients!",
+["ta"] = 847398,
+},
+{
+["la"] = "2112-6071-1381-The Ruby Feast",
+["st"] = "Could Chef Morsel be the real culinary genius pulling the strings? There's no way, right?!",
+["ta"] = 847411,
+},
+{
+["la"] = "2112-6096-1327-The Ruby Feast",
+["st"] = "I hear that espresso came all the way from Shadowforge! Honestly, I like it more than my favorite Bronzebeard blend.",
+["ta"] = 1246120,
+},
+{
+["la"] = "2112-6096-1327-The Ruby Feast",
+["st"] = "Thank goodness the war is over. I used to fantasize about peaceful gatherings like this.",
+["ta"] = 1246120,
+},
+{
+["la"] = "2112-6082-1177-The Ruby Feast",
+["st"] = "That salad was surprisingly hearty. I hear it gives you vision of the Emerald Dream while you're asleep too!",
+["ta"] = 1246129,
+},
+{
+["ta"] = 13030048,
+["st"] = "This is nothing! Should have seen me last week when I had a cup of that Cinna-Cinderbloom from Flemthroat!",
+["la"] = "2112-6084-1288-The Ruby Feast",
+},
+{
+["ta"] = 13030048,
+["st"] = "I don't understand dragonfruit. Do they look like dragons? Do dragons like them? I have so many questions.",
+["la"] = "2112-6084-1288-The Ruby Feast",
+},
+{
+["ta"] = 13030061,
+["st"] = "I've heard Chef Morsel has cooked for all the Aspects. He should if he hasn't yet, at least.",
+["la"] = "2112-6104-1116-The Ruby Feast",
+},
+},
+["Slobbering Raider"] = {
+{
+["ta"] = 14052648,
+["st"] = "You meat no dig here!",
+["la"] = "2262-5527-5063-Traitor's Rest",
+},
+},
+["Aru"] = {
+{
+["ta"] = 10600358,
+["st"] = "I will be the greatest hunter this clan has ever seen!",
+["la"] = "2023-8576-2642-Timberstep Outpost",
+},
+{
+["ta"] = 10600373,
+["st"] = "Wow! I have never seen someone like you. How are your hunting skills?",
+["la"] = "2023-8565-2659-Timberstep Outpost",
+},
+{
+["ta"] = 10604434,
+["st"] = "Whoever brings back the most game wins!",
+["la"] = "2023-7626-3178-Wanderer's Steppe",
+},
+{
+["mt"] = 3,
+["ta"] = 10604529,
+["st"] = "This bull could feed a whole camp! Think you can do better?",
+["la"] = "2023-7872-2866-Ohn'ahran Plains",
+},
+{
+["ta"] = 10605084,
+["st"] = "No, I am better than you! Sure, you killed more, but most of your game cannot be used!",
+["la"] = "2023-7566-3162-Wanderer's Steppe",
+},
+{
+["ta"] = 10605093,
+["st"] = "The Horn of Drusahl will be visible once we cross the bridge. You must see it, two-foot!",
+["la"] = "2023-7557-3143-Wanderer's Steppe",
+},
+},
+["Grumbletrunk"] = {
+{
+["mt"] = 5,
+["ta"] = 1177479,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2024-3774-6208-The Conjured Biscuit Inn",
+},
+},
+["Ancestral Spirit"] = {
+{
+["mt"] = 4,
+["ta"] = 1864790,
+["st"] = "The goliath has reached our shores...",
+["la"] = "2151-3453-5964-Morqut Village",
+},
+{
+["mt"] = 4,
+["ta"] = 1865030,
+["st"] = "She serves the call of the deep...",
+["la"] = "2151-2920-5218-Zskera Vault: Ix",
+},
+{
+["mt"] = 4,
+["ta"] = 1865255,
+["st"] = "His hunt never ceases...",
+["la"] = "2151-3079-5709-Zskera Vault: Ix",
+},
+{
+["mt"] = 4,
+["ta"] = 1865262,
+["st"] = "She binds those within her grasp...",
+["la"] = "2151-3079-5709-Zskera Vault: Ix",
+},
+{
+["mt"] = 4,
+["la"] = "2151-2976-5420-Zskera Vault: Ix",
+["st"] = "He defiles the remains of the fallen...",
+["ta"] = 1866831,
+},
+{
+["mt"] = 4,
+["la"] = "2151-2976-5420-Zskera Vault: Ix",
+["st"] = "He binds the winds to his will...",
+["ta"] = 1867026,
+},
+{
+["mt"] = 4,
+["la"] = "2151-2976-5420-Zskera Vault: Ix",
+["st"] = "The sea tried to take her...",
+["ta"] = 1867260,
+},
+{
+["mt"] = 4,
+["la"] = "2151-2976-5420-Zskera Vault: Ix",
+["st"] = "Its wings leave ashes in their wake...",
+["ta"] = 1867649,
+},
+{
+["mt"] = 4,
+["la"] = "2151-2975-5496-Zskera Vault: Ix",
+["st"] = "The ancient ones are ever watchful...",
+["ta"] = 1868536,
+},
+{
+["mt"] = 4,
+["la"] = "2151-2821-5691-Zskera Vault: Ix",
+["st"] = "Fear the terror beneath the waves...",
+["ta"] = 1868671,
+},
+{
+["mt"] = 4,
+["la"] = "2151-3055-5719-Zskera Vault: Ix",
+["st"] = "The great dragon rules the peak...",
+["ta"] = 1868725,
+},
+{
+["mt"] = 4,
+["la"] = "2151-3020-5551-Zskera Vault: Ix",
+["st"] = "It crawls out from the fires...",
+["ta"] = 1869234,
+},
+},
+["Melinor"] = {
+{
+["la"] = "2112-7386-4700-The Parting Glass",
+["st"] = "Your affinity warps your understanding, Ramaniel. The flow of time is akin to the Light itself. It is a central, singular truth that must be preserved against all threats.",
+["ta"] = 12782110,
+},
+{
+["la"] = "2112-7386-4700-The Parting Glass",
+["st"] = "I suppose only time will tell.",
+["ta"] = 12782129,
+},
+},
+["Earthcaller Yevaa"] = {
+{
+["la"] = "2022-3755-7142-Melting Knoll",
+["st"] = "The signs of manipulation are everywhere. We must act quickly to end this!",
+["ta"] = 2032730,
+},
+},
+["Elder Yuvari"] = {
+{
+["ta"] = 2035238,
+["st"] = "Outsider! We need your help to prevent an atrocity!",
+["la"] = "2023-4115-6191-Teerakai",
+},
+},
+["Genn Greymane"] = {
+{
+["mt"] = 3,
+["la"] = "84-8182-2799-Stormwind Keep",
+["st"] = "Absolutely not! I forbid you to take such an action!",
+["ta"] = 24015365,
+},
+},
+["Liskanoth"] = {
+{
+["mt"] = 5,
+["la"] = "2085-5463-6395-The Primalist Future",
+["st"] = "|TInterface\\ICONS\\Spell_Fire_BlueFlameBreath.blp:20|t %s prepares a |cFFFF0000|Hspell:389762|h[Deep Freeze]|h|r",
+["ta"] = 12759732,
+},
+},
+["Amethyzar the Glittering"] = {
+{
+["mt"] = 5,
+["ta"] = 12234672,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2022-7559-3664-Wingrest Embassy",
+},
+},
+["Right"] = {
+{
+["la"] = "2022-6509-2936-Scalecracker Keep",
+["st"] = "The djaradin consider the outpost a well-earned victory against their ancient foes.",
+["ta"] = 23917826,
+},
+{
+["la"] = "2022-6497-3032-Scalecracker Keep",
+["st"] = "They're already talking about another raid. And another. And another.",
+["ta"] = 23917833,
+},
+},
+["Usodormu"] = {
+{
+["la"] = "2025-6034-7976-Temporal Conflux",
+["st"] = "No refunds.",
+["ta"] = 848598,
+},
+},
+["Mysindre"] = {
+{
+["ta"] = 1535336,
+["st"] = "This ducky has been passed among whelps for ages! I hope it brings yours comfort, too.",
+["la"] = "2023-3027-5771-Shady Sanctuary",
 },
 },
 ["Myrrit"] = {
@@ -27018,19 +29397,32 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-6012-5641-Mysterious Cave",
 },
 },
-["Natureboy"] = {
+["Bloodgazer Hatchling"] = {
 {
-["mt"] = 2,
-["la"] = "2025-4814-5454-Tyrhold Reservoir",
-["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
-["ta"] = 13949967,
+["la"] = "2244---Pit of Volcoross",
+["st"] = "Erk!",
+["ta"] = 1002686,
+},
+{
+["ta"] = 13879015,
+["st"] = "Errrrrrr...",
+["la"] = "2112-5022-5485-Valdrakken",
 },
 },
-["Nokhud Huntmaster"] = {
+["Kain Firebrand"] = {
 {
-["la"] = "2023-3561-4031-Nokhudon Hold",
-["st"] = "Your kind will all die.",
-["ta"] = 14471510,
+["mt"] = 5,
+["la"] = "2025-5992-5371-Tyrhold",
+["st"] = "Kain Firebrand has appeared!",
+["ta"] = 13184173,
+},
+},
+["Council Stormcaller"] = {
+{
+["mt"] = 3,
+["la"] = "2120---The Vault Approach",
+["st"] = "You're ruining everything!",
+["ta"] = 12674450,
 },
 },
 ["Elder Magma Serpent"] = {
@@ -27039,98 +29431,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13206744,
 ["st"] = "<The giant serpent lets out a mighty roar as it shakes magma rocks and lava.>",
 ["la"] = "2133-4460-5766-Molten Overflow",
-},
-},
-["Party Attendee"] = {
-{
-["la"] = "2112-6001-1241-The Ruby Feast",
-["st"] = "I'm still trying to get the sous chef to talk to me! I just know he'll spill the beans on Chef Rumi's secret dish if I butter him up enough...",
-["ta"] = 847398,
-},
-{
-["la"] = "2112-6001-1241-The Ruby Feast",
-["st"] = "The flavors have changed since my last visit. I bet they've got a new hire sourcing ingredients!",
-["ta"] = 847398,
-},
-{
-["la"] = "2112-6071-1381-The Ruby Feast",
-["st"] = "Could Chef Morsel be the real culinary genius pulling the strings? There's no way, right?!",
-["ta"] = 847411,
-},
-{
-["la"] = "2112-6096-1327-The Ruby Feast",
-["st"] = "I hear that espresso came all the way from Shadowforge! Honestly, I like it more than my favorite Bronzebeard blend.",
-["ta"] = 1246120,
-},
-{
-["la"] = "2112-6096-1327-The Ruby Feast",
-["st"] = "Thank goodness the war is over. I used to fantasize about peaceful gatherings like this.",
-["ta"] = 1246120,
-},
-{
-["la"] = "2112-6082-1177-The Ruby Feast",
-["st"] = "That salad was surprisingly hearty. I hear it gives you vision of the Emerald Dream while you're asleep too!",
-["ta"] = 1246129,
-},
-{
-["ta"] = 13030048,
-["st"] = "This is nothing! Should have seen me last week when I had a cup of that Cinna-Cinderbloom from Flemthroat!",
-["la"] = "2112-6084-1288-The Ruby Feast",
-},
-{
-["ta"] = 13030048,
-["st"] = "I don't understand dragonfruit. Do they look like dragons? Do dragons like them? I have so many questions.",
-["la"] = "2112-6084-1288-The Ruby Feast",
-},
-{
-["ta"] = 13030061,
-["st"] = "I've heard Chef Morsel has cooked for all the Aspects. He should if he hasn't yet, at least.",
-["la"] = "2112-6104-1116-The Ruby Feast",
-},
-},
-["Ecologist Tharu"] = {
-{
-["ta"] = 165507,
-["st"] = "What's more respectful than finding out what's killing them as quickly as we can?",
-["la"] = "2022-7455-4206-Restless Wetlands",
-},
-{
-["ta"] = 165512,
-["st"] = "We're supposed to preserve life, Iskha... not just carefully observe it!",
-["la"] = "2022-7631-4235-Restless Wetlands",
-},
-},
-["Aru"] = {
-{
-["ta"] = 10600358,
-["st"] = "I will be the greatest hunter this clan has ever seen!",
-["la"] = "2023-8576-2642-Timberstep Outpost",
-},
-{
-["ta"] = 10600373,
-["st"] = "Wow! I have never seen someone like you. How are your hunting skills?",
-["la"] = "2023-8565-2659-Timberstep Outpost",
-},
-{
-["ta"] = 10604434,
-["st"] = "Whoever brings back the most game wins!",
-["la"] = "2023-7626-3178-Wanderer's Steppe",
-},
-{
-["mt"] = 3,
-["ta"] = 10604529,
-["st"] = "This bull could feed a whole camp! Think you can do better?",
-["la"] = "2023-7872-2866-Ohn'ahran Plains",
-},
-{
-["ta"] = 10605084,
-["st"] = "No, I am better than you! Sure, you killed more, but most of your game cannot be used!",
-["la"] = "2023-7566-3162-Wanderer's Steppe",
-},
-{
-["ta"] = 10605093,
-["st"] = "The Horn of Drusahl will be visible once we cross the bridge. You must see it, two-foot!",
-["la"] = "2023-7557-3143-Wanderer's Steppe",
 },
 },
 ["Igira the Cruel"] = {
@@ -27307,6 +29607,33 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2232---Wellspring Atrium",
 },
 },
+["Lockjaw"] = {
+{
+["ta"] = 990440,
+["st"] = "Thanks for the save!",
+["la"] = "2022-2844-7006-Dragonbane Keep",
+},
+},
+["Rendvith"] = {
+{
+["la"] = "2024-4593-2546-Cobalt Assembly",
+["st"] = "Come, then! We'll blast you to pieces!",
+["ta"] = 12842905,
+},
+{
+["la"] = "2024-4592-2549-Cobalt Assembly",
+["st"] = "No! The power! It all belongs... to me...",
+["ta"] = 12842919,
+},
+},
+["Nokhud Saboteur"] = {
+{
+["mt"] = 3,
+["ta"] = 12779415,
+["st"] = "Destroy and dismantle!",
+["la"] = "2093---Battle of Spears",
+},
+},
 ["Manifested Timeways"] = {
 {
 ["mt"] = 3,
@@ -27379,271 +29706,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14320284,
 },
 },
-["Melinor"] = {
-{
-["la"] = "2112-7386-4700-The Parting Glass",
-["st"] = "Your affinity warps your understanding, Ramaniel. The flow of time is akin to the Light itself. It is a central, singular truth that must be preserved against all threats.",
-["ta"] = 12782110,
-},
-{
-["la"] = "2112-7386-4700-The Parting Glass",
-["st"] = "I suppose only time will tell.",
-["ta"] = 12782129,
-},
-},
-["Earthcaller Yevaa"] = {
-{
-["la"] = "2022-3755-7142-Melting Knoll",
-["st"] = "The signs of manipulation are everywhere. We must act quickly to end this!",
-["ta"] = 2032730,
-},
-},
-["Elder Yuvari"] = {
-{
-["ta"] = 2035238,
-["st"] = "Outsider! We need your help to prevent an atrocity!",
-["la"] = "2023-4115-6191-Teerakai",
-},
-},
-["Grumbletrunk"] = {
-{
-["mt"] = 5,
-["ta"] = 1177479,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2024-3774-6208-The Conjured Biscuit Inn",
-},
-},
-["Portal"] = {
-{
-["mt"] = 5,
-["ta"] = 583276,
-["st"] = "|TInterface\\ICONS\\Ability_DragonRiding_DragonRiding01.BLP:20|t Take flight!",
-["la"] = "2236---The Blessed Boughs",
-},
-},
-["Huntmaster Amaa"] = {
-{
-["mt"] = 3,
-["la"] = "2023-5374-3960-Field of Ferocity",
-["st"] = "Enough! I yield to your prowess. That was an honorable fight.",
-["ta"] = 2033002,
-},
-{
-["mt"] = 3,
-["la"] = "2023-5546-3865-Field of Ferocity",
-["st"] = "Truly a challenge of the senses. Bring honor to your ancestors, heroes.",
-["ta"] = 10610712,
-},
-},
-["Right"] = {
-{
-["la"] = "2022-6509-2936-Scalecracker Keep",
-["st"] = "The djaradin consider the outpost a well-earned victory against their ancient foes.",
-["ta"] = 23917826,
-},
-{
-["la"] = "2022-6497-3032-Scalecracker Keep",
-["st"] = "They're already talking about another raid. And another. And another.",
-["ta"] = 23917833,
-},
-},
-["Lockjaw"] = {
-{
-["ta"] = 990440,
-["st"] = "Thanks for the save!",
-["la"] = "2022-2844-7006-Dragonbane Keep",
-},
-},
-["Liskanoth"] = {
-{
-["mt"] = 5,
-["la"] = "2085-5463-6395-The Primalist Future",
-["st"] = "|TInterface\\ICONS\\Spell_Fire_BlueFlameBreath.blp:20|t %s prepares a |cFFFF0000|Hspell:389762|h[Deep Freeze]|h|r",
-["ta"] = 12759732,
-},
-},
-["Lunk"] = {
-{
-["la"] = "2112-4811-5480-Valdrakken",
-["st"] = "Here you go.",
-["ta"] = 336768,
-},
-},
-["Bloodgazer Hatchling"] = {
-{
-["la"] = "2244---Pit of Volcoross",
-["st"] = "Erk!",
-["ta"] = 1002686,
-},
-{
-["ta"] = 13879015,
-["st"] = "Errrrrrr...",
-["la"] = "2112-5022-5485-Valdrakken",
-},
-},
-["Kain Firebrand"] = {
-{
-["mt"] = 5,
-["la"] = "2025-5992-5371-Tyrhold",
-["st"] = "Kain Firebrand has appeared!",
-["ta"] = 13184173,
-},
-},
-["Council Stormcaller"] = {
-{
-["mt"] = 3,
-["la"] = "2120---The Vault Approach",
-["st"] = "You're ruining everything!",
-["ta"] = 12674450,
-},
-},
-["Ancestral Spirit"] = {
-{
-["mt"] = 4,
-["ta"] = 1864790,
-["st"] = "The goliath has reached our shores...",
-["la"] = "2151-3453-5964-Morqut Village",
-},
-{
-["mt"] = 4,
-["ta"] = 1865030,
-["st"] = "She serves the call of the deep...",
-["la"] = "2151-2920-5218-Zskera Vault: Ix",
-},
-{
-["mt"] = 4,
-["ta"] = 1865255,
-["st"] = "His hunt never ceases...",
-["la"] = "2151-3079-5709-Zskera Vault: Ix",
-},
-{
-["mt"] = 4,
-["ta"] = 1865262,
-["st"] = "She binds those within her grasp...",
-["la"] = "2151-3079-5709-Zskera Vault: Ix",
-},
-{
-["mt"] = 4,
-["la"] = "2151-2976-5420-Zskera Vault: Ix",
-["st"] = "He defiles the remains of the fallen...",
-["ta"] = 1866831,
-},
-{
-["mt"] = 4,
-["la"] = "2151-2976-5420-Zskera Vault: Ix",
-["st"] = "He binds the winds to his will...",
-["ta"] = 1867026,
-},
-{
-["mt"] = 4,
-["la"] = "2151-2976-5420-Zskera Vault: Ix",
-["st"] = "The sea tried to take her...",
-["ta"] = 1867260,
-},
-{
-["mt"] = 4,
-["la"] = "2151-2976-5420-Zskera Vault: Ix",
-["st"] = "Its wings leave ashes in their wake...",
-["ta"] = 1867649,
-},
-{
-["mt"] = 4,
-["la"] = "2151-2975-5496-Zskera Vault: Ix",
-["st"] = "The ancient ones are ever watchful...",
-["ta"] = 1868536,
-},
-{
-["mt"] = 4,
-["la"] = "2151-2821-5691-Zskera Vault: Ix",
-["st"] = "Fear the terror beneath the waves...",
-["ta"] = 1868671,
-},
-{
-["mt"] = 4,
-["la"] = "2151-3055-5719-Zskera Vault: Ix",
-["st"] = "The great dragon rules the peak...",
-["ta"] = 1868725,
-},
-{
-["mt"] = 4,
-["la"] = "2151-3020-5551-Zskera Vault: Ix",
-["st"] = "It crawls out from the fires...",
-["ta"] = 1869234,
-},
-},
-["Primalist Earthrazer"] = {
-{
-["ta"] = 14476336,
-["st"] = "The very earth empowers me!",
-["la"] = "2022-6557-2753-Scalecracker Keep",
-},
-{
-["ta"] = 14476374,
-["st"] = "I return to the earth...",
-["la"] = "2022-6513-2726-Scalecracker Keep",
-},
-{
-["ta"] = 14476374,
-["st"] = "The earth will avenge me...",
-["la"] = "2022-6513-2726-Scalecracker Keep",
-},
-{
-["ta"] = 14476384,
-["st"] = "May the earth swallow you whole...",
-["la"] = "2022-6505-2728-Scalecracker Keep",
-},
-},
-["Usodormu"] = {
-{
-["la"] = "2025-6034-7976-Temporal Conflux",
-["st"] = "No refunds.",
-["ta"] = 848598,
-},
-},
-["Rendvith"] = {
-{
-["la"] = "2024-4593-2546-Cobalt Assembly",
-["st"] = "Come, then! We'll blast you to pieces!",
-["ta"] = 12842905,
-},
-{
-["la"] = "2024-4592-2549-Cobalt Assembly",
-["st"] = "No! The power! It all belongs... to me...",
-["ta"] = 12842919,
-},
-},
-["Imrou"] = {
-{
-["mt"] = 3,
-["ta"] = 13206594,
-["st"] = "Southwest Pillar Check! Oh, and we have upset elementals!",
-["la"] = "2133-4292-5738-Molten Overflow",
-},
-{
-["mt"] = 3,
-["ta"] = 13206622,
-["st"] = "Achoo! Smokin' really good over here. I think southwest is good to go!",
-["la"] = "2133-4350-5530-Molten Overflow",
-},
-{
-["ta"] = 13206664,
-["st"] = "Thaelin, what do you need us to do?",
-["la"] = "2133-4488-5745-Molten Overflow",
-},
-{
-["ta"] = 13206668,
-["st"] = "I'm on it!",
-["la"] = "2133-4501-5758-Sulfur Wastes",
-},
-},
-["Genn Greymane"] = {
-{
-["mt"] = 3,
-["la"] = "84-8182-2799-Stormwind Keep",
-["st"] = "Absolutely not! I forbid you to take such an action!",
-["ta"] = 24015365,
-},
-},
 ["Kyrakka"] = {
 {
 ["mt"] = 3,
@@ -27700,12 +29762,28 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-5056-7615-Ohn'ir Geysers",
 },
 },
-["Wildwater Ottuk"] = {
+["Imrou"] = {
 {
-["mt"] = 5,
-["ta"] = 23898750,
-["st"] = "Catch the ball!",
-["la"] = "2024-5908-5216-Timbertooth Trail",
+["mt"] = 3,
+["ta"] = 13206594,
+["st"] = "Southwest Pillar Check! Oh, and we have upset elementals!",
+["la"] = "2133-4292-5738-Molten Overflow",
+},
+{
+["mt"] = 3,
+["ta"] = 13206622,
+["st"] = "Achoo! Smokin' really good over here. I think southwest is good to go!",
+["la"] = "2133-4350-5530-Molten Overflow",
+},
+{
+["ta"] = 13206664,
+["st"] = "Thaelin, what do you need us to do?",
+["la"] = "2133-4488-5745-Molten Overflow",
+},
+{
+["ta"] = 13206668,
+["st"] = "I'm on it!",
+["la"] = "2133-4501-5758-Sulfur Wastes",
 },
 },
 ["Ayasanth"] = {
@@ -27770,44 +29848,29 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3501-4551-Smoldering Perch",
 },
 },
-["Nokhud Saboteur"] = {
+["Wildwater Ottuk"] = {
 {
-["mt"] = 3,
-["ta"] = 12779415,
-["st"] = "Destroy and dismantle!",
-["la"] = "2093---Battle of Spears",
+["mt"] = 5,
+["ta"] = 23898750,
+["st"] = "Catch the ball!",
+["la"] = "2024-5908-5216-Timbertooth Trail",
 },
 },
-["Velyra"] = {
+["Koroleth"] = {
 {
-["ta"] = 1612795,
-["st"] = "Great work, Sverdrup!",
-["la"] = "2024-1353-4854-Iskaara",
+["ta"] = 10599909,
+["st"] = "It has been ten thousand years since the dragons were last in the Isles. They are invaders upon your land. Join the Primalists. Embrace the storm. We will aid you in the battles to come.",
+["la"] = "2023-8495-2575-Timberstep Outpost",
 },
 {
-["ta"] = 1612800,
-["st"] = "Nice cooking, Craftbeer!",
-["la"] = "2024-1353-4854-Iskaara",
+["ta"] = 10599937,
+["st"] = "Your Khanam Matra leads you to servitude. We offer a future of strength. When you see your error, we will be waiting.",
+["la"] = "2023-8514-2540-Timberstep Outpost",
 },
 {
-["la"] = "2024-1358-4860-Iskaara",
-["st"] = "Great work, Mannon!",
-["ta"] = 1612948,
-},
-{
-["la"] = "2024-1356-4856-Iskaara",
-["st"] = "The soup is smelling great, Emptyrivers!",
-["ta"] = 1612951,
-},
-{
-["la"] = "2024-1356-4856-Iskaara",
-["st"] = "Thank you for your hard work, Meowsus.",
-["ta"] = 1612954,
-},
-{
-["la"] = "2024-1360-4857-Iskaara",
-["st"] = "Keep up that hustle, Alastair!",
-["ta"] = 1612958,
+["la"] = "2023-5986-4132-Maruukai",
+["st"] = "My khan, this interloper has no place amongst your Nokhud. We must cleanse ourselves of any weakness.",
+["ta"] = 10609423,
 },
 },
 ["Death's Shadow"] = {
@@ -27818,34 +29881,19 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-7634-3378-Wingrest Embassy",
 },
 },
-["Cataloger Boxener"] = {
+["Qalashi Bonebreaker"] = {
 {
-["la"] = "2025-3845-6897-The Cascades",
-["st"] = "Lots 'o pretty here in Thaldraszus.",
-["ta"] = 1268383,
-},
-{
-["mt"] = 2,
-["la"] = "2025-3853-6884-The Cascades",
-["st"] = "%s pushes the raft against the current.",
-["ta"] = 1268385,
-},
-{
-["la"] = "2025-3861-6865-The Cascades",
-["st"] = "I'll try me best to let you get some good shots.",
-["ta"] = 1268388,
-},
-{
-["la"] = "2025-3682-6827-The Cascades",
-["st"] = "Mighty fine work there. Now let's get you home.",
-["ta"] = 1268421,
+["ta"] = 14046035,
+["st"] = "Good fight!",
+["la"] = "2022-3216-5540-The Slagmire",
 },
 },
-["Tyrhold Watcher"] = {
+["Steamgill"] = {
 {
-["la"] = "2025-5893-5596-Tyrhold",
-["st"] = "You disturb sacred ground!",
-["ta"] = 1958804,
+["mt"] = 5,
+["ta"] = 870498,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2023-6074-2377-Ohn'ahran Plains",
 },
 },
 ["Ohn Seshteng"] = {
@@ -27932,33 +29980,49 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 739639,
 },
 },
-["Qalashi Bonebreaker"] = {
+["Cataloger Boxener"] = {
 {
-["ta"] = 14046035,
-["st"] = "Good fight!",
-["la"] = "2022-3216-5540-The Slagmire",
-},
-},
-["Kaestrasz"] = {
-{
-["ta"] = 4250,
-["st"] = "Are you here for Agapanthus' order? I have everything ready.",
-["la"] = "2112-4742-7916-Valdrakken",
+["la"] = "2025-3845-6897-The Cascades",
+["st"] = "Lots 'o pretty here in Thaldraszus.",
+["ta"] = 1268383,
 },
 {
-["ta"] = 4259,
-["st"] = "Tell Agapanthus it is my pleasure to craft treats for Sir Pringly's fine palate.",
-["la"] = "2112-4691-7901-Valdrakken",
+["mt"] = 2,
+["la"] = "2025-3853-6884-The Cascades",
+["st"] = "%s pushes the raft against the current.",
+["ta"] = 1268385,
 },
 {
-["ta"] = 1176125,
-["st"] = "Your order is ready, Riparium! I incorporated more chilies so they may be spicy enough for Sir Pringly.",
-["la"] = "2112-4725-8000-Valdrakken",
+["la"] = "2025-3861-6865-The Cascades",
+["st"] = "I'll try me best to let you get some good shots.",
+["ta"] = 1268388,
 },
 {
-["ta"] = 1176131,
-["st"] = "If he gives you any indication that they are too mild, let me know immediately.",
-["la"] = "2112-4697-7901-Valdrakken",
+["la"] = "2025-3682-6827-The Cascades",
+["st"] = "Mighty fine work there. Now let's get you home.",
+["ta"] = 1268421,
+},
+},
+["Tarasek Looter"] = {
+{
+["la"] = "2076---Crystal Chambers",
+["st"] = "The vault is ours!",
+["ta"] = 11986978,
+},
+{
+["la"] = "2076---Crystal Chambers",
+["st"] = "For the Sundered Flame!",
+["ta"] = 11987028,
+},
+{
+["la"] = "2076---Crystal Chambers",
+["st"] = "These riches belong to the Sundered Flame!",
+["ta"] = 11987038,
+},
+{
+["la"] = "2076---Crystal Chambers",
+["st"] = "Your life is the least valuable thing here!",
+["ta"] = 12583904,
 },
 },
 ["Swift Hornstrider"] = {
@@ -28019,11 +30083,11 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2200-3544-4600-The Smoldering Copse",
 },
 },
-["Dragonbane Wingshredder"] = {
+["Taresh"] = {
 {
-["ta"] = 990380,
-["st"] = "Good fight!",
-["la"] = "2022-2572-7354-Dragonbane Keep",
+["la"] = "2023-5484-3821-Field of Ferocity",
+["st"] = "To the Dream!",
+["ta"] = 10610892,
 },
 },
 ["Eranog"] = {
@@ -28091,11 +30155,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12674370,
 },
 },
-["Taresh"] = {
+["Dragonbane Wingshredder"] = {
 {
-["la"] = "2023-5484-3821-Field of Ferocity",
-["st"] = "To the Dream!",
-["ta"] = 10610892,
+["ta"] = 990380,
+["st"] = "Good fight!",
+["la"] = "2022-2572-7354-Dragonbane Keep",
 },
 },
 ["Time-Lost Bladewing"] = {
@@ -28105,37 +30169,19 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14121344,
 },
 },
-["Soulharvester Mandakh"] = {
-{
-["mt"] = 3,
-["ta"] = 12780203,
-["st"] = "I will stomp on your grave.",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["mt"] = 3,
-["ta"] = 12780234,
-["st"] = "Raise... raise me... again...",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["mt"] = 3,
-["ta"] = 13802604,
-["st"] = "I am the messenger of death.",
-["la"] = "2093---The Eternal Kurgans",
-},
-{
-["mt"] = 3,
-["ta"] = 13802641,
-["st"] = "The first ancestors... shall rise...",
-["la"] = "2093---The Eternal Kurgans",
-},
-},
 ["Hauler Bennet"] = {
 {
 ["la"] = "2022-4852-7890-The Waking Shores",
 ["st"] = "I'll ask again... Are you SURE I can't do anything to help?",
 ["ta"] = 751809,
+},
+},
+["Feldera"] = {
+{
+["mt"] = 2,
+["la"] = "2024-1317-4836-Iskaara",
+["st"] = "Feldera sets out a Toy Train Set!",
+["ta"] = 12590555,
 },
 },
 ["Felthorne"] = {
@@ -28319,19 +30365,37 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-5469-7374-Ohn'iri Springs",
 },
 },
+["Soulharvester Mandakh"] = {
+{
+["mt"] = 3,
+["ta"] = 12780203,
+["st"] = "I will stomp on your grave.",
+["la"] = "2093---The Eternal Kurgans",
+},
+{
+["mt"] = 3,
+["ta"] = 12780234,
+["st"] = "Raise... raise me... again...",
+["la"] = "2093---The Eternal Kurgans",
+},
+{
+["mt"] = 3,
+["ta"] = 13802604,
+["st"] = "I am the messenger of death.",
+["la"] = "2093---The Eternal Kurgans",
+},
+{
+["mt"] = 3,
+["ta"] = 13802641,
+["st"] = "The first ancestors... shall rise...",
+["la"] = "2093---The Eternal Kurgans",
+},
+},
 ["Dragonbane Protector"] = {
 {
 ["ta"] = 990461,
 ["st"] = "Hold the field!",
 ["la"] = "2022-2858-6961-Dragonbane Keep",
-},
-},
-["Feldera"] = {
-{
-["mt"] = 2,
-["la"] = "2024-1317-4836-Iskaara",
-["st"] = "Feldera sets out a Toy Train Set!",
-["ta"] = 12590555,
 },
 },
 ["Nathanos Blightcaller"] = {
@@ -28423,51 +30487,65 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-8445-2499-Timberstep Outpost",
 },
 },
-["Kiya Featherpaw"] = {
+["Kaestrasz"] = {
 {
-["ta"] = 1715336,
-["st"] = "This shall cast an illusion that they are just baby cubs.",
-["la"] = "2200-5743-2582-Eye of Ysera",
-},
-{
-["ta"] = 1715339,
-["st"] = "When the djaradin come, they will appear as easy prey.",
-["la"] = "2200-5689-2368-Eye of Ysera",
+["ta"] = 4250,
+["st"] = "Are you here for Agapanthus' order? I have everything ready.",
+["la"] = "2112-4742-7916-Valdrakken",
 },
 {
-["ta"] = 1715343,
-["st"] = "Then, to motivate the umbraclaw to fight the djaradin, just say dinner time!",
-["la"] = "2200-5687-2365-Eye of Ysera",
-},
-},
-["Steamgill"] = {
-{
-["mt"] = 5,
-["ta"] = 870498,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2023-6074-2377-Ohn'ahran Plains",
-},
-},
-["Tarasek Looter"] = {
-{
-["la"] = "2076---Crystal Chambers",
-["st"] = "The vault is ours!",
-["ta"] = 11986978,
+["ta"] = 4259,
+["st"] = "Tell Agapanthus it is my pleasure to craft treats for Sir Pringly's fine palate.",
+["la"] = "2112-4691-7901-Valdrakken",
 },
 {
-["la"] = "2076---Crystal Chambers",
-["st"] = "For the Sundered Flame!",
-["ta"] = 11987028,
+["ta"] = 1176125,
+["st"] = "Your order is ready, Riparium! I incorporated more chilies so they may be spicy enough for Sir Pringly.",
+["la"] = "2112-4725-8000-Valdrakken",
 },
 {
-["la"] = "2076---Crystal Chambers",
-["st"] = "These riches belong to the Sundered Flame!",
-["ta"] = 11987038,
+["ta"] = 1176131,
+["st"] = "If he gives you any indication that they are too mild, let me know immediately.",
+["la"] = "2112-4697-7901-Valdrakken",
+},
+},
+["Tyrhold Watcher"] = {
+{
+["la"] = "2025-5893-5596-Tyrhold",
+["st"] = "You disturb sacred ground!",
+["ta"] = 1958804,
+},
+},
+["Velyra"] = {
+{
+["ta"] = 1612795,
+["st"] = "Great work, Sverdrup!",
+["la"] = "2024-1353-4854-Iskaara",
 },
 {
-["la"] = "2076---Crystal Chambers",
-["st"] = "Your life is the least valuable thing here!",
-["ta"] = 12583904,
+["ta"] = 1612800,
+["st"] = "Nice cooking, Craftbeer!",
+["la"] = "2024-1353-4854-Iskaara",
+},
+{
+["la"] = "2024-1358-4860-Iskaara",
+["st"] = "Great work, Mannon!",
+["ta"] = 1612948,
+},
+{
+["la"] = "2024-1356-4856-Iskaara",
+["st"] = "The soup is smelling great, Emptyrivers!",
+["ta"] = 1612951,
+},
+{
+["la"] = "2024-1356-4856-Iskaara",
+["st"] = "Thank you for your hard work, Meowsus.",
+["ta"] = 1612954,
+},
+{
+["la"] = "2024-1360-4857-Iskaara",
+["st"] = "Keep up that hustle, Alastair!",
+["ta"] = 1612958,
 },
 },
 ["Black Dragonflight Recruiter"] = {
@@ -28477,21 +30555,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12587403,
 },
 },
-["Koroleth"] = {
+["Bloodbeak the Ravenous"] = {
 {
-["ta"] = 10599909,
-["st"] = "It has been ten thousand years since the dragons were last in the Isles. They are invaders upon your land. Join the Primalists. Embrace the storm. We will aid you in the battles to come.",
-["la"] = "2023-8495-2575-Timberstep Outpost",
-},
-{
-["ta"] = 10599937,
-["st"] = "Your Khanam Matra leads you to servitude. We offer a future of strength. When you see your error, we will be waiting.",
-["la"] = "2023-8514-2540-Timberstep Outpost",
-},
-{
-["la"] = "2023-5986-4132-Maruukai",
-["st"] = "My khan, this interloper has no place amongst your Nokhud. We must cleanse ourselves of any weakness.",
-["ta"] = 10609423,
+["mt"] = 5,
+["ta"] = 900938,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2023-2503-5684-Lilac Ramble",
 },
 },
 ["Zeros"] = {
@@ -28526,19 +30595,33 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-5833-4323-Snowhide Camp",
 },
 },
-["Bloodbeak the Ravenous"] = {
+["Primalist Earthrazer"] = {
 {
-["mt"] = 5,
-["ta"] = 900938,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2023-2503-5684-Lilac Ramble",
+["ta"] = 14476336,
+["st"] = "The very earth empowers me!",
+["la"] = "2022-6557-2753-Scalecracker Keep",
+},
+{
+["ta"] = 14476374,
+["st"] = "I return to the earth...",
+["la"] = "2022-6513-2726-Scalecracker Keep",
+},
+{
+["ta"] = 14476374,
+["st"] = "The earth will avenge me...",
+["la"] = "2022-6513-2726-Scalecracker Keep",
+},
+{
+["ta"] = 14476384,
+["st"] = "May the earth swallow you whole...",
+["la"] = "2022-6505-2728-Scalecracker Keep",
 },
 },
-["Mysindre"] = {
+["Zen'kala"] = {
 {
-["ta"] = 1535336,
-["st"] = "This ducky has been passed among whelps for ages! I hope it brings yours comfort, too.",
-["la"] = "2023-3027-5771-Shady Sanctuary",
+["ta"] = 24936819,
+["st"] = "Hah! No thanks, I need my suppliers on my good side. I'll make sure ya get those parts.",
+["la"] = "85-5170-8120-Valley of Strength",
 },
 },
 ["Sindragosa"] = {
@@ -28691,12 +30774,18 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1978165,
 },
 },
-["Avata"] = {
+["Huntmaster Amaa"] = {
 {
-["mt"] = 2,
-["la"] = "2112-4821-5755-Valdrakken",
-["st"] = "%s throws down a Hearthstone board! Who's ready to play?",
-["ta"] = 740973,
+["mt"] = 3,
+["la"] = "2023-5374-3960-Field of Ferocity",
+["st"] = "Enough! I yield to your prowess. That was an honorable fight.",
+["ta"] = 2033002,
+},
+{
+["mt"] = 3,
+["la"] = "2023-5546-3865-Field of Ferocity",
+["st"] = "Truly a challenge of the senses. Bring honor to your ancestors, heroes.",
+["ta"] = 10610712,
 },
 },
 ["Broodweaver Araznae"] = {
@@ -28715,21 +30804,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 310238,
 },
 },
-["Qalashi Crustshaper"] = {
+["Avata"] = {
 {
-["ta"] = 4889,
-["st"] = "You can break me but not the mountains...",
-["la"] = "2022-3669-6102-Burning Ascent",
-},
-{
-["ta"] = 4899,
-["st"] = "I've fought bigger.",
-["la"] = "2022-3639-6125-Burning Ascent",
-},
-{
-["ta"] = 4901,
-["st"] = "Good fight!",
-["la"] = "2022-3634-6099-Burning Ascent",
+["mt"] = 2,
+["la"] = "2112-4821-5755-Valdrakken",
+["st"] = "%s throws down a Hearthstone board! Who's ready to play?",
+["ta"] = 740973,
 },
 },
 ["Blazzuronk"] = {
@@ -28752,37 +30832,61 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2194---Iridikron's Precipice",
 },
 },
-["Aphine"] = {
+["Fel Queen's Guard"] = {
 {
-["mt"] = 2,
-["la"] = "2112-4821-5755-Valdrakken",
-["st"] = "Aphine prepares a Surprisingly Palatable Feast!",
-["ta"] = 741832,
-},
-},
-["Drakonid Breaker"] = {
-{
-["la"] = "2075---Azure Vault",
-["st"] = "For the Sundered Flame!",
-["ta"] = 11986916,
+["ta"] = 14044722,
+["st"] = "This world is imperfect!",
+["la"] = "2025-5783-6776-Thaldraszus",
 },
 {
-["la"] = "2076---Crystal Chambers",
-["st"] = "The secrets of the vault are mine!",
-["ta"] = 12938961,
+["ta"] = 14044761,
+["st"] = "Light of Lights... save me...",
+["la"] = "2025-5843-6762-East Shrine",
 },
 {
-["la"] = "2076---Crystal Chambers",
-["st"] = "This hall will be your tomb!",
-["ta"] = 12939018,
+["ta"] = 14044820,
+["st"] = "In Azshara's name!",
+["la"] = "2025-5869-6840-Passage of Time",
 },
-},
-["Zentha"] = {
 {
-["mt"] = 3,
-["la"] = "2254-3970-6790-Barrows of Reverie",
-["st"] = "I see the podling who took the fruit!",
-["ta"] = 740633,
+["ta"] = 14044837,
+["st"] = "I failed... her...",
+["la"] = "2025-5897-6909-Passage of Time",
+},
+},
+["Captain Garrick"] = {
+{
+["la"] = "2022-7676-3371-Wingrest Embassy",
+["st"] = "Our orders were clear, Private Garrick. We have other threats to worry about.",
+["ta"] = 1960787,
+},
+{
+["ta"] = 12234403,
+["st"] = "Not bad, Private Garrick. Continue practicing your orcish. It will prove useful on this assignment.",
+["la"] = "2022-7648-3402-Wingrest Embassy",
+},
+{
+["ta"] = 12234410,
+["st"] = "Wish our comrade luck, Private Garrick.",
+["la"] = "2022-7669-3452-Wingrest Embassy",
+},
+{
+["ta"] = 12234877,
+["st"] = "Tell Grimaxe the first drink is on me once we're both off our shifts.",
+["la"] = "2022-7670-3451-Wingrest Embassy",
+},
+{
+["ta"] = 12234884,
+["st"] = "I would and I have, Private Garrick. And tonight, so will you.",
+["la"] = "2022-7559-3561-Wingrest Embassy",
+},
+},
+["Aedis Brom"] = {
+{
+["lg"] = 7,
+["la"] = "84-7533-5442-Pig and Whistle Tavern",
+["st"] = "Was that the third or fourth time you nearly got me gutted trying one of your crazy stunts?",
+["ta"] = 1542991,
 },
 },
 ["Time-Lost Geomancer"] = {
@@ -28792,11 +30896,21 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14121347,
 },
 },
-["Time-Lost Mudskipper"] = {
+["Forge-Keep Overseer"] = {
 {
-["la"] = "2025-5819-8470-Shifting Sands",
-["st"] = "Grgl...",
-["ta"] = 848491,
+["ta"] = 12912995,
+["st"] = "Titans' wrath... find you...",
+["la"] = "2025-5876-5847-Tyrhold",
+},
+{
+["ta"] = 12914013,
+["st"] = "Outsiders are not permitted!",
+["la"] = "2025-5833-5943-Tyrhold",
+},
+{
+["ta"] = 12914766,
+["st"] = "I... have... failed...",
+["la"] = "2025-5879-5935-Tyrhold",
 },
 },
 ["Field Marshal Stonebridge"] = {
@@ -28825,26 +30939,20 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 933157,
 },
 },
-["Plainswalker Mammoth"] = {
+["Aphine"] = {
 {
 ["mt"] = 2,
-["ta"] = 10604681,
-["st"] = "%s prepares to charge!",
-["la"] = "2023-7541-3255-Wanderer's Steppe",
+["la"] = "2112-4821-5755-Valdrakken",
+["st"] = "Aphine prepares a Surprisingly Palatable Feast!",
+["ta"] = 741832,
 },
 },
-["Lieutenant Narlena"] = {
+["Zentha"] = {
 {
 ["mt"] = 3,
-["ta"] = 13206789,
-["st"] = "You have interfered in our affairs for the last time. Prepare to meet your end!",
-["la"] = "2133-4782-5543-Ruins of Drekazera",
-},
-{
-["mt"] = 3,
-["ta"] = 13206817,
-["st"] = "Reykal, I have failed! Avenge me!",
-["la"] = "2133-4863-5804-Ruins of Drekazera",
+["la"] = "2254-3970-6790-Barrows of Reverie",
+["st"] = "I see the podling who took the fruit!",
+["ta"] = 740633,
 },
 },
 ["Cenrrrn Cirrgl Tideshifter"] = {
@@ -28880,12 +30988,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 22348632,
 },
 },
-["Frostbreath Arachnid"] = {
+["Worldbreaker Shapist"] = {
 {
-["mt"] = 5,
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "|TInterface\\ICONS\\Ability_Mage_IceWall.BLP:20|t A %s skitters down from the webs above!",
-["ta"] = 12676998,
+["ta"] = 164958,
+["st"] = "Neltharion guides me!",
+["la"] = "2022-3482-4749-Smoldering Perch",
+},
+{
+["ta"] = 164994,
+["st"] = "You only delay the inevitable.",
+["la"] = "2022-3477-4645-Smoldering Perch",
 },
 },
 ["Nozdormu"] = {
@@ -28973,13 +31085,26 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14320046,
 },
 },
-["Kranac Sagesnow"] = {
+["Elder Honeypelt"] = {
 {
-["lg"] = 303,
-["mt"] = 3,
-["ta"] = 993535,
-["st"] = "|A:furblan-w-16:0:1.00:0:0:255:64:64|a|A:furblan-w-17:0:1.00:0:0:255:64:64|a|A:furblan-w-15:0:1.00:0:0:255:64:64|a |A:furblan-w-8:0:1.00:0:0:255:64:64|a|A:furblan-w-10:0:1.00:0:0:255:64:64|a|A:furblan-w-30:0:1.00:0:0:255:64:64|a |A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-24:0:1.00:0:0:255:64:64|a|A:furblan-w-34:0:1.00:0:0:255:64:64|a |A:furblan-w-15:0:1.00:0:0:255:64:64|a|A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-6:0:1.00:0:0:255:64:64|a|A:furblan-w-24:0:1.00:0:0:255:64:64|a |A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-10:0:1.00:0:0:255:64:64|a|A:furblan-w-29:0:1.00:0:0:255:64:64|a|A:furblan-w-1:0:1.00:0:0:255:64:64|a |A:furblan-w-24:0:1.00:0:0:255:64:64|a|A:furblan-w-7:0:1.00:0:0:255:64:64|a|A:furblan-w-23:0:1.00:0:0:255:64:64|a|A:furblan-w-29:0:1.00:0:0:255:64:64|a |A:furblan-w-16:0:1.00:0:0:255:64:64|a|A:furblan-w-5:0:1.00:0:0:255:64:64|a|A:furblan-w-20:0:1.00:0:0:255:64:64|a|A:furblan-w-13:0:1.00:0:0:255:64:64|a Lunamae |A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-18:0:1.00:0:0:255:64:64|a |A:furblan-w-20:0:1.00:0:0:255:64:64|a|A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-33:0:1.00:0:0:255:64:64|a|A:furblan-w-28:0:1.00:0:0:255:64:64|a|A:furblan-w-13:0:1.00:0:0:255:64:64|a|A:furblan-w-36:0:1.00:0:0:255:64:64|a |A:furblan-w-25:0:1.00:0:0:255:64:64|a|A:furblan-w-16:0:1.00:0:0:255:64:64|a|A:furblan-w-25:0:1.00:0:0:255:64:64|a|A:furblan-w-6:0:1.00:0:0:255:64:64|a|A:furblan-w-27:0:1.00:0:0:255:64:64|a|A:furblan-w-34:0:1.00:0:0:255:64:64|a|A:furblan-w-35:0:1.00:0:0:255:64:64|a|A:furblan-w-30:0:1.00:0:0:255:64:64|a|A:furblan-w-20:0:1.00:0:0:255:64:64|a|A:furblan-w-20:0:1.00:0:0:255:64:64|a |A:furblan-w-8:0:1.00:0:0:255:64:64|a|A:furblan-w-30:0:1.00:0:0:255:64:64|a |A:furblan-w-9:0:1.00:0:0:255:64:64|a|A:furblan-w-35:0:1.00:0:0:255:64:64|a |A:furblan-w-29:0:1.00:0:0:255:64:64|a |A:furblan-w-1:0:1.00:0:0:255:64:64|a|A:furblan-w-4:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-7:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-31:0:1.00:0:0:255:64:64|a|A:furblan-w-36:0:1.00:0:0:255:64:64|a |A:furblan-w-8:0:1.00:0:0:255:64:64|a|A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-21:0:1.00:0:0:255:64:64|a|A:furblan-w-15:0:1.00:0:0:255:64:64|a |A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-35:0:1.00:0:0:255:64:64|a |A:furblan-w-33:0:1.00:0:0:255:64:64|a|A:furblan-w-17:0:1.00:0:0:255:64:64|a|A:furblan-w-26:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-32:0:1.00:0:0:255:64:64|a|A:furblan-w-5:0:1.00:0:0:255:64:64|a |A:furblan-w-3:0:1.00:0:0:255:64:64|a|A:furblan-w-34:0:1.00:0:0:255:64:64|a |A:furblan-w-29:0:1.00:0:0:255:64:64|a|A:furblan-w-31:0:1.00:0:0:255:64:64|a|A:furblan-w-33:0:1.00:0:0:255:64:64|a |A:furblan-w-2:0:1.00:0:0:255:64:64|a|A:furblan-w-33:0:1.00:0:0:255:64:64|a|A:furblan-w-19:0:1.00:0:0:255:64:64|a|A:furblan-w-15:0:1.00:0:0:255:64:64|a|A:furblan-w-22:0:1.00:0:0:255:64:64|a|A:furblan-w-1:0:1.00:0:0:255:64:64|a|A:furblan-w-10:0:1.00:0:0:255:64:64|a|A:furblan-w-1:0:1.00:0:0:255:64:64|a|A:furblan-w-4:0:1.00:0:0:255:64:64|a|A:furblan-w-26:0:1.00:0:0:255:64:64|a|A:furblan-w-3:0:1.00:0:0:255:64:64|a",
-["la"] = "2024-2942-2674-The Azure Span",
+["la"] = "2133-5665-5463-Loamm",
+["st"] = "Brynn, please wake up! We've been through worse! I taught you the first rule of hunting was to always come home safely...",
+["ta"] = 932163,
+},
+{
+["la"] = "2133-5687-5566-Loamm",
+["st"] = "I'm not leaving Brynnsahce here, I won't--",
+["ta"] = 932189,
+},
+{
+["la"] = "2133-5612-5430-Loamm",
+["st"] = "Brynn... You should have sought cover instead of worrying about me. You were so young.",
+["ta"] = 932210,
+},
+{
+["la"] = "2133-5608-5453-Loamm",
+["st"] = "That beast, the one that smelled like death and sulfur. You kill it for Brynnsahce, you hear?",
+["ta"] = 932221,
 },
 },
 ["Event Controller [DNT]"] = {
@@ -29016,19 +31141,44 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-1052-6141-Little Scales Daycare",
 },
 },
+["Marinth"] = {
+{
+["ta"] = 4289,
+["st"] = "Welcome to the Ram! I can help you with anything you may need.",
+["la"] = "2112-4730-4652-The Roasted Ram",
+},
+{
+["ta"] = 4294,
+["st"] = "If you need cheese for those crackers, I recommend Gorgonzormu's stock. Best in Valdrakken!",
+["la"] = "2112-4729-4651-The Roasted Ram",
+},
+{
+["ta"] = 167985,
+["st"] = "Kaithius, how many times do I have to say it, I am not Tithris.",
+["la"] = "2112-4636-4632-The Roasted Ram",
+},
+{
+["ta"] = 167998,
+["st"] = "Yes, Kaithius. I will be here.",
+["la"] = "2112-4613-4630-The Roasted Ram",
+},
+{
+["ta"] = 1176104,
+["st"] = "Ah, welcome, Riparium! Here for more crackers?",
+["la"] = "2112-4755-4708-The Roasted Ram",
+},
+{
+["ta"] = 1176109,
+["st"] = "More will be in stock soon, so return any time those little ones need more crackers.",
+["la"] = "2112-4751-4692-The Roasted Ram",
+},
+},
 ["Keskos"] = {
 {
 ["mt"] = 2,
 ["la"] = "2133-5108-2620-Obsidian Rest",
 ["st"] = "Flight Master Keskos nods silently at you, her gaze fixed on the sky.",
 ["ta"] = 932969,
-},
-},
-["Officer Blythe"] = {
-{
-["ta"] = 735906,
-["st"] = "The third fleet has been deployed against the southern shores of the Broken Isles.",
-["la"] = "84-3702-4293-Stormwind Harbor",
 },
 },
 ["Judge Roggul"] = {
@@ -29200,31 +31350,180 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5757-5980-Tyrhold",
 },
 },
-["Kirygosa"] = {
+["Mykellqtea"] = {
 {
-["la"] = "2024-3927-6381-Azure Archives",
-["st"] = "Dearest Kalec. It was neverending, getting to know grief.",
-["ta"] = 951431,
+["mt"] = 3,
+["ta"] = 587118,
+["st"] = "Rook... needs help!",
+["la"] = "2244---The Charred Arbor",
 },
 {
-["la"] = "2024-3896-6422-Azure Archives",
-["st"] = "It was deeper than the oceans of Azeroth, more twisted than the sands of time, darker than the void...",
-["ta"] = 951438,
+["mt"] = 3,
+["ta"] = 587282,
+["st"] = "Rook fight!",
+["la"] = "2244---The Charred Arbor",
 },
 {
-["la"] = "2024-3937-6224-Azure Archives",
-["st"] = "Stranglethorn was a welcome distraction. Here, however, rekindled a hope I thought lost.",
-["ta"] = 951448,
+["mt"] = 3,
+["ta"] = 588111,
+["st"] = "Brawl... with Rook.",
+["la"] = "2240---Sylvan Conservatory",
 },
 {
-["la"] = "2024-4013-6233-Azure Archives",
-["st"] = "If grief decides to visit Dawn's Blossom, I will meet it with my life.",
-["ta"] = 951458,
+["mt"] = 3,
+["ta"] = 1525183,
+["st"] = "Bleed for the Grand Magistrix!",
+["la"] = "2191---Millennia's Threshold",
 },
 {
-["la"] = "2024-4076-6283-Azure Archives",
-["st"] = "Some day, let's fly over Azeroth again.",
-["ta"] = 951465,
+["mt"] = 3,
+["ta"] = 1525196,
+["st"] = "The wind slices to the bone!",
+["la"] = "2191---Millennia's Threshold",
+},
+{
+["mt"] = 3,
+["ta"] = 1525449,
+["st"] = "Death by a thousand cuts!",
+["la"] = "2194---Galakrond's Fall",
+},
+{
+["mt"] = 3,
+["ta"] = 1525736,
+["st"] = "If you blink... you bleed!",
+["la"] = "2194---Iridikron's Precipice",
+},
+{
+["mt"] = 3,
+["ta"] = 1525740,
+["st"] = "Elisande... forgive me!",
+["la"] = "2194---Iridikron's Precipice",
+},
+{
+["mt"] = 3,
+["ta"] = 1798147,
+["st"] = "Sacrolash!",
+["la"] = "2234---The Blessed Boughs",
+},
+{
+["mt"] = 3,
+["ta"] = 1798170,
+["st"] = "Fire to the aid of shadow!",
+["la"] = "2234---The Blessed Boughs",
+},
+{
+["mt"] = 3,
+["ta"] = 1798294,
+["st"] = "Your luck has run its course!",
+["la"] = "2235---The Blessed Boughs",
+},
+{
+["mt"] = 3,
+["ta"] = 1895330,
+["st"] = "Soft, vulnerable shells. Brief fragile lives. You cannot escape the curse of flesh!",
+["la"] = "2190---Temporal Vestibule",
+},
+{
+["mt"] = 3,
+["ta"] = 1895512,
+["st"] = "Flesh is no match for iron!",
+["la"] = "2195---Infinite Conflux",
+},
+{
+["mt"] = 3,
+["ta"] = 1895620,
+["st"] = "Loken will not rest... until the forge is retaken! You change... nothing!",
+["la"] = "2195---Infinite Conflux",
+},
+{
+["mt"] = 3,
+["ta"] = 1895788,
+["st"] = "Armies of iron will smother the world!",
+["la"] = "2195---Infinite Conflux",
+},
+{
+["mt"] = 3,
+["ta"] = 1896080,
+["st"] = "Folvynn buul hrom onn!",
+["la"] = "2191---Millennia's Threshold",
+},
+{
+["mt"] = 2,
+["la"] = "2237---The Blessed Boughs",
+["st"] = "Mykellqtea prepares a Portable Party Platter!",
+["ta"] = 1970734,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "You dare to disturb these waters? You will drown!",
+["ta"] = 13457361,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Do not run, it only delays the inevitable.",
+["ta"] = 13457423,
+},
+{
+["mt"] = 3,
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Behold the power of torrential waters!",
+["ta"] = 13457561,
+},
+{
+["mt"] = 3,
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Finally, my banishment ends!",
+["ta"] = 14137787,
+},
+{
+["mt"] = 3,
+["la"] = "2097---The Botanica",
+["st"] = "I have no equal!",
+["ta"] = 14138011,
+},
+{
+["mt"] = 3,
+["la"] = "2097---The Botanica",
+["st"] = "Kill, kill!",
+["ta"] = 14138107,
+},
+{
+["mt"] = 3,
+["la"] = "2098---The Pitch",
+["st"] = "Perish, mortal!",
+["ta"] = 14138276,
+},
+{
+["mt"] = 3,
+["la"] = "2097---Algeth'ar Academy",
+["st"] = "Yes... yes!",
+["ta"] = 14138664,
+},
+{
+["mt"] = 3,
+["la"] = "2095---Flashfrost Incursion",
+["st"] = "Let your mind be clouded.",
+["ta"] = 14142522,
+},
+{
+["mt"] = 3,
+["la"] = "2095---Flashfrost Incursion",
+["st"] = "You will pay with your life!",
+["ta"] = 14142588,
+},
+{
+["mt"] = 3,
+["la"] = "2095---Ruby Lifeshrine",
+["st"] = "There is no turning back now!",
+["ta"] = 14142846,
+},
+{
+["mt"] = 3,
+["la"] = "2095---Ruby Lifeshrine",
+["st"] = "These walls will be your tomb!",
+["ta"] = 14142855,
 },
 },
 ["Shade of Grief"] = {
@@ -29234,126 +31533,52 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 659691,
 },
 },
-["Naleidea Rivergleam"] = {
+["Hunter Narman"] = {
 {
-["ta"] = 227826,
-["st"] = "Our surveyors spotted something that might be of interest to our research. I trust you brought your climbing gear?",
-["la"] = "2023-8287-3350-Rusza'thar Reach",
+["la"] = "2023-5671-3883-Ohn'ahran Plains",
+["st"] = "Great Khan! I come before you for your blessing in seeking the hand of your grandson.",
+["ta"] = 10610858,
 },
 {
-["la"] = "2025-4559-5227-Scalewatch Caverns",
-["st"] = "According to my notes, there should be some unique artifacts in this area. Search the upper areas here while my team scouts below.",
-["ta"] = 897948,
+["la"] = "2023-5651-3922-Ohn'ahran Plains",
+["st"] = "I am among the mightiest of Shikaar hunters of the current day. I can hit the eye of a bruffalon from 60 paces. I am faster than--",
+["ta"] = 10610862,
 },
 {
-["ta"] = 986930,
-["st"] = "The proto-dragons are a little too bold today. Take down a few so we can study the area safely.",
-["la"] = "2022-3979-7942-Wild Preserve",
+["la"] = "2023-5665-3876-Ohn'ahran Plains",
+["st"] = "It is.",
+["ta"] = 10610872,
 },
 {
-["ta"] = 1177015,
-["st"] = "These ruins are teeming with magic ley lines. We must gather all the energy we can for our studies.",
-["la"] = "2024-3947-6290-Azure Archives",
+["la"] = "2023-6361-4042-Maruukai",
+["st"] = "Already? Then I must hurry! Meet us there when you are able.",
+["ta"] = 10614789,
 },
 {
-["ta"] = 1177418,
-["st"] = "There are some strange magical anomalies in the ice here. Could you climb up and gather some samples for my research?",
-["la"] = "2024-4910-3835-Upper Frostlands",
+["la"] = "2023-4662-6044-Ohn'ahran Plains",
+["st"] = "Dawa! I must ask-",
+["ta"] = 10614821,
 },
 {
-["la"] = "2023-8087-6923-Roaring Dragonsprings",
-["st"] = "These hot springs are positively bubbling over with elemental energy! Collect a few samples, so we can see if it is affecting the local wildlife.",
-["ta"] = 1520730,
+["mt"] = 2,
+["la"] = "2023-4678-6046-Ohn'ahran Plains",
+["st"] = "Narman erupts in laughter.",
+["ta"] = 10614826,
 },
 {
-["ta"] = 1604855,
-["st"] = "Powerful fire elemental magic abounds in these ruins. Collect as much as you can, but watch your feet.",
-["la"] = "2022-5822-2401-Life-Binder Conservatory",
+["la"] = "2023-4647-6058-Ohn'ahran Plains",
+["st"] = "We did. Want to get married?",
+["ta"] = 10614828,
 },
 {
-["ta"] = 1604987,
-["st"] = "Well done! You managed to keep your cool and return elemental energy for us to study.",
-["la"] = "2022-5636-2361-Life-Binder Conservatory",
+["la"] = "2023-4665-6055-Ohn'ahran Plains",
+["st"] = "And I, you. More than anything.",
+["ta"] = 10614831,
 },
 {
-["ta"] = 1883343,
-["st"] = "The Dream has such diverse wildlife. Could you help us catalogue the denizens of this land?",
-["la"] = "2200-5804-5205-Sprigling Gloam",
-},
-{
-["ta"] = 1883837,
-["st"] = "Well done. Kieule is looking forward to your pictures. You may be her favorite photographer!",
-["la"] = "2200-5879-5285-Sprigling Gloam",
-},
-{
-["la"] = "2023-5764-5785-Ohn'ahran Plains",
-["st"] = "The local thunderspines have infused lightning energy into some of the minerals in this area. Let's gather a few specimens, shall we?",
-["ta"] = 1976327,
-},
-{
-["ta"] = 2034608,
-["st"] = "The gorlocs have stashed many stolen items in the upper reaches of this area. Gather them so they can be returned to their rightful owners.",
-["la"] = "2022-5957-4990-The Waking Shores",
-},
-{
-["ta"] = 2039258,
-["st"] = "Look at all these ancient titan relics scattered about. Never pass up an opportunity to study the past!",
-["la"] = "2025-5705-3550-Drake Grotto",
-},
-{
-["ta"] = 10603078,
-["st"] = "A magnificent find! I will bring these materials back to our camp.",
-["la"] = "2023-8301-3115-Mudfin Village",
-},
-{
-["ta"] = 12233895,
-["st"] = "The Horde and Alliance have a long history of rivalry. But Toddy and I pursue knowledge, not violence.",
-["la"] = "2022-7629-3356-Wingrest Embassy",
-},
-{
-["ta"] = 12234086,
-["st"] = "Does the majordomo personally respond to every call for help?",
-["la"] = "2022-7667-3355-Wingrest Embassy",
-},
-{
-["ta"] = 12234109,
-["st"] = "Incredible!",
-["la"] = "2022-7626-3431-Wingrest Embassy",
-},
-{
-["ta"] = 12234199,
-["st"] = "There's plenty to study here before we move on, Toddy.",
-["la"] = "2022-7630-3455-Wingrest Embassy",
-},
-{
-["ta"] = 12234244,
-["st"] = "We'll launch expeditions to every corner of these isles as soon as it's safe to do so.",
-["la"] = "2022-7631-3429-Wingrest Embassy",
-},
-{
-["ta"] = 12234263,
-["st"] = "Incredible! The elements here surge with power!",
-["la"] = "2022-7608-3361-Wingrest Embassy",
-},
-{
-["ta"] = 13789089,
-["st"] = "Creatures and relics from the past have made their way into our present. Collect any artifacts you can find before they are lost to the timeways!",
-["la"] = "2025-5803-8038-Shifting Sands",
-},
-{
-["ta"] = 14043893,
-["st"] = "Perhaps we can deduce what these relics were used for. I shall add them to the collection!",
-["la"] = "2025-5798-3635-Drake Grotto",
-},
-{
-["la"] = "2025-5815-8448-Shifting Sands",
-["st"] = "Thank you, hero. Just thinking about the temporal implications can give you a headache.",
-["ta"] = 14145995,
-},
-{
-["ta"] = 23898567,
-["st"] = "Excellent! I will begin studying these immediately.",
-["la"] = "2024-4816-3750-Camp Antonidas",
+["la"] = "2023-4672-6043-Ohn'ahran Plains",
+["st"] = "Yes! We must tell our clans!",
+["ta"] = 10614856,
 },
 },
 ["Myrmidon Solek'vosh"] = {
@@ -29476,16 +31701,21 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 23917226,
 },
 },
-["Ittu"] = {
+["Guard Hakota"] = {
 {
-["la"] = "2024-1251-4930-The Filled Bowl",
-["st"] = "That one's my favorite! Tell it again!",
-["ta"] = 1787462,
+["ta"] = 165276,
+["st"] = "Halt, outsider!",
+["la"] = "2022-5489-3808-Uktulut Backwater",
 },
 {
-["la"] = "2024-1251-4930-The Filled Bowl",
-["st"] = "Another one!",
-["ta"] = 1787468,
+["ta"] = 165279,
+["st"] = "State your purpose before we skewer you for this intrusion.",
+["la"] = "2022-5501-3816-Uktulut Backwater",
+},
+{
+["ta"] = 165290,
+["st"] = "The closer the djaradin push towards us, the more the river dries up. If my guards can't keep them away, we'll run out of food soon.",
+["la"] = "2022-5520-3829-Uktulut Backwater",
 },
 },
 ["Bleddwen"] = {
@@ -29571,24 +31801,11 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2240---Sylvan Conservatory",
 },
 },
-["Holyheaux"] = {
+["Q'onzu"] = {
 {
-["mt"] = 3,
-["la"] = "2237---The Blessed Boughs",
-["st"] = "Foolishly you have sought your own demise, brazenly you have disregarded powers beyond your understanding. You have fought hard to invade the realm of the harvester, now there is only one way out- to walk the lonely path of the damned.",
-["ta"] = 1865951,
-},
-{
-["mt"] = 3,
-["la"] = "2237---The Blessed Boughs",
-["st"] = "Death is the only escape!",
-["ta"] = 1865971,
-},
-{
-["mt"] = 3,
-["la"] = "2237---The Blessed Boughs",
-["st"] = "I have waited long enough. Now you face the harvester of souls.",
-["ta"] = 1865971,
+["ta"] = 307898,
+["st"] = "Now why would I want to stop the Dream from changing? I think I will wait and see what happens. Try not to die, mortal.",
+["la"] = "2200-6569-7008-Fields of Reverie",
 },
 },
 ["Scalecommander Cindrethresh"] = {
@@ -29680,11 +31897,16 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-4709-6500-The Waking Shores",
 },
 },
-["Qalashi Ironskin"] = {
+["Maximillian of Northshire"] = {
 {
-["ta"] = 4850,
-["st"] = "Good fight!",
-["la"] = "2022-3685-6004-Burning Ascent",
+["la"] = "84-5623-7490-The Canals",
+["st"] = "Greetings, Shopkeeper!",
+["ta"] = 31999,
+},
+{
+["la"] = "84-5514-7508-The Canals",
+["st"] = "No need! Now that I have my sword, I am complete and can continue about my day!",
+["ta"] = 1856689,
 },
 },
 ["Primalist Iceslinger"] = {
@@ -29714,34 +31936,20 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14471539,
 },
 },
-["Massive Magmashell"] = {
+["Fulgurb"] = {
 {
 ["mt"] = 5,
-["ta"] = 164772,
+["la"] = "2023-7099-6004-Ohn'ahran Plains",
 ["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2022-3947-4829-Smoldering Perch",
+["ta"] = 851326,
 },
 },
-["Roarlia"] = {
+["Estuary"] = {
 {
-["la"] = "2024-1346-4873-Iskaara",
-["st"] = "The soup is smelling great, Hørus!",
-["ta"] = 500419,
-},
-{
-["la"] = "2024-1361-4870-Iskaara",
-["st"] = "Thank you for your hard work, Flumina.",
-["ta"] = 500428,
-},
-{
-["ta"] = 500541,
-["st"] = "Almost there, Stubs! Keep it up!",
-["la"] = "2024-1347-4849-Iskaara",
-},
-{
-["ta"] = 500557,
-["st"] = "Great work, Hybý!",
-["la"] = "2024-1357-4862-Iskaara",
+["mt"] = 5,
+["ta"] = 1163395,
+["st"] = "A wingshredder is aiming at you! Get on the ground or retreat!",
+["la"] = "2022-2717-7173-Dragonbane Keep",
 },
 },
 ["Sprucecrown"] = {
@@ -29824,30 +32032,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2199-6071-5324-Tyrhold Reservoir",
 },
 },
-["The Black Locus"] = {
+["Overgrown Ancient"] = {
 {
-["mt"] = 4,
-["la"] = "2023-6386-1645-Nelthazan Ruins",
-["st"] = "Hear me and obey.",
-["ta"] = 10613941,
-},
-{
-["mt"] = 4,
-["la"] = "2023-6292-1862-Nelthazan Ruins",
-["st"] = "You are mine to command.",
-["ta"] = 10614395,
-},
-{
-["mt"] = 4,
-["la"] = "2023-6165-1866-Nelthazan Ruins",
-["st"] = "Disobedience brings pain.",
-["ta"] = 10614545,
-},
-{
-["mt"] = 4,
-["la"] = "2023-6046-1860-Ohn'ahran Plains",
-["st"] = "Seek me below.",
-["ta"] = 10614658,
+["mt"] = 5,
+["la"] = "2097---The Botanica",
+["st"] = "|TInterface\\ICONS\\Spell_Nature_Earthquake.blp:20|t Dormant lashers begin to |cFFFF0000|Hspell:388923|h[Burst Forth]|h|r!",
+["ta"] = 12588146,
 },
 },
 ["Qalashi Necksnapper"] = {
@@ -29857,16 +32047,26 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3639-6125-Burning Ascent",
 },
 },
-["Zaqali Ironshield"] = {
+["Roarlia"] = {
 {
-["ta"] = 1715403,
-["st"] = "The djaradin... will... rise!",
-["la"] = "2200-5238-2872-Eye of Ysera",
+["la"] = "2024-1346-4873-Iskaara",
+["st"] = "The soup is smelling great, Hørus!",
+["ta"] = 500419,
 },
 {
-["ta"] = 1715590,
-["st"] = "I die... with honor!",
-["la"] = "2200-5635-2686-Eye of Ysera",
+["la"] = "2024-1361-4870-Iskaara",
+["st"] = "Thank you for your hard work, Flumina.",
+["ta"] = 500428,
+},
+{
+["ta"] = 500541,
+["st"] = "Almost there, Stubs! Keep it up!",
+["la"] = "2024-1347-4849-Iskaara",
+},
+{
+["ta"] = 500557,
+["st"] = "Great work, Hybý!",
+["la"] = "2024-1357-4862-Iskaara",
 },
 },
 ["Broodkeeper Diurna"] = {
@@ -30156,26 +32356,16 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-1150-6470-Little Scales Daycare",
 },
 },
-["Bertinuat"] = {
+["Embertooth Harvester"] = {
 {
-["la"] = "2024-1185-4832-Iskaara",
-["st"] = "Adventurer! Please help! Gnolls are holding our friends captive!",
-["ta"] = 835476,
+["ta"] = 901690,
+["st"] = "Gnaw your bones!",
+["la"] = "2025-5839-6734-Passage of Time",
 },
 {
-["ta"] = 12579880,
-["st"] = "If you free our friends, we'll make sure they get home safely.",
-["la"] = "2096---Lost Kanniak",
-},
-{
-["ta"] = 12581157,
-["st"] = "Thank you for your aid--but we won't let you do this alone.",
-["la"] = "2096---The Rotwood",
-},
-{
-["ta"] = 12581173,
-["st"] = "I'm on it, friends!",
-["la"] = "2096---The Rotwood",
+["ta"] = 901811,
+["st"] = "Tear you... Apart...",
+["la"] = "2025-5855-6732-Passage of Time",
 },
 },
 ["Topper McNabb"] = {
@@ -30387,16 +32577,31 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12675960,
 },
 },
-["Off-Duty Guard"] = {
+["Bound Spirit"] = {
 {
-["ta"] = 2038350,
-["st"] = "I don't care that we're under attack. Why does everything have to be so disorganized...",
-["la"] = "2025-5093-6712-Gelikyr Post",
+["la"] = "2025-6501-1268-Veiled Ossuary",
+["st"] = "Such anger and hatred... what are these creatures?",
+["ta"] = 950566,
 },
 {
-["ta"] = 2038357,
-["st"] = "Look at this, Smoht! There's just a pile of loose gold on the floor! We're Dragonkin, not slobs!!",
-["la"] = "2025-5125-6679-Gelikyr Post",
+["la"] = "2025-6173-1272-Veiled Ossuary",
+["st"] = "They're gathering arcane energy from the area!",
+["ta"] = 950604,
+},
+{
+["la"] = "2025-6181-1279-Veiled Ossuary",
+["st"] = "These strange creatures are trying to release something!",
+["ta"] = 950609,
+},
+{
+["la"] = "2025-5995-1500-Veiled Ossuary",
+["st"] = "They wanted my essence to fuel something!",
+["ta"] = 950691,
+},
+{
+["la"] = "2025-5995-1487-Veiled Ossuary",
+["st"] = "The creatures have no mind of their own!",
+["ta"] = 950697,
 },
 },
 ["Lady Sylvanas Windrunner"] = {
@@ -30406,41 +32611,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 391667,
 },
 },
-["Flynn Fairwind"] = {
+["Rimecaller Raava"] = {
 {
-["la"] = "84-5627-6938-The Canals",
-["st"] = "Hey, Wilder... I was wondering if you had any pets for adoption? Shaw has been overworked recently, and I wanted to get him something that would help him unwind.",
-["ta"] = 1850579,
-},
-{
-["la"] = "84-5061-7129-The Canals",
-["st"] = "Thanks, I'll have a look around.",
-["ta"] = 13254700,
-},
-{
-["la"] = "84-5061-7129-The Canals",
-["st"] = "Oh no, I can't say I was here. He's wanted a pet for ages, although he'll never admit it. I'm going to surprise him!",
-["ta"] = 13254706,
-},
-{
-["la"] = "84-5061-7129-The Canals",
-["st"] = "Hey, I've trained with SI:7! I can be sneaky!",
-["ta"] = 13254719,
-},
-{
-["ta"] = 23624979,
-["st"] = "I have a surprise for you later.",
-["la"] = "84-7881-6724-Stormwind City",
-},
-{
-["ta"] = 23624983,
-["st"] = "You can't... I was just there! How could you possibly know?",
-["la"] = "84-7881-6724-Stormwind City",
-},
-{
-["ta"] = 23624989,
-["st"] = "Spoilsport!",
-["la"] = "84-7881-6724-Stormwind City",
+["mt"] = 2,
+["la"] = "2133-5604-5440-Loamm",
+["st"] = "The Primalists have begun summoning something massive in the Cascades Column!",
+["ta"] = 931954,
 },
 },
 ["Íllse"] = {
@@ -30449,28 +32625,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 582599,
 ["st"] = "Íllse prepares a Grand Banquet of the Kalu'ak for everyone to enjoy!",
 ["la"] = "2233---Throne of the Firelord",
-},
-},
-["Primalist Chainmaster"] = {
-{
-["la"] = "2200-4135-3397-Skystone Falls",
-["st"] = "We will... retake... Azeroth...",
-["ta"] = 1615885,
-},
-},
-["Dawnbell"] = {
-{
-["mt"] = 3,
-["la"] = "2023-1654-5108-Ancient Bough",
-["st"] = "Yipee! Thanks for the tasty treat! In return I'll show you a secret!",
-["ta"] = 179584,
-},
-},
-["Threadfinder Pax"] = {
-{
-["la"] = "2112-3166-6541-The Artisan's Market",
-["st"] = "Come on, Fula, you 'ol slyvern! I'm still waiting for that thread of yours!",
-["ta"] = 1711595,
 },
 },
 ["Mykellqt"] = {
@@ -30491,6 +32645,78 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1187886,
 ["st"] = "Dis not... da end for me!",
 ["la"] = "2244---Pit of Volcoross",
+},
+},
+["Dawnbell"] = {
+{
+["mt"] = 3,
+["la"] = "2023-1654-5108-Ancient Bough",
+["st"] = "Yipee! Thanks for the tasty treat! In return I'll show you a secret!",
+["ta"] = 179584,
+},
+},
+["Qalashi Scaleripper"] = {
+{
+["ta"] = 1894102,
+["st"] = "This one's mine!",
+["la"] = "2022-2920-5878-Obsidian Citadel",
+},
+{
+["ta"] = 1894301,
+["st"] = "Others will... avenge me.",
+["la"] = "2022-2788-5870-Obsidian Citadel",
+},
+{
+["ta"] = 1894493,
+["st"] = "You're no challenge!",
+["la"] = "2022-2894-5896-Obsidian Citadel",
+},
+{
+["ta"] = 1894561,
+["st"] = "Good fight!",
+["la"] = "2022-2891-5863-Obsidian Citadel",
+},
+{
+["ta"] = 14045991,
+["st"] = "It is... not over.",
+["la"] = "2022-3216-5461-The Slagmire",
+},
+},
+["Buri"] = {
+{
+["la"] = "2200-3682-2584-Emerald Dream",
+["st"] = "Vyranoth? You have returned.",
+["ta"] = 833115,
+},
+{
+["la"] = "2200-3694-2610-Emerald Dream",
+["st"] = "I had not expected him to let us live.",
+["ta"] = 833125,
+},
+{
+["la"] = "2200-3820-2345-Scorching Chasm",
+["st"] = "He separated any of us he feared would be loyal to you early on.",
+["ta"] = 833386,
+},
+{
+["la"] = "2200-3357-3052-Field of Flames",
+["st"] = "There she is. You can get closer without me drawing their attention.",
+["ta"] = 833532,
+},
+{
+["la"] = "2200-3356-3023-Field of Flames",
+["st"] = "Vyranoth should be back by now.",
+["ta"] = 833943,
+},
+{
+["la"] = "2200-3311-2898-Field of Flames",
+["st"] = "Vyranoth pursued Lethka to Cinder Summit.",
+["ta"] = 833948,
+},
+{
+["la"] = "2200-3343-2893-Field of Flames",
+["st"] = "After we saw what she did to Terro...",
+["ta"] = 833952,
 },
 },
 ["Preening Dragon"] = {
@@ -30588,32 +32814,11 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-6297-4737-Shimmering Towers",
 },
 },
-["Sully \"The Pickle\" McLeary"] = {
+["Tserasor the Preserver"] = {
 {
-["mt"] = 2,
-["la"] = "84-5141-7357-Mage Quarter",
-["st"] = "Sully sniffles.",
-["ta"] = 13348093,
-},
-{
-["la"] = "84-5059-7162-Stormwind City",
-["st"] = "Aye, maybe I'm not ready. It needs to be someone truly special to replace Socks.",
-["ta"] = 13348098,
-},
-{
-["ta"] = 22338996,
-["st"] = "Tawny, it's good tae see ye again. I was wondering... do ye have any pets?",
-["la"] = "84-5115-7187-Stormwind City",
-},
-{
-["ta"] = 22339006,
-["st"] = "Aye, it is, feels like it was yesterday, but... Socks would want me to move on.",
-["la"] = "84-5115-7187-Stormwind City",
-},
-{
-["ta"] = 22339017,
-["st"] = "Thank ye. Do yah have anyone tha's loyal, and brave, and wonderful, and soft, and willin' ta be the best friend a dwarf could have?",
-["la"] = "84-5169-7140-The Canals",
+["la"] = "2023-6293-1862-Nelthazan Ruins",
+["st"] = "The shadowy whispers from below! I can't resist.",
+["ta"] = 10614349,
 },
 },
 ["Green Dragonflight Recruiter"] = {
@@ -30630,26 +32835,126 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3773-4791-Smoldering Perch",
 },
 },
-["Brackenhide Deadeye"] = {
+["Gnarlroot"] = {
 {
-["ta"] = 1246875,
-["st"] = "Me make you dead!",
-["la"] = "2024-1672-3821-Brackenhide Brambles",
+["mt"] = 3,
+["ta"] = 320711,
+["st"] = "There is only darkness and pain!",
+["la"] = "2232---Wellspring Atrium",
 },
 {
-["ta"] = 1984422,
-["st"] = "Soon... all rot.",
-["la"] = "2024-1936-3600-Brackenhide Outskirts",
+["mt"] = 3,
+["ta"] = 320721,
+["st"] = "Destruction takes root!",
+["la"] = "2232---Wellspring Atrium",
 },
 {
-["ta"] = 1984431,
-["st"] = "Your meat make good rot!",
-["la"] = "2024-1839-3587-Brackenhide Outskirts",
+["mt"] = 3,
+["ta"] = 320728,
+["st"] = "The inferno must bloom.",
+["la"] = "2232---Wellspring Atrium",
 },
 {
-["ta"] = 1984432,
-["st"] = "Me crunch your bones!",
-["la"] = "2024-1824-3591-Brackenhide Outskirts",
+["mt"] = 3,
+["ta"] = 320733,
+["st"] = "Harvest of pain!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320744,
+["st"] = "Till the soil with blood.",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320749,
+["st"] = "All life turns to dust.",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320760,
+["st"] = "Char flesh!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320770,
+["st"] = "Torment spreads!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320782,
+["st"] = "The dark garden must feed.",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320790,
+["st"] = "Reap the torment!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320802,
+["st"] = "Shadow and flame take root.",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320810,
+["st"] = "My roots scorch the earth.",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320825,
+["st"] = "Snapped!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320847,
+["st"] = "Cleave the rot, but more will grow!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 320922,
+["st"] = "Extinguished...",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["la"] = "2232---Wellspring Atrium",
+["st"] = "Broken!",
+["ta"] = 570048,
+},
+{
+["mt"] = 3,
+["ta"] = 581953,
+["st"] = "Flourish and feast!",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 6,
+["ta"] = 581963,
+["st"] = "|TInterface\\ICONS\\Spell_BurningSoul.blp:20|t You are targeted with |cFFFF0000|Hspell:421972|h[Controlled Burn]|h|r",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 1701191,
+["st"] = "Scorched.",
+["la"] = "2232---Wellspring Atrium",
+},
+{
+["mt"] = 3,
+["ta"] = 13884047,
+["st"] = "Endless agony!",
+["la"] = "2232---Wellspring Atrium",
 },
 },
 ["Brackenhide Scrapper"] = {
@@ -30699,12 +33004,12 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-1672-3821-Brackenhide Brambles",
 },
 },
-["Elusive Feral Bakar"] = {
+["Little Duck"] = {
 {
-["mt"] = 2,
-["ta"] = 1801388,
-["st"] = "You hear a rustling nearby...",
-["la"] = "2023-7892-3728-Ohn'ahran Plains",
+["mt"] = 3,
+["ta"] = 5884,
+["st"] = "Hey everyone! The gang's all here!",
+["la"] = "2022-3008-7304-Dragonbane Keep",
 },
 },
 ["Apprentice Ehri"] = {
@@ -30729,18 +33034,11 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2023-4938-6642-Ridgewater Retreat",
 },
 },
-["Battlehorn Pyrhus"] = {
+["Faenina"] = {
 {
-["mt"] = 5,
-["ta"] = 165984,
-["st"] = "%s is being empowered by the Dreamsurge!",
-["la"] = "2022-2006-3914-Hissing Grotto",
-},
-{
-["mt"] = 2,
-["ta"] = 10617303,
-["st"] = "The air is filled with the bellows of a massive beast.",
-["la"] = "2022-2748-6022-Obsidian Citadel",
+["ta"] = 13787787,
+["st"] = "But will you look at the view!",
+["la"] = "2200-5471-4045-Haven Cascades",
 },
 },
 ["Refti Corpse"] = {
@@ -30809,79 +33107,32 @@ AdventureArchivesMessageDB_9 = {
 ["st"] = "...an alpaca?",
 ["ta"] = 23918579,
 },
-},
-["Terros"] = {
 {
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Crush!",
-["ta"] = 12676269,
+["ta"] = 24936816,
+["st"] = "Next shipment you say? Need me to send Newt to the supplier to make sure they are giving you a good deal?",
+["la"] = "85-5220-8271-Valley of Strength",
 },
+},
+["Lost Whelp"] = {
 {
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "The mountain rises against you!",
-["ta"] = 12676274,
+["la"] = "2234---The Blessed Boughs",
+["st"] = "I don't see any centaurs around here...",
+["ta"] = 906403,
 },
 {
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Fracture!",
-["ta"] = 12676285,
+["ta"] = 1369249,
+["st"] = "This\" Ferak\" guy is done for when I find him!",
+["la"] = "2234---The Blessed Boughs",
 },
 {
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Bedrock cracks!",
-["ta"] = 12676295,
+["ta"] = 1370710,
+["st"] = "This is fine. This is fine. This is fine...",
+["la"] = "2234---The Blessed Boughs",
 },
 {
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Splinter!",
-["ta"] = 12676303,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Earth bends to my will!",
-["ta"] = 12676317,
-},
-{
-["mt"] = 6,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "|TInterface\\ICONS\\Spell_Nature_Earthquake.blp:20|t Terros has targeted you with |cFFFF0000|Hspell:381253|h[Awakened Earth]|h|r!",
-["ta"] = 12676317,
-},
-{
-["mt"] = 5,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "|TInterface\\ICONS\\spell_Shaman_ImprovedFirenova.blp:20|t %s begins to cast |cFFFF0000|Hspell:377166|h[Resonating Annihilation]|h|r!",
-["ta"] = 12676359,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Break!",
-["ta"] = 12676361,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Ground shatters!",
-["ta"] = 12676392,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "Fall!",
-["ta"] = 12676458,
-},
-{
-["mt"] = 3,
-["la"] = "2122---Quarry of Infusion",
-["st"] = "I... am... broken.",
-["ta"] = 12676521,
+["ta"] = 14067018,
+["st"] = "This \"Ferak\" guy is done for when I find him!",
+["la"] = "2234---The Blessed Boughs",
 },
 },
 ["Bronze Whelpling"] = {
@@ -30896,11 +33147,18 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1521015,
 },
 },
-["Igneous Stonemauler"] = {
+["Battlehorn Pyrhus"] = {
 {
-["la"] = "2200-4008-2031-Scorching Chasm",
-["st"] = "Keep your hands off Lethka's prize!",
-["ta"] = 833394,
+["mt"] = 5,
+["ta"] = 165984,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2022-2006-3914-Hissing Grotto",
+},
+{
+["mt"] = 2,
+["ta"] = 10617303,
+["st"] = "The air is filled with the bellows of a massive beast.",
+["la"] = "2022-2748-6022-Obsidian Citadel",
 },
 },
 ["Ladle"] = {
@@ -30908,22 +33166,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1163403,
 ["st"] = "Thanks for the save!",
 ["la"] = "2022-2658-7103-Dragonbane Keep",
-},
-},
-["Stormcaller Narkena"] = {
-{
-["mt"] = 5,
-["la"] = "2023-2419-5608-Lilac Ramble",
-["st"] = "%s is being empowered by the Dreamsurge!",
-["ta"] = 851020,
-},
-},
-["Event Controller"] = {
-{
-["mt"] = 2,
-["la"] = "2133-5655-5593-Loamm",
-["st"] = "The air hums with energy as the Primalists begin summoning a storm!",
-["ta"] = 932484,
 },
 },
 ["Warchanter Ronvath"] = {
@@ -30936,6 +33178,14 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-4310-3884-Elders' Gift",
 ["st"] = "The Elder... will avenge me...",
 ["ta"] = 933143,
+},
+},
+["Event Controller"] = {
+{
+["mt"] = 2,
+["la"] = "2133-5655-5593-Loamm",
+["st"] = "The air hums with energy as the Primalists begin summoning a storm!",
+["ta"] = 932484,
 },
 },
 ["Rokmur"] = {
@@ -30951,6 +33201,13 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 6001,
 ["st"] = "Hey friend! Come check out our new items in the Trading Post. We just got a new shipment!",
 ["la"] = "2112-4759-5763-Valdrakken",
+},
+},
+["Chen Stormstout"] = {
+{
+["la"] = "2022-5335-6105-Overflowing Rapids",
+["st"] = "May your journey be long, friend.",
+["ta"] = 312053,
 },
 },
 ["Primalist Flowbreaker"] = {
@@ -31032,18 +33289,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2199-6241-6919-Tyrhold Reservoir",
 },
 },
-["Amirdrassil Defender"] = {
-{
-["la"] = "2200-5191-6386-Amirdrassil",
-["st"] = "Silence, traitor!",
-["ta"] = 578692,
-},
-{
-["la"] = "2200-5192-6390-Amirdrassil",
-["st"] = "Why should we trust a word you say?",
-["ta"] = 578694,
-},
-},
 ["Lillian Brightmoon"] = {
 {
 ["mt"] = 2,
@@ -31055,6 +33300,18 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-3518-2477-Azure Archives Annex",
 ["st"] = "Now is not the time!",
 ["ta"] = 1704225,
+},
+},
+["Prophet of the Flame"] = {
+{
+["ta"] = 1604080,
+["st"] = "You wish to face the flames? So be it.",
+["la"] = "2024-3330-4000-The Azure Span",
+},
+{
+["ta"] = 13789745,
+["st"] = "The flame consumes all, embrace its power!",
+["la"] = "2025-6165-2600-Thaldraszus",
 },
 },
 ["Matchmaker Osila"] = {
@@ -31096,38 +33353,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2199-3427-4809-Tyrhold Reservoir",
 },
 },
-["Shïnïgämï"] = {
-{
-["mt"] = 3,
-["ta"] = 917371,
-["st"] = "Surprise.",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917408,
-["st"] = "Let's get to work, shall we?",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917653,
-["st"] = "Bye-bye.",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917659,
-["st"] = "Tch!  So soon?",
-["la"] = "2238---Heart of Amirdrassil",
-},
-{
-["mt"] = 3,
-["ta"] = 917751,
-["st"] = "You're much... better... than I thought...",
-["la"] = "2238---Heart of Amirdrassil",
-},
-},
 ["Vekkalis"] = {
 {
 ["la"] = "2112-5468-5811-Valdrakken",
@@ -31144,6 +33369,18 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2112-5246-5760-Valdrakken",
 ["st"] = "Is it not wonderful to see so many others who are excited about banking?",
 ["ta"] = 329607,
+},
+},
+["Windsage Togotseng"] = {
+{
+["la"] = "2023-5630-7590-Ohn'iri Springs",
+["st"] = "I'm sure she just wants a change of scenery now and then. You know how restless she can be.",
+["ta"] = 10614891,
+},
+{
+["la"] = "2023-5672-7654-Ohn'iri Springs",
+["st"] = "As you will the winds, Ohn Meluun.",
+["ta"] = 10614903,
 },
 },
 ["Ironus Coldsteel"] = {
@@ -31214,18 +33451,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5218-8071-The Chronosmith's Forge",
 },
 },
-["Lupas Lightsprocket"] = {
-{
-["ta"] = 1605010,
-["st"] = "Anything worth doing is worth doing dangerously!",
-["la"] = "2022-4868-3694-Crumbling Cliffs",
-},
-{
-["ta"] = 1605075,
-["st"] = "I'd like to see our lazy sister do climbing as impressive as that!",
-["la"] = "2022-4878-3610-Crumbling Cliffs",
-},
-},
 [""] = {
 {
 ["la"] = "2200-3893-4719-The Smoldering Copse",
@@ -31281,6 +33506,14 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14491459,
 },
 },
+["Captain Caspartine"] = {
+{
+["mt"] = 3,
+["ta"] = 12233880,
+["st"] = "Welcome to the Dragon Isles, adventurers!",
+["la"] = "2022-7726-3329-Wild Coast",
+},
+},
 ["An Exploding Map"] = {
 {
 ["mt"] = 4,
@@ -31295,11 +33528,26 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2024-4704-2568-Cobalt Assembly",
 },
 },
-["Quartermaster Huseng"] = {
+["Headmaster"] = {
 {
-["la"] = "2023-6037-3769-Maruukai",
-["st"] = "I'm the quartermaster for the Maruuk. If you prove useful to us then maybe I can supply you with some of our goods. We'll see. Don't get any big ideas.",
-["ta"] = 10608946,
+["ta"] = 2039243,
+["st"] = "At Algeth'ar Academy we believe in teaching by example. Please show these students how it is done.",
+["la"] = "2025-5796-4354-Algeth'ar Academy",
+},
+{
+["la"] = "2025-5811-4279-Algeth'ar Academy",
+["st"] = "Another A plus performance from my favorite student.",
+["ta"] = 12587067,
+},
+{
+["ta"] = 23899326,
+["st"] = "Our other students require assistance with their exams. Could you be so kind as to help them?",
+["la"] = "2025-6289-3665-Algeth'ar Academy",
+},
+{
+["ta"] = 23899342,
+["st"] = "Wondrously done. That would have been fatal for someone less... accomplished.",
+["la"] = "2025-6300-3654-Algeth'ar Academy",
 },
 },
 ["Busted Wagon"] = {
@@ -31310,32 +33558,21 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-4752-5652-Ruins of Drekazera",
 },
 },
-["Belika"] = {
+["Sentiu"] = {
 {
-["ta"] = 10600362,
-["st"] = "You wish, Aru. Which of us killed their proto-drake faster?",
-["la"] = "2023-8581-2649-Timberstep Outpost",
+["ta"] = 12579876,
+["st"] = "We appreciate your help, adventurer!",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["ta"] = 10600378,
-["st"] = "I bet we can out-hunt you. I will out-hunt both of you!",
-["la"] = "2023-8548-2691-Mirewood Fen",
+["ta"] = 12579881,
+["st"] = "Hold still, or you won't be rescuing anyone anymore!",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["ta"] = 10604432,
-["st"] = "The hunt is on, Benthos!",
-["la"] = "2023-7607-3165-Wanderer's Steppe",
-},
-{
-["mt"] = 3,
-["ta"] = 10604597,
-["st"] = "That's three more, Aru and Benthos! Try to keep up.",
-["la"] = "2023-7487-3275-Wanderer's Steppe",
-},
-{
-["ta"] = 10605081,
-["st"] = "I won! I won!",
-["la"] = "2023-7566-3162-Wanderer's Steppe",
+["ta"] = 12581162,
+["st"] = "We can't do much in our state, but we'll back you up, should you fall.",
+["la"] = "2096---The Rotwood",
 },
 },
 ["Sabellian"] = {
@@ -31510,30 +33747,35 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13281966,
 },
 },
-["Puzzle Box of Yogg-Saron"] = {
+["Gashtooth"] = {
 {
-["mt"] = 4,
-["ta"] = 981368,
-["st"] = "The stars sweep chill currents that make men shiver in the dark.",
-["la"] = "2112-4773-5843-Valdrakken",
+["ta"] = 12580087,
+["st"] = "Who stealing our meat?!",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["mt"] = 4,
-["ta"] = 1697963,
-["st"] = "Open me! Open me! Open me! Then only will you know peace.",
-["la"] = "85-5249-7891-Valley of Strength",
+["mt"] = 3,
+["ta"] = 12580462,
+["st"] = "I take stolen meat from your bones!",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["mt"] = 4,
-["la"] = "2170---Edge of Oblivion",
-["st"] = "The giant rook watches from the dead trees. Nothing breathes beneath his shadow.",
-["ta"] = 13459439,
+["mt"] = 3,
+["ta"] = 12580476,
+["st"] = "Butcher and slice!",
+["la"] = "2096---Lost Kanniak",
 },
 {
-["mt"] = 4,
-["ta"] = 14064416,
-["st"] = "Y'knath k'th'rygg k'yi mrr'ungha gr'mula.",
-["la"] = "2233---Throne of the Firelord",
+["mt"] = 3,
+["ta"] = 12580508,
+["st"] = "They never see it coming!",
+["la"] = "2096---Lost Kanniak",
+},
+{
+["mt"] = 3,
+["ta"] = 12580599,
+["st"] = "Didn't... cut... deep enough...",
+["la"] = "2096---Lost Kanniak",
 },
 },
 ["Titan Defense Matrix"] = {
@@ -31544,96 +33786,35 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5945-5601-Tyrhold",
 },
 },
-["Archmage Khadgar"] = {
+["Maruuk"] = {
 {
-["la"] = "2119---The Primal Bulwark",
-["st"] = "Looks like we go the rest of the way on foot.",
-["ta"] = 12674037,
+["mt"] = 3,
+["ta"] = 12780269,
+["st"] = "This is what has become of our legacy?",
+["la"] = "2093---The Eternal Kurgans",
 },
 {
-["la"] = "2119---The Primal Bulwark",
-["st"] = "Set up a perimeter and tend the wounded! Champions, rally to me.",
-["ta"] = 12674376,
+["mt"] = 3,
+["ta"] = 12780294,
+["st"] = "You shall pay for this blasphemy with your lives.",
+["la"] = "2093---The Eternal Kurgans",
 },
 {
-["la"] = "2119---The Primal Bulwark",
-["st"] = "Kalecgos, think we can take to the skies?",
-["ta"] = 12674382,
+["mt"] = 3,
+["ta"] = 12780300,
+["st"] = "Flee before me!",
+["la"] = "2093---The Eternal Kurgans",
 },
 {
-["la"] = "2119---The Primal Bulwark",
-["st"] = "I expect they won't make it easy for us. Champions, when you're ready.",
-["ta"] = 12674399,
+["mt"] = 3,
+["ta"] = 12780347,
+["st"] = "Rend the earth!",
+["la"] = "2093---The Eternal Kurgans",
 },
 {
-["la"] = "2122---Quarry of Infusion",
-["st"] = "If Kurog can manifest creatures this powerful, we should proceed with caution.",
-["ta"] = 12676531,
-},
-{
-["la"] = "2122---Quarry of Infusion",
-["st"] = "We'll need to destroy any that remain before we confront him.",
-["ta"] = 12676537,
-},
-{
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "This cold chills me to the bone.",
-["ta"] = 12676767,
-},
-{
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "Hold. We are not alone. Something stalks us.",
-["ta"] = 12676775,
-},
-{
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "Looks like Kurog has himself an ice spider... and it laid eggs.",
-["ta"] = 12676790,
-},
-{
-["la"] = "2122---Iceskitter Hollow",
-["st"] = "Another time, my friend. The Grand Summoner awaits.",
-["ta"] = 12677201,
-},
-{
-["la"] = "2124---The Primal Convergence",
-["st"] = "Kurog and his creations will not threaten us again.",
-["ta"] = 12677989,
-},
-{
-["la"] = "2126---The Clutchwarren",
-["st"] = "The drakes are fleeing!",
-["ta"] = 12679219,
-},
-{
-["la"] = "2126---The Clutchwarren",
-["st"] = "Champions, now is the time to strike.",
-["ta"] = 12679226,
-},
-{
-["la"] = "2135---The Seat of the Aspects",
-["st"] = "We've failed. The Incarnates are free.",
-["ta"] = 12680350,
-},
-{
-["la"] = "2135---The Seat of the Aspects",
-["st"] = "Then let us not delay.",
-["ta"] = 12680368,
-},
-{
-["la"] = "2135---The Seat of the Aspects",
-["st"] = "If there's one thing I've learned from all the battles I've fought, it's that no matter how dark things get, we must never lose hope.",
-["ta"] = 12680370,
-},
-{
-["la"] = "2112-6300-3317-The Seat of the Aspects",
-["st"] = "We are in need of your aid once more, champion. A mysterious figure moves within the shadows. The Harbinger...",
-["ta"] = 13783689,
-},
-{
-["la"] = "2112-5980-3691-The Seat of the Aspects",
-["st"] = "Let us speak in the Chamber of the Guardian. I've asked Alleria to meet us there as well.",
-["ta"] = 13783698,
+["ta"] = 12780459,
+["st"] = "Peace... at last...",
+["la"] = "2093---The Eternal Kurgans",
 },
 },
 ["Omapurita"] = {
@@ -31643,16 +33824,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1785602,
 },
 },
-["Nirobin"] = {
+["Coldostos"] = {
 {
-["ta"] = 12762109,
-["st"] = "Here to assist me in research again, are you? Very well! Find my familiar so we may begin our investigation.",
-["la"] = "2023-6605-4148-Ohn'ahran Plains",
+["ta"] = 23899330,
+["st"] = "It was working this morning! Granted, that was on a ficus but it should have worked.",
+["la"] = "2025-6280-3676-Algeth'ar Academy",
 },
 {
-["ta"] = 14052758,
-["st"] = "I hope you're ready for knowledge, fellow knowledge-seeker! I've just caught wind of a clue!",
-["la"] = "2262-5539-5045-Traitor's Rest",
+["ta"] = 23899331,
+["st"] = "How dare you suggest my spell work is anything less than sublime?",
+["la"] = "2025-6280-3676-Algeth'ar Academy",
 },
 },
 ["Watcher Koranos"] = {
@@ -31662,28 +33843,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1611482,
 },
 },
-["Japukitat"] = {
+["Worldbreaker Guard"] = {
 {
-["ta"] = 12579887,
-["st"] = "Rescuing them will probably upset Hackclaw and her war-band, so be ready for a fight!",
-["la"] = "2096---Lost Kanniak",
+["ta"] = 164824,
+["st"] = "Look to... the sky.",
+["la"] = "2022-3766-4707-Smoldering Perch",
 },
 {
-["ta"] = 12581167,
-["st"] = "Bertinaut, would you set up a camp in case our friends need help?",
-["la"] = "2096---The Rotwood",
-},
-{
-["la"] = "2024-1146-4895-Iskaara",
-["st"] = "We've got to go back! We didn't rescue...ergh...enough...",
-["ta"] = 12595089,
-},
-},
-["Faera"] = {
-{
-["ta"] = 13029491,
-["st"] = "Do you like it...? Oh. Probably not.",
-["la"] = "2025-5890-3295-Algeth'ar Academy",
+["ta"] = 164978,
+["st"] = "You trespass, outsider!",
+["la"] = "2022-3498-4715-Smoldering Perch",
 },
 },
 ["Smogswog the Firebreather"] = {
@@ -31852,6 +34021,14 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12674221,
 },
 },
+["Neela Firebane"] = {
+{
+["mt"] = 5,
+["ta"] = 14048342,
+["st"] = "Neela Firebane has appeared!",
+["la"] = "2022-3437-5374-The Slagmire",
+},
+},
 ["Lavacaller Primalist"] = {
 {
 ["ta"] = 1604884,
@@ -31877,16 +34054,16 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 12236931,
 },
 },
-["Zaqali Cragslasher"] = {
+["Ramaniel"] = {
 {
-["ta"] = 1603065,
-["st"] = "You... will burn before the end.",
-["la"] = "2024-5355-3359-Suffusion Camp: Frostburn",
+["la"] = "2112-7386-4700-The Parting Glass",
+["st"] = "Surely you can see the similarities, Melinor. The void shows us a winding road of infinite possibilities - just like the various timelines we are charged to observe.",
+["ta"] = 12782101,
 },
 {
-["ta"] = 1603358,
-["st"] = "Obey my orders, dragon pets!",
-["la"] = "2024-5452-3356-Suffusion Camp: Frostburn",
+["la"] = "2112-7386-4700-The Parting Glass",
+["st"] = "So quick to presume the void's influence. Have you never wondered where exactly your Light might lead you? Are you certain you will like what lies at journey's end?",
+["ta"] = 12782120,
 },
 },
 ["Kalisys"] = {
@@ -31981,37 +34158,19 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-3094-5194-The Slagmire",
 },
 },
-["Titanic Reactor"] = {
-{
-["mt"] = 2,
-["ta"] = 12913174,
-["st"] = "The northeastern pillar has been activated.",
-["la"] = "2025-5859-5983-Tyrhold",
-},
-{
-["mt"] = 2,
-["ta"] = 12913394,
-["st"] = "The northern pillar has been activated.",
-["la"] = "2025-6092-5516-Tyrhold",
-},
-{
-["mt"] = 2,
-["ta"] = 12914443,
-["st"] = "The eastern pillar has been activated.",
-["la"] = "2025-6088-6235-Tyrhold",
-},
-{
-["mt"] = 2,
-["ta"] = 12914463,
-["st"] = "The southeastern pillar has been activated.",
-["la"] = "2025-5942-6070-Tyrhold",
-},
-},
 ["Callisto Windsor"] = {
 {
 ["ta"] = 13114912,
 ["st"] = "Steria, our research is too time-sensitive and important to worry about a sick slyvern.",
 ["la"] = "2024-6382-2948-Slyvern Plunge",
+},
+},
+["Ancient Protector"] = {
+{
+["mt"] = 2,
+["ta"] = 12914674,
+["st"] = "The Ancient Protector has been awakened.",
+["la"] = "2025-6089-5523-Tyrhold",
 },
 },
 ["Scout Tomul"] = {
@@ -32166,12 +34325,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 23897606,
 },
 },
-["Council Icecaller"] = {
+["Edith Morgan"] = {
 {
-["mt"] = 3,
-["la"] = "2120---The Vault Approach",
-["st"] = "Stop! Look what you caused!",
-["ta"] = 12674474,
+["la"] = "2200-5102-6246-Central Encampment",
+["st"] = "Flower crowns... What a thoughtful idea!",
+["ta"] = 739659,
 },
 },
 ["Hired Kithguard"] = {
@@ -32190,18 +34348,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13950087,
 },
 },
-["Zenata"] = {
-{
-["ta"] = 12950911,
-["st"] = "There are more secrets. We must uncover them, yes? We should start scrying!",
-["la"] = "2022-5516-4610-Concord Observatory",
-},
-{
-["ta"] = 14052864,
-["st"] = "The Technoscryers will beep when they find a rune. Once you have it in your sights, analyze it!",
-["la"] = "2262-5583-5030-Traitor's Rest",
-},
-},
 ["Zurgaz Corebreaker"] = {
 {
 ["mt"] = 5,
@@ -32214,6 +34360,50 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14476906,
 ["st"] = "%s is being empowered by the Dreamsurge!",
 ["la"] = "2022-6701-2579-Scalecracker Keep",
+},
+},
+["Thadrion"] = {
+{
+["mt"] = 3,
+["la"] = "2166---Onyx Laboratory",
+["st"] = "Toys to smash!",
+["ta"] = 13280116,
+},
+{
+["mt"] = 3,
+["la"] = "2166---Onyx Laboratory",
+["st"] = "Heave!",
+["ta"] = 13280122,
+},
+{
+["mt"] = 3,
+["la"] = "2166---Onyx Laboratory",
+["st"] = "Pop your insides!",
+["ta"] = 13280133,
+},
+{
+["mt"] = 3,
+["la"] = "2166---Onyx Laboratory",
+["st"] = "Destroy!",
+["ta"] = 13280156,
+},
+{
+["mt"] = 3,
+["ta"] = 16912255,
+["st"] = "Carnage!",
+["la"] = "2166---Onyx Laboratory",
+},
+{
+["mt"] = 3,
+["ta"] = 16912267,
+["st"] = "Detonate!",
+["la"] = "2166---Onyx Laboratory",
+},
+{
+["mt"] = 3,
+["ta"] = 16912289,
+["st"] = "Tear you apart!",
+["la"] = "2166---Onyx Laboratory",
 },
 },
 ["Bernard Gump"] = {
@@ -32275,12 +34465,11 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2200-5060-6250-Central Encampment",
 },
 },
-["Burgers"] = {
+["Shuja Grimaxe"] = {
 {
-["mt"] = 2,
-["ta"] = 1001696,
-["st"] = "%s just won a game of Hearthstone!",
-["la"] = "2112-4304-3873-Gladiator's Refuge",
+["ta"] = 12234401,
+["st"] = "Do you really think we can trust them, mother?",
+["la"] = "2022-7634-3314-Wingrest Embassy",
 },
 },
 ["Aeoreon"] = {
@@ -32380,40 +34569,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2133-6254-4761-Shimmering Towers",
 },
 },
-["Professor Ichistrasz"] = {
-{
-["la"] = "2097---The Quad",
-["st"] = "Indeed! Come with us! It should only take a moment to set up for a new lesson.",
-["ta"] = 11982857,
-},
-{
-["la"] = "2097---The Quad",
-["st"] = "Well, it seems like things are in further disrepair than we anticipated.",
-["ta"] = 11984250,
-},
-{
-["la"] = "2097---The Botanica",
-["st"] = "Me?! There is too much nature! What are you doing?",
-["ta"] = 12588079,
-},
-{
-["la"] = "2097---The Botanica",
-["st"] = "Absolutely not!",
-["ta"] = 12588088,
-},
-{
-["mt"] = 3,
-["ta"] = 13025030,
-["st"] = "You are lucky we both know how to heal.",
-["la"] = "2097---The Botanica",
-},
-{
-["mt"] = 3,
-["ta"] = 13025173,
-["st"] = "Life magic can only do so much, you know.",
-["la"] = "2097---The Botanica",
-},
-},
 ["Farscale Myrmidon"] = {
 {
 ["ta"] = 13115407,
@@ -32457,6 +34612,23 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5333-5625-Thaldraszus",
 ["st"] = "The Primalists will prevail... You and your precious dragons will never be able to stop all of them...",
 ["ta"] = 12921926,
+},
+},
+["Winglord Dezran"] = {
+{
+["la"] = "2170---Edge of Oblivion",
+["st"] = "What is this foul place?",
+["ta"] = 13186106,
+},
+{
+["la"] = "2170---Edge of Oblivion",
+["st"] = "Sarkareth lost himself to his pursuit of power. Now what will happen to my people?",
+["ta"] = 13186122,
+},
+{
+["la"] = "2169---Neltharion's Sanctum",
+["st"] = "We will never bow to you, deceiver!",
+["ta"] = 13281989,
 },
 },
 ["Kadros Icewrath"] = {
@@ -32537,19 +34709,18 @@ AdventureArchivesMessageDB_9 = {
 ["st"] = "The mind is most inspired when it is relaxed. Take the time to care for yourself.",
 ["ta"] = 2032954,
 },
-},
-["Soulharvester Tumen"] = {
 {
-["mt"] = 3,
-["ta"] = 12779991,
-["st"] = "The first ancestors... shall rise...",
-["la"] = "2093---The Eternal Kurgans",
+["ta"] = 26168833,
+["st"] = "To gather is to appreciate. To craft is to savor.",
+["la"] = "2023-5177-3302-Khadin's Cave",
 },
+},
+["Genevieve"] = {
 {
-["mt"] = 3,
-["ta"] = 13802259,
-["st"] = "Eagles will feast on your flesh.",
-["la"] = "2093---The Eternal Kurgans",
+["lg"] = 7,
+["ta"] = 13806899,
+["st"] = "Anna, how would you like to go down to the harbor in a little while?",
+["la"] = "84-6101-6664-Trade District",
 },
 },
 ["Bronze Timekeeper"] = {
@@ -32582,14 +34753,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13116076,
 ["st"] = "Your race time was 85.656 seconds. That was your best time yet!",
 ["la"] = "2133-3832-6021-Zaralek Cavern",
-},
-},
-["Genevieve"] = {
-{
-["lg"] = 7,
-["ta"] = 13806899,
-["st"] = "Anna, how would you like to go down to the harbor in a little while?",
-["la"] = "84-6101-6664-Trade District",
 },
 },
 ["Artanos"] = {
@@ -32684,6 +34847,20 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13625587,
 },
 },
+["Essence of Shadow"] = {
+{
+["mt"] = 3,
+["la"] = "2167---Onyx Laboratory",
+["st"] = "You cannot escape the dark.",
+["ta"] = 13279614,
+},
+{
+["mt"] = 3,
+["ta"] = 16911787,
+["st"] = "Gloom advances.",
+["la"] = "2167---Onyx Laboratory",
+},
+},
 ["Trytokillmeb"] = {
 {
 ["mt"] = 3,
@@ -32710,18 +34887,42 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1866213,
 },
 },
-["Magmorax"] = {
+["Treemouth"] = {
 {
-["mt"] = 5,
-["la"] = "2166---Molten Crucible",
-["st"] = "|TInterface\\ICONS\\Spell_Nature_Earthquake.blp:20|t %s charges an |cFFFF0000|Hspell:403671|h[Overpowering Stomp]|h|r!",
-["ta"] = 13281758,
+["mt"] = 3,
+["ta"] = 12580973,
+["st"] = "Feed... Treemouth!",
+["la"] = "2096---The Rotwood",
 },
 {
-["mt"] = 6,
-["ta"] = 16913994,
-["st"] = "|TInterface\\ICONS\\Spell_Fire_FireBolt02.blp:20|t You have been afflicted with |cFFFF0000|Hspell:402994|h[Molten Spittle]|h|r!",
-["la"] = "2166---Molten Crucible",
+["mt"] = 3,
+["ta"] = 12580979,
+["st"] = "Get... back!",
+["la"] = "2096---The Rotwood",
+},
+{
+["mt"] = 3,
+["ta"] = 12580989,
+["st"] = "Wither... and... spread...!",
+["la"] = "2096---The Rotwood",
+},
+{
+["mt"] = 3,
+["ta"] = 12580997,
+["st"] = "Treemouth hungry!",
+["la"] = "2096---The Rotwood",
+},
+{
+["mt"] = 5,
+["ta"] = 12581002,
+["st"] = "|TInterface\\ICONS\\Spell_Nature_StrangleVines.blp:20|t %s draws everyone in closer. \r\nEveryone within 10 yards will be consumed!",
+["la"] = "2096---The Rotwood",
+},
+{
+["mt"] = 3,
+["ta"] = 12581146,
+["st"] = "Treemouth... withers... away...",
+["la"] = "2096---The Rotwood",
 },
 },
 ["Opalfang"] = {
@@ -32773,12 +34974,11 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 13097681,
 },
 },
-["Fwaang"] = {
+["Ambassador Taurasza"] = {
 {
-["mt"] = 2,
-["la"] = "2025-4814-5454-Tyrhold Reservoir",
-["st"] = "%s has constructed a Great Glorious Alliance gun rack! Come grab some great, glorious weapons!",
-["ta"] = 13950005,
+["ta"] = 10599760,
+["st"] = "Take this life bloom with you as a sign of good faith to the centaur. Its healing qualities will serve them well.",
+["la"] = "2022-4829-8859-Rubyscale Outpost",
 },
 },
 ["Shadowflame Amalgamation"] = {
@@ -32843,16 +35043,12 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 49123,
 },
 },
-["Emerald Whelpling"] = {
+["Lara Moore"] = {
 {
-["la"] = "2112-6051-1723-The Ruby Enclave",
-["st"] = "Snrrk... snrzzzzz...",
-["ta"] = 847416,
-},
-{
-["la"] = "2112-6037-1883-The Ruby Enclave",
-["st"] = "Is the game over? My pillow is back at the daycare...",
-["ta"] = 847424,
+["lg"] = 7,
+["ta"] = 13806971,
+["st"] = "Greetings, warlock.",
+["la"] = "84-6159-6709-Trade District",
 },
 },
 ["Moltenbinder"] = {
@@ -32860,14 +35056,6 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 1715450,
 ["st"] = "More fodder for our flames!",
 ["la"] = "2200-5417-2530-Eye of Ysera",
-},
-},
-["Lara Moore"] = {
-{
-["lg"] = 7,
-["ta"] = 13806971,
-["st"] = "Greetings, warlock.",
-["la"] = "84-6159-6709-Trade District",
 },
 },
 ["Qalashi Magmacrafter"] = {
@@ -32880,6 +35068,32 @@ AdventureArchivesMessageDB_9 = {
 ["ta"] = 14046465,
 ["st"] = "The Titans ... lied...",
 ["la"] = "2022-2916-5383-The Slagmire",
+},
+},
+["Igys the Believer"] = {
+{
+["mt"] = 3,
+["ta"] = 14045969,
+["st"] = "Zolza, we shall celebrate this moment in the flames that consume all.",
+["la"] = "2022-3198-5492-The Slagmire",
+},
+{
+["mt"] = 3,
+["ta"] = 14046131,
+["st"] = "None will be alive to know how great a sacrifice you have made Sylozen.",
+["la"] = "2022-3106-5706-The Slagmire",
+},
+{
+["mt"] = 3,
+["ta"] = 14046714,
+["st"] = "A place awaits you Beckabecka, amongst the flame ascended.",
+["la"] = "2022-2957-5360-The Slagmire",
+},
+{
+["mt"] = 3,
+["ta"] = 14047638,
+["st"] = "Prepare yourself, Drakira, the Morchok's arrival is near.",
+["la"] = "2022-3437-5374-The Slagmire",
 },
 },
 ["Motivator Krathos"] = {
@@ -32913,13 +35127,6 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2022-1926-3644-The Bubble Bath",
 },
 },
-["Qalashi Flameslinger"] = {
-{
-["ta"] = 14046665,
-["st"] = "Eternal power...",
-["la"] = "2022-3189-5861-The Slagmire",
-},
-},
 ["Olaf"] = {
 {
 ["la"] = "2112-7412-4812-The Parting Glass",
@@ -32947,6 +35154,14 @@ AdventureArchivesMessageDB_9 = {
 ["la"] = "2025-5528-6875-Passage of Time",
 ["st"] = "Tear you... Apart...",
 ["ta"] = 14121276,
+},
+},
+["Massive Magmashell"] = {
+{
+["mt"] = 5,
+["ta"] = 164772,
+["st"] = "%s is being empowered by the Dreamsurge!",
+["la"] = "2022-3947-4829-Smoldering Perch",
 },
 },
 },
@@ -33657,8 +35872,8 @@ AdventureArchivesGossipDB_9 = {
 ["quests"] = {
 [65802] = "Supplies for the Journey",
 [70185] = "Mysterious Beast",
-[65801] = "Making Introductions",
 [65804] = "For Food and Rivalry",
+[65801] = "Making Introductions",
 },
 ["st"] = "I am not your keeper, outsider.",
 ["la"] = "2023-8467-2288-Timberstep Outpost",
@@ -34343,8 +36558,10 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2023-5176-3307-Khadin's Cave",
 ["st"] = "The lands know more than you ever will.",
 ["quests"] = {
+[70194] = "Specialized Secrets: Tailoring",
 [70183] = "Specialized Secrets: Alchemy",
 [70190] = "Specialized Secrets: Herbalism",
+[70186] = "Specialized Secrets: Enchanting",
 },
 ["ta"] = 2032919,
 },
@@ -34352,8 +36569,10 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2023-5176-3307-Khadin's Cave",
 ["st"] = "What knowledge do you seek today?",
 ["quests"] = {
+[70194] = "Specialized Secrets: Tailoring",
 [70183] = "Specialized Secrets: Alchemy",
 [70190] = "Specialized Secrets: Herbalism",
+[70186] = "Specialized Secrets: Enchanting",
 },
 ["ta"] = 2032922,
 },
@@ -34421,14 +36640,14 @@ AdventureArchivesGossipDB_9 = {
 [107207] = true,
 [54812] = true,
 [107208] = true,
-[54813] = true,
+[107765] = true,
 [54814] = true,
 [107602] = true,
 [54807] = true,
 [54815] = true,
 [54808] = true,
 [107216] = true,
-[107765] = true,
+[54813] = true,
 },
 ["ta"] = 390709,
 },
@@ -34443,14 +36662,14 @@ AdventureArchivesGossipDB_9 = {
 [107207] = true,
 [54812] = true,
 [107208] = true,
-[107765] = true,
+[54813] = true,
 [54814] = true,
 [107602] = true,
 [54807] = true,
 [54815] = true,
 [54808] = true,
 [107216] = true,
-[54813] = true,
+[107765] = true,
 },
 ["ta"] = 1246191,
 },
@@ -34556,14 +36775,14 @@ AdventureArchivesGossipDB_9 = {
 [107207] = true,
 [54812] = true,
 [107208] = true,
-[107765] = true,
+[54813] = true,
 [54814] = true,
 [107602] = true,
 [54807] = true,
 [54815] = true,
 [54808] = true,
 [107216] = true,
-[54813] = true,
+[107765] = true,
 },
 ["ta"] = 326831,
 },
@@ -35053,7 +37272,7 @@ AdventureArchivesGossipDB_9 = {
 },
 ["ta"] = 5529,
 ["quests"] = {
-[66156] = "Renowned with the Dragonscale Expedition",
+[72036] = "Dragon Isles Supplies",
 [72039] = "Dragon Isles Supplies",
 [72044] = "Dragon Isles Supplies",
 [72045] = "Dragon Isles Supplies",
@@ -35062,13 +37281,13 @@ AdventureArchivesGossipDB_9 = {
 [72040] = "Dragon Isles Supplies",
 [72034] = "Dragon Isles Supplies",
 [72035] = "Dragon Isles Supplies",
-[72876] = "Multiple Dragon Isles Artifacts",
+[66156] = "Renowned with the Dragonscale Expedition",
 [72877] = "Multiple Dragon Isles Artifacts",
 [72038] = "Dragon Isles Supplies",
 [71034] = "Dragon Isles Artifacts",
 [71035] = "Multiple Dragon Isles Artifacts",
 [72041] = "Dragon Isles Supplies",
-[72036] = "Dragon Isles Supplies",
+[72876] = "Multiple Dragon Isles Artifacts",
 },
 ["st"] = "Are ya looking to submit or withdraw an artifact today?\r\n\r\nMaybe you're more interested in the benefits of joining our expedition. Membership has its privileges! For one thing, ya get to work with me!",
 ["la"] = "2022-4709-8258-Dragonscale Basecamp",
@@ -35786,15 +38005,29 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2023-8391-2594-Timberstep Outpost",
 },
 },
-[198751] = {
+[196707] = {
 {
-["ta"] = 1894330,
 ["options"] = {
-[107541] = true,
-[107542] = true,
+[107704] = true,
 },
-["st"] = "What great adventure awaits this throne... but then, you know that already. \r\n\r\nYou have been here before, have you not? In another time. \r\n\r\nWould you like to skip ahead to the events you are familiar with? The time when the Obsidian Citadel has been reclaimed?",
-["la"] = "2022-2506-5651-Obsidian Throne",
+["la"] = "2023-6037-3767-Maruukai",
+["st"] = "Good trade follows trust.",
+["quests"] = {
+[71067] = "Whistling Rocks",
+[72763] = "Sharing the Bounty",
+[72765] = "Sharing the Bounty",
+[72766] = "Sharing the Bounty",
+[72767] = "Sharing the Bounty",
+[72768] = "Our Great Bounty",
+[71075] = "Understanding Their Grace",
+[72131] = "Overstocking",
+[71066] = "A Useful Curiosity",
+[71058] = "Observing the Wind",
+[72117] = "Cultural Exchange",
+[72761] = "Sharing the Bounty",
+[72762] = "Sharing the Bounty",
+},
+["ta"] = 1610832,
 },
 },
 [187700] = {
@@ -35864,29 +38097,15 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 936109,
 },
 },
-[196707] = {
+[198751] = {
 {
+["ta"] = 1894330,
 ["options"] = {
-[107704] = true,
+[107541] = true,
+[107542] = true,
 },
-["la"] = "2023-6037-3767-Maruukai",
-["st"] = "Good trade follows trust.",
-["quests"] = {
-[71067] = "Whistling Rocks",
-[72763] = "Sharing the Bounty",
-[72765] = "Sharing the Bounty",
-[72766] = "Sharing the Bounty",
-[72767] = "Sharing the Bounty",
-[72768] = "Our Great Bounty",
-[71075] = "Understanding Their Grace",
-[71066] = "A Useful Curiosity",
-[72131] = "Overstocking",
-[71058] = "Observing the Wind",
-[72117] = "Cultural Exchange",
-[72761] = "Sharing the Bounty",
-[72762] = "Sharing the Bounty",
-},
-["ta"] = 1610832,
+["st"] = "What great adventure awaits this throne... but then, you know that already. \r\n\r\nYou have been here before, have you not? In another time. \r\n\r\nWould you like to skip ahead to the events you are familiar with? The time when the Obsidian Citadel has been reclaimed?",
+["la"] = "2022-2506-5651-Obsidian Throne",
 },
 },
 [194518] = {
@@ -35992,17 +38211,14 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 12840391,
 },
 },
-[196516] = {
+[206225] = {
 {
+["ta"] = 1715651,
 ["options"] = {
-[107751] = true,
+[110797] = true,
 },
-["ta"] = 2039847,
-["quests"] = {
-[71242] = "Supporting the Storm Researchers",
-},
-["st"] = "There is so much to learn from this world. Have you found anything interesting?",
-["la"] = "2112-3805-3739-The Sapphire Enclave",
+["st"] = "<The owlbear cub looks at you with big, cub eyes.>",
+["la"] = "2200-5593-2616-Eye of Ysera",
 },
 },
 [196069] = {
@@ -36249,19 +38465,6 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2112-3685-6318-The Artisan's Market",
 },
 },
-[194602] = {
-{
-["io"] = {
-[56056] = true,
-},
-["options"] = {
-[56056] = true,
-},
-["la"] = "2074---Crystal Chambers",
-["st"] = "The runes in this book suggest it can take you to the top ring within the Crystal Chambers.",
-["ta"] = 11986223,
-},
-},
 [199201] = {
 {
 ["options"] = {
@@ -36275,21 +38478,30 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 1869767,
 },
 },
-[189045] = {
+[194602] = {
+{
+["io"] = {
+[56056] = true,
+},
+["options"] = {
+[56056] = true,
+},
+["la"] = "2074---Crystal Chambers",
+["st"] = "The runes in this book suggest it can take you to the top ring within the Crystal Chambers.",
+["ta"] = 11986223,
+},
+},
+[185468] = {
 {
 ["options"] = {
-[56433] = true,
-[56434] = true,
+[107827] = true,
 },
-["la"] = "2199-5412-5205-Tyrhold Reservoir",
-["st"] = "I was left here by Tyr to keep watch over this reservoir. It is my purpose.",
+["ta"] = 257647,
 ["quests"] = {
-[65913] = "Wotcher, Watcher?",
-[65920] = "For the Ward!",
-[70139] = "Where There's a Ward, There's a Way",
-[65916] = "We Don't Negotiate with Primalists",
+[76112] = "Report to the Trading Post",
 },
-["ta"] = 12841489,
+["st"] = "Welcome to T&W Trading Post!",
+["la"] = "84-5106-7186-Stormwind City",
 },
 },
 [186554] = {
@@ -36377,26 +38589,20 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2112-7385-4980-The Parting Glass",
 },
 },
-[186300] = {
+[216449] = {
 {
-["la"] = "2023-6403-1832-Nelthazan Ruins",
-["st"] = "Ancient magic coalesces in these ruins. We must investigate.",
+["options"] = {
+[120531] = true,
+[120530] = true,
+[120549] = true,
+},
+["la"] = "2112-4552-5603-Valdrakken",
+["st"] = "Oh, hello!\r\n\r\nCuzolth and I have been working with Flightstones and these new Awakened Crests that have been appearing around the Isles. He'll be able to help you upgrade your latest adventuring gear with them. Me? I'm still experimenting with Crest transmutation.\r\n\r\nThese new Crests seem to tap into the power of the Isles themselves. What a wonder!",
 ["quests"] = {
-[65895] = "Competing Company",
-[65893] = "The Relic Inquiry",
-[65891] = "Tools of the Tirade",
-[65890] = "The Nelthazan Ruins",
+[79448] = "Leave No Flightstone Unturned",
+[79453] = "Awakened Crests, Unlimited Possibilities",
 },
-["ta"] = 10611132,
-},
-{
-["la"] = "2023-6212-1634-Nelthazan Ruins",
-["st"] = "I have heard stories of the magnificence of dragons and their kin. What kind of dark magic would turn them into such pitiful beings?",
-["quests"] = {
-[65895] = "Competing Company",
-[65898] = "Proto Problems",
-},
-["ta"] = 10614567,
+["ta"] = 12747901,
 },
 },
 [196264] = {
@@ -36421,19 +38627,18 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 1268246,
 },
 },
-[202524] = {
+[206612] = {
 {
-["ta"] = 13115962,
 ["options"] = {
-[108587] = true,
-[109648] = true,
-[108585] = true,
-[108586] = true,
-[111029] = true,
-[109649] = true,
+[113890] = true,
 },
-["st"] = "The Crystal Circuit race is a great way to see Zaralek Cavern!\r\n\r\nWind your way through the majestic glowing crystal fields, drop in on Glimmerogg, and race through the Crystal Cascades before gliding to the finish while taking in the cavern's beautiful lava flows.\r\n\r\nYou're lucky to race here, but I'm lucky I get this view all day!\r\n\r\nReady to race?",
-["la"] = "2133-3869-6057-Zaralek Cavern",
+["la"] = "2200-3682-2584-Emerald Dream",
+["st"] = "Fyrakk's assault on the Emerald Dream must be stopped.",
+["quests"] = {
+[76343] = "Best Laid Plans",
+[76345] = "Finding Terro",
+},
+["ta"] = 833115,
 },
 },
 [202277] = {
@@ -36446,20 +38651,26 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2133-5585-5541-Loamm",
 },
 },
-[216449] = {
+[186300] = {
 {
-["options"] = {
-[120531] = true,
-[120530] = true,
-[120549] = true,
-},
-["la"] = "2112-4552-5603-Valdrakken",
-["st"] = "Oh, hello!\r\n\r\nCuzolth and I have been working with Flightstones and these new Awakened Crests that have been appearing around the Isles. He'll be able to help you upgrade your latest adventuring gear with them. Me? I'm still experimenting with Crest transmutation.\r\n\r\nThese new Crests seem to tap into the power of the Isles themselves. What a wonder!",
+["la"] = "2023-6403-1832-Nelthazan Ruins",
+["st"] = "Ancient magic coalesces in these ruins. We must investigate.",
 ["quests"] = {
-[79448] = "Leave No Flightstone Unturned",
-[79453] = "Awakened Crests, Unlimited Possibilities",
+[65895] = "Competing Company",
+[65893] = "The Relic Inquiry",
+[65891] = "Tools of the Tirade",
+[65890] = "The Nelthazan Ruins",
 },
-["ta"] = 12747901,
+["ta"] = 10611132,
+},
+{
+["la"] = "2023-6212-1634-Nelthazan Ruins",
+["st"] = "I have heard stories of the magnificence of dragons and their kin. What kind of dark magic would turn them into such pitiful beings?",
+["quests"] = {
+[65895] = "Competing Company",
+[65898] = "Proto Problems",
+},
+["ta"] = 10614567,
 },
 },
 [189941] = {
@@ -36518,20 +38729,6 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2112-3538-5889-The Artisan's Market",
 },
 },
-[191283] = {
-{
-["la"] = "2023-6148-3948-Maruukai",
-["st"] = "<Sansok regards you steadily.>",
-["quests"] = {
-[66017] = "Clan Ohn'ir",
-[66018] = "Clan Nokhud",
-[66016] = "Clan Teerai",
-[65806] = "Maruukai",
-[72429] = "Orientation: Maruukai",
-},
-["ta"] = 10608928,
-},
-},
 [208146] = {
 {
 ["ta"] = 14475614,
@@ -36540,6 +38737,20 @@ AdventureArchivesGossipDB_9 = {
 },
 ["st"] = "<You slowly open the panel, revealing the console's power core.>",
 ["la"] = "2199-5804-3467-Tyrhold Reservoir",
+},
+},
+[191283] = {
+{
+["la"] = "2023-6148-3948-Maruukai",
+["st"] = "<Sansok regards you steadily.>",
+["quests"] = {
+[66017] = "Clan Ohn'ir",
+[66018] = "Clan Nokhud",
+[65806] = "Maruukai",
+[66016] = "Clan Teerai",
+[72429] = "Orientation: Maruukai",
+},
+["ta"] = 10608928,
 },
 },
 [185726] = {
@@ -36591,11 +38802,14 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 933018,
 },
 },
-[195244] = {
+[213640] = {
 {
-["ta"] = 165315,
-["st"] = "<Yennu sobs.> M-my k-kite! It's s-stuck in a tree!",
-["la"] = "2022-4674-3097-Crumbling Cliffs",
+["ta"] = 13029759,
+["options"] = {
+[119862] = true,
+},
+["st"] = "Hello, Riparium!\r\n\r\nIf you need some help in Algeth'ar Academy, let me know.\r\n\r\nMyself and other followers are ready to help.",
+["la"] = "2025-5805-4246-Algeth'ar Academy",
 },
 },
 [193456] = {
@@ -36644,8 +38858,8 @@ AdventureArchivesGossipDB_9 = {
 [109469] = true,
 [55702] = true,
 [109470] = true,
-[107771] = true,
 [55703] = true,
+[107771] = true,
 },
 ["st"] = "Greetings, dragonrider!\r\n\r\nAre you ready for a brisk, wintry ride?\r\n\r\nThe Frostland Flyover loops around the Upper Frostlands through snow-dusted trees and icy peaks.\r\n\r\nWould you like to try it? I do hope you're wearing something warm under that armor...",
 ["la"] = "2024-4848-3582-Upper Frostlands",
@@ -36685,11 +38899,11 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 13114795,
 ["options"] = {
 [55189] = true,
+[110997] = true,
 [107770] = true,
-[55188] = true,
 [109466] = true,
 [109465] = true,
-[110997] = true,
+[55188] = true,
 },
 ["st"] = "Brr! G-greetings, dragonrider!\r\n\r\nThis c-course is called the Vakthros Ah-ah-\r\n\r\n<The Bronze Timekeeper sneezes loudly>\r\n\r\nExcuse me! Vakthros Ascent. It t-takes riders across the F-f-rostlands and up and over Vakthros's s-summit.\r\n\r\nD-do you want to t-try it?",
 ["la"] = "2024-7131-2462-Upper Frostlands",
@@ -36733,10 +38947,10 @@ AdventureArchivesGossipDB_9 = {
 {
 ["ta"] = 12234012,
 ["options"] = {
-[55740] = true,
-[55672] = true,
 [55674] = true,
 [55675] = true,
+[55740] = true,
+[55672] = true,
 },
 ["st"] = "The dragonflights welcome you to these shores, honored Zandalari guest!\r\n\r\nQueen Alexstrasza offers her warmest greeting and awaits the opportunity to host you at the Life Pools when your journey takes you there.\r\n\r\nBut do not rush beyond your own desire.\r\n\r\nIt has been thousands of years since feet of your kind walked this land. It can wait awhile longer.",
 ["la"] = "2022-7633-3555-Wingrest Embassy",
@@ -36902,27 +39116,6 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2112-1377-5896-Little Scales Daycare",
 },
 },
-[193459] = {
-{
-["la"] = "2135---The Seat of the Aspects",
-["st"] = "Chasing Iridikron and the others will be a challenge...\r\n\r\n<Khadgar smirks slightly.>\r\n\r\nBut so was fighting the Legion. I have no doubts the champions of Azeroth will rise to meet the challenge these Incarnates pose.",
-["ta"] = 12680455,
-},
-},
-[208725] = {
-{
-["options"] = {
-[110848] = true,
-},
-["la"] = "2200-3356-3023-Field of Flames",
-["st"] = "Fyrakk is a poor leader. His mission is doomed to fail.",
-["quests"] = {
-[76348] = "Big Bright Beautiful Barrier",
-[76347] = "Power, Eruption, and Lies",
-},
-["ta"] = 833935,
-},
-},
 [201635] = {
 {
 ["ta"] = 1077336,
@@ -36931,6 +39124,24 @@ AdventureArchivesGossipDB_9 = {
 },
 ["st"] = "<Zhusadormu sniffles.>\r\n\r\nRiparium, do you know what this thing is?",
 ["la"] = "2112-8063-4639-The Bronze Enclave",
+},
+},
+[194928] = {
+{
+["la"] = "2023-6218-3574-Maruukai",
+["st"] = "Come, rest at our hearth.",
+["options"] = {
+[53909] = true,
+[53910] = true,
+},
+["ta"] = 10609812,
+},
+},
+[193459] = {
+{
+["la"] = "2135---The Seat of the Aspects",
+["st"] = "Chasing Iridikron and the others will be a challenge...\r\n\r\n<Khadgar smirks slightly.>\r\n\r\nBut so was fighting the Legion. I have no doubts the champions of Azeroth will rise to meet the challenge these Incarnates pose.",
+["ta"] = 12680455,
 },
 },
 [201125] = {
@@ -37032,15 +39243,18 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 12680354,
 },
 },
-[194928] = {
+[208725] = {
 {
-["la"] = "2023-6218-3574-Maruukai",
-["st"] = "Come, rest at our hearth.",
 ["options"] = {
-[53909] = true,
-[53910] = true,
+[110848] = true,
 },
-["ta"] = 10609812,
+["la"] = "2200-3356-3023-Field of Flames",
+["st"] = "Fyrakk is a poor leader. His mission is doomed to fail.",
+["quests"] = {
+[76348] = "Big Bright Beautiful Barrier",
+[76347] = "Power, Eruption, and Lies",
+},
+["ta"] = 833935,
 },
 },
 [200231] = {
@@ -37142,14 +39356,11 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2022-5511-6469-Ruby Life Pools",
 },
 },
-[213640] = {
+[195244] = {
 {
-["ta"] = 13029759,
-["options"] = {
-[119862] = true,
-},
-["st"] = "Hello, Riparium!\r\n\r\nIf you need some help in Algeth'ar Academy, let me know.\r\n\r\nMyself and other followers are ready to help.",
-["la"] = "2025-5805-4246-Algeth'ar Academy",
+["ta"] = 165315,
+["st"] = "<Yennu sobs.> M-my k-kite! It's s-stuck in a tree!",
+["la"] = "2022-4674-3097-Crumbling Cliffs",
 },
 },
 [200085] = {
@@ -37217,9 +39428,9 @@ AdventureArchivesGossipDB_9 = {
 [76425] = "Renowned with the Dream Wardens",
 [78363] = "The Tabard of Your Dreams",
 [78364] = "Drake's Dreaming Crest",
-[78444] = "A Worthy Ally: Dream Wardens",
-[78581] = "Dragon Isles Supplies",
 [78579] = "Dragon Isles Supplies",
+[78581] = "Dragon Isles Supplies",
+[78444] = "A Worthy Ally: Dream Wardens",
 [78580] = "Dragon Isles Supplies",
 [78356] = "Whelpling's Dreaming Crest",
 [78583] = "Dragon Isles Supplies",
@@ -37253,18 +39464,19 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2022-5570-6420-Ruby Life Pools",
 },
 },
-[206612] = {
+[202524] = {
 {
+["ta"] = 13115962,
 ["options"] = {
-[113890] = true,
+[108587] = true,
+[109648] = true,
+[108585] = true,
+[108586] = true,
+[111029] = true,
+[109649] = true,
 },
-["la"] = "2200-3682-2584-Emerald Dream",
-["st"] = "Fyrakk's assault on the Emerald Dream must be stopped.",
-["quests"] = {
-[76343] = "Best Laid Plans",
-[76345] = "Finding Terro",
-},
-["ta"] = 833115,
+["st"] = "The Crystal Circuit race is a great way to see Zaralek Cavern!\r\n\r\nWind your way through the majestic glowing crystal fields, drop in on Glimmerogg, and race through the Crystal Cascades before gliding to the finish while taking in the cavern's beautiful lava flows.\r\n\r\nYou're lucky to race here, but I'm lucky I get this view all day!\r\n\r\nReady to race?",
+["la"] = "2133-3869-6057-Zaralek Cavern",
 },
 },
 [193321] = {
@@ -37303,17 +39515,21 @@ AdventureArchivesGossipDB_9 = {
 ["la"] = "2170---Edge of Oblivion",
 },
 },
-[185468] = {
+[189045] = {
 {
 ["options"] = {
-[107827] = true,
+[56433] = true,
+[56434] = true,
 },
-["ta"] = 257647,
+["la"] = "2199-5412-5205-Tyrhold Reservoir",
+["st"] = "I was left here by Tyr to keep watch over this reservoir. It is my purpose.",
 ["quests"] = {
-[76112] = "Report to the Trading Post",
+[65913] = "Wotcher, Watcher?",
+[65920] = "For the Ward!",
+[70139] = "Where There's a Ward, There's a Way",
+[65916] = "We Don't Negotiate with Primalists",
 },
-["st"] = "Welcome to T&W Trading Post!",
-["la"] = "84-5106-7186-Stormwind City",
+["ta"] = 12841489,
 },
 },
 [186297] = {
@@ -37431,14 +39647,17 @@ AdventureArchivesGossipDB_9 = {
 ["ta"] = 11982844,
 },
 },
-[206225] = {
+[196516] = {
 {
-["ta"] = 1715651,
 ["options"] = {
-[110797] = true,
+[107751] = true,
 },
-["st"] = "<The owlbear cub looks at you with big, cub eyes.>",
-["la"] = "2200-5593-2616-Eye of Ysera",
+["ta"] = 2039847,
+["quests"] = {
+[71242] = "Supporting the Storm Researchers",
+},
+["st"] = "There is so much to learn from this world. Have you found anything interesting?",
+["la"] = "2112-3805-3739-The Sapphire Enclave",
 },
 },
 [203904] = {
@@ -37461,9 +39680,9 @@ AdventureArchivesGossipDB_9 = {
 [107335] = true,
 [107318] = true,
 [107332] = true,
-[107333] = true,
-[107330] = true,
 [107319] = true,
+[107330] = true,
+[107333] = true,
 },
 ["ta"] = 23897323,
 },
@@ -39790,10 +42009,10 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "Tell me about upgrading gear using Flightstones and Awakened Crests.",
 ["ia"] = 216449,
 },
-[56100] = {
-["ii"] = 132060,
-["sn"] = "How may I help you?",
-["ia"] = 194463,
+[108044] = {
+["ii"] = 132053,
+["sn"] = "Do you have anything that could soothe a green hatchling?",
+["ia"] = 198907,
 },
 [64025] = {
 ["ii"] = 132053,
@@ -39839,9 +42058,9 @@ AdventureArchivesGossipDB_9 = {
 },
 [107597] = {
 ["ii"] = 132053,
+["st"] = "Here, give this one a try!",
 ["sn"] = "My Keystone level is too high. Can you reduce it?",
 ["ia"] = 197711,
-["st"] = "Here, give this one a try!",
 },
 [107058] = {
 ["ii"] = 132053,
@@ -39938,10 +42157,10 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "Why is Finduin here?",
 ["ia"] = 205679,
 },
-[54982] = {
+[120130] = {
 ["ii"] = 132053,
-["sn"] = "I'd like to try the Advanced course.",
-["ia"] = 191121,
+["sn"] = "Do you have that thing Eadweard needed?",
+["ia"] = 209133,
 },
 [108260] = {
 ["ii"] = 132053,
@@ -40026,10 +42245,10 @@ AdventureArchivesGossipDB_9 = {
 [43250] = {
 ["st"] = "Greetings, Riparium!",
 },
-[109198] = {
+[110221] = {
 ["ii"] = 132053,
-["sn"] = "Why is Aberrus so important?",
-["ia"] = 202523,
+["sn"] = "If you were a fraud, you wouldn't be here.",
+["ia"] = 204987,
 },
 [107024] = {
 ["ii"] = 132053,
@@ -40041,15 +42260,15 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "I wish to pledge to the Red Dragonflight. (Bestows a Versatility buff.)",
 ["ia"] = 196981,
 },
-[110221] = {
+[109198] = {
 ["ii"] = 132053,
-["sn"] = "If you were a fraud, you wouldn't be here.",
-["ia"] = 204987,
+["sn"] = "Why is Aberrus so important?",
+["ia"] = 202523,
 },
-[120515] = {
+[107216] = {
 ["ii"] = 132053,
-["sn"] = "What happens when we run out of time?",
-["ia"] = 209134,
+["sn"] = "Mailbox",
+["ia"] = 184170,
 },
 [111372] = {
 ["ii"] = 132053,
@@ -40066,15 +42285,15 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "Where can I go to help?",
 ["ia"] = 196412,
 },
-[107602] = {
-["ii"] = 132053,
-["sn"] = "Crafting Orders",
-["ia"] = 184170,
-},
 [109648] = {
 ["ii"] = 132053,
 ["sn"] = "I'd like to try the Reverse Challenge course.",
 ["ia"] = 202524,
+},
+[107602] = {
+["ii"] = 132053,
+["sn"] = "Crafting Orders",
+["ia"] = 184170,
 },
 [54983] = {
 ["ii"] = 132053,
@@ -40126,25 +42345,25 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "I mean... their name is Tempo. Come on.",
 ["ia"] = 204987,
 },
-[55175] = {
+[120516] = {
 ["ii"] = 132053,
-["sn"] = "I'd like to try the Advanced course.",
-["ia"] = 191165,
+["sn"] = "How does it work?",
+["ia"] = 209134,
 },
-[111373] = {
-["ii"] = 132053,
-["sn"] = "|TInterface/Icons/inv_companiondrake.blp:20|t Highland Drake",
-["ia"] = 206737,
+[107281] = {
+["ii"] = 132058,
+["sn"] = "Train me in Jewelcrafting.",
+["ia"] = 190103,
 },
 [55615] = {
 ["ii"] = 132058,
 ["sn"] = "Train me.",
 ["ia"] = 185553,
 },
-[54632] = {
+[109200] = {
 ["ii"] = 132053,
-["sn"] = "I wish to know where I stand with the Dragonscale Expedition?",
-["ia"] = 189226,
+["sn"] = "Remind me what this place is?",
+["ia"] = 202523,
 },
 [55303] = {
 ["ii"] = 136458,
@@ -40156,10 +42375,10 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "|cFF0000FF(Quest)|r What have you observed about the djaradin?",
 ["ia"] = 188299,
 },
-[109200] = {
+[54632] = {
 ["ii"] = 132053,
-["sn"] = "Remind me what this place is?",
-["ia"] = 202523,
+["sn"] = "I wish to know where I stand with the Dragonscale Expedition?",
+["ia"] = 189226,
 },
 [35962] = {
 ["ii"] = 132058,
@@ -40216,15 +42435,15 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "|TInterface/Icons/inv_companionpterrordaxdrake.blp:20|t Windborne Velocidrake",
 ["ia"] = 206737,
 },
-[107281] = {
-["ii"] = 132058,
-["sn"] = "Train me in Jewelcrafting.",
-["ia"] = 190103,
-},
-[120516] = {
+[111373] = {
 ["ii"] = 132053,
-["sn"] = "How does it work?",
-["ia"] = 209134,
+["sn"] = "|TInterface/Icons/inv_companiondrake.blp:20|t Highland Drake",
+["ia"] = 206737,
+},
+[55175] = {
+["ii"] = 132053,
+["sn"] = "I'd like to try the Advanced course.",
+["ia"] = 191165,
 },
 [110326] = {
 ["ii"] = 132053,
@@ -40261,10 +42480,10 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "Yes!",
 ["ia"] = 199789,
 },
-[107216] = {
+[120515] = {
 ["ii"] = 132053,
-["sn"] = "Mailbox",
-["ia"] = 184170,
+["sn"] = "What happens when we run out of time?",
+["ia"] = 209134,
 },
 [110991] = {
 ["ii"] = 132053,
@@ -40306,10 +42525,10 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "What do you think about Merithra's plan?",
 ["ia"] = 206412,
 },
-[120130] = {
+[54982] = {
 ["ii"] = 132053,
-["sn"] = "Do you have that thing Eadweard needed?",
-["ia"] = 209133,
+["sn"] = "I'd like to try the Advanced course.",
+["ia"] = 191121,
 },
 [55304] = {
 ["ii"] = 132060,
@@ -40386,10 +42605,10 @@ AdventureArchivesGossipDB_9 = {
 ["sn"] = "Want to trade some pet charms?",
 ["ia"] = 197102,
 },
-[108044] = {
-["ii"] = 132053,
-["sn"] = "Do you have anything that could soothe a green hatchling?",
-["ia"] = 198907,
+[56100] = {
+["ii"] = 132060,
+["sn"] = "How may I help you?",
+["ia"] = 194463,
 },
 [55578] = {
 ["ii"] = 132053,

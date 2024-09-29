@@ -45,6 +45,10 @@ BetterAddonListDB = {
 },
 ["!Main"] = {
 },
+["TSM"] = {
+"TradeSkillMaster",
+"TradeSkillMaster_AppHelper",
+},
 ["Altoholic"] = {
 "AddonFactory",
 "Altoholic",
@@ -73,10 +77,6 @@ BetterAddonListDB = {
 "DataStore_Spells",
 "DataStore_Stats",
 "DataStore_Talents",
-},
-["TSM"] = {
-"TradeSkillMaster",
-"TradeSkillMaster_AppHelper",
 },
 ["!Casual Content"] = {
 "AngrierWorldQuests",

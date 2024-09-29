@@ -14,6 +14,13 @@ AdventureArchivesMailDB = {
 ["ta"] = 951387,
 },
 },
+["Nana Mudclaw"] = {
+{
+["sn"] = "Sunsong Ranch",
+["st"] = "Dearest Esker,\r\n\r\nThe time has come for me to step down from the Tiller's council. I've worked my old bones for forty years... it's time for me to sit on my porch, drink juleps, and watch my grandchildren grow up.\n\nIt remains to me to find a successor, and I could think of no better person to help me in this search than you.\n\nWould you please come see me at Halfhill? I will be waiting in the house at the top of the hill.\n\nNana Mudclaw",
+["ta"] = 25102732,
+},
+},
 ["Vaskarn"] = {
 {
 ["items"] = {

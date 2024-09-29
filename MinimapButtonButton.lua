@@ -2,11 +2,11 @@
 MinimapButtonButtonOptions = {
 ["direction"] = "leftdown",
 ["scale"] = 1,
-["buttonsShown"] = false,
+["buttonsShown"] = true,
 ["buttonScale"] = 1,
 ["blacklist"] = {
 },
-["autohide"] = 0,
+["version"] = 5,
 ["position"] = {
 "TOPRIGHT",
 nil,
@@ -14,12 +14,12 @@ nil,
 -231.2279663085938,
 -13.64422702789307,
 },
-["buttonsPerRow"] = 10,
+["buttonsPerRow"] = 15,
 ["hidecompartment"] = false,
 ["whitelist"] = {
 ["ZygorGuidesViewerMapIcon"] = true,
 ["CodexBrowserIcon"] = true,
 ["TrinketMenu_IconFrame"] = true,
 },
-["version"] = 5,
+["autohide"] = 0,
 }

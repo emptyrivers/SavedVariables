@@ -18,7 +18,7 @@ Rematch5Settings = {
 ["DontSortByRelevance"] = false,
 ["DisableShare"] = false,
 ["ShowSpeciesID"] = true,
-["XPos"] = 317.9045104980469,
+["XPos"] = 1075.142944335938,
 ["ShowAbilityNumbersLoaded"] = false,
 ["HideTruncatedTooltips"] = false,
 ["AlternateWinRecord"] = false,
@@ -26,7 +26,7 @@ Rematch5Settings = {
 ["PetCardForLinks"] = true,
 ["HideRarityBorders"] = true,
 ["EchoTeamDrag"] = false,
-["LockPosition"] = true,
+["LockPosition"] = false,
 ["QueueAutoLearn"] = true,
 ["PanelTabAnchor"] = "TOPLEFT",
 ["PetCardAlwaysShowHPXPText"] = false,
@@ -84,7 +84,6 @@ Rematch5Settings = {
 },
 },
 ["SpecialSlots"] = {
-[2] = 0,
 },
 ["PreferPetsTab"] = false,
 ["QueueRandomWhenEmpty"] = true,
@@ -108,15 +107,15 @@ Rematch5Settings = {
 ["CustomScale"] = false,
 ["ExportIncludeNotes"] = false,
 ["BreedSource"] = "BattlePetBreedID",
-["LastSelectedGroup"] = "group:7",
+["LastSelectedGroup"] = "group:9",
 ["HideWinRecord"] = false,
-["DontConfirmHidePets"] = false,
+["AutoWinRecordPVPOnly"] = false,
 ["ExpandedOptionsHeaders"] = {
 },
 ["ReverseToolbar"] = false,
 ["ToolbarDismiss"] = true,
 ["StandaloneLayout"] = "0-minimized",
-["AlwaysUsePetSatchel"] = false,
+["LoadHealthiestAny"] = false,
 ["ShowAbilityID"] = false,
 ["QueueAutoImport"] = true,
 ["ExportSimplePetList"] = false,
@@ -124,29 +123,29 @@ Rematch5Settings = {
 ["QueueAutoLearnRare"] = false,
 ["ColorTeamNames"] = true,
 ["AbilityBackground"] = "Icon",
-["AlwaysTeamTabs"] = false,
+["HideBreedsLists"] = false,
 ["InteractShowAfterLoad"] = true,
-["DontConfirmFillQueue"] = false,
+["BoringLoreFont"] = false,
 ["DontConfirmDeleteNotes"] = false,
-["ShowNewGroupTab"] = true,
+["NotesWidth"] = 257.9999389648438,
 ["DontConfirmCaging"] = true,
-["HidePreferenceBadges"] = false,
+["ClickToDrag"] = false,
 ["AllowHiddenPets"] = true,
 ["ShowAfterBattle"] = true,
 ["QueueSkipDead"] = true,
 ["PetCardNoMouseoverFlip"] = false,
-["NotesWidth"] = 257.9999389648438,
-["AutoWinRecordPVPOnly"] = false,
+["DontConfirmFillQueue"] = false,
+["AlwaysTeamTabs"] = false,
 ["WarnWhenRandomNot25"] = false,
-["HideBreedsLists"] = false,
+["HidePreferenceBadges"] = false,
 ["CompactPetList"] = true,
 ["Anchor"] = "TOPLEFT",
 ["ShowFillQueueMore"] = true,
 ["LoadHealthiest"] = false,
-["currentTeamID"] = "team:148",
+["currentTeamID"] = "team:281",
 ["JournalLayout"] = "3-teams",
 ["SortByNickname"] = false,
-["CompactQueueList"] = true,
+["LastToastedPetID"] = "BattlePet-0-00002245CB60",
 ["DontConfirmDeleteTeams"] = false,
 ["NotesNoEscFix"] = true,
 ["Filters"] = {
@@ -161,7 +160,6 @@ Rematch5Settings = {
 ["Sources"] = {
 },
 ["Sort"] = {
-7,
 },
 ["Level"] = {
 },
@@ -173,7 +171,7 @@ Rematch5Settings = {
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "parr",
+["RawSearchText"] = "\"Itchbite\"",
 ["Similar"] = {
 },
 ["Search"] = {
@@ -189,75 +187,308 @@ Rematch5Settings = {
 ["Moveset"] = {
 },
 },
-["LastToastedPetID"] = "BattlePet-0-00002245CB60",
-["HideTooltips"] = false,
 ["KeepNotesOnScreen"] = true,
+["HideTooltips"] = false,
+["HideNotesBadges"] = false,
 ["PetNotes"] = {
 },
 ["DontConfirmRemoveQueue"] = true,
 ["InteractPreferUninjured"] = false,
 ["ShowAfterPVEOnly"] = false,
-["ColorTargetNames"] = true,
-["ImportConflictOverwrite"] = false,
 ["BreedFormat"] = 1,
+["ImportConflictOverwrite"] = true,
+["HideBreedsLoadouts"] = false,
 ["NotesFont"] = "GameFontHighlight",
 ["KeepCompanion"] = false,
 ["ShowNotesOnce"] = false,
-["HideBreedsLoadouts"] = false,
 ["TooltipBehavior"] = "Normal",
 ["DefaultPreferences"] = {
 },
+["ShowAbilityNumbers"] = true,
 ["EnableDrag"] = true,
 ["NotesHeight"] = 258,
 ["HidePetToast"] = true,
-["ShowAbilityNumbers"] = true,
+["PrioritizeBreedOnImport"] = true,
 ["LastOpenLayout"] = "3-teams",
 ["QueueDoubleClick"] = true,
 ["BackupCount"] = 275,
 ["HideToolbarTooltips"] = false,
-["UseDefaultJournal"] = false,
 ["LevelingQueue"] = {
 {
-["preferred"] = true,
-["petTag"] = "QN144DL",
-["added"] = 20240823002712,
-["petID"] = "BattlePet-0-00002245CB60",
-},
-{
-["preferred"] = true,
-["petTag"] = "QN2A4D2",
-["added"] = 20240823003049,
 ["petID"] = "BattlePet-0-00002245CCD8",
+["preferred"] = true,
+["added"] = 20240823003049,
+["petTag"] = "QN2A4D2",
 },
 {
 ["petID"] = "BattlePet-0-00002245EAF2",
-["petTag"] = "QN194CJ",
+["preferred"] = true,
 ["added"] = 20240823020344,
-["preferred"] = true,
+["petTag"] = "QN194CJ",
 },
 {
 ["preferred"] = true,
-["petTag"] = "QN364CI",
-["added"] = 20240823022426,
 ["petID"] = "BattlePet-0-00002245F023",
+["added"] = 20240823022426,
+["petTag"] = "QN364CI",
 },
 {
-["preferred"] = true,
-["petTag"] = "QN1B4D9",
-["added"] = 20240823115323,
-["petID"] = "BattlePet-0-000022467527",
-},
-{
-["petID"] = "BattlePet-0-00002246B265",
-["petTag"] = "QN1B4DN",
-["added"] = 20240823140729,
-["preferred"] = true,
-},
-{
-["petID"] = "BattlePet-0-000022474AE9",
-["preferred"] = true,
-["added"] = 20240823184250,
 ["petTag"] = "QN154D4",
+["petID"] = "BattlePet-0-000022474AE9",
+["added"] = 20240823184250,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1433DS",
+["preferred"] = true,
+["added"] = 20231202004751,
+["petID"] = "BattlePet-0-000021C9209B",
+},
+{
+["petTag"] = "Q1433CK",
+["preferred"] = true,
+["added"] = 20231221171027,
+["petID"] = "BattlePet-0-000021D48012",
+},
+{
+["petTag"] = "Q1404E4",
+["preferred"] = true,
+["added"] = 20240611214737,
+["petID"] = "BattlePet-0-00002220A297",
+},
+{
+["petTag"] = "Q1442CM",
+["petID"] = "BattlePet-0-0000210B58A0",
+["added"] = 20231130040631,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q144141",
+["petID"] = "BattlePet-0-00000E0BBD4A",
+["added"] = 20231130040542,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1483DN",
+["petID"] = "BattlePet-0-000021D2AA99",
+["added"] = 20231218155617,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14546H",
+["petID"] = "BattlePet-0-000021CA50EA",
+["added"] = 20231203164757,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14816H",
+["petID"] = "BattlePet-0-000021D4734E",
+["added"] = 20231221152940,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14620U",
+["petID"] = "BattlePet-0-000021EA4659",
+["added"] = 20240201154923,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14446C",
+["petID"] = "BattlePet-0-000021CDF5C8",
+["added"] = 20231209174459,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B23E",
+["preferred"] = true,
+["added"] = 20231207165338,
+["petID"] = "BattlePet-0-000021CCDFD9",
+},
+{
+["petTag"] = "Q143467",
+["preferred"] = true,
+["added"] = 20231205204905,
+["petID"] = "BattlePet-0-000021CBCF9F",
+},
+{
+["petTag"] = "Q144468",
+["preferred"] = true,
+["added"] = 20231205130403,
+["petID"] = "BattlePet-0-000021CB6B88",
+},
+{
+["petTag"] = "Q14446N",
+["petID"] = "BattlePet-0-000021C9E7A3",
+["added"] = 20231203013819,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14535N",
+["petID"] = "BattlePet-0-000021C9E793",
+["added"] = 20231203013747,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q13639K",
+["preferred"] = true,
+["added"] = 20231202041427,
+["petID"] = "BattlePet-0-000021C92DBD",
+},
+{
+["petTag"] = "Q14338E",
+["preferred"] = true,
+["added"] = 20231202001105,
+["petID"] = "BattlePet-0-000021C91C6F",
+},
+{
+["petTag"] = "Q1392R4",
+["petID"] = "BattlePet-0-0000210533A4",
+["added"] = 20231130040612,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1434DP",
+["petID"] = "BattlePet-0-0000225B2EBC",
+["added"] = 20240906183702,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14819H",
+["petID"] = "BattlePet-0-0000221D736C",
+["added"] = 20240531151611,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B39L",
+["petID"] = "BattlePet-0-000021E41D28",
+["added"] = 20240118182609,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14C365",
+["petID"] = "BattlePet-0-000021D4259C",
+["added"] = 20231220223103,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1481MP",
+["petID"] = "BattlePet-0-000021E1B6A7",
+["added"] = 20240113170952,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B4D8",
+["petID"] = "BattlePet-0-000022482D85",
+["added"] = 20240824011806,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14A4BM",
+["preferred"] = true,
+["added"] = 20240823021720,
+["petID"] = "BattlePet-0-00002245EE8A",
+},
+{
+["petTag"] = "Q148384",
+["preferred"] = true,
+["added"] = 20231228171522,
+["petID"] = "BattlePet-0-000021D955B2",
+},
+{
+["petTag"] = "Q14337A",
+["preferred"] = true,
+["added"] = 20240111130119,
+["petID"] = "BattlePet-0-000021E0A336",
+},
+{
+["petTag"] = "Q143395",
+["preferred"] = true,
+["added"] = 20240111125639,
+["petID"] = "BattlePet-0-000021E0A2BE",
+},
+{
+["petTag"] = "Q143392",
+["preferred"] = true,
+["added"] = 20240909190222,
+["petID"] = "BattlePet-0-0000225E5D32",
+},
+{
+["petTag"] = "Q14445T",
+["petID"] = "BattlePet-0-000021E89AAE",
+["added"] = 20240130000756,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q149371",
+["petID"] = "BattlePet-0-000021DBA714",
+["added"] = 20240101125244,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000021DE9A4C",
+["petTag"] = "Q14737R",
+["added"] = 20240107004325,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1404FE",
+["added"] = 20240815151731,
+["petID"] = "BattlePet-0-0000223FD4E7",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1404FD",
+["added"] = 20240815151732,
+["petID"] = "BattlePet-0-0000223FD4E8",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q143452",
+["added"] = 20240111131250,
+["petID"] = "BattlePet-0-000021E0A40B",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14345A",
+["added"] = 20240309184430,
+["petID"] = "BattlePet-0-000021F97255",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1404FF",
+["added"] = 20240815151734,
+["petID"] = "BattlePet-0-0000223FD4EA",
+},
+{
+["petID"] = "BattlePet-0-0000220D8DF9",
+["petTag"] = "Q14B45U",
+["added"] = 20240424182113,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000022177069",
+["petTag"] = "Q143453",
+["added"] = 20240515151238,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14C46I",
+["added"] = 20231219190048,
+["petID"] = "BattlePet-0-000021D3617E",
+},
+{
+["petID"] = "BattlePet-0-000021F7FEB6",
+["petTag"] = "Q14049S",
+["added"] = 20240305154208,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000021EFE315",
+["preferred"] = true,
+["added"] = 20240213010556,
+["petTag"] = "Q14C2B2",
 },
 {
 ["petID"] = "BattlePet-0-000021A1E76F",
@@ -272,152 +503,44 @@ Rematch5Settings = {
 ["petTag"] = "Q1433GG",
 },
 {
-["preferred"] = true,
 ["petID"] = "BattlePet-0-000021D0270B",
+["preferred"] = true,
 ["added"] = 20231213165106,
 ["petTag"] = "Q1433DR",
 },
 {
-["preferred"] = true,
 ["petID"] = "BattlePet-0-000021D805E3",
+["preferred"] = true,
 ["added"] = 20231226183806,
 ["petTag"] = "Q1433GI",
 },
 {
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000210B58A0",
-["added"] = 20231130040631,
-["petTag"] = "Q1442CM",
-},
-{
-["petID"] = "BattlePet-0-00000E0BBEF5",
-["preferred"] = false,
-["added"] = 20231130040552,
-["petTag"] = "Q1491IR",
-},
-{
-["petID"] = "BattlePet-0-00000E0BBD4A",
-["preferred"] = false,
-["added"] = 20231130040542,
-["petTag"] = "Q144141",
-},
-{
-["petID"] = "BattlePet-0-0000210533A4",
-["preferred"] = false,
-["added"] = 20231130040612,
-["petTag"] = "Q1392R4",
-},
-{
-["petID"] = "BattlePet-0-000021C91C6F",
-["preferred"] = false,
-["added"] = 20231202001105,
-["petTag"] = "Q14338E",
-},
-{
-["petID"] = "BattlePet-0-000021C92098",
-["preferred"] = false,
-["added"] = 20231202004735,
-["petTag"] = "Q1433E3",
-},
-{
-["petID"] = "BattlePet-0-000021C9209B",
-["preferred"] = false,
-["added"] = 20231202004751,
-["petTag"] = "Q1433DS",
-},
-{
-["petID"] = "BattlePet-0-000021C92DBD",
-["preferred"] = false,
-["added"] = 20231202041427,
-["petTag"] = "Q13639K",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021C9E793",
-["added"] = 20231203013747,
-["petTag"] = "Q14535N",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021C9E7A3",
-["added"] = 20231203013819,
-["petTag"] = "Q14446N",
-},
-{
-["preferred"] = true,
-["petID"] = "BattlePet-0-000021CA50EA",
-["added"] = 20231203164757,
-["petTag"] = "Q14546H",
-},
-{
-["petID"] = "BattlePet-0-000021CB6B88",
-["preferred"] = false,
-["added"] = 20231205130403,
-["petTag"] = "Q144468",
-},
-{
-["petID"] = "BattlePet-0-000021CBCDA8",
-["preferred"] = true,
-["added"] = 20231205204117,
-["petTag"] = "Q144462",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021CBCF9F",
-["added"] = 20231205204905,
-["petTag"] = "Q143467",
-},
-{
-["preferred"] = true,
-["petID"] = "BattlePet-0-000021CCDFD9",
-["added"] = 20231207165338,
-["petTag"] = "Q14B23E",
-},
-{
-["petID"] = "BattlePet-0-000021CDF5C8",
-["preferred"] = false,
-["added"] = 20231209174459,
-["petTag"] = "Q14446C",
-},
-{
 ["petID"] = "BattlePet-0-000021D17397",
-["preferred"] = false,
+["preferred"] = true,
 ["added"] = 20231216132858,
 ["petTag"] = "Q1463AN",
 },
 {
+["preferred"] = true,
 ["petID"] = "BattlePet-0-000021D1B244",
-["preferred"] = false,
 ["added"] = 20231216205103,
 ["petTag"] = "Q14CAH",
 },
 {
 ["petID"] = "BattlePet-0-000021D2703B",
-["preferred"] = false,
+["preferred"] = true,
 ["added"] = 20231218024655,
 ["petTag"] = "Q14937D",
 },
 {
 ["petID"] = "BattlePet-0-000021D2A98C",
-["preferred"] = false,
+["preferred"] = true,
 ["added"] = 20231218154710,
 ["petTag"] = "Q14538J",
 },
 {
-["petID"] = "BattlePet-0-000021D2AA99",
-["preferred"] = false,
-["added"] = 20231218155617,
-["petTag"] = "Q1483DN",
-},
-{
-["petID"] = "BattlePet-0-000021D3617E",
-["preferred"] = true,
-["added"] = 20231219190048,
-["petTag"] = "Q14C46I",
-},
-{
-["preferred"] = false,
 ["petID"] = "BattlePet-0-000021D37FDD",
+["preferred"] = true,
 ["added"] = 20231219213335,
 ["petTag"] = "Q1431T0",
 },
@@ -428,238 +551,154 @@ Rematch5Settings = {
 ["petTag"] = "Q1471T6",
 },
 {
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021D4259C",
-["added"] = 20231220223103,
-["petTag"] = "Q14C365",
-},
-{
 ["preferred"] = true,
-["petID"] = "BattlePet-0-000021D4734E",
-["added"] = 20231221152940,
-["petTag"] = "Q14816H",
-},
-{
-["preferred"] = true,
-["petID"] = "BattlePet-0-000021D48012",
-["added"] = 20231221171027,
-["petTag"] = "Q1433CK",
-},
-{
 ["petID"] = "BattlePet-0-000021D9547D",
-["preferred"] = false,
 ["added"] = 20231228170711,
 ["petTag"] = "Q14436Q",
 },
 {
-["petID"] = "BattlePet-0-000021D955B2",
-["preferred"] = false,
-["added"] = 20231228171522,
-["petTag"] = "Q148384",
-},
-{
-["petTag"] = "Q13337U",
-["preferred"] = false,
-["added"] = 20231230234254,
 ["petID"] = "BattlePet-0-000021DAC77E",
+["preferred"] = true,
+["added"] = 20231230234254,
+["petTag"] = "Q13337U",
 },
 {
-["petTag"] = "Q14538H",
 ["petID"] = "BattlePet-0-000021DAD846",
+["petTag"] = "Q14538H",
 ["added"] = 20231231031147,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
+["preferred"] = true,
 ["petTag"] = "Q14535O",
+["added"] = 20231231031148,
 ["petID"] = "BattlePet-0-000021DAD847",
-["added"] = 20231231031148,
-["preferred"] = false,
 },
 {
-["petTag"] = "Q14538I",
 ["petID"] = "BattlePet-0-000021DAD848",
+["petTag"] = "Q14538I",
 ["added"] = 20231231031148,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
-["petTag"] = "Q14538G",
 ["petID"] = "BattlePet-0-000021DAD849",
+["petTag"] = "Q14538G",
 ["added"] = 20231231031149,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
-["petTag"] = "Q149371",
-["petID"] = "BattlePet-0-000021DBA714",
-["added"] = 20240101125244,
-["preferred"] = false,
-},
-{
+["preferred"] = true,
 ["petTag"] = "Q1392R4",
-["preferred"] = false,
 ["added"] = 20240101193335,
 ["petID"] = "BattlePet-0-0000210D9DCD",
 },
 {
-["petTag"] = "Q1431B9",
-["preferred"] = false,
-["added"] = 20240101201612,
 ["petID"] = "BattlePet-0-00000E0BBEB7",
-},
-{
-["petTag"] = "Q14323D",
-["petID"] = "BattlePet-0-000010125055",
-["added"] = 20240101220738,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1433AE",
+["petTag"] = "Q1431B9",
+["added"] = 20240101201612,
 ["preferred"] = true,
-["added"] = 20240101221841,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14323D",
+["added"] = 20240101220738,
+["petID"] = "BattlePet-0-000010125055",
+},
+{
 ["petID"] = "BattlePet-0-000021DC0F3F",
+["petTag"] = "Q1433AE",
+["added"] = 20240101221841,
+["preferred"] = true,
 },
 {
-["preferred"] = false,
-["petTag"] = "Q14737R",
-["added"] = 20240107004325,
-["petID"] = "BattlePet-0-000021DE9A4C",
-},
-{
-["preferred"] = false,
+["preferred"] = true,
 ["petTag"] = "Q1463BP",
 ["added"] = 20240107134117,
 ["petID"] = "BattlePet-0-000021DECE79",
 },
 {
-["preferred"] = false,
-["petTag"] = "Q143395",
-["added"] = 20240111125639,
-["petID"] = "BattlePet-0-000021E0A2BE",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q14337A",
-["added"] = 20240111130119,
-["petID"] = "BattlePet-0-000021E0A336",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q143452",
-["added"] = 20240111131250,
-["petID"] = "BattlePet-0-000021E0A40B",
-},
-{
-["preferred"] = false,
+["petID"] = "BattlePet-0-000021E0A8F3",
 ["petTag"] = "Q14C39J",
 ["added"] = 20240111140032,
-["petID"] = "BattlePet-0-000021E0A8F3",
+["preferred"] = true,
 },
 {
 ["petID"] = "BattlePet-0-000021E11228",
 ["petTag"] = "Q1433EF",
 ["added"] = 20240112123734,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
-["preferred"] = false,
 ["petTag"] = "Q1443GC",
+["preferred"] = true,
 ["added"] = 20240112162652,
 ["petID"] = "BattlePet-0-000021E1288F",
 },
 {
-["preferred"] = false,
+["preferred"] = true,
 ["petTag"] = "Q14C3B3",
 ["added"] = 20240113142030,
 ["petID"] = "BattlePet-0-000021E19F89",
 },
 {
-["preferred"] = false,
-["petTag"] = "Q1481MP",
-["added"] = 20240113170952,
-["petID"] = "BattlePet-0-000021E1B6A7",
-},
-{
-["petID"] = "BattlePet-0-000021E27962",
+["preferred"] = true,
 ["petTag"] = "Q14645V",
 ["added"] = 20240114235438,
+["petID"] = "BattlePet-0-000021E27962",
+},
+{
 ["preferred"] = true,
-},
-{
-["petID"] = "BattlePet-0-000021E41D28",
-["petTag"] = "Q14B39L",
-["added"] = 20240118182609,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petTag"] = "Q14445T",
-["added"] = 20240130000756,
-["petID"] = "BattlePet-0-000021E89AAE",
-},
-{
 ["petTag"] = "Q144463",
-["preferred"] = false,
 ["added"] = 20240130000800,
 ["petID"] = "BattlePet-0-000021E89AAF",
 },
 {
-["petTag"] = "Q1443FQ",
 ["petID"] = "BattlePet-0-000021E920FB",
+["petTag"] = "Q1443FQ",
 ["added"] = 20240130184751,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q13A1DV",
-["preferred"] = false,
-["added"] = 20240131182009,
-["petID"] = "BattlePet-0-000021E9CCDE",
-},
-{
-["petTag"] = "Q14620U",
 ["preferred"] = true,
-["added"] = 20240201154923,
-["petID"] = "BattlePet-0-000021EA4659",
 },
 {
-["petTag"] = "Q14049O",
+["petID"] = "BattlePet-0-000021E9CCDE",
+["petTag"] = "Q13A1DV",
+["added"] = 20240131182009,
+["preferred"] = true,
+},
+{
 ["petID"] = "BattlePet-0-000021EA7A75",
+["petTag"] = "Q14049O",
 ["added"] = 20240201205933,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
 ["petTag"] = "Q14049N",
-["preferred"] = false,
-["added"] = 20240201205941,
 ["petID"] = "BattlePet-0-000021EA7A80",
+["added"] = 20240201205941,
+["preferred"] = true,
 },
 {
-["petTag"] = "Q14B219",
 ["petID"] = "BattlePet-0-000021EA7FD7",
+["petTag"] = "Q14B219",
 ["added"] = 20240201213225,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
-["petTag"] = "Q1463BM",
-["preferred"] = false,
-["added"] = 20240202003811,
+["preferred"] = true,
 ["petID"] = "BattlePet-0-000021EA950D",
+["added"] = 20240202003811,
+["petTag"] = "Q1463BM",
 },
 {
-["petTag"] = "Q1433EK",
+["preferred"] = true,
 ["petID"] = "BattlePet-0-000021EEF0FE",
 ["added"] = 20240210224105,
-["preferred"] = false,
+["petTag"] = "Q1433EK",
 },
 {
-["petTag"] = "Q133AL",
 ["preferred"] = true,
-["added"] = 20240212235851,
 ["petID"] = "BattlePet-0-000021EFDEF4",
-},
-{
-["petTag"] = "Q14C2B2",
-["preferred"] = true,
-["added"] = 20240213010556,
-["petID"] = "BattlePet-0-000021EFE315",
+["added"] = 20240212235851,
+["petTag"] = "Q133AL",
 },
 {
 ["preferred"] = true,
@@ -668,195 +707,275 @@ Rematch5Settings = {
 ["petTag"] = "Q133AM",
 },
 {
-["petTag"] = "Q14049R",
 ["petID"] = "BattlePet-0-000021F03AB8",
+["preferred"] = true,
 ["added"] = 20240213214750,
-["preferred"] = true,
+["petTag"] = "Q14049R",
 },
 {
-["petTag"] = "Q1352BF",
 ["petID"] = "BattlePet-0-000021F082CB",
+["preferred"] = true,
 ["added"] = 20240214174540,
-["preferred"] = false,
+["petTag"] = "Q1352BF",
 },
 {
-["petTag"] = "Q13A2C7",
 ["petID"] = "BattlePet-0-000021F10411",
+["preferred"] = true,
 ["added"] = 20240216021846,
-["preferred"] = true,
+["petTag"] = "Q13A2C7",
 },
 {
-["petTag"] = "Q14049S",
-["preferred"] = true,
-["added"] = 20240305154208,
-["petID"] = "BattlePet-0-000021F7FEB6",
-},
-{
-["petTag"] = "Q14345A",
-["preferred"] = false,
-["added"] = 20240309184430,
-["petID"] = "BattlePet-0-000021F97255",
-},
-{
-["petTag"] = "Q14049I",
-["preferred"] = false,
-["added"] = 20240321195641,
 ["petID"] = "BattlePet-0-000021FE04DC",
-},
-{
-["petID"] = "BattlePet-0-0000220D8DF9",
 ["preferred"] = true,
-["added"] = 20240424182113,
-["petTag"] = "Q14B45U",
+["added"] = 20240321195641,
+["petTag"] = "Q14049I",
 },
 {
-["petTag"] = "Q1404AK",
+["petID"] = "BattlePet-0-00002211D01A",
 ["preferred"] = true,
 ["added"] = 20240501220636,
-["petID"] = "BattlePet-0-00002211D01A",
+["petTag"] = "Q1404AK",
 },
 {
-["petID"] = "BattlePet-0-000022157FE0",
 ["petTag"] = "Q14836P",
+["petID"] = "BattlePet-0-000022157FE0",
 ["added"] = 20240510163656,
-["preferred"] = false,
+["preferred"] = true,
 },
 {
-["petID"] = "BattlePet-0-000022177065",
 ["petTag"] = "Q143456",
+["preferred"] = true,
 ["added"] = 20240515151220,
-["preferred"] = true,
+["petID"] = "BattlePet-0-000022177065",
 },
 {
-["petID"] = "BattlePet-0-000022177069",
-["petTag"] = "Q143453",
-["added"] = 20240515151238,
-["preferred"] = true,
-},
-{
-["petID"] = "BattlePet-0-0000221776AB",
 ["petTag"] = "Q14838R",
+["preferred"] = true,
 ["added"] = 20240515162327,
-["preferred"] = false,
+["petID"] = "BattlePet-0-0000221776AB",
 },
 {
-["preferred"] = false,
 ["petTag"] = "Q1304F3",
+["preferred"] = true,
 ["added"] = 20240519161759,
 ["petID"] = "BattlePet-0-000022197E1C",
 },
 {
-["preferred"] = false,
 ["petTag"] = "Q1404F4",
-["added"] = 20240522183438,
 ["petID"] = "BattlePet-0-0000221AB0CB",
+["added"] = 20240522183438,
+["preferred"] = true,
 },
 {
-["preferred"] = false,
 ["petTag"] = "Q14919L",
-["added"] = 20240522211846,
 ["petID"] = "BattlePet-0-0000221AC055",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q14819H",
-["added"] = 20240531151611,
-["petID"] = "BattlePet-0-0000221D736C",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q1404E4",
-["added"] = 20240611214737,
-["petID"] = "BattlePet-0-00002220A297",
-},
-{
-["petID"] = "BattlePet-0-0000223C8D84",
+["added"] = 20240522211846,
 ["preferred"] = true,
-["added"] = 20240809051405,
+},
+{
 ["petTag"] = "Q1404B4",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000223FD4E7",
-["added"] = 20240815151731,
-["petTag"] = "Q1404FE",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000223FD4E8",
-["added"] = 20240815151732,
-["petTag"] = "Q1404FD",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000223FD4EA",
-["added"] = 20240815151734,
-["petTag"] = "Q1404FF",
-},
-{
-["petID"] = "BattlePet-0-000022452881",
-["preferred"] = false,
-["added"] = 20240822201507,
-["petTag"] = "Q1494DF",
-},
-{
-["petID"] = "BattlePet-0-00002245EE8A",
-["preferred"] = false,
-["added"] = 20240823021720,
-["petTag"] = "Q14A4BM",
-},
-{
-["petID"] = "BattlePet-0-00002246AD69",
-["preferred"] = false,
-["added"] = 20240823135708,
-["petTag"] = "Q14C4DO",
-},
-{
-["petID"] = "BattlePet-0-00002246DF58",
-["preferred"] = false,
-["added"] = 20240823153533,
-["petTag"] = "Q1484EQ",
-},
-{
-["petID"] = "BattlePet-0-000022482D85",
-["preferred"] = false,
-["added"] = 20240824011806,
-["petTag"] = "Q14B4D8",
-},
-{
-["petID"] = "BattlePet-0-0000224DDC3E",
-["preferred"] = false,
-["added"] = 20240827003538,
-["petTag"] = "Q14B4D1",
-},
-{
-["petID"] = "BattlePet-0-0000224DEDD4",
-["preferred"] = false,
-["added"] = 20240827015302,
-["petTag"] = "Q14C4F6",
-},
-{
-["petID"] = "BattlePet-0-000022517D13",
+["petID"] = "BattlePet-0-0000223C8D84",
+["added"] = 20240809051405,
 ["preferred"] = true,
-["added"] = 20240829182413,
-["petTag"] = "Q14C4FN",
 },
 {
-["petID"] = "BattlePet-0-0000225188E4",
-["preferred"] = false,
-["added"] = 20240829185848,
+["petTag"] = "Q1494DF",
+["petID"] = "BattlePet-0-000022452881",
+["added"] = 20240822201507,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14C4DO",
+["petID"] = "BattlePet-0-00002246AD69",
+["added"] = 20240823135708,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1484EQ",
+["petID"] = "BattlePet-0-00002246DF58",
+["added"] = 20240823153533,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B4D1",
+["petID"] = "BattlePet-0-0000224DDC3E",
+["added"] = 20240827003538,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14C4F6",
+["petID"] = "BattlePet-0-0000224DEDD4",
+["added"] = 20240827015302,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14C4FN",
+["petID"] = "BattlePet-0-000022517D13",
+["added"] = 20240829182413,
+["preferred"] = true,
+},
+{
 ["petTag"] = "Q1444BP",
+["preferred"] = true,
+["added"] = 20240829185848,
+["petID"] = "BattlePet-0-0000225188E4",
+},
+{
+["petTag"] = "Q14F4CQ",
+["preferred"] = true,
+["added"] = 20240914141407,
+["petID"] = "BattlePet-0-00002261A808",
+},
+{
+["petTag"] = "Q1494FI",
+["petID"] = "BattlePet-0-0000226298EF",
+["added"] = 20240915153055,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022644272",
+["added"] = 20240917223900,
+["petTag"] = "Q1464DI",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002267E546",
+["added"] = 20240922144246,
+["petTag"] = "Q1454DC",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002267E549",
+["added"] = 20240922144247,
+["petTag"] = "Q1494CF",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002267E54A",
+["added"] = 20240922144249,
+["petTag"] = "Q1454CV",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002267E54C",
+["added"] = 20240922144250,
+["petTag"] = "Q1434E2",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002267E54E",
+["added"] = 20240922144252,
+["petTag"] = "Q1354FA",
+},
+{
+["petID"] = "BattlePet-0-0000226AF908",
+["preferred"] = true,
+["added"] = 20240926185623,
+["petTag"] = "Q1434BG",
+},
+{
+["petID"] = "BattlePet-0-0000226AF930",
+["preferred"] = true,
+["added"] = 20240926185736,
+["petTag"] = "Q14B4BS",
+},
+{
+["petID"] = "BattlePet-0-0000226AF961",
+["preferred"] = true,
+["added"] = 20240926185858,
+["petTag"] = "Q1464CC",
 },
 },
+["ResetExceptSearch"] = false,
 ["HideLevelingBadges"] = false,
 ["DontConfirmActiveSort"] = false,
 ["MousewheelSpeed"] = "Normal",
-["ResetExceptSearch"] = false,
-["HideNotesButtonInBattle"] = false,
+["FavoriteFilters"] = {
+{
+"non-rare at 25",
+{
+["Other"] = {
+},
+["Stats"] = {
+},
+["Strong"] = {
+},
+["Marker"] = {
+},
+["Sources"] = {
+},
+["Sort"] = {
+},
+["Level"] = {
+[4] = true,
+},
+["Tough"] = {
+},
+["Types"] = {
+},
+["Expansion"] = {
+},
+["Script"] = {
+},
+["Similar"] = {
+},
+["Breed"] = {
+},
+["Rarity"] = {
+true,
+true,
+true,
+},
+["Search"] = {
+},
+["Collected"] = {
+},
+["Favorite"] = {
+},
+["Moveset"] = {
+},
+},
+},
+{
+"Safari pets",
+{
+["Other"] = {
+["CurrentZone"] = true,
+},
+["Expansion"] = {
+},
+["Strong"] = {
+},
+["Types"] = {
+},
+["Tough"] = {
+},
+["Level"] = {
+},
+["Similar"] = {
+},
+["Sources"] = {
+[5] = true,
+},
+["Breed"] = {
+},
+["Script"] = {
+},
+["Rarity"] = {
+},
+["Collected"] = {
+["Owned"] = true,
+},
+["Favorite"] = {
+},
+["Moveset"] = {
+},
+},
+},
+},
+["YPos"] = 914.286865234375,
 ["NotesNoEsc"] = true,
-["YPos"] = 1044.572509765625,
-["NotesLeft"] = 19.5714282989502,
-["NoSummonOnDblClick"] = false,
 ["ConvertedTeams"] = {
 "team:1",
 [68566] = "team:2",
@@ -1092,8 +1211,8 @@ Rematch5Settings = {
 [116788] = "team:235",
 [140813] = "team:237",
 ["Low lvl fights"] = "team:274",
-[116789] = "team:230",
 [189376] = "team:227",
+[119344] = "team:233",
 [85650] = "team:228",
 [119408] = "team:229",
 [139489] = "team:238",
@@ -1107,7 +1226,7 @@ Rematch5Settings = {
 [202440] = "team:245",
 [197336] = "team:180",
 [200682] = "team:234",
-[119344] = "team:233",
+[116789] = "team:230",
 [141077] = "team:246",
 [116790] = "team:225",
 [200684] = "team:243",
@@ -1134,6 +1253,8 @@ Rematch5Settings = {
 ["Sprouts, Prince Charming, and Runts"] = "team:273",
 ["Enbi'see, Mal, and Bones"] = "team:275",
 },
+["NotesLeft"] = 19.5714282989502,
+["NoSummonOnDblClick"] = false,
 ["PetCardInBattle"] = false,
 ["GroupOrder"] = {
 "group:favorites",
@@ -1146,121 +1267,50 @@ Rematch5Settings = {
 "group:6",
 "group:7",
 "group:8",
+"group:9",
 },
+["HideNotesButtonInBattle"] = false,
 ["MinimapButtonPosition"] = -162,
-["FavoriteFilters"] = {
-{
-"non-rare at 25",
-{
-["Other"] = {
-},
-["Expansion"] = {
-},
-["Rarity"] = {
-true,
-true,
-true,
-},
-["Types"] = {
-},
-["Tough"] = {
-},
-["Level"] = {
-[4] = true,
-},
-["Similar"] = {
-},
-["Sources"] = {
-},
-["Breed"] = {
-},
-["Script"] = {
-},
-["Strong"] = {
-},
-["Collected"] = {
-},
-["Favorite"] = {
-},
-["Moveset"] = {
-},
-},
-},
-{
-"Safari pets",
-{
-["Other"] = {
-["CurrentZone"] = true,
-},
-["Expansion"] = {
-},
-["Strong"] = {
-},
-["Types"] = {
-},
-["Tough"] = {
-},
-["Level"] = {
-},
-["Similar"] = {
-},
-["Sources"] = {
-[5] = true,
-},
-["Breed"] = {
-},
-["Script"] = {
-},
-["Rarity"] = {
-},
-["Collected"] = {
-["Owned"] = true,
-},
-["Favorite"] = {
-},
-["Moveset"] = {
-},
-},
-},
-},
-["LowerStrata"] = true,
 ["HideOptionTooltips"] = false,
+["LowerStrata"] = true,
+["UseDefaultJournal"] = false,
 ["DontMinTabToggle"] = false,
 ["QueueSortOrder"] = 2,
 ["CardBehavior"] = "Normal",
-["PrioritizeBreedOnImport"] = true,
 ["HideNonBattlePets"] = false,
 ["InteractOnTarget"] = 0,
 ["PetCardShowExpansionStat"] = false,
 ["StickyNewPets"] = false,
+["ColorTargetNames"] = true,
 ["CombineGroupKey"] = "None",
 ["ExpandedGroups"] = {
-["group:none"] = true,
 ["group:favorites"] = true,
+["group:none"] = true,
 ["group:8"] = true,
+["group:9"] = true,
 },
 ["DontWarnMissing"] = false,
 ["HideMarkerBadges"] = false,
-["HideNotesBadges"] = false,
-["LoadHealthiestAfterBattle"] = false,
 ["RandomAbilitiesToo"] = false,
+["LoadHealthiestAfterBattle"] = false,
+["CompactQueueList"] = true,
 ["NeverTeamTabs"] = false,
 ["StayForBattle"] = true,
 ["LockWindow"] = false,
 ["NotesBottom"] = 458.4285888671875,
 ["WasShownOnLogout"] = false,
-["HiddenPets"] = {
-},
-["BoringLoreFont"] = false,
+["AlwaysUsePetSatchel"] = false,
+["ShowNewGroupTab"] = true,
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = true,
 ["PetMarkers"] = {
 },
-["ClickToDrag"] = false,
-["LoadHealthiestAny"] = false,
-["NoBackupReminder"] = false,
 ["ShowLoadedTeamPreferences"] = true,
 ["BarChartCategory"] = 9,
+["NoBackupReminder"] = false,
+["DontConfirmHidePets"] = false,
+["HiddenPets"] = {
+},
 ["PetCardBackground"] = "Expansion",
 ["PetSatchelIndex"] = 3,
 }
@@ -1380,6 +1430,28 @@ Rematch5SavedTeams = {
 },
 ["teamID"] = "team:268",
 ["groupID"] = "group:none",
+},
+["team:286"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBDCE",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/21450\n\nStrategy added by DragonsAfterDark\nPrio 1: Blistering Cold\nPrio 2: Chop for the Bleed & as filler when Blistering Cold & BONESTORM!! are on CD\nPrio 3: BONESTORM!!\n~: Pass if stunned\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
+["name"] = "Robot Rumble",
+["tags"] = {
+"11231TB",
+"01181FS",
+"ZR0",
+},
+["teamID"] = "team:286",
+["preferences"] = {
+["minXP"] = 25,
+},
+["groupID"] = "group:9",
+["targets"] = {
+223407,
+},
 },
 ["team:211"] = {
 ["pets"] = {
@@ -2366,6 +2438,25 @@ Rematch5SavedTeams = {
 162458,
 },
 ["groupID"] = "group:5",
+},
+["team:281"] = {
+["pets"] = {
+"BattlePet-0-00000E762C63",
+"BattlePet-0-00000E0BBE79",
+"BattlePet-0-00000E0BBDC9",
+},
+["notes"] = "Strategy added by Guineaswine#1786\nPrio 1: Use Dodge on CD\nPrio 2: Use Burrow when Dodge buff is gone\nPrio 3: Use Flurry as filler\nIf Four-Legs is up when Dust Bunny dies, switch in Tolai Hare, use same priority as above\nonce Swoopgrasp is up, switch in Netherspawn, Spawn of Netherspawn\nPrio 1: Nether Blast\n",
+["name"] = "Ziriak",
+["tags"] = {
+"221B1NI",
+"2219MP",
+"10071FK",
+},
+["teamID"] = "team:281",
+["groupID"] = "group:9",
+["targets"] = {
+223443,
+},
 },
 ["team:239"] = {
 ["pets"] = {
@@ -3461,6 +3552,28 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:2",
 },
+["team:287"] = {
+["pets"] = {
+"BattlePet-0-00000E826ACE",
+"BattlePet-0-00000E0BBD13",
+"random:0",
+},
+["notes"] = "Strategy added by Kairi#2474\nTurn 1: Whirlpool\nTurn 2: Renewing Mists\nTurn 3: Surge untilRidge dies\nTurn 4: Stratus comes in\nTurn 5: Whirlpool\nTurn 6: Renewing Mists\nTurn 7: Surge until Stratus dies\nTurn 8: Tiny Cragling comes in\nTurn 9: Emperor Crab dies; otherwise repeat Surge until it dies\nTurn 10: Pandaren Water Spirit comes in\nTurn 11: Whirlpool\nTurn 12: Dive\nTurn 13: Water Jet until Tiny Cragling dies\n",
+["name"] = "Rock Collector",
+["tags"] = {
+"2124NA",
+"1219R4",
+"ZR0",
+},
+["teamID"] = "team:287",
+["preferences"] = {
+["minXP"] = 25,
+},
+["targets"] = {
+223446,
+},
+["groupID"] = "group:9",
+},
 ["team:66"] = {
 ["pets"] = {
 "BattlePet-0-00000E0BBEC8",
@@ -3666,6 +3779,25 @@ Rematch5SavedTeams = {
 201858,
 },
 ["groupID"] = "group:7",
+},
+["team:285"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBDFD",
+"BattlePet-0-00000E0BBCF3",
+"BattlePet-0-00000E0BBD22",
+},
+["notes"] = "Strategy added by Cacobeitor\nTurn 1: Sticky Grenade\nTurn 2: Screeching Gears\nTurns 3-4: Launch\nTurn 4: Keep using abilities until your pet dies\nBring in your Zandalari Anklerender\nTurn 5: Black Claw\nTurns 6-7: Hunting Party\nTurn 8: Use Leap until your pet dies\nBring in your Kun-Lai Runt\nTurns 1-3: Rampage\n",
+["name"] = "The Power of Friendship",
+["tags"] = {
+"21141DR",
+"212415R",
+"001814E",
+},
+["teamID"] = "team:285",
+["groupID"] = "group:9",
+["targets"] = {
+223444,
+},
 },
 ["team:88"] = {
 ["pets"] = {
@@ -4934,6 +5066,21 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:5",
 },
+["team:278"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBED0",
+"random:4",
+"random:4",
+},
+["name"] = "asdf",
+["tags"] = {
+"12151TM",
+"ZR4",
+"ZR4",
+},
+["teamID"] = "team:278",
+["groupID"] = "group:none",
+},
 ["team:270"] = {
 ["pets"] = {
 "BattlePet-0-00000E0BBDEE",
@@ -4951,6 +5098,47 @@ Rematch5SavedTeams = {
 ["groupID"] = "group:3",
 ["preferences"] = {
 ["minXP"] = 20,
+},
+},
+["team:100"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBE98",
+"BattlePet-0-00000E0BBDFC",
+"BattlePet-0-00000E0BBD1B",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/12082\n\nStrategy added by norng\n4 rounds.\n\nTurn 1: Sunlight - Crimson Spore comes in\nTurn 2: Explode\nBring in your Darkmoon Zeppelin\nTurn 1: Decoy\nTurn 2: Explode - Shadeflicker dies\n",
+["name"] = "Shadeflicker",
+["tags"] = {
+"010A1H5",
+"00261G1",
+"022CAJ",
+},
+["teamID"] = "team:100",
+["targets"] = {
+128016,
+},
+["groupID"] = "group:4",
+},
+["team:280"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBDCE",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/21523\n\nStrategy added by DragonsAfterDark\nPrio 1: Blistering Cold on CD\nPrio 2: Chop until Zaedu is Bleeding, & as filler when Blistering Cold & BONESTORM!! are on CD\nPrio 3: BONESTORM!!\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
+["name"] = "One Hungry Worm",
+["tags"] = {
+"11231TB",
+"01181FS",
+"ZR0",
+},
+["teamID"] = "team:280",
+["preferences"] = {
+["minXP"] = 25,
+},
+["groupID"] = "group:9",
+["targets"] = {
+223406,
 },
 },
 ["team:83"] = {
@@ -4993,6 +5181,25 @@ Rematch5SavedTeams = {
 71929,
 },
 ["groupID"] = "group:1",
+},
+["team:273"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD1B",
+"BattlePet-0-00000E0BBDCE",
+0,
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5861\n\nStrategy added by Threewolves\nUpdated 3/13/2021.\n\nTurn 1: Decoy\nTurn 2: Swap to your Leveling Pet\nTurn 3: Swap to your Ikky\nTurn 4: Black Claw\nTurns 5+: Flock til Ikky dies.\nBring in your Darkmoon Zeppelin\nTurn 1:  Decoy\nTurn 2:  Missile til Runts is below 609 health.\nTurn 3: Explode\n",
+["name"] = "Sprouts, Prince Charming, and Runts",
+["tags"] = {
+"122CAJ",
+"01181FS",
+"ZL",
+},
+["teamID"] = "team:273",
+["groupID"] = "group:3",
+["preferences"] = {
+["minXP"] = 1,
+},
 },
 ["team:98"] = {
 ["pets"] = {
@@ -5076,100 +5283,6 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:6",
 },
-["team:278"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBED0",
-"random:4",
-"random:4",
-},
-["name"] = "asdf",
-["tags"] = {
-"12151TM",
-"ZR4",
-"ZR4",
-},
-["teamID"] = "team:278",
-["groupID"] = "group:none",
-},
-["team:100"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBE98",
-"BattlePet-0-00000E0BBDFC",
-"BattlePet-0-00000E0BBD1B",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/12082\n\nStrategy added by norng\n4 rounds.\n\nTurn 1: Sunlight - Crimson Spore comes in\nTurn 2: Explode\nBring in your Darkmoon Zeppelin\nTurn 1: Decoy\nTurn 2: Explode - Shadeflicker dies\n",
-["name"] = "Shadeflicker",
-["tags"] = {
-"010A1H5",
-"00261G1",
-"022CAJ",
-},
-["teamID"] = "team:100",
-["targets"] = {
-128016,
-},
-["groupID"] = "group:4",
-},
-["team:92"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD5D",
-"BattlePet-0-00000E0BBE6D",
-"BattlePet-0-00000E0BBD8E",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/140\n\nTurn 1: Bite\nTurns 2+3: Dive\nTurn 4: Bite\nTurn 5: Survival\nTurns 6+: Bite until Au is dead\nBanks comes in\nTurns 1+: Bite until your Civet dies\nBring in your Electrified Razortooth\nTurn 1: Rip\nTurn 2: Blood in the Water\nTurn 3: Rip\nTurns 4+5: Devour - Banks dies\nLil' B comes in\nTurn 1: Rip\nTurn 2: Blood in the Water\nTurns 3+4: Devour\nTurns 5+: Rip until your Razortooth dies\nBring in your Fel Flame\nTurn 1: Immolate\nTurn 2: Conflagrate\nTurn 3: Burn until you're done\n",
-["name"] = "Blingtron 4000",
-["tags"] = {
-"1225ND",
-"121314R",
-"1119G7",
-},
-["teamID"] = "team:92",
-["targets"] = {
-71933,
-},
-["groupID"] = "group:1",
-},
-["team:156"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBDB3",
-0,
-0,
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8545\n\nStrategy added by Phil\nTurn 1: Wind-Up\nTurn 2: Wind-Up\nTurn 3: Explode\nLevel 1 Pets get 160xp each whil wearing Safari Hat\n",
-["name"] = "Gnawface",
-["tags"] = {
-"10261BB",
-"ZL",
-"ZL",
-},
-["teamID"] = "team:156",
-["preferences"] = {
-["minXP"] = 1,
-},
-["targets"] = {
-85419,
-},
-["groupID"] = "group:3",
-},
-["team:273"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD1B",
-"BattlePet-0-00000E0BBDCE",
-0,
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5861\n\nStrategy added by Threewolves\nUpdated 3/13/2021.\n\nTurn 1: Decoy\nTurn 2: Swap to your Leveling Pet\nTurn 3: Swap to your Ikky\nTurn 4: Black Claw\nTurns 5+: Flock til Ikky dies.\nBring in your Darkmoon Zeppelin\nTurn 1:  Decoy\nTurn 2:  Missile til Runts is below 609 health.\nTurn 3: Explode\n",
-["name"] = "Sprouts, Prince Charming, and Runts",
-["tags"] = {
-"122CAJ",
-"01181FS",
-"ZL",
-},
-["teamID"] = "team:273",
-["groupID"] = "group:3",
-["preferences"] = {
-["minXP"] = 1,
-},
-},
 ["team:159"] = {
 ["pets"] = {
 "BattlePet-0-00000E0BBDB3",
@@ -5214,69 +5327,43 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:1",
 },
-["team:37"] = {
+["team:92"] = {
 ["pets"] = {
-0,
-"BattlePet-0-00000E0BBEAC",
-"BattlePet-0-00000E0BBD0F",
+"BattlePet-0-00000E0BBD5D",
+"BattlePet-0-00000E0BBE6D",
+"BattlePet-0-00000E0BBD8E",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5195\n\nStrategy added by sistercoyote\nStrat by roeevv on Wowhead (https://www.wowhead.com/npc=71924/wrathion#comments:id=2478101). I personally haven't tested this one yet.\n\nBring in your Level Pet\nTurn 1: Pass\nTurn 2: Swap to your Ghastly Kid\nTurn 3: Consume Magic\nTurn 4: Hoof\nConsume Magic on Cindy's Undead round\nAlex comes in\nTurn 1: Haunt\nBring in your Scourged Whelpling\nTurn 1: Call Darkness\nTurn 2-4: Dreadful Breath\nContinue as described.\nIf Scourged Whelpling doesn't kill Dah'da, bring Ghastly Kid back and Hoof.\nTurn 8: \n",
-["name"] = "Wrathion",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/140\n\nTurn 1: Bite\nTurns 2+3: Dive\nTurn 4: Bite\nTurn 5: Survival\nTurns 6+: Bite until Au is dead\nBanks comes in\nTurns 1+: Bite until your Civet dies\nBring in your Electrified Razortooth\nTurn 1: Rip\nTurn 2: Blood in the Water\nTurn 3: Rip\nTurns 4+5: Devour - Banks dies\nLil' B comes in\nTurn 1: Rip\nTurn 2: Blood in the Water\nTurns 3+4: Devour\nTurns 5+: Rip until your Razortooth dies\nBring in your Fel Flame\nTurn 1: Immolate\nTurn 2: Conflagrate\nTurn 3: Burn until you're done\n",
+["name"] = "Blingtron 4000",
 ["tags"] = {
-"ZL",
-"11261D2",
-"2126GQ",
+"1225ND",
+"121314R",
+"1119G7",
 },
-["teamID"] = "team:37",
-["preferences"] = {
-["minXP"] = 1,
-},
+["teamID"] = "team:92",
 ["targets"] = {
-71924,
+71933,
 },
 ["groupID"] = "group:1",
 },
-["team:184"] = {
+["team:271"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBE76",
-"BattlePet-0-00000E0BBF3E",
-"BattlePet-0-00000E0BBCF3",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18745\n\nStrategy added by DragonsAfterDark\nThe same team can be used for the Legendary (https://www.wow-petguide.com/Strategy/18743/Tremblor_-_Legendary) & Epic (https://www.wow-petguide.com/Strategy/18744/Tremblor_-_Epic) versions.\n\nTurn 1: Tail Sweep if faster than Tremblor\nTurn 2: Call Lightning\nTurn 3: Swap to your Boneshard\nTurn 4: Blistering Cold\nTurn 5: Chop\nTurn 6: BONESTORM\nTurn 7: Chop\nBring in your Wild Jade Hatchling\nTurn 8: Call Lightning\nTurn 9: Swap to your Zandalari Anklerender\nTurn 10: Black Claw\n~: Hunting Party if needed\n",
-["name"] = "Tremblor - Rare",
-["tags"] = {
-"2107PH",
-"11231TB",
-"202415R",
-},
-["teamID"] = "team:184",
-["targets"] = {
-200693,
-},
-["groupID"] = "group:7",
-},
-["team:38"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBEAB",
-0,
+"BattlePet-0-00000E0BBDCE",
+"BattlePet-0-00000E0BBD1B",
 0,
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10922\n\nStrategy added by Bumrusher\nTurn 1: Sunlight\nTurn 2: Nature's Ward\nTurn 3: Swap to Level Pet 2\nTurn 4: Swap to Level Pet 3\nTurn 5: Swap to Puddle Terror\nTurn 6: Nature's Ward\nTurn 7: Sunlight\nTurn 8: Nature's Ward\nTurn 9: Nature's Ward\nTurn 10: Nature's Ward\nTurn 11: Nature's Ward\nTurn 12: Nature's Ward\nTurn 13: Sunlight\nRepeat Turn 8 to 13 until Gyrexle, the Eternal Mechanic dies\nUse Punch 309 Damage or Sunlight to bring Idol of Decay under 250 health\nIdol of Decay will use his revive ability when he does this use Nature's Ward\nOnce the revive ability drops off kill Idol of Decay\nWishbright Lantern Will enter with less then 618 health\nTurn 1: Punch\nTurn 2: Punch\n",
-["name"] = "Cymre Brightblade",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6593\n\nStrategy added by Threewolves\nThis strategy has been updated to include the possibilities of stuns. Hopefully, it accounts for all variables.\n\nTurn 1: Black Claw\nTurns 2+: Flock\nTurn 3: Black Claw\nTurns 4+: Flock til Ikky dies or gets stunned.\nBring in your Darkmoon Zeppelin if Ikky was stunned.\nBring in your Level Pet if Ikky died. Then, swap to your Darkmoon Zeppelin. Pass if stunned.\nTurn 1: Decoy (skip if leveling pet has already been swapped in)\nTurn 2: Swap to your Level Pet. (skip if leveling pet has already been swapped in)\nTurn 3: Swap to your Darkmoon Zeppelin. (skip if leveling pet has already been swapped in)\nTurns 4+: Missile til Carl is below 573 HP.\nTurn 5: Explode\n",
+["name"] = "Moon, Mouthy, and Carl",
 ["tags"] = {
-"21181H0",
-"ZL",
+"01181FS",
+"122CAJ",
 "ZL",
 },
-["teamID"] = "team:38",
+["teamID"] = "team:271",
+["groupID"] = "group:3",
 ["preferences"] = {
-["minHP"] = 121,
 ["minXP"] = 1,
 },
-["targets"] = {
-83837,
-},
-["groupID"] = "group:3",
 },
 ["team:109"] = {
 ["pets"] = {
@@ -5335,28 +5422,110 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:6",
 },
-["team:240"] = {
+["team:37"] = {
 ["pets"] = {
 0,
-"BattlePet-0-00000E0BBDBB",
-"random:0",
+"BattlePet-0-00000E0BBEAC",
+"BattlePet-0-00000E0BBD0F",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1706\n\nStrategy added by Lazey\nBloodtusk:4A8K:ZL:11141BB:ZR0:P:112:1:9::::\n\nElemental level pets maybe need more HP.\nSingle target fight, so don't expect much XP for your Level Pet.\n\nTurn 1: Pass\nTurn 2: Swap to your Iron Starlette\nTurn 3: Wind-Up\n(Turn 4): (1x Powerball if you are not using P/P Iron Starlette)\nTurn 4 (5): Supercharge\nTurn 5 (6): Wind-Up\n",
-["name"] = "Crawg in the Bog",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/5195\n\nStrategy added by sistercoyote\nStrat by roeevv on Wowhead (https://www.wowhead.com/npc=71924/wrathion#comments:id=2478101). I personally haven't tested this one yet.\n\nBring in your Level Pet\nTurn 1: Pass\nTurn 2: Swap to your Ghastly Kid\nTurn 3: Consume Magic\nTurn 4: Hoof\nConsume Magic on Cindy's Undead round\nAlex comes in\nTurn 1: Haunt\nBring in your Scourged Whelpling\nTurn 1: Call Darkness\nTurn 2-4: Dreadful Breath\nContinue as described.\nIf Scourged Whelpling doesn't kill Dah'da, bring Ghastly Kid back and Hoof.\nTurn 8: \n",
+["name"] = "Wrathion",
 ["tags"] = {
 "ZL",
-"11171BB",
-"ZR0",
+"11261D2",
+"2126GQ",
 },
-["teamID"] = "team:240",
+["teamID"] = "team:37",
 ["preferences"] = {
-["minHP"] = 113,
 ["minXP"] = 1,
 },
 ["targets"] = {
-141588,
+71924,
+},
+["groupID"] = "group:1",
+},
+["team:117"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBDCE",
+"BattlePet-0-00000E0BBCC3",
+0,
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9777\n\nStrategy added by Mnrogar\nTurn 1: Black Claw\nTurns 2-4: Flock\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Breath\nTurn 2: Thunderbolt\nTurn 3: Explode\n",
+["name"] = "Gnomefeaster",
+["tags"] = {
+"01181FS",
+"1215QC",
+"ZL",
+},
+["teamID"] = "team:117",
+["preferences"] = {
+["minXP"] = 1,
+},
+["targets"] = {
+154922,
 },
 ["groupID"] = "group:5",
+},
+["team:38"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBEAB",
+0,
+0,
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10922\n\nStrategy added by Bumrusher\nTurn 1: Sunlight\nTurn 2: Nature's Ward\nTurn 3: Swap to Level Pet 2\nTurn 4: Swap to Level Pet 3\nTurn 5: Swap to Puddle Terror\nTurn 6: Nature's Ward\nTurn 7: Sunlight\nTurn 8: Nature's Ward\nTurn 9: Nature's Ward\nTurn 10: Nature's Ward\nTurn 11: Nature's Ward\nTurn 12: Nature's Ward\nTurn 13: Sunlight\nRepeat Turn 8 to 13 until Gyrexle, the Eternal Mechanic dies\nUse Punch 309 Damage or Sunlight to bring Idol of Decay under 250 health\nIdol of Decay will use his revive ability when he does this use Nature's Ward\nOnce the revive ability drops off kill Idol of Decay\nWishbright Lantern Will enter with less then 618 health\nTurn 1: Punch\nTurn 2: Punch\n",
+["name"] = "Cymre Brightblade",
+["tags"] = {
+"21181H0",
+"ZL",
+"ZL",
+},
+["teamID"] = "team:38",
+["preferences"] = {
+["minHP"] = 121,
+["minXP"] = 1,
+},
+["targets"] = {
+83837,
+},
+["groupID"] = "group:3",
+},
+["team:139"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBCAD",
+"BattlePet-0-00000E0BBD9A",
+"BattlePet-0-00000E0BBD0F",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11027\n\nStrategy added by matarsaed#2362\nTurn 1: Make it Rain\nTurn 2: Extra Plating\nTurns 3-5: Inflation\nSpindler comes in\nTurn 1: your Lil' Bling should die here (if not - use Make it Rain)\nBring in your Tranquil Mechanical Yeti\nTurn 2: Supercharge\nTurn 3: Call Lightning\nTurn 4: Metal Fist\nRocko comes in\nTurn 1: Metal Fist\nUse Supercharge on CD but not when your Tranquil Mechanical Yeti died once\nMetal Fist until Tranquil Mechanical Yeti dies\nBring in your Scourged Whelpling\nTurn 1: Call Darkness\nTurn 2: Plagued Blood till end of fight\n",
+["name"] = "Eyegor's Special Friends",
+["tags"] = {
+"2215198",
+"111C3K",
+"0116GQ",
+},
+["teamID"] = "team:139",
+["targets"] = {
+173324,
+},
+["groupID"] = "group:6",
+},
+["team:169"] = {
+["pets"] = {
+"BattlePet-0-00002107EE9F",
+"BattlePet-0-00000E0BBD1B",
+"BattlePet-0-00000E0BBCE7",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/17348\n\nStrategy added by Pleodonis\nTurn 1: Corrosion\nTurn 2: Void Nova\nTurn 3: Poison Protocol\nTurn 4: Corrosion\nTurn 5: Pass\nTurn 6: Void Nova\nAnomalus dies.  Darkmoon Zeppelin comes in\nTurn 7: Explode\nBloodbiter comes in\nBring in your Chrominius\nTurn 8: Bite\nTina comes in\nTurn 9: Howl\nTurn 10: Surge of Power\n",
+["name"] = "The Terrible Three",
+["tags"] = {
+"22142OQ",
+"122CAJ",
+"1126140",
+},
+["teamID"] = "team:169",
+["targets"] = {
+196264,
+},
+["groupID"] = "group:7",
 },
 ["team:24"] = {
 ["pets"] = {
@@ -5381,24 +5550,66 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:6",
 },
-["team:139"] = {
+["team:240"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBCAD",
-"BattlePet-0-00000E0BBD9A",
-"BattlePet-0-00000E0BBD0F",
+0,
+"BattlePet-0-00000E0BBDBB",
+"random:0",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/11027\n\nStrategy added by matarsaed#2362\nTurn 1: Make it Rain\nTurn 2: Extra Plating\nTurns 3-5: Inflation\nSpindler comes in\nTurn 1: your Lil' Bling should die here (if not - use Make it Rain)\nBring in your Tranquil Mechanical Yeti\nTurn 2: Supercharge\nTurn 3: Call Lightning\nTurn 4: Metal Fist\nRocko comes in\nTurn 1: Metal Fist\nUse Supercharge on CD but not when your Tranquil Mechanical Yeti died once\nMetal Fist until Tranquil Mechanical Yeti dies\nBring in your Scourged Whelpling\nTurn 1: Call Darkness\nTurn 2: Plagued Blood till end of fight\n",
-["name"] = "Eyegor's Special Friends",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1706\n\nStrategy added by Lazey\nBloodtusk:4A8K:ZL:11141BB:ZR0:P:112:1:9::::\n\nElemental level pets maybe need more HP.\nSingle target fight, so don't expect much XP for your Level Pet.\n\nTurn 1: Pass\nTurn 2: Swap to your Iron Starlette\nTurn 3: Wind-Up\n(Turn 4): (1x Powerball if you are not using P/P Iron Starlette)\nTurn 4 (5): Supercharge\nTurn 5 (6): Wind-Up\n",
+["name"] = "Crawg in the Bog",
 ["tags"] = {
-"2215198",
-"111C3K",
-"0116GQ",
+"ZL",
+"11171BB",
+"ZR0",
 },
-["teamID"] = "team:139",
+["teamID"] = "team:240",
+["preferences"] = {
+["minHP"] = 113,
+["minXP"] = 1,
+},
 ["targets"] = {
-173324,
+141588,
 },
-["groupID"] = "group:6",
+["groupID"] = "group:5",
+},
+["team:56"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD2E",
+"BattlePet-0-00000E0BBD0E",
+"BattlePet-0-00000E0BBDC4",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/19597\n\nStrategy added by Aknot#1385\nCredit to ShirokamiCusp (post on wowhead)\nLink: https://www.wowhead.com/npc=204792/shinmura#comments\n\nScript thanks to Akéla\n\nTurn 1: Arcane Storm\nTurns 2-4: Mana Surge\nTurn 5: Life Exchange you can skip this step if Beeks used Surge of Power \nTurn 6: Moonfire\nTurn 5: Arcane Blast until Nether Faerie Dragon die\nTurn 6: Emerald Bite until Talons die. (May not be necessary)\nTurn 7: \nTurn 8: \n",
+["name"] = "Are They Not Beautiful?",
+["tags"] = {
+"022414D",
+"2215HD",
+"200A14F",
+},
+["teamID"] = "team:56",
+["targets"] = {
+204792,
+},
+["groupID"] = "group:7",
+},
+["team:177"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBCE7",
+0,
+"BattlePet-0-00000E0BBD2E",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/233\n\nTurns 1+: Use Ancient Blessing on cooldown, otherwise Arcane Explosion or Pass if you are stunned until Chrominius dies\nBring in your Level Pet\nTurn 1: Swap to your Nexus Whelpling\nTurn 2: Arcane Storm\nTurns 3+: Mana Surge\n",
+["name"] = "Whispering Pandaren Spirit",
+["tags"] = {
+"2226140",
+"ZL",
+"122414D",
+},
+["teamID"] = "team:177",
+["targets"] = {
+68464,
+},
+["groupID"] = "group:2",
 },
 ["team:41"] = {
 ["pets"] = {
@@ -5419,43 +5630,47 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:4",
 },
-["team:169"] = {
+["team:16"] = {
 ["pets"] = {
-"BattlePet-0-00002107EE9F",
-"BattlePet-0-00000E0BBD1B",
-"BattlePet-0-00000E0BBCE7",
+"BattlePet-0-00000E0BBE76",
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBCF3",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/17348\n\nStrategy added by Pleodonis\nTurn 1: Corrosion\nTurn 2: Void Nova\nTurn 3: Poison Protocol\nTurn 4: Corrosion\nTurn 5: Pass\nTurn 6: Void Nova\nAnomalus dies.  Darkmoon Zeppelin comes in\nTurn 7: Explode\nBloodbiter comes in\nBring in your Chrominius\nTurn 8: Bite\nTina comes in\nTurn 9: Howl\nTurn 10: Surge of Power\n",
-["name"] = "The Terrible Three",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18744\n\nStrategy added by DragonsAfterDark\nThe same team can be used for the Legendary (https://www.wow-petguide.com/Strategy/18743/Tremblor_-_Legendary) & Rare (https://www.wow-petguide.com/Strategy/18745/Tremblor_-_Rare) versions.\n\nTurn 1: Call Lightning\nTurn 2: Swap to your Boneshard\nTurn 3: Blistering Cold\nTurn 4: Chop\nTurn 5: BONESTORM\nTurn 6: Blistering Cold\nBring in your Wild Jade Hatchling\nTurn 7: Call Lightning\nTurn 8: Swap to your Zandalari Anklerender\nTurn 9: Black Claw\nTurn 10: Hunting Party\n",
+["name"] = "Tremblor - Epic",
 ["tags"] = {
-"22142OQ",
-"122CAJ",
-"1126140",
+"0107PH",
+"11231TB",
+"202415R",
 },
-["teamID"] = "team:169",
+["teamID"] = "team:16",
 ["targets"] = {
-196264,
+200690,
 },
 ["groupID"] = "group:7",
 },
-["team:84"] = {
+["team:201"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBDF1",
-"BattlePet-0-0000216AC03C",
+"BattlePet-0-00000E0BBF3E",
 0,
+"BattlePet-0-00000E0BBCF3",
 },
-["notes"] = "Strategy added by nogulpfrog\naverage time : 92s.  Not fast but enough.\n\nTurn 1: Call Blizzard\nTurn 2: Deep Freeze\nTurn 3: Swap to your Twilight Whelpling\nTurn 4: Twilight Fire\nTurn 5: Wing Buffet\nTurn 6: Swap to your Level Pet\nTurn 7: Swap to your Tiny Snowman\nTurn 8: Magic Hat\nTurn 9: Call Blizzard ,enemy Breezy Book died.\nTurn 10: Magic Hat\nTurn 11: Deep Freeze , enemy Helpful Spirit died.\nTurn 12: Magic Hat until your Tiny Snowman died\nbring in yourTwilight Whelpling\nTurn 13: Darkflame\nTurn 14: Wing Buffet , finish.\n",
-["name"] = "Training with the Nightwatchers",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8941\n\nStrategy added by Tinlar#1408\nYour level pet will take some back-line damage so needs about 600 HP.\n\nTurn 1: Blistering Cold\nTurn 2: Chop until Boneshard is dead\nBring in your Level Pet\nBring in your Zandalari Anklerender\nTurn 1: Black Claw\nTurn 2: Hunting Party\n",
+["name"] = "Unit 6",
 ["tags"] = {
-"21233L",
-"21282JL",
+"11231TB",
 "ZL",
+"212415R",
 },
-["teamID"] = "team:84",
+["teamID"] = "team:201",
+["preferences"] = {
+["minHP"] = 601,
+["minXP"] = 10,
+},
 ["targets"] = {
-106552,
+154928,
 },
-["groupID"] = "group:none",
+["groupID"] = "group:5",
 },
 ["team:269"] = {
 ["pets"] = {
@@ -5516,25 +5731,22 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:7",
 },
-["team:219"] = {
+["team:113"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBD0C",
-"BattlePet-0-00000E0BBD2F",
-"random:0",
+"BattlePet-0-00000E0BBDB3",
+"BattlePet-0-00000E0BBD1B",
+"BattlePet-0-00000E0BBCE7",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7733\n\nStrategy added by Perimus#2648\nTested TD Script 5x - No RNG involved so far. Special thanks to Mirogah (https://www.wow-petguide.com/index.php?user=12412) & d3ltaray#2895 (https://www.wow-petguide.com/index.php?user=12858)\n\nTried this fight with Ikky aswel but didn't go so well. My Kneebiter even died from crit but the Haunt/Curse of Doom finished it off. I used Leap on his Deflection so I would have speed advantage and be sure I would do Hunting Party.\n\nTurn 1: Shadow Slash/ Shadow Shock\nTurn 2: Pass\nHe will use Deflection\nTurn 3: Curse of Doom\nTurn 4: Haunt\nTurn 5: Black Claw\nBring in your Zandalari Kneebiter\nTurn 6: Leap\nHe will use Deflection\nTurn 8: Hunting Party\n",
-["name"] = "Tiny Madness",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6117\n\nStrategy added by Neevi#2149\nWorked pretty well for me\n\nTurn 1: Wind Up\nTurn 2: Wind Up\nTurn 3: Explode, switch to other Explode Pet\nTurn 4: Explode\nTurn 5: Chrominius - Howl\nTurn 6: Surge of Power\n",
+["name"] = "Giant Opaline Conch",
 ["tags"] = {
-"021316M",
-"221814S",
-"ZR0",
+"10261BB",
+"020CAJ",
+"0126140",
 },
-["teamID"] = "team:219",
-["preferences"] = {
-["minXP"] = 25,
-},
+["teamID"] = "team:113",
 ["targets"] = {
-162468,
+154921,
 },
 ["groupID"] = "group:5",
 },
@@ -5580,28 +5792,24 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:1",
 },
-["team:201"] = {
+["team:250"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBD0C",
 0,
-"BattlePet-0-00000E0BBCF3",
+"BattlePet-0-00000E0BBDCE",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8941\n\nStrategy added by Tinlar#1408\nYour level pet will take some back-line damage so needs about 600 HP.\n\nTurn 1: Blistering Cold\nTurn 2: Chop until Boneshard is dead\nBring in your Level Pet\nBring in your Zandalari Anklerender\nTurn 1: Black Claw\nTurn 2: Hunting Party\n",
-["name"] = "Unit 6",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/770\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Level Pet\nTurn 1: Swap to Ikky\nTurn 2: Black Claw\nTurns 3-6: Flock - The Hungry Icefang dies and another enemy pet comes in\nTurns 7+: Quills until Ikky dies\nBring back your Unborn Val'kyr\nTurns 1+: Shadow Shock until the fight is done\n",
+["name"] = "Wildlife Protection Force",
 ["tags"] = {
-"11231TB",
+"221316M",
 "ZL",
-"212415R",
+"21181FS",
 },
-["teamID"] = "team:201",
-["preferences"] = {
-["minHP"] = 601,
-["minXP"] = 10,
-},
+["teamID"] = "team:250",
 ["targets"] = {
-154928,
+104782,
 },
-["groupID"] = "group:5",
+["groupID"] = "group:4",
 },
 ["team:249"] = {
 ["pets"] = {
@@ -5723,24 +5931,24 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:1",
 },
-["team:113"] = {
+["team:126"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBDB3",
-"BattlePet-0-00000E0BBD1B",
-"BattlePet-0-00000E0BBCE7",
+"BattlePet-0-00000E0BBD0C",
+"BattlePet-0-00000E0BBDCE",
+"BattlePet-0-00000E0BBDC4",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6117\n\nStrategy added by Neevi#2149\nWorked pretty well for me\n\nTurn 1: Wind Up\nTurn 2: Wind Up\nTurn 3: Explode, switch to other Explode Pet\nTurn 4: Explode\nTurn 5: Chrominius - Howl\nTurn 6: Surge of Power\n",
-["name"] = "Giant Opaline Conch",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/715\n\nStrategy added by Nyari\nTurn 1: Curse of Doom\nTurn 2: Pass\nTurn 3: Haunt\nBring in Ikky\nTurn 1: Black Claw\nTurns 2+: Flock - Bleakclaw dies\nAn enemy pet comes in\nTurns 1+: Savage Talon until Ikky dies\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurn 2: Emerald Dream\nTurns 3+: Keep Emerald Presence active and use Emerald Bite otherwise. Use Emerald Dream again if you drop low on health.\n",
+["name"] = "Bleakclaw",
 ["tags"] = {
-"10261BB",
-"020CAJ",
-"0126140",
+"221316M",
+"11181FS",
+"222A14F",
 },
-["teamID"] = "team:113",
+["teamID"] = "team:126",
 ["targets"] = {
-154921,
+94645,
 },
-["groupID"] = "group:5",
+["groupID"] = "group:3",
 },
 ["team:12"] = {
 ["pets"] = {
@@ -5764,43 +5972,43 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:6",
 },
-["team:246"] = {
+["team:174"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBDB3",
-"BattlePet-0-00000E0BBDCE",
-"BattlePet-0-00000E0BBCAD",
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBCF3",
+"BattlePet-0-00000E0BBD2F",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2164\n\nStrategy added by GenDG\nOf all the strategies, it was the only one that worked for me the first time.\n\nThanks for reading me!\n\nTurn 1: Wind-Up\nTurn 2: Supercharge\nTurn 3: Wind-Up\nChum dies.\nBruce comes in.\nTurn 1: Swap to your Ikky\nTurn 2: Black Claw\nTurn 3: Flock\nTurn 4: Pass (stun).\nTurn 5: Flock\nBruce dies.\nMaws Jr. comes in.\nTurn 1: Flock\nTurn 2: Swap to your Lil' Bling\nTurn 3: Make it Rain\nTurn 4+: Inflation\n",
-["name"] = "Not So Bad Down Here",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7112\n\nStrategy added by Kroan#2404\nDidn't have any luck with other strategies, so returned to the Boneshard + Blackclaw strat that is used for other legendaries. Fight is very random, but tried it a few times and always worked out.\n\nTurn 1: Blistering Cold\nTurn 2: BONESTORM\nTurn 3: Blistering Cold / Chop until Boneshard dies\nBoneshard dies. Bring in Zandalari Anklerender\nTurn 4+: Black Claw\nHunting Party\nTurn 6: If first Zandalari dies, bring in second and continue\n",
+["name"] = "No-No",
 ["tags"] = {
-"11161BB",
-"11181FS",
-"2115198",
+"11231TB",
+"202415R",
+"220814S",
 },
-["teamID"] = "team:246",
+["teamID"] = "team:174",
 ["targets"] = {
-141077,
+68559,
 },
-["groupID"] = "group:5",
+["groupID"] = "group:2",
 },
-["team:120"] = {
+["team:107"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBDCE",
-"BattlePet-0-00000E0BBD44",
-"random:0",
+"BattlePet-0-00000E0BBDEE",
+0,
+"BattlePet-0-00000E0BBCC3",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6626\n\nStrategy added by Skwirrel\nTurn 1: Black Claw\nTurn 2: Flock - Ikky dies\nBring in Corefire Imp\nTurn 3: Flamethrower\nTurn 4: Burn\nTurn 5: Burn\n",
-["name"] = "Sputtertube",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/526\n\nIf you want to play it safe, use a level 25 rare pet in the second slot\n\nTurn 1: Sandstorm\nTurn 2: Crush\nTurn 3: Rupture\nTurns 4+: From now on, keep Sandstorm always active.\nUse Rupture when available.\nUse Crush otherwise until your Idol dies.\nBring in your Level Pet\nTurn 1: Swap to your Mechanical Pandaren Dragonling\nTurn 2: Decoy\nTurns 3+: Breath away!\nUse Thunderbolt if Mini Electron is the only surviving enemy pet.\n",
+["name"] = "Oh, Ominitron",
 ["tags"] = {
-"11181FS",
-"121813T",
-"ZR0",
+"1126143",
+"ZL",
+"1225QC",
 },
-["teamID"] = "team:120",
+["teamID"] = "team:107",
 ["targets"] = {
-154923,
+99880,
 },
-["groupID"] = "group:5",
+["groupID"] = "group:4",
 },
 ["team:231"] = {
 ["pets"] = {
@@ -5926,103 +6134,23 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:4",
 },
-["team:126"] = {
+["team:205"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBD0C",
-"BattlePet-0-00000E0BBDCE",
-"BattlePet-0-00000E0BBDC4",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/715\n\nStrategy added by Nyari\nTurn 1: Curse of Doom\nTurn 2: Pass\nTurn 3: Haunt\nBring in Ikky\nTurn 1: Black Claw\nTurns 2+: Flock - Bleakclaw dies\nAn enemy pet comes in\nTurns 1+: Savage Talon until Ikky dies\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurn 2: Emerald Dream\nTurns 3+: Keep Emerald Presence active and use Emerald Bite otherwise. Use Emerald Dream again if you drop low on health.\n",
-["name"] = "Bleakclaw",
-["tags"] = {
-"221316M",
-"11181FS",
-"222A14F",
-},
-["teamID"] = "team:126",
-["targets"] = {
-94645,
-},
-["groupID"] = "group:3",
-},
-["team:174"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBF3E",
-"BattlePet-0-00000E0BBCF3",
-"BattlePet-0-00000E0BBD2F",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7112\n\nStrategy added by Kroan#2404\nDidn't have any luck with other strategies, so returned to the Boneshard + Blackclaw strat that is used for other legendaries. Fight is very random, but tried it a few times and always worked out.\n\nTurn 1: Blistering Cold\nTurn 2: BONESTORM\nTurn 3: Blistering Cold / Chop until Boneshard dies\nBoneshard dies. Bring in Zandalari Anklerender\nTurn 4+: Black Claw\nHunting Party\nTurn 6: If first Zandalari dies, bring in second and continue\n",
-["name"] = "No-No",
-["tags"] = {
-"11231TB",
-"202415R",
-"220814S",
-},
-["teamID"] = "team:174",
-["targets"] = {
-68559,
-},
-["groupID"] = "group:2",
-},
-["team:107"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBDEE",
-0,
-"BattlePet-0-00000E0BBCC3",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/526\n\nIf you want to play it safe, use a level 25 rare pet in the second slot\n\nTurn 1: Sandstorm\nTurn 2: Crush\nTurn 3: Rupture\nTurns 4+: From now on, keep Sandstorm always active.\nUse Rupture when available.\nUse Crush otherwise until your Idol dies.\nBring in your Level Pet\nTurn 1: Swap to your Mechanical Pandaren Dragonling\nTurn 2: Decoy\nTurns 3+: Breath away!\nUse Thunderbolt if Mini Electron is the only surviving enemy pet.\n",
-["name"] = "Oh, Ominitron",
-["tags"] = {
-"1126143",
-"ZL",
-"1225QC",
-},
-["teamID"] = "team:107",
-["targets"] = {
-99880,
-},
-["groupID"] = "group:4",
-},
-["team:62"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBDCA",
-"random:0",
+"BattlePet-0-00000E0BBD2E",
+"BattlePet-0-00000E0BBDB3",
 "random:0",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/66\n\nStrategy added by Gráinne\nTurn 1: Deep Bite \nTurn 2: Deep Bite \nTurn 3: Shell Armor \nTurns 4+: Deep Bite until Rockbiter is dead \nStonechewer comes in \nTurn 1: Deep Bite \nTurn 2: Shell Armor \nTurns 3+: Deep Bite until Stonechewer is dead as well \nAcidtooth comes in \nTurns 1+: Deep Bite and keep Shell Armor on cooldown.\n",
-["name"] = "Rockbiter, Acidtooth and Stonechewer",
+["name"] = "Two and Two Together",
 ["tags"] = {
-"101A1G5",
+"122414D",
+"11161BB",
 "ZR0",
-"ZR0",
 },
-["teamID"] = "team:62",
-["preferences"] = {
-["minXP"] = 25,
-},
+["teamID"] = "team:205",
 ["targets"] = {
-85630,
+197102,
 },
-["groupID"] = "group:3",
-},
-["team:264"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD0C",
-"BattlePet-0-00000E0BBDCE",
-"BattlePet-0-00000E0BBDC4",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6531\n\nStrategy added by Yogi77\nTurn 1: Curse of Doom  if Vile Blood of Draenor critted on ikky, restart the fight!\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurn 2: Flock\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurn 2: Emerald Dream\nTurn 3: Emerald Bite\nrepeat all steps on cooldown\n",
-["name"] = "Vile Blood of Draenor",
-["tags"] = {
-"221316M",
-"11181FS",
-"222A14F",
-},
-["teamID"] = "team:264",
-["targets"] = {
-94646,
-},
-["groupID"] = "group:3",
+["groupID"] = "group:7",
 },
 ["team:213"] = {
 ["pets"] = {
@@ -6045,25 +6173,6 @@ Rematch5SavedTeams = {
 200680,
 },
 ["groupID"] = "group:7",
-},
-["team:20"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBCB6",
-"BattlePet-0-00000E0BBD09",
-0,
-},
-["notes"] = "Strategy added by Thordros#1784\nThis is my attempt at eliminating most of the randomness surrounding Wumpas stunning you with Headbutt, while still keeping a low kill time (<80 seconds). Although there are other bots with the same moveset, the P/P and P/S bots are the only ones that can reliably kill both Thrugtusk and Wumpas in 7 rounds.There is an extremely rare edge case where Thrugtusk can get insanely lucky crits and kill your Warbot (including the Mechanical phase!) before dying. The TD Script will attempt to salvage the fight with your Darkmoon Tonk, and does so successfully 75% of the time—the other 25%, Wumpas will stun you with Headbutt and you're very unlikely to win.\n\nTurn 1: Minefield\nTurn 2-3: Launch Rocket\nTurn 4+: Missile\nWumpas comes in\nTurn 1+: Launch Rocket\nIf your Warbot dies here, bring in your Darkmoon Tonk early and use Shock and Awe.\nBaeloth comes in\nTurn 1: Swap to your Level Pet\nTurn 2: Swap to your Darkmoon Tonk\nTurn 3: Shock and Awe\nIf your Warbot died to Wumpas, use Missile here until Baeloth has <1099 health remaining.\nTurn 4: Ion Cannon\n",
-["name"] = "My Beast's Bidding",
-["tags"] = {
-"122473",
-"1127AI",
-"ZL",
-},
-["teamID"] = "team:20",
-["targets"] = {
-98270,
-},
-["groupID"] = "group:4",
 },
 ["team:218"] = {
 ["pets"] = {
@@ -6105,6 +6214,107 @@ Rematch5SavedTeams = {
 117950,
 },
 ["groupID"] = "group:4",
+},
+["team:215"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBDCE",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10148\n\nStrategy added by Lazey\n*** Created on Beta, so maybe not final ***\n\nTurn 1: Blistering Cold\nTurn 2: BONESTORM\nTurn 3: Chop (Boneshard dies)\nBring in your Ikky\nTurn 4: Black Claw\nTurns 5-7: Flock\n",
+["name"] = "Kostos",
+["tags"] = {
+"11231TB",
+"21181FS",
+"ZR0",
+},
+["teamID"] = "team:215",
+["preferences"] = {
+["minXP"] = 1,
+},
+["targets"] = {
+175785,
+},
+["groupID"] = "group:6",
+},
+["team:103"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD0C",
+"BattlePet-0-00000E0BBCF3",
+"BattlePet-0-00000E0BBE55",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6066\n\nStrategy added by VonSnoot#1197\nPretty quick and easy. Valkyr sets up the bomb and the bonus damage. Anklerender sets up more damage bonus and a damage multiplier. Bomb goes off, and your Crab (or whatever pet you have that has Surge) finishes it off.\n\nTurn 1: Curse of Doom\nTurn 2: Unholy Ascension\nUnborn Val'kyr revives\nTurn 3: Shadow Shock (Unborn Val'kyr dies for good)\nSend out Zandalari Anklerender\nTurn 4: Black Claw\nTurn 5-6: Hunting Party\nZandalari Anklerender dies, Crab comes out\nTurn 7: Surge\n",
+["name"] = "Kelpstone",
+["tags"] = {
+"222316M",
+"202415R",
+"2006NA",
+},
+["teamID"] = "team:103",
+["targets"] = {
+154918,
+},
+["groupID"] = "group:5",
+},
+["team:20"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBCB6",
+"BattlePet-0-00000E0BBD09",
+0,
+},
+["notes"] = "Strategy added by Thordros#1784\nThis is my attempt at eliminating most of the randomness surrounding Wumpas stunning you with Headbutt, while still keeping a low kill time (<80 seconds). Although there are other bots with the same moveset, the P/P and P/S bots are the only ones that can reliably kill both Thrugtusk and Wumpas in 7 rounds.There is an extremely rare edge case where Thrugtusk can get insanely lucky crits and kill your Warbot (including the Mechanical phase!) before dying. The TD Script will attempt to salvage the fight with your Darkmoon Tonk, and does so successfully 75% of the time—the other 25%, Wumpas will stun you with Headbutt and you're very unlikely to win.\n\nTurn 1: Minefield\nTurn 2-3: Launch Rocket\nTurn 4+: Missile\nWumpas comes in\nTurn 1+: Launch Rocket\nIf your Warbot dies here, bring in your Darkmoon Tonk early and use Shock and Awe.\nBaeloth comes in\nTurn 1: Swap to your Level Pet\nTurn 2: Swap to your Darkmoon Tonk\nTurn 3: Shock and Awe\nIf your Warbot died to Wumpas, use Missile here until Baeloth has <1099 health remaining.\nTurn 4: Ion Cannon\n",
+["name"] = "My Beast's Bidding",
+["tags"] = {
+"122473",
+"1127AI",
+"ZL",
+},
+["teamID"] = "team:20",
+["targets"] = {
+98270,
+},
+["groupID"] = "group:4",
+},
+["team:164"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD1B",
+0,
+"BattlePet-0-00000E0BBD2E",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1804\n\nStrategy added by Lazey\nKaraga:4AOG:112CAJ:ZL:122414D:\n\nTurn 1: Bombing Run\nTurn 2: Missile\nTurn 3: Missile\nTurn 4: Decoy\nTurn 5: Bombing Run when Lazy has 219HP or less, otherwise Missile.\nLazy dies. Spokes comes in.\nTurn 6: Missile. Darkmoon Zeppelin dies. Bring in your Level Pet\nSwap to your Nexus Whelpling\nvs. Spokes and Skeeto\nPrio 1: Arcane Storm\nPrio 2: Mana Surge\nPrio 3: Tail Sweep\n",
+["name"] = "Critters are Friends, Not Food",
+["tags"] = {
+"112CAJ",
+"ZL",
+"122414D",
+},
+["teamID"] = "team:164",
+["preferences"] = {
+["minXP"] = 1,
+},
+["targets"] = {
+142096,
+},
+["groupID"] = "group:5",
+},
+["team:233"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD2E",
+"BattlePet-0-00000E0BBDC4",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/1236\n\nStrategy added by Aranesh\nTurn 1: Arcane Storm\nTurns 2-4: Mana Surge - Klutz's Battle Bird dies\nAn enemy pet comes in\nTurns 1+: Continue using Arcane Storm and Mana Surge when available, otherwise Tail Sweep until your Nexus Whelpling dies\n\nIf you need your Emerald Proto-Whelp, keep Emerald Presence active, use Emerald Dream if you drop low on health and otherwise use Emerald Bite\n",
+["name"] = "Klutz's Battle Bird",
+["tags"] = {
+"122414D",
+"222A14F",
+"ZR0",
+},
+["teamID"] = "team:233",
+["targets"] = {
+119344,
+},
+["groupID"] = "group:1",
 },
 ["team:130"] = {
 ["pets"] = {
@@ -6149,85 +6359,6 @@ Rematch5SavedTeams = {
 162471,
 },
 ["groupID"] = "group:5",
-},
-["team:233"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD2E",
-"BattlePet-0-00000E0BBDC4",
-"random:0",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/1236\n\nStrategy added by Aranesh\nTurn 1: Arcane Storm\nTurns 2-4: Mana Surge - Klutz's Battle Bird dies\nAn enemy pet comes in\nTurns 1+: Continue using Arcane Storm and Mana Surge when available, otherwise Tail Sweep until your Nexus Whelpling dies\n\nIf you need your Emerald Proto-Whelp, keep Emerald Presence active, use Emerald Dream if you drop low on health and otherwise use Emerald Bite\n",
-["name"] = "Klutz's Battle Bird",
-["tags"] = {
-"122414D",
-"222A14F",
-"ZR0",
-},
-["teamID"] = "team:233",
-["targets"] = {
-119344,
-},
-["groupID"] = "group:1",
-},
-["team:103"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD0C",
-"BattlePet-0-00000E0BBCF3",
-"BattlePet-0-00000E0BBE55",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6066\n\nStrategy added by VonSnoot#1197\nPretty quick and easy. Valkyr sets up the bomb and the bonus damage. Anklerender sets up more damage bonus and a damage multiplier. Bomb goes off, and your Crab (or whatever pet you have that has Surge) finishes it off.\n\nTurn 1: Curse of Doom\nTurn 2: Unholy Ascension\nUnborn Val'kyr revives\nTurn 3: Shadow Shock (Unborn Val'kyr dies for good)\nSend out Zandalari Anklerender\nTurn 4: Black Claw\nTurn 5-6: Hunting Party\nZandalari Anklerender dies, Crab comes out\nTurn 7: Surge\n",
-["name"] = "Kelpstone",
-["tags"] = {
-"222316M",
-"202415R",
-"2006NA",
-},
-["teamID"] = "team:103",
-["targets"] = {
-154918,
-},
-["groupID"] = "group:5",
-},
-["team:164"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD1B",
-0,
-"BattlePet-0-00000E0BBD2E",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1804\n\nStrategy added by Lazey\nKaraga:4AOG:112CAJ:ZL:122414D:\n\nTurn 1: Bombing Run\nTurn 2: Missile\nTurn 3: Missile\nTurn 4: Decoy\nTurn 5: Bombing Run when Lazy has 219HP or less, otherwise Missile.\nLazy dies. Spokes comes in.\nTurn 6: Missile. Darkmoon Zeppelin dies. Bring in your Level Pet\nSwap to your Nexus Whelpling\nvs. Spokes and Skeeto\nPrio 1: Arcane Storm\nPrio 2: Mana Surge\nPrio 3: Tail Sweep\n",
-["name"] = "Critters are Friends, Not Food",
-["tags"] = {
-"112CAJ",
-"ZL",
-"122414D",
-},
-["teamID"] = "team:164",
-["preferences"] = {
-["minXP"] = 1,
-},
-["targets"] = {
-142096,
-},
-["groupID"] = "group:5",
-},
-["team:25"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD09",
-"BattlePet-0-00000E0BBCE7",
-"random:0",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/755\n\nTurns 1+: Lock-On until your Darkmoon Tonkdies\nBring in Chrominius\nTurn 1: Howl\nTurn 2: Surge of Power\n",
-["name"] = "Fight Night: Stitches Jr. Jr.",
-["tags"] = {
-"1117AI",
-"1126140",
-"ZR0",
-},
-["teamID"] = "team:25",
-["targets"] = {
-105840,
-},
-["groupID"] = "group:4",
 },
 ["team:108"] = {
 ["pets"] = {
@@ -6308,24 +6439,24 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:1",
 },
-["team:257"] = {
+["team:25"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBCF3",
-"BattlePet-0-00000E0BBCA9",
-0,
+"BattlePet-0-00000E0BBD09",
+"BattlePet-0-00000E0BBCE7",
+"random:0",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/591\n\nBreeds that we know work:\nAnklerender must be a P/P breed for this to work 100%.\nP/S and P/B also work just follow the notes below.\n\n(The notes down there are an estimate of 550 HP). (Saint)\n\nTurn 1: Bite\nTurn 2: Bite\nTurn 3+: Leap until Chirrup is dead.\nStormlash comes in.\nTurn 1: Black Claw - your Anklerender dies.\nBring in your Clockwork Gnome.\nTurn 1: Build Turret - Stormlash dies.  If not, just go on to the next step for your turret will kill him as you repair.\nWhiskers comes in.\nTurns 1-3: Repair\nTurn 4: Build Turret\nNOTE: If Whiskers is 551 HP or below after turn 4, Skip to turn 6. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nNOTE: If Whiskers is above 551 HP after turn 4, continue to Turn 5. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nTurn 5: Metal Fist\nTurn 6: Swap to your Level Pet.\nTurn 7: Swap back to your Clockwork Gnome.\nTurn 8: Build Turret - Whiskers dies.\nTurn 9: Metal Fist - if you think you need to.\n",
-["name"] = "Aki the Chosen",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/755\n\nTurns 1+: Lock-On until your Darkmoon Tonkdies\nBring in Chrominius\nTurn 1: Howl\nTurn 2: Surge of Power\n",
+["name"] = "Fight Night: Stitches Jr. Jr.",
 ["tags"] = {
-"112415R",
-"111B8L",
-"ZL",
+"1117AI",
+"1126140",
+"ZR0",
 },
-["teamID"] = "team:257",
+["teamID"] = "team:25",
 ["targets"] = {
-66741,
+105840,
 },
-["groupID"] = "group:2",
+["groupID"] = "group:4",
 },
 ["team:236"] = {
 ["pets"] = {
@@ -6387,25 +6518,104 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:3",
 },
-["team:215"] = {
+["team:257"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBCF3",
+"BattlePet-0-00000E0BBCA9",
+0,
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/591\n\nBreeds that we know work:\nAnklerender must be a P/P breed for this to work 100%.\nP/S and P/B also work just follow the notes below.\n\n(The notes down there are an estimate of 550 HP). (Saint)\n\nTurn 1: Bite\nTurn 2: Bite\nTurn 3+: Leap until Chirrup is dead.\nStormlash comes in.\nTurn 1: Black Claw - your Anklerender dies.\nBring in your Clockwork Gnome.\nTurn 1: Build Turret - Stormlash dies.  If not, just go on to the next step for your turret will kill him as you repair.\nWhiskers comes in.\nTurns 1-3: Repair\nTurn 4: Build Turret\nNOTE: If Whiskers is 551 HP or below after turn 4, Skip to turn 6. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nNOTE: If Whiskers is above 551 HP after turn 4, continue to Turn 5. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nTurn 5: Metal Fist\nTurn 6: Swap to your Level Pet.\nTurn 7: Swap back to your Clockwork Gnome.\nTurn 8: Build Turret - Whiskers dies.\nTurn 9: Metal Fist - if you think you need to.\n",
+["name"] = "Aki the Chosen",
+["tags"] = {
+"112415R",
+"111B8L",
+"ZL",
+},
+["teamID"] = "team:257",
+["targets"] = {
+66741,
+},
+["groupID"] = "group:2",
+},
+["team:264"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD0C",
+"BattlePet-0-00000E0BBDCE",
+"BattlePet-0-00000E0BBDC4",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6531\n\nStrategy added by Yogi77\nTurn 1: Curse of Doom  if Vile Blood of Draenor critted on ikky, restart the fight!\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurn 2: Flock\nBring in your Emerald Proto-Whelp\nTurn 1: Emerald Presence\nTurn 2: Emerald Dream\nTurn 3: Emerald Bite\nrepeat all steps on cooldown\n",
+["name"] = "Vile Blood of Draenor",
+["tags"] = {
+"221316M",
+"11181FS",
+"222A14F",
+},
+["teamID"] = "team:264",
+["targets"] = {
+94646,
+},
+["groupID"] = "group:3",
+},
+["team:62"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBDCA",
+"random:0",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/66\n\nStrategy added by Gráinne\nTurn 1: Deep Bite \nTurn 2: Deep Bite \nTurn 3: Shell Armor \nTurns 4+: Deep Bite until Rockbiter is dead \nStonechewer comes in \nTurn 1: Deep Bite \nTurn 2: Shell Armor \nTurns 3+: Deep Bite until Stonechewer is dead as well \nAcidtooth comes in \nTurns 1+: Deep Bite and keep Shell Armor on cooldown.\n",
+["name"] = "Rockbiter, Acidtooth and Stonechewer",
+["tags"] = {
+"101A1G5",
+"ZR0",
+"ZR0",
+},
+["teamID"] = "team:62",
+["preferences"] = {
+["minXP"] = 25,
+},
+["targets"] = {
+85630,
+},
+["groupID"] = "group:3",
+},
+["team:120"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBDCE",
+"BattlePet-0-00000E0BBD44",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6626\n\nStrategy added by Skwirrel\nTurn 1: Black Claw\nTurn 2: Flock - Ikky dies\nBring in Corefire Imp\nTurn 3: Flamethrower\nTurn 4: Burn\nTurn 5: Burn\n",
+["name"] = "Sputtertube",
+["tags"] = {
+"11181FS",
+"121813T",
+"ZR0",
+},
+["teamID"] = "team:120",
+["targets"] = {
+154923,
+},
+["groupID"] = "group:5",
+},
+["team:9"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBD0C",
 "BattlePet-0-00000E0BBDCE",
 "random:0",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10148\n\nStrategy added by Lazey\n*** Created on Beta, so maybe not final ***\n\nTurn 1: Blistering Cold\nTurn 2: BONESTORM\nTurn 3: Chop (Boneshard dies)\nBring in your Ikky\nTurn 4: Black Claw\nTurns 5-7: Flock\n",
-["name"] = "Kostos",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10959\n\nStrategy added by Qvisten#2240\nThanks Runisco for the script :)\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
+["name"] = "Crystalsnap",
 ["tags"] = {
-"11231TB",
-"21181FS",
+"021316M",
+"01181FS",
 "ZR0",
 },
-["teamID"] = "team:215",
+["teamID"] = "team:9",
 ["preferences"] = {
 ["minXP"] = 1,
 },
 ["targets"] = {
-175785,
+175777,
 },
 ["groupID"] = "group:6",
 },
@@ -6475,45 +6685,46 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:7",
 },
-["team:9"] = {
+["team:246"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBD0C",
+"BattlePet-0-00000E0BBDB3",
 "BattlePet-0-00000E0BBDCE",
+"BattlePet-0-00000E0BBCAD",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/2164\n\nStrategy added by GenDG\nOf all the strategies, it was the only one that worked for me the first time.\n\nThanks for reading me!\n\nTurn 1: Wind-Up\nTurn 2: Supercharge\nTurn 3: Wind-Up\nChum dies.\nBruce comes in.\nTurn 1: Swap to your Ikky\nTurn 2: Black Claw\nTurn 3: Flock\nTurn 4: Pass (stun).\nTurn 5: Flock\nBruce dies.\nMaws Jr. comes in.\nTurn 1: Flock\nTurn 2: Swap to your Lil' Bling\nTurn 3: Make it Rain\nTurn 4+: Inflation\n",
+["name"] = "Not So Bad Down Here",
+["tags"] = {
+"11161BB",
+"11181FS",
+"2115198",
+},
+["teamID"] = "team:246",
+["targets"] = {
+141077,
+},
+["groupID"] = "group:5",
+},
+["team:196"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBEAB",
+"random:0",
 "random:0",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/10959\n\nStrategy added by Qvisten#2240\nThanks Runisco for the script :)\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
-["name"] = "Crystalsnap",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/6708\n\nStrategy added by Clarx\nTurn 1: Water Jet\nTurn 2: Dive\nTurn 3: Nature's Ward\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Water Jet\nTurn 8: Dive\nAngry Geode dies here (latest) ... \nClean up the rest! (Pudle Terror is able to solo everything, depending on enemy-background pets)\n",
+["name"] = "Angry Geode",
 ["tags"] = {
-"021316M",
-"01181FS",
+"11281H0",
+"ZR0",
 "ZR0",
 },
-["teamID"] = "team:9",
+["teamID"] = "team:196",
 ["preferences"] = {
 ["minXP"] = 1,
 },
 ["targets"] = {
-175777,
+119342,
 },
-["groupID"] = "group:6",
-},
-["team:205"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD2E",
-"BattlePet-0-00000E0BBDB3",
-"random:0",
-},
-["name"] = "Two and Two Together",
-["tags"] = {
-"122414D",
-"11161BB",
-"ZR0",
-},
-["teamID"] = "team:205",
-["targets"] = {
-197102,
-},
-["groupID"] = "group:7",
+["groupID"] = "group:1",
 },
 ["team:245"] = {
 ["pets"] = {
@@ -6574,27 +6785,27 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:7",
 },
-["team:196"] = {
+["team:219"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBEAB",
-"random:0",
+"BattlePet-0-00000E0BBD0C",
+"BattlePet-0-00000E0BBD2F",
 "random:0",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/6708\n\nStrategy added by Clarx\nTurn 1: Water Jet\nTurn 2: Dive\nTurn 3: Nature's Ward\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Water Jet\nTurn 8: Dive\nAngry Geode dies here (latest) ... \nClean up the rest! (Pudle Terror is able to solo everything, depending on enemy-background pets)\n",
-["name"] = "Angry Geode",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/7733\n\nStrategy added by Perimus#2648\nTested TD Script 5x - No RNG involved so far. Special thanks to Mirogah (https://www.wow-petguide.com/index.php?user=12412) & d3ltaray#2895 (https://www.wow-petguide.com/index.php?user=12858)\n\nTried this fight with Ikky aswel but didn't go so well. My Kneebiter even died from crit but the Haunt/Curse of Doom finished it off. I used Leap on his Deflection so I would have speed advantage and be sure I would do Hunting Party.\n\nTurn 1: Shadow Slash/ Shadow Shock\nTurn 2: Pass\nHe will use Deflection\nTurn 3: Curse of Doom\nTurn 4: Haunt\nTurn 5: Black Claw\nBring in your Zandalari Kneebiter\nTurn 6: Leap\nHe will use Deflection\nTurn 8: Hunting Party\n",
+["name"] = "Tiny Madness",
 ["tags"] = {
-"11281H0",
-"ZR0",
+"021316M",
+"221814S",
 "ZR0",
 },
-["teamID"] = "team:196",
+["teamID"] = "team:219",
 ["preferences"] = {
-["minXP"] = 1,
+["minXP"] = 25,
 },
 ["targets"] = {
-119342,
+162468,
 },
-["groupID"] = "group:1",
+["groupID"] = "group:5",
 },
 ["team:104"] = {
 ["pets"] = {
@@ -6634,24 +6845,24 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:4",
 },
-["team:250"] = {
+["team:84"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBD0C",
+"BattlePet-0-00000E0BBDF1",
+"BattlePet-0-0000216AC03C",
 0,
-"BattlePet-0-00000E0BBDCE",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/770\n\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in your Level Pet\nTurn 1: Swap to Ikky\nTurn 2: Black Claw\nTurns 3-6: Flock - The Hungry Icefang dies and another enemy pet comes in\nTurns 7+: Quills until Ikky dies\nBring back your Unborn Val'kyr\nTurns 1+: Shadow Shock until the fight is done\n",
-["name"] = "Wildlife Protection Force",
+["notes"] = "Strategy added by nogulpfrog\naverage time : 92s.  Not fast but enough.\n\nTurn 1: Call Blizzard\nTurn 2: Deep Freeze\nTurn 3: Swap to your Twilight Whelpling\nTurn 4: Twilight Fire\nTurn 5: Wing Buffet\nTurn 6: Swap to your Level Pet\nTurn 7: Swap to your Tiny Snowman\nTurn 8: Magic Hat\nTurn 9: Call Blizzard ,enemy Breezy Book died.\nTurn 10: Magic Hat\nTurn 11: Deep Freeze , enemy Helpful Spirit died.\nTurn 12: Magic Hat until your Tiny Snowman died\nbring in yourTwilight Whelpling\nTurn 13: Darkflame\nTurn 14: Wing Buffet , finish.\n",
+["name"] = "Training with the Nightwatchers",
 ["tags"] = {
-"221316M",
+"21233L",
+"21282JL",
 "ZL",
-"21181FS",
 },
-["teamID"] = "team:250",
+["teamID"] = "team:84",
 ["targets"] = {
-104782,
+106552,
 },
-["groupID"] = "group:4",
+["groupID"] = "group:none",
 },
 ["team:49"] = {
 ["pets"] = {
@@ -6672,24 +6883,24 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:3",
 },
-["team:177"] = {
+["team:284"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBCE7",
-0,
-"BattlePet-0-00000E0BBD2E",
+"BattlePet-0-00000E0BBD1B",
+"BattlePet-0-00000E0BBDFC",
+"BattlePet-0-00000E0BBEE1",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/233\n\nTurns 1+: Use Ancient Blessing on cooldown, otherwise Arcane Explosion or Pass if you are stunned until Chrominius dies\nBring in your Level Pet\nTurn 1: Swap to your Nexus Whelpling\nTurn 2: Arcane Storm\nTurns 3+: Mana Surge\n",
-["name"] = "Whispering Pandaren Spirit",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/21663\n\nStrategy added by WhyDaRumGone\nUsing no alternatives ensures 5 rounds\n\nTurn 1: Thunderbolt\nTurn 2: Explode\nBring in your Crimson Spore\nTurn 3: Explode\nBring in your Rotten Little Helper\nTurn 4: Call Blizzard\nTurn 5+: Ice Lance\n",
+["name"] = "Major Malfunction",
 ["tags"] = {
-"2226140",
-"ZL",
-"122414D",
+"021CAJ",
+"00261G1",
+"20241A5",
 },
-["teamID"] = "team:177",
+["teamID"] = "team:284",
+["groupID"] = "group:9",
 ["targets"] = {
-68464,
+222535,
 },
-["groupID"] = "group:2",
 },
 ["team:33"] = {
 ["pets"] = {
@@ -6735,63 +6946,6 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:7",
 },
-["team:16"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBE76",
-"BattlePet-0-00000E0BBF3E",
-"BattlePet-0-00000E0BBCF3",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18744\n\nStrategy added by DragonsAfterDark\nThe same team can be used for the Legendary (https://www.wow-petguide.com/Strategy/18743/Tremblor_-_Legendary) & Rare (https://www.wow-petguide.com/Strategy/18745/Tremblor_-_Rare) versions.\n\nTurn 1: Call Lightning\nTurn 2: Swap to your Boneshard\nTurn 3: Blistering Cold\nTurn 4: Chop\nTurn 5: BONESTORM\nTurn 6: Blistering Cold\nBring in your Wild Jade Hatchling\nTurn 7: Call Lightning\nTurn 8: Swap to your Zandalari Anklerender\nTurn 9: Black Claw\nTurn 10: Hunting Party\n",
-["name"] = "Tremblor - Epic",
-["tags"] = {
-"0107PH",
-"11231TB",
-"202415R",
-},
-["teamID"] = "team:16",
-["targets"] = {
-200690,
-},
-["groupID"] = "group:7",
-},
-["team:56"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD2E",
-"BattlePet-0-00000E0BBD0E",
-"BattlePet-0-00000E0BBDC4",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/19597\n\nStrategy added by Aknot#1385\nCredit to ShirokamiCusp (post on wowhead)\nLink: https://www.wowhead.com/npc=204792/shinmura#comments\n\nScript thanks to Akéla\n\nTurn 1: Arcane Storm\nTurns 2-4: Mana Surge\nTurn 5: Life Exchange you can skip this step if Beeks used Surge of Power \nTurn 6: Moonfire\nTurn 5: Arcane Blast until Nether Faerie Dragon die\nTurn 6: Emerald Bite until Talons die. (May not be necessary)\nTurn 7: \nTurn 8: \n",
-["name"] = "Are They Not Beautiful?",
-["tags"] = {
-"022414D",
-"2215HD",
-"200A14F",
-},
-["teamID"] = "team:56",
-["targets"] = {
-204792,
-},
-["groupID"] = "group:7",
-},
-["team:61"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBD0C",
-"BattlePet-0-00000E0BBDCE",
-2648,
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1249\n\nStrategy added by Aranesh\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky\nTurn 3: Black Claw\nTurn 4: Flock\nIf Deathscreech kills your Ikky before they can Flock:\nBring in your Chitterspine Skitterling\nTurns 1-3: Swarm\n",
-["name"] = "Deathscreech",
-["tags"] = {
-"121316M",
-"11181FS",
-"00202IO",
-},
-["teamID"] = "team:61",
-["targets"] = {
-128011,
-},
-["groupID"] = "group:4",
-},
 ["team:32"] = {
 ["pets"] = {
 "BattlePet-0-00000E0BBDCE",
@@ -6836,51 +6990,43 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:4",
 },
-["team:117"] = {
+["team:61"] = {
 ["pets"] = {
+"BattlePet-0-00000E0BBD0C",
 "BattlePet-0-00000E0BBDCE",
-"BattlePet-0-00000E0BBCC3",
-0,
+2648,
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9777\n\nStrategy added by Mnrogar\nTurn 1: Black Claw\nTurns 2-4: Flock\nBring in your Mechanical Pandaren Dragonling\nTurn 1: Breath\nTurn 2: Thunderbolt\nTurn 3: Explode\n",
-["name"] = "Gnomefeaster",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/1249\n\nStrategy added by Aranesh\nTurn 1: Curse of Doom\nTurn 2: Haunt\nBring in Ikky\nTurn 3: Black Claw\nTurn 4: Flock\nIf Deathscreech kills your Ikky before they can Flock:\nBring in your Chitterspine Skitterling\nTurns 1-3: Swarm\n",
+["name"] = "Deathscreech",
 ["tags"] = {
-"01181FS",
-"1215QC",
-"ZL",
+"121316M",
+"11181FS",
+"00202IO",
 },
-["teamID"] = "team:117",
-["preferences"] = {
-["minXP"] = 1,
-},
+["teamID"] = "team:61",
 ["targets"] = {
-154922,
+128011,
 },
-["groupID"] = "group:5",
+["groupID"] = "group:4",
 },
-["team:148"] = {
+["team:184"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBD49",
-0,
-"BattlePet-0-00000E0BBD09",
+"BattlePet-0-00000E0BBE76",
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBCF3",
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/455\n\nOld as pet battles themselves, credit uncertain.\n\nTurn 1: Pump\nTurn 2: Cleansing Rain\nTurn 3+: Water Jet until Siren dies\nToothbreaker comes in\nTurn 1: Pump\nTurn 2: Cleansing Rain\nTurn 3: Pump\nTurn 4+: Water Jet until Toothbreaker dies\nBrood of Mothallus comes in\nTurn 1: Pump\nTurn 2+: Water Jet until Aqua Strider dies\nBring in your Level Pet\nTurn 1: Swap to your Darkmoon Tonk\nTurn 2: Shock and Awe\nTurn 3: Ion Cannon\n",
-["name"] = "Farmer Nishi",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18745\n\nStrategy added by DragonsAfterDark\nThe same team can be used for the Legendary (https://www.wow-petguide.com/Strategy/18743/Tremblor_-_Legendary) & Epic (https://www.wow-petguide.com/Strategy/18744/Tremblor_-_Epic) versions.\n\nTurn 1: Tail Sweep if faster than Tremblor\nTurn 2: Call Lightning\nTurn 3: Swap to your Boneshard\nTurn 4: Blistering Cold\nTurn 5: Chop\nTurn 6: BONESTORM\nTurn 7: Chop\nBring in your Wild Jade Hatchling\nTurn 8: Call Lightning\nTurn 9: Swap to your Zandalari Anklerender\nTurn 10: Black Claw\n~: Hunting Party if needed\n",
+["name"] = "Tremblor - Rare",
 ["tags"] = {
-"122BBV",
-"ZL",
-"0127AI",
+"2107PH",
+"11231TB",
+"202415R",
 },
-["teamID"] = "team:148",
-["preferences"] = {
-["minHP"] = 248,
-["allowMM"] = true,
-["minXP"] = 2,
-},
+["teamID"] = "team:184",
 ["targets"] = {
-66734,
+200693,
 },
-["groupID"] = "group:2",
+["groupID"] = "group:7",
 },
 ["team:266"] = {
 ["pets"] = {
@@ -6917,43 +7063,51 @@ Rematch5SavedTeams = {
 },
 ["groupID"] = "group:3",
 },
-["team:271"] = {
+["team:148"] = {
 ["pets"] = {
-"BattlePet-0-00000E0BBDCE",
-"BattlePet-0-00000E0BBD1B",
+"BattlePet-0-00000E0BBD49",
+0,
+"BattlePet-0-00000E0BBD09",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/455\n\nOld as pet battles themselves, credit uncertain.\n\nTurn 1: Pump\nTurn 2: Cleansing Rain\nTurn 3+: Water Jet until Siren dies\nToothbreaker comes in\nTurn 1: Pump\nTurn 2: Cleansing Rain\nTurn 3: Pump\nTurn 4+: Water Jet until Toothbreaker dies\nBrood of Mothallus comes in\nTurn 1: Pump\nTurn 2+: Water Jet until Aqua Strider dies\nBring in your Level Pet\nTurn 1: Swap to your Darkmoon Tonk\nTurn 2: Shock and Awe\nTurn 3: Ion Cannon\n",
+["name"] = "Farmer Nishi",
+["tags"] = {
+"122BBV",
+"ZL",
+"0127AI",
+},
+["teamID"] = "team:148",
+["preferences"] = {
+["minHP"] = 248,
+["allowMM"] = true,
+["minXP"] = 2,
+},
+["targets"] = {
+66734,
+},
+["groupID"] = "group:2",
+},
+["team:156"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBDB3",
+0,
 0,
 },
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/6593\n\nStrategy added by Threewolves\nThis strategy has been updated to include the possibilities of stuns. Hopefully, it accounts for all variables.\n\nTurn 1: Black Claw\nTurns 2+: Flock\nTurn 3: Black Claw\nTurns 4+: Flock til Ikky dies or gets stunned.\nBring in your Darkmoon Zeppelin if Ikky was stunned.\nBring in your Level Pet if Ikky died. Then, swap to your Darkmoon Zeppelin. Pass if stunned.\nTurn 1: Decoy (skip if leveling pet has already been swapped in)\nTurn 2: Swap to your Level Pet. (skip if leveling pet has already been swapped in)\nTurn 3: Swap to your Darkmoon Zeppelin. (skip if leveling pet has already been swapped in)\nTurns 4+: Missile til Carl is below 573 HP.\nTurn 5: Explode\n",
-["name"] = "Moon, Mouthy, and Carl",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8545\n\nStrategy added by Phil\nTurn 1: Wind-Up\nTurn 2: Wind-Up\nTurn 3: Explode\nLevel 1 Pets get 160xp each whil wearing Safari Hat\n",
+["name"] = "Gnawface",
 ["tags"] = {
-"01181FS",
-"122CAJ",
+"10261BB",
+"ZL",
 "ZL",
 },
-["teamID"] = "team:271",
-["groupID"] = "group:3",
+["teamID"] = "team:156",
 ["preferences"] = {
 ["minXP"] = 1,
 },
-},
-["team:81"] = {
-["pets"] = {
-"BattlePet-0-00000E0BBEE1",
-"BattlePet-0-00000E0BBDEC",
-"BattlePet-0-00000E0BBD2E",
-},
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9362\n\nStrategy added by DragonsAfterDark\nVideo for Fight (https://www.youtube.com/watch?v=17aS0q2OGbk)\n\nAlternate 12 round strategy here (https://www.wow-petguide.com/Strategy/14982/Natural_Defenders) . Pretty sure it's as stable as you can get!\n\nTurn 1: Greench's Gift\nTurn 2: Booby-Trapped Presents\nTurn 3+: Club until Slugger dies\nRunehoof comes in\nTurn 1+: Club until Rotten Little Helper dies\nBring in your Draenei Micro Defender\nTurn 1: Ion Cannon\nDuster comes in\nTurn 1: Recover\nTurn 2: Recover\nTurn 3+: Metal Fist until Draenei Micro Defender dies\nBring in your Nexus Whelpling\nTurn 1: Arcane Storm\nTurn 2-4: Mana Surge\nTurn 5: Arcane Storm\n",
-["name"] = "Natural Defenders",
-["tags"] = {
-"11141A5",
-"10281DA",
-"122414D",
-},
-["teamID"] = "team:81",
 ["targets"] = {
-173372,
+85419,
 },
-["groupID"] = "group:6",
+["groupID"] = "group:3",
 },
 ["team:274"] = {
 ["pets"] = {
@@ -6991,6 +7145,66 @@ Rematch5SavedTeams = {
 ["groupID"] = "group:none",
 ["targets"] = {
 67370,
+},
+},
+["team:81"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBEE1",
+"BattlePet-0-00000E0BBDEC",
+"BattlePet-0-00000E0BBD2E",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/9362\n\nStrategy added by DragonsAfterDark\nVideo for Fight (https://www.youtube.com/watch?v=17aS0q2OGbk)\n\nAlternate 12 round strategy here (https://www.wow-petguide.com/Strategy/14982/Natural_Defenders) . Pretty sure it's as stable as you can get!\n\nTurn 1: Greench's Gift\nTurn 2: Booby-Trapped Presents\nTurn 3+: Club until Slugger dies\nRunehoof comes in\nTurn 1+: Club until Rotten Little Helper dies\nBring in your Draenei Micro Defender\nTurn 1: Ion Cannon\nDuster comes in\nTurn 1: Recover\nTurn 2: Recover\nTurn 3+: Metal Fist until Draenei Micro Defender dies\nBring in your Nexus Whelpling\nTurn 1: Arcane Storm\nTurn 2-4: Mana Surge\nTurn 5: Arcane Storm\n",
+["name"] = "Natural Defenders",
+["tags"] = {
+"11141A5",
+"10281DA",
+"122414D",
+},
+["teamID"] = "team:81",
+["targets"] = {
+173372,
+},
+["groupID"] = "group:6",
+},
+["team:282"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBF3E",
+"BattlePet-0-00000E0BBDCE",
+"random:0",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/21500\n\nStrategy added by DragonsAfterDark\nPrio 1: Blistering Cold on CD\nPrio 2: Chop for the DoT & as filler when Blistering Cold & BONESTORM!! are on CD\nPrio 3: BONESTORM!!\nBring in your Ikky\nTurn 1: Black Claw\nTurns 2-4: Flock\n",
+["name"] = "The Thing from the Swamp",
+["tags"] = {
+"11231TB",
+"01181FS",
+"ZR0",
+},
+["teamID"] = "team:282",
+["preferences"] = {
+["minXP"] = 25,
+},
+["groupID"] = "group:9",
+["targets"] = {
+223409,
+},
+},
+["team:283"] = {
+["pets"] = {
+"BattlePet-0-00000E0BBEBE",
+"BattlePet-0-00000E0BBD1B",
+"BattlePet-0-00000E0BBDB3",
+},
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/21902\n\nStrategy added by Lukiwuki\nScript by \"DragonsAfterDark\"\n\nTurn 1: Swarm of Flies\nTurn 2: Bubble\nTurn 3: Swarm of Flies\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Water Jet\nSir Pounce comes in\nTurn 1: Water Jet\nTurn 2: Swarm of Flies\nTurn 3: Water Jet\nBring in your Darkmoon Zeppelin\nTurn 1: Bombing Run\nTurn 2: Decoy\nTurn 3: Missile\nTurn 4: Missile\nTurn 5: Bombing Run\nTurn 6: Missile\nTurn 7: Missile\nTurn 1: Missile\n",
+["name"] = "Miniature Army",
+["tags"] = {
+"12171SE",
+"112CAJ",
+"12161BB",
+},
+["teamID"] = "team:283",
+["groupID"] = "group:9",
+["targets"] = {
+223442,
 },
 },
 }
@@ -7080,60 +7294,6 @@ Rematch5SavedGroups = {
 "team:279",
 },
 },
-["group:none"] = {
-["showTab"] = true,
-["sortMode"] = 1,
-["isExpanded"] = true,
-["name"] = "Ungrouped Teams",
-["meta"] = true,
-["icon"] = "Interface\\Icons\\PetJournalPortrait",
-["groupID"] = "group:none",
-["teams"] = {
-"team:278",
-"team:268",
-"team:277",
-"team:272",
-"team:276",
-"team:274",
-"team:84",
-},
-},
-["group:6"] = {
-["showTab"] = true,
-["sortMode"] = 1,
-["isExpanded"] = true,
-["name"] = "Shadowlands",
-["groupID"] = "group:6",
-["icon"] = 237542,
-["teams"] = {
-"team:98",
-"team:114",
-"team:60",
-"team:12",
-"team:17",
-"team:132",
-"team:9",
-"team:30",
-"team:152",
-"team:139",
-"team:185",
-"team:33",
-"team:224",
-"team:215",
-"team:94",
-"team:143",
-"team:130",
-"team:127",
-"team:19",
-"team:81",
-"team:105",
-"team:24",
-"team:26",
-"team:183",
-"team:125",
-"team:217",
-},
-},
 ["group:3"] = {
 ["showTab"] = true,
 ["sortMode"] = 1,
@@ -7188,6 +7348,42 @@ Rematch5SavedGroups = {
 "team:264",
 },
 },
+["group:none"] = {
+["showTab"] = true,
+["sortMode"] = 1,
+["isExpanded"] = true,
+["name"] = "Ungrouped Teams",
+["meta"] = true,
+["icon"] = "Interface\\Icons\\PetJournalPortrait",
+["groupID"] = "group:none",
+["teams"] = {
+"team:278",
+"team:268",
+"team:277",
+"team:272",
+"team:276",
+"team:274",
+"team:84",
+},
+},
+["group:9"] = {
+["sortMode"] = 1,
+["name"] = "War Within",
+["teams"] = {
+"team:284",
+"team:283",
+"team:280",
+"team:286",
+"team:287",
+"team:285",
+"team:282",
+"team:281",
+},
+["color"] = "FFF468",
+["groupID"] = "group:9",
+["icon"] = 132093,
+["isExpanded"] = true,
+},
 ["group:favorites"] = {
 ["showTab"] = true,
 ["sortMode"] = 1,
@@ -7198,6 +7394,42 @@ Rematch5SavedGroups = {
 ["groupID"] = "group:favorites",
 ["icon"] = "Interface\\Icons\\ACHIEVEMENT_GUILDPERK_MRPOPULARITY_RANK2",
 ["isExpanded"] = true,
+},
+["group:6"] = {
+["showTab"] = true,
+["sortMode"] = 1,
+["isExpanded"] = true,
+["name"] = "Shadowlands",
+["groupID"] = "group:6",
+["icon"] = 237542,
+["teams"] = {
+"team:98",
+"team:114",
+"team:60",
+"team:12",
+"team:17",
+"team:132",
+"team:9",
+"team:30",
+"team:152",
+"team:139",
+"team:185",
+"team:33",
+"team:224",
+"team:215",
+"team:94",
+"team:143",
+"team:130",
+"team:127",
+"team:19",
+"team:81",
+"team:105",
+"team:24",
+"team:26",
+"team:183",
+"team:125",
+"team:217",
+},
 },
 ["group:5"] = {
 ["showTab"] = true,
@@ -7539,6 +7771,12 @@ Rematch5SavedTargets = {
 [71927] = {
 "team:53",
 },
+[223442] = {
+"team:283",
+},
+[223443] = {
+"team:281",
+},
 [128010] = {
 "team:54",
 },
@@ -7550,6 +7788,9 @@ Rematch5SavedTargets = {
 },
 [117950] = {
 "team:57",
+},
+[223444] = {
+"team:285",
 },
 [197447] = {
 "team:58",
@@ -7571,6 +7812,9 @@ Rematch5SavedTargets = {
 },
 [117951] = {
 "team:64",
+},
+[223446] = {
+"team:287",
 },
 [79179] = {
 "team:65",
@@ -7842,6 +8086,9 @@ Rematch5SavedTargets = {
 [162469] = {
 "team:154",
 },
+[223406] = {
+"team:280",
+},
 [140880] = {
 "team:155",
 },
@@ -7850,6 +8097,9 @@ Rematch5SavedTargets = {
 },
 [94649] = {
 "team:157",
+},
+[223407] = {
+"team:286",
 },
 [128024] = {
 "team:158",
@@ -7917,26 +8167,32 @@ Rematch5SavedTargets = {
 [85519] = {
 "team:277",
 },
+[85624] = {
+"team:28",
+},
 [105512] = {
 "team:181",
 },
 [116786] = {
 "team:182",
 },
-[85624] = {
-"team:28",
-},
 [197350] = {
 "team:262",
-},
-[173274] = {
-"team:185",
 },
 [200693] = {
 "team:184",
 },
 [94643] = {
 "team:260",
+},
+[173274] = {
+"team:185",
+},
+[105352] = {
+"team:193",
+},
+[162471] = {
+"team:161",
 },
 [68465] = {
 "team:188",
@@ -7953,17 +8209,17 @@ Rematch5SavedTargets = {
 [141529] = {
 "team:192",
 },
-[105352] = {
-"team:193",
+[87124] = {
+"team:265",
 },
-[162471] = {
-"team:161",
+[116791] = {
+"team:194",
 },
 [104970] = {
 "team:195",
 },
-[202452] = {
-"team:263",
+[71930] = {
+"team:70",
 },
 [116787] = {
 "team:197",
@@ -7971,23 +8227,23 @@ Rematch5SavedTargets = {
 [200678] = {
 "team:198",
 },
-[116791] = {
-"team:194",
-},
-[71930] = {
-"team:70",
-},
 [106542] = {
 "team:211",
 },
 [173331] = {
 "team:183",
 },
-[85463] = {
-"team:199",
+[175785] = {
+"team:215",
 },
 [72291] = {
 "team:220",
+},
+[85463] = {
+"team:199",
+},
+[154926] = {
+"team:241",
 },
 [200679] = {
 "team:253",
@@ -8001,8 +8257,8 @@ Rematch5SavedTargets = {
 [105386] = {
 "team:207",
 },
-[119342] = {
-"team:196",
+[162470] = {
+"team:247",
 },
 [175786] = {
 "team:224",
@@ -8010,8 +8266,8 @@ Rematch5SavedTargets = {
 [142234] = {
 "team:210",
 },
-[162470] = {
-"team:247",
+[72009] = {
+"team:249",
 },
 [119343] = {
 "team:212",
@@ -8022,23 +8278,23 @@ Rematch5SavedTargets = {
 [119407] = {
 "team:214",
 },
-[204926] = {
-"team:209",
+[141077] = {
+"team:246",
 },
 [105674] = {
 "team:216",
 },
-[72009] = {
-"team:249",
-},
-[141077] = {
-"team:246",
-},
 [202440] = {
 "team:245",
 },
-[105387] = {
-"team:239",
+[85622] = {
+"team:226",
+},
+[154928] = {
+"team:201",
+},
+[116790] = {
+"team:225",
 },
 [105323] = {
 "team:221",
@@ -8049,20 +8305,20 @@ Rematch5SavedTargets = {
 [105898] = {
 "team:223",
 },
-[104553] = {
-"team:218",
-},
-[116790] = {
-"team:225",
-},
 [139489] = {
 "team:238",
 },
 [162466] = {
 "team:144",
 },
+[105009] = {
+"team:21",
+},
 [119344] = {
 "team:233",
+},
+[189376] = {
+"team:227",
 },
 [85650] = {
 "team:228",
@@ -8070,35 +8326,29 @@ Rematch5SavedTargets = {
 [119408] = {
 "team:229",
 },
-[105009] = {
-"team:21",
-},
-[189376] = {
-"team:227",
-},
 [105842] = {
 "team:39",
 },
-[141215] = {
-"team:232",
-},
-[116789] = {
-"team:230",
+[162468] = {
+"team:219",
 },
 [141588] = {
 "team:240",
 },
+[141215] = {
+"team:232",
+},
 [128022] = {
 "team:147",
 },
-[68564] = {
-"team:236",
+[116789] = {
+"team:230",
 },
 [154919] = {
 "team:202",
 },
-[162468] = {
-"team:219",
+[68564] = {
+"team:236",
 },
 [197336] = {
 "team:180",
@@ -8109,6 +8359,12 @@ Rematch5SavedTargets = {
 [119341] = {
 "team:261",
 },
+[105387] = {
+"team:239",
+},
+[104553] = {
+"team:218",
+},
 [119345] = {
 "team:242",
 },
@@ -8118,20 +8374,20 @@ Rematch5SavedTargets = {
 [119409] = {
 "team:244",
 },
-[154928] = {
-"team:201",
-},
-[85622] = {
-"team:226",
-},
 [66741] = {
 "team:257",
+},
+[204926] = {
+"team:209",
+},
+[116788] = {
+"team:235",
 },
 [201004] = {
 "team:248",
 },
-[116788] = {
-"team:235",
+[119342] = {
+"team:196",
 },
 [104782] = {
 "team:250",
@@ -8142,32 +8398,26 @@ Rematch5SavedTargets = {
 [68565] = {
 "team:252",
 },
-[154926] = {
-"team:241",
+[173267] = {
+"team:217",
 },
 [201899] = {
 "team:254",
 },
-[173267] = {
-"team:217",
-},
-[175785] = {
-"team:215",
-},
 [128014] = {
 "team:204",
+},
+[94646] = {
+"team:264",
+},
+[202452] = {
+"team:263",
 },
 [119346] = {
 "team:258",
 },
 [200686] = {
 "team:259",
-},
-[94646] = {
-"team:264",
-},
-[87124] = {
-"team:265",
 },
 [107489] = {
 "team:203",
@@ -8180,6 +8430,12 @@ Rematch5SavedTargets = {
 },
 [67370] = {
 "team:276",
+},
+[223409] = {
+"team:282",
+},
+[222535] = {
+"team:284",
 },
 }
 Rematch4Saved = {
@@ -16182,15 +16438,15 @@ true,
 243,
 3,
 },
-["BattlePet-0-00000E0BBEF9"] = {
-1,
+["BattlePet-0-00000E0BBF21"] = {
+10,
 true,
-1913,
-23,
-1273,
-235,
-235,
-3,
+1975,
+25,
+1546,
+289,
+260,
+4,
 },
 ["BattlePet-0-000021241BBB"] = {
 1,
@@ -16202,14 +16458,14 @@ true,
 219,
 2,
 },
-["BattlePet-0-00000E0BBF21"] = {
-10,
+["BattlePet-0-00000E0BBE76"] = {
+2,
 true,
-1975,
+817,
 25,
-1546,
+1627,
 289,
-260,
+244,
 4,
 },
 ["BattlePet-0-000021A13D8B"] = {
@@ -16342,6 +16598,16 @@ true,
 257,
 4,
 },
+["BattlePet-0-00000E0BBF03"] = {
+1,
+true,
+1592,
+23,
+1259,
+232,
+246,
+3,
+},
 ["BattlePet-0-00000E0BBDE6"] = {
 1,
 true,
@@ -16351,16 +16617,6 @@ true,
 273,
 273,
 4,
-},
-["BattlePet-0-000021A14C46"] = {
-1,
-true,
-2373,
-23,
-1204,
-276,
-221,
-3,
 },
 ["BattlePet-0-00002107EE9F"] = {
 4,
@@ -16402,14 +16658,14 @@ true,
 211,
 4,
 },
-["BattlePet-0-00000E0BBF03"] = {
+["BattlePet-0-000021A14C46"] = {
 1,
 true,
-1592,
+2373,
 23,
-1259,
-232,
-246,
+1204,
+276,
+221,
 3,
 },
 ["BattlePet-0-000021A13CD2"] = {
@@ -16532,15 +16788,15 @@ true,
 260,
 4,
 },
-["BattlePet-0-00000E0BBE76"] = {
-2,
+["BattlePet-0-00000E0BBEF9"] = {
+1,
 true,
-817,
-25,
-1627,
-289,
-244,
-4,
+1913,
+23,
+1273,
+235,
+235,
+3,
 },
 ["BattlePet-0-00000E0BBC81"] = {
 1,

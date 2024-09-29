@@ -1,10 +1,23 @@
 
 NarciBarberShopDB = {
+["SharedSavedLooks"] = {
+},
+["ToggleNotification"] = true,
+["Hotkeys"] = {
+["RotateRight"] = "D",
+["RotateLeft"] = "A",
+["ZoomOut"] = "S",
+["ZoomIn"] = "W",
+},
 ["PlayerData"] = {
 ["0EE8A760"] = {
-["playerName"] = "Estuary",
 ["realmID"] = "75",
+["playerName"] = "Estuary",
+["realmName"] = "Argent Dawn",
+["classID"] = 4,
 ["SavedLooks"] = {
+["chrModel202"] = {
+},
 [22] = {
 ["male"] = {
 },
@@ -17,13 +30,11 @@ NarciBarberShopDB = {
 ["female"] = {
 },
 },
+["chrModel124"] = {
 },
-["realmName"] = "Argent Dawn",
+},
 },
 ["0E71AEB0"] = {
-["classID"] = 10,
-["playerName"] = "Strid",
-["realmID"] = "3693",
 ["SavedLooks"] = {
 [29] = {
 ["male"] = {
@@ -34,12 +45,12 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["playerName"] = "Strid",
 ["realmName"] = "Kel'Thuzad",
+["classID"] = 10,
+["realmID"] = "3693",
 },
 ["0EE5568B"] = {
-["classID"] = 13,
-["playerName"] = "Alluvium",
-["realmName"] = "Argent Dawn",
 ["SavedLooks"] = {
 [52] = {
 ["male"] = {
@@ -56,7 +67,10 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["playerName"] = "Alluvium",
 ["realmID"] = "75",
+["classID"] = 13,
+["realmName"] = "Argent Dawn",
 },
 ["0EF90062"] = {
 ["playerName"] = "Flumina",
@@ -72,11 +86,12 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0EEA1695"] = {
-["realmName"] = "Argent Dawn",
-["playerName"] = "Riparium",
 ["realmID"] = "75",
+["playerName"] = "Riparium",
+["realmName"] = "Argent Dawn",
+["classID"] = 9,
 ["SavedLooks"] = {
-["chrModel182"] = {
+["chrModel183"] = {
 },
 ["chrModel149"] = {
 },
@@ -90,9 +105,9 @@ NarciBarberShopDB = {
 ["female"] = {
 },
 },
-["chrModel148"] = {
+["chrModel180"] = {
 },
-["chrModel183"] = {
+["chrModel182"] = {
 },
 ["chrModel181"] = {
 },
@@ -108,10 +123,9 @@ NarciBarberShopDB = {
 },
 ["chrModel124"] = {
 },
-["chrModel180"] = {
+["chrModel148"] = {
 },
 },
-["classID"] = 9,
 },
 ["0EEA10F9"] = {
 ["playerName"] = "Headcut",
@@ -129,10 +143,9 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0E792E1F"] = {
-["realmName"] = "Kel'Thuzad",
-["playerName"] = "Gelae",
 ["realmID"] = "3693",
-["classID"] = 5,
+["playerName"] = "Gelae",
+["realmName"] = "Kel'Thuzad",
 ["SavedLooks"] = {
 [9] = {
 ["male"] = {
@@ -143,10 +156,12 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["classID"] = 5,
 },
 ["0F471196"] = {
+["classID"] = 12,
 ["playerName"] = "Cataracts",
-["realmID"] = "75",
+["realmName"] = "Argent Dawn",
 ["SavedLooks"] = {
 [10] = {
 ["male"] = {
@@ -157,7 +172,7 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["realmName"] = "Argent Dawn",
+["realmID"] = "75",
 },
 ["0F3C82E0"] = {
 ["playerName"] = "Stream",
@@ -175,10 +190,9 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0E6E2E59"] = {
-["realmName"] = "Kel'Thuzad",
-["playerName"] = "Esker",
 ["realmID"] = "3693",
-["classID"] = 1,
+["playerName"] = "Esker",
+["realmName"] = "Kel'Thuzad",
 ["SavedLooks"] = {
 [35] = {
 ["male"] = {
@@ -189,6 +203,7 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["classID"] = 1,
 },
 ["0EEA107B"] = {
 ["playerName"] = "Sverdrup",
@@ -202,6 +217,7 @@ NarciBarberShopDB = {
 },
 ["chrModel124"] = {
 {
+["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 ["data"] = {
 {
 1612,
@@ -281,7 +297,6 @@ NarciBarberShopDB = {
 },
 },
 ["name"] = "New Look #1",
-["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 ["timeCreated"] = 1672083038,
 },
 },
@@ -324,14 +339,5 @@ NarciBarberShopDB = {
 },
 ["realmName"] = "Argent Dawn",
 },
-},
-["ToggleNotification"] = true,
-["SharedSavedLooks"] = {
-},
-["Hotkeys"] = {
-["RotateRight"] = "D",
-["RotateLeft"] = "A",
-["ZoomOut"] = "S",
-["ZoomIn"] = "W",
 },
 }
