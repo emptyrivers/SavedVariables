@@ -1,17 +1,9 @@
 
 M6DB = {
+["enableBrokeredDominos"] = true,
 ["icRangeColor"] = "ffffff",
-["groups"] = {
-},
-["enableClientBars"] = true,
-["icManaColor"] = "8080ff",
-["actions"] = {
-{
-"macrotext",
-"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal",
-["name"] = "flash",
-},
-},
+["enableBrokeredNative"] = true,
+["enableBrokeredLAB10"] = true,
 ["profiles"] = {
 ["Korgath"] = {
 ["Naturerivers"] = {
@@ -29,8 +21,24 @@ M6DB = {
 },
 },
 },
+["The Scryers"] = {
+["Wildeadoriah"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[5] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
 ["Kel'Thuzad"] = {
-["Inundito"] = {
+["Gelae"] = {
 {
 ["slots"] = {
 },
@@ -70,27 +78,27 @@ M6DB = {
 },
 },
 },
-["Gelae"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-},
 ["Esker"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Inundito"] = {
 {
 ["slots"] = {
 },
@@ -151,22 +159,6 @@ M6DB = {
 },
 },
 },
-["The Scryers"] = {
-["Wildeadoriah"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-[5] = {
-["slots"] = {
-},
-["bind"] = {
-},
-},
-},
-},
 ["Sargeras"] = {
 ["Calestin"] = {
 {
@@ -212,13 +204,7 @@ M6DB = {
 },
 },
 },
-["Mangrove"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
+["Flumina"] = {
 {
 ["slots"] = {
 },
@@ -280,7 +266,13 @@ M6DB = {
 },
 },
 },
-["Flumina"] = {
+["Mangrove"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
 {
 ["slots"] = {
 },
@@ -320,6 +312,26 @@ M6DB = {
 },
 },
 },
+["Riparium"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
 ["Confluence"] = {
 {
 ["slots"] = {
@@ -334,19 +346,7 @@ M6DB = {
 },
 },
 },
-["Riparium"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
+["Riptides"] = {
 {
 ["slots"] = {
 },
@@ -444,4 +444,14 @@ M6DB = {
 },
 },
 },
+["groups"] = {
+},
+["actions"] = {
+{
+"macrotext",
+"/cast [mod:alt,@player][@mouseover, help, nodead][@anyfriend, help, nodead][@player] Flash Heal",
+["name"] = "flash",
+},
+},
+["icManaColor"] = "8080ff",
 }

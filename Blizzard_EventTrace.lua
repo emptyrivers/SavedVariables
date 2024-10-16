@@ -1,25 +1,25 @@
 
 EventTraceSavedVars = {
 ["ShowTimestamp"] = true,
-["Size"] = {
-["Height"] = 744.8571166992188,
-["Width"] = 1196.071899414063,
-},
+["LogEventsWhenHidden"] = false,
 ["ShowArguments"] = true,
+["LogCREvents"] = false,
 ["Filters"] = {
 ["User"] = {
 {
 ["enabled"] = true,
-["event"] = "SPELL_ACTIVATION_OVERLAY_HIDE",
-["displayEvent"] = "SPELL_ACTIVATION_OVERLAY_HIDE",
+["event"] = "COMBAT_LOG_EVENT_UNFILTERED",
+["displayEvent"] = "COMBAT_LOG_EVENT_UNFILTERED",
 },
 {
 ["enabled"] = true,
-["event"] = "UPDATE_UI_WIDGET",
-["displayEvent"] = "UPDATE_UI_WIDGET",
+["event"] = "ITEM_DATA_LOAD_RESULT",
+["displayEvent"] = "ITEM_DATA_LOAD_RESULT",
 },
 },
 },
-["LogCREvents"] = false,
-["LogEventsWhenHidden"] = false,
+["Size"] = {
+["Height"] = 365.4288024902344,
+["Width"] = 875,
+},
 }

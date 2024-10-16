@@ -21,10 +21,11 @@ SimulationCraftDB = {
 ["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
+["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
 ["Garumn - Arthas"] = "Garumn - Arthas",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
+["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 ["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 ["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
@@ -32,8 +33,8 @@ SimulationCraftDB = {
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
-["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -84,13 +85,15 @@ SimulationCraftDB = {
 },
 ["Mahntaiaga - Arthas"] = {
 },
+["Riptides - Argent Dawn"] = {
+},
 ["Garumn - Arthas"] = {
 },
-["Sverdrup - Argent Dawn"] = {
+["Emptyrivers - Sargeras"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
-["Esker - Kel'Thuzad"] = {
+["Lotic - Argent Dawn"] = {
 },
 ["Zimuures - Argent Dawn"] = {
 },
@@ -98,8 +101,8 @@ SimulationCraftDB = {
 },
 ["Riparium - Argent Dawn"] = {
 ["frame"] = {
-["ofsx"] = -98.28571319580078,
-["ofsy"] = -48.76213836669922,
+["ofsx"] = -100.5714416503906,
+["ofsy"] = -48.00022506713867,
 },
 },
 ["Wildeadoriah - The Scryers"] = {
@@ -116,9 +119,9 @@ SimulationCraftDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Lotic - Argent Dawn"] = {
+["Esker - Kel'Thuzad"] = {
 },
-["Emptyrivers - Sargeras"] = {
+["Sverdrup - Argent Dawn"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },

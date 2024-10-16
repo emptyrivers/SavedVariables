@@ -1,12 +1,13 @@
 
 PremadeGroupsFilterSettings = {
 ["signupOnEnter"] = false,
-["persistSignUpNote"] = true,
-["dialogMovable"] = true,
-["ratingInfo"] = true,
-["classNamesInTooltip"] = true,
-["oneClickSignUp"] = true,
+["specIcon"] = false,
+["rioRatingColors"] = true,
 ["coloredGroupTexts"] = true,
+["ratingInfo"] = true,
+["persistSignUpNote"] = true,
+["oneClickSignUp"] = true,
+["dialogMovable"] = true,
 ["leaderCrown"] = false,
 ["missingRoles"] = false,
 ["version"] = 3,
@@ -14,5 +15,5 @@ PremadeGroupsFilterSettings = {
 ["signUpDeclined"] = false,
 ["classCircle"] = false,
 ["skipSignUpDialog"] = false,
-["specIcon"] = false,
+["classNamesInTooltip"] = true,
 }

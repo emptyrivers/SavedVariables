@@ -32,18 +32,18 @@ RaiderIO_Config = {
 ["hide"] = false,
 ["lock"] = false,
 },
-["enableWhoTooltips"] = true,
+["replaySelection"] = "user_best_replay",
 ["dockReplay"] = false,
 ["showScoreInCombat"] = true,
 ["lockProfile"] = false,
-["replaySelection"] = "user_best_replay",
+["enableWhoTooltips"] = true,
 ["showRaiderIOProfile"] = false,
 ["enableGuildTooltips"] = true,
 ["enableClientEnhancements"] = true,
 ["enableProfileModifier"] = true,
-["enableUnitTooltips"] = true,
-["enableFriendsTooltips"] = true,
 ["showRoleIcons"] = true,
+["enableFriendsTooltips"] = true,
+["enableUnitTooltips"] = true,
 ["positionProfileAuto"] = true,
 ["inverseProfileModifier"] = false,
 ["showDropDownCopyURL"] = true,
@@ -61,10 +61,9 @@ RaiderIO_Config = {
 },
 ["showClientGuildBest"] = true,
 }
-RaiderIO_LastCharacter = "us-Headcut-argent-dawn"
+RaiderIO_LastCharacter = "us-Estuary-argent-dawn"
 RaiderIO_MissingCharacters = {
-["us-Headcut-argent-dawn"] = true,
-["us-Moosemonk-argent-dawn"] = true,
+["us-Lebeau-argent-dawn"] = true,
 }
 RaiderIO_MissingServers = {
 }
