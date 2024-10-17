@@ -12,19 +12,19 @@ HandyNotes_TreasureHunterDB = {
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
+["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
-["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 ["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
+["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -58,15 +58,9 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Alluvium - Argent Dawn"] = {
 },
-["Saellindris - Kel'Thuzad"] = {
+["Stream - Argent Dawn"] = {
 },
-["Esker - Kel'Thuzad"] = {
-["achievementsHidden"] = {
-[9728] = true,
-},
-["groupsHidden"] = {
-["evershiftingmirror"] = true,
-},
+["Riparium - Argent Dawn"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -74,21 +68,27 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Riptides - Argent Dawn"] = {
+["Benthos - Argent Dawn"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
-["Benthos - Argent Dawn"] = {
+["Riptides - Argent Dawn"] = {
 },
 ["Emptyrivers - Argent Dawn"] = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Esker - Kel'Thuzad"] = {
+["groupsHidden"] = {
+["evershiftingmirror"] = true,
 },
-["Stream - Argent Dawn"] = {
+["achievementsHidden"] = {
+[9728] = true,
+},
+},
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },

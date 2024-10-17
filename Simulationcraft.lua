@@ -22,19 +22,19 @@ SimulationCraftDB = {
 ["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
 ["Mahntaiaga - Arthas"] = "Mahntaiaga - Arthas",
 ["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
-["Garumn - Arthas"] = "Garumn - Arthas",
-["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
 ["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 ["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
+["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+["Garumn - Arthas"] = "Garumn - Arthas",
 ["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
@@ -87,9 +87,9 @@ SimulationCraftDB = {
 },
 ["Riptides - Argent Dawn"] = {
 },
-["Garumn - Arthas"] = {
+["Sverdrup - Argent Dawn"] = {
 },
-["Emptyrivers - Sargeras"] = {
+["Esker - Kel'Thuzad"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -99,29 +99,29 @@ SimulationCraftDB = {
 },
 ["Mothugeon - Argent Dawn"] = {
 },
+["Ochrian - Argent Dawn"] = {
+},
+["Wildeadoriah - The Scryers"] = {
+},
 ["Riparium - Argent Dawn"] = {
 ["frame"] = {
 ["ofsx"] = -100.5714416503906,
 ["ofsy"] = -48.00022506713867,
 },
 },
-["Wildeadoriah - The Scryers"] = {
-},
-["Ochrian - Argent Dawn"] = {
-},
 ["Emptyrivers - Argent Dawn"] = {
 ["frame"] = {
 ["ofsx"] = 90.666748046875,
-["ofsy"] = 105.5236053466797,
 ["point"] = "BOTTOM",
 ["relativePoint"] = "BOTTOM",
+["ofsy"] = 105.5236053466797,
 },
 },
 ["Karst - Argent Dawn"] = {
 },
-["Esker - Kel'Thuzad"] = {
+["Emptyrivers - Sargeras"] = {
 },
-["Sverdrup - Argent Dawn"] = {
+["Garumn - Arthas"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },
