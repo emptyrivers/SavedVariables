@@ -1,20 +1,7 @@
 
 NarciBarberShopDB = {
-["SharedSavedLooks"] = {
-},
-["ToggleNotification"] = true,
-["Hotkeys"] = {
-["RotateRight"] = "D",
-["RotateLeft"] = "A",
-["ZoomOut"] = "S",
-["ZoomIn"] = "W",
-},
 ["PlayerData"] = {
 ["0EE8A760"] = {
-["realmID"] = "75",
-["playerName"] = "Estuary",
-["realmName"] = "Argent Dawn",
-["classID"] = 4,
 ["SavedLooks"] = {
 ["chrModel202"] = {
 },
@@ -33,8 +20,15 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["playerName"] = "Estuary",
+["realmID"] = "75",
+["classID"] = 4,
+["realmName"] = "Argent Dawn",
 },
 ["0E71AEB0"] = {
+["realmID"] = "3693",
+["playerName"] = "Strid",
+["realmName"] = "Kel'Thuzad",
 ["SavedLooks"] = {
 [29] = {
 ["male"] = {
@@ -45,12 +39,12 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["playerName"] = "Strid",
-["realmName"] = "Kel'Thuzad",
 ["classID"] = 10,
-["realmID"] = "3693",
 },
 ["0EE5568B"] = {
+["realmName"] = "Argent Dawn",
+["playerName"] = "Alluvium",
+["realmID"] = "75",
 ["SavedLooks"] = {
 [52] = {
 ["male"] = {
@@ -67,10 +61,7 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["playerName"] = "Alluvium",
-["realmID"] = "75",
 ["classID"] = 13,
-["realmName"] = "Argent Dawn",
 },
 ["0EF90062"] = {
 ["playerName"] = "Flumina",
@@ -85,19 +76,29 @@ NarciBarberShopDB = {
 },
 ["realmName"] = "Argent Dawn",
 },
-["0EEA1695"] = {
+["0F40E777"] = {
+["classID"] = 8,
+["playerName"] = "Emptyrivers",
 ["realmID"] = "75",
-["playerName"] = "Riparium",
-["realmName"] = "Argent Dawn",
-["classID"] = 9,
 ["SavedLooks"] = {
-["chrModel183"] = {
+[27] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+},
+["realmName"] = "Argent Dawn",
+},
+["0EEA1695"] = {
+["SavedLooks"] = {
+["chrModel148"] = {
 },
 ["chrModel149"] = {
 },
-["chrModel129"] = {
+["chrModel181"] = {
 },
-["chrModel184"] = {
+["chrModel123"] = {
 },
 [29] = {
 ["male"] = {
@@ -107,11 +108,11 @@ NarciBarberShopDB = {
 },
 ["chrModel180"] = {
 },
-["chrModel182"] = {
+["chrModel183"] = {
 },
-["chrModel181"] = {
+["chrModel129"] = {
 },
-["chrModel123"] = {
+["chrModel184"] = {
 },
 ["chrModel126"] = {
 },
@@ -123,9 +124,13 @@ NarciBarberShopDB = {
 },
 ["chrModel124"] = {
 },
-["chrModel148"] = {
+["chrModel182"] = {
 },
 },
+["playerName"] = "Riparium",
+["realmID"] = "75",
+["classID"] = 9,
+["realmName"] = "Argent Dawn",
 },
 ["0EEA10F9"] = {
 ["playerName"] = "Headcut",
@@ -143,9 +148,9 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0E792E1F"] = {
-["realmID"] = "3693",
+["classID"] = 5,
 ["playerName"] = "Gelae",
-["realmName"] = "Kel'Thuzad",
+["realmID"] = "3693",
 ["SavedLooks"] = {
 [9] = {
 ["male"] = {
@@ -156,23 +161,28 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["classID"] = 5,
+["realmName"] = "Kel'Thuzad",
 },
-["0F471196"] = {
-["classID"] = 12,
-["playerName"] = "Cataracts",
-["realmName"] = "Argent Dawn",
+["0EE580BC"] = {
+["playerName"] = "Emptyrivers",
+["realmID"] = "75",
 ["SavedLooks"] = {
-[10] = {
+["chrModel129"] = {
+},
+[7] = {
 ["male"] = {
 },
 ["female"] = {
 },
 },
+["chrModel126"] = {
+},
 ["chrModel124"] = {
 },
+["chrModel123"] = {
 },
-["realmID"] = "75",
+},
+["realmName"] = "Argent Dawn",
 },
 ["0F3C82E0"] = {
 ["playerName"] = "Stream",
@@ -190,9 +200,9 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0E6E2E59"] = {
-["realmID"] = "3693",
+["classID"] = 1,
 ["playerName"] = "Esker",
-["realmName"] = "Kel'Thuzad",
+["realmID"] = "3693",
 ["SavedLooks"] = {
 [35] = {
 ["male"] = {
@@ -203,7 +213,7 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["classID"] = 1,
+["realmName"] = "Kel'Thuzad",
 },
 ["0EEA107B"] = {
 ["playerName"] = "Sverdrup",
@@ -217,7 +227,6 @@ NarciBarberShopDB = {
 },
 ["chrModel124"] = {
 {
-["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 ["data"] = {
 {
 1612,
@@ -297,32 +306,28 @@ NarciBarberShopDB = {
 },
 },
 ["name"] = "New Look #1",
+["description"] = "Light Skin Scale Type, Red Scales Skin Color, Thorn Horns, Tan Horn Color, Light Horn Style, Toothy Snout, Bare Jaw, Bare Brow, Black Hair Color, Both Eyesight, Slit Eye Style, Bare Tail, Bare Throat, Saddle Body Armor, Bronze and Green Armor Color",
 ["timeCreated"] = 1672083038,
 },
 },
 },
 ["realmName"] = "Argent Dawn",
 },
-["0EE580BC"] = {
-["playerName"] = "Emptyrivers",
+["0F471196"] = {
 ["realmID"] = "75",
+["playerName"] = "Cataracts",
+["realmName"] = "Argent Dawn",
+["classID"] = 12,
 ["SavedLooks"] = {
-["chrModel129"] = {
-},
-[7] = {
+[10] = {
 ["male"] = {
 },
 ["female"] = {
 },
 },
-["chrModel126"] = {
-},
 ["chrModel124"] = {
 },
-["chrModel123"] = {
 },
-},
-["realmName"] = "Argent Dawn",
 },
 ["0EEA1257"] = {
 ["playerName"] = "Confluence",
@@ -339,5 +344,14 @@ NarciBarberShopDB = {
 },
 ["realmName"] = "Argent Dawn",
 },
+},
+["ToggleNotification"] = true,
+["SharedSavedLooks"] = {
+},
+["Hotkeys"] = {
+["ZoomIn"] = "W",
+["RotateLeft"] = "A",
+["ZoomOut"] = "S",
+["RotateRight"] = "D",
 },
 }

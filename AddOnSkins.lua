@@ -38,13 +38,15 @@ AddOnSkinsDB = {
 ["Default"] = {
 ["MinimalArchaeology"] = false,
 ["Auctionator"] = false,
+["EmbedBackdrop"] = false,
 ["EmbedBackdropTransparent"] = false,
 ["Immersion"] = false,
 ["Altoholic"] = false,
 ["ColorPickerPlus"] = false,
+["tdBattlePetScript"] = false,
 ["EmbedOoCDelay"] = 30,
-["EmbedBackdrop"] = false,
 ["EmbedBelowTop"] = true,
+["Simulationcraft"] = false,
 },
 },
 }

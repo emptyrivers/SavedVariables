@@ -74,12 +74,12 @@ PasteDB = {
 ["Beefyrivers - Bleeding Hollow"] = "Beefyrivers - Bleeding Hollow",
 ["Beefyrivers - Arthas"] = "Beefyrivers - Arthas",
 ["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
-["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
-["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
-["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
-["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
 ["Crazyrivers - Arthas"] = "Crazyrivers - Arthas",
+["Serenerivers - Sargeras"] = "Serenerivers - Sargeras",
+["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
+["Ragingrivers - Arthas"] = "Ragingrivers - Arthas",
+["Mecharivers - Sargeras"] = "Mecharivers - Sargeras",
+["Luckyrivers - Korgath"] = "Luckyrivers - Korgath",
 ["Brightrivers - Korgath"] = "Brightrivers - Korgath",
 ["Emptyrivers - Bleeding Hollow"] = "Emptyrivers - Bleeding Hollow",
 ["Notariver - Arthas"] = "Notariver - Arthas",
@@ -231,8 +231,8 @@ PasteDB = {
 },
 ["Emptyrivers - Argent Dawn"] = {
 ["loaded"] = true,
-["where"] = "Default",
 ["whispertarget"] = "",
+["where"] = "Default",
 ["pos"] = {
 },
 },
@@ -452,13 +452,10 @@ PasteDB = {
 ["Saellindris - Kel'Thuzad"] = {
 ["loaded"] = true,
 },
-["Luckyrivers - Korgath"] = {
+["Crazyrivers - Arthas"] = {
 ["loaded"] = true,
 },
 ["Serenerivers - Sargeras"] = {
-["loaded"] = true,
-},
-["Ragingrivers - Arthas"] = {
 ["loaded"] = true,
 },
 ["Emptyrivers - Sargeras"] = {
@@ -472,6 +469,9 @@ PasteDB = {
 ["width"] = 500.000030517578,
 },
 },
+["Ragingrivers - Arthas"] = {
+["loaded"] = true,
+},
 ["Mecharivers - Sargeras"] = {
 ["loaded"] = true,
 ["whispertarget"] = "",
@@ -479,7 +479,7 @@ PasteDB = {
 ["pos"] = {
 },
 },
-["Crazyrivers - Arthas"] = {
+["Luckyrivers - Korgath"] = {
 ["loaded"] = true,
 },
 ["Brightrivers - Korgath"] = {

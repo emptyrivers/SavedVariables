@@ -13,11 +13,11 @@ MythicDungeonToolsDB = {
 ["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
 ["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
 ["Ochrian - Argent Dawn"] = "Ochrian - Argent Dawn",
-["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
+["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
 ["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
 ["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
+["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
 ["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
 ["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
 ["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
@@ -25,7 +25,7 @@ MythicDungeonToolsDB = {
 ["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
 ["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
 ["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
 ["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
 ["Karst - Argent Dawn"] = "Karst - Argent Dawn",
 ["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
@@ -34,7 +34,7 @@ MythicDungeonToolsDB = {
 },
 ["global"] = {
 ["anchorTo"] = "CENTER",
-["currentDungeonIdx"] = 35,
+["currentDungeonIdx"] = 110,
 ["anchorFrom"] = "CENTER",
 ["minimap"] = {
 ["showInCompartment"] = true,
@@ -6742,16 +6742,6 @@ true,
 {
 ["n"] = true,
 ["d"] = {
-526.7153336469946,
--257.7279380307732,
-1,
-true,
-"you can instead pull the harvester/vanguard/soldier trio to the northeast, if you're confident you won't body pull this gatekeeper.",
-},
-},
-{
-["n"] = true,
-["d"] = {
 740.7025601142765,
 -436.3936654393319,
 1,
@@ -6771,15 +6761,25 @@ true,
 3,
 },
 {
-7,
-4,
-5,
-6,
+2,
+1,
+3,
 },
 {
-1,
 },
 ["color"] = "ff3eff",
+},
+{
+[3] = {
+1,
+},
+[2] = {
+5,
+4,
+6,
+7,
+},
+["color"] = "3eff9e",
 },
 {
 {
@@ -6796,7 +6796,7 @@ nil,
 },
 {
 },
-["color"] = "3eff9e",
+["color"] = "ff3e3e",
 },
 {
 {
@@ -6813,13 +6813,13 @@ nil,
 2,
 3,
 },
-["color"] = "ff3e3e",
+["color"] = "3e9eff",
 [6] = {
 4,
 },
 },
 {
-["color"] = "3e9eff",
+["color"] = "fffb3e",
 [7] = {
 1,
 },
@@ -6843,16 +6843,23 @@ nil,
 7,
 8,
 },
-["color"] = "fffb3e",
+["color"] = "3eff3e",
+[6] = {
+},
 },
 {
+{
+},
+[6] = {
+},
 [8] = {
 },
-["color"] = "3eff3e",
+[3] = {
+},
+["color"] = "ff3e9e",
 [9] = {
 },
 [5] = {
-3,
 },
 },
 {
@@ -6871,7 +6878,7 @@ nil,
 2,
 1,
 },
-["color"] = "ff3e9e",
+["color"] = "3effff",
 },
 {
 [14] = {
@@ -6880,12 +6887,13 @@ nil,
 [13] = {
 1,
 },
+["color"] = "ff9b3e",
 [8] = {
 2,
 },
-["color"] = "3effff",
 },
 {
+["color"] = "3e3eff",
 [8] = {
 4,
 3,
@@ -6896,17 +6904,16 @@ nil,
 [15] = {
 1,
 },
-["color"] = "ff9b3e",
 },
 {
-["color"] = "3e3eff",
+["color"] = "a1ff3e",
 [13] = {
 3,
 2,
 },
 },
 {
-["color"] = "a1ff3e",
+["color"] = "ff3eff",
 [10] = {
 2,
 },
@@ -6931,14 +6938,14 @@ nil,
 [10] = {
 3,
 },
-["color"] = "ff3eff",
+["color"] = "3eff9e",
 [12] = {
 6,
 7,
 },
 },
 {
-["color"] = "3eff9e",
+["color"] = "ff3e3e",
 [13] = {
 4,
 },
@@ -6966,7 +6973,7 @@ nil,
 6,
 5,
 },
-["color"] = "ff3e3e",
+["color"] = "3e9eff",
 },
 {
 [13] = {
@@ -6975,7 +6982,7 @@ nil,
 [8] = {
 7,
 },
-["color"] = "3e9eff",
+["color"] = "fffb3e",
 [14] = {
 2,
 },
@@ -6984,13 +6991,13 @@ nil,
 },
 },
 {
-["color"] = "fffb3e",
+["color"] = "3eff3e",
 [16] = {
 1,
 },
 },
 {
-["color"] = "3eff3e",
+["color"] = "ff3e9e",
 [19] = {
 1,
 },
@@ -7019,13 +7026,19 @@ nil,
 2,
 3,
 },
-["color"] = "ff3e9e",
+["color"] = "3effff",
 [29] = {
 1,
 },
-[28] = {
-1,
+[22] = {
+7,
+4,
+8,
+9,
+5,
+6,
 2,
+1,
 3,
 },
 [20] = {
@@ -7046,20 +7059,14 @@ nil,
 2,
 1,
 },
-[22] = {
-7,
-4,
-8,
-9,
-5,
-6,
-2,
+[28] = {
 1,
+2,
 3,
 },
 },
 {
-["color"] = "3effff",
+["color"] = "ff9b3e",
 [31] = {
 1,
 },
@@ -7068,7 +7075,7 @@ nil,
 },
 },
 {
-["color"] = "ff9b3e",
+["color"] = "3e3eff",
 [32] = {
 1,
 },
@@ -12743,7 +12750,7 @@ true,
 },
 },
 ["maximized"] = false,
-["version"] = 512,
+["version"] = 522,
 ["xoffset"] = -156.0896148681641,
 ["scale"] = 1.374626640800957,
 ["currentPreset"] = {
