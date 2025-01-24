@@ -49,15 +49,15 @@ DataStore_Stats_Characters = {
 ["dungeonScore"] = 0,
 },
 {
-["Ranged"] = "1-2|0|0|0|25.59",
-["Spell"] = "13410|17835|0|25.59|2741|25000",
-["Melee"] = "1490-2019|2.81|0|0|25.59|0",
-["MaxPower"] = "0|250000",
-["lastUpdate"] = 1717656552,
+["Ranged"] = "1-2|0|0|0|16.22",
+["Spell"] = "48298|54111|0|16.22|9313|250000",
+["Melee"] = "3599-4871|2.86|0|0|16.22|0",
+["MaxPower"] = "0|2500000",
+["lastUpdate"] = 1732574857,
 ["PVP"] = "1|0",
-["HealthMax"] = 731660,
+["HealthMax"] = 3908320,
 ["Defense"] = "0|0|3|0.00|0.00|0",
-["Base"] = "917|1422|36583|13410|0",
+["Base"] = "7763|12001|195416|48298|0",
 ["dungeonScore"] = 0,
 },
 {
@@ -96,8 +96,40 @@ DataStore_Stats_Characters = {
 ["Base"] = "4432|4958|26463|9187|1794",
 ["dungeonScore"] = 0,
 },
+{
+["Ranged"] = "1-2|0|0|0|19.27",
+["Spell"] = "52000|55884|0|19.27|3579|100000",
+["Melee"] = "6591-7194|1.71|17645|0|19.27|0",
+["MaxPower"] = "0|2500000",
+["lastUpdate"] = 1732576057,
+["PVP"] = "125|0",
+["HealthMax"] = 4606866,
+["Defense"] = "0|0|6.2414236068726|0.00|10.00|0",
+["Base"] = "7588|17645|209403|52000|0",
+["dungeonScore"] = 444,
+},
 }
 DataStore_Stats_Weekly = {
+[5] = {
+["RaidReward"] = 0,
+["WorldReward"] = 2,
+["ActivitiesReward"] = 0,
+},
+[9] = {
+["RaidReward"] = 0,
+["WorldReward"] = 0,
+["ActivitiesReward"] = 0,
+},
 }
 DataStore_Stats_Dungeons = {
+[9] = {
+[501] = {
+["seasonBestLevel"] = 4,
+["seasonBestTimeInSeconds"] = 1370,
+},
+[353] = {
+["seasonBestLevel"] = 5,
+["seasonBestTimeInSeconds"] = 1597,
+},
+},
 }

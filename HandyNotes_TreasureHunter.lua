@@ -1,31 +1,31 @@
 
 HandyNotes_TreasureHunterDB = {
 ["profileKeys"] = {
-["Calestin - Sargeras"] = "Calestin - Sargeras",
-["Strid - Kel'Thuzad"] = "Strid - Kel'Thuzad",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
-["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
-["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
-["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
-["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
-["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
+["Calestin - Sargeras"] = "Default",
+["Strid - Kel'Thuzad"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Naturerivers - Korgath"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Mangrove - Argent Dawn"] = "Default",
+["Inundito - Kel'Thuzad"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
+["Alluvium - Argent Dawn"] = "Default",
+["Stream - Argent Dawn"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Asperos - Kel'Thuzad"] = "Default",
+["Headcut - Argent Dawn"] = "Default",
+["Confluence - Argent Dawn"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
+["Gelae - Kel'Thuzad"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Riptides - Argent Dawn"] = "Default",
+["Emptyrivers - Argent Dawn"] = "Default",
+["Karst - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
 ["Calestin - Sargeras"] = {
@@ -54,13 +54,15 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
+["Stream - Argent Dawn"] = {
+},
 ["Emptyrivers - Sargeras"] = {
 },
 ["Alluvium - Argent Dawn"] = {
 },
-["Stream - Argent Dawn"] = {
+["Riptides - Argent Dawn"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -72,20 +74,24 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Riparium - Argent Dawn"] = {
 },
-["Riptides - Argent Dawn"] = {
+["Default"] = {
+["achievementsHidden"] = {
+[9728] = true,
+[9437] = true,
+},
 },
 ["Emptyrivers - Argent Dawn"] = {
 },
 ["Karst - Argent Dawn"] = {
 },
 ["Esker - Kel'Thuzad"] = {
-["groupsHidden"] = {
-["evershiftingmirror"] = true,
-},
 ["achievementsHidden"] = {
 [9728] = true,
+},
+["groupsHidden"] = {
+["evershiftingmirror"] = true,
 },
 },
 ["Saellindris - Kel'Thuzad"] = {

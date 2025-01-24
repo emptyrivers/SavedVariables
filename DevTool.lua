@@ -1,35 +1,35 @@
 
 DevToolDatabase = {
 ["profileKeys"] = {
-["Calestin - Sargeras"] = "Calestin - Sargeras",
-["Strid - Kel'Thuzad"] = "Strid - Kel'Thuzad",
-["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-["Naturerivers - Korgath"] = "Naturerivers - Korgath",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Lotic - Argent Dawn"] = "Lotic - Argent Dawn",
-["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Saellindris - Kel'Thuzad"] = "Saellindris - Kel'Thuzad",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Inundito - Kel'Thuzad"] = "Inundito - Kel'Thuzad",
-["Flumina - Argent Dawn"] = "Flumina - Argent Dawn",
-["Zimuures - Argent Dawn"] = "Zimuures - Argent Dawn",
-["Emptystreams - Argent Dawn"] = "Emptystreams - Argent Dawn",
-["Emptyrivers - Sargeras"] = "Emptyrivers - Sargeras",
-["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
-["Asperos - Kel'Thuzad"] = "Asperos - Kel'Thuzad",
-["Headcut - Argent Dawn"] = "Headcut - Argent Dawn",
-["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Mothugeon - Argent Dawn"] = "Mothugeon - Argent Dawn",
-["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Wildeadoriah - The Scryers"] = "Wildeadoriah - The Scryers",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-["Karst - Argent Dawn"] = "Karst - Argent Dawn",
-["Alandere - Argent Dawn"] = "Alandere - Argent Dawn",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
+["Calestin - Sargeras"] = "Default",
+["Strid - Kel'Thuzad"] = "Default",
+["Stream - Argent Dawn"] = "Default",
+["Naturerivers - Korgath"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Mangrove - Argent Dawn"] = "Default",
+["Inundito - Kel'Thuzad"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
+["Emptystreams - Argent Dawn"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
+["Alluvium - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Riptides - Argent Dawn"] = "Default",
+["Asperos - Kel'Thuzad"] = "Default",
+["Headcut - Argent Dawn"] = "Default",
+["Confluence - Argent Dawn"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
+["Gelae - Kel'Thuzad"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
+["Emptyrivers - Argent Dawn"] = "Default",
+["Karst - Argent Dawn"] = "Default",
+["Alandere - Argent Dawn"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
 ["Calestin - Sargeras"] = {
@@ -61,14 +61,6 @@ DevToolDatabase = {
 },
 ["collResizeWidth"] = 249.9993896484375,
 },
-["Lotic - Argent Dawn"] = {
-},
-["Mangrove - Argent Dawn"] = {
-},
-["Saellindris - Kel'Thuzad"] = {
-},
-["Cataracts - Argent Dawn"] = {
-},
 ["Inundito - Kel'Thuzad"] = {
 ["fontSize"] = 17,
 ["history"] = {
@@ -83,6 +75,16 @@ DevToolDatabase = {
 "DevTool.settings.history",
 },
 ["collResizeWidth"] = 250.0003662109375,
+},
+["Lotic - Argent Dawn"] = {
+},
+["Mangrove - Argent Dawn"] = {
+},
+["Cataracts - Argent Dawn"] = {
+},
+["Zimuures - Argent Dawn"] = {
+},
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Flumina - Argent Dawn"] = {
 ["isSideBarOpen"] = false,
@@ -99,7 +101,18 @@ DevToolDatabase = {
 },
 ["collResizeWidth"] = 250.0003662109375,
 },
-["Zimuures - Argent Dawn"] = {
+["Default"] = {
+["fontSize"] = 14,
+["history"] = {
+"_detalhes_database",
+"DevTool",
+"find LFR",
+"find SLASH",
+"find Data DevTool",
+"startswith DevTool",
+"DevTool.settings.history",
+},
+["collResizeWidth"] = 249.9935302734375,
 },
 ["Emptystreams - Argent Dawn"] = {
 },
@@ -120,6 +133,8 @@ DevToolDatabase = {
 },
 ["collResizeWidth"] = 249.9998779296875,
 },
+["Riptides - Argent Dawn"] = {
+},
 ["Riparium - Argent Dawn"] = {
 ["fontSize"] = 16,
 ["history"] = {
@@ -134,8 +149,6 @@ DevToolDatabase = {
 "DevTool.settings.history",
 },
 ["collResizeWidth"] = 250.002685546875,
-},
-["Riptides - Argent Dawn"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
@@ -159,7 +172,6 @@ DevToolDatabase = {
 ["Mothugeon - Argent Dawn"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
-["fontSize"] = 16,
 ["history"] = {
 "NumberFontNormal",
 "DevTool",
@@ -169,6 +181,7 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
+["fontSize"] = 16,
 },
 ["Wildeadoriah - The Scryers"] = {
 },
@@ -189,6 +202,7 @@ nil,
 ["collResizeWidth"] = 249.9991455078125,
 },
 ["Emptyrivers - Argent Dawn"] = {
+["fontSize"] = 17,
 ["history"] = {
 "RAID_CLASS_COLORS",
 "BisectorResults",
@@ -199,7 +213,6 @@ nil,
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["fontSize"] = 17,
 },
 ["Karst - Argent Dawn"] = {
 ["fontSize"] = 16,
@@ -235,6 +248,7 @@ nil,
 ["isSideBarOpen"] = false,
 ["fontSize"] = 16,
 ["history"] = {
+"Enum.ItemModification",
 "C_BattleNet",
 "WeeklyKnowledgeDB",
 "Enum.PowerType",
@@ -245,7 +259,7 @@ nil,
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["collResizeWidth"] = 347.49658203125,
+["collResizeWidth"] = 284.2579345703125,
 },
 },
 }

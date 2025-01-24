@@ -14,12 +14,14 @@ DialogKeyNumyDB = {
 ["ignoreDisabledButtons"] = false,
 ["dontClickSummons"] = true,
 ["dontClickRevives"] = false,
+["ignoreInProgressQuests"] = true,
 ["dontClickDuels"] = true,
-["handleCraftingOrders"] = true,
+["numKeysForPlayerChoice"] = true,
 ["useSoulstoneRez"] = false,
+["handleCraftingOrders"] = true,
 ["numKeysForGossip"] = true,
+["riskyNumKeysForGossip"] = true,
+["dontClickReleases"] = false,
 ["dialogBlacklist"] = {
 },
-["dontClickReleases"] = false,
-["numKeysForPlayerChoice"] = true,
 }

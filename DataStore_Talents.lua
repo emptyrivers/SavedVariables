@@ -10,38 +10,23 @@ DataStore_Talents_Specializations = {
 426,
 410,
 410,
+507,
 }
 DataStore_Talents_SpecializationInfos = {
 ["Roles"] = {
-["Set"] = {
-["DAMAGER"] = 1,
-["TANK"] = 2,
-["HEALER"] = 3,
-},
-["Count"] = 3,
 ["List"] = {
 "DAMAGER",
 "TANK",
 "HEALER",
 },
+["Count"] = 3,
+["Set"] = {
+["DAMAGER"] = 1,
+["TANK"] = 2,
+["HEALER"] = 3,
+},
 },
 ["Names"] = {
-["Set"] = {
-["Windwalker"] = 1,
-["Beast Mastery"] = 9,
-["Marksmanship"] = 13,
-["Protection"] = 3,
-["Shadow"] = 11,
-["Mistweaver"] = 5,
-["Frost"] = 8,
-["Brewmaster"] = 2,
-["Survival"] = 10,
-["Arms"] = 7,
-["Demonology"] = 4,
-["Retribution"] = 6,
-["Holy"] = 12,
-},
-["Count"] = 13,
 ["List"] = {
 "Windwalker",
 "Brewmaster",
@@ -56,10 +41,32 @@ DataStore_Talents_SpecializationInfos = {
 "Shadow",
 "Holy",
 "Marksmanship",
+"Elemental",
+"Restoration",
+},
+["Count"] = 15,
+["Set"] = {
+["Windwalker"] = 1,
+["Beast Mastery"] = 9,
+["Elemental"] = 14,
+["Marksmanship"] = 13,
+["Restoration"] = 15,
+["Holy"] = 12,
+["Shadow"] = 11,
+["Mistweaver"] = 5,
+["Frost"] = 8,
+["Arms"] = 7,
+["Survival"] = 10,
+["Demonology"] = 4,
+["Brewmaster"] = 2,
+["Retribution"] = 6,
+["Protection"] = 3,
 },
 },
 }
 DataStore_Talents_Covenant = {
+{
+},
 {
 },
 {

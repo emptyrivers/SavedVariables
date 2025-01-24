@@ -304,8 +304,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "RIGHT",
-["borderInset"] = 1,
 ["uid"] = "12M2bL(2Civ",
+["borderInset"] = 1,
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["groupIcon"] = "4914668",
 ["conditions"] = {
@@ -333,10 +333,10 @@ LiquidUpdaterSaved = {
 ["type"] = "custom",
 ["use_alwaystrue"] = true,
 ["custom_type"] = "stateupdate",
-["subeventPrefix"] = "SPELL",
+["use_unit"] = true,
 ["use_absorbMode"] = true,
 ["event"] = "Conditions",
-["unit"] = "player",
+["subeventPrefix"] = "SPELL",
 ["names"] = {
 },
 ["spellIds"] = {
@@ -345,7 +345,7 @@ LiquidUpdaterSaved = {
 ["events"] = "",
 ["check"] = "event",
 ["use_absorbHealMode"] = true,
-["use_unit"] = true,
+["unit"] = "player",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -450,16 +450,16 @@ LiquidUpdaterSaved = {
 ["cooldownEdge"] = false,
 ["config"] = {
 },
-["cooldownTextDisabled"] = true,
-["anchorFrameType"] = "SCREEN",
 ["zoom"] = 0,
+["anchorFrameType"] = "SCREEN",
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Private Auras",
 ["alpha"] = 1,
-["frameStrata"] = 1,
-["width"] = 100,
 ["useCooldownModRate"] = true,
+["width"] = 100,
+["frameStrata"] = 1,
 ["uid"] = "KPyAZulpQAe",
 ["inverse"] = false,
 ["keepAspectRatio"] = false,
@@ -606,8 +606,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "UP",
-["borderInset"] = 1,
 ["uid"] = "lshfddmL4SX",
+["borderInset"] = 1,
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["groupIcon"] = "ui-frame-bar-glowcenter",
 ["conditions"] = {
@@ -712,13 +712,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -899,11 +899,11 @@ LiquidUpdaterSaved = {
 ["uid"] = "Q00OjVYdLWs",
 ["semver"] = "1.0.19",
 ["anchorFrameType"] = "SCREEN",
-["id"] = "Liquid Anchor - Bar 1",
+["sparkHidden"] = "NEVER",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Liquid Anchor - Bar 1",
 ["icon"] = true,
 ["inverse"] = false,
 ["color"] = {
@@ -1028,13 +1028,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -1215,11 +1215,11 @@ LiquidUpdaterSaved = {
 ["uid"] = "aw1XWNyLHqH",
 ["semver"] = "1.0.19",
 ["anchorFrameType"] = "SCREEN",
-["id"] = "Liquid Anchor - Bar 2",
+["sparkHidden"] = "NEVER",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Liquid Anchor - Bar 2",
 ["icon"] = true,
 ["inverse"] = false,
 ["color"] = {
@@ -1344,13 +1344,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -1531,11 +1531,11 @@ LiquidUpdaterSaved = {
 ["uid"] = "n1hLXfL6VCJ",
 ["semver"] = "1.0.19",
 ["anchorFrameType"] = "SCREEN",
-["id"] = "Liquid Anchor - Bar 3",
+["sparkHidden"] = "NEVER",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Liquid Anchor - Bar 3",
 ["icon"] = true,
 ["inverse"] = false,
 ["color"] = {
@@ -1707,10 +1707,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 30,\n            expirationTime = GetTime() + 30,\n            autoHide = true\n        }\n        \n        allstates[2] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 20,\n            timer = true,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 30,\n            expirationTime = GetTime() + 30,\n            autoHide = true\n        }\n        \n        allstates[2] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 20,\n            timer = true,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -1799,14 +1799,13 @@ LiquidUpdaterSaved = {
 ["source"] = "import",
 ["authorOptions"] = {
 },
-["config"] = {
-},
 ["sparkColor"] = {
 1,
 0.11372549831867,
 0.18823531270027,
 0,
 },
+["uid"] = "vOL3IxCafgg",
 ["actions"] = {
 ["start"] = {
 },
@@ -1820,12 +1819,12 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
 ["icon_side"] = "RIGHT",
-["zoom"] = 0,
+["sparkTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["id"] = "Liquid Anchor - Special Bar 1",
 ["sparkHeight"] = 20,
 ["texture"] = "Solid",
 ["semver"] = "1.0.19",
-["sparkTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
+["zoom"] = 0,
 ["spark"] = true,
 ["tocversion"] = 110002,
 ["sparkHidden"] = "NEVER",
@@ -1833,7 +1832,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["width"] = 600,
 ["xOffset"] = 0,
-["uid"] = "vOL3IxCafgg",
+["config"] = {
+},
 ["inverse"] = false,
 ["internalVersion"] = 78,
 ["orientation"] = "HORIZONTAL",
@@ -2039,8 +2039,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "DOWN",
-["borderInset"] = 1,
 ["uid"] = "qSdctRY9zQf",
+["borderInset"] = 1,
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["groupIcon"] = "1500881",
 ["conditions"] = {
@@ -2080,13 +2080,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local playerName = UnitName(\"player\")\n        \n        for i = 1, 10 do\n            local stacks = math.random(10)\n            \n            local _, randomClass = GetClassInfo(math.random(13))\n            local colorStr = RAID_CLASS_COLORS[randomClass].colorStr\n            local coloredName = string.format(\"|c%s%s|r\", colorStr, playerName)\n            \n            local duration = 10 + math.random(20)\n            \n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 30,\n                expirationTime = GetTime() + duration,\n                stacks = stacks,\n                index = stacks,\n                name = coloredName,\n                autoHide = true\n            }\n        end\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -2146,13 +2146,13 @@ LiquidUpdaterSaved = {
 {
 ["text_shadowXOffset"] = 0,
 ["text_text"] = "%name",
+["text_text_format_p_format"] = "timed",
 ["text_shadowColor"] = {
 0,
 0,
 0,
 1,
 },
-["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
@@ -2174,16 +2174,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow",
 ["text_fontType"] = "OUTLINE",
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -1,
 ["text_text_format_p_time_precision"] = 1,
 ["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_text_format_c1_format"] = "none",
-["text_anchorYOffset"] = -1,
+["text_shadowYOffset"] = 0,
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 16,
 ["anchorXOffset"] = 0,
-["text_text_format_p_format"] = "timed",
+["text_text_format_p_time_mod_rate"] = true,
 },
 {
 ["text_text_format_n_format"] = "none",
@@ -2212,14 +2212,14 @@ LiquidUpdaterSaved = {
 ["text_font"] = "PT Sans Narrow",
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = -1,
-["text_wordWrap"] = "WordWrap",
+["text_text_format_c2_format"] = "none",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "INNER_RIGHT",
 ["text_shadowXOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 16,
 ["anchorXOffset"] = 0,
-["text_text_format_c2_format"] = "none",
+["text_wordWrap"] = "WordWrap",
 },
 {
 ["type"] = "subborder",
@@ -2272,13 +2272,14 @@ LiquidUpdaterSaved = {
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "Bmqwl9Epjrf",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["xOffset"] = 0,
 ["width"] = 200,
@@ -2320,8 +2321,7 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["gradientOrientation"] = "HORIZONTAL",
-["config"] = {
-},
+["uid"] = "Bmqwl9Epjrf",
 ["inverse"] = false,
 ["backgroundColor"] = {
 0,
@@ -2464,8 +2464,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "DOWN",
-["borderInset"] = 1,
 ["uid"] = "jYmz)LwxlSR",
+["borderInset"] = 1,
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["groupIcon"] = "1500881",
 ["conditions"] = {
@@ -2505,13 +2505,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local playerName = UnitName(\"player\")\n        \n        for i = 1, 4 do\n            local stacks = math.random(10)\n            \n            local _, randomClass = GetClassInfo(math.random(13))\n            local colorStr = RAID_CLASS_COLORS[randomClass].colorStr\n            local coloredName = string.format(\"|c%s%s|r\", colorStr, playerName)\n            \n            local duration = 10 + math.random(20)\n            \n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 30,\n                expirationTime = GetTime() + duration,\n                stacks = stacks,\n                index = stacks,\n                name = coloredName,\n                autoHide = true\n            }\n        end\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -2622,13 +2622,13 @@ LiquidUpdaterSaved = {
 ["text_shadowXOffset"] = 0,
 ["text_text_format_s_format"] = "none",
 ["text_text"] = "%p",
-["text_text_format_p_time_mod_rate"] = true,
 ["text_shadowColor"] = {
 0,
 0,
 0,
 1,
 },
+["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
@@ -2639,7 +2639,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_text_format_n_format"] = "none",
 ["text_text_format_stacks_format"] = "none",
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -1,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = 0,
 ["text_color"] = {
@@ -2650,7 +2650,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow",
 ["text_wordWrap"] = "WordWrap",
-["text_anchorYOffset"] = -1,
+["text_shadowYOffset"] = 0,
 ["text_visible"] = true,
 ["text_text_format_c2_format"] = "none",
 ["text_fontType"] = "OUTLINE",
@@ -2712,13 +2712,14 @@ LiquidUpdaterSaved = {
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "J0wqzh1zmSA",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["xOffset"] = 0,
 ["width"] = 200,
@@ -2760,8 +2761,7 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["gradientOrientation"] = "HORIZONTAL",
-["config"] = {
-},
+["uid"] = "J0wqzh1zmSA",
 ["inverse"] = false,
 ["backgroundColor"] = {
 0,
@@ -2938,10 +2938,10 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["useExactSpellId"] = false,
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["check"] = "event",
 ["type"] = "custom",
 ["custom_type"] = "stateupdate",
@@ -2988,13 +2988,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = -2,
+["text_shadowYOffset"] = 0,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_anchorPoint"] = "CENTER",
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "CENTER",
+["text_visible"] = true,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 50,
 ["anchorXOffset"] = 0,
@@ -3026,13 +3026,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
+["text_shadowYOffset"] = 0,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_anchorPoint"] = "OUTER_BOTTOM",
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "OUTER_BOTTOM",
+["text_visible"] = true,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -3142,14 +3142,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Big Icon 1",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 128,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -3293,7 +3293,7 @@ LiquidUpdaterSaved = {
 },
 ["useLimit"] = false,
 ["source"] = "import",
-["gridWidth"] = 5,
+["alpha"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = false,
@@ -3301,7 +3301,7 @@ LiquidUpdaterSaved = {
 ["stepAngle"] = 15,
 ["borderSize"] = 2,
 ["limit"] = 5,
-["alpha"] = 1,
+["frameStrata"] = 1,
 ["sort"] = "ascending",
 ["regionType"] = "dynamicgroup",
 ["anchorFrameParent"] = false,
@@ -3312,12 +3312,12 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Icons",
 ["animate"] = false,
-["frameStrata"] = 1,
+["gridWidth"] = 5,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "LEFT",
+["uid"] = "XcD9ilEuinj",
 ["config"] = {
 },
-["uid"] = "XcD9ilEuinj",
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["authorOptions"] = {
 },
@@ -3346,10 +3346,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -3403,8 +3403,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
+["text_shadowYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -3470,7 +3470,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow",
 ["anchorXOffset"] = 0,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_shadowColor"] = {
 0,
 0,
@@ -3484,7 +3484,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 },
 {
 ["glowFrequency"] = 0.2,
@@ -3593,16 +3593,16 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["cooldownTextDisabled"] = true,
-["anchorFrameType"] = "SCREEN",
 ["zoom"] = 0.3,
+["anchorFrameType"] = "SCREEN",
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Icon 1",
 ["frameStrata"] = 1,
-["alpha"] = 1,
-["width"] = 70,
 ["useCooldownModRate"] = true,
+["width"] = 70,
+["alpha"] = 1,
 ["uid"] = "Kqi)8F(BwZZ",
 ["inverse"] = false,
 ["color"] = {
@@ -3613,9 +3613,9 @@ LiquidUpdaterSaved = {
 },
 ["actions"] = {
 ["start"] = {
-["do_custom"] = false,
 ["custom"] = "",
 ["do_message"] = false,
+["do_custom"] = false,
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -3650,10 +3650,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -3707,8 +3707,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
+["text_shadowYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -3774,7 +3774,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow",
 ["anchorXOffset"] = 0,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_shadowColor"] = {
 0,
 0,
@@ -3788,7 +3788,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 },
 {
 ["glowFrequency"] = 0.2,
@@ -3897,16 +3897,16 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["cooldownTextDisabled"] = true,
-["anchorFrameType"] = "SCREEN",
 ["zoom"] = 0.3,
+["anchorFrameType"] = "SCREEN",
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Icon 2",
 ["frameStrata"] = 1,
-["alpha"] = 1,
-["width"] = 70,
 ["useCooldownModRate"] = true,
+["width"] = 70,
+["alpha"] = 1,
 ["uid"] = "H5bfXxLOjSu",
 ["inverse"] = false,
 ["color"] = {
@@ -3917,9 +3917,9 @@ LiquidUpdaterSaved = {
 },
 ["actions"] = {
 ["start"] = {
-["do_custom"] = false,
 ["custom"] = "",
 ["do_message"] = false,
+["do_custom"] = false,
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -3954,10 +3954,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -4011,8 +4011,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
+["text_shadowYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -4078,7 +4078,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow",
 ["anchorXOffset"] = 0,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_shadowColor"] = {
 0,
 0,
@@ -4092,7 +4092,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 },
 {
 ["glowFrequency"] = 0.2,
@@ -4201,16 +4201,16 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["cooldownTextDisabled"] = true,
-["anchorFrameType"] = "SCREEN",
 ["zoom"] = 0.3,
+["anchorFrameType"] = "SCREEN",
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Icon 3",
 ["frameStrata"] = 1,
-["alpha"] = 1,
-["width"] = 70,
 ["useCooldownModRate"] = true,
+["width"] = 70,
+["alpha"] = 1,
 ["uid"] = "Oj)KoAPHIeI",
 ["inverse"] = false,
 ["color"] = {
@@ -4221,9 +4221,9 @@ LiquidUpdaterSaved = {
 },
 ["actions"] = {
 ["start"] = {
-["do_custom"] = false,
 ["custom"] = "",
 ["do_message"] = false,
+["do_custom"] = false,
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -4347,11 +4347,11 @@ LiquidUpdaterSaved = {
 ["easeType"] = "none",
 },
 },
-["uid"] = "AYRuh4jJXBq",
-["borderInset"] = 1,
-["alpha"] = 1,
 ["config"] = {
 },
+["borderInset"] = 1,
+["alpha"] = 1,
+["uid"] = "AYRuh4jJXBq",
 ["conditions"] = {
 },
 ["information"] = {
@@ -4389,13 +4389,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -4472,8 +4472,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = -1,
 ["text_anchorYOffset"] = 6,
+["text_shadowYOffset"] = -1,
 ["text_fontType"] = "None",
 ["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
@@ -4498,12 +4498,12 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "",
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
-["class"] = {
+["encounterid"] = "",
+["spec"] = {
 ["multi"] = {
 },
 },
@@ -4707,10 +4707,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 8,\n            expirationTime = GetTime() + 8,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend\n\n\n\n",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 8,\n            expirationTime = GetTime() + 8,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend\n\n\n\n",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -4768,13 +4768,8 @@ LiquidUpdaterSaved = {
 {
 ["text_text_format_n_format"] = "none",
 ["text_text"] = "%p",
+["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_p_format"] = "timed",
-["text_shadowColor"] = {
-0,
-0,
-0,
-1,
-},
 ["text_text_format_p_time_dynamic_threshold"] = 60,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
@@ -4805,7 +4800,12 @@ LiquidUpdaterSaved = {
 ["text_text_format_p_time_legacy_floor"] = false,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_mod_rate"] = true,
+["text_shadowColor"] = {
+0,
+0,
+0,
+1,
+},
 },
 },
 ["height"] = 120,
@@ -5057,10 +5057,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        for i = 1, 6 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                index = i,\n                autoHide = true\n            }\n        end\n        \n        allstates[math.random(6)].assigned = true\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend\n\n\n\n",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        for i = 1, 6 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                index = i,\n                autoHide = true\n            }\n        end\n        \n        allstates[math.random(6)].assigned = true\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend\n\n\n\n",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -5323,13 +5323,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -5383,8 +5383,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.19",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Text 1",
 ["shadowYOffset"] = 0,
@@ -5657,13 +5657,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local duration = 5 + math.random(5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 10,\n            expirationTime = GetTime() + duration,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -5844,11 +5844,11 @@ LiquidUpdaterSaved = {
 ["uid"] = "z7HDcyzRlg6",
 ["semver"] = "1.0.19",
 ["anchorFrameType"] = "SCREEN",
-["id"] = "Liquid Anchor - Tank Bar 1",
+["sparkHidden"] = "NEVER",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Liquid Anchor - Tank Bar 1",
 ["icon"] = true,
 ["inverse"] = false,
 ["color"] = {
@@ -6006,8 +6006,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "DOWN",
-["borderInset"] = 1,
 ["uid"] = "9mIQD2uqDUL",
+["borderInset"] = 1,
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["groupIcon"] = "UI-Frame-TankIcon",
 ["conditions"] = {
@@ -6035,10 +6035,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            unit = \"player\",\n            icon = 132363,\n            autoHide = true\n        }\n        \n        allstates[2] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            icon = 464973,\n            unit = \"player\",\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            unit = \"player\",\n            icon = 132363,\n            autoHide = true\n        }\n        \n        allstates[2] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            icon = 464973,\n            unit = \"player\",\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -6128,13 +6128,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = -2,
+["text_shadowYOffset"] = 0,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_anchorPoint"] = "CENTER",
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "CENTER",
+["text_visible"] = true,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -6153,7 +6153,7 @@ LiquidUpdaterSaved = {
 0,
 1,
 },
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_dynamic_threshold"] = 3,
@@ -6168,17 +6168,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_text_format_p_time_format"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_visible"] = true,
+["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_fontSize"] = 20,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["type"] = "subborder",
@@ -6259,16 +6259,16 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["cooldownTextDisabled"] = true,
-["anchorFrameType"] = "SCREEN",
 ["zoom"] = 0.3,
+["anchorFrameType"] = "SCREEN",
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Tank Icon 1",
 ["frameStrata"] = 1,
-["alpha"] = 1,
-["width"] = 80,
 ["useCooldownModRate"] = true,
+["width"] = 80,
+["alpha"] = 1,
 ["uid"] = "MX(c8ZoiUF9",
 ["inverse"] = false,
 ["color"] = {
@@ -6420,8 +6420,8 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["grow"] = "DOWN",
-["borderInset"] = 1,
 ["uid"] = "mNQnLG4o(NH",
+["borderInset"] = 1,
 ["parent"] = "Liquid Anchors (don't rename these)",
 ["groupIcon"] = "UI-Frame-TankIcon",
 ["conditions"] = {
@@ -6449,10 +6449,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
-["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local randomTankClass = aura_env.tankClasses[math.random(#aura_env.tankClasses)]\n        local colorStr = RAID_CLASS_COLORS[randomTankClass].colorStr\n        local coloredName = string.format(\"|c%sCo-tank|r\", colorStr)\n        \n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            name = coloredName,\n            icon = 132363,\n            autoHide = true\n        }\n        \n        allstates[2] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            icon = 464973,\n            name = coloredName,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
-["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event)\n    if event == \"OPTIONS\" then\n        local randomTankClass = aura_env.tankClasses[math.random(#aura_env.tankClasses)]\n        local colorStr = RAID_CLASS_COLORS[randomTankClass].colorStr\n        local coloredName = string.format(\"|c%sCo-tank|r\", colorStr)\n        \n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            name = coloredName,\n            icon = 132363,\n            autoHide = true\n        }\n        \n        allstates[2] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 10 + math.random(10),\n            stacks = math.random(4),\n            icon = 464973,\n            name = coloredName,\n            autoHide = true\n        }\n    elseif event == \"WA_DELAYED_PLAYER_ENTERING_WORLD\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 0.1,\n            expirationTime = GetTime() + 0.1,\n            autoHide = true\n        }\n        \n        return true\n    end\nend",
+["events"] = "WA_DELAYED_PLAYER_ENTERING_WORLD",
 ["names"] = {
 },
 ["check"] = "event",
@@ -6537,13 +6537,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = -2,
+["text_shadowYOffset"] = 0,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_anchorPoint"] = "CENTER",
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "CENTER",
+["text_visible"] = true,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -6562,7 +6562,7 @@ LiquidUpdaterSaved = {
 0,
 1,
 },
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_dynamic_threshold"] = 3,
@@ -6577,17 +6577,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow",
-["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_text_format_p_time_format"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_visible"] = true,
+["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_fontSize"] = 20,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["type"] = "subborder",
@@ -6668,16 +6668,16 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["cooldownTextDisabled"] = true,
-["anchorFrameType"] = "SCREEN",
 ["zoom"] = 0.3,
+["anchorFrameType"] = "SCREEN",
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.19",
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchor - Co-Tank Icon 1",
 ["frameStrata"] = 1,
-["alpha"] = 1,
-["width"] = 80,
 ["useCooldownModRate"] = true,
+["width"] = 80,
+["alpha"] = 1,
 ["uid"] = "YVUYS65kCaV",
 ["inverse"] = false,
 ["color"] = {
@@ -6819,7 +6819,7 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Liquid Anchors (don't rename these)",
 ["selfPoint"] = "CENTER",
-["alpha"] = 1,
+["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["groupIcon"] = "1686581",
 ["config"] = {
@@ -6831,7 +6831,7 @@ LiquidUpdaterSaved = {
 },
 ["information"] = {
 },
-["frameStrata"] = 1,
+["alpha"] = 1,
 },
 ["s"] = "5.17.1",
 ["v"] = 2000,
@@ -6981,11 +6981,11 @@ LiquidUpdaterSaved = {
 ["sortHybridTable"] = {
 ["Brutal Crush"] = false,
 ["Venomous Lash"] = false,
-["Hungering Bellows"] = false,
 ["Stalkers Webbing"] = false,
-["Carnivorous Contest"] = false,
-["Swallowing Darkness"] = false,
+["Hungering Bellows"] = false,
 ["Hulking Crash"] = false,
+["Swallowing Darkness"] = false,
+["Carnivorous Contest"] = false,
 ["Juggernaut Charge"] = false,
 },
 ["fullCircle"] = true,
@@ -7063,7 +7063,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["stepAngle"] = 15,
-["animate"] = false,
+["source"] = "import",
 ["alpha"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -7102,13 +7102,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Ulgrax the Devourer - Bars",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "sjR6HQ2VhKr",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "sjR6HQ2VhKr",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -7159,6 +7159,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -7167,7 +7168,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -7387,11 +7387,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Carnivorous Contest",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Carnivorous Contest",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -7409,13 +7409,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -7459,6 +7459,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -7467,7 +7468,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -7687,11 +7687,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Hulking Crash",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Hulking Crash",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -7709,13 +7709,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -7759,6 +7759,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -7767,7 +7768,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -7987,11 +7987,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Stalkers Webbing",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Stalkers Webbing",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -8009,13 +8009,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -8059,6 +8059,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -8067,7 +8068,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -8284,11 +8284,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Venomous Lash",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Venomous Lash",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -8306,13 +8306,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -8356,6 +8356,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -8364,7 +8365,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -8400,13 +8400,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "UNIT_SPELLCAST_START:boss",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3.7,\n            expirationTime = GetTime() + 3.7,\n            count = math.random(4),\n            autoHide = true\n        }\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 436200 then -- Juggernaut Charge (initial)\n            aura_env.count = 0\n        elseif spellID == 436203 then -- Juggernaut Charge\n            aura_env.count = aura_env.count + 1\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 3.7,\n                expirationTime = GetTime() + 3.7,\n                count = aura_env.count,\n                autoHide = true\n            }\n            \n            return true\n        end\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3.7,\n            expirationTime = GetTime() + 3.7,\n            count = math.random(4),\n            autoHide = true\n        }\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 436200 then -- Juggernaut Charge (initial)\n            aura_env.count = 0\n        elseif spellID == 436203 then -- Juggernaut Charge\n            aura_env.count = aura_env.count + 1\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 3.7,\n                expirationTime = GetTime() + 3.7,\n                count = aura_env.count,\n                autoHide = true\n            }\n            \n            return true\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -8581,11 +8581,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Juggernaut Charge",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Juggernaut Charge",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -8603,13 +8603,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -8653,6 +8653,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -8661,7 +8662,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -8881,11 +8881,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Swallowing Darkness",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Swallowing Darkness",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -8903,13 +8903,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -8953,6 +8953,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -8961,7 +8962,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -9199,11 +9199,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Hungering Bellows",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Hungering Bellows",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -9221,13 +9221,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -9271,6 +9271,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
@@ -9279,7 +9280,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2902",
 ["size"] = {
 ["multi"] = {
 },
@@ -9501,11 +9501,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Brutal Crush",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Brutal Crush",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -9523,13 +9523,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["arcLength"] = 360,
@@ -9582,6 +9582,7 @@ LiquidUpdaterSaved = {
 },
 ["columnSpace"] = 1,
 ["internalVersion"] = 78,
+["selfPoint"] = "RIGHT",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -9602,7 +9603,6 @@ LiquidUpdaterSaved = {
 ["easeType"] = "none",
 },
 },
-["selfPoint"] = "RIGHT",
 ["align"] = "CENTER",
 ["borderColor"] = {
 0,
@@ -9666,12 +9666,12 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Ulgrax the Devourer - Icons",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = "jCT(FvZ)QOx",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["uid"] = "jCT(FvZ)QOx",
 ["useLimit"] = true,
 ["xOffset"] = 0,
 ["conditions"] = {
@@ -9757,8 +9757,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -9860,7 +9860,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -9874,7 +9874,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -9951,9 +9951,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -9996,14 +9996,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Brutal Lashings (on you)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -10091,8 +10091,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -10194,7 +10194,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -10208,7 +10208,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -10285,9 +10285,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -10330,14 +10330,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Stalker Netting",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -10425,8 +10425,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -10528,7 +10528,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -10542,7 +10542,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -10619,9 +10619,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -10664,14 +10664,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Hardened Netting",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -10759,8 +10759,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -10862,7 +10862,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -10876,7 +10876,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -10953,9 +10953,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -10998,14 +10998,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Disembowel",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -11094,8 +11094,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -11197,7 +11197,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -11211,7 +11211,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -11288,9 +11288,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -11333,14 +11333,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Chunky/Bile-Soaked Viscera",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -11459,11 +11459,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "vqpM(OUyoRh",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -11546,8 +11546,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -11577,14 +11577,14 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
-["auraRotation"] = 0,
-["crop_y"] = 0.41,
 ["config"] = {
 },
+["crop_y"] = 0.41,
+["uid"] = "hHg9WLFNKzQ",
 ["useAdjustededMax"] = false,
 ["backgroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 ["source"] = "import",
@@ -11632,22 +11632,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Digestive Acid",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2902",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2902",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -11656,7 +11656,7 @@ LiquidUpdaterSaved = {
 ["alpha"] = 1,
 ["width"] = 120,
 ["desaturateForeground"] = false,
-["uid"] = "hHg9WLFNKzQ",
+["auraRotation"] = 0,
 ["inverse"] = false,
 ["authorOptions"] = {
 },
@@ -11778,11 +11778,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "0NYg(HvkDce",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -11858,19 +11858,19 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 [63] = true,
 [262] = true,
-[253] = true,
-[264] = true,
 [265] = true,
+[264] = true,
+[253] = true,
 [266] = true,
 [267] = true,
-[62] = true,
+[105] = true,
 [64] = true,
-[256] = true,
 [102] = true,
+[256] = true,
 [257] = true,
 [258] = true,
 [254] = true,
-[105] = true,
+[62] = true,
 },
 },
 ["talent"] = {
@@ -11932,8 +11932,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Brutal Lashings pull duration",
 ["shadowYOffset"] = -1,
@@ -12050,19 +12050,19 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 [63] = true,
 [262] = true,
-[253] = true,
-[264] = true,
 [265] = true,
+[264] = true,
+[253] = true,
 [266] = true,
 [267] = true,
-[62] = true,
+[105] = true,
 [64] = true,
-[256] = true,
 [102] = true,
+[256] = true,
 [257] = true,
 [258] = true,
 [254] = true,
-[105] = true,
+[62] = true,
 },
 },
 ["talent"] = {
@@ -12420,8 +12420,8 @@ LiquidUpdaterSaved = {
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Stalker/Hardened Netting (glow)",
 ["shadowYOffset"] = -1,
@@ -12609,8 +12609,8 @@ LiquidUpdaterSaved = {
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Devour (glow)",
 ["shadowYOffset"] = -1,
@@ -12745,11 +12745,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "wKd1KYy7Kmt",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -12865,9 +12865,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 434697 and UnitDetailedThreatSituation(\"player\", unit) -- Brutal Crush\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 434697 and UnitDetailedThreatSituation(\"player\", unit) -- Brutal Crush\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -13044,10 +13044,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Brutal Crush cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Brutal Crush cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -13078,15 +13078,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -13198,9 +13198,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 434697 and not UnitDetailedThreatSituation(\"player\", unit) -- Brutal Crush\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 434697 and not UnitDetailedThreatSituation(\"player\", unit) -- Brutal Crush\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -13393,10 +13393,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Brutal Crush cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Brutal Crush cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -13427,15 +13427,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -13634,8 +13634,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Tenderized taunt",
 ["shadowYOffset"] = -1,
@@ -13766,7 +13766,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -13786,13 +13786,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Ulgrax the Devourer - Tank Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = ")RwEoF9q4mr",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = ")RwEoF9q4mr",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -13870,7 +13870,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -13884,10 +13884,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -13918,13 +13918,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -13945,12 +13945,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -13960,17 +13960,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -14066,14 +14066,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Tenderized",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -14191,7 +14191,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["stepAngle"] = 15,
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -14211,13 +14211,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Ulgrax the Devourer - Co-Tank Icons",
 ["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Co-Tank Icons",
-["gridWidth"] = 5,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = "sXFDF6Mjct(",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["gridWidth"] = 5,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "sXFDF6Mjct(",
 ["xOffset"] = 0,
 ["conditions"] = {
 },
@@ -14349,13 +14349,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -14375,7 +14375,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -14391,16 +14391,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -14496,14 +14496,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Tenderized (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -14748,7 +14748,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["stepAngle"] = 15,
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -14768,13 +14768,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "The Bloodbound Horror - Bars",
 ["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Bars",
-["gridWidth"] = 5,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = "8T(kFeE9aMt",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["gridWidth"] = 5,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "8T(kFeE9aMt",
 ["xOffset"] = 0,
 ["conditions"] = {
 },
@@ -14824,6 +14824,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
@@ -14832,7 +14833,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2917",
 ["size"] = {
 ["multi"] = {
 },
@@ -14868,13 +14868,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "UNIT_SPELLCAST_START:boss, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            count = math.random(10),\n            autoHide = true\n        }\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 444363 then -- Gruesome Disgorge\n            aura_env.count = aura_env.count + 1\n            \n            if aura_env.count == 3 then aura_env.count = 1 end\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 5,\n                expirationTime = GetTime() + 5,\n                count = aura_env.count,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            count = math.random(10),\n            autoHide = true\n        }\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 444363 then -- Gruesome Disgorge\n            aura_env.count = aura_env.count + 1\n            \n            if aura_env.count == 3 then aura_env.count = 1 end\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 5,\n                expirationTime = GetTime() + 5,\n                count = aura_env.count,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -15049,11 +15049,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Gruesome Disgorge",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Gruesome Disgorge",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -15071,13 +15071,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -15121,6 +15121,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
@@ -15129,7 +15130,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2917",
 ["size"] = {
 ["multi"] = {
 },
@@ -15367,11 +15367,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Spewing Hemorrhage",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Spewing Hemorrhage",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -15389,13 +15389,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -15439,6 +15439,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
@@ -15447,7 +15448,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2917",
 ["size"] = {
 ["multi"] = {
 },
@@ -15667,11 +15667,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Goresplatter",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Goresplatter",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -15689,13 +15689,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["arcLength"] = 360,
@@ -15760,7 +15760,7 @@ LiquidUpdaterSaved = {
 ["version"] = 242,
 ["subRegions"] = {
 },
-["frameStrata"] = 1,
+["gridWidth"] = 5,
 ["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Lists",
 ["load"] = {
 ["size"] = {
@@ -15787,16 +15787,16 @@ LiquidUpdaterSaved = {
 1,
 0.5,
 },
-["gridWidth"] = 5,
-["source"] = "import",
-["stepAngle"] = 15,
+["frameStrata"] = 1,
+["animate"] = false,
+["regionType"] = "dynamicgroup",
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = false,
 ["borderEdge"] = "Square Full White",
-["regionType"] = "dynamicgroup",
+["stepAngle"] = 15,
 ["borderSize"] = 2,
-["limit"] = 5,
+["sort"] = "custom",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -15826,10 +15826,10 @@ LiquidUpdaterSaved = {
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "The Bloodbound Horror - Lists",
-["sort"] = "custom",
+["limit"] = 5,
 ["alpha"] = 1,
 ["anchorFrameType"] = "SELECTFRAME",
-["animate"] = false,
+["source"] = "import",
 ["uid"] = "MiChjgmJVB(",
 ["parent"] = "The Bloodbound Horror",
 ["internalVersion"] = 78,
@@ -15993,8 +15993,8 @@ LiquidUpdaterSaved = {
 ["text_anchorYOffset"] = -1,
 ["text_text_format_unit_color"] = "class",
 ["text_text_format_p_time_precision"] = 1,
-["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_c1_format"] = "none",
+["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_p_time_format"] = 0,
 ["text_visible"] = true,
 ["text_text_format_previewName_format"] = "none",
@@ -16005,8 +16005,13 @@ LiquidUpdaterSaved = {
 ["text_text_format_n_format"] = "none",
 ["text_text_format_s_format"] = "none",
 ["text_text"] = "%p",
+["text_shadowColor"] = {
+0,
+0,
+0,
+1,
+},
 ["text_text_format_p_format"] = "timed",
-["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
@@ -16017,7 +16022,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_format"] = 0,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = -1,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = 0,
 ["text_color"] = {
@@ -16028,7 +16033,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -1,
 ["text_visible"] = true,
 ["text_text_format_c2_format"] = "none",
 ["text_fontType"] = "OUTLINE",
@@ -16037,12 +16042,7 @@ LiquidUpdaterSaved = {
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 16,
 ["anchorXOffset"] = 0,
-["text_shadowColor"] = {
-0,
-0,
-0,
-1,
-},
+["text_text_format_p_time_mod_rate"] = true,
 },
 {
 ["border_offset"] = 1,
@@ -16063,22 +16063,22 @@ LiquidUpdaterSaved = {
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2917",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -16086,13 +16086,14 @@ LiquidUpdaterSaved = {
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "f8IVbUSODna",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -16116,8 +16117,7 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 24,
-["config"] = {
-},
+["uid"] = "f8IVbUSODna",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -16308,8 +16308,8 @@ LiquidUpdaterSaved = {
 ["text_anchorYOffset"] = -1,
 ["text_text_format_unit_color"] = "class",
 ["text_text_format_p_time_precision"] = 1,
-["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_c1_format"] = "none",
+["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_p_time_format"] = 0,
 ["text_visible"] = true,
 ["text_text_format_previewName_format"] = "none",
@@ -16380,22 +16380,22 @@ LiquidUpdaterSaved = {
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2917",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -16403,13 +16403,14 @@ LiquidUpdaterSaved = {
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "CZmY5dY(NsO",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -16433,8 +16434,7 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 24,
-["config"] = {
-},
+["uid"] = "CZmY5dY(NsO",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -16625,8 +16625,8 @@ LiquidUpdaterSaved = {
 ["text_anchorYOffset"] = -1,
 ["text_text_format_unit_color"] = "class",
 ["text_text_format_p_time_precision"] = 1,
-["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_c1_format"] = "none",
+["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_p_time_format"] = 0,
 ["text_visible"] = true,
 ["text_text_format_previewName_format"] = "none",
@@ -16697,22 +16697,22 @@ LiquidUpdaterSaved = {
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2917",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -16720,13 +16720,14 @@ LiquidUpdaterSaved = {
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "kxgnjI4HcuA",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -16750,8 +16751,7 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 24,
-["config"] = {
-},
+["uid"] = "kxgnjI4HcuA",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -16883,7 +16883,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -16903,13 +16903,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "The Bloodbound Horror - Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "uegt(kAzmFx",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "uegt(kAzmFx",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -16995,8 +16995,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -17098,7 +17098,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -17112,7 +17112,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -17189,9 +17189,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -17234,14 +17234,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Baneful Shift",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -17329,8 +17329,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -17432,7 +17432,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -17446,7 +17446,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -17523,9 +17523,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -17568,14 +17568,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Goresplatter (DoT)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -17663,8 +17663,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -17766,7 +17766,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -17780,7 +17780,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -17857,9 +17857,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -17902,14 +17902,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Unseeming Blight",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -17998,8 +17998,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -18073,13 +18073,13 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_anchorPoint"] = "OUTER_TOP",
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 24,
 ["anchorXOffset"] = 0,
-["text_fontType"] = "OUTLINE",
+["text_visible"] = true,
 },
 {
 ["text_shadowXOffset"] = 0,
@@ -18104,7 +18104,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -18118,7 +18118,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -18195,9 +18195,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -18240,14 +18240,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Crimson Rain",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -18339,8 +18339,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -18414,13 +18414,13 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_anchorPoint"] = "OUTER_TOP",
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 24,
 ["anchorXOffset"] = 0,
-["text_fontType"] = "OUTLINE",
+["text_visible"] = true,
 },
 {
 ["text_shadowXOffset"] = 0,
@@ -18445,7 +18445,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -18459,7 +18459,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -18536,9 +18536,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -18581,14 +18581,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Black Bulwark",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -18708,11 +18708,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "T4q8RHRftPf",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -18795,8 +18795,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -18826,14 +18826,14 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
-["auraRotation"] = 0,
-["crop_y"] = 0.41,
 ["config"] = {
 },
+["crop_y"] = 0.41,
+["uid"] = "EQ9UlOUpzYz",
 ["useAdjustededMax"] = false,
 ["backgroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 ["source"] = "import",
@@ -18881,22 +18881,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Grasp From Beyond",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2917",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -18905,7 +18905,7 @@ LiquidUpdaterSaved = {
 ["alpha"] = 1,
 ["width"] = 120,
 ["desaturateForeground"] = false,
-["uid"] = "EQ9UlOUpzYz",
+["auraRotation"] = 0,
 ["inverse"] = false,
 ["authorOptions"] = {
 },
@@ -19007,8 +19007,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -19038,14 +19038,14 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
-["auraRotation"] = 0,
-["crop_y"] = 0.41,
 ["config"] = {
 },
+["crop_y"] = 0.41,
+["uid"] = "vaD8F8zVYa5",
 ["useAdjustededMax"] = false,
 ["backgroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 ["source"] = "import",
@@ -19093,22 +19093,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Bloodcurdle",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2917",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2917",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -19117,7 +19117,7 @@ LiquidUpdaterSaved = {
 ["alpha"] = 1,
 ["width"] = 120,
 ["desaturateForeground"] = false,
-["uid"] = "vaD8F8zVYa5",
+["auraRotation"] = 0,
 ["inverse"] = false,
 ["authorOptions"] = {
 },
@@ -19238,11 +19238,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "5BkAFLKYy9m",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -19327,19 +19327,19 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 [63] = true,
 [262] = true,
-[253] = true,
-[264] = true,
 [265] = true,
+[264] = true,
+[253] = true,
 [266] = true,
 [267] = true,
-[62] = true,
+[105] = true,
 [64] = true,
-[256] = true,
 [102] = true,
+[256] = true,
 [257] = true,
 [258] = true,
 [254] = true,
-[105] = true,
+[62] = true,
 },
 },
 ["talent"] = {
@@ -19401,8 +19401,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Bloodcurdle soon",
 ["shadowYOffset"] = -1,
@@ -19623,14 +19623,14 @@ LiquidUpdaterSaved = {
 ["encounterid"] = "2917",
 ["class_and_spec"] = {
 ["multi"] = {
-[1473] = true,
-[270] = true,
+[65] = true,
+[1468] = true,
 [264] = true,
 [105] = true,
-[65] = true,
+[1473] = true,
 [257] = true,
 [256] = true,
-[1468] = true,
+[270] = true,
 },
 },
 ["class"] = {
@@ -19682,14 +19682,14 @@ LiquidUpdaterSaved = {
 1,
 },
 ["yOffset"] = 0,
-["anchorFrameParent"] = false,
+["displayText_format_p_time_precision"] = 1,
 ["displayText_format_c_big_number_format"] = "AbbreviateNumbers",
 ["selfPoint"] = "CENTER",
 ["semver"] = "1.0.241",
 ["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Crimson Rain absorb amount",
-["displayText_format_p_time_precision"] = 1,
+["anchorFrameParent"] = false,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "UNITFRAME",
 ["xOffset"] = 0,
@@ -19820,11 +19820,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "nlkeRYCOtAY",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -19917,7 +19917,7 @@ LiquidUpdaterSaved = {
 ["role"] = {
 ["single"] = "TANK",
 },
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
@@ -19926,11 +19926,11 @@ LiquidUpdaterSaved = {
 },
 },
 ["use_role"] = true,
-["encounterid"] = "2917",
-["class"] = {
+["spec"] = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2917",
 ["size"] = {
 ["multi"] = {
 },
@@ -19973,8 +19973,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Beams soon (tank)",
 ["shadowYOffset"] = -1,
@@ -20128,7 +20128,7 @@ LiquidUpdaterSaved = {
 ["role"] = {
 ["single"] = "TANK",
 },
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
@@ -20137,11 +20137,11 @@ LiquidUpdaterSaved = {
 },
 },
 ["use_role"] = true,
-["encounterid"] = "2917",
-["class"] = {
+["spec"] = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2917",
 ["size"] = {
 ["multi"] = {
 },
@@ -20184,8 +20184,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Taunt for Gruesome Disgorge",
 ["shadowYOffset"] = -1,
@@ -20318,9 +20318,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 445016 and UnitDetailedThreatSituation(\"player\", unit) -- Spectral Slam\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 445016 and UnitDetailedThreatSituation(\"player\", unit) -- Spectral Slam\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -20497,10 +20497,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Spectral Slam cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Spectral Slam cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -20531,15 +20531,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -20853,6 +20853,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2898",
 ["spec"] = {
 ["multi"] = {
 },
@@ -20861,7 +20862,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2898",
 ["size"] = {
 ["multi"] = {
 },
@@ -21083,11 +21083,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Decimate (cast)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Decimate (cast)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -21105,13 +21105,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -21155,6 +21155,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2898",
 ["spec"] = {
 ["multi"] = {
 },
@@ -21163,7 +21164,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2898",
 ["size"] = {
 ["multi"] = {
 },
@@ -21384,11 +21384,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Shattering Sweep",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Shattering Sweep",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -21406,13 +21406,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -21456,6 +21456,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2898",
 ["spec"] = {
 ["multi"] = {
 },
@@ -21464,7 +21465,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2898",
 ["size"] = {
 ["multi"] = {
 },
@@ -21683,11 +21683,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Phase Blades (cast)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Phase Blades (cast)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -21705,13 +21705,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["grow"] = "LEFT",
@@ -21819,7 +21819,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -21839,13 +21839,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Sikran, Captain of the Sureki - Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "lsiiq0xZ9Mp",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "lsiiq0xZ9Mp",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -21931,8 +21931,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -22034,7 +22034,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -22048,7 +22048,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -22125,9 +22125,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -22170,14 +22170,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Cosmic Wound",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -22296,11 +22296,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "rJzLUxNZO8n",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -22340,10 +22340,10 @@ LiquidUpdaterSaved = {
 433560,
 },
 ["useGroup_count"] = true,
-["use_specific_unit"] = true,
+["subeventPrefix"] = "SPELL",
 ["use_exact_spellId"] = false,
-["unit"] = "boss1",
 ["use_unit"] = true,
+["unit"] = "boss1",
 ["duration"] = "5.5",
 ["names"] = {
 },
@@ -22368,7 +22368,7 @@ LiquidUpdaterSaved = {
 ["use_absorbMode"] = true,
 ["auranames"] = {
 },
-["subeventPrefix"] = "SPELL",
+["use_specific_unit"] = true,
 ["percentpower"] = "",
 ["percentpower_operator"] = ">=",
 },
@@ -22458,8 +22458,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -22489,14 +22489,14 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
-["auraRotation"] = 0,
-["crop_y"] = 0.41,
 ["config"] = {
 },
+["crop_y"] = 0.41,
+["uid"] = "kLCULBQhbk3",
 ["useAdjustededMax"] = false,
 ["backgroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 ["source"] = "import",
@@ -22544,22 +22544,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Decimate",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2898",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2898",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -22568,7 +22568,7 @@ LiquidUpdaterSaved = {
 ["alpha"] = 1,
 ["width"] = 120,
 ["desaturateForeground"] = false,
-["uid"] = "kLCULBQhbk3",
+["auraRotation"] = 0,
 ["inverse"] = false,
 ["authorOptions"] = {
 },
@@ -22689,11 +22689,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "8vzum0bdEFP",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -22745,13 +22745,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED:SPELL_CAST_SUCCESS",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 20,\n            assignment = string.format(\"Dispel %s\", WA_ClassColorName(\"player\")),\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if not (LiquidAPI and LiquidAPI.GetCooldownBySpellID) then return end\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" then\n            if spellID == 433475 then -- Phase Blades\n                aura_env.phaseBladesCount = aura_env.phaseBladesCount + 1\n                aura_env.assignedEvokers = {}\n            elseif spellID == 456420 then -- Shattering Sweep\n                aura_env.phaseBladesCount = 0\n                aura_env.assignedEvokers = {}\n            end\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 434860 then -- Phase Blades (bleed)\n            -- If the target is a (dark iron) dwarf and has their racial available, they are assigned to use it\n            local stoneformInfo = LiquidAPI:GetCooldownBySpellID(destGUID, 20594)\n            local firebloodInfo = LiquidAPI:GetCooldownBySpellID(destGUID, 265221)\n            \n            if stoneformInfo and stoneformInfo.available or firebloodInfo and firebloodInfo.available then\n                if destGUID == WeakAuras.myGUID then\n                    allstates[\"\"] = {\n                        show = true,\n                        changed = true,\n                        progressType = \"timed\",\n                        duration = 20,\n                        expirationTime = GetTime() + 20,\n                        assignment = \"Stoneform bleed\",\n                        GUID = destGUID,\n                        autoHide = true\n                    }\n                end\n                \n                return true\n            end\n            \n            if aura_env.phaseBladesCount ~= 2 then return end\n            \n            -- Loop through evokers in order\n            -- The first evoker that has not yet been assigned, and has Cauterizing Flame available gets assigned to dispel\n            for _, GUID in ipairs(aura_env.evokers) do\n                if not aura_env.assignedEvokers[GUID] then\n                    local cauterizingFlameInfo = LiquidAPI:GetCooldownBySpellID(GUID, 374251)\n                    \n                    if cauterizingFlameInfo and cauterizingFlameInfo.available then\n                        aura_env.assignedEvokers[GUID] = true\n                        \n                        if GUID == WeakAuras.myGUID then\n                            local unit = aura_env.GUIDToUnit[destGUID]\n                            \n                            allstates[\"\"] = {\n                                show = true,\n                                changed = true,\n                                progressType = \"timed\",\n                                duration = 20,\n                                expirationTime = GetTime() + 20,\n                                assignment = string.format(\"Dispel %s\", WA_ClassColorName(unit)),\n                                GUID = destGUID,\n                                unit = unit,\n                                autoHide = true\n                            }\n                        end\n                        \n                        return true\n                    end\n                end\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and spellID == 434860 then -- Phase Blades (bleed)\n            local state = allstates[\"\"]\n            \n            if state and state.GUID == destGUID then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.phaseBladesCount = 0\n        aura_env.evokers = {}\n        aura_env.assignedEvokers = {}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            local GUID = UnitGUID(unit)\n            \n            aura_env.GUIDToUnit[GUID] = unit\n            \n            if UnitClassBase(unit) == \"EVOKER\" then\n                table.insert(aura_env.evokers, GUID)\n            end\n        end\n        \n        table.sort(aura_env.evokers)\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 20,\n            expirationTime = GetTime() + 20,\n            assignment = string.format(\"Dispel %s\", WA_ClassColorName(\"player\")),\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if not (LiquidAPI and LiquidAPI.GetCooldownBySpellID) then return end\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" then\n            if spellID == 433475 then -- Phase Blades\n                aura_env.phaseBladesCount = aura_env.phaseBladesCount + 1\n                aura_env.assignedEvokers = {}\n            elseif spellID == 456420 then -- Shattering Sweep\n                aura_env.phaseBladesCount = 0\n                aura_env.assignedEvokers = {}\n            end\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 434860 then -- Phase Blades (bleed)\n            -- If the target is a (dark iron) dwarf and has their racial available, they are assigned to use it\n            local stoneformInfo = LiquidAPI:GetCooldownBySpellID(destGUID, 20594)\n            local firebloodInfo = LiquidAPI:GetCooldownBySpellID(destGUID, 265221)\n            \n            if stoneformInfo and stoneformInfo.available or firebloodInfo and firebloodInfo.available then\n                if destGUID == WeakAuras.myGUID then\n                    allstates[\"\"] = {\n                        show = true,\n                        changed = true,\n                        progressType = \"timed\",\n                        duration = 20,\n                        expirationTime = GetTime() + 20,\n                        assignment = \"Stoneform bleed\",\n                        GUID = destGUID,\n                        autoHide = true\n                    }\n                end\n                \n                return true\n            end\n            \n            if aura_env.phaseBladesCount ~= 2 then return end\n            \n            -- Loop through evokers in order\n            -- The first evoker that has not yet been assigned, and has Cauterizing Flame available gets assigned to dispel\n            for _, GUID in ipairs(aura_env.evokers) do\n                if not aura_env.assignedEvokers[GUID] then\n                    local cauterizingFlameInfo = LiquidAPI:GetCooldownBySpellID(GUID, 374251)\n                    \n                    if cauterizingFlameInfo and cauterizingFlameInfo.available then\n                        aura_env.assignedEvokers[GUID] = true\n                        \n                        if GUID == WeakAuras.myGUID then\n                            local unit = aura_env.GUIDToUnit[destGUID]\n                            \n                            allstates[\"\"] = {\n                                show = true,\n                                changed = true,\n                                progressType = \"timed\",\n                                duration = 20,\n                                expirationTime = GetTime() + 20,\n                                assignment = string.format(\"Dispel %s\", WA_ClassColorName(unit)),\n                                GUID = destGUID,\n                                unit = unit,\n                                autoHide = true\n                            }\n                        end\n                        \n                        return true\n                    end\n                end\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and spellID == 434860 then -- Phase Blades (bleed)\n            local state = allstates[\"\"]\n            \n            if state and state.GUID == destGUID then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.phaseBladesCount = 0\n        aura_env.evokers = {}\n        aura_env.assignedEvokers = {}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            local GUID = UnitGUID(unit)\n            \n            aura_env.GUIDToUnit[GUID] = unit\n            \n            if UnitClassBase(unit) == \"EVOKER\" then\n                table.insert(aura_env.evokers, GUID)\n            end\n        end\n        \n        table.sort(aura_env.evokers)\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -22796,15 +22796,15 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["class"] = {
+["multi"] = {
+},
+},
 ["spec"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2898",
-["class"] = {
-["multi"] = {
-},
-},
 ["size"] = {
 ["multi"] = {
 },
@@ -22825,13 +22825,13 @@ LiquidUpdaterSaved = {
 ["config"] = {
 },
 ["xOffset"] = 0,
-["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Phase Blades bleed removal assignments",
 ["shadowYOffset"] = -1,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
-["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["uid"] = "qcrOP(igwl)",
 ["authorOptions"] = {
 },
@@ -22958,11 +22958,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "DhQLZIOThCX",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -23078,9 +23078,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 435401 and UnitDetailedThreatSituation(\"player\", unit) -- Expose\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 435401 and UnitDetailedThreatSituation(\"player\", unit) -- Expose\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -23272,10 +23272,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Expose cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Expose cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -23306,15 +23306,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -23426,9 +23426,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 435403 and UnitDetailedThreatSituation(\"player\", unit) -- Phase Lunge\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 435403 and UnitDetailedThreatSituation(\"player\", unit) -- Phase Lunge\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -23620,10 +23620,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Phase Lunge cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Phase Lunge cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -23654,15 +23654,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -23774,9 +23774,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 435403 and not UnitDetailedThreatSituation(\"player\", unit) -- Phase Lunge\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 435403 and not UnitDetailedThreatSituation(\"player\", unit) -- Phase Lunge\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -23993,10 +23993,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Phase Lunge cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Phase Lunge cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -24027,15 +24027,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -24146,7 +24146,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -24166,13 +24166,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Sikran, Captain of the Sureki - Tank Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "esH69dbswc)",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "esH69dbswc)",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -24250,7 +24250,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -24264,10 +24264,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -24298,13 +24298,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -24325,12 +24325,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -24340,17 +24340,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -24446,14 +24446,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Expose",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -24533,7 +24533,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -24547,10 +24547,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -24581,13 +24581,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -24608,12 +24608,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -24623,17 +24623,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -24729,14 +24729,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Pierced Defenses",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -24792,6 +24792,7 @@ LiquidUpdaterSaved = {
 },
 ["columnSpace"] = 1,
 ["internalVersion"] = 78,
+["selfPoint"] = "TOP",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -24812,7 +24813,6 @@ LiquidUpdaterSaved = {
 ["easeType"] = "none",
 },
 },
-["selfPoint"] = "TOP",
 ["align"] = "CENTER",
 ["borderColor"] = {
 0,
@@ -24876,12 +24876,12 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Sikran, Captain of the Sureki - Co-Tank Icons",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = "A(E1BeKWCoz",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["uid"] = "A(E1BeKWCoz",
 ["useLimit"] = false,
 ["xOffset"] = 0,
 ["conditions"] = {
@@ -25014,13 +25014,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -25040,7 +25040,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -25056,16 +25056,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -25161,14 +25161,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Expose (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -25303,13 +25303,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -25329,7 +25329,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -25345,16 +25345,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -25450,14 +25450,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Pierced Defenses (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -26046,6 +26046,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2918",
 ["spec"] = {
 ["multi"] = {
 },
@@ -26054,7 +26055,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2918",
 ["size"] = {
 ["multi"] = {
 },
@@ -26274,11 +26274,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Web Reave",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Web Reave",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -26296,13 +26296,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -26346,6 +26346,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2918",
 ["spec"] = {
 ["multi"] = {
 },
@@ -26354,7 +26355,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2918",
 ["size"] = {
 ["multi"] = {
 },
@@ -26574,11 +26574,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Erosive Spray",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Erosive Spray",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -26596,13 +26596,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -26646,6 +26646,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2918",
 ["spec"] = {
 ["multi"] = {
 },
@@ -26654,7 +26655,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2918",
 ["size"] = {
 ["multi"] = {
 },
@@ -26874,11 +26874,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Enveloping Webs",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Enveloping Webs",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -26896,13 +26896,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -26946,6 +26946,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2918",
 ["spec"] = {
 ["multi"] = {
 },
@@ -26954,7 +26955,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2918",
 ["size"] = {
 ["multi"] = {
 },
@@ -27174,11 +27174,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Acidic Eruption",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Acidic Eruption",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -27196,13 +27196,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["grow"] = "LEFT",
@@ -27301,7 +27301,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["stepAngle"] = 15,
-["animate"] = false,
+["source"] = "import",
 ["alpha"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -27340,13 +27340,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Rasha'nan - Icons",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "RHcDoW39Qkq",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "RHcDoW39Qkq",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -27432,8 +27432,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -27535,7 +27535,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -27549,7 +27549,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -27626,9 +27626,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -27671,14 +27671,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Acidic Stupor",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -27766,8 +27766,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -27869,7 +27869,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -27883,7 +27883,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -27960,9 +27960,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -28005,14 +28005,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Corrosion",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -28100,8 +28100,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -28203,7 +28203,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -28217,7 +28217,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -28294,9 +28294,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -28339,14 +28339,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Acid Pool",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -28434,8 +28434,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -28537,7 +28537,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -28551,7 +28551,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -28628,9 +28628,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -28673,14 +28673,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Infested Bite",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -28768,8 +28768,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -28871,7 +28871,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -28885,7 +28885,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -28962,9 +28962,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -29007,14 +29007,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Lingering Erosion",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -29102,8 +29102,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -29205,7 +29205,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -29219,7 +29219,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -29296,9 +29296,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -29341,14 +29341,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Sticky Webs",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -29468,11 +29468,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "QNrOob6WbR9",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -29555,8 +29555,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -29586,14 +29586,14 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
-["auraRotation"] = 0,
-["crop_y"] = 0.41,
 ["config"] = {
 },
+["crop_y"] = 0.41,
+["uid"] = "RFuIB8(zXao",
 ["useAdjustededMax"] = false,
 ["backgroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 ["source"] = "import",
@@ -29641,22 +29641,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Rolling Acid",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2918",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2918",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -29665,7 +29665,7 @@ LiquidUpdaterSaved = {
 ["alpha"] = 1,
 ["width"] = 120,
 ["desaturateForeground"] = false,
-["uid"] = "RFuIB8(zXao",
+["auraRotation"] = 0,
 ["inverse"] = false,
 ["authorOptions"] = {
 },
@@ -29754,8 +29754,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -29785,14 +29785,14 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
-["auraRotation"] = 0,
-["crop_y"] = 0.41,
 ["config"] = {
 },
+["crop_y"] = 0.41,
+["uid"] = "gysiJ5z)(63",
 ["useAdjustededMax"] = false,
 ["backgroundTexture"] = "Interface\\Addons\\WeakAuras\\PowerAurasMedia\\Auras\\Aura3",
 ["source"] = "import",
@@ -29840,22 +29840,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Tacky Threads",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2918",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2918",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -29864,7 +29864,7 @@ LiquidUpdaterSaved = {
 ["alpha"] = 1,
 ["width"] = 120,
 ["desaturateForeground"] = false,
-["uid"] = "gysiJ5z)(63",
+["auraRotation"] = 0,
 ["inverse"] = false,
 ["authorOptions"] = {
 },
@@ -29985,11 +29985,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "XVP(pOSf4sd",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -30056,20 +30056,20 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2918",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 40,
@@ -30109,8 +30109,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Enveloping Webs (frontal) countdown",
 ["shadowYOffset"] = -1,
@@ -30243,11 +30243,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "gt4MR1CY3st",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -30363,9 +30363,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 444687 and UnitDetailedThreatSituation(\"player\", unit) -- Savage Assault\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 444687 and UnitDetailedThreatSituation(\"player\", unit) -- Savage Assault\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -30542,10 +30542,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Savage Assault cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Savage Assault cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -30576,15 +30576,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -30696,9 +30696,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 444687 and not UnitDetailedThreatSituation(\"player\", unit) -- Savage Assault\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 444687 and not UnitDetailedThreatSituation(\"player\", unit) -- Savage Assault\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -30891,10 +30891,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Savage Assault cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Savage Assault cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -30925,15 +30925,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -31116,8 +31116,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Savage Wound taunt",
 ["shadowYOffset"] = -1,
@@ -31352,7 +31352,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -31366,10 +31366,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -31400,13 +31400,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -31427,12 +31427,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -31442,17 +31442,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -31548,14 +31548,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Savage Wound",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -31831,13 +31831,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -31857,7 +31857,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -31873,16 +31873,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -31978,14 +31978,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Savage Wound (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -32311,6 +32311,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -32319,7 +32320,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -32610,11 +32610,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Ingest Black Blood",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Ingest Black Blood",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -32632,13 +32632,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -32682,6 +32682,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -32690,7 +32691,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -32723,9 +32723,9 @@ LiquidUpdaterSaved = {
 ["useMatch_count"] = true,
 ["useExactSpellId"] = true,
 ["subeventSuffix"] = "_CAST_START",
-["unit"] = "group",
-["event"] = "Health",
 ["subeventPrefix"] = "SPELL",
+["event"] = "Health",
+["unit"] = "group",
 ["names"] = {
 },
 ["combineMode"] = "showHighest",
@@ -32910,11 +32910,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Caustic Reaction",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Caustic Reaction",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -32932,13 +32932,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -32982,6 +32982,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -32990,7 +32991,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -33215,11 +33215,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Unstable Infusion (swirls)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Unstable Infusion (swirls)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -33237,13 +33237,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -33289,6 +33289,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -33297,7 +33298,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -33335,9 +33335,9 @@ LiquidUpdaterSaved = {
 ["useMatch_count"] = true,
 ["useExactSpellId"] = true,
 ["subeventSuffix"] = "_CAST_START",
-["unit"] = "group",
-["event"] = "Health",
 ["subeventPrefix"] = "SPELL",
+["event"] = "Health",
+["unit"] = "group",
 ["names"] = {
 },
 ["combineMode"] = "showHighest",
@@ -33519,33 +33519,33 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["sparkHeight"] = 30,
+["anchorFrameParent"] = false,
 ["adjustedMin"] = "",
 ["anchorFrameType"] = "SCREEN",
 ["frameStrata"] = 1,
 ["semver"] = "1.0.241",
 ["parent"] = "Broodtwister Ovi'nax - Bars",
-["sparkHidden"] = "NEVER",
 ["id"] = "Volatile Concoction (timer)",
+["sparkHidden"] = "NEVER",
 ["useCooldownModRate"] = true,
 ["width"] = 270,
 ["iconSource"] = -1,
-["anchorFrameParent"] = false,
+["sparkHeight"] = 30,
 ["inverse"] = false,
 ["config"] = {
 },
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
-},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
+},
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -33664,7 +33664,7 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -33684,13 +33684,13 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Broodtwister Ovi'nax - Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "rOhd8nNsCA7",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "rOhd8nNsCA7",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -33777,8 +33777,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -33852,13 +33852,13 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_anchorPoint"] = "OUTER_TOP",
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 24,
 ["anchorXOffset"] = 0,
-["text_fontType"] = "OUTLINE",
+["text_visible"] = true,
 },
 {
 ["text_shadowXOffset"] = 0,
@@ -33883,7 +33883,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -33897,7 +33897,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -33974,9 +33974,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -34019,14 +34019,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Violent Discharge",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -34115,8 +34115,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -34190,13 +34190,13 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_anchorPoint"] = "OUTER_TOP",
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 24,
 ["anchorXOffset"] = 0,
-["text_fontType"] = "OUTLINE",
+["text_visible"] = true,
 },
 {
 ["text_shadowXOffset"] = 0,
@@ -34221,7 +34221,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -34235,7 +34235,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -34312,9 +34312,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -34357,14 +34357,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Sanguine Overflow",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -34453,8 +34453,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -34528,13 +34528,13 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_anchorPoint"] = "OUTER_TOP",
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 24,
 ["anchorXOffset"] = 0,
-["text_fontType"] = "OUTLINE",
+["text_visible"] = true,
 },
 {
 ["text_shadowXOffset"] = 0,
@@ -34559,7 +34559,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -34573,7 +34573,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -34650,9 +34650,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -34695,14 +34695,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Unstable Infusion",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -34790,8 +34790,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -34893,7 +34893,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -34907,7 +34907,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -34984,9 +34984,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -35029,14 +35029,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Unstable Web",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -35124,8 +35124,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -35227,7 +35227,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -35241,7 +35241,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -35318,9 +35318,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -35363,14 +35363,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Infest",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -35461,8 +35461,8 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -35564,7 +35564,7 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -35578,7 +35578,7 @@ LiquidUpdaterSaved = {
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -35655,9 +35655,9 @@ LiquidUpdaterSaved = {
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -35700,14 +35700,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Blood Parasite Fixate",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -35826,11 +35826,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "fNEk9hv9Ezd",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -35897,20 +35897,20 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2919",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 40,
@@ -35950,8 +35950,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Pre-spread for Sticky Web",
 ["shadowYOffset"] = -1,
@@ -36082,11 +36082,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "hCl9LN3mgNW",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -36132,13 +36132,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "LIQUID_ASSIGNMENT_EVENT, CLEU:SPELL_AURA_APPLIED, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 8,\n            expirationTime = GetTime() + 8,\n            assignment = math.random(4),\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        local assignments = {}\n        \n        -- Remove hard assigned GUIDs from affected table add them to assignments\n        for i, GUID in ipairs_reverse(aura_env.affected) do\n            local hardAssignment = aura_env.hardAssignments[GUID]\n            \n            if hardAssignment then\n                table.remove(aura_env.affected, i)\n                \n                assignments[hardAssignment] = GUID\n            end\n        end\n        \n        aura_env.SortTable(aura_env.affected)\n        \n        -- Add non-hard assigned players to the assignment table\n        for _, GUID in ipairs(aura_env.affected) do\n            for i = 1, 8 do\n                if not assignments[i] then\n                    assignments[i] = GUID\n                    \n                    break\n                end\n            end\n        end\n        \n        local assignmentIndex = tIndexOf(assignments, WeakAuras.myGUID)\n        \n        if assignmentIndex then\n            local assignment = aura_env.assignments[assignmentIndex]\n            \n            WeakAuras.ScanEvents(\"LIQUID_EXPERIMENTAL_DOSAGE_PLAYER\", assignment) -- Used for auto-marking\n            \n            if aura_env.config.tts then\n                LiquidWeakAuras:PlaySound(aura_env.tts[assignment])\n            end\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = aura_env.duration,\n                expirationTime = GetTime() + aura_env.duration - .2,\n                assignment = assignment,\n                autoHide = true\n            }\n        end\n        \n        -- Used for mark indicators on frame\n        WeakAuras.ScanEvents(\"LIQUID_BROODTWISTER_EXPERIMENTAL_DOSAGE\", assignments, aura_env.duration - .2)\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 440421 then -- Experimental Dosage\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == 1 then\n                local id = aura_env.id\n                \n                C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id) end)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        local _, _, difficultyID = ...\n        \n        aura_env.affected = {}\n        aura_env.duration = difficultyID == 16 and 8 or difficultyID == 15 and 8 or 10\n        aura_env.GUIDToUnit = {}\n        aura_env.hardAssignments = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        if difficultyID == 16 then -- Mythic\n            aura_env.assignments = {\n                1, 1, 2, 2, 3, 3, 4, 4\n            }\n        else\n            aura_env.assignments = {\n                1, 2, 3, 4\n            }\n        end\n        \n        if difficultyID ~= 16 then return end -- MRT note assignments only work on mythic\n        \n        for _, line in LiquidWeakAuras:IterateNoteAssignment() do\n            local mark = LiquidWeakAuras:MarkToNumber(line:match(\"^({.-})\"))\n            \n            if mark and mark < 5 then -- Only marks 1-4 are in use\n                local nameCount = 0\n                \n                if nameCount < 2 then -- Hard assign a maximum of two players per mark\n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if UnitIsVisible(unit) and (word:match(name) or word:match(nickname)) then\n                                nameCount = nameCount + 1\n                                \n                                local assignment = (mark - 1) * 2 + nameCount\n                                local GUID = UnitGUID(unit)\n                                \n                                aura_env.hardAssignments[GUID] = assignment\n                                \n                                break\n                            end\n                        end\n                    end\n                end\n            end\n        end\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 8,\n            expirationTime = GetTime() + 8,\n            assignment = math.random(4),\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        local assignments = {}\n        \n        -- Remove hard assigned GUIDs from affected table add them to assignments\n        for i, GUID in ipairs_reverse(aura_env.affected) do\n            local hardAssignment = aura_env.hardAssignments[GUID]\n            \n            if hardAssignment then\n                table.remove(aura_env.affected, i)\n                \n                assignments[hardAssignment] = GUID\n            end\n        end\n        \n        aura_env.SortTable(aura_env.affected)\n        \n        -- Add non-hard assigned players to the assignment table\n        for _, GUID in ipairs(aura_env.affected) do\n            for i = 1, 8 do\n                if not assignments[i] then\n                    assignments[i] = GUID\n                    \n                    break\n                end\n            end\n        end\n        \n        local assignmentIndex = tIndexOf(assignments, WeakAuras.myGUID)\n        \n        if assignmentIndex then\n            local assignment = aura_env.assignments[assignmentIndex]\n            \n            WeakAuras.ScanEvents(\"LIQUID_EXPERIMENTAL_DOSAGE_PLAYER\", assignment) -- Used for auto-marking\n            \n            if aura_env.config.tts then\n                LiquidWeakAuras:PlaySound(aura_env.tts[assignment])\n            end\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = aura_env.duration,\n                expirationTime = GetTime() + aura_env.duration - .2,\n                assignment = assignment,\n                autoHide = true\n            }\n        end\n        \n        -- Used for mark indicators on frame\n        WeakAuras.ScanEvents(\"LIQUID_BROODTWISTER_EXPERIMENTAL_DOSAGE\", assignments, aura_env.duration - .2)\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 440421 then -- Experimental Dosage\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == 1 then\n                local id = aura_env.id\n                \n                C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id) end)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        local _, _, difficultyID = ...\n        \n        aura_env.affected = {}\n        aura_env.duration = difficultyID == 16 and 8 or difficultyID == 15 and 8 or 10\n        aura_env.GUIDToUnit = {}\n        aura_env.hardAssignments = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        if difficultyID == 16 then -- Mythic\n            aura_env.assignments = {\n                1, 1, 2, 2, 3, 3, 4, 4\n            }\n        else\n            aura_env.assignments = {\n                1, 2, 3, 4\n            }\n        end\n        \n        if difficultyID ~= 16 then return end -- MRT note assignments only work on mythic\n        \n        for _, line in LiquidWeakAuras:IterateNoteAssignment() do\n            local mark = LiquidWeakAuras:MarkToNumber(line:match(\"^({.-})\"))\n            \n            if mark and mark < 5 then -- Only marks 1-4 are in use\n                local nameCount = 0\n                \n                if nameCount < 2 then -- Hard assign a maximum of two players per mark\n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if UnitIsVisible(unit) and (word:match(name) or word:match(nickname)) then\n                                nameCount = nameCount + 1\n                                \n                                local assignment = (mark - 1) * 2 + nameCount\n                                local GUID = UnitGUID(unit)\n                                \n                                aura_env.hardAssignments[GUID] = assignment\n                                \n                                break\n                            end\n                        end\n                    end\n                end\n            end\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -36163,20 +36163,20 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = false,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = false,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2919",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["displayText_format_assignment_format"] = "none",
@@ -36394,10 +36394,10 @@ LiquidUpdaterSaved = {
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "NAME_PLATE_UNIT_ADDED, NAME_PLATE_UNIT_REMOVED, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, ENCOUNTER_START",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"ENCOUNTER_START\" then\n        aura_env.GUIDs = {}\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" and ... then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        \n        if aura_env.GUIDs[GUID] and C_UnitAuras.GetPlayerAuraBySpellID(442250) then -- Fixate\n            allstates[GUID] = {\n                show = true,\n                unit = unit,\n                changed = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and ... then\n        local unit = ... \n        local GUID = UnitGUID(unit)\n        local state = allstates[GUID]\n        \n        if state and state.unit == unit then\n            state.show = false\n            state.changed = true\n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, subEvent, _, sourceGUID, _, _, _, destGUID, _, _, _, spellId = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellId == 442250 and destGUID == WeakAuras.myGUID then -- Fixate\n            aura_env.GUIDs[sourceGUID] = true\n            \n            for _, t in pairs(C_NamePlate.GetNamePlates()) do\n                local unit = t.namePlateUnitToken\n                \n                if UnitGUID(unit) == sourceGUID then\n                    allstates[sourceGUID] = {\n                        show = true,\n                        changed = true,\n                        unit = unit\n                    }\n                    \n                    return true\n                end\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and spellId == 442250 and destGUID == WeakAuras.myGUID then -- Fixate\n            aura_env.GUIDs[sourceGUID] = nil\n            local state = allstates[sourceGUID]\n            \n            if state then\n                state.changed = true\n                state.show = false\n                \n                return true\n            end\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "NAME_PLATE_UNIT_ADDED, NAME_PLATE_UNIT_REMOVED, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, ENCOUNTER_START",
 ["names"] = {
 },
 ["check"] = "event",
@@ -36481,6 +36481,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -36489,7 +36490,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -36512,11 +36512,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "NAMEPLATE",
 ["authorOptions"] = {
 },
-["uid"] = "pffBir4PjGx",
-["width"] = 120,
-["frameStrata"] = 1,
 ["config"] = {
 },
+["width"] = 120,
+["frameStrata"] = 1,
+["uid"] = "pffBir4PjGx",
 ["conditions"] = {
 },
 ["information"] = {
@@ -36726,14 +36726,14 @@ LiquidUpdaterSaved = {
 ["encounterid"] = "2919",
 ["class_and_spec"] = {
 ["multi"] = {
-[1473] = true,
-[270] = true,
+[65] = true,
+[1468] = true,
 [264] = true,
 [105] = true,
-[65] = true,
+[1473] = true,
 [257] = true,
 [256] = true,
-[1468] = true,
+[270] = true,
 },
 },
 ["class"] = {
@@ -36785,14 +36785,14 @@ LiquidUpdaterSaved = {
 1,
 },
 ["yOffset"] = 0,
-["anchorFrameParent"] = false,
+["displayText_format_p_time_precision"] = 1,
 ["displayText_format_c_big_number_format"] = "AbbreviateNumbers",
 ["selfPoint"] = "CENTER",
 ["semver"] = "1.0.241",
 ["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Experimental Dosage absorb amount",
-["displayText_format_p_time_precision"] = 1,
+["anchorFrameParent"] = false,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "UNITFRAME",
 ["xOffset"] = 0,
@@ -36892,14 +36892,14 @@ LiquidUpdaterSaved = {
 ["encounterid"] = "2919",
 ["class_and_spec"] = {
 ["multi"] = {
-[1473] = true,
-[270] = true,
+[65] = true,
+[1468] = true,
 [264] = true,
 [105] = true,
-[65] = true,
+[1473] = true,
 [257] = true,
 [256] = true,
-[1468] = true,
+[270] = true,
 },
 },
 ["class"] = {
@@ -36951,14 +36951,14 @@ LiquidUpdaterSaved = {
 1,
 },
 ["yOffset"] = 0,
-["anchorFrameParent"] = false,
+["displayText_format_p_time_precision"] = 1,
 ["displayText_format_c_big_number_format"] = "AbbreviateNumbers",
 ["selfPoint"] = "CENTER",
 ["semver"] = "1.0.241",
 ["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Ingest Black Blood absorb amount",
-["displayText_format_p_time_precision"] = 1,
+["anchorFrameParent"] = false,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "UNITFRAME",
 ["xOffset"] = 0,
@@ -37006,13 +37006,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "LIQUID_BROODTWISTER_EXPERIMENTAL_DOSAGE, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            mark = string.format(\"{rt%d}\", math.random(4)),\n            unit = \"player\"\n        }\n    elseif event == \"LIQUID_BROODTWISTER_EXPERIMENTAL_DOSAGE\" then\n        local assignments, duration = ...\n        \n        for i, GUID in ipairs(assignments) do\n            local assignment = aura_env.assignments[i]\n            local unit = aura_env.GUIDToUnit[GUID]\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = duration,\n                expirationTime = GetTime() + duration,\n                mark = string.format(\"{rt%d}\", assignment),\n                unit = unit,\n                autoHide = true\n            }\n        end\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        local _, _, difficultyID = ...\n        \n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        if difficultyID == 16 then -- Mythic\n            aura_env.assignments = {\n                1, 1, 2, 2, 3, 3, 4, 4\n            }\n        else\n            aura_env.assignments = {\n                1, 2, 3, 4\n            }\n        end\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            mark = string.format(\"{rt%d}\", math.random(4)),\n            unit = \"player\"\n        }\n    elseif event == \"LIQUID_BROODTWISTER_EXPERIMENTAL_DOSAGE\" then\n        local assignments, duration = ...\n        \n        for i, GUID in ipairs(assignments) do\n            local assignment = aura_env.assignments[i]\n            local unit = aura_env.GUIDToUnit[GUID]\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = duration,\n                expirationTime = GetTime() + duration,\n                mark = string.format(\"{rt%d}\", assignment),\n                unit = unit,\n                autoHide = true\n            }\n        end\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        local _, _, difficultyID = ...\n        \n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        if difficultyID == 16 then -- Mythic\n            aura_env.assignments = {\n                1, 1, 2, 2, 3, 3, 4, 4\n            }\n        else\n            aura_env.assignments = {\n                1, 2, 3, 4\n            }\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -37074,13 +37074,13 @@ LiquidUpdaterSaved = {
 },
 ["uid"] = "WXzpC86b3qM",
 ["parent"] = "Broodtwister Ovi'nax - Raid Frame Glows",
-["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Experimental Dosage frame indicators",
 ["shadowYOffset"] = -1,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "UNITFRAME",
-["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["config"] = {
 },
 ["authorOptions"] = {
@@ -37168,11 +37168,11 @@ LiquidUpdaterSaved = {
 ["unit"] = "group",
 ["spellIds"] = {
 },
-["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, LIQUID_UNSTABLE_WEB, ENCOUNTER_START, LIQUID_ASSIGNMENT_EVENT",
+["custom"] = "function(allstates, event, ...)\n    if event == \"LIQUID_ASSIGNMENT_EVENT\" and ... then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        if not aura_env.assignment then return end\n        \n        table.sort(aura_env.affected)\n        \n        local GUID = aura_env.affected[aura_env.assignment]\n        \n        if not GUID then\n            aura_env.affected = {}\n            \n            return\n        end\n        \n        allstates[GUID] = {\n            show = true,\n            changed = true,\n            unit = aura_env.GUIDToUnit[GUID]\n        }\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"LIQUID_UNSTABLE_WEB\" then\n        local GUID = ...\n        local state = allstates[GUID]\n        \n        if state then\n            WeakAuras.ScanEvents(\"LIQUID_UNSTABLE_WEB_SAFE\", aura_env.GUIDToUnit[GUID])\n            \n            state.show = false\n            state.changed = true\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 446349 then -- Sticky Web\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == 1 then\n                local id = aura_env.id\n                \n                C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id) end)\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and spellID == 446349 then -- Sticky Web\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" and ... then\n        aura_env.affected = {}\n        aura_env.GUIDToUnit = {}\n        \n        local healerGUIDs = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            local GUID = UnitGUID(unit)\n            \n            aura_env.GUIDToUnit[GUID] = unit\n            \n            if UnitGroupRolesAssigned(unit) == \"HEALER\" then\n                table.insert(healerGUIDs, GUID)\n            end\n        end\n        \n        table.sort(healerGUIDs)\n        \n        aura_env.assignment = tIndexOf(healerGUIDs, WeakAuras.myGUID)\n    end\nend",
 ["names"] = {
 },
 ["check"] = "event",
-["custom"] = "function(allstates, event, ...)\n    if event == \"LIQUID_ASSIGNMENT_EVENT\" and ... then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        if not aura_env.assignment then return end\n        \n        table.sort(aura_env.affected)\n        \n        local GUID = aura_env.affected[aura_env.assignment]\n        \n        if not GUID then\n            aura_env.affected = {}\n            \n            return\n        end\n        \n        allstates[GUID] = {\n            show = true,\n            changed = true,\n            unit = aura_env.GUIDToUnit[GUID]\n        }\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"LIQUID_UNSTABLE_WEB\" then\n        local GUID = ...\n        local state = allstates[GUID]\n        \n        if state then\n            WeakAuras.ScanEvents(\"LIQUID_UNSTABLE_WEB_SAFE\", aura_env.GUIDToUnit[GUID])\n            \n            state.show = false\n            state.changed = true\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 446349 then -- Sticky Web\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == 1 then\n                local id = aura_env.id\n                \n                C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id) end)\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and spellID == 446349 then -- Sticky Web\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" and ... then\n        aura_env.affected = {}\n        aura_env.GUIDToUnit = {}\n        \n        local healerGUIDs = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            local GUID = UnitGUID(unit)\n            \n            aura_env.GUIDToUnit[GUID] = unit\n            \n            if UnitGroupRolesAssigned(unit) == \"HEALER\" then\n                table.insert(healerGUIDs, GUID)\n            end\n        end\n        \n        table.sort(healerGUIDs)\n        \n        aura_env.assignment = tIndexOf(healerGUIDs, WeakAuras.myGUID)\n    end\nend",
+["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, LIQUID_UNSTABLE_WEB, ENCOUNTER_START, LIQUID_ASSIGNMENT_EVENT",
 ["useExactSpellId"] = true,
 ["custom_type"] = "stateupdate",
 },
@@ -37290,8 +37290,8 @@ LiquidUpdaterSaved = {
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Sticky Web (not safe)",
 ["shadowYOffset"] = -1,
@@ -37367,11 +37367,11 @@ LiquidUpdaterSaved = {
 ["unit"] = "group",
 ["spellIds"] = {
 },
-["events"] = "LIQUID_UNSTABLE_WEB_SAFE, CLEU:SPELL_AURA_REMOVED",
+["custom"] = "function(allstates, event, ...)\n    if event == \"LIQUID_UNSTABLE_WEB_SAFE\" then\n        local unit = ...\n        \n        allstates[UnitGUID(unit)] = {\n            show = true,\n            changed = true,\n            unit = unit\n        }\n        \n        if aura_env.config.tts then\n            LiquidWeakAuras:PlaySound(\"dispel\")\n        end\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_REMOVED\" and spellID == 446349 then -- Sticky Web\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    end\nend",
 ["names"] = {
 },
 ["check"] = "event",
-["custom"] = "function(allstates, event, ...)\n    if event == \"LIQUID_UNSTABLE_WEB_SAFE\" then\n        local unit = ...\n        \n        allstates[UnitGUID(unit)] = {\n            show = true,\n            changed = true,\n            unit = unit\n        }\n        \n        if aura_env.config.tts then\n            LiquidWeakAuras:PlaySound(\"dispel\")\n        end\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_REMOVED\" and spellID == 446349 then -- Sticky Web\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    end\nend",
+["events"] = "LIQUID_UNSTABLE_WEB_SAFE, CLEU:SPELL_AURA_REMOVED",
 ["useExactSpellId"] = true,
 ["custom_type"] = "stateupdate",
 },
@@ -37490,8 +37490,8 @@ LiquidUpdaterSaved = {
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Sticky Web (safe)",
 ["shadowYOffset"] = -1,
@@ -37691,8 +37691,8 @@ LiquidUpdaterSaved = {
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Volatile Concoction (glow)",
 ["shadowYOffset"] = -1,
@@ -38048,8 +38048,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Volatile Concoction taunt",
 ["shadowYOffset"] = -1,
@@ -38338,10 +38338,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Volatile Concoction DoT",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Volatile Concoction DoT",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -38372,15 +38372,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -38492,9 +38492,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443003 and UnitDetailedThreatSituation(\"player\", unit) -- Volatile Concoction\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443003 and UnitDetailedThreatSituation(\"player\", unit) -- Volatile Concoction\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -38671,10 +38671,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Volatile Concoction cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Volatile Concoction cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -38705,15 +38705,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -38809,9 +38809,9 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        for i = 0, 2 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 1.5,\n                expirationTime = GetTime() + 1.5 - i * 0.2,\n                icon = 2027897,\n                stacks = math.random(0, 4),\n                autoHide = true\n            }\n        end\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local unit, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 438807 and UnitDetailedThreatSituation(\"player\", unit) then -- Vicious Bite\n            local GUID = UnitGUID(unit)\n            local _, _, stacks = WA_GetUnitBuff(unit, 438807) -- Vicious Bite\n            \n            if not stacks then stacks = 0 end\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 1.5,\n                expirationTime = GetTime() + 1.5,\n                icon = 2027897,\n                stacks = stacks,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local _, _, _, _, endTimeMS, _, _, _, spellID = UnitCastingInfo(unit)\n        \n        if not allstates[GUID] and spellID == 438807 and UnitDetailedThreatSituation(\"player\", unit) then -- Vicious Bite\n            local _, _, stacks = WA_GetUnitBuff(unit, 438807) -- Vicious Bite\n            \n            if not stacks then stacks = 0 end\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 1.5,\n                expirationTime = endTimeMS / 1000,\n                icon = 2027897,\n                stacks = stacks,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID = ...\n        \n        if subEvent == \"UNIT_DIED\" then\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        for i = 0, 2 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 1.5,\n                expirationTime = GetTime() + 1.5 - i * 0.2,\n                icon = 2027897,\n                stacks = math.random(0, 4),\n                autoHide = true\n            }\n        end\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local unit, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 438807 and UnitDetailedThreatSituation(\"player\", unit) then -- Vicious Bite\n            local GUID = UnitGUID(unit)\n            local _, _, stacks = WA_GetUnitBuff(unit, 438807) -- Vicious Bite\n            \n            if not stacks then stacks = 0 end\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 1.5,\n                expirationTime = GetTime() + 1.5,\n                icon = 2027897,\n                stacks = stacks,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local _, _, _, _, endTimeMS, _, _, _, spellID = UnitCastingInfo(unit)\n        \n        if not allstates[GUID] and spellID == 438807 and UnitDetailedThreatSituation(\"player\", unit) then -- Vicious Bite\n            local _, _, stacks = WA_GetUnitBuff(unit, 438807) -- Vicious Bite\n            \n            if not stacks then stacks = 0 end\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 1.5,\n                expirationTime = endTimeMS / 1000,\n                icon = 2027897,\n                stacks = stacks,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID = ...\n        \n        if subEvent == \"UNIT_DIED\" then\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    end\nend",
 ["events"] = "UNIT_SPELLCAST_START:nameplate, CLEU:UNIT_DIED, NAME_PLATE_UNIT_ADDED",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
@@ -39074,6 +39074,7 @@ LiquidUpdaterSaved = {
 },
 ["columnSpace"] = 1,
 ["internalVersion"] = 78,
+["selfPoint"] = "TOP",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -39094,7 +39095,6 @@ LiquidUpdaterSaved = {
 ["easeType"] = "none",
 },
 },
-["selfPoint"] = "TOP",
 ["align"] = "CENTER",
 ["borderColor"] = {
 0,
@@ -39158,12 +39158,12 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Broodtwister Ovi'nax - Tank Icons",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = "qi9oipwyjSX",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["uid"] = "qi9oipwyjSX",
 ["useLimit"] = false,
 ["xOffset"] = 0,
 ["conditions"] = {
@@ -39241,7 +39241,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -39255,10 +39255,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -39289,13 +39289,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -39316,12 +39316,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -39331,17 +39331,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -39437,14 +39437,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Volatile Concoction",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -39524,7 +39524,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -39538,10 +39538,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -39572,13 +39572,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -39599,12 +39599,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -39614,17 +39614,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -39720,14 +39720,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Necrotic Wound",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -39783,6 +39783,7 @@ LiquidUpdaterSaved = {
 },
 ["columnSpace"] = 1,
 ["internalVersion"] = 78,
+["selfPoint"] = "TOP",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -39803,7 +39804,6 @@ LiquidUpdaterSaved = {
 ["easeType"] = "none",
 },
 },
-["selfPoint"] = "TOP",
 ["align"] = "CENTER",
 ["borderColor"] = {
 0,
@@ -39867,12 +39867,12 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Broodtwister Ovi'nax - Co-Tank Icons",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = ")fuviim)zcM",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["uid"] = ")fuviim)zcM",
 ["useLimit"] = false,
 ["xOffset"] = 0,
 ["conditions"] = {
@@ -40005,13 +40005,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -40031,7 +40031,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -40047,16 +40047,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -40152,14 +40152,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Volatile Concoction (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -40293,13 +40293,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -40319,7 +40319,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -40335,16 +40335,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -40440,14 +40440,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Necrotic Wound (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -40605,14 +40605,14 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["subeventPrefix"] = "SPELL",
 ["unit"] = "player",
+["custom"] = "function(allstates, event, ...)\n    if event == \"NAME_PLATE_UNIT_ADDED\" then\n        if not aura_env.myMark then return end -- We are not assigned to break any Voracious Worm eggs\n        \n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local npcID = select(6, strsplit(\"-\", GUID))\n        \n        local isWorm = npcID == \"219046\" -- Voracious Worm\n        local inRange = WeakAuras.CheckRange(unit, 5, \"<=\")\n        local inTime = aura_env.castTime and aura_env.castTime + 11.5 > GetTime()\n        local noMark = not GetRaidTargetIndex(unit)\n        \n        if isWorm and inRange and inTime and noMark then\n            SetRaidTarget(unit, aura_env.myMark)\n        end \n    elseif event == \"LIQUID_EXPERIMENTAL_DOSAGE_PLAYER\" then\n        local worldMark = ...\n        \n        aura_env.myMark = aura_env.marks[aura_env.count] and aura_env.marks[aura_env.count][worldMark]\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 442526 then -- Experimental Dosage\n            aura_env.count = aura_env.count + 1\n            aura_env.myMark = nil\n            aura_env.castTime = GetTime() -- Marks can only be applied within 2 seconds of worms spawning (as a safety measure)\n        end\n    elseif event == \"GROUP_ROSTER_UPDATE\" or event == \"STATUS\" then\n        allstates[\"\"] = {\n            show = not (UnitIsGroupLeader(\"player\") or UnitIsGroupAssistant(\"player\")),\n            changed = true\n        }\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0 -- Experimental Dosage cast count\n        aura_env.myMark = nil -- Mark that the worm spawning on the player should get\n        aura_env.marks = {}\n        \n        for _, line in LiquidWeakAuras:IterateNoteAssignment(2) do\n            local marks = {}\n            \n            for mark in line:gmatch(\"%S+\") do\n                mark = tonumber(mark)\n                \n                if mark then\n                    table.insert(marks, mark)\n                end\n            end\n            \n            if next(marks) then\n                table.insert(aura_env.marks, marks)\n            end\n        end\n        \n        if not next(aura_env.marks) then\n            aura_env.marks = aura_env.defaultMarks\n        end\n    end\nend",
 ["events"] = "NAME_PLATE_UNIT_ADDED, UNIT_SPELLCAST_START:boss, ENCOUNTER_START, LIQUID_EXPERIMENTAL_DOSAGE_PLAYER, GROUP_ROSTER_UPDATE",
-["spellIds"] = {
-},
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["names"] = {
 },
-["custom"] = "function(allstates, event, ...)\n    if event == \"NAME_PLATE_UNIT_ADDED\" then\n        if not aura_env.myMark then return end -- We are not assigned to break any Voracious Worm eggs\n        \n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local npcID = select(6, strsplit(\"-\", GUID))\n        \n        local isWorm = npcID == \"219046\" -- Voracious Worm\n        local inRange = WeakAuras.CheckRange(unit, 5, \"<=\")\n        local inTime = aura_env.castTime and aura_env.castTime + 11.5 > GetTime()\n        local noMark = not GetRaidTargetIndex(unit)\n        \n        if isWorm and inRange and inTime and noMark then\n            SetRaidTarget(unit, aura_env.myMark)\n        end \n    elseif event == \"LIQUID_EXPERIMENTAL_DOSAGE_PLAYER\" then\n        local worldMark = ...\n        \n        aura_env.myMark = aura_env.marks[aura_env.count] and aura_env.marks[aura_env.count][worldMark]\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 442526 then -- Experimental Dosage\n            aura_env.count = aura_env.count + 1\n            aura_env.myMark = nil\n            aura_env.castTime = GetTime() -- Marks can only be applied within 2 seconds of worms spawning (as a safety measure)\n        end\n    elseif event == \"GROUP_ROSTER_UPDATE\" or event == \"STATUS\" then\n        allstates[\"\"] = {\n            show = not (UnitIsGroupLeader(\"player\") or UnitIsGroupAssistant(\"player\")),\n            changed = true\n        }\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0 -- Experimental Dosage cast count\n        aura_env.myMark = nil -- Mark that the worm spawning on the player should get\n        aura_env.marks = {}\n        \n        for _, line in LiquidWeakAuras:IterateNoteAssignment(2) do\n            local marks = {}\n            \n            for mark in line:gmatch(\"%S+\") do\n                mark = tonumber(mark)\n                \n                if mark then\n                    table.insert(marks, mark)\n                end\n            end\n            \n            if next(marks) then\n                table.insert(aura_env.marks, marks)\n            end\n        end\n        \n        if not next(aura_env.marks) then\n            aura_env.marks = aura_env.defaultMarks\n        end\n    end\nend",
+["spellIds"] = {
+},
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -40794,13 +40794,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "PESCORUS_PRIVATE_AURA_SEND, LIQUID_PRIVATE_AURA_MACRO",
-["custom"] = "function(event)\n    if event == \"PESCORUS_PRIVATE_AURA_SEND\" or event == \"LIQUID_PRIVATE_AURA_MACRO\" then\n        if C_UnitAuras.GetPlayerAuraBySpellID(446349) then -- Sticky Web\n            LiquidWeakAuras:Broadcast(\"LIQUID_UNSTABLE_WEB\", WeakAuras.myGUID)\n        end\n    end\nend",
 ["custom_type"] = "status",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(event)\n    if event == \"PESCORUS_PRIVATE_AURA_SEND\" or event == \"LIQUID_PRIVATE_AURA_MACRO\" then\n        if C_UnitAuras.GetPlayerAuraBySpellID(446349) then -- Sticky Web\n            LiquidWeakAuras:Broadcast(\"LIQUID_UNSTABLE_WEB\", WeakAuras.myGUID)\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -40829,20 +40829,20 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = false,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = false,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2919",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 12,
@@ -40882,8 +40882,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Sticky Web macro",
 ["shadowYOffset"] = -1,
@@ -40969,6 +40969,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -40977,7 +40978,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -41020,8 +41020,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Fixate TTS",
 ["shadowYOffset"] = -1,
@@ -41105,6 +41105,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2919",
 ["spec"] = {
 ["multi"] = {
 },
@@ -41113,7 +41114,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2919",
 ["size"] = {
 ["multi"] = {
 },
@@ -41156,8 +41156,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Swirls water drop",
 ["shadowYOffset"] = -1,
@@ -41495,6 +41495,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2920",
 ["spec"] = {
 ["multi"] = {
 },
@@ -41503,7 +41504,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2920",
 ["size"] = {
 ["multi"] = {
 },
@@ -41741,11 +41741,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Nether Rift",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Nether Rift",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -41763,13 +41763,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -41813,6 +41813,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2920",
 ["spec"] = {
 ["multi"] = {
 },
@@ -41821,7 +41822,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2920",
 ["size"] = {
 ["multi"] = {
 },
@@ -42039,11 +42039,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Twilight Massacre",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Twilight Massacre",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -42061,13 +42061,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -42111,6 +42111,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2920",
 ["spec"] = {
 ["multi"] = {
 },
@@ -42119,7 +42120,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2920",
 ["size"] = {
 ["multi"] = {
 },
@@ -42337,11 +42337,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Assassination",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Assassination",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -42359,13 +42359,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -42409,6 +42409,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2920",
 ["spec"] = {
 ["multi"] = {
 },
@@ -42417,7 +42418,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2920",
 ["size"] = {
 ["multi"] = {
 },
@@ -42638,11 +42638,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Queensbane (others)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Queensbane (others)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -42660,13 +42660,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -42755,26 +42755,26 @@ LiquidUpdaterSaved = {
 ["subeventPrefix"] = "SPELL",
 ["use_unit"] = true,
 ["use_exact_spellId"] = false,
-["subeventSuffix"] = "_CAST_START",
+["auraspellids"] = {
+"116847",
+},
 ["spellIds"] = {
 },
 ["use_spellId"] = true,
 ["type"] = "custom",
-["spellName"] = 0,
-["useExactSpellId"] = true,
+["debuffType"] = "HELPFUL",
+["subeventSuffix"] = "_CAST_START",
 ["useName"] = false,
 ["use_absorbHealMode"] = true,
-["custom_type"] = "stateupdate",
+["useExactSpellId"] = true,
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3,\n            count = 1,\n            totalCount = 8,\n            expirationTime = GetTime() + 3,\n            autoHide = true\n        }\n        \n        return true\n    elseif event == \"LIQUID_CUSTOM_EVENT\" and ... then\n        local id, count, tickDuration, totalDuration, encounterStart, eternalNight = ...\n        \n        if id ~= aura_env.id then return end\n        if encounterStart ~= aura_env.encounterStart then return end\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = tickDuration,\n            count = count,\n            totalCount = totalDuration / tickDuration,\n            expirationTime = GetTime() + tickDuration,\n            eternalNight = eternalNight,\n            autoHide = true\n        }\n        \n        return true\n    elseif event == \"UNIT_SPELLCAST_SUCCEEDED\" and ... then\n        local spellID = select(3, ...)\n        \n        if spellID == 435405 then -- Starless Night\n            local id = aura_env.id\n            local totalDuration = 24\n            local count = totalDuration / aura_env.duration\n            \n            for i = 0, count - 1 do\n                C_Timer.After(i * aura_env.duration, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id, i + 1, aura_env.duration, totalDuration, aura_env.encounterStart, false) end)\n            end\n        elseif spellID == 442277 then -- Eternal Night\n            local id = aura_env.id\n            local totalDuration = 30\n            local count = totalDuration / aura_env.duration\n            \n            for i = 0, count - 1 do\n                C_Timer.After(i * aura_env.duration, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id, i + 1, aura_env.duration, totalDuration, aura_env.encounterStart, false) end)\n            end\n            \n            C_Timer.After(30, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  1, 3, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(33, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  2, 3, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(36, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  3, 3, 24, aura_env.encounterStart, true) end)\n            \n            C_Timer.After(39, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  4, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(41, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  5, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(43, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  6, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(45, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  7, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(47, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  8, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(49, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id,  9, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(51, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id, 10, 2, 24, aura_env.encounterStart, true) end)\n            C_Timer.After(53, function() WeakAuras.ScanEvents(\"LIQUID_CUSTOM_EVENT\", id, 11, 2, 24, aura_env.encounterStart, true) end)\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        local _, _, difficultyID = ...\n        \n        aura_env.encounterStart = GetTime()\n        aura_env.duration = difficultyID == 16 and 2 or 3\n    end\nend",
 ["custom_hide"] = "timed",
 ["event"] = "Cast",
-["auraspellids"] = {
-"116847",
-},
+["custom_type"] = "stateupdate",
 ["realSpellName"] = 0,
 ["use_spellName"] = true,
 ["events"] = "UNIT_SPELLCAST_SUCCEEDED:boss, LIQUID_CUSTOM_EVENT, ENCOUNTER_START",
-["debuffType"] = "HELPFUL",
+["spellName"] = 0,
 ["check"] = "event",
 ["use_genericShowOn"] = true,
 ["use_track"] = true,
@@ -42973,10 +42973,10 @@ LiquidUpdaterSaved = {
 0.031372549019608,
 0.80000001192093,
 },
-["id"] = "Starless Night",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Starless Night",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -43020,14 +43020,14 @@ LiquidUpdaterSaved = {
 },
 },
 },
+["information"] = {
+["forceEvents"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
 },
 },
 {
@@ -43043,7 +43043,12 @@ LiquidUpdaterSaved = {
 ["Queensbane (list)"] = false,
 },
 ["gridType"] = "RD",
-["fullCircle"] = true,
+["borderColor"] = {
+0,
+0,
+0,
+1,
+},
 ["rowSpace"] = 1,
 ["url"] = "https://wago.io/p5gVWr4D_/242",
 ["actions"] = {
@@ -43099,7 +43104,7 @@ LiquidUpdaterSaved = {
 ["selfPoint"] = "TOP",
 ["anchorPoint"] = "TOP",
 ["groupIcon"] = "1500881",
-["stagger"] = 0,
+["rotation"] = 0,
 ["internalVersion"] = 78,
 ["version"] = 242,
 ["subRegions"] = {
@@ -43132,12 +43137,12 @@ LiquidUpdaterSaved = {
 0.5,
 },
 ["limit"] = 5,
-["source"] = "import",
+["animate"] = false,
 ["gridWidth"] = 5,
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = false,
-["borderEdge"] = "Square Full White",
+["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Raid Leader Lists",
 ["stepAngle"] = 15,
 ["borderSize"] = 2,
 ["sort"] = "descending",
@@ -43156,21 +43161,16 @@ LiquidUpdaterSaved = {
 ["regionType"] = "dynamicgroup",
 ["alpha"] = 1,
 ["anchorFrameType"] = "SELECTFRAME",
-["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Raid Leader Lists",
+["borderEdge"] = "Square Full White",
 ["uid"] = "0yrkMboKjYD",
-["animate"] = false,
-["rotation"] = 0,
+["source"] = "import",
+["stagger"] = 0,
 ["useLimit"] = false,
 ["conditions"] = {
 },
 ["information"] = {
 },
-["borderColor"] = {
-0,
-0,
-0,
-1,
-},
+["fullCircle"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -43411,22 +43411,22 @@ LiquidUpdaterSaved = {
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2920",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2920",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -43434,13 +43434,14 @@ LiquidUpdaterSaved = {
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "ybLMd42BKxh",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -43464,8 +43465,7 @@ LiquidUpdaterSaved = {
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 32,
-["config"] = {
-},
+["uid"] = "ybLMd42BKxh",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -43592,11 +43592,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "4t)l(FmoY(8",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -43696,8 +43696,8 @@ LiquidUpdaterSaved = {
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -43727,7 +43727,7 @@ LiquidUpdaterSaved = {
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -43766,22 +43766,22 @@ LiquidUpdaterSaved = {
 ["id"] = "Queensbane",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2920",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2920",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -43911,11 +43911,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "VvRHj33yeyl",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -43949,13 +43949,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED:SPELL_CAST_SUCCESS",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 9,\n            expirationTime = GetTime() + 9,\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" then\n            if spellID == 437620 then -- Nether Rift\n                aura_env.queensbaneCount = 0\n                aura_env.setCount = aura_env.setCount + 1\n            elseif spellID == 435405 then -- Starless Night\n                aura_env.setCount = 1\n            end\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437343 then -- Queensbane\n            if aura_env.setCount > 1 then return end\n            \n            aura_env.queensbaneCount = aura_env.queensbaneCount + 1\n            \n            if destGUID == WeakAuras.myGUID and (aura_env.queensbaneCount == 5 or aura_env.queensbaneCount == 6) then\n                allstates[\"\"] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"timed\",\n                    duration = 9,\n                    expirationTime = GetTime() + 9,\n                    autoHide = true\n                }\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.setCount = 1\n        aura_env.queensbaneCount = 0\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 9,\n            expirationTime = GetTime() + 9,\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" then\n            if spellID == 437620 then -- Nether Rift\n                aura_env.queensbaneCount = 0\n                aura_env.setCount = aura_env.setCount + 1\n            elseif spellID == 435405 then -- Starless Night\n                aura_env.setCount = 1\n            end\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437343 then -- Queensbane\n            if aura_env.setCount > 1 then return end\n            \n            aura_env.queensbaneCount = aura_env.queensbaneCount + 1\n            \n            if destGUID == WeakAuras.myGUID and (aura_env.queensbaneCount == 5 or aura_env.queensbaneCount == 6) then\n                allstates[\"\"] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"timed\",\n                    duration = 9,\n                    expirationTime = GetTime() + 9,\n                    autoHide = true\n                }\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.setCount = 1\n        aura_env.queensbaneCount = 0\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -43981,20 +43981,20 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2920",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 40,
@@ -44034,8 +44034,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Queensbane go far",
 ["shadowYOffset"] = -1,
@@ -44168,11 +44168,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "5hijPNnZ7eZ",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -44293,9 +44293,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440377 and UnitDetailedThreatSituation(\"player\", unit) -- Void Shredders\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440377 and UnitDetailedThreatSituation(\"player\", unit) -- Void Shredders\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -44472,10 +44472,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Void Shredders cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Void Shredders cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -44506,15 +44506,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -44631,9 +44631,9 @@ LiquidUpdaterSaved = {
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440377 and not UnitDetailedThreatSituation(\"player\", unit) -- Void Shredders\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440377 and not UnitDetailedThreatSituation(\"player\", unit) -- Void Shredders\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -44826,10 +44826,10 @@ LiquidUpdaterSaved = {
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Void Shredders cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Void Shredders cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -44860,15 +44860,15 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -45051,8 +45051,8 @@ LiquidUpdaterSaved = {
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Chasmal Gash taunt",
 ["shadowYOffset"] = -1,
@@ -45287,7 +45287,7 @@ LiquidUpdaterSaved = {
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -45301,10 +45301,10 @@ LiquidUpdaterSaved = {
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -45335,13 +45335,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -45362,12 +45362,12 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -45377,17 +45377,17 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -45483,14 +45483,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Chasmal Gash",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -45544,6 +45544,7 @@ LiquidUpdaterSaved = {
 },
 ["columnSpace"] = 1,
 ["internalVersion"] = 78,
+["selfPoint"] = "TOP",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -45564,7 +45565,6 @@ LiquidUpdaterSaved = {
 ["easeType"] = "none",
 },
 },
-["selfPoint"] = "TOP",
 ["align"] = "CENTER",
 ["borderColor"] = {
 0,
@@ -45628,12 +45628,12 @@ LiquidUpdaterSaved = {
 ["tocversion"] = 110002,
 ["id"] = "Nexus-Princess Ky'veza - Co-Tank Icons",
 ["borderEdge"] = "Square Full White",
-["frameStrata"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["alpha"] = 1,
-["uid"] = "IpHodlU5WBY",
+["anchorFrameType"] = "SELECTFRAME",
+["frameStrata"] = 1,
 ["config"] = {
 },
+["uid"] = "IpHodlU5WBY",
 ["useLimit"] = false,
 ["xOffset"] = 0,
 ["conditions"] = {
@@ -45766,13 +45766,13 @@ LiquidUpdaterSaved = {
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -45792,7 +45792,7 @@ LiquidUpdaterSaved = {
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -45808,16 +45808,16 @@ LiquidUpdaterSaved = {
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -45913,14 +45913,14 @@ LiquidUpdaterSaved = {
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Chasmal Gash (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -46077,13 +46077,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_CAST_SUCCESS",
-["custom"] = "function(allstates, event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" and (spellID == 438245 or spellID == 440650) then -- Twilight Massacre / Assassination\n            aura_env.count = 0\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437343 then -- Queensbane\n            aura_env.count = aura_env.count + 1\n            \n            if destGUID == WeakAuras.myGUID then\n                allstates[\"\"] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"timed\",\n                    duration = 9,\n                    expirationTime = GetTime() + 9,\n                    count = aura_env.count,\n                    autoHide = true\n                }\n                \n                return true\n            end\n        end\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" and (spellID == 438245 or spellID == 440650) then -- Twilight Massacre / Assassination\n            aura_env.count = 0\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437343 then -- Queensbane\n            aura_env.count = aura_env.count + 1\n            \n            if destGUID == WeakAuras.myGUID then\n                allstates[\"\"] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"timed\",\n                    duration = 9,\n                    expirationTime = GetTime() + 9,\n                    count = aura_env.count,\n                    autoHide = true\n                }\n                \n                return true\n            end\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -46103,15 +46103,15 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["class"] = {
+["multi"] = {
+},
+},
 ["spec"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2920",
-["class"] = {
-["multi"] = {
-},
-},
 ["size"] = {
 ["multi"] = {
 },
@@ -46339,19 +46339,19 @@ LiquidUpdaterSaved = {
 ["sortHybridTable"] = {
 ["Unleashed Swarm"] = false,
 ["Web Vortex"] = false,
-["Venomous Rain"] = false,
+["Web Bomb"] = false,
 ["Strands of Reality"] = false,
 ["Entangled"] = false,
 ["Stinging Swarm (cast)"] = false,
 ["Entropic Desolation"] = false,
 ["Cataclysmic Entropy"] = false,
-["Venomous Rain blue orb duration"] = false,
+["Venomous Rain"] = false,
 ["Spike Eruption"] = false,
 ["Venomous Rain red orb duration"] = false,
 ["Reckless Charge (cast)"] = false,
 ["Call of the Swarm"] = false,
 ["Stinging Delirium"] = false,
-["Web Bomb"] = false,
+["Venomous Rain blue orb duration"] = false,
 ["Impaling Eruption"] = false,
 },
 ["fullCircle"] = true,
@@ -46525,6 +46525,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -46533,7 +46534,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -46808,11 +46808,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Entangled",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Entangled",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -46859,13 +46859,13 @@ LiquidUpdaterSaved = {
 },
 },
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -46909,6 +46909,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -46917,7 +46918,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -47192,11 +47192,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Stinging Delirium",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Stinging Delirium",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -47243,13 +47243,13 @@ LiquidUpdaterSaved = {
 },
 },
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -47293,6 +47293,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -47301,7 +47302,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -47522,11 +47522,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Venomous Rain",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Venomous Rain",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -47544,13 +47544,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -47594,6 +47594,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -47602,7 +47603,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -47823,11 +47823,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Call of the Swarm",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Call of the Swarm",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -47845,13 +47845,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -47895,6 +47895,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -47903,7 +47904,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -48124,11 +48124,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Reckless Charge (cast)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Reckless Charge (cast)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -48146,13 +48146,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -48196,6 +48196,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -48204,7 +48205,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -48425,11 +48425,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Impaling Eruption",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Impaling Eruption",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -48447,13 +48447,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -48497,6 +48497,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -48505,7 +48506,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -48726,11 +48726,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Spike Eruption",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Spike Eruption",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -48748,13 +48748,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -48798,6 +48798,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -48806,7 +48807,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -49027,11 +49027,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Web Bomb",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Web Bomb",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -49049,13 +49049,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -49099,6 +49099,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -49107,7 +49108,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -49338,11 +49338,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Web Vortex",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Web Vortex",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -49360,13 +49360,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -49410,6 +49410,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -49418,7 +49419,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -49639,11 +49639,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Entropic Desolation",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Entropic Desolation",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -49661,13 +49661,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -49711,6 +49711,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -49719,7 +49720,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -49940,11 +49940,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Strands of Reality",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Strands of Reality",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -49962,13 +49962,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -50012,6 +50012,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -50020,7 +50021,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -50241,11 +50241,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Stinging Swarm (cast)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Stinging Swarm (cast)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -50263,13 +50263,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -50313,6 +50313,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -50321,7 +50322,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -50542,11 +50542,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Unleashed Swarm",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Unleashed Swarm",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -50564,13 +50564,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -50664,13 +50664,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "CLEU:SPELL_DAMAGE:SPELL_AURA_APPLIED, LIQUID_SILKEN_COURT_ORB_COUNT, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 15,\n            expirationTime = GetTime() + 15,\n            autoHide = true\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_ORB_COUNT\" then\n        local _, redCount = ...\n        \n        if redCount == 0 then\n            for _, state in pairs(allstates) do\n                state.show = false\n                state.changed = true\n            end\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_DAMAGE\" and spellID and aura_env.spellIDs[spellID] and aura_env.redGUIDs[destGUID] then\n            allstates[spellID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 15,\n                expirationTime = GetTime() + 15,\n                autoHide = true\n            }\n            \n            return true\n        elseif subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 455850 then -- Mark of Rage (red)\n                aura_env.redGUIDs[destGUID] = true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.redGUIDs = {}\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 15,\n            expirationTime = GetTime() + 15,\n            autoHide = true\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_ORB_COUNT\" then\n        local _, redCount = ...\n        \n        if redCount == 0 then\n            for _, state in pairs(allstates) do\n                state.show = false\n                state.changed = true\n            end\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_DAMAGE\" and spellID and aura_env.spellIDs[spellID] and aura_env.redGUIDs[destGUID] then\n            allstates[spellID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 15,\n                expirationTime = GetTime() + 15,\n                autoHide = true\n            }\n            \n            return true\n        elseif subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 455850 then -- Mark of Rage (red)\n                aura_env.redGUIDs[destGUID] = true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.redGUIDs = {}\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -50845,11 +50845,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Venomous Rain red orb duration",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Venomous Rain red orb duration",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -50867,13 +50867,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -50967,13 +50967,13 @@ LiquidUpdaterSaved = {
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "CLEU:SPELL_DAMAGE:SPELL_AURA_APPLIED, LIQUID_SILKEN_COURT_ORB_COUNT, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 15,\n            expirationTime = GetTime() + 15,\n            autoHide = true\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_ORB_COUNT\" then\n        local _, redCount = ...\n        \n        if redCount == 0 then\n            for _, state in pairs(allstates) do\n                state.show = false\n                state.changed = true\n            end\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_DAMAGE\" and spellID and aura_env.spellIDs[spellID] and aura_env.blueGUIDs[destGUID] then\n            allstates[spellID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 15,\n                expirationTime = GetTime() + 15,\n                autoHide = true\n            }\n            \n            return true\n        elseif subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 455849 then -- Mark of Paranoia (blue)\n                aura_env.blueGUIDs[destGUID] = true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.blueGUIDs = {}\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 15,\n            expirationTime = GetTime() + 15,\n            autoHide = true\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_ORB_COUNT\" then\n        local _, redCount = ...\n        \n        if redCount == 0 then\n            for _, state in pairs(allstates) do\n                state.show = false\n                state.changed = true\n            end\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_DAMAGE\" and spellID and aura_env.spellIDs[spellID] and aura_env.blueGUIDs[destGUID] then\n            allstates[spellID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 15,\n                expirationTime = GetTime() + 15,\n                autoHide = true\n            }\n            \n            return true\n        elseif subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 455849 then -- Mark of Paranoia (blue)\n                aura_env.blueGUIDs[destGUID] = true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.blueGUIDs = {}\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -51148,11 +51148,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Venomous Rain blue orb duration",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Venomous Rain blue orb duration",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -51170,13 +51170,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -51220,6 +51220,7 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -51228,7 +51229,6 @@ LiquidUpdaterSaved = {
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -51449,11 +51449,11 @@ LiquidUpdaterSaved = {
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Cataclysmic Entropy",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Cataclysmic Entropy",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -51471,13 +51471,13 @@ LiquidUpdaterSaved = {
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["controlledChildren"] = {
@@ -51588,11 +51588,11 @@ LiquidUpdaterSaved = {
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "vdBLTbl60C8",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -51619,15 +51619,12 @@ LiquidUpdaterSaved = {
 ["trigger"] = {
 ["type"] = "aura2",
 ["useMatch_count"] = true,
+["useExactSpellId"] = true,
 ["subeventSuffix"] = "_CAST_START",
-["auraspellids"] = {
-"450980",
-"451277",
-},
-["unit"] = "boss",
+["subeventPrefix"] = "SPELL",
 ["fetchTooltip"] = true,
 ["event"] = "Health",
-["subeventPrefix"] = "SPELL",
+["unit"] = "boss",
 ["names"] = {
 },
 ["use_tooltipValue"] = false,
@@ -51636,7 +51633,10 @@ LiquidUpdaterSaved = {
 ["specificUnit"] = "boss1",
 ["match_count"] = "0",
 ["match_countOperator"] = ">",
-["useExactSpellId"] = true,
+["auraspellids"] = {
+"450980",
+"451277",
+},
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -51653,9 +51653,9 @@ LiquidUpdaterSaved = {
 ["names"] = {
 },
 ["use_unit"] = true,
+["events"] = "CLEU:SPELL_AURA_APPLIED",
 ["spellIds"] = {
 },
-["events"] = "CLEU:SPELL_AURA_APPLIED",
 ["unit"] = "player",
 ["check"] = "event",
 ["subeventSuffix"] = "_CAST_START",
@@ -51795,18 +51795,18 @@ LiquidUpdaterSaved = {
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2921",
-["use_never"] = false,
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["single"] = "MONK",
 ["multi"] = {
 ["MONK"] = true,
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2921",
 ["spec"] = {
 ["single"] = 1,
 ["multi"] = {
@@ -51821,10 +51821,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["config"] = {
-},
-["source"] = "import",
 ["uid"] = "1m4JsXHyEs9",
+["source"] = "import",
+["sparkColor"] = {
+1,
+1,
+1,
+1,
+},
 ["xOffset"] = 0,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
@@ -51833,13 +51837,13 @@ true,
 ["height"] = 24,
 ["sparkHidden"] = "NEVER",
 ["icon_side"] = "RIGHT",
-["spark"] = false,
 ["semver"] = "1.0.241",
+["auto"] = true,
 ["sparkHeight"] = 20,
 ["texture"] = "Solid",
 ["sparkTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["zoom"] = 0.3,
-["auto"] = true,
+["spark"] = false,
 ["tocversion"] = 110002,
 ["id"] = "Shatter Existence/Spike Storm (shield)",
 ["sparkOffsetY"] = 0,
@@ -51851,11 +51855,7 @@ true,
 0,
 0.80000001192093,
 },
-["sparkColor"] = {
-1,
-1,
-1,
-1,
+["config"] = {
 },
 ["inverse"] = false,
 ["selfPoint"] = "CENTER",
@@ -51909,13 +51909,13 @@ true,
 ["trigger"] = {
 ["debuffType"] = "HELPFUL",
 ["useMatch_count"] = true,
-["useExactSpellId"] = true,
-["match_countOperator"] = ">",
-["match_count"] = "0",
-["type"] = "aura2",
 ["auraspellids"] = {
 "450980",
 },
+["useExactSpellId"] = true,
+["match_count"] = "0",
+["type"] = "aura2",
+["match_countOperator"] = ">",
 ["unit"] = "boss",
 },
 ["untrigger"] = {
@@ -52034,10 +52034,14 @@ true,
 },
 ["sparkBlendMode"] = "BLEND",
 ["useAdjustededMax"] = true,
-["config"] = {
-},
-["source"] = "import",
 ["uid"] = "ghyGYBwJfOf",
+["source"] = "import",
+["sparkColor"] = {
+0.98823535442352,
+0.21176472306252,
+1,
+1,
+},
 ["xOffset"] = 0,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
@@ -52046,13 +52050,13 @@ true,
 ["height"] = 24,
 ["sparkHidden"] = "NEVER",
 ["icon_side"] = "RIGHT",
-["spark"] = true,
 ["semver"] = "1.0.241",
+["auto"] = true,
 ["sparkHeight"] = 24,
 ["texture"] = "Solid",
 ["sparkTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["zoom"] = 0.3,
-["auto"] = true,
+["spark"] = true,
 ["tocversion"] = 110002,
 ["id"] = "Shatter Existence intermission timer",
 ["sparkOffsetY"] = 0,
@@ -52064,11 +52068,7 @@ true,
 0,
 0,
 },
-["sparkColor"] = {
-0.98823535442352,
-0.21176472306252,
-1,
-1,
+["config"] = {
 },
 ["inverse"] = false,
 ["selfPoint"] = "CENTER",
@@ -52155,7 +52155,7 @@ true,
 ["version"] = 242,
 ["subRegions"] = {
 },
-["frameStrata"] = 1,
+["gridWidth"] = 5,
 ["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Lists",
 ["load"] = {
 ["size"] = {
@@ -52182,16 +52182,16 @@ true,
 1,
 0.5,
 },
-["gridWidth"] = 5,
-["source"] = "import",
-["stepAngle"] = 15,
+["frameStrata"] = 1,
+["animate"] = false,
+["regionType"] = "dynamicgroup",
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = false,
 ["borderEdge"] = "Square Full White",
-["regionType"] = "dynamicgroup",
+["stepAngle"] = 15,
 ["borderSize"] = 2,
-["limit"] = 5,
+["sort"] = "custom",
 ["animation"] = {
 ["start"] = {
 ["easeStrength"] = 3,
@@ -52221,10 +52221,10 @@ true,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "The Silken Court - Lists",
-["sort"] = "custom",
+["limit"] = 5,
 ["alpha"] = 1,
 ["anchorFrameType"] = "SELECTFRAME",
-["animate"] = false,
+["source"] = "import",
 ["uid"] = "8YWGA42GozO",
 ["parent"] = "The Silken Court",
 ["internalVersion"] = 78,
@@ -52259,10 +52259,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, ENCOUNTER_START",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        for i = 1, 10 do\n            local debuffColor1 = math.random(2) == 1 and \"BLUE\" or \"RED\"\n            local debuffColor2 = math.random(2) == 1 and \"BLUE\" or \"RED\"\n            \n            local index = 0\n            \n            if debuffColor1 == debuffColor2 then\n                if debuffColor1 == \"RED\" then\n                    index = 2\n                elseif debuffColor1 == \"BLUE\" then\n                    index = 1\n                end\n            end\n            \n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"static\",\n                value = 0.5,\n                total = 1,\n                unit1 = \"player\",\n                unit2 = \"player\",\n                debuffColor1 = debuffColor1,\n                debuffColor2 = debuffColor2,\n                index = index\n            }\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if spellID == 440001 then -- Binding Webs\n            if subEvent == \"SPELL_AURA_APPLIED\" then\n                local unit = aura_env.GUIDToUnit[destGUID]\n                local sourceUnit = select(7, WA_GetUnitDebuff(unit, 440001))\n                \n                if not sourceUnit then return end\n                \n                local sourceGUID = UnitGUID(sourceUnit)\n                \n                -- Check if this state already exists in a different order (if so, don't create it)\n                for _, state in pairs(allstates) do\n                    if state.GUID1 == destGUID and state.GUID2 == sourceGUID then\n                        return\n                    end\n                end\n                \n                local unit1 = aura_env.GUIDToUnit[sourceGUID]\n                local unit2 = aura_env.GUIDToUnit[destGUID]\n                \n                local index = 0\n                local debuffColor1, debuffColor2\n                \n                -- In mythic, sort based on color\n                if aura_env.isMythic then\n                    debuffColor1 = WA_GetUnitDebuff(unit1, 455849) and \"BLUE\" or WA_GetUnitDebuff(unit1, 455850) and \"RED\" -- Mark of Paranoia/Mark of Rage\n                    debuffColor2 = WA_GetUnitDebuff(unit2, 455849) and \"BLUE\" or WA_GetUnitDebuff(unit2, 455850) and \"RED\"\n                    \n                    if debuffColor1 == debuffColor2 then\n                        if debuffColor1 == \"RED\" then\n                            index = 2\n                        elseif debuffColor1 == \"BLUE\" then\n                            index = 1\n                        end\n                    end\n                else -- In heroic, sort based on melee/ranged\n                    local position1 = LiquidWeakAuras:Spec(unit1)\n                    local position2 = LiquidWeakAuras:Spec(unit2)\n                    \n                    local index1 = position1 == \"r\" and 0 or 10\n                    local index2 = position2 == \"r\" and 0 or 10\n                    \n                    index = index1 + index2\n                end\n                \n                \n                allstates[sourceGUID] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"static\",\n                    value = 0.5,\n                    total = 1,\n                    GUID1 = sourceGUID,\n                    GUID2 = destGUID,\n                    unit1 = unit1,\n                    unit2 = unit2,\n                    debuffColor1 = debuffColor1,\n                    debuffColor2 = debuffColor2,\n                    index = index\n                }\n                \n                return true\n            elseif subEvent == \"SPELL_AURA_REMOVED\" then\n                for _, state in pairs(allstates) do\n                    if state.GUID1 == destGUID or state.GUID2 == destGUID then\n                        state.show = false\n                        state.changed = true\n                    end\n                end\n                \n                return true -- Can be inside the loop, just having it here for safety in case the assumption that only one of the two players has a source on their debuff is false\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        local _, _, difficultyID = ...\n        \n        aura_env.isMythic = difficultyID == 16\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, ENCOUNTER_START",
 ["names"] = {
 },
 ["check"] = "event",
@@ -52456,8 +52456,8 @@ true,
 ["text_anchorYOffset"] = 0,
 ["text_text_format_c_format"] = "none",
 ["text_text_format_p_time_precision"] = 1,
-["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_c1_format"] = "none",
+["text_anchorPoint"] = "INNER_LEFT",
 ["text_text_format_p_time_format"] = 0,
 ["text_text_format_unit_realm_name"] = "never",
 ["text_visible"] = true,
@@ -52530,22 +52530,22 @@ true,
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2921",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -52553,13 +52553,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "QJIC8Z5kgH9",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -52583,8 +52584,7 @@ true,
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 24,
-["config"] = {
-},
+["uid"] = "QJIC8Z5kgH9",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -52619,7 +52619,12 @@ true,
 ["Stinging Swarm (list)"] = false,
 },
 ["gridType"] = "RD",
-["fullCircle"] = true,
+["borderColor"] = {
+0,
+0,
+0,
+1,
+},
 ["rowSpace"] = 1,
 ["url"] = "https://wago.io/p5gVWr4D_/242",
 ["actions"] = {
@@ -52675,7 +52680,7 @@ true,
 ["selfPoint"] = "TOP",
 ["anchorPoint"] = "TOP",
 ["groupIcon"] = "1500881",
-["stagger"] = 0,
+["rotation"] = 0,
 ["internalVersion"] = 78,
 ["version"] = 242,
 ["subRegions"] = {
@@ -52708,12 +52713,12 @@ true,
 0.5,
 },
 ["limit"] = 5,
-["source"] = "import",
+["animate"] = false,
 ["gridWidth"] = 5,
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = false,
-["borderEdge"] = "Square Full White",
+["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Raid Leader Lists",
 ["stepAngle"] = 15,
 ["borderSize"] = 2,
 ["sort"] = "none",
@@ -52732,21 +52737,16 @@ true,
 ["regionType"] = "dynamicgroup",
 ["alpha"] = 1,
 ["anchorFrameType"] = "SELECTFRAME",
-["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Raid Leader Lists",
+["borderEdge"] = "Square Full White",
 ["uid"] = "ceNKjgN8Aem",
-["animate"] = false,
-["rotation"] = 0,
+["source"] = "import",
+["stagger"] = 0,
 ["useLimit"] = false,
 ["conditions"] = {
 },
 ["information"] = {
 },
-["borderColor"] = {
-0,
-0,
-0,
-1,
-},
+["fullCircle"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -52799,13 +52799,13 @@ true,
 ["trigger"] = {
 ["debuffType"] = "HARMFUL",
 ["useMatch_count"] = true,
-["useExactSpellId"] = true,
-["match_countOperator"] = ">",
-["match_count"] = "0",
-["type"] = "aura2",
 ["auraspellids"] = {
 "438708",
 },
+["useExactSpellId"] = true,
+["match_count"] = "0",
+["type"] = "aura2",
+["match_countOperator"] = ">",
 ["unit"] = "group",
 },
 ["untrigger"] = {
@@ -53011,22 +53011,22 @@ true,
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2921",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -53034,13 +53034,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "3XYIs)NdpEc",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -53064,8 +53065,7 @@ true,
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 32,
-["config"] = {
-},
+["uid"] = "3XYIs)NdpEc",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -53122,10 +53122,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Combat Log",
 ["unit"] = "player",
+["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED:SPELL_CAST_SUCCESS, LIQUID_ASSIGNMENT_EVENT",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        for i = 1, 5 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                unit = \"player\",\n                stacks = 1\n            }\n        end\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        -- Clear states\n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        -- Check if any player in the affected tables is no longer affected\n        -- If so, remove them\n        for i, GUID in ipairs_reverse(aura_env.initialAffected) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            \n            if not WA_GetUnitDebuff(unit, 438708) then -- Stinging Swarm\n                table.remove(aura_env.initialAffected, i)\n            end\n        end\n        \n        for i, GUID in ipairs_reverse(aura_env.affected) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            \n            if not WA_GetUnitDebuff(unit, 438708) then -- Stinging Swarm\n                table.remove(aura_env.affected, i)\n            end\n        end\n        \n        -- Sort initial affected table\n        table.sort(\n            aura_env.initialAffected,\n            function(GUID1, GUID2)\n                local unit1 = aura_env.GUIDToUnit[GUID1]\n                local unit2 = aura_env.GUIDToUnit[GUID2]\n                \n                local position1 = LiquidWeakAuras:Spec(unit1)\n                local position2 = LiquidWeakAuras:Spec(unit2)\n                \n                local isRed1 = WA_GetUnitDebuff(unit1, 455850) -- Mark of Rage\n                local isRed2 = WA_GetUnitDebuff(unit2, 455850) -- Mark of Rage\n                \n                if isRed1 ~= isRed2 then\n                    return isRed2\n                elseif position1 ~= position2 then\n                    return position1 < position2\n                else\n                    return GUID1 < GUID2\n                end\n            end\n        )\n        \n        -- Save the player's assignment (if any)\n        local myAssignment\n        \n        -- Display initial affected states\n        for i, GUID in ipairs(aura_env.initialAffected) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            local _, _, stacks = WA_GetUnitDebuff(unit, 438708) -- Stinging Swarm\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                stacks = stacks or 1,\n                unit = unit,\n                isWebbed = WA_GetUnitDebuff(unit, 440001), -- Binding Webs\n                isRed = WA_GetUnitDebuff(unit, 455850) ~= nil, -- Mark of Rage\n                index = i\n            }\n            \n            if GUID == WeakAuras.myGUID then\n                myAssignment = i\n            end\n        end\n        \n        -- Display later affected states\n        for i, GUID in ipairs(aura_env.affected) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            local _, _, stacks = WA_GetUnitDebuff(unit, 438708) -- Stinging Swarm\n            \n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                stacks = stacks or 1,\n                unit = unit,\n                isWebbed = WA_GetUnitDebuff(unit, 440001), -- Binding Webs\n                isRed = WA_GetUnitDebuff(unit, 455850) ~= nil, -- Mark of Rage\n                index = #aura_env.initialAffected + i\n            }\n            \n            if GUID == WeakAuras.myGUID then\n                myAssignment = #aura_env.initialAffected + i\n            end\n        end\n        \n        WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_DISPEL_ORDER\", myAssignment, aura_env.initialAffected, aura_env.affected)\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 438708 then -- Stinging Swarm (debuff)\n                -- Players that get the initial debuffs get sorted\n                -- Everyone that it jumps to afterwards just gets queued to the back\n                if GetTime() < aura_env.castTime + 2 then\n                    table.insert(aura_env.initialAffected, destGUID)\n                else\n                    table.insert(aura_env.affected, destGUID)\n                end\n                \n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            elseif spellID == 440001 then -- Binding Webs\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" then\n            if spellID == 438708 then -- Stinging Swarm (debuff)\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            elseif spellID == 440001 then -- Binding Webs\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            end\n        elseif subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 438677 then -- Stinging Swarm (cast)\n            aura_env.castTime = GetTime()\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.initialAffected = {}\n        aura_env.affected = {}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED:SPELL_CAST_SUCCESS, LIQUID_ASSIGNMENT_EVENT",
 ["names"] = {
 },
 ["check"] = "event",
@@ -53167,9 +53167,8 @@ true,
 1,
 1,
 },
-["config"] = {
-},
-["version"] = 242,
+["uid"] = "j1bsQ7cIo)V",
+["sparkOffsetY"] = 0,
 ["subRegions"] = {
 {
 ["type"] = "subbackground",
@@ -53213,7 +53212,7 @@ true,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
 ["text_text_format_c2_format"] = "none",
 ["type"] = "subtext",
-["text_text_format_order_format"] = "none",
+["text_anchorXOffset"] = 1,
 ["text_text_format_unit_color"] = "class",
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_format"] = "timed",
@@ -53225,7 +53224,7 @@ true,
 ["text_text_format_p_time_format"] = 0,
 ["text_fontType"] = "OUTLINE",
 ["text_text_format_previewName_format"] = "none",
-["text_anchorXOffset"] = 1,
+["text_text_format_order_format"] = "none",
 ["text_text_format_unit_abbreviate_max"] = 8,
 },
 {
@@ -53263,9 +53262,9 @@ true,
 ["text_justify"] = "CENTER",
 ["text_text_format_p_format"] = "timed",
 ["text_text_format_stacks_format"] = "none",
-["text_anchorXOffset"] = -1,
-["type"] = "subtext",
 ["text_text_format_order_format"] = "none",
+["type"] = "subtext",
+["text_anchorXOffset"] = -1,
 ["text_text_format_unit_color"] = "class",
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
@@ -53340,7 +53339,12 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "j1bsQ7cIo)V",
+["sparkColor"] = {
+1,
+1,
+1,
+1,
+},
 ["source"] = "import",
 ["desc"] = "forceenable",
 ["anchorFrameType"] = "SCREEN",
@@ -53383,14 +53387,10 @@ true,
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 32,
-["sparkColor"] = {
-1,
-1,
-1,
-1,
+["config"] = {
 },
 ["inverse"] = false,
-["sparkOffsetY"] = 0,
+["version"] = 242,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 {
@@ -53671,22 +53671,22 @@ true,
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2921",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = true,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = true,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -53694,13 +53694,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "hEilAqy1NV5",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -53724,8 +53725,7 @@ true,
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 32,
-["config"] = {
-},
+["uid"] = "hEilAqy1NV5",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -53854,7 +53854,7 @@ true,
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -53874,13 +53874,13 @@ true,
 ["tocversion"] = 110002,
 ["id"] = "The Silken Court - Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "r0GRxGrC2bK",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "r0GRxGrC2bK",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -53966,8 +53966,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -54069,7 +54069,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -54083,7 +54083,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -54160,9 +54160,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -54205,14 +54205,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Impaled",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -54301,8 +54301,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -54404,7 +54404,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -54418,7 +54418,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -54563,9 +54563,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -54608,14 +54608,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Void Degeneration/Burning Rage",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 ["tts"] = true,
 },
@@ -54712,8 +54712,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -54816,7 +54816,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -54830,7 +54830,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -54907,9 +54907,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -54952,14 +54952,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Binding Webs",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -55078,11 +55078,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "mSDunQqqPTn",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -55191,13 +55191,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "OUTER_BOTTOM",
 ["text_visible"] = true,
+["text_anchorPoint"] = "OUTER_BOTTOM",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -55216,7 +55216,7 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_format"] = "timed",
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_dynamic_threshold"] = 60,
@@ -55231,17 +55231,17 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -6,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -6,
 ["text_text_format_p_time_format"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_BOTTOMRIGHT",
+["text_visible"] = true,
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_fontSize"] = 40,
 ["anchorXOffset"] = 0,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -55323,16 +55323,16 @@ true,
 ["useAdjustededMin"] = false,
 ["parent"] = "The Silken Court - Big Icons",
 ["uid"] = "Ye0odv9BhpA",
-["alpha"] = 1,
+["frameStrata"] = 1,
 ["width"] = 128,
 ["anchorFrameParent"] = false,
-["frameStrata"] = 1,
+["alpha"] = 1,
 ["selfPoint"] = "CENTER",
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Stinging Swarm",
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["iconSource"] = -1,
@@ -55455,11 +55455,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "AxiK2tBxy(V",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -55498,13 +55498,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "CLEU:SPELL_CAST_START:SPELL_AURA_APPLIED, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 2,\n            expirationTime = GetTime() + 2,\n            count = math.random(2) == 1 and \"First\" or \"Second\",\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and destGUID == WeakAuras.myGUID and spellID == 441788 then -- Web Vortex\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 2,\n                expirationTime = GetTime() + 2,\n                count = aura_env.count == 1 and \"First\" or \"Second\",\n                autoHide = true\n            }\n            \n            LiquidWeakAuras:PlaySound(aura_env.count == 1 and \"first\" or \"second\")\n            \n            return true\n        elseif subEvent == \"SPELL_CAST_START\" and spellID == 441626 then -- Web Vortex\n            aura_env.count = aura_env.count + 1\n            \n            if aura_env.count == 3 then\n                aura_env.count = 1\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 2,\n            expirationTime = GetTime() + 2,\n            count = math.random(2) == 1 and \"First\" or \"Second\",\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and destGUID == WeakAuras.myGUID and spellID == 441788 then -- Web Vortex\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 2,\n                expirationTime = GetTime() + 2,\n                count = aura_env.count == 1 and \"First\" or \"Second\",\n                autoHide = true\n            }\n            \n            LiquidWeakAuras:PlaySound(aura_env.count == 1 and \"first\" or \"second\")\n            \n            return true\n        elseif subEvent == \"SPELL_CAST_START\" and spellID == 441626 then -- Web Vortex\n            aura_env.count = aura_env.count + 1\n            \n            if aura_env.count == 3 then\n                aura_env.count = 1\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -55530,20 +55530,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2921",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 40,
@@ -55668,19 +55668,19 @@ true,
 ["multi"] = {
 [63] = true,
 [262] = true,
-[253] = true,
-[264] = true,
 [265] = true,
+[264] = true,
+[253] = true,
 [266] = true,
 [267] = true,
-[62] = true,
+[105] = true,
 [64] = true,
-[256] = true,
 [102] = true,
+[256] = true,
 [257] = true,
 [258] = true,
 [254] = true,
-[105] = true,
+[62] = true,
 },
 },
 ["talent"] = {
@@ -55742,8 +55742,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Venemous Rain spread",
 ["shadowYOffset"] = -1,
@@ -55832,19 +55832,19 @@ true,
 ["multi"] = {
 [63] = true,
 [262] = true,
-[253] = true,
-[264] = true,
 [265] = true,
+[264] = true,
+[253] = true,
 [266] = true,
 [267] = true,
-[62] = true,
+[105] = true,
 [64] = true,
-[256] = true,
 [102] = true,
+[256] = true,
 [257] = true,
 [258] = true,
 [254] = true,
-[105] = true,
+[62] = true,
 },
 },
 ["talent"] = {
@@ -55906,8 +55906,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Reckless Charge soon",
 ["shadowYOffset"] = -1,
@@ -56039,11 +56039,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "xQo8qc7inV9",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -56078,10 +56078,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "LIQUID_SILKEN_COURT_DISPEL_ORDER, ENCOUNTER_START",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            order = math.random(5)\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_DISPEL_ORDER\" then\n        local order = ...\n        \n        if order then\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                order = order\n            }\n        else\n            for _, state in pairs(allstates) do\n                state.show = false\n                state.changed = true\n            end\n        end\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        return true\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "LIQUID_SILKEN_COURT_DISPEL_ORDER, ENCOUNTER_START",
 ["names"] = {
 },
 ["check"] = "event",
@@ -56125,15 +56125,15 @@ true,
 ["multi"] = {
 },
 },
+["class"] = {
+["multi"] = {
+},
+},
 ["spec"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2921",
-["class"] = {
-["multi"] = {
-},
-},
 ["size"] = {
 ["multi"] = {
 },
@@ -56360,10 +56360,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "NAME_PLATE_UNIT_ADDED, NAME_PLATE_UNIT_REMOVED, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, ENCOUNTER_START",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"ENCOUNTER_START\" then\n        aura_env.GUIDs = {}\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" and ... then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        \n        if aura_env.GUIDs[GUID] and C_UnitAuras.GetPlayerAuraBySpellID(438749) then -- Scarab Fixation\n            allstates[GUID] = {\n                show = true,\n                unit = unit,\n                changed = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" and ... then\n        local unit = ... \n        local GUID = UnitGUID(unit)\n        local state = allstates[GUID]\n        \n        if state and state.unit == unit then\n            state.show = false\n            state.changed = true\n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, subEvent, _, sourceGUID, _, _, _, destGUID, _, _, _, spellId = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellId == 438749 and destGUID == WeakAuras.myGUID then -- Scarab Fixation\n            aura_env.GUIDs[sourceGUID] = true\n            \n            for _, t in pairs(C_NamePlate.GetNamePlates()) do\n                local unit = t.namePlateUnitToken\n                \n                if UnitGUID(unit) == sourceGUID then\n                    allstates[sourceGUID] = {\n                        show = true,\n                        changed = true,\n                        unit = unit\n                    }\n                    \n                    return true\n                end\n            end\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and spellId == 438749 and destGUID == WeakAuras.myGUID then -- Scarab Fixation\n            aura_env.GUIDs[sourceGUID] = nil\n            local state = allstates[sourceGUID]\n            \n            if state then\n                state.changed = true\n                state.show = false\n                \n                return true\n            end\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "NAME_PLATE_UNIT_ADDED, NAME_PLATE_UNIT_REMOVED, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED, ENCOUNTER_START",
 ["names"] = {
 },
 ["check"] = "event",
@@ -56447,6 +56447,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2921",
 ["spec"] = {
 ["multi"] = {
 },
@@ -56455,7 +56456,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2921",
 ["size"] = {
 ["multi"] = {
 },
@@ -56478,11 +56478,11 @@ true,
 ["anchorFrameType"] = "NAMEPLATE",
 ["authorOptions"] = {
 },
-["uid"] = "aQiLeTSS3xT",
-["width"] = 120,
-["frameStrata"] = 1,
 ["config"] = {
 },
+["width"] = 120,
+["frameStrata"] = 1,
+["uid"] = "aQiLeTSS3xT",
 ["conditions"] = {
 },
 ["information"] = {
@@ -56510,13 +56510,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, UNIT_NAME_PLATE_ADDED, UNIT_NAME_PLATE_REMOVED, CLEU:SPELL_CAST_SUCCESS",
-["custom"] = "function(allstates, event, ...)\n    if event == \"NAME_PLATE_UNIT_ADDED\" then\n        if GetTime() > aura_env.expirationTime then return end\n        \n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local npcID, _, spawnIndex = LiquidWeakAuras:CreatureInfo(GUID)\n        \n        if npcID and npcID == 218884 and spawnIndex and spawnIndex + 1 == aura_env.assignment then -- Shattershell Scarab\n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 6,\n                expirationTime = aura_env.expirationTime,\n                unit = unit,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local state = allstates[GUID]\n        \n        if state then\n            state.show = false\n            state.changed = true\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" then \n            if spellID == 49576 then -- Death Grip\n                local state = allstates[destGUID]\n                \n                if state then\n                    state.show = false\n                    state.changed = true\n                    \n                    return true\n                end\n            elseif spellID == 438801 then -- Call of the Swarm\n                aura_env.expirationTime = GetTime() + 6\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.assignment = nil\n        \n        local assignments = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            local class = UnitClassBase(unit)\n            \n            if class == \"DEATHKNIGHT\" then\n                table.insert(assignments, unit)\n            end\n        end\n        \n        table.sort(\n            assignments,\n            function(unitA, unitB)\n                local roleA = UnitGroupRolesAssigned(unitA)\n                local roleB = UnitGroupRolesAssigned(unitB)\n                \n                if roleA ~= roleB then\n                    return roleA < roleB\n                else\n                    return UnitGUID(unitA) < UnitGUID(unitB)\n                end\n            end\n        )\n        \n        for i, unit in ipairs(assignments) do\n            if UnitIsUnit(unit, \"player\") then\n                aura_env.assignment = i\n                \n                return\n            end\n        end\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"NAME_PLATE_UNIT_ADDED\" then\n        if GetTime() > aura_env.expirationTime then return end\n        \n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local npcID, _, spawnIndex = LiquidWeakAuras:CreatureInfo(GUID)\n        \n        if npcID and npcID == 218884 and spawnIndex and spawnIndex + 1 == aura_env.assignment then -- Shattershell Scarab\n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 6,\n                expirationTime = aura_env.expirationTime,\n                unit = unit,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_REMOVED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local state = allstates[GUID]\n        \n        if state then\n            state.show = false\n            state.changed = true\n            \n            return true\n        end\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" then \n            if spellID == 49576 then -- Death Grip\n                local state = allstates[destGUID]\n                \n                if state then\n                    state.show = false\n                    state.changed = true\n                    \n                    return true\n                end\n            elseif spellID == 438801 then -- Call of the Swarm\n                aura_env.expirationTime = GetTime() + 6\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.assignment = nil\n        \n        local assignments = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            local class = UnitClassBase(unit)\n            \n            if class == \"DEATHKNIGHT\" then\n                table.insert(assignments, unit)\n            end\n        end\n        \n        table.sort(\n            assignments,\n            function(unitA, unitB)\n                local roleA = UnitGroupRolesAssigned(unitA)\n                local roleB = UnitGroupRolesAssigned(unitB)\n                \n                if roleA ~= roleB then\n                    return roleA < roleB\n                else\n                    return UnitGUID(unitA) < UnitGUID(unitB)\n                end\n            end\n        )\n        \n        for i, unit in ipairs(assignments) do\n            if UnitIsUnit(unit, \"player\") then\n                aura_env.assignment = i\n                \n                return\n            end\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -56578,15 +56578,15 @@ true,
 ["multi"] = {
 },
 },
+["class"] = {
+["multi"] = {
+},
+},
 ["spec"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2921",
-["class"] = {
-["multi"] = {
-},
-},
 ["size"] = {
 ["multi"] = {
 },
@@ -56614,16 +56614,16 @@ true,
 ["xOffset"] = 0,
 ["config"] = {
 },
-["alpha"] = 1,
+["useCooldownModRate"] = true,
 ["anchorFrameType"] = "NAMEPLATE",
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Scarab grip assignments",
-["useCooldownModRate"] = true,
+["alpha"] = 1,
 ["frameStrata"] = 1,
 ["width"] = 40,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["uid"] = "0m)w9cuE(fO",
 ["inverse"] = false,
 ["cooldownEdge"] = false,
@@ -56926,8 +56926,8 @@ true,
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Stinging Swarm (glow)",
 ["shadowYOffset"] = -1,
@@ -57120,8 +57120,8 @@ true,
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Binding Webs (glow)",
 ["shadowYOffset"] = -1,
@@ -57174,13 +57174,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, LIQUID_SILKEN_COURT_DISPEL_ORDER",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            unit = \"player\",\n            assignment = math.random(5)\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_DISPEL_ORDER\" then\n        local _, initialAffected, affected = ...\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        local dispelsDone = 5 - #initialAffected\n        \n        for i, GUID in ipairs(initialAffected) do\n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                unit = aura_env.GUIDToUnit[GUID],\n                assignment = dispelsDone + i\n            }\n        end\n        \n        for i, GUID in ipairs(affected) do\n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                unit = aura_env.GUIDToUnit[GUID],\n                assignment = #initialAffected + dispelsDone + i\n            }\n        end\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        return true\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            unit = \"player\",\n            assignment = math.random(5)\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_DISPEL_ORDER\" then\n        local _, initialAffected, affected = ...\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        local dispelsDone = 5 - #initialAffected\n        \n        for i, GUID in ipairs(initialAffected) do\n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                unit = aura_env.GUIDToUnit[GUID],\n                assignment = dispelsDone + i\n            }\n        end\n        \n        for i, GUID in ipairs(affected) do\n            allstates[GUID] = {\n                show = true,\n                changed = true,\n                unit = aura_env.GUIDToUnit[GUID],\n                assignment = #initialAffected + dispelsDone + i\n            }\n        end\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        return true\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -57225,20 +57225,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2921",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["displayText_format_assignment_format"] = "none",
@@ -57252,8 +57252,8 @@ true,
 },
 ["displayText_format_p_format"] = "timed",
 ["url"] = "https://wago.io/p5gVWr4D_/242",
-["anchorFrameParent"] = false,
 ["displayText_format_p_time_precision"] = 1,
+["anchorFrameParent"] = false,
 ["config"] = {
 },
 ["selfPoint"] = "CENTER",
@@ -57452,8 +57452,8 @@ true,
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Impaled (glow)",
 ["shadowYOffset"] = -1,
@@ -57587,11 +57587,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "QSpC1Oo(hrI",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -57761,8 +57761,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Piercing Strike taunt",
 ["shadowYOffset"] = -1,
@@ -57950,8 +57950,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Poison Bolt taunt",
 ["shadowYOffset"] = -1,
@@ -58084,7 +58084,7 @@ true,
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -58104,13 +58104,13 @@ true,
 ["tocversion"] = 110002,
 ["id"] = "The Silken Court - Tank Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "G4QJ28Z3(DO",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "G4QJ28Z3(DO",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -58188,7 +58188,7 @@ true,
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -58202,10 +58202,10 @@ true,
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -58236,13 +58236,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -58263,12 +58263,12 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -58278,17 +58278,17 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -58384,14 +58384,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Piercing Strike",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -58471,7 +58471,7 @@ true,
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -58485,10 +58485,10 @@ true,
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -58519,13 +58519,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -58546,12 +58546,12 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -58561,17 +58561,17 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -58667,14 +58667,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Poison Bolt",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -58793,7 +58793,7 @@ true,
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -58813,13 +58813,13 @@ true,
 ["tocversion"] = 110002,
 ["id"] = "The Silken Court - Co-Tank Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "t7)ETTY8OMd",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "t7)ETTY8OMd",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -58952,13 +58952,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -58978,7 +58978,7 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -58994,16 +58994,16 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -59099,14 +59099,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Piercing Strike (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -59241,13 +59241,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -59267,7 +59267,7 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -59283,16 +59283,16 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -59388,14 +59388,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Poison Bolt (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -59625,20 +59625,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2921",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 12,
@@ -59736,13 +59736,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED:SPELL_AURA_APPLIED_DOSE:SPELL_DAMAGE:SPELL_MISSED:SPELL_AURA_REFRESH",
-["custom"] = "function(event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID, _, _, missType = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 455849 then -- Mark of Paranoia (blue)\n                aura_env.blueGUIDs[destGUID] = true\n            elseif spellID == 455850 then -- Mark of Rage (red)\n                aura_env.redGUIDs[destGUID] = true\n            elseif spellID == 460359 then -- Void Degeneration (blue)\n                aura_env.blueCount = math.max(aura_env.blueCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            elseif spellID == 460281 then -- Burning Rage (red)\n                aura_env.redCount = math.max(aura_env.redCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            end\n        elseif subEvent == \"SPELL_AURA_APPLIED_DOSE\" or subEvent == \"SPELL_AURA_REFRESH\" then\n            if spellID == 460359 then -- Void Degeneration (blue)\n                aura_env.blueCount = math.max(aura_env.blueCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            elseif spellID == 460281 then -- Burning Rage (red)\n                aura_env.redCount = math.max(aura_env.redCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            end\n        elseif (subEvent == \"SPELL_DAMAGE\" or subEvent == \"SPELL_MISSED\" and missType == \"ABSORB\") and spellID and aura_env.spellIDs[spellID] then\n            if aura_env.blueGUIDs[destGUID] then\n                aura_env.blueCount = aura_env.blueCount + 1\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            elseif aura_env.redGUIDs[destGUID] then\n                aura_env.redCount = aura_env.redCount + 1\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.blueGUIDs = {}\n        aura_env.redGUIDs = {}\n        \n        aura_env.blueCount = 0\n        aura_env.redCount = 0\n        \n        WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n    end\nend",
 ["custom_type"] = "status",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID, _, _, missType = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 455849 then -- Mark of Paranoia (blue)\n                aura_env.blueGUIDs[destGUID] = true\n            elseif spellID == 455850 then -- Mark of Rage (red)\n                aura_env.redGUIDs[destGUID] = true\n            elseif spellID == 460359 then -- Void Degeneration (blue)\n                aura_env.blueCount = math.max(aura_env.blueCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            elseif spellID == 460281 then -- Burning Rage (red)\n                aura_env.redCount = math.max(aura_env.redCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            end\n        elseif subEvent == \"SPELL_AURA_APPLIED_DOSE\" or subEvent == \"SPELL_AURA_REFRESH\" then\n            if spellID == 460359 then -- Void Degeneration (blue)\n                aura_env.blueCount = math.max(aura_env.blueCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            elseif spellID == 460281 then -- Burning Rage (red)\n                aura_env.redCount = math.max(aura_env.redCount - 1, 0)\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            end\n        elseif (subEvent == \"SPELL_DAMAGE\" or subEvent == \"SPELL_MISSED\" and missType == \"ABSORB\") and spellID and aura_env.spellIDs[spellID] then\n            if aura_env.blueGUIDs[destGUID] then\n                aura_env.blueCount = aura_env.blueCount + 1\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            elseif aura_env.redGUIDs[destGUID] then\n                aura_env.redCount = aura_env.redCount + 1\n                \n                WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.blueGUIDs = {}\n        aura_env.redGUIDs = {}\n        \n        aura_env.blueCount = 0\n        aura_env.redCount = 0\n        \n        WeakAuras.ScanEvents(\"LIQUID_SILKEN_COURT_ORB_COUNT\", aura_env.blueCount, aura_env.redCount)\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -59879,13 +59879,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "LIQUID_SILKEN_COURT_ORB_COUNT",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            blue = math.random(0, 10),\n            red = math.random(0, 10)\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_ORB_COUNT\" then\n        local blueCount, redCount = ...\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            blue = blueCount,\n            red = redCount\n        }\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            blue = 0,\n            red = 0\n        }\n        \n        return true\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            blue = math.random(0, 10),\n            red = math.random(0, 10)\n        }\n    elseif event == \"LIQUID_SILKEN_COURT_ORB_COUNT\" then\n        local blueCount, redCount = ...\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            blue = blueCount,\n            red = redCount\n        }\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            blue = 0,\n            red = 0\n        }\n        \n        return true\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -60151,8 +60151,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Poison Bolt 3 stacks TTS",
 ["shadowYOffset"] = -1,
@@ -60512,6 +60512,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -60520,7 +60521,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -60742,11 +60742,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Venom Nova",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Venom Nova",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -60764,13 +60764,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -60814,6 +60814,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -60822,7 +60823,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -60866,8 +60866,8 @@ true,
 ["use_absorbHealMode"] = true,
 ["useExactSpellId"] = true,
 ["subeventPrefix"] = "SPELL",
-["use_spellNames"] = true,
 ["event"] = "Cast",
+["use_spellNames"] = true,
 ["match_countOperator"] = ">",
 ["castType"] = "channel",
 ["type"] = "aura2",
@@ -61052,11 +61052,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Infest (others)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Infest (others)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -61074,13 +61074,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -61124,6 +61124,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -61132,7 +61133,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -61174,14 +61174,14 @@ true,
 ["use_absorbHealMode"] = true,
 ["custom_type"] = "stateupdate",
 ["use_castType"] = false,
-["use_spellNames"] = true,
 ["event"] = "Cast",
+["use_spellNames"] = true,
 ["type"] = "custom",
 ["castType"] = "channel",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3,\n            expirationTime = GetTime() + 3,\n            autoHide = true\n        }\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        \n        aura_env.seenGUIDs[GUID] = true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_START\" and spellID == 451600 and aura_env.seenGUIDs[destGUID] then -- Expulsion Beam\n            allstates[destGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 3,\n                expirationTime = GetTime() + 3,\n                autoHide = true\n            }\n            \n            return true\n        elseif subEvent == \"UNIT_DIED\" then\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.seenGUIDs = {}\n    end\nend",
-["events"] = "NAME_PLATE_UNIT_ADDED, CLEU:SPELL_CAST_START:UNIT_DIED, ENCOUNTER_START",
 ["spellIds"] = {
 },
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3,\n            expirationTime = GetTime() + 3,\n            autoHide = true\n        }\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        \n        aura_env.seenGUIDs[GUID] = true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_START\" and spellID == 451600 and aura_env.seenGUIDs[destGUID] then -- Expulsion Beam\n            allstates[destGUID] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 3,\n                expirationTime = GetTime() + 3,\n                autoHide = true\n            }\n            \n            return true\n        elseif subEvent == \"UNIT_DIED\" then\n            local state = allstates[destGUID]\n            \n            if state then\n                state.show = false\n                state.changed = true\n                \n                return true\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.seenGUIDs = {}\n    end\nend",
+["events"] = "NAME_PLATE_UNIT_ADDED, CLEU:SPELL_CAST_START:UNIT_DIED, ENCOUNTER_START",
 ["check"] = "event",
 ["subeventSuffix"] = "_CAST_START",
 ["unit"] = "boss",
@@ -61358,11 +61358,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Expulsion Beam",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Expulsion Beam",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -61380,13 +61380,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -61430,6 +61430,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -61438,7 +61439,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -61476,15 +61476,15 @@ true,
 ["unit"] = "group",
 ["combineMode"] = "showHighest",
 ["debuffType"] = "HARMFUL",
-["subeventSuffix"] = "_CAST_START",
+["useExactSpellId"] = true,
 ["use_spellIds"] = false,
 ["use_absorbHealMode"] = true,
-["useExactSpellId"] = true,
+["subeventSuffix"] = "_CAST_START",
 ["auraspellids"] = {
 "460133",
 },
-["event"] = "Cast",
 ["use_spellNames"] = true,
+["event"] = "Cast",
 ["type"] = "aura2",
 ["castType"] = "channel",
 ["use_castType"] = false,
@@ -61668,11 +61668,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Toxic Reaction (bar)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Toxic Reaction (bar)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -61690,13 +61690,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -61740,6 +61740,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -61748,7 +61749,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -61784,13 +61784,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, NAME_PLATE_UNIT_ADDED, CLEU:SPELL_CAST_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3.6,\n            expirationTime = GetTime() + 3.6,\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, sourceGUID, _, _, _, _, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_START\" and aura_env.seenGUIDs[sourceGUID] and spellID == 448147 then -- Oust\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 3.6,\n                expirationTime = GetTime() + 3.6,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local npcID = select(6, strsplit(\"-\", GUID))\n        \n        if npcID == \"223204\" then -- Chamber Guardian\n            aura_env.seenGUIDs[GUID] = true\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.seenGUIDs = {}\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 3.6,\n            expirationTime = GetTime() + 3.6,\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, sourceGUID, _, _, _, _, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_START\" and aura_env.seenGUIDs[sourceGUID] and spellID == 448147 then -- Oust\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 3.6,\n                expirationTime = GetTime() + 3.6,\n                autoHide = true\n            }\n            \n            return true\n        end\n    elseif event == \"NAME_PLATE_UNIT_ADDED\" then\n        local unit = ...\n        local GUID = UnitGUID(unit)\n        local npcID = select(6, strsplit(\"-\", GUID))\n        \n        if npcID == \"223204\" then -- Chamber Guardian\n            aura_env.seenGUIDs[GUID] = true\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.seenGUIDs = {}\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -61964,11 +61964,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Ousting Fragments",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Ousting Fragments",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -61986,13 +61986,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -62036,6 +62036,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -62044,7 +62045,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -62266,11 +62266,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Acidic Apocalypse",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Acidic Apocalypse",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -62288,13 +62288,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -62338,6 +62338,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -62346,7 +62347,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -62568,11 +62568,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Frothing Gluttony",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Frothing Gluttony",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -62590,13 +62590,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -62640,6 +62640,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -62648,7 +62649,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -62870,11 +62870,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Paralyzing Venom",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Paralyzing Venom",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -62892,13 +62892,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -62990,13 +62990,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "LIQUID_ANSUREK_SHADOW_GATE",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        local count = math.random(8)\n        \n        for i = 1, 2 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 10,\n                expirationTime = GetTime() + 10,\n                index = i,\n                unit = \"player\",\n                count = count,\n                auotHide = true\n            }\n        end\n    elseif event == \"LIQUID_ANSUREK_SHADOW_GATE\" then\n        local leftUnit, rightUnit, leftCastStart, rightCastStart, leftCount, rightCount = ...\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        if leftCastStart then\n            allstates[1] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 10,\n                expirationTime = leftCastStart + 10,\n                index = 1,\n                unit = leftUnit,\n                count = leftCount + 1,\n                autoHide = true\n            }\n        end\n        \n        if rightCastStart then\n            allstates[2] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 10,\n                expirationTime = rightCastStart + 10,\n                index = 1,\n                unit = rightUnit,\n                count = rightCount + 1,\n                autoHide = true\n            }\n        end\n        \n        return true\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        local count = math.random(8)\n        \n        for i = 1, 2 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 10,\n                expirationTime = GetTime() + 10,\n                index = i,\n                unit = \"player\",\n                count = count,\n                auotHide = true\n            }\n        end\n    elseif event == \"LIQUID_ANSUREK_SHADOW_GATE\" then\n        local leftUnit, rightUnit, leftCastStart, rightCastStart, leftCount, rightCount = ...\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        if leftCastStart then\n            allstates[1] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 10,\n                expirationTime = leftCastStart + 10,\n                index = 1,\n                unit = leftUnit,\n                count = leftCount + 1,\n                autoHide = true\n            }\n        end\n        \n        if rightCastStart then\n            allstates[2] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 10,\n                expirationTime = rightCastStart + 10,\n                index = 1,\n                unit = rightUnit,\n                count = rightCount + 1,\n                autoHide = true\n            }\n        end\n        \n        return true\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -63056,11 +63056,11 @@ true,
 ["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
-["text_anchorYOffset"] = -1,
-["text_text_format_count_format"] = "Number",
+["text_shadowYOffset"] = 0,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_count._format"] = "none",
 ["type"] = "subtext",
-["text_anchorXOffset"] = 4,
+["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
 1,
 1,
@@ -63069,13 +63069,13 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_unit_abbreviate"] = false,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -1,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_text_format_count_format"] = "Number",
 ["text_anchorPoint"] = "LEFT",
-["text_fontType"] = "OUTLINE",
-["text_text_format_unit_realm_name"] = "never",
+["text_visible"] = true,
+["text_anchorXOffset"] = 4,
 ["text_text_format_count_round_type"] = "floor",
 ["anchorXOffset"] = 0,
 ["text_text_format_count_decimal_precision"] = 0,
@@ -63179,11 +63179,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Shadowgate",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Shadowgate",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -63201,13 +63201,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -63251,6 +63251,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -63259,7 +63260,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -63301,25 +63301,25 @@ true,
 },
 ["use_sourceFlags3"] = false,
 ["use_cloneId"] = false,
-["debuffType"] = "HELPFUL",
+["custom_hide"] = "timed",
 ["custom_type"] = "stateupdate",
-["use_spellIds"] = false,
+["type"] = "custom",
 ["use_absorbHealMode"] = true,
 ["subeventSuffix"] = "_CAST_START",
-["event"] = "Combat Log",
+["use_spellNames"] = true,
 ["spellIds"] = {
 },
-["use_spellNames"] = true,
+["event"] = "Combat Log",
 ["spellNames"] = {
 "447456",
 },
 ["castType"] = "channel",
 ["use_spellId"] = true,
-["events"] = "CLEU:SPELL_CAST_SUCCESS",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 4,\n            expirationTime = GetTime() + 4,\n            autoHide = true\n        }\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, _, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 439299 then -- Web Blades\n            local stateShowing = allstates[\"\"] and allstates[\"\"].show\n            \n            if stateShowing then return end\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 4,\n                expirationTime = GetTime() + 4,\n                autoHide = true\n            }\n            \n            return true\n        end\n    end\nend",
+["events"] = "CLEU:SPELL_CAST_SUCCESS",
 ["check"] = "event",
-["type"] = "custom",
-["custom_hide"] = "timed",
+["use_spellIds"] = false,
+["debuffType"] = "HELPFUL",
 ["subeventPrefix"] = "SPELL",
 },
 ["untrigger"] = {
@@ -63679,11 +63679,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Web Blades spawning",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Web Blades spawning",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -63701,13 +63701,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -63751,6 +63751,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -63759,7 +63760,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -64024,11 +64024,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Wrest",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Wrest",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -64046,13 +64046,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -64146,15 +64146,15 @@ true,
 ["use_unit"] = true,
 ["use_sourceNpcId"] = false,
 ["debuffType"] = "HELPFUL",
-["use_absorbHealMode"] = true,
-["type"] = "combatlog",
 ["destNpcId"] = "223150",
+["type"] = "combatlog",
+["use_absorbHealMode"] = true,
 ["subeventSuffix"] = "",
 ["use_spellIds"] = false,
-["use_spellNames"] = true,
 ["event"] = "Combat Log",
-["sourceNpcId"] = "223150",
+["use_spellNames"] = true,
 ["castType"] = "channel",
+["sourceNpcId"] = "223150",
 ["spellNames"] = {
 "447411",
 },
@@ -64338,11 +64338,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Gloom Eruption (heroic/mythic)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Gloom Eruption (heroic/mythic)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -64360,13 +64360,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -64459,15 +64459,15 @@ true,
 ["use_unit"] = true,
 ["use_sourceNpcId"] = false,
 ["debuffType"] = "HELPFUL",
-["use_absorbHealMode"] = true,
-["type"] = "combatlog",
 ["destNpcId"] = "223150",
+["type"] = "combatlog",
+["use_absorbHealMode"] = true,
 ["subeventSuffix"] = "",
 ["use_spellIds"] = false,
-["use_spellNames"] = true,
 ["event"] = "Combat Log",
-["sourceNpcId"] = "223150",
+["use_spellNames"] = true,
 ["castType"] = "channel",
+["sourceNpcId"] = "223150",
 ["spellNames"] = {
 "447411",
 },
@@ -64651,11 +64651,11 @@ true,
 ["sparkHeight"] = 30,
 ["anchorFrameParent"] = false,
 ["sparkTexture"] = "Interface\\CastingBar\\UI-CastingBar-Spark",
-["sparkHidden"] = "NEVER",
+["id"] = "Gloom Eruption (normal)",
 ["width"] = 270,
 ["semver"] = "1.0.241",
 ["frameStrata"] = 1,
-["id"] = "Gloom Eruption (normal)",
+["sparkHidden"] = "NEVER",
 ["icon"] = true,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -64673,13 +64673,13 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["cooldown"] = true,
 ["barColor2"] = {
 1,
 1,
 0,
 1,
 },
-["cooldown"] = true,
 },
 {
 ["controlledChildren"] = {
@@ -64789,11 +64789,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "8)R(r16T(qT",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -64909,11 +64909,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "7LGVTW2qm5x",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -64970,9 +64970,9 @@ true,
 ["names"] = {
 },
 ["use_unit"] = true,
+["events"] = "CLEU:SPELL_AURA_APPLIED",
 ["spellIds"] = {
 },
-["events"] = "CLEU:SPELL_AURA_APPLIED",
 ["unit"] = "player",
 ["check"] = "event",
 ["subeventSuffix"] = "_CAST_START",
@@ -65087,11 +65087,11 @@ true,
 ["text_anchorYOffset"] = -1,
 ["text_visible"] = true,
 ["text_text_format_1.tooltip1_format"] = "none",
-["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
+["text_text_format_c1_format"] = "BigNumber",
 ["text_text_format_n_format"] = "none",
 ["text_anchorPoint"] = "INNER_RIGHT",
 ["text_text_format_1.tooltip1_big_number_format"] = "AbbreviateNumbers",
-["text_text_format_c1_format"] = "BigNumber",
+["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_text_format_c2_format"] = "none",
 },
 {
@@ -65113,18 +65113,18 @@ true,
 ["textureSource"] = "LSM",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["use_never"] = false,
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["single"] = "MONK",
 ["multi"] = {
 ["MONK"] = true,
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["single"] = 1,
 ["multi"] = {
@@ -65139,10 +65139,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["config"] = {
-},
-["source"] = "import",
 ["uid"] = "wyjMA27gNdR",
+["source"] = "import",
+["sparkColor"] = {
+1,
+1,
+1,
+1,
+},
 ["xOffset"] = 0,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
@@ -65151,13 +65155,13 @@ true,
 ["height"] = 24,
 ["sparkHidden"] = "NEVER",
 ["icon_side"] = "RIGHT",
-["spark"] = false,
 ["semver"] = "1.0.241",
+["auto"] = true,
 ["sparkHeight"] = 20,
 ["texture"] = "Solid",
 ["sparkTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["zoom"] = 0.3,
-["auto"] = true,
+["spark"] = false,
 ["tocversion"] = 110002,
 ["id"] = "Predation (shield)",
 ["sparkOffsetY"] = 0,
@@ -65169,11 +65173,7 @@ true,
 0,
 0.80000001192093,
 },
-["sparkColor"] = {
-1,
-1,
-1,
-1,
+["config"] = {
 },
 ["inverse"] = false,
 ["selfPoint"] = "CENTER",
@@ -65357,10 +65357,14 @@ true,
 },
 ["sparkBlendMode"] = "BLEND",
 ["useAdjustededMax"] = true,
-["config"] = {
-},
-["source"] = "import",
 ["uid"] = "KRY(Mpv3Y(w",
+["source"] = "import",
+["sparkColor"] = {
+1,
+0.11372549831867,
+0.18823531270027,
+1,
+},
 ["xOffset"] = 0,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
@@ -65369,13 +65373,13 @@ true,
 ["height"] = 24,
 ["sparkHidden"] = "NEVER",
 ["icon_side"] = "RIGHT",
-["spark"] = true,
 ["semver"] = "1.0.241",
+["auto"] = true,
 ["sparkHeight"] = 24,
 ["texture"] = "Solid",
 ["sparkTexture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["zoom"] = 0.3,
-["auto"] = true,
+["spark"] = true,
 ["tocversion"] = 110002,
 ["id"] = "Wrest timers",
 ["sparkOffsetY"] = 0,
@@ -65387,11 +65391,7 @@ true,
 0,
 0,
 },
-["sparkColor"] = {
-1,
-0.11372549831867,
-0.18823531270027,
-1,
+["config"] = {
 },
 ["inverse"] = false,
 ["selfPoint"] = "CENTER",
@@ -65432,7 +65432,12 @@ true,
 ["Acolyte's Essence list"] = false,
 },
 ["gridType"] = "RD",
-["fullCircle"] = true,
+["borderColor"] = {
+0,
+0,
+0,
+1,
+},
 ["rowSpace"] = 1,
 ["url"] = "https://wago.io/p5gVWr4D_/242",
 ["actions"] = {
@@ -65488,7 +65493,7 @@ true,
 ["selfPoint"] = "TOP",
 ["anchorPoint"] = "TOP",
 ["groupIcon"] = "1500881",
-["stagger"] = 0,
+["rotation"] = 0,
 ["internalVersion"] = 78,
 ["version"] = 242,
 ["subRegions"] = {
@@ -65521,12 +65526,12 @@ true,
 0.5,
 },
 ["limit"] = 5,
-["source"] = "import",
+["animate"] = false,
 ["gridWidth"] = 5,
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = false,
-["borderEdge"] = "Square Full White",
+["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Raid Leader Lists",
 ["stepAngle"] = 15,
 ["borderSize"] = 2,
 ["sort"] = "none",
@@ -65545,21 +65550,16 @@ true,
 ["regionType"] = "dynamicgroup",
 ["alpha"] = 1,
 ["anchorFrameType"] = "SELECTFRAME",
-["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Raid Leader Lists",
+["borderEdge"] = "Square Full White",
 ["uid"] = "JWGpq2)Q2M)",
-["animate"] = false,
-["rotation"] = 0,
+["source"] = "import",
+["stagger"] = 0,
 ["useLimit"] = false,
 ["conditions"] = {
 },
 ["information"] = {
 },
-["borderColor"] = {
-0,
-0,
-0,
-1,
-},
+["fullCircle"] = true,
 },
 {
 ["sparkWidth"] = 10,
@@ -65583,10 +65583,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "LIQUID_FROTH_POP_ASSIGNMENTS, CLEU:SPELL_AURA_APPLIED, ENCOUNTER_START",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 4,\n            expirationTime = GetTime() + 4,\n            unit = \"player\",\n            mark = string.format(\"{rt%d}\", 1),\n            index = 1,\n            icon = 132100,\n            popped = true,\n            autoHide = true\n        }\n        \n        for i = 2, 5 do\n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"static\",\n                value = 1,\n                total = 1,\n                unit = \"player\",\n                mark = string.format(\"{rt%d}\", i),\n                index = i,\n                icon = 2115303,\n                popped = false,\n                autoHide = false\n            }\n        end\n    elseif event == \"LIQUID_FROTH_POP_ASSIGNMENTS\" then\n        local poppers = ...\n        \n        if not poppers then return end\n        \n        for i, GUID in ipairs(poppers) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            \n            allstates[i] = {\n                show = true,\n                changed = true,\n                progressType = \"static\",\n                value = 1,\n                total = 1,\n                unit = unit,\n                mark = string.format(\"{rt%d}\", i),\n                index = i,\n                icon = 2115303,\n                popped = false,\n                autoHide = false\n            }\n        end\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, _, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 451278 then -- Concentrated Toxin\n            for i = 1, 5 do\n                local state = allstates[i]\n                \n                if state then\n                    allstates[i] = {\n                        show = true,\n                        changed = true,\n                        progressType = \"timed\",\n                        duration = 1,\n                        expirationTime = GetTime() + 1,\n                        icon = 132100,\n                        mark = state.mark,\n                        unit = state.unit,\n                        popped = true,\n                        autoHide = true\n                    }\n                    \n                    return true\n                end\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "LIQUID_FROTH_POP_ASSIGNMENTS, CLEU:SPELL_AURA_APPLIED, ENCOUNTER_START",
 ["names"] = {
 },
 ["check"] = "event",
@@ -65843,13 +65843,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "EwbiPmf2jTz",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -65873,8 +65874,7 @@ true,
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 32,
-["config"] = {
-},
+["uid"] = "EwbiPmf2jTz",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -65915,10 +65915,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "LIQUID_ACOLYTES_ESSENCE, ENCOUNTER_START",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[1] = {\n            show = true,\n            changed = true,\n            progressType = \"static\",\n            total = 1,\n            value = 1,\n            onFloor = true,\n            count = math.random(4, 10),\n            index = 100,\n            icon = 4913234,\n            autoHide = false\n        }\n        \n        --[[\n        for i = 1, 5 do\n            allstates[1 + i] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 15,\n                expirationTime = GetTime() + 15,\n                onFloor = false,\n                index = i,\n                icon = 460857,\n                unit = \"player\",\n                autoHide = true\n            }\n        end\n]]\n    elseif event == \"LIQUID_ACOLYTES_ESSENCE\" then\n        local carrying, onFloor = ...\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        if onFloor > 0 then\n            allstates[1] = {\n                show = true,\n                changed = true,\n                progressType = \"static\",\n                total = 1,\n                value = 1,\n                onFloor = true,\n                count = onFloor,\n                index = 100,\n                icon = 4913234,\n                autoHide = false\n            }\n        end\n        \n        --[[\n        for i, GUID in ipairs(carrying) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            \n            local _, _, _, _, duration, expirationTime = WA_GetUnitDebuff(unit, 445152) -- Acolyte's Essence\n            \n            if duration then\n                allstates[1 + i] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"timed\",\n                    duration = duration,\n                    expirationTime = expirationTime,\n                    onFloor = false,\n                    index = i,\n                    icon = 460857,\n                    unit = unit,\n                    autoHide = true\n                }\n            end\n        end\n]]\n        \n        return true\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "LIQUID_ACOLYTES_ESSENCE, ENCOUNTER_START",
 ["names"] = {
 },
 ["check"] = "event",
@@ -66107,9 +66107,9 @@ true,
 ["text_justify"] = "CENTER",
 ["text_text_format_previewName_format"] = "none",
 ["text_text_format_stacks_format"] = "none",
-["text_anchorXOffset"] = 0,
-["type"] = "subtext",
 ["text_text_format_order_format"] = "none",
+["type"] = "subtext",
+["text_anchorXOffset"] = 0,
 ["text_text_format_p_format"] = "timed",
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
@@ -66184,13 +66184,14 @@ true,
 },
 ["sparkBlendMode"] = "ADD",
 ["useAdjustededMax"] = false,
-["uid"] = "WFWJszuS)(j",
-["source"] = "import",
 ["sparkColor"] = {
 1,
 1,
 1,
 1,
+},
+["source"] = "import",
+["config"] = {
 },
 ["authorOptions"] = {
 },
@@ -66214,8 +66215,7 @@ true,
 ["frameStrata"] = 1,
 ["width"] = 200,
 ["height"] = 32,
-["config"] = {
-},
+["uid"] = "WFWJszuS)(j",
 ["inverse"] = false,
 ["actions"] = {
 ["start"] = {
@@ -66324,8 +66324,8 @@ true,
 ["Reaction Trauma"] = false,
 ["Web Blades (slow)"] = false,
 ["Royal Condemnation"] = false,
-["Abyssal Reverberation"] = false,
 ["Glutton Threads"] = false,
+["Abyssal Reverberation"] = false,
 ["Frothy Toxin"] = false,
 ["Feast (absorb)"] = false,
 ["Acolyte's Essence"] = false,
@@ -66358,7 +66358,7 @@ true,
 0.5,
 },
 ["regionType"] = "dynamicgroup",
-["animate"] = false,
+["source"] = "import",
 ["frameStrata"] = 1,
 ["scale"] = 1,
 ["centerType"] = "LR",
@@ -66378,13 +66378,13 @@ true,
 ["tocversion"] = 110002,
 ["id"] = "Queen Ansurek - Icons",
 ["borderEdge"] = "Square Full White",
-["alpha"] = 1,
-["anchorFrameType"] = "SELECTFRAME",
 ["gridWidth"] = 5,
-["uid"] = "jPn(eYSudl3",
-["source"] = "import",
+["anchorFrameType"] = "SELECTFRAME",
+["alpha"] = 1,
 ["config"] = {
 },
+["animate"] = false,
+["uid"] = "jPn(eYSudl3",
 ["authorOptions"] = {
 },
 ["conditions"] = {
@@ -66471,8 +66471,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -66546,13 +66546,13 @@ true,
 ["text_shadowYOffset"] = 0,
 ["text_anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
+["text_fontType"] = "OUTLINE",
 ["text_text_format_tooltip1_big_number_format"] = "AbbreviateNumbers",
 ["text_anchorPoint"] = "OUTER_TOP",
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 24,
 ["anchorXOffset"] = 0,
-["text_fontType"] = "OUTLINE",
+["text_visible"] = true,
 },
 {
 ["text_shadowXOffset"] = 0,
@@ -66577,7 +66577,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -66591,7 +66591,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -66668,9 +66668,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -66713,14 +66713,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Feast (absorb)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -66808,8 +66808,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -66911,7 +66911,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -66925,7 +66925,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -67002,9 +67002,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -67047,14 +67047,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Reaction Trauma",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -67142,8 +67142,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -67245,7 +67245,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -67259,7 +67259,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -67336,9 +67336,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -67381,14 +67381,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Acolyte's Essence",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -67476,8 +67476,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -67579,7 +67579,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -67593,7 +67593,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -67672,9 +67672,9 @@ true,
 ["start"] = {
 ["custom"] = "",
 ["do_sound"] = false,
+["sound"] = 1,
 ["do_message"] = false,
 ["do_custom"] = false,
-["sound"] = 1,
 },
 ["finish"] = {
 ["custom"] = "",
@@ -67716,14 +67716,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Acid Bolt",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -67811,8 +67811,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -67914,7 +67914,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -67928,7 +67928,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -68007,9 +68007,9 @@ true,
 ["start"] = {
 ["custom"] = "",
 ["do_sound"] = false,
+["sound"] = 1,
 ["do_message"] = false,
 ["do_custom"] = false,
-["sound"] = 1,
 },
 ["finish"] = {
 ["custom"] = "",
@@ -68051,14 +68051,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Royal Condemnation",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -68178,8 +68178,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -68281,7 +68281,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -68295,7 +68295,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -68374,9 +68374,9 @@ true,
 ["start"] = {
 ["custom"] = "",
 ["do_sound"] = false,
+["sound"] = 1,
 ["do_message"] = false,
 ["do_custom"] = false,
-["sound"] = 1,
 },
 ["finish"] = {
 ["custom"] = "",
@@ -68418,14 +68418,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Grasping Silk (phase 2 only, shows after 1 second)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -68513,8 +68513,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -68616,7 +68616,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -68630,7 +68630,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -68709,9 +68709,9 @@ true,
 ["start"] = {
 ["custom"] = "",
 ["do_sound"] = false,
+["sound"] = 1,
 ["do_message"] = false,
 ["do_custom"] = false,
-["sound"] = 1,
 },
 ["finish"] = {
 ["custom"] = "",
@@ -68753,14 +68753,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Abyssal Reverberation",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -68848,8 +68848,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -68951,7 +68951,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -68965,7 +68965,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -69042,9 +69042,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -69087,14 +69087,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Frothy Toxin",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -69182,8 +69182,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -69285,7 +69285,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -69299,7 +69299,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -69376,9 +69376,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -69421,14 +69421,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Web Blades (slow)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -69516,8 +69516,8 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = 0,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -69619,7 +69619,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["anchorXOffset"] = 0,
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["text_shadowColor"] = {
 0,
 0,
@@ -69633,7 +69633,7 @@ true,
 ["text_fontType"] = "OUTLINE",
 ["text_fontSize"] = 24,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 },
 {
 ["border_offset"] = 1,
@@ -69710,9 +69710,9 @@ true,
 ["regionType"] = "icon",
 ["actions"] = {
 ["start"] = {
-["custom"] = "",
 ["do_custom"] = false,
 ["do_message"] = false,
+["custom"] = "",
 ["do_sound"] = false,
 },
 ["finish"] = {
@@ -69755,14 +69755,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Glutton Threads",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 70,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -69886,11 +69886,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "jqgPAbe88dm",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -69990,8 +69990,8 @@ true,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -70021,7 +70021,7 @@ true,
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -70060,22 +70060,22 @@ true,
 ["id"] = "Reactive Toxin",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -70190,8 +70190,8 @@ true,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -70221,7 +70221,7 @@ true,
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -70260,22 +70260,22 @@ true,
 ["id"] = "Concentrated Toxin",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -70391,8 +70391,8 @@ true,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -70422,7 +70422,7 @@ true,
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -70461,22 +70461,22 @@ true,
 ["id"] = "Silken Tomb",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -70591,8 +70591,8 @@ true,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -70622,7 +70622,7 @@ true,
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -70661,22 +70661,22 @@ true,
 ["id"] = "Gloom Touch",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -70791,8 +70791,8 @@ true,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -70822,7 +70822,7 @@ true,
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -70861,22 +70861,22 @@ true,
 ["id"] = "Abyssal Infusion",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -70991,8 +70991,8 @@ true,
 ["text_selfPoint"] = "AUTO",
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
+["anchorYOffset"] = 0,
 ["text_text_format_p_time_legacy_floor"] = true,
-["text_text_format_c_format"] = "none",
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -71022,7 +71022,7 @@ true,
 },
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 60,
-["anchorYOffset"] = 0,
+["text_text_format_c_format"] = "none",
 },
 },
 ["height"] = 120,
@@ -71061,22 +71061,22 @@ true,
 ["id"] = "Infest (tank only)",
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -71214,11 +71214,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "9HF8cizIWbB",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -71285,20 +71285,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 40,
@@ -71338,8 +71338,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Bait Expulsion Beam",
 ["shadowYOffset"] = -1,
@@ -71391,10 +71391,10 @@ true,
 ["remaining_operator"] = "<",
 ["event"] = "Boss Mod Timer",
 ["unit"] = "player",
+["count"] = "3",
+["use_spellId"] = true,
 ["spellIds"] = {
 },
-["use_spellId"] = true,
-["count"] = "3",
 ["remaining"] = "6",
 ["subeventPrefix"] = "SPELL",
 ["use_count"] = true,
@@ -71411,10 +71411,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "CLEU:SPELL_AURA_APPLIED",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437586 and destGUID == WeakAuras.myGUID then -- Reactive Toxin\n            allstates[\"\"] = {\n                show = true,\n                changed = true\n            }\n            \n            return true\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "CLEU:SPELL_AURA_APPLIED",
 ["names"] = {
 },
 ["check"] = "event",
@@ -71447,20 +71447,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 40,
@@ -71500,8 +71500,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Bait 3rd Reactive Toxins",
 ["shadowYOffset"] = -1,
@@ -71718,8 +71718,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Bait Liquefy/Acid Explosion",
 ["shadowYOffset"] = -1,
@@ -71825,11 +71825,11 @@ true,
 ["event"] = "Combat Log",
 ["use_unit"] = true,
 ["use_absorbMode"] = true,
-["use_spellId"] = true,
+["use_spellName"] = false,
 ["spellIds"] = {
 },
 ["subeventPrefix"] = "SPELL",
-["use_spellName"] = false,
+["use_spellId"] = true,
 ["type"] = "combatlog",
 ["use_track"] = true,
 ["duration"] = "1",
@@ -71940,8 +71940,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Bait Gorge/Gloom Splatter",
 ["shadowYOffset"] = -1,
@@ -72018,9 +72018,9 @@ true,
 ["useMatch_count"] = true,
 ["useExactSpellId"] = true,
 ["subeventSuffix"] = "_CAST_START",
-["unit"] = "group",
-["event"] = "Health",
 ["subeventPrefix"] = "SPELL",
+["event"] = "Health",
+["unit"] = "group",
 ["names"] = {
 },
 ["combineMode"] = "showHighest",
@@ -72121,8 +72121,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Toxic Reaction",
 ["shadowYOffset"] = -1,
@@ -72275,8 +72275,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Dropping Acolyte's Essence",
 ["shadowYOffset"] = -1,
@@ -72466,8 +72466,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Portal timing (melee)",
 ["shadowYOffset"] = -1,
@@ -72657,8 +72657,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Portal timing (ranged)",
 ["shadowYOffset"] = -1,
@@ -72847,8 +72847,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Portal timing (essence holders)",
 ["shadowYOffset"] = -1,
@@ -72983,11 +72983,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "4CRiISGAWQw",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -73024,13 +73024,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "CLEU:SPELL_AURA_APPLIED, LIQUID_ASSIGNMENT_EVENT, ENCOUNTER_START",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        local assignment = math.random(4)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            assignment = string.format(\"Drop on %d{rt%d}\", assignment, assignment),\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id, triggerNum = ...\n        \n        if id ~= aura_env.id then return end\n        if triggerNum ~= 1 then return end\n        \n        table.sort(\n            aura_env.affected,\n            function(GUID1, GUID2)\n                return aura_env.soakOrder[GUID1] < aura_env.soakOrder[GUID2]\n            end\n        )\n        \n        local myAssignment = tIndexOf(aura_env.affected, WeakAuras.myGUID)\n        \n        if myAssignment then\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 5,\n                expirationTime = GetTime() + 5,\n                assignment = string.format(\"Drop on %d{rt%d}\", myAssignment, myAssignment),\n                chatMessage = string.format(\"%d{rt%d}\", myAssignment, myAssignment),\n                autoHide = true\n            }\n        end\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437586 then -- Reactive Toxin\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == aura_env.count + 1 then\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id, 1)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.affected = {}\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        local assignment = math.random(4)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 5,\n            expirationTime = GetTime() + 5,\n            assignment = string.format(\"Drop on %d{rt%d}\", assignment, assignment),\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id, triggerNum = ...\n        \n        if id ~= aura_env.id then return end\n        if triggerNum ~= 1 then return end\n        \n        table.sort(\n            aura_env.affected,\n            function(GUID1, GUID2)\n                return aura_env.soakOrder[GUID1] < aura_env.soakOrder[GUID2]\n            end\n        )\n        \n        local myAssignment = tIndexOf(aura_env.affected, WeakAuras.myGUID)\n        \n        if myAssignment then\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 5,\n                expirationTime = GetTime() + 5,\n                assignment = string.format(\"Drop on %d{rt%d}\", myAssignment, myAssignment),\n                chatMessage = string.format(\"%d{rt%d}\", myAssignment, myAssignment),\n                autoHide = true\n            }\n        end\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 437586 then -- Reactive Toxin\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == aura_env.count + 1 then\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id, 1)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.affected = {}\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -73043,10 +73043,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "ENCOUNTER_START, UNIT_SPELLCAST_START:boss, LIQUID_ASSIGNMENT_EVENT",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        local mark = math.random(4)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 8,\n            expirationTime = GetTime() + 8,\n            assignment = math.random(2) == 1 and string.format(\"|cff17ff45Pop {rt%d}|r\", mark) or string.format(\"Soak {rt%d}\", mark),\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id, triggerNum = ...\n        \n        if id ~= aura_env.id then return end\n        if triggerNum ~= 2 then return end\n        \n        -- First check if we are assigned to pop any of the Froths on this set\n        local poppers = aura_env.popOrder[aura_env.count]\n        local popAssignment = poppers and tIndexOf(poppers, WeakAuras.myGUID)\n        \n        if popAssignment then            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 8,\n                expirationTime = GetTime() + 8,\n                assignment = string.format(\"|cff17ff45Pop|r %d{rt%d}\", popAssignment, popAssignment),\n                autoHide = true\n            }\n            \n            return true\n        end\n        \n        -- If we are not assigned to pop, soak instead\n        local soakOrder = aura_env.soakOrder[WeakAuras.myGUID]\n        local playersPerSoak = 20 / (aura_env.count + 1)\n        local soakAssignment = math.floor((soakOrder - 1) / playersPerSoak) + 1 -- Soak that you are assigned to stand in (1-5)\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 8,\n            expirationTime = GetTime() + 8,\n            assignment = string.format(\"Soak %d{rt%d}\", soakAssignment, soakAssignment),\n            autoHide = true\n        }\n        \n        WeakAuras.ScanEvents(\"LIQUID_FROTH_POP_ASSIGNMENTS\", poppers)\n        \n        return true\n    elseif event == \"UNIT_SPELLCAST_START\" then\n        local _, castGUID, spellID = ...\n        \n        if not castGUID then return end\n        \n        if spellID == 437592 then -- Reactive Toxin\n            aura_env.count = aura_env.count + 1\n            \n            local id = aura_env.id\n            \n            C_Timer.After(7, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id, 2) end)\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.count = 0 -- Venom Nova count\n        aura_env.soakOrder = {} -- [GUID] = soakNumber\n        aura_env.popOrder = {} -- [setNumber] = frothNumber\n        aura_env.GUIDToUnit = {}\n        \n        local soakCount = 0 -- Number of assigned soakers\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        -- If MRT note assignments are provided, use those\n        if (C_AddOns.IsAddOnLoaded(\"ExRT\") or C_AddOns.IsAddOnLoaded(\"MRT\")) and _G.VExRT.Note.Text1 then\n            -- Parse soak assignments\n            local betweenLine = false\n            \n            for line in _G.VExRT.Note.Text1:gmatch(\"[^\\r\\n]+\") do\n                if strtrim(line):lower() == \"liquidend\" then\n                    betweenLine = false\n                end\n                \n                if betweenLine then\n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if UnitIsVisible(unit) and (word:match(name) or word:match(nickname)) then\n                                local GUID = UnitGUID(unit)\n                                \n                                soakCount = soakCount + 1\n                                \n                                aura_env.soakOrder[GUID] = soakCount\n                                \n                                break\n                            end\n                        end\n                    end\n                end\n                \n                if strtrim(line):lower() == \"liquidstart\" then\n                    betweenLine = true\n                end\n            end\n            \n            -- Parse pop assignments\n            betweenLine = false\n            \n            for line in _G.VExRT.Note.Text1:gmatch(\"[^\\r\\n]+\") do\n                if strtrim(line):lower() == \"liquidend2\" then\n                    betweenLine = false\n                end\n                \n                if betweenLine then\n                    local lineOrder = {}\n                    \n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if UnitIsVisible(unit) and (word:match(name) or word:match(nickname)) then\n                                local GUID = UnitGUID(unit)\n                                \n                                table.insert(lineOrder, GUID)\n                                \n                                break\n                            end\n                        end\n                    end\n                    \n                    if #lineOrder > 0 then\n                        table.insert(aura_env.popOrder, lineOrder)\n                    end\n                end\n                \n                if strtrim(line):lower() == \"liquidstart2\" then\n                    betweenLine = true\n                end\n            end\n        end\n        \n        local unassignedGUIDs = {}\n        \n        -- Add anyone that was not assigned through MRT note to the back of the list\n        for unit in WA_IterateGroupMembers() do\n            local GUID = UnitGUID(unit)\n            \n            if not aura_env.soakOrder[GUID] and UnitIsVisible(unit) then\n                table.insert(unassignedGUIDs, GUID)\n            end\n        end\n        \n        -- Sort tanks < melee < ranged, with healers being prioritised to the front within melee and ranged\n        table.sort(\n            unassignedGUIDs,\n            function (GUID1, GUID2)\n                if not GUID1 then return false end\n                if not GUID2 then return true end\n                \n                local unit1 = aura_env.GUIDToUnit[GUID1] or UnitTokenFromGUID(GUID1)\n                local unit2 = aura_env.GUIDToUnit[GUID2] or UnitTokenFromGUID(GUID2)\n                \n                local type1, spec1 = LiquidWeakAuras:Spec(unit1)\n                local type2, spec2 = LiquidWeakAuras:Spec(unit2)\n                \n                local role1 = UnitGroupRolesAssigned(unit1)\n                local role2 = UnitGroupRolesAssigned(unit2)\n                \n                local isTank1 = role1 == \"TANK\"\n                local isTank2 = role2 == \"TANK\"\n                \n                if isTank1 ~= isTank2 then\n                    return isTank1\n                elseif type1 ~= type2 then\n                    return type1 == \"m\"\n                elseif role1 ~= role2 then\n                    return role1 > role2\n                elseif spec1 and spec2 and spec1 ~= spec2 then\n                    return spec1 < spec2\n                else\n                    return GUID1 < GUID2\n                end\n            end\n        )\n        \n        -- Add units not assigned through MRT note to the soakOrder table\n        for _, GUID in ipairs(unassignedGUIDs) do\n            soakCount = soakCount + 1\n            \n            aura_env.soakOrder[GUID] = soakCount\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "ENCOUNTER_START, UNIT_SPELLCAST_START:boss, LIQUID_ASSIGNMENT_EVENT",
 ["names"] = {
 },
 ["check"] = "event",
@@ -73078,20 +73078,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["displayText_format_assignment_format"] = "none",
@@ -73218,13 +73218,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["spellIds"] = {
+},
 ["events"] = "ENCOUNTER_START, CLEU:UNIT_DIED:SPELL_AURA_APPLIED:SPELL_CAST_START:UNIT_DIED, LIQUID_ASSIGNMENT_EVENT",
-["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 9,\n            expirationTime = GetTime() + 9,\n            message = \"Take gate\",\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        local leftGUID, rightGUID\n        local leftCount = 0\n        local rightCount = 0\n        \n        for _, GUID in ipairs(aura_env.assignments[1]) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            local hasShadowyDistortion = WA_GetUnitDebuff(unit, 460218)\n            \n            if hasShadowyDistortion then\n                leftCount = leftCount + 1\n            end\n            \n            if not hasShadowyDistortion and not UnitIsDeadOrGhost(unit) and UnitIsConnected(unit) then\n                leftGUID = GUID\n                \n                break\n            end\n        end\n        \n        for _, GUID in ipairs(aura_env.assignments[2]) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            local hasShadowyDistortion = WA_GetUnitDebuff(unit, 460218)\n            \n            if hasShadowyDistortion then\n                rightCount = rightCount + 1\n            end\n            \n            if not hasShadowyDistortion and not UnitIsDeadOrGhost(unit) and UnitIsConnected(unit) then\n                rightGUID = GUID\n                \n                break\n            end\n        end\n        \n        local leftCastStartTime = aura_env.castStartTimes[1]\n        local rightCastStartTime = aura_env.castStartTimes[2]\n        \n        if leftCastStartTime and leftGUID == WeakAuras.myGUID then\n            local gateCount = aura_env.gateCount[1]\n            local gateGUID = aura_env.activeGates[1]\n            local castCount = aura_env.castCount[gateGUID]\n            local message = aura_env.messages[gateCount] and aura_env.messages[gateCount][1] and aura_env.messages[gateCount][1][castCount]\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 9,\n                expirationTime = leftCastStartTime + 9,\n                message = message and string.format(\"Take gate -> %s\", message) or \"Take gate\",\n                autoHide = true\n            }\n        end\n        \n        if rightCastStartTime and rightGUID == WeakAuras.myGUID then\n            local gateCount = aura_env.gateCount[2]\n            local gateGUID = aura_env.activeGates[2]\n            local castCount = aura_env.castCount[gateGUID]\n            local message = aura_env.messages[gateCount] and aura_env.messages[gateCount][2] and aura_env.messages[gateCount][2][castCount]\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 9,\n                expirationTime = rightCastStartTime + 9,\n                message = message and string.format(\"Take gate -> %s\", message) or \"Take gate\",\n                autoHide = true\n            }\n        end\n        \n        WeakAuras.ScanEvents(\n            \"LIQUID_ANSUREK_SHADOW_GATE\",\n            leftGUID and aura_env.GUIDToUnit[leftGUID],\n            rightGUID and aura_env.GUIDToUnit[rightGUID],\n            leftCastStartTime,\n            rightCastStartTime,\n            leftCount,\n            rightCount\n        )\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, sourceGUID, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_START\" and spellID == 460369 then -- Shadowgate\n            local side\n            \n            -- If it's the first time this gate is seen, decide side based on cast order\n            if not aura_env.castCount[sourceGUID] then\n                side = aura_env.nextGateSide\n                \n                aura_env.nextGateSide = aura_env.nextGateSide + 1\n                \n                if aura_env.nextGateSide == 3 then\n                    aura_env.nextGateSide = 1\n                end\n                \n                aura_env.castCount[sourceGUID] = 0\n                aura_env.gateCount[side] = aura_env.gateCount[side] + 1\n            end\n            \n            -- If we've seen the gate before, take the side from previously seen gates\n            if not side then\n                side = aura_env.activeGates[1] == sourceGUID and 1 or 2\n            end\n            \n            if not side then return end\n            \n            aura_env.castStartTimes[side] = GetTime()\n            aura_env.activeGates[side] = sourceGUID\n            aura_env.castCount[sourceGUID] = aura_env.castCount[sourceGUID] + 1\n            \n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 460218 then -- Shadowy Distortion\n            local unitIsLeft = tIndexOf(aura_env.assignments[1], destGUID) ~= nil\n            local gateIsLeft = aura_env.activeGates[1] == sourceGUID\n            \n            -- If this is the first person that goes through the gate, and it's someone that should be on opposite side\n            -- It's probably because the gate was assigned to the wrong side\n            -- Swap it around\n            if aura_env.castCount[sourceGUID] == 1 and unitIsLeft ~= gateIsLeft then\n                local temp\n                \n                temp = aura_env.castCount[1]\n                aura_env.castCount[1] = aura_env.castCount[2]\n                aura_env.castCount[2] = temp\n                \n                temp = aura_env.activeGates[1]\n                aura_env.activeGates[1] = aura_env.activeGates[2]\n                aura_env.activeGates[2] = temp\n                \n                temp = aura_env.castStartTimes[1]\n                aura_env.castStartTimes[1] = aura_env.castStartTimes[2]\n                aura_env.castStartTimes[2] = temp\n                \n                gateIsLeft = not gateIsLeft\n            end\n            \n            aura_env.castStartTimes[gateIsLeft and 1 or 2] = nil\n            \n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"UNIT_DIED\" and aura_env.GUIDToUnit[destGUID] then\n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"UNIT_DIED\" and destGUID then\n            if aura_env.GUIDToUnit[destGUID] then\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n                \n                return\n            end\n            \n            local npcID = LiquidWeakAuras:CreatureInfo(destGUID)\n            \n            if npcID and npcID == 223150 then -- Ascended Voidspeaker\n                aura_env.castStartTimes[1] = nil\n                aura_env.castStartTimes[2] = nil\n                \n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.nextGateSide = 1 -- Side that the gate is on that starts casting next\n        aura_env.castCount = {} -- {GUID1 = castCount, GUID2 = castCount, etc.}\n        aura_env.gateCount = {0, 0} -- {leftCount, rightCount}\n        aura_env.activeGates = {} -- {leftGUID, rightGUID}\n        aura_env.castStartTimes = {} -- {leftCastStart, rightCastStart}\n        aura_env.assignments = {{}, {}} -- {[1] = {leftGUID1, leftGUID2, etc.}, [2] = {rightGUID1, rightGUID2, etc.}}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        if (C_AddOns.IsAddOnLoaded(\"ExRT\") or C_AddOns.IsAddOnLoaded(\"MRT\")) and _G.VExRT.Note.Text1 then\n            local betweenLine = false\n            local lineCount = 0\n            \n            for line in _G.VExRT.Note.Text1:gmatch(\"[^\\r\\n]+\") do\n                if strtrim(line):lower() == \"liquidend3\" then\n                    betweenLine = false\n                end\n                \n                if betweenLine then\n                    lineCount = lineCount + 1\n                    \n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if word:match(name) or word:match(nickname) then\n                                if aura_env.assignments[lineCount] then\n                                    local GUID = UnitGUID(unit)\n                                    \n                                    table.insert(aura_env.assignments[lineCount], GUID)\n                                end\n                                \n                                break\n                            end\n                        end\n                    end\n                end\n                \n                if strtrim(line):lower() == \"liquidstart3\" then\n                    betweenLine = true\n                end\n            end\n        end\n    end\nend",
 ["custom_type"] = "stateupdate",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["spellIds"] = {
-},
+["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 9,\n            expirationTime = GetTime() + 9,\n            message = \"Take gate\",\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        local leftGUID, rightGUID\n        local leftCount = 0\n        local rightCount = 0\n        \n        for _, GUID in ipairs(aura_env.assignments[1]) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            local hasShadowyDistortion = WA_GetUnitDebuff(unit, 460218)\n            \n            if hasShadowyDistortion then\n                leftCount = leftCount + 1\n            end\n            \n            if not hasShadowyDistortion and not UnitIsDeadOrGhost(unit) and UnitIsConnected(unit) then\n                leftGUID = GUID\n                \n                break\n            end\n        end\n        \n        for _, GUID in ipairs(aura_env.assignments[2]) do\n            local unit = aura_env.GUIDToUnit[GUID]\n            local hasShadowyDistortion = WA_GetUnitDebuff(unit, 460218)\n            \n            if hasShadowyDistortion then\n                rightCount = rightCount + 1\n            end\n            \n            if not hasShadowyDistortion and not UnitIsDeadOrGhost(unit) and UnitIsConnected(unit) then\n                rightGUID = GUID\n                \n                break\n            end\n        end\n        \n        local leftCastStartTime = aura_env.castStartTimes[1]\n        local rightCastStartTime = aura_env.castStartTimes[2]\n        \n        if leftCastStartTime and leftGUID == WeakAuras.myGUID then\n            local gateCount = aura_env.gateCount[1]\n            local gateGUID = aura_env.activeGates[1]\n            local castCount = aura_env.castCount[gateGUID]\n            local message = aura_env.messages[gateCount] and aura_env.messages[gateCount][1] and aura_env.messages[gateCount][1][castCount]\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 9,\n                expirationTime = leftCastStartTime + 9,\n                message = message and string.format(\"Take gate -> %s\", message) or \"Take gate\",\n                autoHide = true\n            }\n        end\n        \n        if rightCastStartTime and rightGUID == WeakAuras.myGUID then\n            local gateCount = aura_env.gateCount[2]\n            local gateGUID = aura_env.activeGates[2]\n            local castCount = aura_env.castCount[gateGUID]\n            local message = aura_env.messages[gateCount] and aura_env.messages[gateCount][2] and aura_env.messages[gateCount][2][castCount]\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 9,\n                expirationTime = rightCastStartTime + 9,\n                message = message and string.format(\"Take gate -> %s\", message) or \"Take gate\",\n                autoHide = true\n            }\n        end\n        \n        WeakAuras.ScanEvents(\n            \"LIQUID_ANSUREK_SHADOW_GATE\",\n            leftGUID and aura_env.GUIDToUnit[leftGUID],\n            rightGUID and aura_env.GUIDToUnit[rightGUID],\n            leftCastStartTime,\n            rightCastStartTime,\n            leftCount,\n            rightCount\n        )\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, sourceGUID, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_START\" and spellID == 460369 then -- Shadowgate\n            local side\n            \n            -- If it's the first time this gate is seen, decide side based on cast order\n            if not aura_env.castCount[sourceGUID] then\n                side = aura_env.nextGateSide\n                \n                aura_env.nextGateSide = aura_env.nextGateSide + 1\n                \n                if aura_env.nextGateSide == 3 then\n                    aura_env.nextGateSide = 1\n                end\n                \n                aura_env.castCount[sourceGUID] = 0\n                aura_env.gateCount[side] = aura_env.gateCount[side] + 1\n            end\n            \n            -- If we've seen the gate before, take the side from previously seen gates\n            if not side then\n                side = aura_env.activeGates[1] == sourceGUID and 1 or 2\n            end\n            \n            if not side then return end\n            \n            aura_env.castStartTimes[side] = GetTime()\n            aura_env.activeGates[side] = sourceGUID\n            aura_env.castCount[sourceGUID] = aura_env.castCount[sourceGUID] + 1\n            \n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"SPELL_AURA_APPLIED\" and spellID == 460218 then -- Shadowy Distortion\n            local unitIsLeft = tIndexOf(aura_env.assignments[1], destGUID) ~= nil\n            local gateIsLeft = aura_env.activeGates[1] == sourceGUID\n            \n            -- If this is the first person that goes through the gate, and it's someone that should be on opposite side\n            -- It's probably because the gate was assigned to the wrong side\n            -- Swap it around\n            if aura_env.castCount[sourceGUID] == 1 and unitIsLeft ~= gateIsLeft then\n                local temp\n                \n                temp = aura_env.castCount[1]\n                aura_env.castCount[1] = aura_env.castCount[2]\n                aura_env.castCount[2] = temp\n                \n                temp = aura_env.activeGates[1]\n                aura_env.activeGates[1] = aura_env.activeGates[2]\n                aura_env.activeGates[2] = temp\n                \n                temp = aura_env.castStartTimes[1]\n                aura_env.castStartTimes[1] = aura_env.castStartTimes[2]\n                aura_env.castStartTimes[2] = temp\n                \n                gateIsLeft = not gateIsLeft\n            end\n            \n            aura_env.castStartTimes[gateIsLeft and 1 or 2] = nil\n            \n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"UNIT_DIED\" and aura_env.GUIDToUnit[destGUID] then\n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"UNIT_DIED\" and destGUID then\n            if aura_env.GUIDToUnit[destGUID] then\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n                \n                return\n            end\n            \n            local npcID = LiquidWeakAuras:CreatureInfo(destGUID)\n            \n            if npcID and npcID == 223150 then -- Ascended Voidspeaker\n                aura_env.castStartTimes[1] = nil\n                aura_env.castStartTimes[2] = nil\n                \n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.nextGateSide = 1 -- Side that the gate is on that starts casting next\n        aura_env.castCount = {} -- {GUID1 = castCount, GUID2 = castCount, etc.}\n        aura_env.gateCount = {0, 0} -- {leftCount, rightCount}\n        aura_env.activeGates = {} -- {leftGUID, rightGUID}\n        aura_env.castStartTimes = {} -- {leftCastStart, rightCastStart}\n        aura_env.assignments = {{}, {}} -- {[1] = {leftGUID1, leftGUID2, etc.}, [2] = {rightGUID1, rightGUID2, etc.}}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        if (C_AddOns.IsAddOnLoaded(\"ExRT\") or C_AddOns.IsAddOnLoaded(\"MRT\")) and _G.VExRT.Note.Text1 then\n            local betweenLine = false\n            local lineCount = 0\n            \n            for line in _G.VExRT.Note.Text1:gmatch(\"[^\\r\\n]+\") do\n                if strtrim(line):lower() == \"liquidend3\" then\n                    betweenLine = false\n                end\n                \n                if betweenLine then\n                    lineCount = lineCount + 1\n                    \n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if word:match(name) or word:match(nickname) then\n                                if aura_env.assignments[lineCount] then\n                                    local GUID = UnitGUID(unit)\n                                    \n                                    table.insert(aura_env.assignments[lineCount], GUID)\n                                end\n                                \n                                break\n                            end\n                        end\n                    end\n                end\n                \n                if strtrim(line):lower() == \"liquidstart3\" then\n                    betweenLine = true\n                end\n            end\n        end\n    end\nend",
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -73269,20 +73269,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 60,
@@ -73301,13 +73301,13 @@ true,
 ["config"] = {
 },
 ["parent"] = "Queen Ansurek - Assignments",
-["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Shadowgate assignments",
 ["shadowYOffset"] = -1,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "SCREEN",
-["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["uid"] = "(6nbOL2vmo0",
 ["xOffset"] = 0,
 ["displayText_format_p_time_dynamic_threshold"] = 60,
@@ -73402,10 +73402,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED:UNIT_DIED, LIQUID_ASSIGNMENT_EVENT, ENCOUNTER_START, INSTANCE_ENCOUNTER_ENGAGE_UNIT",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"LIQUID_ASSIGNMENT_EVENT\" then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        -- Clear states\n        for _, state in pairs(allstates) do\n            state.show = false\n            state.changed = true\n        end\n        \n        local backupGUIDs = CopyTable(aura_env.backupOrder)\n        local carryingGUIDs = {} -- GUIDs of players currently carrying an Acolyte's Essence\n        \n        for unit in WA_IterateGroupMembers() do\n            if WA_GetUnitDebuff(unit, 445152) then -- Acolyte's Essence\n                local GUID = UnitGUID(unit)\n                \n                table.insert(carryingGUIDs, GUID)\n            end\n        end\n        \n        local assigned = {} -- Players that should still pick up the Acolyte's Essences next\n        local onFloor = aura_env.essenceCount - #carryingGUIDs -- Number of Acolyte's Essences that need to be picked up\n        \n        if onFloor == 0 then return end\n        \n        -- Assign tanks first\n        if aura_env.alwaysTanks then\n            for unit in WA_IterateGroupMembers() do\n                if #assigned == onFloor then\n                    break\n                end\n                \n                local role = UnitGroupRolesAssigned(unit)\n                \n                if role == \"TANK\" then\n                    local GUID = UnitGUID(unit)\n                    local isCarrying = tContains(carryingGUIDs, GUID)\n                    local isAlive = not UnitIsDeadOrGhost(unit)\n                    local isConnected = UnitIsConnected(unit)\n                    \n                    if isAlive and isConnected and not isCarrying then\n                        table.insert(assigned, GUID)\n                    end\n                end\n            end\n        end\n        \n        -- Assign from order\n        for _, GUID in ipairs(aura_env.soakOrder) do\n            if #assigned == onFloor then\n                break\n            end\n            \n            local isAssigned = tContains(assigned, GUID)\n            local unit = aura_env.GUIDToUnit[GUID]\n            local isCarrying = tContains(carryingGUIDs, GUID)\n            local isAlive = not UnitIsDeadOrGhost(unit)\n            local isConnected = UnitIsConnected(unit)\n            local hasEssenceScarred = WA_GetUnitDebuff(unit, 446012) -- Essence Scarred\n            \n            if isAlive and isConnected and not isAssigned and not isCarrying and not hasEssenceScarred then\n                table.insert(assigned, GUID)\n            else\n                -- If someone is dead/ineligible, first try to assign a backup before progressing the order\n                for i, backupGUID in ipairs(backupGUIDs) do\n                    isAssigned = tContains(assigned, backupGUID)\n                    unit = aura_env.GUIDToUnit[backupGUID]\n                    isCarrying = tContains(carryingGUIDs, backupGUID)\n                    isAlive = not UnitIsDeadOrGhost(unit)\n                    isConnected = UnitIsConnected(unit)\n                    hasEssenceScarred = WA_GetUnitDebuff(unit, 446012) -- Essence Scarred\n                    \n                    if isAlive and isConnected and not isAssigned and not isCarrying and not hasEssenceScarred then\n                        table.insert(assigned, backupGUID)\n                        table.remove(backupGUIDs, i)\n                        \n                        break\n                    end\n                end\n            end\n        end\n        \n        local myAssignment = tContains(assigned, WeakAuras.myGUID)\n        \n        if myAssignment then\n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                autoHide = false\n            }\n        end\n        \n        WeakAuras.ScanEvents(\"LIQUID_ACOLYTES_ESSENCE\", carryingGUIDs, aura_env.essenceCount)\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and (spellID == 445152 or spellID == 446012) then -- Acolyte's Essence/Essence Scarred\n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"SPELL_AURA_REMOVED\" and (spellID == 445152 or spellID == 446012) then -- Acolyte's Essence/Essence Scarred\n            WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n        elseif subEvent == \"UNIT_DIED\" then\n            if aura_env.GUIDToUnit[destGUID] then\n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n                \n                return\n            end\n        end\n    elseif event == \"INSTANCE_ENCOUNTER_ENGAGE_UNIT\" then\n        for i = 1, 8 do\n            local unit = \"boss\" .. i\n            \n            if not UnitExists(unit) then break end\n            \n            local GUID = UnitGUID(unit)\n            local npcID = LiquidWeakAuras:CreatureInfo(GUID)\n            \n            if npcID and npcID == 221863 and not aura_env.seenGUIDs[GUID] then -- Summoned Acolyte\n                aura_env.seenGUIDs[GUID] = true\n                aura_env.essenceCount = aura_env.essenceCount + 1\n                \n                WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", aura_env.id)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" then\n        aura_env.seenGUIDs = {}\n        aura_env.essenceCount = 0\n        aura_env.soakOrder = {}\n        aura_env.backupOrder = {}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        -- If MRT note assignments are provided, use those\n        if (C_AddOns.IsAddOnLoaded(\"ExRT\") or C_AddOns.IsAddOnLoaded(\"MRT\")) and _G.VExRT.Note.Text1 then\n            -- Parse soak assignments\n            local betweenLine = false\n            \n            for line in _G.VExRT.Note.Text1:gmatch(\"[^\\r\\n]+\") do\n                if strtrim(line):lower() == \"liquidend4\" then\n                    betweenLine = false\n                end\n                \n                local lineCount = 0\n                \n                if betweenLine then\n                    lineCount = lineCount + 1\n                    \n                    for word in line:gmatch(\"%S+\") do\n                        for unit in WA_IterateGroupMembers() do\n                            local name = UnitName(unit)\n                            local nickname = LiquidAPI and LiquidAPI:GetName(unit) or name\n                            \n                            if UnitIsVisible(unit) and (word:match(name) or word:match(nickname)) then\n                                local GUID = UnitGUID(unit)\n                                \n                                if lineCount == 1 then\n                                    table.insert(aura_env.soakOrder, GUID)\n                                elseif lineCount == 2 then\n                                    table.insert(aura_env.backupOrder, GUID)\n                                end\n                            end\n                        end\n                    end\n                end\n                \n                if strtrim(line):lower() == \"liquidstart4\" then\n                    betweenLine = true\n                end\n            end\n        end\n        \n        local unassignedGUIDs = {}\n        \n        -- Add anyone that was not assigned through MRT note to the back of the list\n        for unit in WA_IterateGroupMembers() do\n            local GUID = UnitGUID(unit)\n            \n            if not tContains(aura_env.soakOrder, GUID) and not tContains(aura_env.backupOrder, GUID) and UnitIsVisible(unit) then\n                table.insert(unassignedGUIDs, GUID)\n            end\n        end\n        \n        table.sort(\n            unassignedGUIDs,\n            function (GUID1, GUID2)\n                if not GUID1 then return false end\n                if not GUID2 then return true end\n                \n                local unit1 = aura_env.GUIDToUnit[GUID1]\n                local unit2 = aura_env.GUIDToUnit[GUID2]\n                \n                local type1, spec1 = LiquidWeakAuras:Spec(unit1)\n                local type2, spec2 = LiquidWeakAuras:Spec(unit2)\n                \n                local role1 = UnitGroupRolesAssigned(unit1)\n                local role2 = UnitGroupRolesAssigned(unit2)\n                \n                local isHealer1 = role1 == \"HEALER\"\n                local isHealer2 = role2 == \"HEALER\"\n                \n                if isHealer1 ~= isHealer2 then\n                    return isHealer2\n                elseif role1 ~= role2 then\n                    return role1 > role2\n                elseif type1 ~= type2 then\n                    return type1 == \"m\"\n                elseif spec1 and spec2 and spec1 ~= spec2 then\n                    return spec1 < spec2\n                else\n                    return GUID1 < GUID2\n                end\n            end\n        )\n        \n        -- Add units not assigned through MRT note to the soakOrder table\n        tAppendAll(aura_env.soakOrder, unassignedGUIDs)\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "CLEU:SPELL_AURA_APPLIED:SPELL_AURA_REMOVED:UNIT_DIED, LIQUID_ASSIGNMENT_EVENT, ENCOUNTER_START, INSTANCE_ENCOUNTER_ENGAGE_UNIT",
 ["names"] = {
 },
 ["check"] = "event",
@@ -73438,20 +73438,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 60,
@@ -73491,8 +73491,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Acolyte's Essence assignments",
 ["shadowYOffset"] = -1,
@@ -73551,10 +73551,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED, LIQUID_ASSIGNMENT_EVENT",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        local set = math.random(2)\n        local assignment = math.random(3)\n        local text = aura_env.assignments[set] and aura_env.assignments[set][assignment] or \"Royal Condemnation\"\n        \n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 6.1,\n            expirationTime = GetTime() + 6.1,\n            assignment = text,\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" and ... then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        aura_env.set = aura_env.set + 1\n        \n        LiquidWeakAuras:SortTableMobility(aura_env.affected)\n        \n        local assignment = tIndexOf(aura_env.affected, WeakAuras.myGUID)\n        \n        if assignment then\n            local text = aura_env.assignments[aura_env.set] and aura_env.assignments[aura_env.set][assignment] or \"Royal Condemnation\"\n            local tts = aura_env.tts[aura_env.set] and aura_env.tts[aura_env.set][assignment]\n            local chatMessage = aura_env.chatMessage[aura_env.set] and aura_env.chatMessage[aura_env.set][assignment]\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 6.1,\n                expirationTime = GetTime() + 6.1,\n                assignment = text,\n                chatMessage = chatMessage,\n                autoHide = true\n            }\n            \n            if tts then\n                LiquidWeakAuras:PlaySound(tts)\n            end\n        end\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" then\n            if spellID == 438974 then -- Royal Condemnation\n                table.insert(aura_env.affected, destGUID)\n                \n                if #aura_env.affected == 1 then\n                    local id = aura_env.id\n                    \n                    C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id) end)\n                end\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" and ... then\n        aura_env.affected = {}\n        aura_env.set = 0\n    end\nend\n\n\n\n",
 ["spellIds"] = {
 },
-["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED, LIQUID_ASSIGNMENT_EVENT",
 ["names"] = {
 },
 ["check"] = "event",
@@ -73596,20 +73596,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["displayText_format_assignment_format"] = "none",
@@ -73708,10 +73708,10 @@ true,
 ["debuffType"] = "HELPFUL",
 ["event"] = "Health",
 ["unit"] = "player",
+["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED, LIQUID_ASSIGNMENT_EVENT",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"OPTIONS\" then\n        allstates[\"\"] = {\n            show = true,\n            changed = true,\n            progressType = \"timed\",\n            duration = 6,\n            expirationTime = GetTime() + 6,\n            assignment = math.random(2) == 1 and \"Melee\" or \"Ranged\",\n            autoHide = true\n        }\n    elseif event == \"LIQUID_ASSIGNMENT_EVENT\" and ... then\n        local id = ...\n        \n        if id ~= aura_env.id then return end\n        \n        if #aura_env.affected > 1 then\n            local GUID1 = aura_env.affected[1]\n            local GUID2 = aura_env.affected[2]\n            \n            local unit1 = aura_env.GUIDToUnit[GUID1]\n            local unit2 = aura_env.GUIDToUnit[GUID2]\n            \n            local position1 = LiquidWeakAuras:Spec(unit1)\n            local position2 = LiquidWeakAuras:Spec(unit2)\n            \n            if position1 == position2 and position1 == \"m\" then\n                LiquidWeakAuras:SortTableMobility(aura_env.affected, true)\n            elseif position1 == position2 and position1 == \"r\" then\n                LiquidWeakAuras:SortTableMobility(aura_env.affected)\n            else\n                LiquidWeakAuras:SortTable(aura_env.affected, true)\n            end\n        end\n        \n        local myAssignment = tIndexOf(aura_env.affected, WeakAuras.myGUID)\n        \n        if myAssignment then\n            local assignment = myAssignment == 1 and \"Ranged\" or \"Melee\"\n            \n            allstates[\"\"] = {\n                show = true,\n                changed = true,\n                progressType = \"timed\",\n                duration = 6,\n                expirationTime = GetTime() + 6,\n                assignment = assignment,\n                autoHide = true\n            }\n            \n            LiquidWeakAuras:PlaySound(assignment)\n        end\n        \n        aura_env.affected = {}\n        \n        return true\n    elseif event == \"COMBAT_LOG_EVENT_UNFILTERED\" and ... then\n        local _, subEvent, _, _, _, _, _, destGUID, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_AURA_APPLIED\" and spellID == 443903 then -- Abyssal Infusion\n            table.insert(aura_env.affected, destGUID)\n            \n            if #aura_env.affected == 1 then\n                local id = aura_env.id\n                \n                C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ASSIGNMENT_EVENT\", id) end)\n            end\n        end\n    elseif event == \"ENCOUNTER_START\" and ... then\n        aura_env.affected = {}\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n    end\nend",
 ["spellIds"] = {
 },
-["events"] = "ENCOUNTER_START, CLEU:SPELL_AURA_APPLIED, LIQUID_ASSIGNMENT_EVENT",
 ["names"] = {
 },
 ["check"] = "event",
@@ -73753,20 +73753,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["displayText_format_assignment_format"] = "none",
@@ -73913,7 +73913,7 @@ true,
 ["subRegions"] = {
 },
 ["uid"] = "zvvbovHDKKc",
-["frameStrata"] = 1,
+["gridWidth"] = 5,
 ["load"] = {
 ["size"] = {
 ["multi"] = {
@@ -73939,13 +73939,13 @@ true,
 0,
 0.5,
 },
-["gridWidth"] = 5,
-["source"] = "import",
+["frameStrata"] = 1,
+["animate"] = false,
 ["customGrow"] = "function(newPositions, activeRegions)\n    local set = activeRegions[1] and activeRegions[1].region and activeRegions[1].region.state and activeRegions[1].region.state.set\n    local radius = 0.6\n    local positions\n    \n    if set == 1 then\n        positions = {\n            {math.cos((270 / 360) * 2 * math.pi), math.sin((270 / 360) * 2 * math.pi)},\n            {math.cos((150 / 360) * 2 * math.pi), math.sin((150 / 360) * 2 * math.pi)},\n            {math.cos((30 / 360) * 2 * math.pi), math.sin((30 / 360) * 2 * math.pi)},\n        }\n    else\n        positions = {\n            {math.cos((270 / 360) * 2 * math.pi), math.sin((270 / 360) * 2 * math.pi)},\n            {math.cos((150 / 360) * 2 * math.pi), math.sin((150 / 360) * 2 * math.pi)},\n            {math.cos((30 / 360) * 2 * math.pi), math.sin((30 / 360) * 2 * math.pi)},\n        }\n    end\n    \n    for i, regionData in ipairs(activeRegions) do\n        local region = regionData.region\n        local state = region.state\n        \n        if not state.position then return end\n        \n        local position = state.position\n        local width = regionData.dimensions.width\n        local height = regionData.dimensions.height\n        \n        newPositions[i] = {positions[position][1] * radius * width, positions[position][2] * radius * height}\n    end\nend",
 ["scale"] = 1,
 ["centerType"] = "LR",
 ["border"] = true,
-["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Position Assignments",
+["borderEdge"] = "Square Full White",
 ["regionType"] = "dynamicgroup",
 ["borderSize"] = 1,
 ["limit"] = 5,
@@ -73963,9 +73963,9 @@ true,
 ["sort"] = "none",
 ["alpha"] = 1,
 ["anchorFrameType"] = "SELECTFRAME",
-["borderEdge"] = "Square Full White",
+["anchorFrameFrame"] = "WeakAuras:Liquid Anchor - Position Assignments",
 ["borderInset"] = 1,
-["animate"] = false,
+["source"] = "import",
 ["space"] = 2,
 ["radius"] = 200,
 ["conditions"] = {
@@ -74416,7 +74416,7 @@ true,
 },
 ["text_font"] = "PT Sans Narrow",
 ["text_text_format_tooltip1M_format"] = "none",
-["text_anchorYOffset"] = -1,
+["text_shadowYOffset"] = 0,
 ["text_visible"] = true,
 ["text_wordWrap"] = "WordWrap",
 ["text_fontType"] = "OUTLINE",
@@ -74425,7 +74425,7 @@ true,
 ["anchorYOffset"] = 0,
 ["text_fontSize"] = 28,
 ["anchorXOffset"] = 0,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -1,
 },
 {
 ["border_offset"] = 1,
@@ -74444,22 +74444,22 @@ true,
 ["height"] = 64,
 ["load"] = {
 ["use_encounterid"] = true,
-["encounterid"] = "2922",
-["class_and_spec"] = {
-},
-["talent"] = {
-["multi"] = {
-},
-},
 ["class"] = {
 ["multi"] = {
 },
 },
+["use_never"] = false,
+["talent"] = {
+["multi"] = {
+},
+},
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
 },
-["use_never"] = false,
+["class_and_spec"] = {
+},
 ["size"] = {
 ["multi"] = {
 },
@@ -74479,16 +74479,16 @@ true,
 },
 ["xOffset"] = -10,
 ["uid"] = "2JsEjNNB282",
-["alpha"] = 1,
+["useCooldownModRate"] = true,
 ["anchorFrameType"] = "NAMEPLATE",
 ["anchorFrameParent"] = false,
-["useCooldownModRate"] = true,
+["alpha"] = 1,
 ["customText"] = "function()\n    if WeakAuras.IsOptionsOpen() then\n        return 1000000 + math.random(1000000)\n    end\nend",
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Worshipper's Protection",
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["frameStrata"] = 3,
 ["width"] = 64,
 ["useTooltip"] = false,
@@ -74760,14 +74760,14 @@ true,
 1,
 },
 ["yOffset"] = 0,
-["anchorFrameParent"] = false,
+["displayText_format_p_time_precision"] = 1,
 ["displayText_format_c_big_number_format"] = "AbbreviateNumbers",
 ["selfPoint"] = "CENTER",
 ["semver"] = "1.0.241",
 ["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Feast absorb amount",
-["displayText_format_p_time_precision"] = 1,
+["anchorFrameParent"] = false,
 ["frameStrata"] = 1,
 ["anchorFrameType"] = "UNITFRAME",
 ["xOffset"] = 0,
@@ -74956,8 +74956,8 @@ true,
 ["displayText_format_p_time_precision"] = 1,
 ["texture"] = "Interface\\AddOns\\WeakAuras\\Media\\Textures\\Square_FullWhite",
 ["alpha"] = 1,
-["semver"] = "1.0.241",
 ["justify"] = "LEFT",
+["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Gloom Touch (glow)",
 ["shadowYOffset"] = -1,
@@ -75100,11 +75100,11 @@ true,
 ["anchorFrameType"] = "SELECTFRAME",
 ["authorOptions"] = {
 },
-["config"] = {
-},
+["borderInset"] = 1,
 ["alpha"] = 1,
 ["uid"] = "yP8o4u)vrZN",
-["borderInset"] = 1,
+["config"] = {
+},
 ["conditions"] = {
 },
 ["information"] = {
@@ -75220,9 +75220,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440899 and UnitDetailedThreatSituation(\"player\", unit) -- Liquefy\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440899 and UnitDetailedThreatSituation(\"player\", unit) -- Liquefy\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -75399,10 +75399,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Liquefy cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Liquefy cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -75433,15 +75433,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -75553,9 +75553,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440899 and not UnitDetailedThreatSituation(\"player\", unit) -- Liquefy\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 440899 and not UnitDetailedThreatSituation(\"player\", unit) -- Liquefy\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -75748,10 +75748,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Liquefy cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Liquefy cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -75782,15 +75782,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -75971,8 +75971,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Liquefy taunt",
 ["shadowYOffset"] = -1,
@@ -76106,9 +76106,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 437093 and UnitDetailedThreatSituation(\"player\", unit) -- Feast\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 437093 and UnitDetailedThreatSituation(\"player\", unit) -- Feast\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -76285,10 +76285,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Feast cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Feast cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -76319,15 +76319,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -76439,9 +76439,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 448147 and UnitDetailedThreatSituation(\"player\", unit) -- Oust\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 448147 and UnitDetailedThreatSituation(\"player\", unit) -- Oust\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -76618,10 +76618,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Oust cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Oust cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -76652,15 +76652,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -76772,9 +76772,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443336 and UnitDetailedThreatSituation(\"player\", unit) -- Gorge\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443336 and UnitDetailedThreatSituation(\"player\", unit) -- Gorge\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -76951,10 +76951,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Gorge cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Gorge cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -76985,15 +76985,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -77105,9 +77105,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443336 and not UnitDetailedThreatSituation(\"player\", unit) -- Gorge\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443336 and not UnitDetailedThreatSituation(\"player\", unit) -- Gorge\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -77300,10 +77300,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Gorge cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Gorge cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -77334,15 +77334,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -77531,8 +77531,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Gorge taunt",
 ["shadowYOffset"] = -1,
@@ -77666,9 +77666,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443325 and UnitDetailedThreatSituation(\"player\", unit) -- Infest\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443325 and UnitDetailedThreatSituation(\"player\", unit) -- Infest\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -77845,10 +77845,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Infest cast",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Infest cast",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -77879,15 +77879,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -77999,9 +77999,9 @@ true,
 ["event"] = "Health",
 ["unit"] = "player",
 ["debuffType"] = "HELPFUL",
+["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443325 and not UnitDetailedThreatSituation(\"player\", unit) -- Infest\n    end\nend",
 ["spellIds"] = {
 },
-["custom"] = "function(event, ...)\n    if event == \"UNIT_SPELLCAST_START\" then\n        local unit, _, spellID = ...\n        \n        return spellID == 443325 and not UnitDetailedThreatSituation(\"player\", unit) -- Infest\n    end\nend",
 ["names"] = {
 },
 ["events"] = "UNIT_SPELLCAST_START:boss",
@@ -78194,10 +78194,10 @@ true,
 0.031372550874949,
 0.80000001192093,
 },
-["id"] = "Infest cast (co-tank)",
+["sparkHidden"] = "NEVER",
 ["semver"] = "1.0.241",
 ["width"] = 270,
-["sparkHidden"] = "NEVER",
+["id"] = "Infest cast (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["anchorFrameType"] = "SCREEN",
@@ -78228,15 +78228,15 @@ true,
 ["orientation"] = "HORIZONTAL",
 ["conditions"] = {
 },
+["information"] = {
+["forceEvents"] = false,
+["ignoreOptionsEventErrors"] = false,
+},
 ["barColor2"] = {
 1,
 1,
 0,
 1,
-},
-["information"] = {
-["forceEvents"] = false,
-["ignoreOptionsEventErrors"] = false,
 },
 },
 {
@@ -78458,8 +78458,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Infest taunt",
 ["shadowYOffset"] = -1,
@@ -78696,7 +78696,7 @@ true,
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -78710,10 +78710,10 @@ true,
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -78744,13 +78744,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -78771,12 +78771,12 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -78786,17 +78786,17 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -78892,14 +78892,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Liquefy",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -78979,7 +78979,7 @@ true,
 ["rotateText"] = "NONE",
 ["text_automaticWidth"] = "Auto",
 ["text_anchorYOffset"] = 6,
-["text_anchorPoint"] = "INNER_TOP",
+["text_text_format_c1_format"] = "none",
 ["type"] = "subtext",
 ["text_text_format_unit_realm_name"] = "never",
 ["text_color"] = {
@@ -78993,10 +78993,10 @@ true,
 ["text_shadowYOffset"] = 0,
 ["text_text_format_unit_format"] = "Unit",
 ["text_wordWrap"] = "WordWrap",
-["text_visible"] = true,
-["text_text_format_c1_format"] = "none",
-["text_fixedWidth"] = 64,
 ["text_fontType"] = "OUTLINE",
+["text_anchorPoint"] = "INNER_TOP",
+["text_fixedWidth"] = 64,
+["text_visible"] = true,
 ["text_fontSize"] = 18,
 ["anchorXOffset"] = 0,
 ["text_text_format_unit_abbreviate_max"] = 8,
@@ -79027,13 +79027,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -79054,12 +79054,12 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["anchorXOffset"] = 0,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["text_text_format_p_time_mod_rate"] = true,
 ["text_text_format_stacks_format"] = "none",
-["text_anchorYOffset"] = 4,
+["text_shadowYOffset"] = 0,
 ["type"] = "subtext",
 ["text_anchorXOffset"] = -6,
 ["text_color"] = {
@@ -79069,17 +79069,17 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_wordWrap"] = "WordWrap",
-["text_shadowYOffset"] = 0,
-["text_fontType"] = "OUTLINE",
 ["text_text_format_c2_format"] = "none",
+["text_anchorYOffset"] = 4,
+["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
 ["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
 ["text_shadowXOffset"] = 0,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 },
 {
 ["border_offset"] = 1,
@@ -79175,14 +79175,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Gorge",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -79460,13 +79460,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -79486,7 +79486,7 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -79502,16 +79502,16 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -79607,14 +79607,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Liquefy (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -79749,13 +79749,13 @@ true,
 1,
 },
 ["text_font"] = "PT Sans Narrow Bold",
-["text_anchorYOffset"] = -2,
 ["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = -2,
 ["anchorYOffset"] = 0,
 ["text_wordWrap"] = "WordWrap",
-["text_fontType"] = "OUTLINE",
-["text_anchorPoint"] = "CENTER",
 ["text_visible"] = true,
+["text_anchorPoint"] = "CENTER",
+["text_fontType"] = "OUTLINE",
 ["text_text_format_p_time_precision"] = 1,
 ["text_fontSize"] = 32,
 ["anchorXOffset"] = 0,
@@ -79775,7 +79775,7 @@ true,
 ["text_automaticWidth"] = "Auto",
 ["text_fixedWidth"] = 64,
 ["text_text_format_p_time_mod_rate"] = true,
-["anchorYOffset"] = 0,
+["text_text_format_p_time_legacy_floor"] = false,
 ["text_justify"] = "CENTER",
 ["rotateText"] = "NONE",
 ["anchorXOffset"] = 0,
@@ -79791,16 +79791,16 @@ true,
 },
 ["text_font"] = "PT Sans Narrow Bold",
 ["text_text_format_p_time_format"] = 0,
-["text_anchorYOffset"] = 4,
-["text_visible"] = true,
-["text_wordWrap"] = "WordWrap",
+["text_shadowYOffset"] = 0,
 ["text_fontType"] = "OUTLINE",
+["text_wordWrap"] = "WordWrap",
+["text_visible"] = true,
 ["text_anchorPoint"] = "OUTER_BOTTOMRIGHT",
 ["text_text_format_p_time_precision"] = 1,
-["text_shadowYOffset"] = 0,
+["text_anchorYOffset"] = 4,
 ["text_fontSize"] = 20,
 ["text_text_format_p_time_dynamic_threshold"] = 3,
-["text_text_format_p_time_legacy_floor"] = false,
+["anchorYOffset"] = 0,
 },
 {
 ["border_offset"] = 1,
@@ -79896,14 +79896,14 @@ true,
 ["anchorFrameParent"] = false,
 ["anchorFrameType"] = "SCREEN",
 ["alpha"] = 1,
-["cooldownTextDisabled"] = true,
+["zoom"] = 0.3,
 ["semver"] = "1.0.241",
 ["tocversion"] = 110002,
 ["id"] = "Gorge (co-tank)",
 ["frameStrata"] = 1,
 ["useCooldownModRate"] = true,
 ["width"] = 80,
-["zoom"] = 0.3,
+["cooldownTextDisabled"] = true,
 ["config"] = {
 },
 ["inverse"] = false,
@@ -80117,20 +80117,20 @@ true,
 ["multi"] = {
 },
 },
-["class"] = {
-["multi"] = {
-},
-},
+["use_difficulty"] = true,
 ["talent"] = {
 ["multi"] = {
 },
 },
-["use_difficulty"] = true,
-["spec"] = {
+["class"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
+["spec"] = {
+["multi"] = {
+},
+},
 ["use_encounterid"] = true,
 },
 ["fontSize"] = 12,
@@ -80236,15 +80236,15 @@ true,
 ["multi"] = {
 },
 },
+["class"] = {
+["multi"] = {
+},
+},
 ["spec"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
-["class"] = {
-["multi"] = {
-},
-},
 ["size"] = {
 ["multi"] = {
 },
@@ -80287,8 +80287,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Liquefy puddles rain drop",
 ["shadowYOffset"] = -1,
@@ -80348,25 +80348,25 @@ true,
 },
 ["use_sourceFlags3"] = false,
 ["use_cloneId"] = false,
-["debuffType"] = "HELPFUL",
+["custom_hide"] = "timed",
 ["custom_type"] = "stateupdate",
-["use_spellIds"] = false,
+["type"] = "custom",
 ["use_absorbHealMode"] = true,
 ["subeventSuffix"] = "_CAST_START",
-["event"] = "Combat Log",
+["use_spellNames"] = true,
 ["spellIds"] = {
 },
-["use_spellNames"] = true,
+["event"] = "Combat Log",
 ["spellNames"] = {
 "447456",
 },
 ["castType"] = "channel",
 ["use_spellId"] = true,
-["events"] = "CLEU:SPELL_CAST_SUCCESS",
 ["custom"] = "function(allstates, event, ...)\n    if event == \"COMBAT_LOG_EVENT_UNFILTERED\" then\n        local _, subEvent, _, _, _, _, _, _, _, _, _, spellID = ...\n        \n        if subEvent == \"SPELL_CAST_SUCCESS\" and spellID == 439299 then -- Web Blades\n            if not aura_env.firstCast or GetTime() > aura_env.firstCast + 5 then\n                aura_env.firstCast = GetTime()\n                \n                allstates[\"\"] = {\n                    show = true,\n                    changed = true,\n                    progressType = \"timed\",\n                    duration = 1.5,\n                    expirationTime = GetTime() + 1.5,\n                    autoHide = true\n                }\n                \n                return true\n            end\n        end\n    end\nend",
+["events"] = "CLEU:SPELL_CAST_SUCCESS",
 ["check"] = "event",
-["type"] = "custom",
-["custom_hide"] = "timed",
+["use_spellIds"] = false,
+["debuffType"] = "HELPFUL",
 ["subeventPrefix"] = "SPELL",
 },
 ["untrigger"] = {
@@ -80390,15 +80390,15 @@ true,
 ["multi"] = {
 },
 },
+["class"] = {
+["multi"] = {
+},
+},
 ["spec"] = {
 ["multi"] = {
 },
 },
 ["encounterid"] = "2922",
-["class"] = {
-["multi"] = {
-},
-},
 ["size"] = {
 ["multi"] = {
 },
@@ -80441,8 +80441,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Web Blades safe to move rain drop",
 ["shadowYOffset"] = -1,
@@ -80527,6 +80527,7 @@ true,
 ["multi"] = {
 },
 },
+["encounterid"] = "2922",
 ["spec"] = {
 ["multi"] = {
 },
@@ -80535,7 +80536,6 @@ true,
 ["multi"] = {
 },
 },
-["encounterid"] = "2922",
 ["size"] = {
 ["multi"] = {
 },
@@ -80578,8 +80578,8 @@ true,
 },
 ["config"] = {
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.241",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "Frothy Toxin countdown",
 ["shadowYOffset"] = -1,
@@ -80763,7 +80763,7 @@ true,
 ["tocversion"] = 110002,
 ["id"] = "Liquid - Nerub-ar Palace",
 ["selfPoint"] = "BOTTOMLEFT",
-["frameStrata"] = 1,
+["alpha"] = 1,
 ["anchorFrameType"] = "SCREEN",
 ["yOffset"] = 0,
 ["uid"] = "E0X8ypWPX4h",
@@ -80777,7 +80777,7 @@ true,
 ["information"] = {
 ["groupOffset"] = true,
 },
-["alpha"] = 1,
+["frameStrata"] = 1,
 },
 ["s"] = "5.17.1",
 ["v"] = 2000,
@@ -80818,13 +80818,13 @@ true,
 ["unit"] = "player",
 ["names"] = {
 },
+["events"] = "ENCOUNTER_START, UNIT_SPELLCAST_SUCCEEDED:group, GROUP_ROSTER_UPDATE, LIQUID_WA_SPEC, LIQUID_PRIVATE_AURA_MACRO",
 ["custom"] = "function(event, ...)\n    if event == \"ENCOUNTER_START\" then\n        aura_env.storedUnits = {}\n        \n        -- Broadcast our current spec to the rest of the raid\n        local specID = GetSpecializationInfo(GetSpecialization())\n        \n        LiquidWeakAuras:Broadcast(\"LIQUID_WA_SPEC\", WeakAuras.myGUID, specID)\n        \n        C_Timer.After(0.2, function() WeakAuras.ScanEvents(\"LIQUID_ENCOUNTER_START\") end)\n    elseif event == \"GROUP_ROSTER_UPDATE\" then\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n    elseif event == \"LIQUID_WA_SPEC\" then\n        local GUID, specID = ...\n        \n        aura_env.storedUnits[GUID] = specID\n    elseif event == \"UNIT_SPELLCAST_SUCCEEDED\" then\n        local unit, _, spellID = ...\n        \n        -- Watch for casts by Feral Druids/Enhancement Shamans/Survival Hunters unique to their spec\n        local spec = aura_env.meleeSpells[spellID]\n        \n        if spec then\n            aura_env.storedUnits[UnitGUID(unit)] = spec\n        end\n        \n        -- Keep track of Augmentation Evoker's tier set stage so we can reference it on ENCOUNTER_START\n        if UnitIsUnit(unit, \"player\") and spellID == 409311 then -- Prescience\n            if IsSpellOverlayed(409311) then\n                LiquidWeakAuras.prescienceStage = 3\n            else\n                LiquidWeakAuras.prescienceStage = (LiquidWeakAuras.prescienceStage or 0) + 1\n                \n                -- We cannot be on 3, as Prescience is not current overlayed\n                -- Assume instead that we are on 2\n                if LiquidWeakAuras.prescienceStage == 3 then\n                    LiquidWeakAuras.prescienceStage = 2\n                elseif LiquidWeakAuras.prescienceStage == 4 then\n                    LiquidWeakAuras.prescienceStage = 1\n                end\n            end\n        end\n    elseif event == \"LIQUID_PRIVATE_AURA_MACRO\" then\n        if InCombatLockdown() then return end -- Only show test messages out of combat\n        \n        print(\"|cff00ff00Liquid macro pressed!\")\n    elseif event == \"STATUS\" then\n        -- Remake the GUID to unit table\n        aura_env.GUIDToUnit = {}\n        \n        for unit in WA_IterateGroupMembers() do\n            aura_env.GUIDToUnit[UnitGUID(unit)] = unit\n        end\n        \n        -- Set the prescience stage if we haven't yet\n        -- If it's not glowing, assume we are on stage 1\n        if IsSpellKnown(409311) then -- Prescience\n            if not LiquidWeakAuras.prescienceStage then\n                LiquidWeakAuras.prescienceStage = IsSpellOverlayed(409311) and 3 or 1\n            end\n        end\n    end\nend",
-["spellIds"] = {
-},
 ["custom_type"] = "status",
 ["check"] = "event",
 ["subeventPrefix"] = "SPELL",
-["events"] = "ENCOUNTER_START, UNIT_SPELLCAST_SUCCEEDED:group, GROUP_ROSTER_UPDATE, LIQUID_WA_SPEC, LIQUID_PRIVATE_AURA_MACRO",
+["spellIds"] = {
+},
 ["debuffType"] = "HELPFUL",
 },
 ["untrigger"] = {
@@ -80871,14 +80871,14 @@ true,
 ["conditions"] = {
 },
 ["automaticWidth"] = "Auto",
-["liquidVersion"] = 1,
 ["displayText_format_p_time_precision"] = 1,
+["liquidVersion"] = 1,
 ["yOffset"] = 0,
 ["config"] = {
 ["ttsVoice"] = 3,
 },
-["justify"] = "LEFT",
 ["semver"] = "1.0.32",
+["justify"] = "LEFT",
 ["tocversion"] = 110002,
 ["id"] = "LiquidWeakAuras",
 ["authorOptions"] = {

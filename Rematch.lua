@@ -5,7 +5,7 @@ Rematch5Settings = {
 ["HideLevelBubbles"] = true,
 ["QueueAutoLearnOnly"] = true,
 ["QueuePreferFullHP"] = false,
-["CurrentLayout"] = "0-minimized",
+["CurrentLayout"] = "3-teams",
 ["ColorPetNames"] = true,
 ["InteractOnlyWhenInjured"] = false,
 ["StayOnLogout"] = false,
@@ -18,7 +18,7 @@ Rematch5Settings = {
 ["DontSortByRelevance"] = false,
 ["DisableShare"] = false,
 ["ShowSpeciesID"] = true,
-["XPos"] = 727.7145385742188,
+["XPos"] = 903.8094482421875,
 ["ShowAbilityNumbersLoaded"] = false,
 ["HideTruncatedTooltips"] = false,
 ["AlternateWinRecord"] = false,
@@ -34,7 +34,7 @@ Rematch5Settings = {
 ["CustomScaleValue"] = 100,
 ["StrongVsLevel"] = true,
 ["QueueActiveSort"] = true,
-["MaximizedLayout"] = "2-teams",
+["MaximizedLayout"] = "2-queue",
 ["ExportIncludePreferences"] = false,
 ["LargerBreedText"] = false,
 ["DisplayUniqueTotal"] = false,
@@ -44,7 +44,7 @@ Rematch5Settings = {
 ["ShowNotesOnLoad"] = false,
 ["HideTeamBadges"] = false,
 ["InteractOnMouseover"] = 3,
-["LastOpenJournal"] = false,
+["LastOpenJournal"] = true,
 ["QueueSortRaresFirst"] = false,
 ["PetCardFlipKey"] = "Alt",
 ["RandomPetRules"] = 2,
@@ -84,9 +84,7 @@ Rematch5Settings = {
 },
 },
 ["SpecialSlots"] = {
-nil,
-0,
-0,
+[3] = 0,
 },
 ["PreferPetsTab"] = false,
 ["QueueRandomWhenEmpty"] = true,
@@ -110,47 +108,45 @@ nil,
 ["CustomScale"] = false,
 ["ExportIncludeNotes"] = false,
 ["BreedSource"] = "BattlePetBreedID",
-["LastSelectedGroup"] = "group:10",
+["LastSelectedGroup"] = "group:9",
 ["HideWinRecord"] = false,
-["ShowNewGroupTab"] = true,
+["BoringLoreFont"] = false,
 ["ExpandedOptionsHeaders"] = {
 },
 ["ReverseToolbar"] = false,
+["CompactPetList"] = true,
+["ShowNewGroupTab"] = true,
 ["ToolbarDismiss"] = true,
 ["StandaloneLayout"] = "0-minimized",
-["AlwaysTeamTabs"] = false,
+["QueueAutoLearnRare"] = false,
 ["ShowAbilityID"] = false,
 ["QueueAutoImport"] = true,
 ["ExportSimplePetList"] = false,
 ["PetCardCompactCollected"] = false,
-["QueueAutoLearnRare"] = false,
+["BarChartCategory"] = 4,
 ["ColorTeamNames"] = true,
 ["AbilityBackground"] = "Icon",
-["DontConfirmFillQueue"] = false,
+["AlwaysUsePetSatchel"] = false,
 ["InteractShowAfterLoad"] = true,
-["AutoWinRecordPVPOnly"] = false,
+["HideBreedsLists"] = false,
 ["DontConfirmDeleteNotes"] = false,
-["CompactPetList"] = true,
+["QueueSkipDead"] = true,
 ["DontConfirmCaging"] = true,
-["LoadHealthiestAny"] = false,
+["AutoWinRecordPVPOnly"] = false,
 ["AllowHiddenPets"] = true,
 ["ShowAfterBattle"] = true,
-["QueueSkipDead"] = true,
+["HiddenPets"] = {
+},
 ["PetCardNoMouseoverFlip"] = false,
-["BarChartCategory"] = 9,
-["HideBreedsLists"] = false,
-["WarnWhenRandomNot25"] = false,
-["BoringLoreFont"] = false,
 ["ClickToDrag"] = false,
+["AlwaysTeamTabs"] = false,
+["WarnWhenRandomNot25"] = false,
+["JournalLayout"] = "3-teams",
+["SortByNickname"] = false,
 ["Anchor"] = "TOPLEFT",
 ["ShowFillQueueMore"] = true,
 ["LoadHealthiest"] = false,
-["currentTeamID"] = "team:289",
-["JournalLayout"] = "3-teams",
-["SortByNickname"] = false,
-["LastToastedPetID"] = "BattlePet-0-00002245F023",
-["DontConfirmDeleteTeams"] = false,
-["KeepNotesOnScreen"] = true,
+["currentTeamID"] = "team:268",
 ["Filters"] = {
 ["Other"] = {
 },
@@ -174,12 +170,12 @@ nil,
 },
 ["Rarity"] = {
 },
-["RawSearchText"] = "celest",
+["RawSearchText"] = "hearthy",
 ["Similar"] = {
 },
 ["Search"] = {
-["Pattern"] = "[cC][eE][lL][eE][sS][tT]",
-["Length"] = 6,
+["Pattern"] = "[hH][eE][aA][rR][tT][hH][yY]",
+["Length"] = 7,
 },
 ["Breed"] = {
 },
@@ -193,119 +189,1029 @@ nil,
 },
 },
 ["HideNotesBadges"] = false,
+["CompactQueueList"] = true,
+["DontConfirmDeleteTeams"] = false,
+["NotesNoEscFix"] = true,
 ["HideTooltips"] = false,
-["RandomAbilitiesToo"] = false,
+["KeepNotesOnScreen"] = true,
 ["PetNotes"] = {
 },
+["ShowAfterPVEOnly"] = false,
+["BreedFormat"] = 1,
 ["DontConfirmRemoveQueue"] = true,
 ["InteractPreferUninjured"] = false,
-["ShowAfterPVEOnly"] = false,
-["HideBreedsLoadouts"] = false,
 ["ImportConflictOverwrite"] = true,
+["HideBreedsLoadouts"] = false,
 ["TooltipBehavior"] = "Normal",
-["NotesFont"] = "GameFontHighlight",
-["KeepCompanion"] = false,
-["ShowNotesOnce"] = false,
 ["DefaultPreferences"] = {
 },
+["NotesFont"] = "GameFontHighlight",
+["RankWinsByPercent"] = false,
+["ShowNotesOnce"] = false,
+["KeepCompanion"] = false,
 ["ShowAbilityNumbers"] = true,
-["PrioritizeBreedOnImport"] = true,
+["HideNonBattlePets"] = false,
 ["EnableDrag"] = true,
 ["NotesHeight"] = 258,
 ["HidePetToast"] = true,
-["HideNonBattlePets"] = false,
-["LastOpenLayout"] = "2-teams",
+["LastOpenLayout"] = "3-teams",
+["LevelingQueue"] = {
+{
+["petTag"] = "Q1431B9",
+["preferred"] = true,
+["added"] = 20240101201612,
+["petID"] = "BattlePet-0-00000E0BBEB7",
+},
+{
+["petTag"] = "Q14323D",
+["preferred"] = true,
+["added"] = 20240101220738,
+["petID"] = "BattlePet-0-000010125055",
+},
+{
+["petTag"] = "Q1433AE",
+["petID"] = "BattlePet-0-000021DC0F3F",
+["added"] = 20240101221841,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1463BP",
+["petID"] = "BattlePet-0-000021DECE79",
+["added"] = 20240107134117,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14C39J",
+["petID"] = "BattlePet-0-000021E0A8F3",
+["added"] = 20240111140032,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1433EF",
+["petID"] = "BattlePet-0-000021E11228",
+["added"] = 20240112123734,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1443GC",
+["petID"] = "BattlePet-0-000021E1288F",
+["added"] = 20240112162652,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14C3B3",
+["petID"] = "BattlePet-0-000021E19F89",
+["added"] = 20240113142030,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14645V",
+["petID"] = "BattlePet-0-000021E27962",
+["added"] = 20240114235438,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q144463",
+["preferred"] = true,
+["added"] = 20240130000800,
+["petID"] = "BattlePet-0-000021E89AAF",
+},
+{
+["petTag"] = "Q1443FQ",
+["preferred"] = true,
+["added"] = 20240130184751,
+["petID"] = "BattlePet-0-000021E920FB",
+},
+{
+["petTag"] = "Q13A1DV",
+["preferred"] = true,
+["added"] = 20240131182009,
+["petID"] = "BattlePet-0-000021E9CCDE",
+},
+{
+["petTag"] = "Q14049O",
+["petID"] = "BattlePet-0-000021EA7A75",
+["added"] = 20240201205933,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14049N",
+["petID"] = "BattlePet-0-000021EA7A80",
+["added"] = 20240201205941,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B219",
+["preferred"] = true,
+["added"] = 20240201213225,
+["petID"] = "BattlePet-0-000021EA7FD7",
+},
+{
+["petTag"] = "Q1463BM",
+["preferred"] = true,
+["added"] = 20240202003811,
+["petID"] = "BattlePet-0-000021EA950D",
+},
+{
+["petTag"] = "Q1433EK",
+["petID"] = "BattlePet-0-000021EEF0FE",
+["added"] = 20240210224105,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q133AL",
+["petID"] = "BattlePet-0-000021EFDEF4",
+["added"] = 20240212235851,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q133AM",
+["petID"] = "BattlePet-0-000021EFE5A8",
+["added"] = 20240213014755,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14049R",
+["petID"] = "BattlePet-0-000021F03AB8",
+["added"] = 20240213214750,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1352BF",
+["petID"] = "BattlePet-0-000021F082CB",
+["added"] = 20240214174540,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q13A2C7",
+["petID"] = "BattlePet-0-000021F10411",
+["added"] = 20240216021846,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14049I",
+["petID"] = "BattlePet-0-000021FE04DC",
+["added"] = 20240321195641,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1404AK",
+["preferred"] = true,
+["added"] = 20240501220636,
+["petID"] = "BattlePet-0-00002211D01A",
+},
+{
+["petTag"] = "Q14836P",
+["preferred"] = true,
+["added"] = 20240510163656,
+["petID"] = "BattlePet-0-000022157FE0",
+},
+{
+["petTag"] = "Q143456",
+["preferred"] = true,
+["added"] = 20240515151220,
+["petID"] = "BattlePet-0-000022177065",
+},
+{
+["petTag"] = "Q14838R",
+["preferred"] = true,
+["added"] = 20240515162327,
+["petID"] = "BattlePet-0-0000221776AB",
+},
+{
+["petTag"] = "Q1304F3",
+["preferred"] = true,
+["added"] = 20240519161759,
+["petID"] = "BattlePet-0-000022197E1C",
+},
+{
+["petTag"] = "Q1404F4",
+["petID"] = "BattlePet-0-0000221AB0CB",
+["added"] = 20240522183438,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14919L",
+["petID"] = "BattlePet-0-0000221AC055",
+["added"] = 20240522211846,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-0000223C8D84",
+["petTag"] = "Q1404B4",
+["added"] = 20240809051405,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1494DF",
+["added"] = 20240822201507,
+["petID"] = "BattlePet-0-000022452881",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14C4DO",
+["added"] = 20240823135708,
+["petID"] = "BattlePet-0-00002246AD69",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1484EQ",
+["added"] = 20240823153533,
+["petID"] = "BattlePet-0-00002246DF58",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14B4D1",
+["added"] = 20240827003538,
+["petID"] = "BattlePet-0-0000224DDC3E",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14C4F6",
+["added"] = 20240827015302,
+["petID"] = "BattlePet-0-0000224DEDD4",
+},
+{
+["petID"] = "BattlePet-0-000022517D13",
+["petTag"] = "Q14C4FN",
+["added"] = 20240829182413,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-0000225188E4",
+["petTag"] = "Q1444BP",
+["added"] = 20240829185848,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q14F4CQ",
+["added"] = 20240914141407,
+["petID"] = "BattlePet-0-00002261A808",
+},
+{
+["petID"] = "BattlePet-0-0000226298EF",
+["petTag"] = "Q1494FI",
+["added"] = 20240915153055,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000022644272",
+["preferred"] = true,
+["added"] = 20240917223900,
+["petTag"] = "Q1464DI",
+},
+{
+["petID"] = "BattlePet-0-00002267E546",
+["preferred"] = true,
+["added"] = 20240922144246,
+["petTag"] = "Q1454DC",
+},
+{
+["petID"] = "BattlePet-0-00002267E549",
+["preferred"] = true,
+["added"] = 20240922144247,
+["petTag"] = "Q1494CF",
+},
+{
+["petID"] = "BattlePet-0-00002267E54A",
+["preferred"] = true,
+["added"] = 20240922144249,
+["petTag"] = "Q1454CV",
+},
+{
+["petID"] = "BattlePet-0-00002267E54C",
+["preferred"] = true,
+["added"] = 20240922144250,
+["petTag"] = "Q1434E2",
+},
+{
+["petID"] = "BattlePet-0-00002267E54E",
+["preferred"] = true,
+["added"] = 20240922144252,
+["petTag"] = "Q1354FA",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000226AF908",
+["added"] = 20240926185623,
+["petTag"] = "Q1434BG",
+},
+{
+["petID"] = "BattlePet-0-0000226AF930",
+["preferred"] = true,
+["added"] = 20240926185736,
+["petTag"] = "Q14B4BS",
+},
+{
+["petID"] = "BattlePet-0-0000226AF961",
+["preferred"] = true,
+["added"] = 20240926185858,
+["petTag"] = "Q1464CC",
+},
+{
+["petID"] = "BattlePet-0-0000226E476D",
+["preferred"] = true,
+["added"] = 20241002110708,
+["petTag"] = "Q14B4C9",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000226F1669",
+["added"] = 20241003174351,
+["petTag"] = "Q1433EM",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000227350DE",
+["added"] = 20241011154215,
+["petTag"] = "Q1494F0",
+},
+{
+["petID"] = "BattlePet-0-00002273C77D",
+["preferred"] = true,
+["added"] = 20241012133141,
+["petTag"] = "Q1484DV",
+},
+{
+["petID"] = "BattlePet-0-0000228491FF",
+["petTag"] = "Q1444BF",
+["added"] = 20241107215918,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1482V4",
+["added"] = 20241115184006,
+["petID"] = "BattlePet-0-00002289BEED",
+},
+{
+["petID"] = "BattlePet-0-0000228C86E9",
+["petTag"] = "Q1334FL",
+["added"] = 20241120134321,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-0000228ECABC",
+["petTag"] = "Q1461UJ",
+["added"] = 20241124210822,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1376A",
+["added"] = 20241201221344,
+["petID"] = "BattlePet-0-00002292BC67",
+},
+{
+["petID"] = "BattlePet-0-00002292BC7A",
+["petTag"] = "Q1472HT",
+["added"] = 20241201221418,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1474HT",
+["added"] = 20241202180435,
+["petID"] = "BattlePet-0-0000229317CD",
+},
+{
+["petID"] = "BattlePet-0-000022933CF6",
+["petTag"] = "Q13769",
+["added"] = 20241202222933,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1334FM",
+["added"] = 20241206154137,
+["petID"] = "BattlePet-0-00002294D126",
+},
+{
+["petID"] = "BattlePet-0-0000229822EE",
+["petTag"] = "Q1434I6",
+["added"] = 20241214181534,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-0000229B5292",
+["petTag"] = "Q14A7J",
+["added"] = 20241221020232,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1304IJ",
+["preferred"] = true,
+["added"] = 20241221175415,
+["petID"] = "BattlePet-0-0000229BD7BF",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1452HU",
+["added"] = 20241221184322,
+["petID"] = "BattlePet-0-0000229BE107",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1335V",
+["added"] = 20241222142002,
+["petID"] = "BattlePet-0-0000229C6849",
+},
+{
+["preferred"] = true,
+["petTag"] = "Q1304IM",
+["added"] = 20241225143607,
+["petID"] = "BattlePet-0-0000229E8D80",
+},
+{
+["petID"] = "BattlePet-0-0000229F4838",
+["petTag"] = "Q1474BE",
+["added"] = 20241225225336,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000022A1E98C",
+["petTag"] = "Q1404G6",
+["added"] = 20241229035832,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000022A1EADE",
+["petTag"] = "Q14430S",
+["added"] = 20241229042634,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1451R2",
+["petID"] = "BattlePet-0-000022A1EADF",
+["added"] = 20241229042635,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000022A1EAEB",
+["petTag"] = "Q1474FH",
+["added"] = 20241229042757,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022A1EAEC",
+["added"] = 20241229042758,
+["petTag"] = "Q1474FG",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022A30301",
+["added"] = 20241230170547,
+["petTag"] = "Q14B4BJ",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022A4CE7B",
+["added"] = 20250101215721,
+["petTag"] = "Q1452ET",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022A61948",
+["added"] = 20250103203330,
+["petTag"] = "Q14B4J4",
+},
+{
+["petID"] = "BattlePet-0-000022A95CB0",
+["preferred"] = true,
+["added"] = 20250108185824,
+["petTag"] = "Q1434BH",
+},
+{
+["petID"] = "BattlePet-0-000022A9C506",
+["preferred"] = true,
+["added"] = 20250109201843,
+["petTag"] = "Q1484JF",
+},
+{
+["petID"] = "BattlePet-0-000022A9C50A",
+["preferred"] = true,
+["added"] = 20250109201851,
+["petTag"] = "Q1444JE",
+},
+{
+["petID"] = "BattlePet-0-000022AC07B2",
+["preferred"] = true,
+["added"] = 20250115014750,
+["petTag"] = "Q1342RD",
+},
+{
+["petTag"] = "Q1332S9",
+["petID"] = "BattlePet-0-000022AC105A",
+["added"] = 20250115031844,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1372NE",
+["preferred"] = true,
+["added"] = 20250115033422,
+["petID"] = "BattlePet-0-000022AC11DB",
+},
+{
+["petTag"] = "Q1392V5",
+["preferred"] = true,
+["added"] = 20250115034819,
+["petID"] = "BattlePet-0-000022AC12AE",
+},
+{
+["petTag"] = "Q1382QT",
+["preferred"] = true,
+["added"] = 20250115055948,
+["petID"] = "BattlePet-0-000022AC18FD",
+},
+{
+["petTag"] = "Q1494CB",
+["petID"] = "BattlePet-0-000022AD77E1",
+["added"] = 20250118011823,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1454JM",
+["petID"] = "BattlePet-0-000022AF54EF",
+["added"] = 20250121214902,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1433GI",
+["petID"] = "BattlePet-0-000021D805E3",
+["added"] = 20231226183806,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1433DR",
+["petID"] = "BattlePet-0-000021D0270B",
+["added"] = 20231213165106,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q1433GG",
+["petID"] = "BattlePet-0-000021D23A26",
+["added"] = 20231217183708,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14A211",
+["petID"] = "BattlePet-0-000021A1E76F",
+["added"] = 20231130040746,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14538I",
+["petID"] = "BattlePet-0-000021DAD848",
+["added"] = 20231231031148,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q8194D6",
+["petID"] = "BattlePet-0-00002288C6AA",
+["added"] = 20241113225735,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14446C",
+["petID"] = "BattlePet-0-000021CDF5C8",
+["added"] = 20231209174459,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B23E",
+["preferred"] = true,
+["added"] = 20231207165338,
+["petID"] = "BattlePet-0-000021CCDFD9",
+},
+{
+["petTag"] = "Q143467",
+["preferred"] = true,
+["added"] = 20231205204905,
+["petID"] = "BattlePet-0-000021CBCF9F",
+},
+{
+["petTag"] = "Q144468",
+["petID"] = "BattlePet-0-000021CB6B88",
+["added"] = 20231205130403,
+["preferred"] = true,
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021C9E7A3",
+["added"] = 20231203013819,
+["petTag"] = "Q14446N",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021C9E793",
+["added"] = 20231203013747,
+["petTag"] = "Q14535N",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021C92DBD",
+["added"] = 20231202041427,
+["petTag"] = "Q13639K",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021C91C6F",
+["added"] = 20231202001105,
+["petTag"] = "Q14338E",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000210533A4",
+["added"] = 20231130040612,
+["petTag"] = "Q1392R4",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000225B2EBC",
+["added"] = 20240906183702,
+["petTag"] = "Q1434DP",
+},
+{
+["petID"] = "BattlePet-0-0000221D736C",
+["preferred"] = true,
+["added"] = 20240531151611,
+["petTag"] = "Q14819H",
+},
+{
+["petID"] = "BattlePet-0-000021E41D28",
+["preferred"] = true,
+["added"] = 20240118182609,
+["petTag"] = "Q14B39L",
+},
+{
+["petID"] = "BattlePet-0-000021D4259C",
+["preferred"] = true,
+["added"] = 20231220223103,
+["petTag"] = "Q14C365",
+},
+{
+["petTag"] = "Q1481MP",
+["petID"] = "BattlePet-0-000021E1B6A7",
+["added"] = 20240113170952,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q14B4D8",
+["preferred"] = true,
+["added"] = 20240824011806,
+["petID"] = "BattlePet-0-000022482D85",
+},
+{
+["petTag"] = "Q14A4BM",
+["petID"] = "BattlePet-0-00002245EE8A",
+["added"] = 20240823021720,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q148384",
+["preferred"] = true,
+["added"] = 20231228171522,
+["petID"] = "BattlePet-0-000021D955B2",
+},
+{
+["petTag"] = "Q14337A",
+["preferred"] = true,
+["added"] = 20240111130119,
+["petID"] = "BattlePet-0-000021E0A336",
+},
+{
+["petTag"] = "Q143395",
+["preferred"] = true,
+["added"] = 20240111125639,
+["petID"] = "BattlePet-0-000021E0A2BE",
+},
+{
+["petTag"] = "Q143392",
+["preferred"] = true,
+["added"] = 20240909190222,
+["petID"] = "BattlePet-0-0000225E5D32",
+},
+{
+["petTag"] = "Q14445T",
+["petID"] = "BattlePet-0-000021E89AAE",
+["added"] = 20240130000756,
+["preferred"] = true,
+},
+{
+["petTag"] = "Q149371",
+["petID"] = "BattlePet-0-000021DBA714",
+["added"] = 20240101125244,
+["preferred"] = true,
+},
+{
+["petID"] = "BattlePet-0-000021DE9A4C",
+["preferred"] = true,
+["added"] = 20240107004325,
+["petTag"] = "Q14737R",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000223FD4E7",
+["added"] = 20240815151731,
+["petTag"] = "Q1404FE",
+},
+{
+["petID"] = "BattlePet-0-0000223FD4E8",
+["preferred"] = true,
+["added"] = 20240815151732,
+["petTag"] = "Q1404FD",
+},
+{
+["petID"] = "BattlePet-0-000021E0A40B",
+["preferred"] = true,
+["added"] = 20240111131250,
+["petTag"] = "Q143452",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021F97255",
+["added"] = 20240309184430,
+["petTag"] = "Q14345A",
+},
+{
+["petID"] = "BattlePet-0-0000223FD4EA",
+["preferred"] = true,
+["added"] = 20240815151734,
+["petTag"] = "Q1404FF",
+},
+{
+["petID"] = "BattlePet-0-0000220D8DF9",
+["preferred"] = true,
+["added"] = 20240424182113,
+["petTag"] = "Q14B45U",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022177069",
+["added"] = 20240515151238,
+["petTag"] = "Q143453",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021D3617E",
+["added"] = 20231219190048,
+["petTag"] = "Q14C46I",
+},
+{
+["petID"] = "BattlePet-0-000021F7FEB6",
+["preferred"] = true,
+["added"] = 20240305154208,
+["petTag"] = "Q14049S",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021EFE315",
+["added"] = 20240213010556,
+["petTag"] = "Q14C2B2",
+},
+{
+["petID"] = "BattlePet-0-000021D2703B",
+["preferred"] = true,
+["added"] = 20231218024655,
+["petTag"] = "Q14937D",
+},
+{
+["petID"] = "BattlePet-0-0000210D9DCD",
+["preferred"] = true,
+["added"] = 20240101193335,
+["petTag"] = "Q1392R4",
+},
+{
+["petID"] = "BattlePet-0-000021DAD849",
+["preferred"] = true,
+["added"] = 20231231031149,
+["petTag"] = "Q14538G",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021DAD847",
+["added"] = 20231231031148,
+["petTag"] = "Q14535O",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021CA50EA",
+["added"] = 20231203164757,
+["petTag"] = "Q14546H",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021D4734E",
+["added"] = 20231221152940,
+["petTag"] = "Q14816H",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021EA4659",
+["added"] = 20240201154923,
+["petTag"] = "Q14620U",
+},
+{
+["petID"] = "BattlePet-0-000021DAC77E",
+["preferred"] = true,
+["added"] = 20231230234254,
+["petTag"] = "Q13337U",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021D2A98C",
+["added"] = 20231218154710,
+["petTag"] = "Q14538J",
+},
+{
+["petID"] = "BattlePet-0-000021D9547D",
+["preferred"] = true,
+["added"] = 20231228170711,
+["petTag"] = "Q14436Q",
+},
+{
+["petID"] = "BattlePet-0-000021D37FE0",
+["preferred"] = true,
+["added"] = 20231219213338,
+["petTag"] = "Q1471T6",
+},
+{
+["petID"] = "BattlePet-0-000021D37FDD",
+["preferred"] = true,
+["added"] = 20231219213335,
+["petTag"] = "Q1431T0",
+},
+{
+["petID"] = "BattlePet-0-00000E0BBD4A",
+["preferred"] = true,
+["added"] = 20231130040542,
+["petTag"] = "Q144141",
+},
+{
+["petID"] = "BattlePet-0-000021D2AA99",
+["preferred"] = true,
+["added"] = 20231218155617,
+["petTag"] = "Q1483DN",
+},
+{
+["petID"] = "BattlePet-0-0000210B58A0",
+["preferred"] = true,
+["added"] = 20231130040631,
+["petTag"] = "Q1442CM",
+},
+{
+["petID"] = "BattlePet-0-000021D1B244",
+["preferred"] = true,
+["added"] = 20231216205103,
+["petTag"] = "Q14CAH",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021D17397",
+["added"] = 20231216132858,
+["petTag"] = "Q1463AN",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021DAD846",
+["added"] = 20231231031147,
+["petTag"] = "Q14538H",
+},
+{
+["petID"] = "BattlePet-0-00002220A297",
+["preferred"] = true,
+["added"] = 20240611214737,
+["petTag"] = "Q1404E4",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000021D48012",
+["added"] = 20231221171027,
+["petTag"] = "Q1433CK",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002273C84B",
+["added"] = 20241012133852,
+["petTag"] = "QN4C4DR",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002273C8A4",
+["added"] = 20241012134136,
+["petTag"] = "QN274C5",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002273C92B",
+["added"] = 20241012134529,
+["petTag"] = "QN174DQ",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002273C9A8",
+["added"] = 20241012134922,
+["petTag"] = "QN1B4DT",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002273CAA0",
+["added"] = 20241012135617,
+["petTag"] = "QN1A4DS",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-00002284EADA",
+["added"] = 20241108135506,
+["petTag"] = "QN164DE",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000228ECABA",
+["added"] = 20241124210822,
+["petTag"] = "QN284F1",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-0000229AF9FA",
+["added"] = 20241220192039,
+["petTag"] = "QN204JJ",
+},
+{
+["petID"] = "BattlePet-0-000022AC067E",
+["preferred"] = true,
+["added"] = 20250115013103,
+["petTag"] = "QN382RV",
+},
+{
+["petID"] = "BattlePet-0-000022AC069E",
+["preferred"] = true,
+["added"] = 20250115013331,
+["petTag"] = "QN1C2RF",
+},
+{
+["petID"] = "BattlePet-0-000022AC06C4",
+["preferred"] = true,
+["added"] = 20250115013608,
+["petTag"] = "QN1C2RH",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AC0710",
+["added"] = 20250115014111,
+["petTag"] = "QN2C2RI",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AC7176",
+["added"] = 20250115200425,
+["petTag"] = "QN394GK",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AF4FB9",
+["added"] = 20250121205739,
+["petTag"] = "QN384J6",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AF501D",
+["added"] = 20250121210141,
+["petTag"] = "QN434IV",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AF506C",
+["added"] = 20250121210502,
+["petTag"] = "QN3C4IU",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AF538F",
+["added"] = 20250121213757,
+["petTag"] = "QN384JS",
+},
+{
+["preferred"] = true,
+["petID"] = "BattlePet-0-000022AF53EB",
+["added"] = 20250121214100,
+["petTag"] = "QN3A4JR",
+},
+},
 ["QueueDoubleClick"] = true,
 ["BackupCount"] = 275,
 ["HideToolbarTooltips"] = false,
-["ResetExceptSearch"] = false,
-["FavoriteFilters"] = {
-{
-"non-rare at 25",
-{
-["Other"] = {
-},
-["Stats"] = {
-},
-["Strong"] = {
-},
-["Marker"] = {
-},
-["Sources"] = {
-},
-["Sort"] = {
-},
-["Level"] = {
-[4] = true,
-},
-["Tough"] = {
-},
-["Types"] = {
-},
-["Expansion"] = {
-},
-["Script"] = {
-},
-["Similar"] = {
-},
-["Breed"] = {
-},
-["Rarity"] = {
-true,
-true,
-true,
-},
-["Search"] = {
-},
-["Collected"] = {
-},
-["Favorite"] = {
-},
-["Moveset"] = {
-},
-},
-},
-{
-"Safari pets",
-{
-["Other"] = {
-["CurrentZone"] = true,
-},
-["Expansion"] = {
-},
-["Strong"] = {
-},
-["Types"] = {
-},
-["Tough"] = {
-},
-["Level"] = {
-},
-["Sources"] = {
-[5] = true,
-},
-["Similar"] = {
-},
-["Breed"] = {
-},
-["Script"] = {
-},
-["Rarity"] = {
-},
-["Collected"] = {
-["Owned"] = true,
-},
-["Favorite"] = {
-},
-["Moveset"] = {
-},
-},
-},
-},
 ["HideLevelingBadges"] = false,
+["ResetExceptSearch"] = false,
+["YPos"] = 1001.144287109375,
 ["DontConfirmActiveSort"] = false,
+["MinimizePetSummary"] = true,
 ["MousewheelSpeed"] = "Normal",
 ["HideOptionTooltips"] = false,
+["NotesNoEsc"] = true,
 ["ConvertedTeams"] = {
 "team:1",
 [68566] = "team:2",
@@ -509,8 +1415,8 @@ true,
 [107489] = "team:203",
 [116791] = "team:194",
 [104970] = "team:195",
-[116787] = "team:197",
 [119342] = "team:196",
+[116787] = "team:197",
 [200678] = "team:198",
 [128014] = "team:204",
 [141799] = "team:208",
@@ -543,7 +1449,7 @@ true,
 ["Low lvl fights"] = "team:274",
 [119344] = "team:233",
 [116789] = "team:230",
-[200682] = "team:234",
+[85650] = "team:228",
 [119408] = "team:229",
 [139489] = "team:238",
 [105387] = "team:239",
@@ -555,7 +1461,7 @@ true,
 [68564] = "team:236",
 [202440] = "team:245",
 [197336] = "team:180",
-[85650] = "team:228",
+[200682] = "team:234",
 [189376] = "team:227",
 [141077] = "team:246",
 [116790] = "team:225",
@@ -583,10 +1489,10 @@ true,
 ["Sprouts, Prince Charming, and Runts"] = "team:273",
 ["Enbi'see, Mal, and Bones"] = "team:275",
 },
-["NotesNoEsc"] = true,
-["PetCardInBattle"] = false,
 ["NotesLeft"] = 19.5714282989502,
 ["NoSummonOnDblClick"] = false,
+["PetCardInBattle"] = false,
+["HideNotesButtonInBattle"] = false,
 ["GroupOrder"] = {
 "group:favorites",
 "group:none",
@@ -601,763 +1507,125 @@ true,
 "group:9",
 "group:10",
 },
-["HideNotesButtonInBattle"] = false,
-["YPos"] = 922.66796875,
 ["MinimapButtonPosition"] = -162,
-["UseDefaultJournal"] = false,
+["FavoriteFilters"] = {
+{
+"non-rare at 25",
+{
+["Other"] = {
+},
+["Stats"] = {
+},
+["Strong"] = {
+},
+["Marker"] = {
+},
+["Sources"] = {
+},
+["Sort"] = {
+},
+["Level"] = {
+[4] = true,
+},
+["Tough"] = {
+},
+["Types"] = {
+},
+["Expansion"] = {
+},
+["Script"] = {
+},
+["Similar"] = {
+},
+["Breed"] = {
+},
+["Rarity"] = {
+true,
+true,
+true,
+},
+["Search"] = {
+},
+["Collected"] = {
+},
+["Favorite"] = {
+},
+["Moveset"] = {
+},
+},
+},
+{
+"Safari pets",
+{
+["Other"] = {
+["CurrentZone"] = true,
+},
+["Expansion"] = {
+},
+["Strong"] = {
+},
+["Types"] = {
+},
+["Tough"] = {
+},
+["Level"] = {
+},
+["Similar"] = {
+},
+["Sources"] = {
+[5] = true,
+},
+["Breed"] = {
+},
+["Script"] = {
+},
+["Rarity"] = {
+},
+["Collected"] = {
+["Owned"] = true,
+},
+["Favorite"] = {
+},
+["Moveset"] = {
+},
+},
+},
+},
 ["LowerStrata"] = true,
-["LevelingQueue"] = {
-{
-["preferred"] = true,
-["petID"] = "BattlePet-0-00002245F023",
-["added"] = 20240823022426,
-["petTag"] = "QN364CI",
-},
-{
-["petTag"] = "QN154D4",
-["petID"] = "BattlePet-0-000022474AE9",
-["added"] = 20240823184250,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1433DS",
-["preferred"] = true,
-["added"] = 20231202004751,
-["petID"] = "BattlePet-0-000021C9209B",
-},
-{
-["petTag"] = "QN4C4DR",
-["preferred"] = true,
-["added"] = 20241012133852,
-["petID"] = "BattlePet-0-00002273C84B",
-},
-{
-["petTag"] = "QN274C5",
-["preferred"] = true,
-["added"] = 20241012134136,
-["petID"] = "BattlePet-0-00002273C8A4",
-},
-{
-["petTag"] = "QN174DQ",
-["petID"] = "BattlePet-0-00002273C92B",
-["added"] = 20241012134529,
-["preferred"] = true,
-},
-{
-["petTag"] = "QN1B4DT",
-["petID"] = "BattlePet-0-00002273C9A8",
-["added"] = 20241012134922,
-["preferred"] = true,
-},
-{
-["petTag"] = "QN1A4DS",
-["petID"] = "BattlePet-0-00002273CAA0",
-["added"] = 20241012135617,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1433CK",
-["petID"] = "BattlePet-0-000021D48012",
-["added"] = 20231221171027,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1404E4",
-["petID"] = "BattlePet-0-00002220A297",
-["added"] = 20240611214737,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1442CM",
-["petID"] = "BattlePet-0-0000210B58A0",
-["added"] = 20231130040631,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q144141",
-["petID"] = "BattlePet-0-00000E0BBD4A",
-["added"] = 20231130040542,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1483DN",
-["preferred"] = true,
-["added"] = 20231218155617,
-["petID"] = "BattlePet-0-000021D2AA99",
-},
-{
-["petTag"] = "Q14546H",
-["preferred"] = true,
-["added"] = 20231203164757,
-["petID"] = "BattlePet-0-000021CA50EA",
-},
-{
-["petTag"] = "Q14816H",
-["preferred"] = true,
-["added"] = 20231221152940,
-["petID"] = "BattlePet-0-000021D4734E",
-},
-{
-["petTag"] = "Q14620U",
-["petID"] = "BattlePet-0-000021EA4659",
-["added"] = 20240201154923,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q14446C",
-["petID"] = "BattlePet-0-000021CDF5C8",
-["added"] = 20231209174459,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q14B23E",
-["preferred"] = true,
-["added"] = 20231207165338,
-["petID"] = "BattlePet-0-000021CCDFD9",
-},
-{
-["petTag"] = "Q143467",
-["preferred"] = true,
-["added"] = 20231205204905,
-["petID"] = "BattlePet-0-000021CBCF9F",
-},
-{
-["petTag"] = "Q144468",
-["petID"] = "BattlePet-0-000021CB6B88",
-["added"] = 20231205130403,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q14446N",
-["petID"] = "BattlePet-0-000021C9E7A3",
-["added"] = 20231203013819,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q14535N",
-["petID"] = "BattlePet-0-000021C9E793",
-["added"] = 20231203013747,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q13639K",
-["petID"] = "BattlePet-0-000021C92DBD",
-["added"] = 20231202041427,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q14338E",
-["petID"] = "BattlePet-0-000021C91C6F",
-["added"] = 20231202001105,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1392R4",
-["petID"] = "BattlePet-0-0000210533A4",
-["added"] = 20231130040612,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q1434DP",
-["petID"] = "BattlePet-0-0000225B2EBC",
-["added"] = 20240906183702,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q14819H",
-["preferred"] = true,
-["added"] = 20240531151611,
-["petID"] = "BattlePet-0-0000221D736C",
-},
-{
-["petTag"] = "Q14B39L",
-["preferred"] = true,
-["added"] = 20240118182609,
-["petID"] = "BattlePet-0-000021E41D28",
-},
-{
-["petTag"] = "Q14C365",
-["preferred"] = true,
-["added"] = 20231220223103,
-["petID"] = "BattlePet-0-000021D4259C",
-},
-{
-["petTag"] = "Q1481MP",
-["preferred"] = true,
-["added"] = 20240113170952,
-["petID"] = "BattlePet-0-000021E1B6A7",
-},
-{
-["petTag"] = "Q14B4D8",
-["preferred"] = true,
-["added"] = 20240824011806,
-["petID"] = "BattlePet-0-000022482D85",
-},
-{
-["petTag"] = "Q14A4BM",
-["petID"] = "BattlePet-0-00002245EE8A",
-["added"] = 20240823021720,
-["preferred"] = true,
-},
-{
-["petTag"] = "Q148384",
-["petID"] = "BattlePet-0-000021D955B2",
-["added"] = 20231228171522,
-["preferred"] = true,
-},
-{
-["petID"] = "BattlePet-0-000021E0A336",
-["petTag"] = "Q14337A",
-["added"] = 20240111130119,
-["preferred"] = true,
-},
-{
-["preferred"] = true,
-["petTag"] = "Q143395",
-["added"] = 20240111125639,
-["petID"] = "BattlePet-0-000021E0A2BE",
-},
-{
-["preferred"] = true,
-["petTag"] = "Q143392",
-["added"] = 20240909190222,
-["petID"] = "BattlePet-0-0000225E5D32",
-},
-{
-["preferred"] = true,
-["petTag"] = "Q14445T",
-["added"] = 20240130000756,
-["petID"] = "BattlePet-0-000021E89AAE",
-},
-{
-["preferred"] = true,
-["petTag"] = "Q149371",
-["added"] = 20240101125244,
-["petID"] = "BattlePet-0-000021DBA714",
-},
-{
-["preferred"] = true,
-["petTag"] = "Q14737R",
-["added"] = 20240107004325,
-["petID"] = "BattlePet-0-000021DE9A4C",
-},
-{
-["petID"] = "BattlePet-0-0000223FD4E7",
-["petTag"] = "Q1404FE",
-["added"] = 20240815151731,
-["preferred"] = true,
-},
-{
-["petID"] = "BattlePet-0-0000223FD4E8",
-["petTag"] = "Q1404FD",
-["added"] = 20240815151732,
-["preferred"] = true,
-},
-{
-["preferred"] = true,
-["petTag"] = "Q143452",
-["added"] = 20240111131250,
-["petID"] = "BattlePet-0-000021E0A40B",
-},
-{
-["petID"] = "BattlePet-0-000021F97255",
-["petTag"] = "Q14345A",
-["added"] = 20240309184430,
-["preferred"] = true,
-},
-{
-["petID"] = "BattlePet-0-0000223FD4EA",
-["preferred"] = true,
-["added"] = 20240815151734,
-["petTag"] = "Q1404FF",
-},
-{
-["petID"] = "BattlePet-0-0000220D8DF9",
-["preferred"] = true,
-["added"] = 20240424182113,
-["petTag"] = "Q14B45U",
-},
-{
-["petID"] = "BattlePet-0-000022177069",
-["preferred"] = true,
-["added"] = 20240515151238,
-["petTag"] = "Q143453",
-},
-{
-["petID"] = "BattlePet-0-000021D3617E",
-["preferred"] = true,
-["added"] = 20231219190048,
-["petTag"] = "Q14C46I",
-},
-{
-["petID"] = "BattlePet-0-000021F7FEB6",
-["preferred"] = true,
-["added"] = 20240305154208,
-["petTag"] = "Q14049S",
-},
-{
-["petID"] = "BattlePet-0-000021EFE315",
-["preferred"] = true,
-["added"] = 20240213010556,
-["petTag"] = "Q14C2B2",
-},
-{
-["preferred"] = true,
-["petID"] = "BattlePet-0-000021A1E76F",
-["added"] = 20231130040746,
-["petTag"] = "Q14A211",
-},
-{
-["petID"] = "BattlePet-0-000021D23A26",
-["preferred"] = false,
-["added"] = 20231217183708,
-["petTag"] = "Q1433GG",
-},
-{
-["petID"] = "BattlePet-0-000021D0270B",
-["preferred"] = false,
-["added"] = 20231213165106,
-["petTag"] = "Q1433DR",
-},
-{
-["petID"] = "BattlePet-0-000021D805E3",
-["preferred"] = false,
-["added"] = 20231226183806,
-["petTag"] = "Q1433GI",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021D17397",
-["added"] = 20231216132858,
-["petTag"] = "Q1463AN",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021D1B244",
-["added"] = 20231216205103,
-["petTag"] = "Q14CAH",
-},
-{
-["petID"] = "BattlePet-0-000021D2703B",
-["preferred"] = false,
-["added"] = 20231218024655,
-["petTag"] = "Q14937D",
-},
-{
-["petID"] = "BattlePet-0-000021D2A98C",
-["petTag"] = "Q14538J",
-["added"] = 20231218154710,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petTag"] = "Q1431T0",
-["added"] = 20231219213335,
-["petID"] = "BattlePet-0-000021D37FDD",
-},
-{
-["petID"] = "BattlePet-0-000021D37FE0",
-["petTag"] = "Q1471T6",
-["added"] = 20231219213338,
-["preferred"] = false,
-},
-{
-["petID"] = "BattlePet-0-000021D9547D",
-["petTag"] = "Q14436Q",
-["added"] = 20231228170711,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petTag"] = "Q13337U",
-["added"] = 20231230234254,
-["petID"] = "BattlePet-0-000021DAC77E",
-},
-{
-["petID"] = "BattlePet-0-000021DAD846",
-["petTag"] = "Q14538H",
-["added"] = 20231231031147,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petTag"] = "Q14535O",
-["added"] = 20231231031148,
-["petID"] = "BattlePet-0-000021DAD847",
-},
-{
-["petID"] = "BattlePet-0-000021DAD848",
-["petTag"] = "Q14538I",
-["added"] = 20231231031148,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petTag"] = "Q14538G",
-["added"] = 20231231031149,
-["petID"] = "BattlePet-0-000021DAD849",
-},
-{
-["petID"] = "BattlePet-0-0000210D9DCD",
-["petTag"] = "Q1392R4",
-["added"] = 20240101193335,
-["preferred"] = false,
-},
-{
-["petID"] = "BattlePet-0-00000E0BBEB7",
-["petTag"] = "Q1431B9",
-["added"] = 20240101201612,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14323D",
-["preferred"] = false,
-["added"] = 20240101220738,
-["petID"] = "BattlePet-0-000010125055",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q1433AE",
-["added"] = 20240101221841,
-["petID"] = "BattlePet-0-000021DC0F3F",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q1463BP",
-["added"] = 20240107134117,
-["petID"] = "BattlePet-0-000021DECE79",
-},
-{
-["preferred"] = false,
-["petTag"] = "Q14C39J",
-["added"] = 20240111140032,
-["petID"] = "BattlePet-0-000021E0A8F3",
-},
-{
-["petID"] = "BattlePet-0-000021E11228",
-["petTag"] = "Q1433EF",
-["added"] = 20240112123734,
-["preferred"] = false,
-},
-{
-["petID"] = "BattlePet-0-000021E1288F",
-["petTag"] = "Q1443GC",
-["added"] = 20240112162652,
-["preferred"] = false,
-},
-{
-["petID"] = "BattlePet-0-000021E19F89",
-["petTag"] = "Q14C3B3",
-["added"] = 20240113142030,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14645V",
-["petID"] = "BattlePet-0-000021E27962",
-["added"] = 20240114235438,
-["preferred"] = false,
-},
-{
-["petID"] = "BattlePet-0-000021E89AAF",
-["petTag"] = "Q144463",
-["added"] = 20240130000800,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021E920FB",
-["added"] = 20240130184751,
-["petTag"] = "Q1443FQ",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021E9CCDE",
-["added"] = 20240131182009,
-["petTag"] = "Q13A1DV",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021EA7A75",
-["added"] = 20240201205933,
-["petTag"] = "Q14049O",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000021EA7A80",
-["added"] = 20240201205941,
-["petTag"] = "Q14049N",
-},
-{
-["petID"] = "BattlePet-0-000021EA7FD7",
-["preferred"] = false,
-["added"] = 20240201213225,
-["petTag"] = "Q14B219",
-},
-{
-["petID"] = "BattlePet-0-000021EA950D",
-["preferred"] = false,
-["added"] = 20240202003811,
-["petTag"] = "Q1463BM",
-},
-{
-["petID"] = "BattlePet-0-000021EEF0FE",
-["preferred"] = false,
-["added"] = 20240210224105,
-["petTag"] = "Q1433EK",
-},
-{
-["petID"] = "BattlePet-0-000021EFDEF4",
-["preferred"] = false,
-["added"] = 20240212235851,
-["petTag"] = "Q133AL",
-},
-{
-["petID"] = "BattlePet-0-000021EFE5A8",
-["preferred"] = false,
-["added"] = 20240213014755,
-["petTag"] = "Q133AM",
-},
-{
-["petTag"] = "Q14049R",
-["petID"] = "BattlePet-0-000021F03AB8",
-["added"] = 20240213214750,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1352BF",
-["preferred"] = false,
-["added"] = 20240214174540,
-["petID"] = "BattlePet-0-000021F082CB",
-},
-{
-["petTag"] = "Q13A2C7",
-["preferred"] = false,
-["added"] = 20240216021846,
-["petID"] = "BattlePet-0-000021F10411",
-},
-{
-["petTag"] = "Q14049I",
-["preferred"] = false,
-["added"] = 20240321195641,
-["petID"] = "BattlePet-0-000021FE04DC",
-},
-{
-["petTag"] = "Q1404AK",
-["petID"] = "BattlePet-0-00002211D01A",
-["added"] = 20240501220636,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14836P",
-["petID"] = "BattlePet-0-000022157FE0",
-["added"] = 20240510163656,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q143456",
-["petID"] = "BattlePet-0-000022177065",
-["added"] = 20240515151220,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14838R",
-["petID"] = "BattlePet-0-0000221776AB",
-["added"] = 20240515162327,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1304F3",
-["petID"] = "BattlePet-0-000022197E1C",
-["added"] = 20240519161759,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1404F4",
-["petID"] = "BattlePet-0-0000221AB0CB",
-["added"] = 20240522183438,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14919L",
-["petID"] = "BattlePet-0-0000221AC055",
-["added"] = 20240522211846,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1404B4",
-["petID"] = "BattlePet-0-0000223C8D84",
-["added"] = 20240809051405,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1494DF",
-["petID"] = "BattlePet-0-000022452881",
-["added"] = 20240822201507,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14C4DO",
-["preferred"] = false,
-["added"] = 20240823135708,
-["petID"] = "BattlePet-0-00002246AD69",
-},
-{
-["petTag"] = "Q1484EQ",
-["preferred"] = false,
-["added"] = 20240823153533,
-["petID"] = "BattlePet-0-00002246DF58",
-},
-{
-["petTag"] = "Q14B4D1",
-["petID"] = "BattlePet-0-0000224DDC3E",
-["added"] = 20240827003538,
-["preferred"] = false,
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000224DEDD4",
-["added"] = 20240827015302,
-["petTag"] = "Q14C4F6",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000022517D13",
-["added"] = 20240829182413,
-["petTag"] = "Q14C4FN",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000225188E4",
-["added"] = 20240829185848,
-["petTag"] = "Q1444BP",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-00002261A808",
-["added"] = 20240914141407,
-["petTag"] = "Q14F4CQ",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-0000226298EF",
-["added"] = 20240915153055,
-["petTag"] = "Q1494FI",
-},
-{
-["preferred"] = false,
-["petID"] = "BattlePet-0-000022644272",
-["added"] = 20240917223900,
-["petTag"] = "Q1464DI",
-},
-{
-["petID"] = "BattlePet-0-00002267E546",
-["preferred"] = false,
-["added"] = 20240922144246,
-["petTag"] = "Q1454DC",
-},
-{
-["petID"] = "BattlePet-0-00002267E549",
-["preferred"] = false,
-["added"] = 20240922144247,
-["petTag"] = "Q1494CF",
-},
-{
-["petID"] = "BattlePet-0-00002267E54A",
-["preferred"] = false,
-["added"] = 20240922144249,
-["petTag"] = "Q1454CV",
-},
-{
-["petTag"] = "Q1434E2",
-["petID"] = "BattlePet-0-00002267E54C",
-["added"] = 20240922144250,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1354FA",
-["preferred"] = false,
-["added"] = 20240922144252,
-["petID"] = "BattlePet-0-00002267E54E",
-},
-{
-["petTag"] = "Q1434BG",
-["petID"] = "BattlePet-0-0000226AF908",
-["added"] = 20240926185623,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q14B4BS",
-["preferred"] = false,
-["added"] = 20240926185736,
-["petID"] = "BattlePet-0-0000226AF930",
-},
-{
-["petTag"] = "Q1464CC",
-["preferred"] = false,
-["added"] = 20240926185858,
-["petID"] = "BattlePet-0-0000226AF961",
-},
-{
-["petTag"] = "Q14B4C9",
-["preferred"] = false,
-["added"] = 20241002110708,
-["petID"] = "BattlePet-0-0000226E476D",
-},
-{
-["petTag"] = "Q1433EM",
-["preferred"] = false,
-["added"] = 20241003174351,
-["petID"] = "BattlePet-0-0000226F1669",
-},
-{
-["petTag"] = "Q1494F0",
-["petID"] = "BattlePet-0-0000227350DE",
-["added"] = 20241011154215,
-["preferred"] = false,
-},
-{
-["petTag"] = "Q1484DV",
-["petID"] = "BattlePet-0-00002273C77D",
-["added"] = 20241012133141,
-["preferred"] = false,
-},
-},
+["UseDefaultJournal"] = false,
 ["DontMinTabToggle"] = false,
-["QueueSortOrder"] = 2,
+["QueueSortOrder"] = 1,
 ["CardBehavior"] = "Normal",
+["PrioritizeBreedOnImport"] = true,
 ["InteractOnTarget"] = 0,
 ["PetCardShowExpansionStat"] = false,
 ["StickyNewPets"] = false,
 ["ColorTargetNames"] = true,
-["BreedFormat"] = 1,
 ["CombineGroupKey"] = "None",
 ["ExpandedGroups"] = {
-["group:10"] = true,
-["group:none"] = true,
 ["group:favorites"] = true,
 },
 ["DontWarnMissing"] = false,
 ["HideMarkerBadges"] = false,
-["CompactQueueList"] = true,
+["RandomAbilitiesToo"] = false,
 ["LoadHealthiestAfterBattle"] = false,
-["NotesNoEscFix"] = true,
+["LastToastedPetID"] = "BattlePet-0-00000E0BBEB7",
 ["NeverTeamTabs"] = false,
 ["StayForBattle"] = true,
 ["LockWindow"] = false,
 ["NotesBottom"] = 458.4285888671875,
 ["WasShownOnLogout"] = false,
 ["NotesWidth"] = 257.9999389648438,
-["ShowLoadedTeamPreferences"] = true,
+["DontConfirmHidePets"] = false,
 ["PreferencesPaused"] = false,
 ["LockNotesPosition"] = true,
 ["PetMarkers"] = {
 },
-["HiddenPets"] = {
-},
-["DontConfirmHidePets"] = false,
-["NoBackupReminder"] = false,
-["AlwaysUsePetSatchel"] = false,
 ["HidePreferenceBadges"] = false,
+["ShowLoadedTeamPreferences"] = true,
+["NoBackupReminder"] = false,
+["LoadHealthiestAny"] = false,
+["DontConfirmFillQueue"] = false,
 ["PetCardBackground"] = "Expansion",
 ["PetSatchelIndex"] = 3,
 }
@@ -1398,10 +1666,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 107489,
 },
+["groupID"] = "group:4",
 },
 ["team:129"] = {
 ["pets"] = {
@@ -1420,10 +1688,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128020,
 },
+["groupID"] = "group:4",
 },
 ["team:229"] = {
 ["pets"] = {
@@ -1476,7 +1744,9 @@ Rematch5SavedTeams = {
 "ZL",
 },
 ["teamID"] = "team:268",
-["groupID"] = "group:none",
+["homeID"] = "group:none",
+["groupID"] = "group:favorites",
+["favorite"] = true,
 },
 ["team:286"] = {
 ["pets"] = {
@@ -1495,10 +1765,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
+["groupID"] = "group:9",
 ["targets"] = {
 223407,
 },
-["groupID"] = "group:9",
 },
 ["team:211"] = {
 ["pets"] = {
@@ -1517,10 +1787,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 5,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 106542,
 },
+["groupID"] = "group:4",
 },
 ["team:168"] = {
 ["pets"] = {
@@ -1539,10 +1809,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68558,
 },
+["groupID"] = "group:2",
 },
 ["team:70"] = {
 ["pets"] = {
@@ -1562,10 +1832,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 541,
 ["minXP"] = 10,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 71930,
 },
+["groupID"] = "group:1",
 },
 ["team:90"] = {
 ["pets"] = {
@@ -1603,10 +1873,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175783,
 },
+["groupID"] = "group:6",
 },
 ["team:244"] = {
 ["pets"] = {
@@ -1625,10 +1895,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119409,
 },
+["groupID"] = "group:1",
 },
 ["team:238"] = {
 ["pets"] = {
@@ -1682,10 +1952,10 @@ Rematch5SavedTeams = {
 "ZL",
 },
 ["teamID"] = "team:290",
-["groupID"] = "group:10",
 ["targets"] = {
 66550,
 },
+["groupID"] = "group:10",
 ["preferences"] = {
 ["minHP"] = 353,
 ["minXP"] = 3,
@@ -1708,10 +1978,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 140315,
 },
+["groupID"] = "group:5",
 },
 ["team:51"] = {
 ["pets"] = {
@@ -1730,10 +2000,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 79751,
 },
+["groupID"] = "group:3",
 },
 ["team:227"] = {
 ["pets"] = {
@@ -1752,10 +2022,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 189376,
 },
+["groupID"] = "group:7",
 },
 ["team:77"] = {
 ["pets"] = {
@@ -1774,10 +2044,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 85632,
 },
+["groupID"] = "group:3",
 },
 ["team:214"] = {
 ["pets"] = {
@@ -1796,10 +2066,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119407,
 },
+["groupID"] = "group:1",
 },
 ["team:206"] = {
 ["pets"] = {
@@ -1818,10 +2088,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 10,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68562,
 },
+["groupID"] = "group:2",
 },
 ["team:19"] = {
 ["pets"] = {
@@ -1878,10 +2148,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154917,
 },
+["groupID"] = "group:5",
 },
 ["team:267"] = {
 ["pets"] = {
@@ -1916,10 +2186,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141002,
 },
+["groupID"] = "group:5",
 },
 ["team:183"] = {
 ["pets"] = {
@@ -1938,10 +2208,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 173331,
 },
+["groupID"] = "group:6",
 },
 ["team:217"] = {
 ["pets"] = {
@@ -1960,10 +2230,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 173267,
 },
+["groupID"] = "group:6",
 },
 ["team:172"] = {
 ["pets"] = {
@@ -2020,10 +2290,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154924,
 },
+["groupID"] = "group:5",
 },
 ["team:80"] = {
 ["pets"] = {
@@ -2042,10 +2312,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154912,
 },
+["groupID"] = "group:5",
 },
 ["team:154"] = {
 ["pets"] = {
@@ -2064,10 +2334,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162469,
 },
+["groupID"] = "group:5",
 },
 ["team:10"] = {
 ["pets"] = {
@@ -2143,10 +2413,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105779,
 },
+["groupID"] = "group:4",
 },
 ["team:253"] = {
 ["pets"] = {
@@ -2165,10 +2435,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200679,
 },
+["groupID"] = "group:7",
 },
 ["team:258"] = {
 ["pets"] = {
@@ -2187,10 +2457,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119346,
 },
+["groupID"] = "group:1",
 },
 ["team:216"] = {
 ["pets"] = {
@@ -2209,10 +2479,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105674,
 },
+["groupID"] = "group:4",
 },
 ["team:187"] = {
 ["pets"] = {
@@ -2231,10 +2501,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200697,
 },
+["groupID"] = "group:7",
 },
 ["team:73"] = {
 ["pets"] = {
@@ -2253,10 +2523,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105241,
 },
+["groupID"] = "group:4",
 },
 ["team:263"] = {
 ["pets"] = {
@@ -2293,10 +2563,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 66730,
 },
+["groupID"] = "group:2",
 },
 ["team:118"] = {
 ["pets"] = {
@@ -2315,10 +2585,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 98572,
 },
+["groupID"] = "group:4",
 },
 ["team:125"] = {
 ["pets"] = {
@@ -2337,10 +2607,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 173129,
 },
+["groupID"] = "group:6",
 },
 ["team:202"] = {
 ["pets"] = {
@@ -2359,10 +2629,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154919,
 },
+["groupID"] = "group:5",
 },
 ["team:132"] = {
 ["pets"] = {
@@ -2419,10 +2689,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68561,
 },
+["groupID"] = "group:2",
 },
 ["team:237"] = {
 ["pets"] = {
@@ -2441,10 +2711,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 12,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 140813,
 },
+["groupID"] = "group:5",
 },
 ["team:42"] = {
 ["pets"] = {
@@ -2463,10 +2733,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128007,
 },
+["groupID"] = "group:4",
 },
 ["team:74"] = {
 ["pets"] = {
@@ -2504,10 +2774,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162458,
 },
+["groupID"] = "group:5",
 },
 ["team:281"] = {
 ["pets"] = {
@@ -2564,10 +2834,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128008,
 },
+["groupID"] = "group:4",
 },
 ["team:15"] = {
 ["pets"] = {
@@ -2624,10 +2894,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105455,
 },
+["groupID"] = "group:4",
 },
 ["team:224"] = {
 ["pets"] = {
@@ -2665,10 +2935,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116792,
 },
+["groupID"] = "group:1",
 },
 ["team:180"] = {
 ["pets"] = {
@@ -2724,10 +2994,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128009,
 },
+["groupID"] = "group:4",
 },
 ["team:101"] = {
 ["pets"] = {
@@ -2784,10 +3054,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 99742,
 },
+["groupID"] = "group:4",
 },
 ["team:85"] = {
 ["pets"] = {
@@ -2845,10 +3115,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 707,
 ["minXP"] = 7,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68462,
 },
+["groupID"] = "group:2",
 },
 ["team:31"] = {
 ["pets"] = {
@@ -2867,10 +3137,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105841,
 },
+["groupID"] = "group:4",
 },
 ["team:178"] = {
 ["pets"] = {
@@ -2889,10 +3159,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68560,
 },
+["groupID"] = "group:2",
 },
 ["team:163"] = {
 ["pets"] = {
@@ -2987,10 +3257,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 85685,
 },
+["groupID"] = "group:3",
 },
 ["team:145"] = {
 ["pets"] = {
@@ -3009,10 +3279,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154929,
 },
+["groupID"] = "group:5",
 },
 ["team:259"] = {
 ["pets"] = {
@@ -3050,10 +3320,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 85420,
 },
+["groupID"] = "group:3",
 },
 ["team:75"] = {
 ["pets"] = {
@@ -3072,10 +3342,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154911,
 },
+["groupID"] = "group:5",
 },
 ["team:86"] = {
 ["pets"] = {
@@ -3095,10 +3365,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 256,
 ["minXP"] = 3,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154914,
 },
+["groupID"] = "group:5",
 },
 ["team:65"] = {
 ["pets"] = {
@@ -3117,10 +3387,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 79179,
 },
+["groupID"] = "group:3",
 },
 ["team:106"] = {
 ["pets"] = {
@@ -3139,10 +3409,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 97804,
 },
+["groupID"] = "group:4",
 },
 ["team:95"] = {
 ["pets"] = {
@@ -3196,10 +3466,10 @@ Rematch5SavedTeams = {
 "1219R4",
 },
 ["teamID"] = "team:279",
-["groupID"] = "group:8",
 ["targets"] = {
 66815,
 },
+["groupID"] = "group:8",
 ["preferences"] = {
 ["minXP"] = 10,
 },
@@ -3221,10 +3491,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116789,
 },
+["groupID"] = "group:1",
 },
 ["team:72"] = {
 ["pets"] = {
@@ -3281,10 +3551,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200678,
 },
+["groupID"] = "group:7",
 },
 ["team:260"] = {
 ["pets"] = {
@@ -3341,10 +3611,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 99182,
 },
+["groupID"] = "group:4",
 },
 ["team:60"] = {
 ["pets"] = {
@@ -3382,10 +3652,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116791,
 },
+["groupID"] = "group:1",
 },
 ["team:99"] = {
 ["pets"] = {
@@ -3423,10 +3693,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 106476,
 },
+["groupID"] = "group:4",
 },
 ["team:234"] = {
 ["pets"] = {
@@ -3445,10 +3715,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200682,
 },
+["groupID"] = "group:7",
 },
 ["team:176"] = {
 ["pets"] = {
@@ -3467,10 +3737,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 197417,
 },
+["groupID"] = "group:7",
 },
 ["team:210"] = {
 ["pets"] = {
@@ -3508,10 +3778,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116790,
 },
+["groupID"] = "group:1",
 },
 ["team:67"] = {
 ["pets"] = {
@@ -3549,10 +3819,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119345,
 },
+["groupID"] = "group:1",
 },
 ["team:140"] = {
 ["pets"] = {
@@ -3572,10 +3842,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 238,
 ["minXP"] = 3,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105250,
 },
+["groupID"] = "group:4",
 },
 ["team:59"] = {
 ["pets"] = {
@@ -3614,10 +3884,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 801,
 ["minXP"] = 10,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128018,
 },
+["groupID"] = "group:4",
 },
 ["team:173"] = {
 ["pets"] = {
@@ -3636,10 +3906,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 5,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68463,
 },
+["groupID"] = "group:2",
 },
 ["team:287"] = {
 ["pets"] = {
@@ -3658,10 +3928,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:9",
 ["targets"] = {
 223446,
 },
+["groupID"] = "group:9",
 },
 ["team:66"] = {
 ["pets"] = {
@@ -3681,10 +3951,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 401,
 ["minXP"] = 5,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141814,
 },
+["groupID"] = "group:5",
 },
 ["team:121"] = {
 ["pets"] = {
@@ -3704,10 +3974,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 302,
 ["minXP"] = 5,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 104992,
 },
+["groupID"] = "group:4",
 },
 ["team:181"] = {
 ["pets"] = {
@@ -3726,10 +3996,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 7,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105512,
 },
+["groupID"] = "group:4",
 },
 ["team:226"] = {
 ["pets"] = {
@@ -3748,10 +4018,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 85622,
 },
+["groupID"] = "group:3",
 },
 ["team:11"] = {
 ["pets"] = {
@@ -3770,10 +4040,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200689,
 },
+["groupID"] = "group:7",
 },
 ["team:144"] = {
 ["pets"] = {
@@ -3905,10 +4175,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 94640,
 },
+["groupID"] = "group:3",
 },
 ["team:208"] = {
 ["pets"] = {
@@ -3927,10 +4197,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141799,
 },
+["groupID"] = "group:5",
 },
 ["team:134"] = {
 ["pets"] = {
@@ -3949,10 +4219,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154927,
 },
+["groupID"] = "group:5",
 },
 ["team:212"] = {
 ["pets"] = {
@@ -3971,10 +4241,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119343,
 },
+["groupID"] = "group:1",
 },
 ["team:255"] = {
 ["pets"] = {
@@ -4012,10 +4282,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116788,
 },
+["groupID"] = "group:1",
 },
 ["team:110"] = {
 ["pets"] = {
@@ -4072,10 +4342,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200694,
 },
+["groupID"] = "group:7",
 },
 ["team:247"] = {
 ["pets"] = {
@@ -4094,10 +4364,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162470,
 },
+["groupID"] = "group:5",
 },
 ["team:151"] = {
 ["pets"] = {
@@ -4135,10 +4405,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 66733,
 },
+["groupID"] = "group:2",
 },
 ["team:200"] = {
 ["pets"] = {
@@ -4157,10 +4427,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 142054,
 },
+["groupID"] = "group:5",
 },
 ["team:22"] = {
 ["pets"] = {
@@ -4179,10 +4449,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116794,
 },
+["groupID"] = "group:1",
 },
 ["team:89"] = {
 ["pets"] = {
@@ -4201,10 +4471,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154915,
 },
+["groupID"] = "group:5",
 },
 ["team:199"] = {
 ["pets"] = {
@@ -4242,10 +4512,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175782,
 },
+["groupID"] = "group:6",
 },
 ["team:14"] = {
 ["pets"] = {
@@ -4264,10 +4534,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 87123,
 },
+["groupID"] = "group:3",
 },
 ["team:94"] = {
 ["pets"] = {
@@ -4324,10 +4594,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 99150,
 },
+["groupID"] = "group:4",
 },
 ["team:204"] = {
 ["pets"] = {
@@ -4365,10 +4635,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minHP"] = 62,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 87110,
 },
+["groupID"] = "group:3",
 },
 ["team:155"] = {
 ["pets"] = {
@@ -4387,10 +4657,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 140880,
 },
+["groupID"] = "group:5",
 },
 ["team:153"] = {
 ["pets"] = {
@@ -4409,10 +4679,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128023,
 },
+["groupID"] = "group:4",
 },
 ["team:222"] = {
 ["pets"] = {
@@ -4450,10 +4720,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105898,
 },
+["groupID"] = "group:4",
 },
 ["team:232"] = {
 ["pets"] = {
@@ -4529,10 +4799,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116786,
 },
+["groupID"] = "group:1",
 },
 ["team:39"] = {
 ["pets"] = {
@@ -4551,10 +4821,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105842,
 },
+["groupID"] = "group:4",
 },
 ["team:58"] = {
 ["pets"] = {
@@ -4574,10 +4844,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 571,
 ["minXP"] = 13,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 197447,
 },
+["groupID"] = "group:7",
 },
 ["team:1"] = {
 ["pets"] = {
@@ -4615,10 +4885,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minHP"] = 300,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 66739,
 },
+["groupID"] = "group:2",
 },
 ["team:143"] = {
 ["pets"] = {
@@ -4637,10 +4907,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 173133,
 },
+["groupID"] = "group:6",
 },
 ["team:185"] = {
 ["pets"] = {
@@ -4736,10 +5006,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 1001,
 ["minXP"] = 18,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154925,
 },
+["groupID"] = "group:5",
 },
 ["team:252"] = {
 ["pets"] = {
@@ -4758,10 +5028,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68565,
 },
+["groupID"] = "group:2",
 },
 ["team:82"] = {
 ["pets"] = {
@@ -4818,10 +5088,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128019,
 },
+["groupID"] = "group:4",
 },
 ["team:243"] = {
 ["pets"] = {
@@ -4878,10 +5148,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68566,
 },
+["groupID"] = "group:2",
 },
 ["team:193"] = {
 ["pets"] = {
@@ -4900,10 +5170,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 15,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105352,
 },
+["groupID"] = "group:4",
 },
 ["team:149"] = {
 ["pets"] = {
@@ -4941,10 +5211,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154910,
 },
+["groupID"] = "group:5",
 },
 ["team:131"] = {
 ["pets"] = {
@@ -4964,10 +5234,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 501,
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 142151,
 },
+["groupID"] = "group:5",
 },
 ["team:34"] = {
 ["pets"] = {
@@ -4986,10 +5256,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141292,
 },
+["groupID"] = "group:5",
 },
 ["team:195"] = {
 ["pets"] = {
@@ -5008,10 +5278,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 104970,
 },
+["groupID"] = "group:4",
 },
 ["team:69"] = {
 ["pets"] = {
@@ -5030,10 +5300,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141879,
 },
+["groupID"] = "group:5",
 },
 ["team:188"] = {
 ["pets"] = {
@@ -5071,10 +5341,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 72291,
 },
+["groupID"] = "group:1",
 },
 ["team:76"] = {
 ["pets"] = {
@@ -5150,10 +5420,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162465,
 },
+["groupID"] = "group:5",
 },
 ["team:278"] = {
 ["pets"] = {
@@ -5225,10 +5495,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
+["groupID"] = "group:9",
 ["targets"] = {
 223406,
 },
-["groupID"] = "group:9",
 },
 ["team:273"] = {
 ["pets"] = {
@@ -5266,10 +5536,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154913,
 },
+["groupID"] = "group:5",
 },
 ["team:63"] = {
 ["pets"] = {
@@ -5307,10 +5577,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 5,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 196069,
 },
+["groupID"] = "group:7",
 },
 ["team:98"] = {
 ["pets"] = {
@@ -5367,10 +5637,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162461,
 },
+["groupID"] = "group:5",
 },
 ["team:105"] = {
 ["pets"] = {
@@ -5389,10 +5659,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 173315,
 },
+["groupID"] = "group:6",
 },
 ["team:261"] = {
 ["pets"] = {
@@ -5411,10 +5681,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119341,
 },
+["groupID"] = "group:1",
 },
 ["team:271"] = {
 ["pets"] = {
@@ -5528,10 +5798,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154922,
 },
+["groupID"] = "group:5",
 },
 ["team:37"] = {
 ["pets"] = {
@@ -5550,10 +5820,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 71924,
 },
+["groupID"] = "group:1",
 },
 ["team:139"] = {
 ["pets"] = {
@@ -5592,10 +5862,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 121,
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 83837,
 },
+["groupID"] = "group:3",
 },
 ["team:169"] = {
 ["pets"] = {
@@ -5634,10 +5904,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 701,
 ["minXP"] = 15,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175781,
 },
+["groupID"] = "group:6",
 },
 ["team:56"] = {
 ["pets"] = {
@@ -5676,10 +5946,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 113,
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141588,
 },
+["groupID"] = "group:5",
 },
 ["team:177"] = {
 ["pets"] = {
@@ -5756,10 +6026,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 601,
 ["minXP"] = 10,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154928,
 },
+["groupID"] = "group:5",
 },
 ["team:254"] = {
 ["pets"] = {
@@ -5815,10 +6085,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200696,
 },
+["groupID"] = "group:7",
 },
 ["team:113"] = {
 ["pets"] = {
@@ -5876,10 +6146,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 151,
 ["minXP"] = 2,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 66918,
 },
+["groupID"] = "group:2",
 },
 ["team:197"] = {
 ["pets"] = {
@@ -5918,10 +6188,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 353,
 ["minXP"] = 3,
 },
-["groupID"] = "group:10",
 ["targets"] = {
 66550,
 },
+["groupID"] = "group:10",
 },
 ["team:249"] = {
 ["pets"] = {
@@ -5959,10 +6229,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 139987,
 },
+["groupID"] = "group:5",
 },
 ["team:209"] = {
 ["pets"] = {
@@ -6019,10 +6289,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68555,
 },
+["groupID"] = "group:2",
 },
 ["team:102"] = {
 ["pets"] = {
@@ -6079,10 +6349,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175778,
 },
+["groupID"] = "group:6",
 },
 ["team:107"] = {
 ["pets"] = {
@@ -6140,10 +6410,10 @@ Rematch5SavedTeams = {
 ["minHP"] = 1501,
 ["minXP"] = 25,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 116795,
 },
+["groupID"] = "group:1",
 },
 ["team:91"] = {
 ["pets"] = {
@@ -6200,10 +6470,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 128024,
 },
+["groupID"] = "group:4",
 },
 ["team:207"] = {
 ["pets"] = {
@@ -6241,10 +6511,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 99210,
 },
+["groupID"] = "group:4",
 },
 ["team:205"] = {
 ["pets"] = {
@@ -6281,10 +6551,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200680,
 },
+["groupID"] = "group:7",
 },
 ["team:218"] = {
 ["pets"] = {
@@ -6303,10 +6573,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 104553,
 },
+["groupID"] = "group:4",
 },
 ["team:57"] = {
 ["pets"] = {
@@ -6344,10 +6614,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175785,
 },
+["groupID"] = "group:6",
 },
 ["team:103"] = {
 ["pets"] = {
@@ -6404,10 +6674,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 142096,
 },
+["groupID"] = "group:5",
 },
 ["team:233"] = {
 ["pets"] = {
@@ -6464,10 +6734,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162471,
 },
+["groupID"] = "group:5",
 },
 ["team:130"] = {
 ["pets"] = {
@@ -6486,10 +6756,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 173130,
 },
+["groupID"] = "group:6",
 },
 ["team:171"] = {
 ["pets"] = {
@@ -6546,10 +6816,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 71927,
 },
+["groupID"] = "group:1",
 },
 ["team:25"] = {
 ["pets"] = {
@@ -6587,10 +6857,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 68564,
 },
+["groupID"] = "group:2",
 },
 ["team:23"] = {
 ["pets"] = {
@@ -6685,10 +6955,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 85630,
 },
+["groupID"] = "group:3",
 },
 ["team:120"] = {
 ["pets"] = {
@@ -6726,10 +6996,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175777,
 },
+["groupID"] = "group:6",
 },
 ["team:93"] = {
 ["pets"] = {
@@ -6748,10 +7018,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 154916,
 },
+["groupID"] = "group:5",
 },
 ["team:18"] = {
 ["pets"] = {
@@ -6770,10 +7040,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 141479,
 },
+["groupID"] = "group:5",
 },
 ["team:251"] = {
 ["pets"] = {
@@ -6792,10 +7062,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200685,
 },
+["groupID"] = "group:7",
 },
 ["team:246"] = {
 ["pets"] = {
@@ -6833,10 +7103,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:1",
 ["targets"] = {
 119342,
 },
+["groupID"] = "group:1",
 },
 ["team:245"] = {
 ["pets"] = {
@@ -6892,10 +7162,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 200677,
 },
+["groupID"] = "group:7",
 },
 ["team:219"] = {
 ["pets"] = {
@@ -6914,10 +7184,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 162468,
 },
+["groupID"] = "group:5",
 },
 ["team:104"] = {
 ["pets"] = {
@@ -7031,10 +7301,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:6",
 ["targets"] = {
 175784,
 },
+["groupID"] = "group:6",
 },
 ["team:262"] = {
 ["pets"] = {
@@ -7053,10 +7323,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:7",
 ["targets"] = {
 197350,
 },
+["groupID"] = "group:7",
 },
 ["team:32"] = {
 ["pets"] = {
@@ -7075,10 +7345,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:5",
 ["targets"] = {
 140461,
 },
+["groupID"] = "group:5",
 },
 ["team:221"] = {
 ["pets"] = {
@@ -7097,10 +7367,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:4",
 ["targets"] = {
 105323,
 },
+["groupID"] = "group:4",
 },
 ["team:61"] = {
 ["pets"] = {
@@ -7194,10 +7464,10 @@ Rematch5SavedTeams = {
 ["allowMM"] = true,
 ["minXP"] = 2,
 },
-["groupID"] = "group:2",
 ["targets"] = {
 66734,
 },
+["groupID"] = "group:2",
 },
 ["team:156"] = {
 ["pets"] = {
@@ -7216,10 +7486,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 1,
 },
-["groupID"] = "group:3",
 ["targets"] = {
 85419,
 },
+["groupID"] = "group:3",
 },
 ["team:274"] = {
 ["pets"] = {
@@ -7295,10 +7565,10 @@ Rematch5SavedTeams = {
 ["preferences"] = {
 ["minXP"] = 25,
 },
+["groupID"] = "group:9",
 ["targets"] = {
 223409,
 },
-["groupID"] = "group:9",
 },
 ["team:283"] = {
 ["pets"] = {
@@ -7506,7 +7776,6 @@ Rematch5SavedGroups = {
 ["groupID"] = "group:none",
 ["teams"] = {
 "team:278",
-"team:268",
 "team:277",
 "team:272",
 "team:276",
@@ -7537,6 +7806,7 @@ Rematch5SavedGroups = {
 ["sortMode"] = 1,
 ["name"] = "Favorite Teams",
 ["teams"] = {
+"team:268",
 },
 ["meta"] = true,
 ["groupID"] = "group:favorites",
@@ -8372,15 +8642,15 @@ Rematch5SavedTargets = {
 [154926] = {
 "team:241",
 },
-[200679] = {
-"team:253",
+[197102] = {
+"team:205",
 },
 [66550] = {
 "team:289",
 "team:290",
 },
-[197102] = {
-"team:205",
+[200679] = {
+"team:253",
 },
 [68562] = {
 "team:206",
@@ -8400,8 +8670,8 @@ Rematch5SavedTargets = {
 [72009] = {
 "team:249",
 },
-[116788] = {
-"team:235",
+[119343] = {
+"team:212",
 },
 [200680] = {
 "team:213",
@@ -8433,8 +8703,8 @@ Rematch5SavedTargets = {
 [68563] = {
 "team:222",
 },
-[105898] = {
-"team:223",
+[105387] = {
+"team:239",
 },
 [139489] = {
 "team:238",
@@ -8448,8 +8718,8 @@ Rematch5SavedTargets = {
 [200682] = {
 "team:234",
 },
-[189376] = {
-"team:227",
+[119344] = {
+"team:233",
 },
 [85650] = {
 "team:228",
@@ -8481,8 +8751,8 @@ Rematch5SavedTargets = {
 [68564] = {
 "team:236",
 },
-[119344] = {
-"team:233",
+[189376] = {
+"team:227",
 },
 [197336] = {
 "team:180",
@@ -8490,8 +8760,8 @@ Rematch5SavedTargets = {
 [119341] = {
 "team:261",
 },
-[105387] = {
-"team:239",
+[105898] = {
+"team:223",
 },
 [104553] = {
 "team:218",
@@ -8505,8 +8775,8 @@ Rematch5SavedTargets = {
 [119409] = {
 "team:244",
 },
-[119343] = {
-"team:212",
+[116788] = {
+"team:235",
 },
 [66741] = {
 "team:257",
@@ -13268,47 +13538,6 @@ Rematch4Saved = {
 ["teamName"] = "Dealing with Satyrs",
 ["minXP"] = 1,
 },
-[66741] = {
-{
-"BattlePet-0-00000E0BBCF3",
-110,
-364,
-919,
-1211,
-},
-{
-"BattlePet-0-00000E0BBCA9",
-384,
-278,
-710,
-277,
-},
-{
-0,
-},
-["tab"] = 3,
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/591\n\nBreeds that we know work:\nAnklerender must be a P/P breed for this to work 100%.\nP/S and P/B also work just follow the notes below.\n\n(The notes down there are an estimate of 550 HP). (Saint)\n\nTurn 1: Bite\nTurn 2: Bite\nTurn 3+: Leap until Chirrup is dead.\nStormlash comes in.\nTurn 1: Black Claw - your Anklerender dies.\nBring in your Clockwork Gnome.\nTurn 1: Build Turret - Stormlash dies.  If not, just go on to the next step for your turret will kill him as you repair.\nWhiskers comes in.\nTurns 1-3: Repair\nTurn 4: Build Turret\nNOTE: If Whiskers is 551 HP or below after turn 4, Skip to turn 6. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nNOTE: If Whiskers is above 551 HP after turn 4, continue to Turn 5. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nTurn 5: Metal Fist\nTurn 6: Swap to your Level Pet.\nTurn 7: Swap back to your Clockwork Gnome.\nTurn 8: Build Turret - Whiskers dies.\nTurn 9: Metal Fist - if you think you need to.\n",
-["teamName"] = "Aki the Chosen",
-},
-[119342] = {
-{
-"BattlePet-0-00000E0BBEAB",
-118,
-574,
-564,
-1568,
-},
-{
-"random:0",
-},
-{
-"random:0",
-},
-["tab"] = 2,
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/6708\n\nStrategy added by Clarx\nTurn 1: Water Jet\nTurn 2: Dive\nTurn 3: Nature's Ward\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Water Jet\nTurn 8: Dive\nAngry Geode dies here (latest) ... \nClean up the rest! (Pudle Terror is able to solo everything, depending on enemy-background pets)\n",
-["teamName"] = "Angry Geode",
-["minXP"] = 1,
-},
 [200678] = {
 {
 "BattlePet-0-00000E0BBD2E",
@@ -13331,6 +13560,46 @@ Rematch4Saved = {
 ["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/18741\n\nStrategy added by MiKau\nTurn 1: Arcane Storm\nTurn 2-3: Mana Surge\nTurn 4: Stormborne Whelpling comes in\nTurn 5-7: Mana Surge\n",
 ["teamName"] = "Storm-Touched Slyvern",
 ["minXP"] = 25,
+},
+[116787] = {
+{
+"BattlePet-0-00000E0BBDD5",
+504,
+574,
+802,
+1416,
+},
+{
+"random:0",
+},
+{
+"random:0",
+},
+["tab"] = 2,
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8979\n\nStrategy added by Threewolves\nTurn 1: Prowl\nTurn 2: Moonfire (Keep on CD)\nTurns 3+: Spirit Claws til done.\n*: Clean up with remaining pets if needed.\n",
+["teamName"] = "Deviate Flapper",
+},
+[66741] = {
+{
+"BattlePet-0-00000E0BBCF3",
+110,
+364,
+919,
+1211,
+},
+{
+"BattlePet-0-00000E0BBCA9",
+384,
+278,
+710,
+277,
+},
+{
+0,
+},
+["tab"] = 3,
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/591\n\nBreeds that we know work:\nAnklerender must be a P/P breed for this to work 100%.\nP/S and P/B also work just follow the notes below.\n\n(The notes down there are an estimate of 550 HP). (Saint)\n\nTurn 1: Bite\nTurn 2: Bite\nTurn 3+: Leap until Chirrup is dead.\nStormlash comes in.\nTurn 1: Black Claw - your Anklerender dies.\nBring in your Clockwork Gnome.\nTurn 1: Build Turret - Stormlash dies.  If not, just go on to the next step for your turret will kill him as you repair.\nWhiskers comes in.\nTurns 1-3: Repair\nTurn 4: Build Turret\nNOTE: If Whiskers is 551 HP or below after turn 4, Skip to turn 6. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nNOTE: If Whiskers is above 551 HP after turn 4, continue to Turn 5. So he'll use Survival instead of Surge on your level pet. This is an estimate.\nTurn 5: Metal Fist\nTurn 6: Swap to your Level Pet.\nTurn 7: Swap back to your Clockwork Gnome.\nTurn 8: Build Turret - Whiskers dies.\nTurn 9: Metal Fist - if you think you need to.\n",
+["teamName"] = "Aki the Chosen",
 },
 [94647] = {
 {
@@ -14700,13 +14969,13 @@ Rematch4Saved = {
 ["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/447\n\nThe three Pests can be defeated by many combinations of pets. Listed here are only a few good options, but there are many other good choices.\n\nTurn 1: Wind-Up\nTurn 2: Supercharge\nTurn 3: Wind-Up\n",
 ["teamName"] = "Gorefu",
 },
-[116787] = {
+[119342] = {
 {
-"BattlePet-0-00000E0BBDD5",
-504,
+"BattlePet-0-00000E0BBEAB",
+118,
 574,
-802,
-1416,
+564,
+1568,
 },
 {
 "random:0",
@@ -14715,8 +14984,9 @@ Rematch4Saved = {
 "random:0",
 },
 ["tab"] = 2,
-["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://wow-petguide.com/Strategy/8979\n\nStrategy added by Threewolves\nTurn 1: Prowl\nTurn 2: Moonfire (Keep on CD)\nTurns 3+: Spirit Claws til done.\n*: Clean up with remaining pets if needed.\n",
-["teamName"] = "Deviate Flapper",
+["notes"] = "Xu-Fu's Pet Guides =^_^=\nhttps://www.wow-petguide.com/Strategy/6708\n\nStrategy added by Clarx\nTurn 1: Water Jet\nTurn 2: Dive\nTurn 3: Nature's Ward\nTurn 4: Water Jet\nTurn 5: Water Jet\nTurn 6: Water Jet\nTurn 7: Water Jet\nTurn 8: Dive\nAngry Geode dies here (latest) ... \nClean up the rest! (Pudle Terror is able to solo everything, depending on enemy-background pets)\n",
+["teamName"] = "Angry Geode",
+["minXP"] = 1,
 },
 [116791] = {
 {
@@ -14960,12 +15230,12 @@ Rematch4Settings = {
 ["BattlePet-0-000021A135EB"] = "QQQ52AM",
 ["BattlePet-0-00000E0BBF02"] = "QQQ91M7",
 ["BattlePet-0-00002114762B"] = "QQQA1M0",
-["BattlePet-0-00000E0BBEB4"] = "QQQ41HD",
-["BattlePet-0-00000E7AF511"] = "QQQ822H",
 ["BattlePet-0-00000E0BBE07"] = "QQQ31HN",
+["BattlePet-0-00000E7AF511"] = "QQQ822H",
+["BattlePet-0-00000E0BBEB4"] = "QQQ41HD",
 ["BattlePet-0-00000E7AF086"] = "QQQ322L",
 ["BattlePet-0-000021A151AD"] = "QQQA2JB",
-["BattlePet-0-000021A14EC2"] = "QQQ92JD",
+["BattlePet-0-00000E762BF6"] = "QQQ81NI",
 ["BattlePet-0-00000E0BBE8C"] = "QQQ71IF",
 ["BattlePet-0-00000E0BBE94"] = "QQQB1DN",
 ["BattlePet-0-000021A14C46"] = "QQQ42A5",
@@ -15000,7 +15270,7 @@ Rematch4Settings = {
 ["BattlePet-0-000021152E51"] = "QQQ31OI",
 ["BattlePet-0-00000E77F974"] = "QQQ81LQ",
 ["BattlePet-0-000021A1B919"] = "QQQ92IN",
-["BattlePet-0-00000E762BF6"] = "QQQ81NI",
+["BattlePet-0-000021A14EC2"] = "QQQ92JD",
 ["BattlePet-0-0000210BE6DA"] = "QQQ5374",
 ["BattlePet-0-000021A14706"] = "QQQC2AA",
 ["BattlePet-0-000021A14907"] = "QQQ62AF",
@@ -15054,13 +15324,13 @@ true,
 },
 ["Strong"] = {
 },
-["Similar"] = {
+["Sources"] = {
 },
 ["Breed"] = {
 },
 ["Script"] = {
 },
-["Sources"] = {
+["Similar"] = {
 },
 ["Level"] = {
 [4] = true,
@@ -15090,14 +15360,14 @@ true,
 },
 ["Rarity"] = {
 },
-["Similar"] = {
+["Sources"] = {
+[5] = true,
 },
 ["Breed"] = {
 },
 ["Script"] = {
 },
-["Sources"] = {
-[5] = true,
+["Similar"] = {
 },
 ["Level"] = {
 },
@@ -15119,9 +15389,9 @@ true,
 ["CornerPos"] = "BOTTOMLEFT",
 ["ShowAbilityNumbers"] = true,
 ["ShowOnTarget"] = true,
-["StrongVsLevel"] = true,
-["CustomScaleValue"] = 100,
 ["ShowLoadedTeam"] = false,
+["CustomScaleValue"] = 100,
+["StrongVsLevel"] = true,
 ["QueueActiveSort"] = true,
 ["ExpandedTargetHeaders"] = {
 },
@@ -15257,10 +15527,10 @@ true,
 ["ClickPetCard"] = false,
 ["StayForBattle"] = true,
 ["AllowHiddenPetsDefaulted"] = true,
-["NotesLeft"] = 1547.71435546875,
+["ImportTeamTabsToo"] = true,
 ["HideTooltips"] = false,
 ["PreferredMode"] = 1,
-["ImportTeamTabsToo"] = true,
+["NotesLeft"] = 1547.71435546875,
 ["Sanctuary"] = {
 ["BattlePet-0-000021A14258"] = {
 1,
@@ -16157,16 +16427,6 @@ true,
 325,
 4,
 },
-["BattlePet-0-00002114762B"] = {
-1,
-true,
-1728,
-23,
-1009,
-228,
-182,
-1,
-},
 ["BattlePet-0-000021A1B5B5"] = {
 1,
 true,
@@ -16176,6 +16436,16 @@ true,
 266,
 209,
 4,
+},
+["BattlePet-0-00002114762B"] = {
+1,
+true,
+1728,
+23,
+1009,
+228,
+182,
+1,
 },
 ["BattlePet-0-0000105DC65D"] = {
 1,
@@ -16187,16 +16457,6 @@ true,
 10,
 3,
 },
-["BattlePet-0-000021A148BC"] = {
-1,
-true,
-2380,
-23,
-1431,
-236,
-266,
-4,
-},
 ["BattlePet-0-00002105E37F"] = {
 1,
 true,
@@ -16205,6 +16465,16 @@ true,
 1546,
 289,
 260,
+4,
+},
+["BattlePet-0-000021A148BC"] = {
+1,
+true,
+2380,
+23,
+1431,
+236,
+266,
 4,
 },
 [2648] = {
@@ -16426,15 +16696,15 @@ true,
 ["random:8"] = {
 2,
 },
-["BattlePet-0-00000E0BBE3A"] = {
-3,
+["BattlePet-0-00000E0BBE8E"] = {
+1,
 true,
-568,
-25,
-1790,
-276,
-224,
-4,
+1455,
+23,
+1163,
+213,
+225,
+2,
 },
 ["BattlePet-0-00000E0BBCF5"] = {
 1,
@@ -16579,15 +16849,15 @@ true,
 244,
 4,
 },
-["BattlePet-0-00000E0BBC81"] = {
+["BattlePet-0-000021241BBB"] = {
 1,
 true,
-266,
-25,
-1481,
-305,
-257,
-4,
+3385,
+23,
+1210,
+209,
+219,
+2,
 },
 ["BattlePet-0-00000E0BBEF9"] = {
 1,
@@ -16599,24 +16869,24 @@ true,
 235,
 3,
 },
-["BattlePet-0-00000E0BBCA9"] = {
-9,
-true,
-277,
-25,
-1546,
-257,
-289,
-4,
-},
-["BattlePet-0-00000E0BBEFC"] = {
+["BattlePet-0-000021A13D8B"] = {
 1,
 true,
-1714,
+2400,
 23,
-1296,
-266,
-266,
+1328,
+221,
+246,
+3,
+},
+["BattlePet-0-00000E0BBD04"] = {
+1,
+true,
+641,
+25,
+1546,
+227,
+322,
 4,
 },
 ["BattlePet-0-00000E0BBE2D"] = {
@@ -16629,15 +16899,15 @@ true,
 305,
 4,
 },
-["BattlePet-0-000021A13D8B"] = {
-1,
+["BattlePet-0-00000E0BBCA9"] = {
+9,
 true,
-2400,
-23,
-1328,
-221,
-246,
-3,
+277,
+25,
+1546,
+257,
+289,
+4,
 },
 ["BattlePet-0-00000E0BBD9A"] = {
 8,
@@ -16649,14 +16919,14 @@ true,
 273,
 4,
 },
-["BattlePet-0-00000E0BBD04"] = {
+["BattlePet-0-00000E0BBEFC"] = {
 1,
 true,
-641,
-25,
-1546,
-227,
-322,
+1714,
+23,
+1296,
+266,
+266,
 4,
 },
 ["BattlePet-0-00000E0BBD22"] = {
@@ -16929,15 +17199,15 @@ true,
 260,
 4,
 },
-["BattlePet-0-000021241BBB"] = {
+["BattlePet-0-00000E0BBC81"] = {
 1,
 true,
-3385,
-23,
-1210,
-209,
-219,
-2,
+266,
+25,
+1481,
+305,
+257,
+4,
 },
 ["BattlePet-0-00000E826ACE"] = {
 1,
@@ -16989,15 +17259,15 @@ true,
 163,
 3,
 },
-["BattlePet-0-00000E0BBE8E"] = {
-1,
+["BattlePet-0-00000E0BBE3A"] = {
+3,
 true,
-1455,
-23,
-1163,
-213,
-225,
-2,
+568,
+25,
+1790,
+276,
+224,
+4,
 },
 ["BattlePet-0-00000E0BBD24"] = {
 3,
@@ -17298,7 +17568,6 @@ true,
 ["DontWarnMissing"] = false,
 ["QueueNoPreferences"] = false,
 ["AlwaysTeamTabs"] = false,
-["SinglePanel"] = true,
 ["TeamGroups"] = {
 {
 "Miscellaneous",
@@ -17333,6 +17602,7 @@ true,
 587740,
 },
 },
+["SinglePanel"] = true,
 ["Filters"] = {
 ["Other"] = {
 },
@@ -17346,9 +17616,9 @@ true,
 },
 ["Level"] = {
 },
-["Similar"] = {
-},
 ["Sources"] = {
+},
+["Similar"] = {
 },
 ["Breed"] = {
 },

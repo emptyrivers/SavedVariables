@@ -11,12 +11,19 @@ DataStore_Auctions_Characters = {
 {
 },
 {
+["lastUpdate"] = 1732574841,
+["lastAuctionsScan"] = 1732574533,
+["lastVisitDate"] = "2024/11/25 16:47",
 },
 {
 },
 {
 },
 {
+},
+{
+["lastUpdate"] = 1732575788,
+["lastVisitDate"] = "2024/11/25 17:03",
 },
 }
 DataStore_Auctions_AuctionsList = {

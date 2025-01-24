@@ -649,13 +649,13 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Adinakon",
 ["code"] = "use(#3) [round=1]\nuse(Hieb:219)\nuse(Explodieren:282)\nchange(next)",
 },
-["team:267"] = {
-["name"] = "My Beast's Bidding (2)",
-["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
-},
 ["team:95"] = {
 ["name"] = "Little Tommy Newcomer",
 ["code"] = "ability(Call Lightning:204)\nability(Build Turret:710) [self.ability(#1).usable]\nability(Metal Fist:384)\nchange(#1) [round=3 & self.aura(Mechanical:244).exists]\nability(Decoy:334)\nability(#1)\nchange(next)",
+},
+["team:267"] = {
+["name"] = "My Beast's Bidding (2)",
+["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
 },
 ["team:279"] = {
 ["name"] = "Bordin Steadyfist",
@@ -771,34 +771,33 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Only Pets Can Prevent Forest Fires",
 ["code"] = "ability(440) [enemy.round=1]\nability(595) [!weather(596)]\nability(421)\nchange(#2) [self(#1).dead & !self(#2).played]\nchange(#3) [self(#2).active]\nif [enemy(#2).active]\nability(369) [!enemy.aura(368).exists]\nability(445)\nendif\nif [enemy(#3).active]\nability(564)\nability(369) [!enemy.aura(368).exists]\nability(445)\nendif",
 },
-["team:5"] = {
-["author"] = "Emptyrivers-Bleeding Hollow",
-["name"] = "Gargra",
-["code"] = "change(#2) [enemy(#2).active & !self(#2).played]\nchange(#1) [self(#2).active]\nuse(Fel Immolate:901) [enemy(#3).active]\nuse(Supercharge:208)\nuse(Haywire:916)\nuse(Ion Cannon:209)\nchange(#3)",
-},
-["team:58"] = {
-["name"] = "Eye of the Stormling",
-["code"] = "use(Thunderbolt:779)\nuse(Explode:282)\nchange(next)",
-},
-["team:242"] = {
-["name"] = "Klutz's Battle Monkey",
-["code"] = "use(208) [ round=1 ]\nuse(204)\nuse(490) [ self.aura(512).duration=1 ]\nuse(490) [ enemy.aura(341).exists ]\nuse(436) [ self.aura(435).duration<=1 & enemy(#3).hp>227 ]\nuse(#1)\nchange(#2)",
-},
-["team:20"] = {
-["name"] = "My Beast's Bidding",
-["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
+["team:176"] = {
+["name"] = "Mini Manafiend Melee",
+["code"] = "ability(#1) [self(#3).active]\nability(Flyby:515) [round=1]\nability(Breath:115) [enemy.aura(Weakened Defenses:516).exists]\nability(Thunderbolt:779) [self(#2).active]\nability(Explode:282)\nchange(next)",
 },
 ["team:225"] = {
 ["name"] = "Vilefang",
 ["code"] = "ability(Ironskin:1758)\nability(Predatory Strike:518) [enemy.aura(Shattered Defenses:542).exists]\nability(#1)\nchange(next)",
 },
+["team:175"] = {
+["name"] = "Wastewalker Shu",
+["code"] = "change(#2) [self(#1).dead]\nability(Explode:282) [enemy(#3).hp<=618]\nability(Moonfire:595) [round=2]\nability(Evanescence:440) [self.aura(Whirlpool:512).exists]\nability(Evanescence:440) [enemy(#2).active]\nability(Arcane Blast:421)\nability(Missile:777) [self.round=1]\nability(Decoy:334) [self(#2).active & enemy(#2).active]\nability(Missile:777)",
+},
+["team:20"] = {
+["name"] = "My Beast's Bidding",
+["code"] = "if [ enemy(#1).active ]\n    ability(Minefield:634) [round=1]\n    ability(Missile:777) [ !enemy.hp.full ]\n    ability(Launch Rocket:293)\nendif\nif [ enemy(#2).active ]\n    ability(Launch Rocket:293)\n    ability(Ion Cannon:209) [ enemy.hp>659 ]\n    ability(Shock and Awe:646) [ enemy.hp<=659 & enemy.hp>369 ]\n    ability(Missile:777)\nendif\nif [ enemy(#3).active ]\n    change(#3) [ !self(#3).played ]\n    change(#2)\n    ability(Ion Cannon:209) [ enemy.hp<=1089 ]\n    ability(Shock and Awe:646)\n    ability(Missile:777)\nendif\nstandby\nchange(next)",
+},
+["team:58"] = {
+["name"] = "Eye of the Stormling",
+["code"] = "use(Thunderbolt:779)\nuse(Explode:282)\nchange(next)",
+},
 ["team:1"] = {
 ["name"] = "Flummoxed (Mech)",
 ["code"] = "use(Batter:455) [enemy(Gulp:1798).active & enemy.round>3]\nuse(Batter:455) [enemy(Egcellent:1793).active & enemy.round>2]\nuse(Sandstorm:453) [round=2]\nuse(Wind-Up:459)\nuse(Poison Protocol:1954)\nuse(Toxic Fumes:2349) [enemy(Red Wire:1794).active & !weather(Toxic Gas:2350)]\nuse(Corrosion:447)\nuse(Meteor Strike:407) [enemy.aura(Flamethrower:502).exists]\nuse(Flamethrower:503)\nchange(next)",
 },
-["team:175"] = {
-["name"] = "Wastewalker Shu",
-["code"] = "change(#2) [self(#1).dead]\nability(Explode:282) [enemy(#3).hp<=618]\nability(Moonfire:595) [round=2]\nability(Evanescence:440) [self.aura(Whirlpool:512).exists]\nability(Evanescence:440) [enemy(#2).active]\nability(Arcane Blast:421)\nability(Missile:777) [self.round=1]\nability(Decoy:334) [self(#2).active & enemy(#2).active]\nability(Missile:777)",
+["team:242"] = {
+["name"] = "Klutz's Battle Monkey",
+["code"] = "use(208) [ round=1 ]\nuse(204)\nuse(490) [ self.aura(512).duration=1 ]\nuse(490) [ enemy.aura(341).exists ]\nuse(436) [ self.aura(435).duration<=1 & enemy(#3).hp>227 ]\nuse(#1)\nchange(#2)",
 },
 ["team:44"] = {
 ["author"] = "Tinyrivers-Sargeras",
@@ -849,10 +848,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Rock Collector",
 ["code"] = "use(Whirlpool:513) [self.round=1 & !enemy.aura(Whirlpool:512).exists]\nuse(Whirlpool:513) [enemy.round=1 & !enemy.aura(Whirlpool:512).exists]\nuse(Renewing Mists:511) [enemy.round=2]\nuse(Surge:509)\nuse(Dive:564)\nuse(Water Jet:118)\nuse(#1)\nstandby\nchange(next)",
 },
-["team:118"] = {
+["team:107"] = {
 ["author"] = "Tinyrivers-Sargeras",
-["name"] = "Rocko Needs a Shave",
-["code"] = "ability(1347)",
+["name"] = "Oh, Ominitron",
+["code"] = "ability(453)\nability(406) [self.round=2]\nability(814)\nability(406)\nchange(#2) [!self(#2).played]\nchange(#3)\nability(334) [self.round=1]\nability(779) [enemy(#1).dead & enemy(#2).dead]\nability(115)",
 },
 ["team:263"] = {
 ["name"] = "Right Twice a Day",
@@ -871,10 +870,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Hyuna of the Shrines",
 ["code"] = "standby [self.aura(Stunned:927).exists & self(#3).played]\nchange(#3) [!self(#3).played & !enemy.ability(#2).usable & enemy(#3).active]\nchange(#2) [self(#3).played]\nability(Toxic Skin:1087) [round=1]\nability(Healing Flame:168) [enemy(#2).active & enemy.round=2]\nability(Black Claw:919) [enemy(#3).active & enemy.hpp>75 & !enemy.aura(Black Claw:918).exists & enemy.round>1]\nability(Flock:581) [enemy.aura(Black Claw:918).exists]\nability(#1)\nchange(next)",
 },
-["team:107"] = {
+["team:118"] = {
 ["author"] = "Tinyrivers-Sargeras",
-["name"] = "Oh, Ominitron",
-["code"] = "ability(453)\nability(406) [self.round=2]\nability(814)\nability(406)\nchange(#2) [!self(#2).played]\nchange(#3)\nability(334) [self.round=1]\nability(779) [enemy(#1).dead & enemy(#2).dead]\nability(115)",
+["name"] = "Rocko Needs a Shave",
+["code"] = "ability(1347)",
 },
 ["team:73"] = {
 ["author"] = "Tinyrivers-Sargeras",
@@ -904,9 +903,10 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["name"] = "Stand Up to Bullies",
 ["code"] = "if [enemy(#1).active & self(#1).active] \nability(652) [enemy.round=4] \nability(499) \nchange(#2) [self(#1).dead] \nendif \nif [self(#2).active] \nability(919) [!enemy.aura(918).exists] \nability(581) \nability(1370) \nchange(#1) [self(#2).dead] \nability(499) \nendif",
 },
-["team:176"] = {
-["name"] = "Mini Manafiend Melee",
-["code"] = "ability(#1) [self(#3).active]\nability(Flyby:515) [round=1]\nability(Breath:115) [enemy.aura(Weakened Defenses:516).exists]\nability(Thunderbolt:779) [self(#2).active]\nability(Explode:282)\nchange(next)",
+["team:5"] = {
+["author"] = "Emptyrivers-Bleeding Hollow",
+["name"] = "Gargra",
+["code"] = "change(#2) [enemy(#2).active & !self(#2).played]\nchange(#1) [self(#2).active]\nuse(Fel Immolate:901) [enemy(#3).active]\nuse(Supercharge:208)\nuse(Haywire:916)\nuse(Ion Cannon:209)\nchange(#3)",
 },
 ["team:87"] = {
 ["name"] = "Seeker Zusshi",
@@ -998,7 +998,7 @@ TD_DB_BATTLEPETSCRIPT_GLOBAL = {
 ["Default"] = {
 ["settings"] = {
 ["noWaitDeleteScript"] = true,
-["autoButtonHotKey"] = "0",
+["autoButtonHotKey"] = "`",
 },
 ["position"] = {
 ["y"] = -142.46484375,
