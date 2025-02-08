@@ -1,0 +1,7 @@
+
+DatamineData = {
+["ItemText"] = {
+},
+["Creature"] = {
+},
+}
