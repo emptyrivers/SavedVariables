@@ -2,7 +2,7 @@
 g_auctionHouseSortsBySearchContext = {
 {
 {
-["reverseSort"] = true,
+["reverseSort"] = false,
 ["sortOrder"] = 1,
 },
 {
@@ -12,7 +12,7 @@ g_auctionHouseSortsBySearchContext = {
 },
 {
 {
-["reverseSort"] = true,
+["reverseSort"] = false,
 ["sortOrder"] = 0,
 },
 {

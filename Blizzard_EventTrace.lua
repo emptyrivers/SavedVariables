@@ -1,21 +1,44 @@
 
 EventTraceSavedVars = {
 ["ShowTimestamp"] = true,
-["Size"] = {
-["Height"] = 402.5001525878906,
-["Width"] = 871.6668701171875,
-},
+["LogEventsWhenHidden"] = false,
 ["ShowArguments"] = true,
+["LogCREvents"] = false,
 ["Filters"] = {
 ["User"] = {
+{
+["enabled"] = true,
+["event"] = "ADDON_LOADED",
+["displayEvent"] = "ADDON_LOADED",
+},
+{
+["enabled"] = true,
+["event"] = "BAG_UPDATE_COOLDOWN",
+["displayEvent"] = "BAG_UPDATE_COOLDOWN",
+},
+{
+["enabled"] = true,
+["event"] = "CHAT_MSG_TRADESKILLS",
+["displayEvent"] = "CHAT_MSG_TRADESKILLS",
+},
 {
 ["enabled"] = true,
 ["event"] = "COMBAT_LOG_EVENT_UNFILTERED",
 ["displayEvent"] = "COMBAT_LOG_EVENT_UNFILTERED",
 },
 {
+["enabled"] = true,
+["event"] = "COMPANION_UPDATE",
+["displayEvent"] = "COMPANION_UPDATE",
+},
+{
 ["event"] = "CONSOLE_MESSAGE",
 ["enabled"] = true,
+},
+{
+["enabled"] = true,
+["event"] = "CRITERIA_UPDATE",
+["displayEvent"] = "CRITERIA_UPDATE",
 },
 {
 ["event"] = "GLOBAL_MOUSE_DOWN",
@@ -45,6 +68,11 @@ EventTraceSavedVars = {
 {
 ["event"] = "OBJECT_LEFT_AOI",
 ["enabled"] = true,
+},
+{
+["enabled"] = true,
+["event"] = "PLAYER_SOFT_INTERACT_CHANGED",
+["displayEvent"] = "PLAYER_SOFT_INTERACT_CHANGED",
 },
 {
 ["event"] = "PLAYER_STARTED_LOOKING",
@@ -81,8 +109,38 @@ EventTraceSavedVars = {
 },
 {
 ["enabled"] = true,
+["event"] = "SPELL_UPDATE_USABLE",
+["displayEvent"] = "SPELL_UPDATE_USABLE",
+},
+{
+["enabled"] = true,
+["event"] = "TOKEN_MARKET_PRICE_UPDATED",
+["displayEvent"] = "TOKEN_MARKET_PRICE_UPDATED",
+},
+{
+["enabled"] = true,
+["event"] = "UNIT_AURA",
+["displayEvent"] = "UNIT_AURA",
+},
+{
+["enabled"] = true,
+["event"] = "UNIT_FLAGS",
+["displayEvent"] = "UNIT_FLAGS",
+},
+{
+["enabled"] = true,
 ["event"] = "UNIT_MAXHEALTH",
 ["displayEvent"] = "UNIT_MAXHEALTH",
+},
+{
+["enabled"] = true,
+["event"] = "UNIT_POWER_FREQUENT",
+["displayEvent"] = "UNIT_POWER_FREQUENT",
+},
+{
+["enabled"] = true,
+["event"] = "UNIT_TARGET",
+["displayEvent"] = "UNIT_TARGET",
 },
 {
 ["enabled"] = true,
@@ -91,6 +149,8 @@ EventTraceSavedVars = {
 },
 },
 },
-["LogCREvents"] = false,
-["LogEventsWhenHidden"] = false,
+["Size"] = {
+["Height"] = 402.5001525878906,
+["Width"] = 871.6668701171875,
+},
 }

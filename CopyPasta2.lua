@@ -4,19 +4,23 @@ PasteDB = {
 ["Alluvium - Argent Dawn"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
 ["Sverdrup - Argent Dawn"] = "Default",
+["Doneer - Eredar"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
-["Gelae - Kel'Thuzad"] = "Default",
 ["Mangrove - Argent Dawn"] = "Default",
+["Gelae - Kel'Thuzad"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
 ["Alluvium - Argent Dawn"] = {
+["loaded"] = true,
+},
+["Sverdrup - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Esker - Kel'Thuzad"] = {
@@ -26,10 +30,10 @@ PasteDB = {
 ["pos"] = {
 },
 },
-["Sverdrup - Argent Dawn"] = {
+["Doneer - Eredar"] = {
 ["loaded"] = true,
 },
-["Stream - Argent Dawn"] = {
+["Mangrove - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Confluence - Argent Dawn"] = {
@@ -45,7 +49,7 @@ PasteDB = {
 ["Gelae - Kel'Thuzad"] = {
 ["loaded"] = true,
 },
-["Mangrove - Argent Dawn"] = {
+["Riparium - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Riptides - Argent Dawn"] = {
@@ -60,7 +64,7 @@ PasteDB = {
 ["Cataracts - Argent Dawn"] = {
 ["loaded"] = true,
 },
-["Riparium - Argent Dawn"] = {
+["Stream - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Estuary - Argent Dawn"] = {

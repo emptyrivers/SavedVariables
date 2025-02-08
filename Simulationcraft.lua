@@ -20,21 +20,22 @@ SimulationCraftDB = {
 ["Beefyrivers - Arthas"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
+["Doneer - Eredar"] = "Default",
 ["Mahntaiaga - Arthas"] = "Default",
-["Riptides - Argent Dawn"] = "Default",
 ["Sverdrup - Argent Dawn"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
 ["Lotic - Argent Dawn"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
 ["Riparium - Argent Dawn"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
 ["Garumn - Arthas"] = "Default",
+["Riptides - Argent Dawn"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
@@ -83,13 +84,15 @@ SimulationCraftDB = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
-["Ochrian - Argent Dawn"] = {
-},
-["Mahntaiaga - Arthas"] = {
+["Doneer - Eredar"] = {
 },
 ["Sverdrup - Argent Dawn"] = {
 },
+["Mahntaiaga - Arthas"] = {
+},
 ["Esker - Kel'Thuzad"] = {
+},
+["Garumn - Arthas"] = {
 },
 ["Emptyrivers - Sargeras"] = {
 },
@@ -97,11 +100,11 @@ SimulationCraftDB = {
 },
 ["Lotic - Argent Dawn"] = {
 },
-["Zimuures - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
 ["Mothugeon - Argent Dawn"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Zimuures - Argent Dawn"] = {
 },
 ["Riparium - Argent Dawn"] = {
 ["frame"] = {
@@ -124,9 +127,9 @@ SimulationCraftDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Garumn - Arthas"] = {
-},
 ["Riptides - Argent Dawn"] = {
+},
+["Ochrian - Argent Dawn"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },

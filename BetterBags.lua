@@ -4,840 +4,30 @@ BetterBagsDB = {
 ["Calestin - Sargeras"] = "Default",
 ["Strid - Kel'Thuzad"] = "Default",
 ["Stream - Argent Dawn"] = "Default",
+["Doneer - Eredar"] = "Default",
 ["Mangrove - Argent Dawn"] = "Default",
 ["Inundito - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
 ["Emptyrivers - Sargeras"] = "Default",
 ["Alluvium - Argent Dawn"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Benthos - Argent Dawn"] = "Default",
-["Gelae - Kel'Thuzad"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
+["Gelae - Kel'Thuzad"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
-["newItemTime"] = 60,
-["customCategoryFilters"] = {
-["|cffa335eeGooey Snailemental|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeGooey Snailemental|r",
-},
-["|cff16B7FFPrimal Storms|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff16B7FFPrimal Storms|r",
-},
-["Remix Stat"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-[211108] = true,
-[210717] = true,
-[211124] = true,
-[220370] = true,
-[220374] = true,
-[216639] = true,
-[79819] = true,
-[210714] = true,
-[210718] = true,
-[216643] = true,
-[220367] = true,
-[220371] = true,
-[211106] = true,
-[211110] = true,
-[211102] = true,
-[210715] = true,
-[216640] = true,
-[216644] = true,
-[220368] = true,
-[220372] = true,
-[211107] = true,
-[216641] = true,
-[210681] = true,
-[210716] = true,
-[211123] = true,
-[211103] = true,
-[220369] = true,
-[220373] = true,
-[211101] = true,
-},
-["name"] = "Remix Stat",
-},
-["|cff67CF9ESuperbloom|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff67CF9ESuperbloom|r",
-},
-["Back"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Back",
-},
-["Remix Tinker"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-[219516] = true,
-[216626] = true,
-[217957] = true,
-[212366] = true,
-[212760] = true,
-[216627] = true,
-[217903] = true,
-[216651] = true,
-[217927] = true,
-[216628] = true,
-[219944] = true,
-[219527] = true,
-[212361] = true,
-[217961] = true,
-[212362] = true,
-[219818] = true,
-[217907] = true,
-[212749] = true,
-[212694] = true,
-[219801] = true,
-[216647] = true,
-[216624] = true,
-[216649] = true,
-[216650] = true,
-[216648] = true,
-[219452] = true,
-[212758] = true,
-[216625] = true,
-[219389] = true,
-[219523] = true,
-[212916] = true,
-[217964] = true,
-[212365] = true,
-[219777] = true,
-[212759] = true,
-[219817] = true,
-},
-["name"] = "Remix Tinker",
-},
-["Hands"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Hands",
-},
-["Quest"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Quest",
-},
-["Enchanting"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Enchanting",
-},
-["|cffAFB42BContracts|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffAFB42BContracts|r",
-},
-["Elemental"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Elemental",
-},
-["Treasure Sacks"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Treasure Sacks",
-},
-["|cffff8040Reputation|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffff8040Reputation|r",
-},
-["|cff910951Fyrakk Assault|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff910951Fyrakk Assault|r",
-},
-["|cff0070ddProfession Knowledge|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddProfession Knowledge|r",
-},
-["Archaeology"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-[114222] = true,
-[136419] = true,
-[95384] = true,
-[63128] = true,
-[130909] = true,
-[130925] = true,
-[104198] = true,
-[89169] = true,
-[114175] = true,
-[114191] = true,
-[114207] = true,
-[114223] = true,
-[95385] = true,
-[160742] = true,
-[79910] = true,
-[130926] = true,
-[114144] = true,
-[160743] = true,
-[109586] = true,
-[114192] = true,
-[114208] = true,
-[114224] = true,
-[64396] = true,
-[160744] = true,
-[108439] = true,
-[79911] = true,
-[130927] = true,
-[114161] = true,
-[114145] = true,
-[89171] = true,
-[114177] = true,
-[114193] = true,
-[114209] = true,
-[89170] = true,
-[114174] = true,
-[95387] = true,
-[87399] = true,
-[114160] = true,
-[154913] = true,
-[79896] = true,
-[79912] = true,
-[130928] = true,
-[114142] = true,
-[114178] = true,
-[114146] = true,
-[114162] = true,
-[154914] = true,
-[114194] = true,
-[114210] = true,
-[95386] = true,
-[64397] = true,
-[95388] = true,
-[79908] = true,
-[114143] = true,
-[154915] = true,
-[79897] = true,
-[79913] = true,
-[130929] = true,
-[114163] = true,
-[154916] = true,
-[114147] = true,
-[89173] = true,
-[114179] = true,
-[114195] = true,
-[114211] = true,
-[109585] = true,
-[95373] = true,
-[95389] = true,
-[87548] = true,
-[130914] = true,
-[154917] = true,
-[79898] = true,
-[79914] = true,
-[130930] = true,
-[130911] = true,
-[64395] = true,
-[114148] = true,
-[114164] = true,
-[114180] = true,
-[114196] = true,
-[114212] = true,
-[114189] = true,
-[79899] = true,
-[95390] = true,
-[79915] = true,
-[114141] = true,
-[87533] = true,
-[87549] = true,
-[130915] = true,
-[130931] = true,
-[89175] = true,
-[183384] = true,
-[114149] = true,
-[114165] = true,
-[114181] = true,
-[114197] = true,
-[114213] = true,
-[87541] = true,
-[95375] = true,
-[183385] = true,
-[89176] = true,
-[79868] = true,
-[154921] = true,
-[79900] = true,
-[130916] = true,
-[130932] = true,
-[114182] = true,
-[164625] = true,
-[114150] = true,
-[114166] = true,
-[154922] = true,
-[114198] = true,
-[114214] = true,
-[130910] = true,
-[95376] = true,
-[154923] = true,
-[63127] = true,
-[79869] = true,
-[87535] = true,
-[79901] = true,
-[79917] = true,
-[130933] = true,
-[95382] = true,
-[114183] = true,
-[114151] = true,
-[114167] = true,
-[154924] = true,
-[114199] = true,
-[114215] = true,
-[114220] = true,
-[95377] = true,
-[87536] = true,
-[114188] = true,
-[130918] = true,
-[154925] = true,
-[79902] = true,
-[154989] = true,
-[130934] = true,
-[154926] = true,
-[154990] = true,
-[114152] = true,
-[114168] = true,
-[114184] = true,
-[114200] = true,
-[114216] = true,
-[87537] = true,
-[64392] = true,
-[130903] = true,
-[142113] = true,
-[154928] = true,
-[154927] = true,
-[79903] = true,
-[130919] = true,
-[130935] = true,
-[114217] = true,
-[87540] = true,
-[142114] = true,
-[114169] = true,
-[114185] = true,
-[114201] = true,
-[136632] = true,
-[117387] = true,
-[95379] = true,
-[117388] = true,
-[142115] = true,
-[136372] = true,
-[154929] = true,
-[79904] = true,
-[130920] = true,
-[117389] = true,
-[114186] = true,
-[118728] = true,
-[114154] = true,
-[114170] = true,
-[154930] = true,
-[114202] = true,
-[114218] = true,
-[114219] = true,
-[95380] = true,
-[154931] = true,
-[114187] = true,
-[79905] = true,
-[87539] = true,
-[130905] = true,
-[130921] = true,
-[114155] = true,
-[117390] = true,
-[118729] = true,
-[135488] = true,
-[114171] = true,
-[154932] = true,
-[114203] = true,
-[134086] = true,
-[89174] = true,
-[95381] = true,
-[130904] = true,
-[87538] = true,
-[122606] = true,
-[154933] = true,
-[130906] = true,
-[130922] = true,
-[114153] = true,
-[95378] = true,
-[118730] = true,
-[114156] = true,
-[114172] = true,
-[154934] = true,
-[114204] = true,
-[136383] = true,
-[117386] = true,
-[64394] = true,
-[64657] = true,
-[130917] = true,
-[114176] = true,
-[154935] = true,
-[130907] = true,
-[130923] = true,
-[79916] = true,
-[87534] = true,
-[118731] = true,
-[114157] = true,
-[114173] = true,
-[164626] = true,
-[114205] = true,
-[114221] = true,
-[52843] = true,
-[95383] = true,
-[130913] = true,
-[114159] = true,
-[130912] = true,
-[164627] = true,
-[130908] = true,
-[130924] = true,
-[160741] = true,
-[89172] = true,
-[118732] = true,
-[114158] = true,
-[109584] = true,
-[114190] = true,
-[114206] = true,
-[79909] = true,
-},
-["name"] = "Archaeology",
-},
-["|cffa335eeLizi's Reins|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeLizi's Reins|r",
-},
-["|cffFFAB00Primordial Stones|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffFFAB00Primordial Stones|r",
-},
-["Diamanthia Journal"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Diamanthia Journal",
-},
-["|cfff49813Eternal Threads|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cfff49813Eternal Threads|r",
-},
-["|cffB5D3E7Storm's Fury|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffB5D3E7Storm's Fury|r",
-},
-["Chest"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Chest",
-},
-["Fortune Cards"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Fortune Cards",
-},
-["|cff0070ddPhoenix Wishwing|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddPhoenix Wishwing|r",
-},
-["Finger"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Finger",
-},
-["|cffEDE4D3Time Rift|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffEDE4D3Time Rift|r",
-},
-["Remix Cogwheel"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-[216630] = true,
-[218045] = true,
-[216631] = true,
-[218003] = true,
-[218108] = true,
-[216632] = true,
-[218004] = true,
-[218043] = true,
-[218109] = true,
-[218082] = true,
-[216629] = true,
-[218046] = true,
-[218005] = true,
-[217989] = true,
-[218044] = true,
-[218110] = true,
-[217983] = true,
-},
-["name"] = "Remix Cogwheel",
-},
-["Cooking"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Cooking",
-},
-["Battle Pets"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Battle Pets",
-},
-["Recipe"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Recipe",
-},
-["Key"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Key",
-},
-["|cff88AAFFZskera Vault|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff88AAFFZskera Vault|r",
-},
-["Darkmoon Cards"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Darkmoon Cards",
-},
-["|cff67CF9EDreamsurge|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff67CF9EDreamsurge|r",
-},
-["|cfff49813Bronze|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cfff49813Bronze|r",
-},
-["|cffa335eeAwakened|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeAwakened|r",
-},
-["|cff56BBFFDrakewatcher Manuscript|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
-},
-["Gem"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Gem",
-},
-["Remix Meta"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-[221977] = true,
-[219386] = true,
-[216711] = true,
-[219878] = true,
-[220120] = true,
-[221982] = true,
-[216671] = true,
-[220117] = true,
-[216663] = true,
-[216695] = true,
-[220211] = true,
-},
-["name"] = "Remix Meta",
-},
-["|cffa335eeTemperamental Skyclaw|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeTemperamental Skyclaw|r",
-},
-["|cff0070ddChip|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff0070ddChip|r",
-},
-["|cffff8040Loamm|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffff8040Loamm|r",
-},
-["|cffa335eeMagmashell|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeMagmashell|r",
-},
-["Miscellaneous"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Miscellaneous",
-},
-["Free Space"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Free Space",
-},
-["Consumable"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Consumable",
-},
-["|cffff8040Crests|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffff8040Crests|r",
-},
-["|cffa335eeMossy Mammoth|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeMossy Mammoth|r",
-},
-["|cff88AAFFArtisan Curios|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff88AAFFArtisan Curios|r",
-},
-["Feet"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Feet",
-},
-["Glyph"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Glyph",
-},
-["|cffa335eeLoyal Magmammoth|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffa335eeLoyal Magmammoth|r",
-},
-},
-["sectionSort"] = {
-[0] = {
-nil,
-2,
-},
-},
 ["categoryOptions"] = {
 ["Tailoring - Classic"] = {
 ["shown"] = true,
@@ -1019,6 +209,9 @@ nil,
 ["Recipe - Jewelcrafting - The Burning Crusade"] = {
 ["shown"] = true,
 },
+["Gear: Survival"] = {
+["shown"] = true,
+},
 ["Remix Cogwheel"] = {
 ["shown"] = true,
 },
@@ -1089,6 +282,9 @@ nil,
 ["shown"] = true,
 },
 ["Tabard"] = {
+["shown"] = true,
+},
+["Recipe - Mists of Pandaria"] = {
 ["shown"] = true,
 },
 ["Other - Battle for Azeroth"] = {
@@ -1322,7 +518,10 @@ nil,
 ["Mining - Shadowlands"] = {
 ["shown"] = true,
 },
-["Other - Shadowlands"] = {
+["Recipe - The Burning Crusade"] = {
+["shown"] = true,
+},
+["Item Enhancement - The War Within"] = {
 ["shown"] = true,
 },
 ["Herbalism - The War Within"] = {
@@ -1334,7 +533,7 @@ nil,
 ["Enchanting - Wrath of the Lich King"] = {
 ["shown"] = true,
 },
-["Recipe - The Burning Crusade"] = {
+["Mining - The Burning Crusade"] = {
 ["shown"] = true,
 },
 ["Cooking - Mists of Pandaria"] = {
@@ -1346,28 +545,28 @@ nil,
 ["Gem - Classic"] = {
 ["shown"] = true,
 },
-["Jewelcrafting - The Burning Crusade"] = {
+["Jewelcrafting - Wrath of the Lich King"] = {
 ["shown"] = true,
 },
 ["|cff56BBFFDrakewatcher Manuscript|r"] = {
 ["shown"] = true,
 },
-["Jewelcrafting - Wrath of the Lich King"] = {
+["Quest - Quest - Classic"] = {
 ["shown"] = true,
 },
-["Gear: Outlaw"] = {
+["Recipe - Blacksmithing - Classic"] = {
 ["shown"] = true,
 },
 ["Elemental - Warlords of Draenor"] = {
 ["shown"] = true,
 },
-["Key - Classic"] = {
+["Consumable - Explosives and Devices - The War Within"] = {
 ["shown"] = true,
 },
 ["|cff0070ddDusty Prospector's Chest|r"] = {
 ["shown"] = true,
 },
-["|cffff8040Crests|r"] = {
+["Tailoring - Shadowlands"] = {
 ["shown"] = true,
 },
 ["|cffa335eeThrayir|r"] = {
@@ -1379,13 +578,13 @@ nil,
 ["Consumable"] = {
 ["shown"] = true,
 },
-["Tailoring - Shadowlands"] = {
+["Mining - Wrath of the Lich King"] = {
 ["shown"] = true,
 },
-["Cooking - The Burning Crusade"] = {
+["Gear: Brewmaster"] = {
 ["shown"] = true,
 },
-["Reagent - The War Within"] = {
+["Item Enhancement - Feet - The War Within"] = {
 ["shown"] = true,
 },
 ["Tailoring - The Burning Crusade"] = {
@@ -1394,7 +593,7 @@ nil,
 ["Mining - Mists of Pandaria"] = {
 ["shown"] = true,
 },
-["Gear: Enhancement"] = {
+["Tailoring - Wrath of the Lich King"] = {
 ["shown"] = true,
 },
 ["Miscellaneous - Other - Mists of Pandaria"] = {
@@ -1409,37 +608,37 @@ nil,
 ["Miscellaneous - Warlords of Draenor"] = {
 ["shown"] = true,
 },
-["Other - Classic"] = {
+["Recipe - Leatherworking - The War Within"] = {
 ["shown"] = true,
 },
-["Gear: Retribution"] = {
+["Gear: Frost"] = {
 ["shown"] = true,
 },
 ["Darkmoon Cards"] = {
 ["shown"] = true,
 },
-["Gear: Restoration"] = {
+["Gem - Dragonflight"] = {
 ["shown"] = true,
 },
 ["Reputation Insignia"] = {
 ["shown"] = true,
 },
-["Enchanting - Legion"] = {
+["|cff67CF9EDreamsurge|r"] = {
 ["shown"] = true,
 },
-["Gear: Preservation"] = {
+["Enchanting - Legion"] = {
 ["shown"] = true,
 },
 ["Consumable - Warlords of Draenor"] = {
 ["shown"] = true,
 },
-["Recipe - Legion"] = {
+["Recipe - Classic"] = {
+["shown"] = true,
+},
+["|cffa335eeAlunira|r"] = {
 ["shown"] = true,
 },
 ["Other - Wrath of the Lich King"] = {
-["shown"] = true,
-},
-["Leatherworking - Warlords of Draenor"] = {
 ["shown"] = true,
 },
 ["Item Enhancement - Weapon - Classic"] = {
@@ -1451,7 +650,7 @@ nil,
 ["Optional Reagents - The War Within"] = {
 ["shown"] = true,
 },
-["Consumable - Vantus Runes - The War Within"] = {
+["Recipe - Enchanting - Classic"] = {
 ["shown"] = true,
 },
 ["Mining - Classic"] = {
@@ -1460,13 +659,13 @@ nil,
 ["Battle Pets - BattlePet - Classic"] = {
 ["shown"] = true,
 },
-["Cooking"] = {
+["Quest - The War Within"] = {
 ["shown"] = true,
 },
 ["Consumable - Shadowlands"] = {
 ["shown"] = true,
 },
-["Recipe - Engineering - Classic"] = {
+["Leatherworking - The War Within"] = {
 ["shown"] = true,
 },
 ["|cffa335eeGooey Snailemental|r"] = {
@@ -1475,13 +674,13 @@ nil,
 ["Quest"] = {
 ["shown"] = true,
 },
-["Engineering"] = {
+["Recipe - Tailoring - The War Within"] = {
 ["shown"] = true,
 },
 ["|cffa335eeLizi's Reins|r"] = {
 ["shown"] = true,
 },
-["Recipe - Tailoring - The War Within"] = {
+["Engineering"] = {
 ["shown"] = true,
 },
 ["Gear: Devastation"] = {
@@ -1496,19 +695,19 @@ nil,
 ["Mining - Dragonflight"] = {
 ["shown"] = true,
 },
-["Item Enhancement - Warlords of Draenor"] = {
+["Battle Pet"] = {
 ["shown"] = true,
 },
-["Recipe - Jewelcrafting - The War Within"] = {
+["Quest - Legion"] = {
 ["shown"] = true,
 },
 ["Item Enhancement - Classic"] = {
 ["shown"] = true,
 },
-["Gem - Multiple Stats - The War Within"] = {
+["Herbalism - Legion"] = {
 ["shown"] = true,
 },
-["Tailoring - The War Within"] = {
+["Recent Items"] = {
 ["shown"] = true,
 },
 ["|cffAFB42BContracts|r"] = {
@@ -1517,7 +716,7 @@ nil,
 ["Gem - The Burning Crusade"] = {
 ["shown"] = true,
 },
-["|cff0070ddPhoenix Wishwing|r"] = {
+["Profession - The War Within"] = {
 ["shown"] = true,
 },
 ["Recipe - Cooking - Battle for Azeroth"] = {
@@ -1529,28 +728,28 @@ nil,
 ["|cff88AAFFZskera Vault|r"] = {
 ["shown"] = true,
 },
-["|cff56BBFFAirship Schematics|r"] = {
+["Neck"] = {
 ["shown"] = true,
 },
-["Enchanting - The Burning Crusade"] = {
+["Armor - Dragonflight"] = {
 ["shown"] = true,
 },
-["Diamanthia Journal"] = {
+["|cffff8040Reputation|r"] = {
 ["shown"] = true,
 },
 ["Battle Pets - Classic"] = {
 ["shown"] = true,
 },
-["Enchanting - Dragonflight"] = {
+["Gem - The War Within"] = {
 ["shown"] = true,
 },
-["Engineering - Shadowlands"] = {
+["Quest - Dragonflight"] = {
 ["shown"] = true,
 },
 ["Battle Pets"] = {
 ["shown"] = true,
 },
-["|cffFFAB00Primordial Stones|r"] = {
+["Elemental"] = {
 ["shown"] = true,
 },
 ["Mining - The War Within"] = {
@@ -1565,13 +764,13 @@ nil,
 ["Engineering - Dragonflight"] = {
 ["shown"] = true,
 },
-["Recipe - Blacksmithing - The War Within"] = {
+["Inscription - The War Within"] = {
 ["shown"] = true,
 },
 ["Recipe - Enchanting - Legion"] = {
 ["shown"] = true,
 },
-["Inscription - The War Within"] = {
+["|cffFFAB00Primordial Stones|r"] = {
 ["shown"] = true,
 },
 ["Jewelcrafting - Dragonflight"] = {
@@ -1610,40 +809,40 @@ nil,
 ["Miscellaneous - Other - Battle for Azeroth"] = {
 ["shown"] = true,
 },
-["Leatherworking"] = {
+["Mining"] = {
 ["shown"] = true,
 },
 ["Jewelcrafting - Classic"] = {
 ["shown"] = true,
 },
-["Cooking - The War Within"] = {
+["Tailoring - Warlords of Draenor"] = {
 ["shown"] = true,
 },
 ["Gear: Fury"] = {
 ["shown"] = true,
 },
-["Miscellaneous - Junk - Legion"] = {
-["shown"] = true,
-},
-["|cffAFB42BContracts - DF|r"] = {
+["Gem - Stamina - The War Within"] = {
 ["shown"] = true,
 },
 ["Glyph - Classic"] = {
 ["shown"] = true,
 },
-["Gem - Stamina - The War Within"] = {
+["|cffAFB42BContracts - DF|r"] = {
 ["shown"] = true,
 },
-["Tailoring - Warlords of Draenor"] = {
+["Miscellaneous - Junk - Legion"] = {
 ["shown"] = true,
 },
-["Mining"] = {
+["Cooking - The War Within"] = {
+["shown"] = true,
+},
+["Leatherworking"] = {
 ["shown"] = true,
 },
 ["Tradeskill"] = {
 ["shown"] = true,
 },
-["Elemental"] = {
+["Recipe - Blacksmithing - The War Within"] = {
 ["shown"] = true,
 },
 ["|cff88AAFFHallowfall Arathi|r"] = {
@@ -1652,40 +851,40 @@ nil,
 ["|cffff8040Crests - DF|r"] = {
 ["shown"] = true,
 },
-["Quest - Dragonflight"] = {
+["Engineering - Shadowlands"] = {
 ["shown"] = true,
 },
-["|cffff8040Reputation|r"] = {
+["Enchanting - Dragonflight"] = {
 ["shown"] = true,
 },
-["Gem - The War Within"] = {
+["Diamanthia Journal"] = {
 ["shown"] = true,
 },
-["Armor - Dragonflight"] = {
+["Enchanting - The Burning Crusade"] = {
 ["shown"] = true,
 },
-["Neck"] = {
+["|cff56BBFFAirship Schematics|r"] = {
 ["shown"] = true,
 },
 ["Archaeology"] = {
 ["shown"] = true,
 },
-["Profession - The War Within"] = {
+["|cff0070ddPhoenix Wishwing|r"] = {
 ["shown"] = true,
 },
 ["Miscellaneous - Shadowlands"] = {
 ["shown"] = true,
 },
-["Recent Items"] = {
+["Tailoring - The War Within"] = {
 ["shown"] = true,
 },
-["Herbalism - Legion"] = {
+["Gem - Multiple Stats - The War Within"] = {
 ["shown"] = true,
 },
-["Quest - Legion"] = {
+["Recipe - Jewelcrafting - The War Within"] = {
 ["shown"] = true,
 },
-["Battle Pet"] = {
+["Item Enhancement - Warlords of Draenor"] = {
 ["shown"] = true,
 },
 ["Fortune Cards"] = {
@@ -1706,40 +905,40 @@ nil,
 ["Leatherworking - Cataclysm"] = {
 ["shown"] = true,
 },
-["Quest - The War Within"] = {
+["Recipe - Engineering - Classic"] = {
 ["shown"] = true,
 },
-["Recipe - Enchanting - Classic"] = {
+["Cooking"] = {
 ["shown"] = true,
 },
-["Leatherworking - The War Within"] = {
+["Consumable - Vantus Runes - The War Within"] = {
 ["shown"] = true,
 },
-["|cffa335eeAlunira|r"] = {
+["Leatherworking - Warlords of Draenor"] = {
 ["shown"] = true,
 },
 ["Mining - Cataclysm"] = {
 ["shown"] = true,
 },
-["Recipe - Classic"] = {
+["Recipe - Legion"] = {
 ["shown"] = true,
 },
-["|cff67CF9EDreamsurge|r"] = {
+["Gear: Preservation"] = {
 ["shown"] = true,
 },
 ["|cfff49813Bronze|r"] = {
 ["shown"] = true,
 },
-["Gem - Dragonflight"] = {
+["Gear: Restoration"] = {
 ["shown"] = true,
 },
 ["Miscellaneous - Mists of Pandaria"] = {
 ["shown"] = true,
 },
-["Gear: Frost"] = {
+["Gear: Retribution"] = {
 ["shown"] = true,
 },
-["Recipe - Leatherworking - The War Within"] = {
+["Other - Classic"] = {
 ["shown"] = true,
 },
 ["Recipe - Tailoring - Legion"] = {
@@ -1751,37 +950,49 @@ nil,
 ["|cffff8040Loamm|r"] = {
 ["shown"] = true,
 },
-["Item Enhancement - Feet - The War Within"] = {
+["Gear: Enhancement"] = {
 ["shown"] = true,
 },
-["Gear: Brewmaster"] = {
+["Reagent - The War Within"] = {
 ["shown"] = true,
 },
-["Mining - Wrath of the Lich King"] = {
+["Cooking - The Burning Crusade"] = {
 ["shown"] = true,
 },
 ["|cffa335eeAwakened|r"] = {
 ["shown"] = true,
 },
-["Consumable - Explosives and Devices - The War Within"] = {
+["|cffff8040Crests|r"] = {
 ["shown"] = true,
 },
-["Recipe - Blacksmithing - Classic"] = {
+["Key - Classic"] = {
 ["shown"] = true,
 },
-["Mining - The Burning Crusade"] = {
+["Gear: Outlaw"] = {
 ["shown"] = true,
 },
-["Quest - Quest - Classic"] = {
+["Jewelcrafting - The Burning Crusade"] = {
 ["shown"] = true,
 },
 ["Consumable - The War Within"] = {
 ["shown"] = true,
 },
-["Item Enhancement - The War Within"] = {
+["Other - Shadowlands"] = {
 ["shown"] = true,
 },
 },
+["newItems"] = {
+{
+["showNewItemFlash"] = true,
+},
+},
+["sectionSort"] = {
+[0] = {
+nil,
+2,
+},
+},
+["newItemTime"] = 60,
 ["theme"] = "elvui",
 ["size"] = {
 {
@@ -1792,9 +1003,9 @@ nil,
 {
 [0] = {
 ["itemsPerRow"] = 20,
-["columnCount"] = 1,
-["height"] = 475.1302185058594,
 ["opacity"] = 79,
+["height"] = 475.1302185058594,
+["columnCount"] = 1,
 ["scale"] = 75,
 ["width"] = 458.3153076171875,
 },
@@ -2401,6 +1612,16 @@ true,
 ["name"] = "Recipe - Jewelcrafting - The Burning Crusade",
 ["dynamic"] = true,
 },
+["Gear: Survival"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gear: Survival",
+["dynamic"] = true,
+},
 ["|cff0070ddPhoenix Wishwing|r"] = {
 ["enabled"] = {
 true,
@@ -2635,6 +1856,16 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Tabard",
+["dynamic"] = true,
+},
+["Recipe - Mists of Pandaria"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Recipe - Mists of Pandaria",
 ["dynamic"] = true,
 },
 ["Other - Battle for Azeroth"] = {
@@ -3394,14 +2625,24 @@ true,
 ["name"] = "Mining - Shadowlands",
 ["dynamic"] = true,
 },
-["Other - Shadowlands"] = {
+["Recipe - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Other - Shadowlands",
+["name"] = "Recipe - The Burning Crusade",
+["dynamic"] = true,
+},
+["Item Enhancement - The War Within"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Item Enhancement - The War Within",
 ["dynamic"] = true,
 },
 ["Herbalism - The War Within"] = {
@@ -3434,14 +2675,14 @@ true,
 ["name"] = "Enchanting - Wrath of the Lich King",
 ["dynamic"] = true,
 },
-["Recipe - The Burning Crusade"] = {
+["Mining - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - The Burning Crusade",
+["name"] = "Mining - The Burning Crusade",
 ["dynamic"] = true,
 },
 ["Cooking - Mists of Pandaria"] = {
@@ -3474,14 +2715,14 @@ true,
 ["name"] = "Gem - Classic",
 ["dynamic"] = true,
 },
-["Jewelcrafting - The Burning Crusade"] = {
+["Jewelcrafting - Wrath of the Lich King"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Jewelcrafting - The Burning Crusade",
+["name"] = "Jewelcrafting - Wrath of the Lich King",
 ["dynamic"] = true,
 },
 ["|cff56BBFFDrakewatcher Manuscript|r"] = {
@@ -3493,24 +2734,24 @@ true,
 },
 ["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
 },
-["Jewelcrafting - Wrath of the Lich King"] = {
+["Quest - Quest - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Jewelcrafting - Wrath of the Lich King",
+["name"] = "Quest - Quest - Classic",
 ["dynamic"] = true,
 },
-["Gear: Outlaw"] = {
+["Recipe - Blacksmithing - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Outlaw",
+["name"] = "Recipe - Blacksmithing - Classic",
 ["dynamic"] = true,
 },
 ["Elemental - Warlords of Draenor"] = {
@@ -3523,14 +2764,14 @@ true,
 ["name"] = "Elemental - Warlords of Draenor",
 ["dynamic"] = true,
 },
-["Key - Classic"] = {
+["Consumable - Explosives and Devices - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Key - Classic",
+["name"] = "Consumable - Explosives and Devices - The War Within",
 ["dynamic"] = true,
 },
 ["|cff0070ddDusty Prospector's Chest|r"] = {
@@ -3542,14 +2783,15 @@ true,
 },
 ["name"] = "|cff0070ddDusty Prospector's Chest|r",
 },
-["|cffff8040Crests|r"] = {
+["Tailoring - Shadowlands"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffff8040Crests|r",
+["name"] = "Tailoring - Shadowlands",
+["dynamic"] = true,
 },
 ["|cffa335eeThrayir|r"] = {
 ["enabled"] = {
@@ -3580,34 +2822,34 @@ true,
 ["name"] = "Consumable",
 ["dynamic"] = true,
 },
-["Tailoring - Shadowlands"] = {
+["Mining - Wrath of the Lich King"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Tailoring - Shadowlands",
+["name"] = "Mining - Wrath of the Lich King",
 ["dynamic"] = true,
 },
-["Cooking - The Burning Crusade"] = {
+["Gear: Brewmaster"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Cooking - The Burning Crusade",
+["name"] = "Gear: Brewmaster",
 ["dynamic"] = true,
 },
-["Reagent - The War Within"] = {
+["Item Enhancement - Feet - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Reagent - The War Within",
+["name"] = "Item Enhancement - Feet - The War Within",
 ["dynamic"] = true,
 },
 ["Tailoring - The Burning Crusade"] = {
@@ -3630,14 +2872,14 @@ true,
 ["name"] = "Mining - Mists of Pandaria",
 ["dynamic"] = true,
 },
-["Gear: Enhancement"] = {
+["Tailoring - Wrath of the Lich King"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Enhancement",
+["name"] = "Tailoring - Wrath of the Lich King",
 ["dynamic"] = true,
 },
 ["Miscellaneous - Other - Mists of Pandaria"] = {
@@ -3679,24 +2921,24 @@ true,
 ["name"] = "Miscellaneous - Warlords of Draenor",
 ["dynamic"] = true,
 },
-["Other - Classic"] = {
+["Recipe - Leatherworking - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Other - Classic",
+["name"] = "Recipe - Leatherworking - The War Within",
 ["dynamic"] = true,
 },
-["Gear: Retribution"] = {
+["Gear: Frost"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Retribution",
+["name"] = "Gear: Frost",
 ["dynamic"] = true,
 },
 ["Leatherworking - Legion"] = {
@@ -3709,14 +2951,14 @@ true,
 ["name"] = "Leatherworking - Legion",
 ["dynamic"] = true,
 },
-["Quest"] = {
+["Gem - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Quest",
+["name"] = "Gem - Dragonflight",
 ["dynamic"] = true,
 },
 ["Reputation Insignia"] = {
@@ -3728,6 +2970,16 @@ true,
 },
 ["name"] = "Reputation Insignia",
 },
+["Gear: Preservation"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gear: Preservation",
+["dynamic"] = true,
+},
 ["Other - Wrath of the Lich King"] = {
 ["enabled"] = {
 true,
@@ -3737,15 +2989,6 @@ true,
 },
 ["name"] = "Other - Wrath of the Lich King",
 ["dynamic"] = true,
-},
-["|cff67CF9EDreamsurge|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cff67CF9EDreamsurge|r",
 },
 ["Consumable - Warlords of Draenor"] = {
 ["enabled"] = {
@@ -3757,15 +3000,24 @@ true,
 ["name"] = "Consumable - Warlords of Draenor",
 ["dynamic"] = true,
 },
-["Enchanting - Legion"] = {
+["Recipe - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Enchanting - Legion",
+["name"] = "Recipe - Classic",
 ["dynamic"] = true,
+},
+["|cffa335eeAlunira|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeAlunira|r",
 },
 ["Cooking - The War Within"] = {
 ["enabled"] = {
@@ -3775,16 +3027,6 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Cooking - The War Within",
-["dynamic"] = true,
-},
-["Leatherworking - Warlords of Draenor"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Leatherworking - Warlords of Draenor",
 ["dynamic"] = true,
 },
 ["Item Enhancement - Weapon - Classic"] = {
@@ -3817,14 +3059,14 @@ true,
 ["name"] = "Optional Reagents - The War Within",
 ["dynamic"] = true,
 },
-["Consumable - Vantus Runes - The War Within"] = {
+["Recipe - Enchanting - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Vantus Runes - The War Within",
+["name"] = "Recipe - Enchanting - Classic",
 ["dynamic"] = true,
 },
 ["Mining - Classic"] = {
@@ -3847,14 +3089,14 @@ true,
 ["name"] = "Battle Pets - BattlePet - Classic",
 ["dynamic"] = true,
 },
-["Cooking"] = {
+["Quest - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Cooking",
+["name"] = "Quest - The War Within",
 ["dynamic"] = true,
 },
 ["Consumable - Shadowlands"] = {
@@ -3867,14 +3109,14 @@ true,
 ["name"] = "Consumable - Shadowlands",
 ["dynamic"] = true,
 },
-["Recipe - Engineering - Classic"] = {
+["Enchanting - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Engineering - Classic",
+["name"] = "Enchanting - The Burning Crusade",
 ["dynamic"] = true,
 },
 ["|cffa335eeGooey Snailemental|r"] = {
@@ -3895,14 +3137,14 @@ true,
 },
 ["name"] = "Battle Pet",
 },
-["Engineering"] = {
+["Recipe - Tailoring - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Engineering",
+["name"] = "Recipe - Tailoring - The War Within",
 ["dynamic"] = true,
 },
 ["|cffa335eeLizi's Reins|r"] = {
@@ -3914,14 +3156,14 @@ true,
 },
 ["name"] = "|cffa335eeLizi's Reins|r",
 },
-["Recipe - Tailoring - The War Within"] = {
+["Engineering"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Tailoring - The War Within",
+["name"] = "Engineering",
 ["dynamic"] = true,
 },
 ["Recipe - Legion"] = {
@@ -3964,24 +3206,24 @@ true,
 ["name"] = "Mining - Dragonflight",
 ["dynamic"] = true,
 },
-["Gear: Restoration"] = {
+["Enchanting - Mists of Pandaria"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Restoration",
+["name"] = "Enchanting - Mists of Pandaria",
 ["dynamic"] = true,
 },
-["Consumable - Potions - The War Within"] = {
+["Recipe - Jewelcrafting - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Potions - The War Within",
+["name"] = "Recipe - Jewelcrafting - The War Within",
 ["dynamic"] = true,
 },
 ["Item Enhancement - Classic"] = {
@@ -3994,24 +3236,24 @@ true,
 ["name"] = "Item Enhancement - Classic",
 ["dynamic"] = true,
 },
-["|cff56BBFFAirship Schematics|r"] = {
+["Herbalism - Legion"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cff56BBFFAirship Schematics|r",
-},
-["Quest - Legion"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Quest - Legion",
+["name"] = "Herbalism - Legion",
 ["dynamic"] = true,
+},
+["|cffAFB42BContracts|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffAFB42BContracts|r",
 },
 ["Tailoring"] = {
 ["enabled"] = {
@@ -4033,15 +3275,14 @@ true,
 ["name"] = "Gem - The Burning Crusade",
 ["dynamic"] = true,
 },
-["Remix Cogwheel"] = {
+["|cffff8040Reputation - DF|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Remix Cogwheel",
-["dynamic"] = true,
+["name"] = "|cffff8040Reputation - DF|r",
 },
 ["Recipe - Cooking - Battle for Azeroth"] = {
 ["enabled"] = {
@@ -4072,35 +3313,34 @@ true,
 },
 ["name"] = "|cff88AAFFZskera Vault|r",
 },
-["Gem - Multiple Stats - The War Within"] = {
+["Herbalism"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gem - Multiple Stats - The War Within",
+["name"] = "Herbalism",
 ["dynamic"] = true,
 },
-["Leatherworking - The Burning Crusade"] = {
+["Neck"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Leatherworking - The Burning Crusade",
+["name"] = "Neck",
 ["dynamic"] = true,
 },
-["Consumable - Battle for Azeroth"] = {
+["|cffff8040Reputation|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Battle for Azeroth",
-["dynamic"] = true,
+["name"] = "|cffff8040Reputation|r",
 },
 ["Battle Pets - Classic"] = {
 ["enabled"] = {
@@ -4112,24 +3352,24 @@ true,
 ["name"] = "Battle Pets - Classic",
 ["dynamic"] = true,
 },
-["Enchanting - Dragonflight"] = {
+["Gem - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Enchanting - Dragonflight",
+["name"] = "Gem - The War Within",
 ["dynamic"] = true,
 },
-["Engineering - Shadowlands"] = {
+["Glyph - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Engineering - Shadowlands",
+["name"] = "Glyph - Classic",
 ["dynamic"] = true,
 },
 ["Armor"] = {
@@ -4142,14 +3382,14 @@ true,
 ["name"] = "Armor",
 ["dynamic"] = true,
 },
-["Inscription - The War Within"] = {
+["Elemental"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Inscription - The War Within",
+["name"] = "Elemental",
 ["dynamic"] = true,
 },
 ["Mining - The War Within"] = {
@@ -4192,15 +3432,14 @@ true,
 ["name"] = "Engineering - Dragonflight",
 ["dynamic"] = true,
 },
-["Recipe - Blacksmithing - The War Within"] = {
+["|cffFFAB00Primordial Stones|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Blacksmithing - The War Within",
-["dynamic"] = true,
+["name"] = "|cffFFAB00Primordial Stones|r",
 },
 ["|cff88AAFFHallowfall Arathi|r"] = {
 ["enabled"] = {
@@ -4211,14 +3450,15 @@ true,
 },
 ["name"] = "|cff88AAFFHallowfall Arathi|r",
 },
-["|cffFFAB00Primordial Stones|r"] = {
+["Inscription - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffFFAB00Primordial Stones|r",
+["name"] = "Inscription - The War Within",
+["dynamic"] = true,
 },
 ["Jewelcrafting - Dragonflight"] = {
 ["enabled"] = {
@@ -4339,15 +3579,14 @@ true,
 ["name"] = "Miscellaneous - Other - Battle for Azeroth",
 ["dynamic"] = true,
 },
-["Leatherworking"] = {
+["Darkmoon Cards"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Leatherworking",
-["dynamic"] = true,
+["name"] = "Darkmoon Cards",
 },
 ["Jewelcrafting - Classic"] = {
 ["enabled"] = {
@@ -4357,64 +3596,6 @@ true,
 ["itemList"] = {
 },
 ["name"] = "Jewelcrafting - Classic",
-["dynamic"] = true,
-},
-["|cffAFB42BContracts - DF|r"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "|cffAFB42BContracts - DF|r",
-},
-["Gear: Fury"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Gear: Fury",
-["dynamic"] = true,
-},
-["Mining"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Mining",
-["dynamic"] = true,
-},
-["Gem - Stamina - The War Within"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Gem - Stamina - The War Within",
-["dynamic"] = true,
-},
-["Diamanthia Journal"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Diamanthia Journal",
-},
-["Leatherworking - The War Within"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Leatherworking - The War Within",
 ["dynamic"] = true,
 },
 ["Tailoring - Warlords of Draenor"] = {
@@ -4427,14 +3608,73 @@ true,
 ["name"] = "Tailoring - Warlords of Draenor",
 ["dynamic"] = true,
 },
-["Darkmoon Cards"] = {
+["Gear: Fury"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Darkmoon Cards",
+["name"] = "Gear: Fury",
+["dynamic"] = true,
+},
+["Leatherworking - The War Within"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Leatherworking - The War Within",
+["dynamic"] = true,
+},
+["Diamanthia Journal"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Diamanthia Journal",
+},
+["Gem - Stamina - The War Within"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gem - Stamina - The War Within",
+["dynamic"] = true,
+},
+["Mining"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Mining",
+["dynamic"] = true,
+},
+["|cffAFB42BContracts - DF|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffAFB42BContracts - DF|r",
+},
+["Leatherworking"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Leatherworking",
+["dynamic"] = true,
 },
 ["Tradeskill"] = {
 ["enabled"] = {
@@ -4446,14 +3686,14 @@ true,
 ["name"] = "Tradeskill",
 ["dynamic"] = true,
 },
-["Elemental"] = {
+["Recipe - Blacksmithing - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Elemental",
+["name"] = "Recipe - Blacksmithing - The War Within",
 ["dynamic"] = true,
 },
 ["Recipe - Enchanting - Legion"] = {
@@ -4475,53 +3715,54 @@ true,
 },
 ["name"] = "|cffff8040Crests - DF|r",
 },
-["Glyph - Classic"] = {
+["Engineering - Shadowlands"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Glyph - Classic",
+["name"] = "Engineering - Shadowlands",
 ["dynamic"] = true,
 },
-["|cffff8040Reputation|r"] = {
+["Enchanting - Dragonflight"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffff8040Reputation|r",
-},
-["Gem - The War Within"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Gem - The War Within",
+["name"] = "Enchanting - Dragonflight",
 ["dynamic"] = true,
 },
-["Neck"] = {
+["Consumable - Battle for Azeroth"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Neck",
+["name"] = "Consumable - Battle for Azeroth",
 ["dynamic"] = true,
 },
-["Herbalism"] = {
+["Leatherworking - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Herbalism",
+["name"] = "Leatherworking - The Burning Crusade",
+["dynamic"] = true,
+},
+["Gem - Multiple Stats - The War Within"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gem - Multiple Stats - The War Within",
 ["dynamic"] = true,
 },
 ["Archaeology"] = {
@@ -4533,14 +3774,15 @@ false,
 },
 ["name"] = "Archaeology",
 },
-["|cffff8040Reputation - DF|r"] = {
+["Remix Cogwheel"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffff8040Reputation - DF|r",
+["name"] = "Remix Cogwheel",
+["dynamic"] = true,
 },
 ["Miscellaneous - Shadowlands"] = {
 ["enabled"] = {
@@ -4552,43 +3794,43 @@ true,
 ["name"] = "Miscellaneous - Shadowlands",
 ["dynamic"] = true,
 },
-["|cffAFB42BContracts|r"] = {
+["Quest - Legion"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffAFB42BContracts|r",
-},
-["Herbalism - Legion"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Herbalism - Legion",
+["name"] = "Quest - Legion",
 ["dynamic"] = true,
 },
-["Recipe - Jewelcrafting - The War Within"] = {
+["|cff56BBFFAirship Schematics|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Jewelcrafting - The War Within",
+["name"] = "|cff56BBFFAirship Schematics|r",
+},
+["Consumable - Potions - The War Within"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Consumable - Potions - The War Within",
 ["dynamic"] = true,
 },
-["Enchanting - Mists of Pandaria"] = {
+["Gear: Restoration"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Enchanting - Mists of Pandaria",
+["name"] = "Gear: Restoration",
 ["dynamic"] = true,
 },
 ["Fortune Cards"] = {
@@ -4649,44 +3891,45 @@ true,
 ["name"] = "Leatherworking - Cataclysm",
 ["dynamic"] = true,
 },
-["Quest - The War Within"] = {
+["Recipe - Engineering - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Quest - The War Within",
+["name"] = "Recipe - Engineering - Classic",
 ["dynamic"] = true,
 },
-["Recipe - Enchanting - Classic"] = {
+["Cooking"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Enchanting - Classic",
+["name"] = "Cooking",
 ["dynamic"] = true,
 },
-["Enchanting - The Burning Crusade"] = {
+["Consumable - Vantus Runes - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Enchanting - The Burning Crusade",
+["name"] = "Consumable - Vantus Runes - The War Within",
 ["dynamic"] = true,
 },
-["|cffa335eeAlunira|r"] = {
+["Leatherworking - Warlords of Draenor"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "|cffa335eeAlunira|r",
+["name"] = "Leatherworking - Warlords of Draenor",
+["dynamic"] = true,
 },
 ["Mining - Cataclysm"] = {
 ["enabled"] = {
@@ -4698,25 +3941,24 @@ true,
 ["name"] = "Mining - Cataclysm",
 ["dynamic"] = true,
 },
-["Recipe - Classic"] = {
+["Enchanting - Legion"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Classic",
+["name"] = "Enchanting - Legion",
 ["dynamic"] = true,
 },
-["Gear: Preservation"] = {
+["|cff67CF9EDreamsurge|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Preservation",
-["dynamic"] = true,
+["name"] = "|cff67CF9EDreamsurge|r",
 },
 ["|cfff49813Bronze|r"] = {
 ["enabled"] = {
@@ -4727,14 +3969,14 @@ true,
 },
 ["name"] = "|cfff49813Bronze|r",
 },
-["Gem - Dragonflight"] = {
+["Quest"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gem - Dragonflight",
+["name"] = "Quest",
 ["dynamic"] = true,
 },
 ["Miscellaneous - Mists of Pandaria"] = {
@@ -4747,24 +3989,24 @@ true,
 ["name"] = "Miscellaneous - Mists of Pandaria",
 ["dynamic"] = true,
 },
-["Gear: Frost"] = {
+["Gear: Retribution"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Frost",
+["name"] = "Gear: Retribution",
 ["dynamic"] = true,
 },
-["Recipe - Leatherworking - The War Within"] = {
+["Other - Classic"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Leatherworking - The War Within",
+["name"] = "Other - Classic",
 ["dynamic"] = true,
 },
 ["Recipe - Tailoring - Legion"] = {
@@ -4795,34 +4037,34 @@ true,
 },
 ["name"] = "|cffff8040Loamm|r",
 },
-["Item Enhancement - Feet - The War Within"] = {
+["Gear: Enhancement"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Item Enhancement - Feet - The War Within",
+["name"] = "Gear: Enhancement",
 ["dynamic"] = true,
 },
-["Gear: Brewmaster"] = {
+["Reagent - The War Within"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Gear: Brewmaster",
+["name"] = "Reagent - The War Within",
 ["dynamic"] = true,
 },
-["Mining - Wrath of the Lich King"] = {
+["Cooking - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Mining - Wrath of the Lich King",
+["name"] = "Cooking - The Burning Crusade",
 ["dynamic"] = true,
 },
 ["|cffa335eeAwakened|r"] = {
@@ -4834,44 +4076,43 @@ true,
 },
 ["name"] = "|cffa335eeAwakened|r",
 },
-["Consumable - Explosives and Devices - The War Within"] = {
+["|cffff8040Crests|r"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Consumable - Explosives and Devices - The War Within",
+["name"] = "|cffff8040Crests|r",
+},
+["Key - Classic"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Key - Classic",
 ["dynamic"] = true,
 },
-["Recipe - Blacksmithing - Classic"] = {
+["Gear: Outlaw"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Recipe - Blacksmithing - Classic",
+["name"] = "Gear: Outlaw",
 ["dynamic"] = true,
 },
-["Mining - The Burning Crusade"] = {
+["Jewelcrafting - The Burning Crusade"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Mining - The Burning Crusade",
-["dynamic"] = true,
-},
-["Quest - Quest - Classic"] = {
-["enabled"] = {
-true,
-[0] = true,
-},
-["itemList"] = {
-},
-["name"] = "Quest - Quest - Classic",
+["name"] = "Jewelcrafting - The Burning Crusade",
 ["dynamic"] = true,
 },
 ["Consumable - The War Within"] = {
@@ -4884,14 +4125,14 @@ true,
 ["name"] = "Consumable - The War Within",
 ["dynamic"] = true,
 },
-["Item Enhancement - The War Within"] = {
+["Other - Shadowlands"] = {
 ["enabled"] = {
 true,
 [0] = true,
 },
 ["itemList"] = {
 },
-["name"] = "Item Enhancement - The War Within",
+["name"] = "Other - Shadowlands",
 ["dynamic"] = true,
 },
 },
@@ -4905,9 +4146,808 @@ true,
 ["scale"] = 1,
 },
 },
-["newItems"] = {
-{
-["showNewItemFlash"] = true,
+["customCategoryFilters"] = {
+["|cffa335eeGooey Snailemental|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeGooey Snailemental|r",
+},
+["|cff16B7FFPrimal Storms|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff16B7FFPrimal Storms|r",
+},
+["Remix Stat"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+[211108] = true,
+[210717] = true,
+[211124] = true,
+[220370] = true,
+[220374] = true,
+[211101] = true,
+[216643] = true,
+[210714] = true,
+[210718] = true,
+[79819] = true,
+[220367] = true,
+[220371] = true,
+[211106] = true,
+[211110] = true,
+[211102] = true,
+[210715] = true,
+[216640] = true,
+[216644] = true,
+[220368] = true,
+[220372] = true,
+[211107] = true,
+[211103] = true,
+[210681] = true,
+[210716] = true,
+[211123] = true,
+[216641] = true,
+[220369] = true,
+[220373] = true,
+[216639] = true,
+},
+["name"] = "Remix Stat",
+},
+["|cff67CF9ESuperbloom|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff67CF9ESuperbloom|r",
+},
+["Back"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Back",
+},
+["Remix Tinker"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+[219516] = true,
+[216626] = true,
+[217957] = true,
+[212366] = true,
+[212760] = true,
+[216627] = true,
+[217903] = true,
+[216651] = true,
+[217927] = true,
+[216628] = true,
+[219944] = true,
+[219527] = true,
+[212361] = true,
+[217961] = true,
+[212362] = true,
+[219817] = true,
+[217907] = true,
+[212749] = true,
+[212694] = true,
+[219801] = true,
+[219777] = true,
+[216624] = true,
+[212365] = true,
+[216650] = true,
+[216648] = true,
+[219389] = true,
+[212758] = true,
+[219523] = true,
+[219452] = true,
+[216625] = true,
+[212916] = true,
+[217964] = true,
+[216649] = true,
+[216647] = true,
+[212759] = true,
+[219818] = true,
+},
+["name"] = "Remix Tinker",
+},
+["Hands"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Hands",
+},
+["Quest"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Quest",
+},
+["Enchanting"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Enchanting",
+},
+["|cffAFB42BContracts|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffAFB42BContracts|r",
+},
+["Elemental"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Elemental",
+},
+["Treasure Sacks"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Treasure Sacks",
+},
+["|cffff8040Reputation|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffff8040Reputation|r",
+},
+["|cff910951Fyrakk Assault|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff910951Fyrakk Assault|r",
+},
+["|cff0070ddProfession Knowledge|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff0070ddProfession Knowledge|r",
+},
+["Archaeology"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+[114222] = true,
+[136419] = true,
+[95384] = true,
+[63128] = true,
+[130909] = true,
+[130925] = true,
+[104198] = true,
+[89169] = true,
+[114175] = true,
+[114191] = true,
+[114207] = true,
+[114223] = true,
+[95385] = true,
+[160742] = true,
+[79910] = true,
+[130926] = true,
+[114144] = true,
+[160743] = true,
+[109586] = true,
+[114192] = true,
+[114208] = true,
+[114224] = true,
+[64396] = true,
+[160744] = true,
+[108439] = true,
+[79911] = true,
+[130927] = true,
+[79909] = true,
+[114145] = true,
+[89171] = true,
+[114177] = true,
+[114193] = true,
+[114209] = true,
+[89170] = true,
+[87399] = true,
+[95387] = true,
+[109584] = true,
+[114160] = true,
+[154913] = true,
+[79896] = true,
+[79912] = true,
+[130928] = true,
+[118732] = true,
+[114162] = true,
+[114146] = true,
+[89172] = true,
+[154914] = true,
+[114194] = true,
+[114210] = true,
+[160741] = true,
+[95388] = true,
+[64397] = true,
+[130908] = true,
+[114143] = true,
+[154915] = true,
+[79897] = true,
+[79913] = true,
+[130929] = true,
+[130912] = true,
+[114159] = true,
+[114147] = true,
+[89173] = true,
+[114179] = true,
+[114195] = true,
+[114211] = true,
+[130913] = true,
+[95373] = true,
+[95389] = true,
+[79898] = true,
+[130930] = true,
+[154917] = true,
+[87548] = true,
+[79914] = true,
+[52843] = true,
+[130911] = true,
+[64395] = true,
+[114148] = true,
+[114164] = true,
+[114180] = true,
+[114196] = true,
+[114212] = true,
+[164626] = true,
+[87549] = true,
+[95390] = true,
+[130915] = true,
+[118731] = true,
+[87533] = true,
+[79899] = true,
+[79915] = true,
+[130931] = true,
+[154921] = true,
+[183384] = true,
+[114149] = true,
+[114165] = true,
+[114181] = true,
+[114197] = true,
+[114213] = true,
+[130916] = true,
+[95375] = true,
+[183385] = true,
+[114166] = true,
+[79868] = true,
+[87534] = true,
+[79900] = true,
+[79916] = true,
+[130932] = true,
+[154922] = true,
+[154935] = true,
+[114150] = true,
+[89176] = true,
+[114182] = true,
+[114198] = true,
+[114214] = true,
+[114176] = true,
+[95376] = true,
+[79917] = true,
+[64657] = true,
+[79869] = true,
+[87535] = true,
+[79901] = true,
+[130917] = true,
+[130933] = true,
+[64394] = true,
+[117386] = true,
+[114151] = true,
+[114167] = true,
+[154924] = true,
+[114199] = true,
+[114215] = true,
+[136383] = true,
+[95377] = true,
+[154925] = true,
+[154934] = true,
+[154989] = true,
+[87536] = true,
+[79902] = true,
+[130918] = true,
+[130934] = true,
+[114184] = true,
+[114216] = true,
+[114152] = true,
+[114168] = true,
+[154926] = true,
+[114200] = true,
+[154990] = true,
+[64392] = true,
+[95378] = true,
+[142114] = true,
+[142113] = true,
+[114185] = true,
+[154927] = true,
+[79903] = true,
+[130919] = true,
+[130935] = true,
+[136632] = true,
+[154933] = true,
+[114153] = true,
+[114169] = true,
+[154928] = true,
+[114201] = true,
+[114217] = true,
+[122606] = true,
+[95379] = true,
+[154929] = true,
+[142115] = true,
+[79904] = true,
+[87538] = true,
+[130904] = true,
+[130920] = true,
+[117389] = true,
+[89174] = true,
+[118728] = true,
+[114154] = true,
+[114170] = true,
+[154930] = true,
+[114202] = true,
+[114218] = true,
+[134086] = true,
+[95380] = true,
+[87539] = true,
+[154932] = true,
+[130905] = true,
+[154931] = true,
+[79905] = true,
+[130921] = true,
+[135488] = true,
+[117390] = true,
+[118729] = true,
+[114155] = true,
+[114171] = true,
+[114187] = true,
+[114203] = true,
+[114219] = true,
+[114186] = true,
+[95381] = true,
+[136372] = true,
+[117388] = true,
+[117387] = true,
+[87540] = true,
+[130906] = true,
+[130922] = true,
+[130903] = true,
+[87537] = true,
+[118730] = true,
+[114156] = true,
+[114172] = true,
+[114188] = true,
+[114204] = true,
+[114220] = true,
+[114183] = true,
+[95382] = true,
+[63127] = true,
+[154923] = true,
+[130910] = true,
+[164625] = true,
+[130907] = true,
+[130923] = true,
+[87541] = true,
+[89175] = true,
+[114141] = true,
+[114157] = true,
+[114173] = true,
+[114189] = true,
+[114205] = true,
+[114221] = true,
+[130914] = true,
+[95383] = true,
+[109585] = true,
+[154916] = true,
+[114163] = true,
+[164627] = true,
+[79908] = true,
+[130924] = true,
+[95386] = true,
+[114178] = true,
+[114142] = true,
+[114158] = true,
+[114174] = true,
+[114190] = true,
+[114206] = true,
+[114161] = true,
+},
+["name"] = "Archaeology",
+},
+["|cffa335eeLizi's Reins|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeLizi's Reins|r",
+},
+["|cffff8040Crests|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffff8040Crests|r",
+},
+["Diamanthia Journal"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Diamanthia Journal",
+},
+["|cfff49813Eternal Threads|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cfff49813Eternal Threads|r",
+},
+["|cffB5D3E7Storm's Fury|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffB5D3E7Storm's Fury|r",
+},
+["Chest"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Chest",
+},
+["Fortune Cards"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Fortune Cards",
+},
+["|cff0070ddPhoenix Wishwing|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff0070ddPhoenix Wishwing|r",
+},
+["Finger"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Finger",
+},
+["|cffEDE4D3Time Rift|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffEDE4D3Time Rift|r",
+},
+["Feet"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Feet",
+},
+["Recipe"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Recipe",
+},
+["|cfff49813Bronze|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cfff49813Bronze|r",
+},
+["Cooking"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Cooking",
+},
+["Key"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Key",
+},
+["|cff88AAFFZskera Vault|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff88AAFFZskera Vault|r",
+},
+["Darkmoon Cards"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Darkmoon Cards",
+},
+["|cff67CF9EDreamsurge|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff67CF9EDreamsurge|r",
+},
+["|cffa335eeMossy Mammoth|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeMossy Mammoth|r",
+},
+["Consumable"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Consumable",
+},
+["|cff56BBFFDrakewatcher Manuscript|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff56BBFFDrakewatcher Manuscript|r",
+},
+["Gem"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Gem",
+},
+["Remix Meta"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+[221977] = true,
+[219386] = true,
+[216711] = true,
+[219878] = true,
+[220120] = true,
+[221982] = true,
+[220211] = true,
+[220117] = true,
+[216663] = true,
+[216695] = true,
+[216671] = true,
+},
+["name"] = "Remix Meta",
+},
+["|cff0070ddChip|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff0070ddChip|r",
+},
+["|cffa335eeTemperamental Skyclaw|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeTemperamental Skyclaw|r",
+},
+["|cffff8040Loamm|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffff8040Loamm|r",
+},
+["|cffa335eeMagmashell|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeMagmashell|r",
+},
+["Miscellaneous"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Miscellaneous",
+},
+["Free Space"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Free Space",
+},
+["|cffa335eeAwakened|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeAwakened|r",
+},
+["|cffFFAB00Primordial Stones|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffFFAB00Primordial Stones|r",
+},
+["Battle Pets"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Battle Pets",
+},
+["|cff88AAFFArtisan Curios|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cff88AAFFArtisan Curios|r",
+},
+["Remix Cogwheel"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+[216630] = true,
+[218045] = true,
+[216631] = true,
+[218003] = true,
+[218108] = true,
+[216632] = true,
+[218004] = true,
+[218043] = true,
+[218109] = true,
+[218082] = true,
+[216629] = true,
+[217983] = true,
+[218005] = true,
+[217989] = true,
+[218044] = true,
+[218110] = true,
+[218046] = true,
+},
+["name"] = "Remix Cogwheel",
+},
+["Glyph"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "Glyph",
+},
+["|cffa335eeLoyal Magmammoth|r"] = {
+["enabled"] = {
+true,
+[0] = true,
+},
+["itemList"] = {
+},
+["name"] = "|cffa335eeLoyal Magmammoth|r",
 },
 },
 ["categoryFilters"] = {
@@ -5081,10 +5121,10 @@ true,
 [117387] = "Archaeology",
 [154930] = "Archaeology",
 [160743] = "Archaeology",
-[130927] = "Archaeology",
-[212759] = "Remix Tinker",
+[114141] = "Archaeology",
+[210715] = "Remix Stat",
 [130929] = "Archaeology",
-[109586] = "Archaeology",
+[130926] = "Archaeology",
 [118729] = "Archaeology",
 [114162] = "Archaeology",
 [114194] = "Archaeology",
@@ -5095,53 +5135,53 @@ true,
 [64395] = "Archaeology",
 [154932] = "Archaeology",
 [104198] = "Archaeology",
-[79909] = "Archaeology",
+[130924] = "Archaeology",
 [87399] = "Archaeology",
-[79910] = "Archaeology",
-[219818] = "Remix Tinker",
+[114159] = "Archaeology",
+[63127] = "Archaeology",
 [130930] = "Archaeology",
-[87549] = "Archaeology",
+[130923] = "Archaeology",
 [154933] = "Archaeology",
 [114163] = "Archaeology",
 [114195] = "Archaeology",
 [114147] = "Archaeology",
-[114172] = "Archaeology",
+[210714] = "Remix Stat",
 [95384] = "Archaeology",
 [117389] = "Archaeology",
-[79903] = "Archaeology",
+[212694] = "Remix Tinker",
 [154934] = "Archaeology",
 [212758] = "Remix Tinker",
-[211107] = "Remix Stat",
+[130919] = "Archaeology",
 [219878] = "Remix Meta",
 [218043] = "Remix Cogwheel",
-[210716] = "Remix Stat",
+[114148] = "Archaeology",
 [130931] = "Archaeology",
-[118731] = "Archaeology",
+[114149] = "Archaeology",
 [154935] = "Archaeology",
 [114164] = "Archaeology",
 [114196] = "Archaeology",
-[210718] = "Remix Stat",
+[130917] = "Archaeology",
 [218044] = "Remix Cogwheel",
 [95385] = "Archaeology",
 [216639] = "Remix Stat",
 [64396] = "Archaeology",
-[221982] = "Remix Meta",
+[114173] = "Archaeology",
 [219386] = "Remix Meta",
-[219944] = "Remix Tinker",
-[220211] = "Remix Meta",
+[87538] = "Archaeology",
+[130932] = "Archaeology",
 [218045] = "Remix Cogwheel",
 [218109] = "Remix Cogwheel",
-[130932] = "Archaeology",
-[216631] = "Remix Cogwheel",
+[216640] = "Remix Stat",
 [79896] = "Archaeology",
+[118732] = "Archaeology",
 [114165] = "Archaeology",
 [114197] = "Archaeology",
 [212361] = "Remix Tinker",
 [218046] = "Remix Cogwheel",
 [95386] = "Archaeology",
 [216641] = "Remix Stat",
-[216632] = "Remix Cogwheel",
-[134086] = "Archaeology",
+[211103] = "Remix Stat",
+[114154] = "Archaeology",
 [87537] = "Archaeology",
 [219452] = "Remix Tinker",
 [219516] = "Remix Tinker",
@@ -5153,121 +5193,121 @@ true,
 [219389] = "Remix Tinker",
 [114198] = "Archaeology",
 [89169] = "Archaeology",
-[114150] = "Archaeology",
+[114151] = "Archaeology",
 [95387] = "Archaeology",
 [216643] = "Remix Stat",
 [64397] = "Archaeology",
 [89171] = "Archaeology",
-[89172] = "Archaeology",
-[89173] = "Archaeology",
-[89174] = "Archaeology",
-[118728] = "Archaeology",
-[89175] = "Archaeology",
+[216626] = "Remix Tinker",
+[218108] = "Remix Cogwheel",
+[217983] = "Remix Cogwheel",
+[109584] = "Archaeology",
 [130934] = "Archaeology",
-[117390] = "Archaeology",
+[216644] = "Remix Stat",
+[154931] = "Archaeology",
 [79898] = "Archaeology",
 [114167] = "Archaeology",
 [114199] = "Archaeology",
 [212365] = "Remix Tinker",
 [89176] = "Archaeology",
 [95388] = "Archaeology",
-[118730] = "Archaeology",
-[217964] = "Remix Tinker",
-[114145] = "Archaeology",
+[89170] = "Archaeology",
+[136372] = "Archaeology",
+[212362] = "Remix Tinker",
 [212749] = "Remix Tinker",
 [218110] = "Remix Cogwheel",
 [212366] = "Remix Tinker",
-[130935] = "Archaeology",
-[130903] = "Archaeology",
 [136419] = "Archaeology",
+[130903] = "Archaeology",
+[130935] = "Archaeology",
 [216695] = "Remix Meta",
 [79899] = "Archaeology",
 [114168] = "Archaeology",
 [114200] = "Archaeology",
-[79869] = "Archaeology",
-[216711] = "Remix Meta",
+[87534] = "Archaeology",
+[219777] = "Remix Tinker",
 [95389] = "Archaeology",
 [216647] = "Remix Tinker",
-[219777] = "Remix Tinker",
+[216711] = "Remix Meta",
 [114142] = "Archaeology",
-[114166] = "Archaeology",
-[211124] = "Remix Stat",
+[114144] = "Archaeology",
+[114146] = "Archaeology",
 [217989] = "Remix Cogwheel",
-[87533] = "Archaeology",
+[79868] = "Archaeology",
 [130904] = "Archaeology",
 [216648] = "Remix Tinker",
-[79868] = "Archaeology",
+[87533] = "Archaeology",
 [79900] = "Archaeology",
 [114169] = "Archaeology",
 [114201] = "Archaeology",
 [219523] = "Remix Tinker",
-[211123] = "Remix Stat",
+[109585] = "Archaeology",
 [95390] = "Archaeology",
 [216649] = "Remix Tinker",
-[164626] = "Archaeology",
 [164625] = "Archaeology",
-[109585] = "Archaeology",
+[164626] = "Archaeology",
+[211123] = "Remix Stat",
 [217927] = "Remix Tinker",
-[114146] = "Archaeology",
-[114144] = "Archaeology",
+[211124] = "Remix Stat",
+[114166] = "Archaeology",
 [130905] = "Archaeology",
 [216650] = "Remix Tinker",
-[87534] = "Archaeology",
+[79869] = "Archaeology",
 [79901] = "Archaeology",
 [114170] = "Archaeology",
 [114202] = "Archaeology",
-[212362] = "Remix Tinker",
-[136372] = "Archaeology",
-[89170] = "Archaeology",
+[114145] = "Archaeology",
+[217964] = "Remix Tinker",
+[118730] = "Archaeology",
 [216651] = "Remix Tinker",
-[154931] = "Archaeology",
-[216644] = "Remix Stat",
-[109584] = "Archaeology",
-[217983] = "Remix Cogwheel",
-[218108] = "Remix Cogwheel",
-[216626] = "Remix Tinker",
+[117390] = "Archaeology",
+[89175] = "Archaeology",
+[118728] = "Archaeology",
+[89174] = "Archaeology",
+[89173] = "Archaeology",
+[89172] = "Archaeology",
 [130906] = "Archaeology",
-[114151] = "Archaeology",
+[114150] = "Archaeology",
 [87535] = "Archaeology",
 [79902] = "Archaeology",
 [114171] = "Archaeology",
 [114203] = "Archaeology",
 [219527] = "Remix Tinker",
-[114154] = "Archaeology",
-[211103] = "Remix Stat",
-[118732] = "Archaeology",
-[216640] = "Remix Stat",
-[87538] = "Archaeology",
-[114173] = "Archaeology",
-[130917] = "Archaeology",
-[114149] = "Archaeology",
-[114148] = "Archaeology",
+[134086] = "Archaeology",
+[216632] = "Remix Cogwheel",
+[216631] = "Remix Cogwheel",
+[220211] = "Remix Meta",
+[219944] = "Remix Tinker",
+[221982] = "Remix Meta",
+[210718] = "Remix Stat",
+[118731] = "Archaeology",
+[210716] = "Remix Stat",
 [130907] = "Archaeology",
-[130919] = "Archaeology",
+[211107] = "Remix Stat",
 [87536] = "Archaeology",
-[212694] = "Remix Tinker",
-[210714] = "Remix Stat",
+[79903] = "Archaeology",
+[114172] = "Archaeology",
 [114204] = "Archaeology",
-[130923] = "Archaeology",
-[63127] = "Archaeology",
-[114159] = "Archaeology",
-[130924] = "Archaeology",
+[87549] = "Archaeology",
+[219818] = "Remix Tinker",
+[79910] = "Archaeology",
+[79909] = "Archaeology",
 [142113] = "Archaeology",
-[130926] = "Archaeology",
-[210715] = "Remix Stat",
-[114141] = "Archaeology",
+[109586] = "Archaeology",
+[212759] = "Remix Tinker",
+[130927] = "Archaeology",
 },
 ["positions"] = {
 {
-["y"] = 54.4046630859375,
-["x"] = -273.2344970703125,
-["point"] = "CENTER",
+["y"] = 151.9286804199219,
+["x"] = 83.64653778076172,
+["point"] = "LEFT",
 ["scale"] = 1,
 },
 [0] = {
-["y"] = 74.60746383666992,
-["x"] = -265.7258911132813,
-["point"] = "RIGHT",
+["y"] = -26.05328369140625,
+["x"] = 149.3656158447266,
+["point"] = "TOP",
 ["scale"] = 0.75,
 },
 },

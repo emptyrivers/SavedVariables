@@ -56,11 +56,11 @@ ElvDB = {
 ["enable"] = true,
 ["priority"] = 0,
 },
-["Food"] = {
+["Glyph of Denounce"] = {
 ["enable"] = true,
 ["priority"] = 0,
 },
-["Glyph of Lightning Shield"] = {
+["Food"] = {
 ["enable"] = true,
 ["priority"] = 0,
 },
@@ -280,7 +280,7 @@ ElvDB = {
 ["enable"] = true,
 ["priority"] = 0,
 },
-["Glyph of Denounce"] = {
+["Glyph of Lightning Shield"] = {
 ["enable"] = true,
 ["priority"] = 0,
 },
@@ -484,13 +484,13 @@ ElvDB = {
 },
 [33206] = {
 },
-[6788] = {
-},
-[139] = {
+[123258] = {
 },
 [10060] = {
 },
-[123258] = {
+[139] = {
+},
+[6788] = {
 },
 },
 ["PALADIN"] = {
@@ -602,25 +602,13 @@ nil,
 nil,
 true,
 },
-[43] = {
+[13] = {
 nil,
 nil,
 nil,
 true,
 },
-[24] = {
-nil,
-nil,
-nil,
-true,
-},
-[39] = {
-nil,
-nil,
-nil,
-true,
-},
-[33] = {
+[19] = {
 nil,
 nil,
 nil,
@@ -632,7 +620,25 @@ nil,
 nil,
 true,
 },
-[20] = {
+[24] = {
+nil,
+nil,
+nil,
+true,
+},
+[31] = {
+nil,
+nil,
+nil,
+true,
+},
+[37] = {
+nil,
+nil,
+nil,
+true,
+},
+[46] = {
 nil,
 nil,
 nil,
@@ -674,6 +680,8 @@ true,
 },
 },
 },
+["ElvUI_Explosives"] = {
+},
 ["Boss"] = {
 ["actions"] = {
 ["color"] = {
@@ -692,8 +700,6 @@ true,
 ["healer"] = false,
 },
 },
-},
-["ElvUI_Explosives"] = {
 },
 },
 },
@@ -782,16 +788,13 @@ true,
 "heal",
 ["enabled"] = true,
 },
-["Headcut - Argent Dawn"] = {
-["enabled"] = false,
-},
 ["Alluvium - Argent Dawn"] = {
 ["enabled"] = false,
 },
-["Serenerivers - Korgath"] = {
-"Brewmaster Monk",
-"Mistweaver Monk",
-"Windwalker Monk",
+["Crazyrivers - Arthas"] = {
+"heal",
+"heal",
+"dps",
 ["enabled"] = true,
 },
 ["Serenerivers - Bleeding Hollow"] = {
@@ -800,14 +803,17 @@ true,
 "dps",
 ["enabled"] = true,
 },
-["Emptyrivers - Arthas"] = {
-["enabled"] = false,
-},
 ["Serenerivers - Sargeras"] = {
 "Default",
 "heal",
 "dps",
 ["enabled"] = true,
+},
+["Emptyrivers - Arthas"] = {
+["enabled"] = false,
+},
+["Headcut - Argent Dawn"] = {
+["enabled"] = false,
 },
 ["Tinyrivers - Sargeras"] = {
 ["enabled"] = false,
@@ -815,10 +821,10 @@ true,
 ["Beefyrivers - Arthas"] = {
 ["enabled"] = false,
 },
-["Crazyrivers - Arthas"] = {
-"heal",
-"heal",
-"dps",
+["Serenerivers - Korgath"] = {
+"Brewmaster Monk",
+"Mistweaver Monk",
+"Windwalker Monk",
 ["enabled"] = true,
 },
 },
@@ -845,6 +851,9 @@ true,
 ["Sargeras"] = {
 ["Calestin"] = "MAGE",
 ["Emptyrivers"] = "WARRIOR",
+},
+["Eredar"] = {
+["Doneer"] = "MAGE",
 },
 ["Argent Dawn"] = {
 ["Sverdrup"] = "MONK",
@@ -4732,74 +4741,105 @@ true,
 ["SL_DeathIndicator"] = {
 },
 },
-["party"] = {
-["horizontalSpacing"] = 10,
+["boss"] = {
 ["debuffs"] = {
 ["enable"] = false,
+["sizeOverride"] = 27,
+["yOffset"] = -16,
 },
 ["portrait"] = {
-["width"] = 55,
+["overlay"] = true,
 },
+["castbar"] = {
+["height"] = 10,
+["width"] = 210,
+},
+["growthDirection"] = "UP",
+["infoPanel"] = {
+["height"] = 17,
+},
+["spacing"] = 28,
+["height"] = 48,
+["buffs"] = {
 ["enable"] = false,
-["showPlayer"] = false,
-["growthDirection"] = "RIGHT_UP",
-["targetsGroup"] = {
-["disableFocusGlow"] = false,
-["disableMouseoverGlow"] = false,
-["disableTargetGlow"] = false,
+["sizeOverride"] = 27,
+["yOffset"] = 16,
 },
-["groupBy"] = "ROLE",
-["SL_OfflineIndicator"] = {
-},
-["SL_DeathIndicator"] = {
-},
-["targetGlow"] = false,
-["raidWideSorting"] = true,
-["threatStyle"] = "NONE",
+["width"] = 210,
 ["power"] = {
 ["text_format"] = "",
-["height"] = 5,
-},
-["customTexts"] = {
-["Edited Name"] = {
-["attachTextTo"] = "HEALTH",
-["enable"] = true,
-["text_format"] = "[name]",
-["yOffset"] = 7,
-["font"] = "PT Sans Narrow",
-["justifyH"] = "CENTER",
-["fontOutline"] = "NONE",
-["xOffset"] = 0,
-["size"] = 12,
 },
 },
-["healPrediction"] = {
-["enable"] = true,
+["raid3"] = {
+["raidWideSorting"] = true,
+["SL_DeathIndicator"] = {
 },
-["orientation"] = "MIDDLE",
-["width"] = 80,
-["roleIcon"] = {
-["damager"] = false,
-["yOffset"] = 2,
+["groupsPerRowCol"] = 4,
+["width"] = 15,
+["GPSArrow"] = {
+["onMouseOver"] = false,
 },
 ["health"] = {
 ["text_format"] = "",
 },
 ["name"] = {
 ["text_format"] = "",
-["yOffset"] = 8,
 },
 ["startFromCenter"] = true,
-["height"] = 12,
-["verticalSpacing"] = 5,
-["petsGroup"] = {
-["disableFocusGlow"] = false,
-["disableTargetGlow"] = false,
-["disableMouseoverGlow"] = false,
+["height"] = 10,
+["groupBy"] = "ROLE",
+["SL_OfflineIndicator"] = {
+},
+["growthDirection"] = "RIGHT_UP",
+},
+["focustarget"] = {
+["orientation"] = "LEFT",
+["height"] = 10,
+["health"] = {
+["xOffset"] = 0,
+},
+["width"] = 80,
+},
+["targettarget"] = {
+["debuffs"] = {
+["enable"] = false,
+},
+["portrait"] = {
+["camDistanceScale"] = 3.26,
+},
+["SL_DeathIndicator"] = {
+},
+["width"] = 80,
+["power"] = {
+["enable"] = false,
+["height"] = 4,
+},
+["health"] = {
+["xOffset"] = 3,
+["yOffset"] = 64,
+["position"] = "CENTER",
+},
+["name"] = {
+["yOffset"] = 12,
+["text_format"] = "[name:short]",
+["position"] = "TOPLEFT",
+},
+["fader"] = {
+["enable"] = false,
+["range"] = false,
+["minAlpha"] = 0.6,
+},
+["height"] = 7,
+["buffs"] = {
+["sizeOverride"] = 18,
+},
+["SL_OfflineIndicator"] = {
 },
 ["raidicon"] = {
-["size"] = 14,
-["yOffset"] = 20,
+["attachTo"] = "RIGHT",
+["size"] = 10,
+["xOffset"] = 12,
+["yOffset"] = 0,
 },
 },
 ["player"] = {
@@ -4889,78 +4929,6 @@ true,
 ["position"] = "TOP",
 },
 },
-["focustarget"] = {
-["orientation"] = "LEFT",
-["height"] = 10,
-["health"] = {
-["xOffset"] = 0,
-},
-["width"] = 80,
-},
-["targettarget"] = {
-["debuffs"] = {
-["enable"] = false,
-},
-["portrait"] = {
-["camDistanceScale"] = 3.26,
-},
-["SL_DeathIndicator"] = {
-},
-["width"] = 80,
-["power"] = {
-["enable"] = false,
-["height"] = 4,
-},
-["health"] = {
-["xOffset"] = 3,
-["yOffset"] = 64,
-["position"] = "CENTER",
-},
-["name"] = {
-["yOffset"] = 12,
-["text_format"] = "[name:short]",
-["position"] = "TOPLEFT",
-},
-["fader"] = {
-["enable"] = false,
-["range"] = false,
-["minAlpha"] = 0.6,
-},
-["height"] = 7,
-["buffs"] = {
-["sizeOverride"] = 18,
-},
-["SL_OfflineIndicator"] = {
-},
-["raidicon"] = {
-["attachTo"] = "RIGHT",
-["size"] = 10,
-["xOffset"] = 12,
-["yOffset"] = 0,
-},
-},
-["raid3"] = {
-["raidWideSorting"] = true,
-["SL_DeathIndicator"] = {
-},
-["groupsPerRowCol"] = 4,
-["width"] = 15,
-["GPSArrow"] = {
-["onMouseOver"] = false,
-},
-["health"] = {
-["text_format"] = "",
-},
-["name"] = {
-["text_format"] = "",
-},
-["startFromCenter"] = true,
-["height"] = 10,
-["groupBy"] = "ROLE",
-["SL_OfflineIndicator"] = {
-},
-["growthDirection"] = "RIGHT_UP",
-},
 ["assist"] = {
 ["enable"] = false,
 ["SL_OfflineIndicator"] = {
@@ -4968,33 +4936,74 @@ true,
 ["SL_DeathIndicator"] = {
 },
 },
-["boss"] = {
+["party"] = {
+["horizontalSpacing"] = 10,
 ["debuffs"] = {
 ["enable"] = false,
-["sizeOverride"] = 27,
-["yOffset"] = -16,
 },
 ["portrait"] = {
-["overlay"] = true,
+["width"] = 55,
 },
-["castbar"] = {
-["height"] = 10,
-["width"] = 210,
-},
-["growthDirection"] = "UP",
-["infoPanel"] = {
-["height"] = 17,
-},
-["spacing"] = 28,
-["height"] = 48,
-["buffs"] = {
 ["enable"] = false,
-["sizeOverride"] = 27,
-["yOffset"] = 16,
+["showPlayer"] = false,
+["growthDirection"] = "RIGHT_UP",
+["targetsGroup"] = {
+["disableFocusGlow"] = false,
+["disableMouseoverGlow"] = false,
+["disableTargetGlow"] = false,
 },
-["width"] = 210,
+["groupBy"] = "ROLE",
+["SL_OfflineIndicator"] = {
+},
+["SL_DeathIndicator"] = {
+},
+["targetGlow"] = false,
+["raidWideSorting"] = true,
+["threatStyle"] = "NONE",
 ["power"] = {
 ["text_format"] = "",
+["height"] = 5,
+},
+["customTexts"] = {
+["Edited Name"] = {
+["attachTextTo"] = "HEALTH",
+["enable"] = true,
+["text_format"] = "[name]",
+["yOffset"] = 7,
+["font"] = "PT Sans Narrow",
+["justifyH"] = "CENTER",
+["fontOutline"] = "NONE",
+["xOffset"] = 0,
+["size"] = 12,
+},
+},
+["healPrediction"] = {
+["enable"] = true,
+},
+["orientation"] = "MIDDLE",
+["width"] = 80,
+["roleIcon"] = {
+["damager"] = false,
+["yOffset"] = 2,
+},
+["health"] = {
+["text_format"] = "",
+},
+["name"] = {
+["text_format"] = "",
+["yOffset"] = 8,
+},
+["startFromCenter"] = true,
+["height"] = 12,
+["verticalSpacing"] = 5,
+["petsGroup"] = {
+["disableFocusGlow"] = false,
+["disableTargetGlow"] = false,
+["disableMouseoverGlow"] = false,
+},
+["raidicon"] = {
+["size"] = 14,
+["yOffset"] = 20,
 },
 },
 ["raid1"] = {
@@ -6364,88 +6373,34 @@ true,
 ["enable"] = false,
 },
 },
-["player"] = {
+["boss"] = {
 ["debuffs"] = {
 ["enable"] = false,
-["sizeOverride"] = 22,
-["anchorPoint"] = "BOTTOMRIGHT",
-["perrow"] = 5,
+["sizeOverride"] = 27,
+["yOffset"] = -16,
 },
 ["portrait"] = {
 ["overlay"] = true,
-["yOffset"] = -0.01,
-["camDistanceScale"] = 1.69,
-["width"] = 40,
 },
-["CombatIcon"] = {
-["enable"] = false,
-},
-["RestIcon"] = {
-["enable"] = false,
-},
-["raidicon"] = {
-["attachTo"] = "LEFT",
-["xOffset"] = -20,
-},
-["threatStyle"] = "NONE",
 ["power"] = {
-["detachedWidth"] = 130,
-["position"] = "TOPRIGHT",
-["height"] = 8,
-["xOffset"] = 0,
-["text_format"] = "[power:percent]",
-["yOffset"] = 14,
+["text_format"] = "",
 },
-["pvpIcon"] = {
-["anchorPoint"] = "TOPRIGHT",
-["scale"] = 0.59,
-["yOffset"] = 8,
-},
-["classbar"] = {
-["detachFromFrame"] = true,
-["spacing"] = 4,
-["height"] = 7,
-["detachedWidth"] = 210,
-["additionalPowerText"] = false,
-},
-["SL_DeathIndicator"] = {
-},
-["width"] = 210,
+["growthDirection"] = "UP",
 ["infoPanel"] = {
-["height"] = 18,
-["transparent"] = true,
+["height"] = 17,
 },
-["health"] = {
-["attachTextTo"] = "InfoPanel",
-["position"] = "TOPLEFT",
-["xOffset"] = 0,
-["text_format"] = "[health:current]",
-["yOffset"] = 14,
-},
-["fader"] = {
-["enable"] = true,
-["minAlpha"] = 0,
-},
-["name"] = {
-["xOffset"] = 2,
-["position"] = "RIGHT",
-["yOffset"] = 12,
-},
-["height"] = 30,
+["spacing"] = 15,
+["height"] = 23,
 ["buffs"] = {
-["anchorPoint"] = "BOTTOMRIGHT",
+["enable"] = false,
+["sizeOverride"] = 27,
+["yOffset"] = 16,
 },
 ["castbar"] = {
-["displayTarget"] = true,
-["enable"] = false,
-["height"] = 25,
-["iconAttached"] = false,
-["width"] = 210,
+["height"] = 10,
+["width"] = 125,
 },
-["pvp"] = {
-["text_format"] = "",
-["position"] = "TOP",
-},
+["width"] = 125,
 },
 ["focustarget"] = {
 ["orientation"] = "LEFT",
@@ -6495,35 +6450,6 @@ true,
 ["yOffset"] = 0,
 ["xOffset"] = 12,
 ["size"] = 10,
-},
-},
-["raid3"] = {
-["raidWideSorting"] = true,
-["SL_DeathIndicator"] = {
-},
-["groupsPerRowCol"] = 4,
-["width"] = 15,
-["GPSArrow"] = {
-["onMouseOver"] = false,
-},
-["name"] = {
-["text_format"] = "",
-},
-["health"] = {
-["text_format"] = "",
-},
-["startFromCenter"] = true,
-["height"] = 10,
-["groupBy"] = "ROLE",
-["SL_OfflineIndicator"] = {
-},
-["growthDirection"] = "RIGHT_UP",
-},
-["assist"] = {
-["enable"] = false,
-["SL_OfflineIndicator"] = {
-},
-["SL_DeathIndicator"] = {
 },
 },
 ["party"] = {
@@ -6594,6 +6520,35 @@ true,
 ["yOffset"] = 20,
 ["size"] = 14,
 },
+},
+["assist"] = {
+["enable"] = false,
+["SL_OfflineIndicator"] = {
+},
+["SL_DeathIndicator"] = {
+},
+},
+["raid3"] = {
+["raidWideSorting"] = true,
+["SL_DeathIndicator"] = {
+},
+["groupsPerRowCol"] = 4,
+["width"] = 15,
+["GPSArrow"] = {
+["onMouseOver"] = false,
+},
+["name"] = {
+["text_format"] = "",
+},
+["health"] = {
+["text_format"] = "",
+},
+["startFromCenter"] = true,
+["height"] = 10,
+["groupBy"] = "ROLE",
+["SL_OfflineIndicator"] = {
+},
+["growthDirection"] = "RIGHT_UP",
 },
 ["raid1"] = {
 ["portrait"] = {
@@ -6854,34 +6809,88 @@ true,
 ["SL_DeathIndicator"] = {
 },
 },
-["boss"] = {
+["player"] = {
 ["debuffs"] = {
 ["enable"] = false,
-["sizeOverride"] = 27,
-["yOffset"] = -16,
+["sizeOverride"] = 22,
+["anchorPoint"] = "BOTTOMRIGHT",
+["perrow"] = 5,
 },
 ["portrait"] = {
 ["overlay"] = true,
+["yOffset"] = -0.01,
+["camDistanceScale"] = 1.69,
+["width"] = 40,
 },
-["power"] = {
-["text_format"] = "",
-},
-["growthDirection"] = "UP",
-["infoPanel"] = {
-["height"] = 17,
-},
-["spacing"] = 15,
-["height"] = 23,
-["buffs"] = {
+["CombatIcon"] = {
 ["enable"] = false,
-["sizeOverride"] = 27,
-["yOffset"] = 16,
+},
+["RestIcon"] = {
+["enable"] = false,
+},
+["raidicon"] = {
+["attachTo"] = "LEFT",
+["xOffset"] = -20,
+},
+["threatStyle"] = "NONE",
+["power"] = {
+["detachedWidth"] = 130,
+["position"] = "TOPRIGHT",
+["height"] = 8,
+["xOffset"] = 0,
+["text_format"] = "[power:percent]",
+["yOffset"] = 14,
+},
+["pvpIcon"] = {
+["anchorPoint"] = "TOPRIGHT",
+["scale"] = 0.59,
+["yOffset"] = 8,
+},
+["classbar"] = {
+["detachFromFrame"] = true,
+["spacing"] = 4,
+["height"] = 7,
+["detachedWidth"] = 210,
+["additionalPowerText"] = false,
+},
+["SL_DeathIndicator"] = {
+},
+["width"] = 210,
+["infoPanel"] = {
+["height"] = 18,
+["transparent"] = true,
+},
+["health"] = {
+["attachTextTo"] = "InfoPanel",
+["position"] = "TOPLEFT",
+["xOffset"] = 0,
+["text_format"] = "[health:current]",
+["yOffset"] = 14,
+},
+["fader"] = {
+["enable"] = true,
+["minAlpha"] = 0,
+},
+["name"] = {
+["xOffset"] = 2,
+["position"] = "RIGHT",
+["yOffset"] = 12,
+},
+["height"] = 30,
+["buffs"] = {
+["anchorPoint"] = "BOTTOMRIGHT",
 },
 ["castbar"] = {
-["height"] = 10,
-["width"] = 125,
+["displayTarget"] = true,
+["enable"] = false,
+["height"] = 25,
+["iconAttached"] = false,
+["width"] = 210,
 },
-["width"] = 125,
+["pvp"] = {
+["text_format"] = "",
+["position"] = "TOP",
+},
 },
 },
 },
@@ -8113,171 +8122,6 @@ true,
 ["SL_DeathIndicator"] = {
 },
 },
-["raid3"] = {
-["raidWideSorting"] = true,
-["GPSArrow"] = {
-["onMouseOver"] = false,
-},
-["enable"] = false,
-["SL_DeathIndicator"] = {
-},
-["groupsPerRowCol"] = 4,
-["width"] = 15,
-["name"] = {
-["text_format"] = "",
-},
-["health"] = {
-["text_format"] = "",
-},
-["startFromCenter"] = true,
-["height"] = 10,
-["groupBy"] = "ROLE",
-["SL_OfflineIndicator"] = {
-},
-["growthDirection"] = "RIGHT_UP",
-},
-["party"] = {
-["horizontalSpacing"] = 10,
-["debuffs"] = {
-["enable"] = false,
-},
-["portrait"] = {
-["width"] = 55,
-},
-["showPlayer"] = false,
-["growthDirection"] = "RIGHT_UP",
-["raidWideSorting"] = true,
-["groupBy"] = "ROLE",
-["petsGroup"] = {
-["disableFocusGlow"] = false,
-["disableTargetGlow"] = false,
-["disableMouseoverGlow"] = false,
-},
-["SL_DeathIndicator"] = {
-},
-["targetGlow"] = false,
-["targetsGroup"] = {
-["disableFocusGlow"] = false,
-["disableMouseoverGlow"] = false,
-["disableTargetGlow"] = false,
-},
-["threatStyle"] = "NONE",
-["power"] = {
-["text_format"] = "",
-["height"] = 5,
-},
-["customTexts"] = {
-["Edited Name"] = {
-["attachTextTo"] = "HEALTH",
-["xOffset"] = 0,
-["text_format"] = "[name]",
-["yOffset"] = 7,
-["font"] = "PT Sans Narrow",
-["justifyH"] = "CENTER",
-["fontOutline"] = "NONE",
-["enable"] = true,
-["size"] = 12,
-},
-},
-["healPrediction"] = {
-["enable"] = true,
-},
-["height"] = 12,
-["width"] = 80,
-["roleIcon"] = {
-["yOffset"] = 2,
-["damager"] = false,
-},
-["name"] = {
-["text_format"] = "",
-["yOffset"] = 8,
-},
-["health"] = {
-["text_format"] = "",
-},
-["startFromCenter"] = true,
-["orientation"] = "MIDDLE",
-["verticalSpacing"] = 5,
-["SL_OfflineIndicator"] = {
-},
-["raidicon"] = {
-["size"] = 14,
-["yOffset"] = 20,
-},
-},
-["focustarget"] = {
-["orientation"] = "LEFT",
-["height"] = 10,
-["health"] = {
-["xOffset"] = 0,
-},
-["width"] = 80,
-},
-["targettarget"] = {
-["debuffs"] = {
-["enable"] = false,
-},
-["portrait"] = {
-["camDistanceScale"] = 3.26,
-},
-["SL_DeathIndicator"] = {
-},
-["customTexts"] = {
-["Edited Name"] = {
-["attachTextTo"] = "HEALTH",
-["xOffset"] = 0,
-["text_format"] = "[name]",
-["yOffset"] = 5,
-["font"] = "PT Sans Narrow",
-["justifyH"] = "LEFT",
-["fontOutline"] = "NONE",
-["enable"] = true,
-["size"] = 12,
-},
-},
-["width"] = 80,
-["power"] = {
-["enable"] = false,
-["height"] = 4,
-},
-["fader"] = {
-["enable"] = false,
-["range"] = false,
-["minAlpha"] = 0.6,
-},
-["health"] = {
-["xOffset"] = 3,
-["position"] = "CENTER",
-["yOffset"] = 64,
-},
-["name"] = {
-["position"] = "LEFT",
-["text_format"] = "",
-["yOffset"] = 8,
-},
-["height"] = 7,
-["buffs"] = {
-["sizeOverride"] = 18,
-},
-["SL_OfflineIndicator"] = {
-},
-["raidicon"] = {
-["attachTo"] = "RIGHT",
-["size"] = 10,
-["xOffset"] = 12,
-["yOffset"] = 0,
-},
-},
-["boss"] = {
-["growthDirection"] = "UP",
-},
-["assist"] = {
-["enable"] = false,
-["SL_OfflineIndicator"] = {
-},
-["SL_DeathIndicator"] = {
-},
-},
 ["player"] = {
 ["debuffs"] = {
 ["anchorPoint"] = "BOTTOMRIGHT",
@@ -8359,6 +8203,171 @@ true,
 ["attachTo"] = "LEFT",
 ["xOffset"] = -20,
 },
+},
+["boss"] = {
+["growthDirection"] = "UP",
+},
+["focustarget"] = {
+["orientation"] = "LEFT",
+["height"] = 10,
+["health"] = {
+["xOffset"] = 0,
+},
+["width"] = 80,
+},
+["targettarget"] = {
+["debuffs"] = {
+["enable"] = false,
+},
+["portrait"] = {
+["camDistanceScale"] = 3.26,
+},
+["SL_DeathIndicator"] = {
+},
+["customTexts"] = {
+["Edited Name"] = {
+["attachTextTo"] = "HEALTH",
+["xOffset"] = 0,
+["text_format"] = "[name]",
+["yOffset"] = 5,
+["font"] = "PT Sans Narrow",
+["justifyH"] = "LEFT",
+["fontOutline"] = "NONE",
+["enable"] = true,
+["size"] = 12,
+},
+},
+["width"] = 80,
+["power"] = {
+["enable"] = false,
+["height"] = 4,
+},
+["fader"] = {
+["enable"] = false,
+["range"] = false,
+["minAlpha"] = 0.6,
+},
+["health"] = {
+["xOffset"] = 3,
+["position"] = "CENTER",
+["yOffset"] = 64,
+},
+["name"] = {
+["position"] = "LEFT",
+["text_format"] = "",
+["yOffset"] = 8,
+},
+["height"] = 7,
+["buffs"] = {
+["sizeOverride"] = 18,
+},
+["SL_OfflineIndicator"] = {
+},
+["raidicon"] = {
+["attachTo"] = "RIGHT",
+["size"] = 10,
+["xOffset"] = 12,
+["yOffset"] = 0,
+},
+},
+["party"] = {
+["horizontalSpacing"] = 10,
+["debuffs"] = {
+["enable"] = false,
+},
+["portrait"] = {
+["width"] = 55,
+},
+["showPlayer"] = false,
+["growthDirection"] = "RIGHT_UP",
+["raidWideSorting"] = true,
+["groupBy"] = "ROLE",
+["petsGroup"] = {
+["disableFocusGlow"] = false,
+["disableTargetGlow"] = false,
+["disableMouseoverGlow"] = false,
+},
+["SL_DeathIndicator"] = {
+},
+["targetGlow"] = false,
+["targetsGroup"] = {
+["disableFocusGlow"] = false,
+["disableMouseoverGlow"] = false,
+["disableTargetGlow"] = false,
+},
+["threatStyle"] = "NONE",
+["power"] = {
+["text_format"] = "",
+["height"] = 5,
+},
+["customTexts"] = {
+["Edited Name"] = {
+["attachTextTo"] = "HEALTH",
+["xOffset"] = 0,
+["text_format"] = "[name]",
+["yOffset"] = 7,
+["font"] = "PT Sans Narrow",
+["justifyH"] = "CENTER",
+["fontOutline"] = "NONE",
+["enable"] = true,
+["size"] = 12,
+},
+},
+["healPrediction"] = {
+["enable"] = true,
+},
+["height"] = 12,
+["width"] = 80,
+["roleIcon"] = {
+["yOffset"] = 2,
+["damager"] = false,
+},
+["name"] = {
+["text_format"] = "",
+["yOffset"] = 8,
+},
+["health"] = {
+["text_format"] = "",
+},
+["startFromCenter"] = true,
+["orientation"] = "MIDDLE",
+["verticalSpacing"] = 5,
+["SL_OfflineIndicator"] = {
+},
+["raidicon"] = {
+["size"] = 14,
+["yOffset"] = 20,
+},
+},
+["assist"] = {
+["enable"] = false,
+["SL_OfflineIndicator"] = {
+},
+["SL_DeathIndicator"] = {
+},
+},
+["raid3"] = {
+["raidWideSorting"] = true,
+["GPSArrow"] = {
+["onMouseOver"] = false,
+},
+["enable"] = false,
+["SL_DeathIndicator"] = {
+},
+["groupsPerRowCol"] = 4,
+["width"] = 15,
+["name"] = {
+["text_format"] = "",
+},
+["health"] = {
+["text_format"] = "",
+},
+["startFromCenter"] = true,
+["height"] = 10,
+["groupBy"] = "ROLE",
+["SL_OfflineIndicator"] = {
+},
+["growthDirection"] = "RIGHT_UP",
 },
 ["raid1"] = {
 ["portrait"] = {
@@ -9757,163 +9766,26 @@ true,
 ["SL_DeathIndicator"] = {
 },
 },
-["party"] = {
-["horizontalSpacing"] = 10,
-["debuffs"] = {
-["enable"] = false,
-},
-["portrait"] = {
-["width"] = 55,
-},
-["enable"] = false,
-["showPlayer"] = false,
-["growthDirection"] = "RIGHT_UP",
+["raid3"] = {
 ["raidWideSorting"] = true,
-["groupBy"] = "ROLE",
-["petsGroup"] = {
-["disableFocusGlow"] = false,
-["disableTargetGlow"] = false,
-["disableMouseoverGlow"] = false,
+["GPSArrow"] = {
+["onMouseOver"] = false,
 },
-["power"] = {
-["text_format"] = "",
-["height"] = 5,
-},
-["targetGlow"] = false,
-["targetsGroup"] = {
-["disableFocusGlow"] = false,
-["disableMouseoverGlow"] = false,
-["disableTargetGlow"] = false,
-},
-["threatStyle"] = "NONE",
-["SL_DeathIndicator"] = {
-},
-["customTexts"] = {
-["Edited Name"] = {
-["attachTextTo"] = "HEALTH",
-["xOffset"] = 0,
-["text_format"] = "[name]",
-["yOffset"] = 7,
-["font"] = "PT Sans Narrow",
-["justifyH"] = "CENTER",
-["fontOutline"] = "NONE",
-["enable"] = true,
-["size"] = 12,
-},
-},
-["healPrediction"] = {
-["enable"] = true,
-},
-["height"] = 12,
-["width"] = 80,
-["roleIcon"] = {
-["damager"] = false,
-["yOffset"] = 2,
-},
+["groupsPerRowCol"] = 4,
+["growthDirection"] = "RIGHT_UP",
+["width"] = 15,
 ["name"] = {
 ["text_format"] = "",
-["yOffset"] = 8,
 },
 ["health"] = {
 ["text_format"] = "",
 },
 ["startFromCenter"] = true,
-["orientation"] = "MIDDLE",
-["verticalSpacing"] = 5,
+["height"] = 10,
+["groupBy"] = "ROLE",
 ["SL_OfflineIndicator"] = {
 },
-["raidicon"] = {
-["size"] = 14,
-["yOffset"] = 20,
-},
-},
-["boss"] = {
-["debuffs"] = {
-["enable"] = false,
-["sizeOverride"] = 27,
-["yOffset"] = -16,
-},
-["portrait"] = {
-["overlay"] = true,
-},
-["power"] = {
-["text_format"] = "",
-},
-["growthDirection"] = "UP",
-["infoPanel"] = {
-["height"] = 17,
-},
-["spacing"] = 28,
-["height"] = 48,
-["buffs"] = {
-["enable"] = false,
-["sizeOverride"] = 27,
-["yOffset"] = 16,
-},
-["castbar"] = {
-["height"] = 10,
-["width"] = 210,
-},
-["width"] = 210,
-},
-["focustarget"] = {
-["orientation"] = "LEFT",
-["height"] = 10,
-["health"] = {
-["xOffset"] = 0,
-},
-["width"] = 80,
-},
-["pet"] = {
-["portrait"] = {
-["enable"] = true,
-["camDistanceScale"] = 3.26,
-},
-["castbar"] = {
-["enable"] = false,
-},
-["customTexts"] = {
-["Edited Name"] = {
-["attachTextTo"] = "HEALTH",
-["xOffset"] = 0,
-["text_format"] = "[name]",
-["yOffset"] = 5,
-["font"] = "PT Sans Narrow",
-["justifyH"] = "RIGHT",
-["fontOutline"] = "NONE",
-["enable"] = true,
-["size"] = 12,
-},
-},
-["threatStyle"] = "NONE",
-["width"] = 80,
-["infoPanel"] = {
-["height"] = 14,
-},
 ["SL_DeathIndicator"] = {
-},
-["fader"] = {
-["enable"] = false,
-["range"] = false,
-["minAlpha"] = 0.6,
-},
-["power"] = {
-["enable"] = false,
-["height"] = 4,
-},
-["height"] = 7,
-["buffs"] = {
-["sizeOverride"] = 18,
-},
-["name"] = {
-["position"] = "RIGHT",
-["text_format"] = "",
-["yOffset"] = 8,
-},
-["health"] = {
-["xOffset"] = 3,
-["position"] = "CENTER",
-["yOffset"] = 64,
 },
 },
 ["player"] = {
@@ -10005,6 +9877,95 @@ true,
 ["attachTo"] = "LEFT",
 ["xOffset"] = -20,
 },
+},
+["focustarget"] = {
+["orientation"] = "LEFT",
+["height"] = 10,
+["health"] = {
+["xOffset"] = 0,
+},
+["width"] = 80,
+},
+["pet"] = {
+["portrait"] = {
+["enable"] = true,
+["camDistanceScale"] = 3.26,
+},
+["castbar"] = {
+["enable"] = false,
+},
+["customTexts"] = {
+["Edited Name"] = {
+["attachTextTo"] = "HEALTH",
+["xOffset"] = 0,
+["text_format"] = "[name]",
+["yOffset"] = 5,
+["font"] = "PT Sans Narrow",
+["justifyH"] = "RIGHT",
+["fontOutline"] = "NONE",
+["enable"] = true,
+["size"] = 12,
+},
+},
+["threatStyle"] = "NONE",
+["width"] = 80,
+["infoPanel"] = {
+["height"] = 14,
+},
+["SL_DeathIndicator"] = {
+},
+["fader"] = {
+["enable"] = false,
+["range"] = false,
+["minAlpha"] = 0.6,
+},
+["power"] = {
+["enable"] = false,
+["height"] = 4,
+},
+["height"] = 7,
+["buffs"] = {
+["sizeOverride"] = 18,
+},
+["name"] = {
+["position"] = "RIGHT",
+["text_format"] = "",
+["yOffset"] = 8,
+},
+["health"] = {
+["xOffset"] = 3,
+["position"] = "CENTER",
+["yOffset"] = 64,
+},
+},
+["boss"] = {
+["debuffs"] = {
+["enable"] = false,
+["sizeOverride"] = 27,
+["yOffset"] = -16,
+},
+["portrait"] = {
+["overlay"] = true,
+},
+["power"] = {
+["text_format"] = "",
+},
+["growthDirection"] = "UP",
+["infoPanel"] = {
+["height"] = 17,
+},
+["spacing"] = 28,
+["height"] = 48,
+["buffs"] = {
+["enable"] = false,
+["sizeOverride"] = 27,
+["yOffset"] = 16,
+},
+["castbar"] = {
+["height"] = 10,
+["width"] = 210,
+},
+["width"] = 210,
 },
 ["target"] = {
 ["debuffs"] = {
@@ -10113,26 +10074,74 @@ true,
 ["xOffset"] = -20,
 },
 },
-["raid3"] = {
-["raidWideSorting"] = true,
-["GPSArrow"] = {
-["onMouseOver"] = false,
+["party"] = {
+["horizontalSpacing"] = 10,
+["debuffs"] = {
+["enable"] = false,
 },
-["groupsPerRowCol"] = 4,
+["portrait"] = {
+["width"] = 55,
+},
+["enable"] = false,
+["showPlayer"] = false,
 ["growthDirection"] = "RIGHT_UP",
-["width"] = 15,
+["raidWideSorting"] = true,
+["groupBy"] = "ROLE",
+["petsGroup"] = {
+["disableFocusGlow"] = false,
+["disableTargetGlow"] = false,
+["disableMouseoverGlow"] = false,
+},
+["power"] = {
+["text_format"] = "",
+["height"] = 5,
+},
+["targetGlow"] = false,
+["targetsGroup"] = {
+["disableFocusGlow"] = false,
+["disableMouseoverGlow"] = false,
+["disableTargetGlow"] = false,
+},
+["threatStyle"] = "NONE",
+["SL_DeathIndicator"] = {
+},
+["customTexts"] = {
+["Edited Name"] = {
+["attachTextTo"] = "HEALTH",
+["xOffset"] = 0,
+["text_format"] = "[name]",
+["yOffset"] = 7,
+["font"] = "PT Sans Narrow",
+["justifyH"] = "CENTER",
+["fontOutline"] = "NONE",
+["enable"] = true,
+["size"] = 12,
+},
+},
+["healPrediction"] = {
+["enable"] = true,
+},
+["height"] = 12,
+["width"] = 80,
+["roleIcon"] = {
+["damager"] = false,
+["yOffset"] = 2,
+},
 ["name"] = {
 ["text_format"] = "",
+["yOffset"] = 8,
 },
 ["health"] = {
 ["text_format"] = "",
 },
 ["startFromCenter"] = true,
-["height"] = 10,
-["groupBy"] = "ROLE",
+["orientation"] = "MIDDLE",
+["verticalSpacing"] = 5,
 ["SL_OfflineIndicator"] = {
 },
-["SL_DeathIndicator"] = {
+["raidicon"] = {
+["size"] = 14,
+["yOffset"] = 20,
 },
 },
 ["raid1"] = {
@@ -11054,7 +11063,7 @@ true,
 ["ElvUF_Raid1Mover"] = "BOTTOM,UIParent,BOTTOM,0,4",
 ["ElvAB_4"] = "BOTTOM,ElvUIParent,BOTTOM,248,6",
 ["AltPowerBarMover"] = "TOP,UIParent,TOP,0,-360",
-["ElvUF_Raid2Mover"] = "TOP,UIParent,TOP,302,-411",
+["ElvUF_Raid2Mover"] = "BOTTOM,UIParent,BOTTOM,0,4",
 ["ReputationBarMover"] = "TOP,ElvUIParent,TOP,0,0",
 ["ObjectiveFrameMover"] = "TOPRIGHT,ElvUIParent,TOPRIGHT,-57,-4",
 ["BNETMover"] = "TOPRIGHT,UIParent,TOPRIGHT,-228,-21",
@@ -11639,20 +11648,20 @@ true,
 ["aurabar"] = {
 ["enable"] = false,
 },
-["middleClickFocus"] = false,
+["RestIcon"] = {
+["enable"] = false,
+},
 ["power"] = {
 ["xOffset"] = 0,
 ["text_format"] = "",
 ["position"] = "CENTER",
 ["detachedWidth"] = 130,
 },
-["RestIcon"] = {
-["enable"] = false,
-},
-["width"] = 210,
 ["gps"] = {
 ["enable"] = false,
 },
+["width"] = 210,
+["middleClickFocus"] = false,
 ["castbar"] = {
 ["icon"] = false,
 ["height"] = 15,
@@ -14501,14 +14510,17 @@ true,
 [1168] = {
 ["Korgath"] = true,
 },
-[69] = {
-["Arthas"] = true,
-},
 [3693] = {
 ["Kel'Thuzad"] = true,
 },
+[69] = {
+["Arthas"] = true,
+},
 [76] = {
 ["Sargeras"] = true,
+},
+[53] = {
+["Eredar"] = true,
 },
 },
 ["SLErrorDisabledAddOns"] = {
@@ -14531,6 +14543,9 @@ true,
 ["Sargeras"] = {
 ["Calestin"] = "Horde",
 ["Emptyrivers"] = "Horde",
+},
+["Eredar"] = {
+["Doneer"] = "Alliance",
 },
 ["Argent Dawn"] = {
 ["Sverdrup"] = "Horde",
@@ -14604,16 +14619,10 @@ true,
 ["Savattellir"] = 100000,
 },
 ["Kel'Thuzad"] = {
-["Esker"] = 71286177,
-["Gelae"] = 338785220,
+["Esker"] = 198257055,
+["Gelae"] = 120525369,
 },
 ["The Scryers"] = {
-},
-["Thrall"] = {
-["Beefyrivers"] = 504034,
-},
-["Moon Guard"] = {
-["Yandanderex"] = 0,
 },
 ["Sargeras"] = {
 ["Luckyrivers"] = 314697915,
@@ -14624,18 +14633,27 @@ true,
 ["Serenerivers"] = 269097490,
 ["Emptyrivers"] = 10000,
 },
+["Moon Guard"] = {
+["Yandanderex"] = 0,
+},
+["Thrall"] = {
+["Beefyrivers"] = 504034,
+},
+["Eredar"] = {
+["Doneer"] = 194792201,
+},
 ["Argent Dawn"] = {
-["Sverdrup"] = 169516905,
-["Mangrove"] = 277642078,
-["Benthos"] = 264419275,
-["Confluence"] = 144548587,
-["Stream"] = 199008829,
-["Riptides"] = 211946732,
-["Riparium"] = 166850086,
-["Estuary"] = 183066289,
-["Cataracts"] = 172280018,
-["Alluvium"] = 157006258,
-["Emptyrivers"] = 181972763,
+["Sverdrup"] = 202601598,
+["Mangrove"] = 244190043,
+["Benthos"] = 37572641,
+["Confluence"] = 278215366,
+["Stream"] = 158917379,
+["Riptides"] = 161062033,
+["Riparium"] = 289977956,
+["Estuary"] = 225532350,
+["Cataracts"] = 136183602,
+["Alluvium"] = 123771174,
+["Emptyrivers"] = 40226898,
 },
 },
 ["DisabledAddOns"] = {
@@ -14688,44 +14706,45 @@ true,
 ["Headcut - Argent Dawn"] = "Default",
 ["Serenerivers - Kel'Thuzad"] = "Default",
 ["Greedyrivers - Arthas"] = "Default",
+["Asperos - Kel'Thuzad"] = "Default",
 ["Hulyon - Kel'Thuzad"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
 ["Littlerivers - Kel'Thuzad"] = "Default",
 ["Alandere - Argent Dawn"] = "Default",
-["Asperos - Kel'Thuzad"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
-["Mangrove - Argent Dawn"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
 ["Savattellir - Arthas"] = "Default",
 ["Edgyrivers - Kel'Thuzad"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
-["Alluvium - Argent Dawn"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
-["Wildrivers - Arthas"] = "Default",
 ["Riparium - Argent Dawn"] = "Default",
+["Wildrivers - Arthas"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
 ["Beefyrivers - Arthas"] = "Default",
 ["Evilrivers - Korgath"] = "Default",
-["Lotic - Argent Dawn"] = "Default",
-["Boringrivers - Bleeding Hollow"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
+["Sassyrivers - Arthas"] = "Default",
 ["Blindrivers - Korgath"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
 ["Serenerivers - Sargeras"] = "Default",
 ["Luckyrivers - Korgath"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
-["Mecharivers - Sargeras"] = "Default",
-["Ragingrivers - Arthas"] = "Default",
-["Confluence - Argent Dawn"] = "Default",
-["Emptyrivers - Bleeding Hollow"] = "Default",
 ["Crazyrivers - Arthas"] = "Default",
+["Mecharivers - Sargeras"] = "Default",
+["Confluence - Argent Dawn"] = "Default",
+["Ragingrivers - Arthas"] = "Default",
+["Emptyrivers - Bleeding Hollow"] = "Default",
 ["Edgyrivers - Arthas"] = "Default",
+["Boringrivers - Bleeding Hollow"] = "Default",
 ["Evilrivers - Kel'Thuzad"] = "Default",
-["Sassyrivers - Arthas"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
 ["Emptyrivers - Korgath"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Alluvium - Argent Dawn"] = "Default",
 ["Magicrivers - Korgath"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
+["Mangrove - Argent Dawn"] = "Default",
 ["Tinyrivers - Sargeras"] = "Default",
-["Benthos - Argent Dawn"] = "Default",
 ["Blindrivers - Arthas"] = "Default",
+["Doneer - Eredar"] = "Default",
 },
 ["SLE_DB_Ver"] = "4.82",
 ["SLEMinimize"] = {
@@ -14758,6 +14777,7 @@ ElvPrivateDB = {
 ["Angryrivers - Korgath"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
 ["Toofattohide - Kel'Thuzad"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
 ["Serenerivers - Korgath"] = "Default",
 ["Kdajshtlaiuw - Bleeding Hollow"] = "Default",
@@ -14767,33 +14787,33 @@ ElvPrivateDB = {
 ["Riversticks - Bleeding Hollow"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Imnotamonk - Korgath"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
 ["Skankyrivers - Arthas"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 ["Boringrivers - Korgath"] = "Default",
 ["Rapidrivers - Arthas"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
-["Naturerivers - Korgath"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Garumn - Arthas"] = "Default",
+["Naturerivers - Korgath"] = "Default",
 ["Riparium - Argent Dawn"] = "Default",
-["Ailisuul - Arthas"] = "Default",
 ["Teenybubbles - Madoran"] = "Default",
-["Inundito - Kel'Thuzad"] = "Default",
+["Doneer - Eredar"] = "Default",
+["Treesurgeon - Korgath"] = "Default",
+["Elakai - Kel'Thuzad"] = "Default",
 ["Mindrivers - Korgath"] = "Default",
 ["Bittydots - Korgath"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
 ["Emptyrivers - Korgath"] = "Default",
-["Elakai - Kel'Thuzad"] = "Default",
+["Sassyrivers - Arthas"] = "Default",
 ["Blindrivers - Sargeras"] = "Default",
 ["Tinyrivers - Kel'Thuzad"] = "Default",
-["Sassyrivers - Arthas"] = "Default",
+["Serenerivers - Kel'Thuzad"] = "Default",
 ["Testrivers - Bleeding Hollow"] = "Default",
 ["Beefyrivers - Bleeding Hollow"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Notariver - Arthas"] = "Default",
+["Serenerivers - Bleeding Hollow"] = "Default",
 ["Blindrivers - Arthas"] = "Default",
 ["Zimuures - Argent Dawn"] = "Default",
 ["Hulyon - Kel'Thuzad"] = "Default",
@@ -14802,31 +14822,31 @@ ElvPrivateDB = {
 ["Alandere - Argent Dawn"] = "Default",
 ["Spicydremer - Korgath"] = "Default",
 ["Hiddenrivers - Korgath"] = "Default",
-["Edgyrivers - Kel'Thuzad"] = "Default",
+["Ragingrivers - Arthas"] = "Default",
 ["Savattellir - Arthas"] = "Default",
 ["Edgyrivers - Arthas"] = "Default",
-["Ragingrivers - Arthas"] = "Default",
 ["Greedyrivers - Arthas"] = "Default",
+["Brightrivers - Korgath"] = "Default",
 ["Elakai - Korgath"] = "Default",
 ["Wildrivers - Arthas"] = "Default",
-["Beefyrivers - Arthas"] = "Default",
+["Luckyrivers - Korgath"] = "Default",
 ["Lotic - Argent Dawn"] = "Default",
 ["Evilrivers - Korgath"] = "Default",
-["Luckyrivers - Korgath"] = "Default",
+["Blindrivers - Korgath"] = "Default",
 ["Emptyrivers - Sargeras"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
-["Blindrivers - Korgath"] = "Default",
+["Beefyrivers - Arthas"] = "Default",
 ["Serenerivers - Sargeras"] = "Default",
-["Brightrivers - Korgath"] = "Default",
+["Edgyrivers - Kel'Thuzad"] = "Default",
 ["Crazyrivers - Arthas"] = "Default",
 ["Mecharivers - Sargeras"] = "Default",
-["Serenerivers - Bleeding Hollow"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
+["Notariver - Arthas"] = "Default",
 ["Emptyrivers - Bleeding Hollow"] = "Default",
-["Serenerivers - Kel'Thuzad"] = "Default",
 ["Alluvium - Argent Dawn"] = "Default",
+["Inundito - Kel'Thuzad"] = "Default",
 ["Evilrivers - Kel'Thuzad"] = "Default",
-["Treesurgeon - Korgath"] = "Default",
+["Ailisuul - Arthas"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
 ["Mahntaiaga - Arthas"] = "Default",
 ["Magicrivers - Korgath"] = "Default",
@@ -15062,23 +15082,6 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "10.43",
 },
-["Sneakyrivers - Korgath"] = {
-["theme"] = "class",
-["general"] = {
-["pixelPerfect"] = true,
-},
-["addonskins"] = {
-["EmbedIsHidden"] = true,
-},
-["install_complete"] = "8.40",
-},
-["Angryrivers - Korgath"] = {
-["addonskins"] = {
-["EmbedSystem"] = true,
-["EmbedMain"] = "details!",
-},
-["install_complete"] = "9.14",
-},
 ["Esker - Kel'Thuzad"] = {
 ["general"] = {
 ["loot"] = false,
@@ -15098,11 +15101,45 @@ ElvPrivateDB = {
 },
 ["install_complete"] = 13.64,
 },
+["Sneakyrivers - Korgath"] = {
+["theme"] = "class",
+["general"] = {
+["pixelPerfect"] = true,
+},
+["addonskins"] = {
+["EmbedIsHidden"] = true,
+},
+["install_complete"] = "8.40",
+},
+["Angryrivers - Korgath"] = {
+["addonskins"] = {
+["EmbedSystem"] = true,
+["EmbedMain"] = "details!",
+},
+["install_complete"] = "9.14",
+},
 ["Toofattohide - Kel'Thuzad"] = {
 },
+["Mothugeon - Argent Dawn"] = {
+["sle"] = {
+["characterGoldsSorting"] = {
+["Argent Dawn"] = {
+},
+},
+},
+["install_complete"] = 13.51,
+},
 ["Default"] = {
-["general"] = {
-["loot"] = false,
+["sle"] = {
+["characterGoldsSorting"] = {
+["Kel'Thuzad"] = {
+},
+["Eredar"] = {
+},
+["Argent Dawn"] = {
+},
+},
+["install_complete"] = "4.85",
 },
 ["bags"] = {
 ["enable"] = false,
@@ -15110,14 +15147,13 @@ ElvPrivateDB = {
 ["nameplates"] = {
 ["enable"] = false,
 },
-["sle"] = {
-["characterGoldsSorting"] = {
-["Kel'Thuzad"] = {
+["general"] = {
+["loot"] = false,
 },
-["Argent Dawn"] = {
+["skins"] = {
+["blizzard"] = {
+["archaeology"] = false,
 },
-},
-["install_complete"] = "4.85",
 },
 ["install_complete"] = 13.81,
 },
@@ -15255,14 +15291,21 @@ ElvPrivateDB = {
 ["theme"] = "class",
 ["install_complete"] = "8.29",
 },
-["Mothugeon - Argent Dawn"] = {
+["Cataracts - Argent Dawn"] = {
+["nameplates"] = {
+["enable"] = false,
+},
+["bags"] = {
+["enable"] = false,
+},
 ["sle"] = {
 ["characterGoldsSorting"] = {
 ["Argent Dawn"] = {
 },
 },
+["install_complete"] = "4.74",
 },
-["install_complete"] = 13.51,
+["install_complete"] = 13.54,
 },
 ["Skankyrivers - Arthas"] = {
 ["theme"] = "class",
@@ -15314,7 +15357,7 @@ ElvPrivateDB = {
 ["theme"] = "class",
 ["install_complete"] = "10.31",
 },
-["Cataracts - Argent Dawn"] = {
+["Flumina - Argent Dawn"] = {
 ["nameplates"] = {
 ["enable"] = false,
 },
@@ -15326,7 +15369,7 @@ ElvPrivateDB = {
 ["Argent Dawn"] = {
 },
 },
-["install_complete"] = "4.74",
+["install_complete"] = "4.60",
 },
 ["install_complete"] = 13.54,
 },
@@ -15346,21 +15389,24 @@ ElvPrivateDB = {
 },
 ["install_complete"] = 13.51,
 },
-["Flumina - Argent Dawn"] = {
+["Riparium - Argent Dawn"] = {
+["sle"] = {
+["characterGoldsSorting"] = {
+["Argent Dawn"] = {
+},
+},
+["install_complete"] = "4.57",
+},
 ["nameplates"] = {
 ["enable"] = false,
 },
 ["bags"] = {
 ["enable"] = false,
 },
-["sle"] = {
-["characterGoldsSorting"] = {
-["Argent Dawn"] = {
+["general"] = {
+["loot"] = false,
 },
-},
-["install_complete"] = "4.60",
-},
-["install_complete"] = 13.54,
+["install_complete"] = 13.15,
 },
 ["Naturerivers - Korgath"] = {
 ["sle"] = {
@@ -15384,25 +15430,6 @@ ElvPrivateDB = {
 ["theme"] = "class",
 ["install_complete"] = "8.40",
 },
-["Riparium - Argent Dawn"] = {
-["sle"] = {
-["characterGoldsSorting"] = {
-["Argent Dawn"] = {
-},
-},
-["install_complete"] = "4.57",
-},
-["nameplates"] = {
-["enable"] = false,
-},
-["bags"] = {
-["enable"] = false,
-},
-["general"] = {
-["loot"] = false,
-},
-["install_complete"] = 13.15,
-},
 ["Garumn - Arthas"] = {
 ["skins"] = {
 ["checkBoxSkin"] = false,
@@ -15412,7 +15439,20 @@ ElvPrivateDB = {
 ["Ailisuul - Arthas"] = {
 ["install_complete"] = "10.82",
 },
-["Teenybubbles - Madoran"] = {
+["Doneer - Eredar"] = {
+["sle"] = {
+["characterGoldsSorting"] = {
+["Eredar"] = {
+},
+},
+},
+},
+["Elakai - Kel'Thuzad"] = {
+["theme"] = "Default",
+["general"] = {
+["pixelPerfect"] = true,
+},
+["install_complete"] = "8.29",
 },
 ["Inundito - Kel'Thuzad"] = {
 ["nameplates"] = {
@@ -15486,25 +15526,6 @@ ElvPrivateDB = {
 ["theme"] = "class",
 ["install_complete"] = "8.29",
 },
-["Elakai - Kel'Thuzad"] = {
-["theme"] = "Default",
-["general"] = {
-["pixelPerfect"] = true,
-},
-["install_complete"] = "8.29",
-},
-["Blindrivers - Sargeras"] = {
-["general"] = {
-["raidmarkerbar"] = {
-["orientation"] = "VERTICAL",
-},
-["minimapbar"] = {
-["skinStyle"] = "VERTICAL",
-["mouseover"] = true,
-},
-},
-["install_complete"] = "10.48",
-},
 ["Tinyrivers - Kel'Thuzad"] = {
 ["CustomTweaks"] = {
 ["PowerBarTexture"] = false,
@@ -15524,7 +15545,19 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "10.43",
 },
-["Confluence - Argent Dawn"] = {
+["Blindrivers - Sargeras"] = {
+["general"] = {
+["raidmarkerbar"] = {
+["orientation"] = "VERTICAL",
+},
+["minimapbar"] = {
+["skinStyle"] = "VERTICAL",
+["mouseover"] = true,
+},
+},
+["install_complete"] = "10.48",
+},
+["Alluvium - Argent Dawn"] = {
 ["general"] = {
 ["loot"] = false,
 },
@@ -15541,7 +15574,13 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "4.57",
 },
-["install_complete"] = 13.15,
+["install_complete"] = 13.1,
+},
+["Beefyrivers - Bleeding Hollow"] = {
+["install_complete"] = "10.68",
+["chat"] = {
+["enable"] = false,
+},
 },
 ["Testrivers - Bleeding Hollow"] = {
 },
@@ -15590,9 +15629,7 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "10.43",
 },
-["Notariver - Arthas"] = {
-["theme"] = "class",
-["install_complete"] = "10.14",
+["Hulyon - Kel'Thuzad"] = {
 },
 ["Blindrivers - Arthas"] = {
 ["addonskins"] = {
@@ -15624,7 +15661,24 @@ ElvPrivateDB = {
 },
 ["install_complete"] = 13.53,
 },
-["Hulyon - Kel'Thuzad"] = {
+["Benthos - Argent Dawn"] = {
+["general"] = {
+["loot"] = false,
+},
+["nameplates"] = {
+["enable"] = false,
+},
+["bags"] = {
+["enable"] = false,
+},
+["sle"] = {
+["characterGoldsSorting"] = {
+["Argent Dawn"] = {
+},
+},
+["install_complete"] = "4.74",
+},
+["install_complete"] = 13.54,
 },
 ["Emptyrivers - Arthas"] = {
 ["equipment"] = {
@@ -15673,13 +15727,6 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "8.29",
 },
-["Hiddenrivers - Korgath"] = {
-["theme"] = "class",
-["addonskins"] = {
-["EmbedIsHidden"] = true,
-},
-["install_complete"] = "8.40",
-},
 ["Ragingrivers - Arthas"] = {
 ["general"] = {
 ["raidmarkerbar"] = {
@@ -15688,6 +15735,10 @@ ElvPrivateDB = {
 },
 ["theme"] = "class",
 ["install_complete"] = "10.31",
+},
+["Edgyrivers - Arthas"] = {
+["theme"] = "class",
+["install_complete"] = "10.70",
 },
 ["Savattellir - Arthas"] = {
 ["theme"] = "class",
@@ -15705,19 +15756,33 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "10.43",
 },
-["Edgyrivers - Arthas"] = {
+["Brightrivers - Korgath"] = {
 ["theme"] = "class",
-["install_complete"] = "10.70",
+["bags"] = {
+["enable"] = false,
 },
-["Greedyrivers - Arthas"] = {
 ["addonskins"] = {
 ["EmbedMain"] = "details!",
-["ParchmentRemover"] = true,
-["EmbedSystem"] = true,
 ["EmbedIsHidden"] = true,
+["EmbedSystem"] = true,
 },
-["theme"] = "class",
-["install_complete"] = "10.14",
+["install_complete"] = "8.40",
+},
+["Lotic - Argent Dawn"] = {
+["nameplates"] = {
+["enable"] = false,
+},
+["bags"] = {
+["enable"] = false,
+},
+["sle"] = {
+["characterGoldsSorting"] = {
+["Argent Dawn"] = {
+},
+},
+["install_complete"] = "4.70",
+},
+["install_complete"] = 13.42,
 },
 ["Elakai - Korgath"] = {
 ["addonskins"] = {
@@ -15766,21 +15831,19 @@ ElvPrivateDB = {
 ["theme"] = "class",
 ["install_complete"] = "10.14",
 },
-["Lotic - Argent Dawn"] = {
-["nameplates"] = {
-["enable"] = false,
-},
-["bags"] = {
-["enable"] = false,
-},
-["sle"] = {
-["characterGoldsSorting"] = {
-["Argent Dawn"] = {
+["Blindrivers - Korgath"] = {
+["general"] = {
+["raidmarkerbar"] = {
+["orientation"] = "VERTICAL",
 },
 },
-["install_complete"] = "4.70",
+["addonskins"] = {
+["EmbedMain"] = "details!",
+["EmbedIsHidden"] = true,
+["EmbedSystem"] = true,
 },
-["install_complete"] = 13.42,
+["theme"] = "class",
+["install_complete"] = "10.14",
 },
 ["Evilrivers - Korgath"] = {
 ["addonskins"] = {
@@ -15790,15 +15853,6 @@ ElvPrivateDB = {
 },
 ["theme"] = "class",
 ["install_complete"] = "8.40",
-},
-["Luckyrivers - Korgath"] = {
-["addonskins"] = {
-["EmbedSystem"] = true,
-["ParchmentRemover"] = true,
-["EmbedIsHidden"] = true,
-["EmbedMain"] = "details!",
-},
-["install_complete"] = "9.14",
 },
 ["Emptyrivers - Sargeras"] = {
 ["nameplates"] = {
@@ -15821,6 +15875,15 @@ ElvPrivateDB = {
 },
 ["install_complete"] = 13.64,
 },
+["Luckyrivers - Korgath"] = {
+["addonskins"] = {
+["EmbedSystem"] = true,
+["ParchmentRemover"] = true,
+["EmbedIsHidden"] = true,
+["EmbedMain"] = "details!",
+},
+["install_complete"] = "9.14",
+},
 ["Saellindris - Kel'Thuzad"] = {
 ["nameplates"] = {
 ["enable"] = false,
@@ -15837,16 +15900,12 @@ ElvPrivateDB = {
 },
 ["install_complete"] = 13.64,
 },
-["Blindrivers - Korgath"] = {
-["general"] = {
-["raidmarkerbar"] = {
-["orientation"] = "VERTICAL",
-},
-},
+["Greedyrivers - Arthas"] = {
 ["addonskins"] = {
 ["EmbedMain"] = "details!",
-["EmbedIsHidden"] = true,
+["ParchmentRemover"] = true,
 ["EmbedSystem"] = true,
+["EmbedIsHidden"] = true,
 },
 ["theme"] = "class",
 ["install_complete"] = "10.14",
@@ -15863,15 +15922,10 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "10.48",
 },
-["Brightrivers - Korgath"] = {
+["Hiddenrivers - Korgath"] = {
 ["theme"] = "class",
-["bags"] = {
-["enable"] = false,
-},
 ["addonskins"] = {
-["EmbedMain"] = "details!",
 ["EmbedIsHidden"] = true,
-["EmbedSystem"] = true,
 },
 ["install_complete"] = "8.40",
 },
@@ -15890,46 +15944,13 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "10.48",
 },
-["Benthos - Argent Dawn"] = {
-["general"] = {
-["loot"] = false,
-},
-["nameplates"] = {
-["enable"] = false,
-},
-["bags"] = {
-["enable"] = false,
-},
-["sle"] = {
-["characterGoldsSorting"] = {
-["Argent Dawn"] = {
-},
-},
-["install_complete"] = "4.74",
-},
-["install_complete"] = 13.54,
-},
 ["Serenerivers - Bleeding Hollow"] = {
 ["install_complete"] = "10.68",
 ["bags"] = {
 ["enable"] = false,
 },
 },
-["Emptyrivers - Bleeding Hollow"] = {
-["general"] = {
-["minimapbar"] = {
-["mbcalendar"] = true,
-},
-},
-["install_complete"] = "10.68",
-},
-["Beefyrivers - Bleeding Hollow"] = {
-["install_complete"] = "10.68",
-["chat"] = {
-["enable"] = false,
-},
-},
-["Alluvium - Argent Dawn"] = {
+["Confluence - Argent Dawn"] = {
 ["general"] = {
 ["loot"] = false,
 },
@@ -15946,7 +15967,21 @@ ElvPrivateDB = {
 },
 ["install_complete"] = "4.57",
 },
-["install_complete"] = 13.1,
+["install_complete"] = 13.15,
+},
+["Emptyrivers - Bleeding Hollow"] = {
+["general"] = {
+["minimapbar"] = {
+["mbcalendar"] = true,
+},
+},
+["install_complete"] = "10.68",
+},
+["Notariver - Arthas"] = {
+["theme"] = "class",
+["install_complete"] = "10.14",
+},
+["Teenybubbles - Madoran"] = {
 },
 ["Evilrivers - Kel'Thuzad"] = {
 ["theme"] = "class",

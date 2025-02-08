@@ -7,10 +7,10 @@ GliderAddOnDB = {
 ["point"] = "BOTTOM",
 ["textPosition"] = "Bottom",
 },
-["Main"] = {
-["y"] = 200.33349609375,
-["x"] = -4.57135009765625,
-["point"] = "BOTTOM",
+["Torghast"] = {
+["y"] = 170,
+["x"] = 0,
+["point"] = "CENTER",
 ["textPosition"] = "Bottom",
 },
 ["test"] = {
@@ -19,5 +19,24 @@ GliderAddOnDB = {
 ["point"] = "CENTER",
 ["textPosition"] = "Bottom",
 },
+["Main"] = {
+["y"] = 200.33349609375,
+["x"] = -4.57135009765625,
+["point"] = "BOTTOM",
+["textPosition"] = "Bottom",
 },
+["dev"] = {
+["y"] = -198.8331146240234,
+["x"] = 0.16656494140625,
+["point"] = "CENTER",
+["textPosition"] = "Bottom",
+},
+["GliderGlobalSettings"] = {
+["y"] = 170,
+["x"] = 0,
+["point"] = "CENTER",
+["textPosition"] = "Bottom",
+},
+},
+["globalSettingsEnabled"] = false,
 }

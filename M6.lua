@@ -21,8 +21,46 @@ M6DB = {
 },
 },
 },
+["The Scryers"] = {
+["Wildeadoriah"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[5] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
+["Eredar"] = {
+["Doneer"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[5] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+[3] = {
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+},
 ["Kel'Thuzad"] = {
-["Esker"] = {
+["Inundito"] = {
 {
 ["slots"] = {
 },
@@ -62,27 +100,27 @@ M6DB = {
 },
 },
 },
-["Inundito"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-},
 ["Gelae"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
+},
+["Esker"] = {
 {
 ["slots"] = {
 },
@@ -143,22 +181,6 @@ M6DB = {
 },
 },
 },
-["The Scryers"] = {
-["Wildeadoriah"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
-[5] = {
-["slots"] = {
-},
-["bind"] = {
-},
-},
-},
-},
 ["Sargeras"] = {
 ["Calestin"] = {
 {
@@ -204,13 +226,7 @@ M6DB = {
 },
 },
 },
-["Mangrove"] = {
-{
-["slots"] = {
-},
-["bind"] = {
-},
-},
+["Flumina"] = {
 {
 ["slots"] = {
 },
@@ -272,7 +288,13 @@ M6DB = {
 },
 },
 },
-["Flumina"] = {
+["Mangrove"] = {
+{
+["slots"] = {
+},
+["bind"] = {
+},
+},
 {
 ["slots"] = {
 },
