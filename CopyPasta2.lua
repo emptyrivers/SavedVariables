@@ -1,26 +1,49 @@
 
 PasteDB = {
 ["profileKeys"] = {
+["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
+["Dukasuka - Eredar"] = "Dukasuka - Eredar",
+["Stream - Argent Dawn"] = "Default",
+["Doneer - Eredar"] = "Default",
+["Mangrove - Argent Dawn"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
 ["Alluvium - Argent Dawn"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
-["Doneer - Eredar"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Mangrove - Argent Dawn"] = "Default",
+["Darick - Eredar"] = "Darick - Eredar",
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riparium - Argent Dawn"] = "Default",
-["Riptides - Argent Dawn"] = "Default",
-["Emptyrivers - Argent Dawn"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
+["Emptyrivers - Argent Dawn"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Riptides - Argent Dawn"] = "Default",
+["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
-["Alluvium - Argent Dawn"] = {
+["Rosefin - Argent Dawn"] = {
 ["loaded"] = true,
 },
-["Sverdrup - Argent Dawn"] = {
+["Dukasuka - Eredar"] = {
+["loaded"] = true,
+},
+["Stream - Argent Dawn"] = {
+["loaded"] = true,
+},
+["Doneer - Eredar"] = {
+["loaded"] = true,
+},
+["Mangrove - Argent Dawn"] = {
+["loaded"] = true,
+},
+["Cataracts - Argent Dawn"] = {
+["loaded"] = true,
+},
+["Dannius - Argent Dawn"] = {
+["loaded"] = true,
+},
+["Alluvium - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Esker - Kel'Thuzad"] = {
@@ -30,21 +53,14 @@ PasteDB = {
 ["pos"] = {
 },
 },
-["Doneer - Eredar"] = {
-["loaded"] = true,
-},
-["Mangrove - Argent Dawn"] = {
+["Darick - Eredar"] = {
 ["loaded"] = true,
 },
 ["Confluence - Argent Dawn"] = {
 ["loaded"] = true,
 },
-["Default"] = {
+["Sverdrup - Argent Dawn"] = {
 ["loaded"] = true,
-["where"] = "Default",
-["whispertarget"] = "",
-["pos"] = {
-},
 },
 ["Gelae - Kel'Thuzad"] = {
 ["loaded"] = true,
@@ -58,13 +74,20 @@ PasteDB = {
 ["Emptyrivers - Argent Dawn"] = {
 ["loaded"] = true,
 },
+["Default"] = {
+["loaded"] = true,
+["minimap"] = {
+["minimapPos"] = 291.2785567022319,
+},
+["where"] = "Default",
+["whispertarget"] = "",
+["pos"] = {
+},
+},
 ["Benthos - Argent Dawn"] = {
 ["loaded"] = true,
 },
-["Cataracts - Argent Dawn"] = {
-["loaded"] = true,
-},
-["Stream - Argent Dawn"] = {
+["Roberia - Eredar"] = {
 ["loaded"] = true,
 },
 ["Estuary - Argent Dawn"] = {

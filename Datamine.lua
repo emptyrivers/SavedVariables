@@ -50,8 +50,8 @@ DatamineConfig = {
 ["TooltipItemShowAppearanceID"] = true,
 ["TooltipEnableCustomizations"] = true,
 ["UIFrameSize"] = {
-["Height"] = 792.0000000000001,
-["Width"] = 1408,
+["Height"] = 483.7839660644531,
+["Width"] = 1239.478881835938,
 },
 ["TooltipCurrencyShowHasWarmodeBonus"] = false,
 ["TooltipMountShowMountID"] = true,

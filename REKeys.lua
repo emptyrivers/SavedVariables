@@ -1,38 +1,39 @@
 
 REKeysSettings = {
 ["MinimapButtonSettings"] = {
+["minimapPos"] = 319.3029929264062,
 ["hide"] = false,
 },
 ["OfflinePlayers"] = false,
-["ResetTimestamp"] = 314334,
+["ResetTimestamp"] = 393730,
 ["FullDungeonName"] = false,
 ["PinnedCharacters"] = {
 },
 ["KeyNotification"] = true,
 ["ChatQueryGuild"] = true,
-["CurrentWeek"] = 5,
-["ServerTimestamp"] = 1738699599,
+["CurrentWeek"] = 4,
+["ServerTimestamp"] = 1747762254,
 ["ChatQuery"] = true,
 ["ChatQueryGroup"] = true,
 ["Sorting"] = 1,
 }
 REKeysDB2 = {
-["Beamindemon-Proudmoore"] = {
-["MapID"] = 501,
+["Elayna"] = {
+["MapID"] = 382,
+["Group"] = true,
+["Faction"] = "Horde",
 ["Fresh"] = false,
-["Faction"] = "",
-["Group"] = false,
-["Level"] = 8,
-["Class"] = "DEMONHUNTER",
-["Rating"] = 2653,
+["Rating"] = 2727,
+["Class"] = "HUNTER",
+["Level"] = 10,
 },
-["Permaphrost-Proudmoore"] = {
-["MapID"] = 505,
-["Group"] = false,
-["Faction"] = "",
-["Fresh"] = false,
-["Rating"] = 2712,
-["Class"] = "MAGE",
-["Level"] = 11,
+["Confluence"] = {
+["MapID"] = 370,
+["Fresh"] = true,
+["Faction"] = "Alliance",
+["Group"] = true,
+["Level"] = 12,
+["Class"] = "PALADIN",
+["Rating"] = 2814,
 },
 }

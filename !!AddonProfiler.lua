@@ -21,8 +21,11 @@ AddonProfilerDB = {
 ["overCount-500"] = true,
 ["averageMs"] = true,
 },
-["mode"] = "active",
+["closeOnEsc"] = "always",
+["mode"] = "performance",
+["enabled"] = true,
 ["minimap"] = {
+["minimapPos"] = 303.8588865091472,
 ["hide"] = false,
 },
 }

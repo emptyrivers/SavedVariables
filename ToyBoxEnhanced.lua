@@ -61,6 +61,8 @@ ToyBoxEnhancedGlobalSettings = {
 206268,
 187591,
 186974,
+44606,
+230850,
 },
 ["name"] = "",
 ["initialScan"] = true,

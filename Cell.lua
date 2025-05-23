@@ -1,7 +1,7 @@
 
 CellDB = {
 ["general"] = {
-["showSolo"] = true,
+["showSolo"] = false,
 ["fadeOut"] = true,
 ["hideTooltipsInCombat"] = true,
 ["menuPosition"] = "top_bottom",
@@ -36,9 +36,19 @@ false,
 15,
 },
 },
+["crowdControls"] = {
+["disabled"] = {
+},
+["custom"] = {
+},
+},
 ["customTextures"] = {
 },
-["quickCast"] = {
+["snippets"] = {
+[0] = {
+["autorun"] = true,
+["code"] = "-- snippets can be found at https://github.com/enderneko/Cell/tree/master/.snippets\n-- use \"/run CellDB['snippets'][0]=nil ReloadUI()\" to reset this snippet\n\n-- cooldown style for icon/block indicators (\"VERTICAL\", \"CLOCK\")\nCELL_COOLDOWN_STYLE = \"VERTICAL\"\n\n-- fade out unit button if hp percent > (number: 0-1)\nCELL_FADE_OUT_HEALTH_PERCENT = nil\n\n-- add summon icons to Status Icon indicator (boolean, retail only)\nCELL_SUMMON_ICONS_ENABLED = false\n\n-- use separate width and height for custom indicator icons (boolean)\nCELL_RECTANGULAR_CUSTOM_INDICATOR_ICONS = false\n\n-- Use nicknames from Details! Damage Meter (boolean, NickTag-1.0 library)\nCELL_NICKTAG_ENABLED = false\n\n-- remove raid setup details from the tooltip of the Raid button (boolean)\nCELL_TOOLTIP_REMOVE_RAID_SETUP_DETAILS = false\n\n-- border thickness: unit button and icon (number)\nCELL_BORDER_SIZE = 1\n\n-- unit button border color ({r, g, b, a}, number: 0-1)\nCELL_BORDER_COLOR = {0, 0, 0, 1}\n\n-- show group pet owner name (\"VEHICLE\", \"NAME\", nil)\nCELL_SHOW_GROUP_PET_OWNER_NAME = nil\n\n-- use LibHealComm (boolean, non-retail)\nCELL_USE_LIBHEALCOMM = false",
+},
 },
 ["quickAssist"] = {
 },
@@ -100,92 +110,6 @@ false,
 {
 "type2",
 "togglemenu",
-},
-},
-["smartResurrection"] = "disabled",
-},
-["WARLOCK"] = {
-[1454] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-altR",
-"spell",
-20707,
-},
-},
-["alwaysTargeting"] = {
-[1454] = "disabled",
-["common"] = "disabled",
-[266] = "disabled",
-[267] = "disabled",
-[265] = "disabled",
-},
-["common"] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-altR",
-"spell",
-20707,
-},
-},
-[265] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-altR",
-"spell",
-20707,
-},
-},
-[266] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-altR",
-"spell",
-20707,
-},
-},
-["useCommon"] = true,
-[267] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-altR",
-"spell",
-20707,
 },
 },
 ["smartResurrection"] = "disabled",
@@ -294,7 +218,8 @@ false,
 [63] = "disabled",
 [1449] = "disabled",
 },
-[1449] = {
+["useCommon"] = true,
+["common"] = {
 {
 "type1",
 "target",
@@ -304,7 +229,7 @@ false,
 "togglemenu",
 },
 },
-["common"] = {
+[1449] = {
 {
 "type1",
 "target",
@@ -324,7 +249,6 @@ false,
 "togglemenu",
 },
 },
-["useCommon"] = true,
 [63] = {
 {
 "type1",
@@ -333,178 +257,6 @@ false,
 {
 "type2",
 "togglemenu",
-},
-},
-["smartResurrection"] = "disabled",
-},
-["MONK"] = {
-[269] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-115178,
-},
-},
-["alwaysTargeting"] = {
-[269] = "disabled",
-[270] = "disabled",
-["common"] = "disabled",
-[268] = "disabled",
-[1450] = "disabled",
-},
-[1450] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-115178,
-},
-},
-["common"] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-115178,
-},
-},
-[270] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-115178,
-},
-},
-["useCommon"] = true,
-[268] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-115178,
-},
-},
-["smartResurrection"] = "disabled",
-},
-["EVOKER"] = {
-["alwaysTargeting"] = {
-[1468] = "disabled",
-[1465] = "disabled",
-["common"] = "disabled",
-[1473] = "disabled",
-[1467] = "disabled",
-},
-[1468] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-361227,
-},
-},
-[1465] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-361227,
-},
-},
-["common"] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-361227,
-},
-},
-[1473] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-361227,
-},
-},
-["useCommon"] = true,
-[1467] = {
-{
-"type1",
-"target",
-},
-{
-"type2",
-"togglemenu",
-},
-{
-"type-shiftR",
-"spell",
-361227,
 },
 },
 ["smartResurrection"] = "disabled",
@@ -595,6 +347,507 @@ false,
 },
 ["smartResurrection"] = "disabled",
 },
+["WARLOCK"] = {
+[1454] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20707,
+},
+},
+["alwaysTargeting"] = {
+[1454] = "disabled",
+["common"] = "disabled",
+[266] = "disabled",
+[267] = "disabled",
+[265] = "disabled",
+},
+["common"] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20707,
+},
+},
+[265] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20707,
+},
+},
+[266] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20707,
+},
+},
+["useCommon"] = true,
+[267] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20707,
+},
+},
+["smartResurrection"] = "disabled",
+},
+["PALADIN"] = {
+[70] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+391054,
+},
+{
+"type-shiftR",
+"spell",
+7328,
+},
+},
+["alwaysTargeting"] = {
+[66] = "disabled",
+[1451] = "disabled",
+["common"] = "disabled",
+[65] = "disabled",
+[70] = "disabled",
+},
+[1451] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+391054,
+},
+{
+"type-shiftR",
+"spell",
+7328,
+},
+},
+["common"] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+391054,
+},
+{
+"type-shiftR",
+"spell",
+7328,
+},
+},
+[65] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+391054,
+},
+{
+"type-shiftR",
+"spell",
+7328,
+},
+},
+["useCommon"] = true,
+[66] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+391054,
+},
+{
+"type-shiftR",
+"spell",
+7328,
+},
+},
+["smartResurrection"] = "disabled",
+},
+["DRUID"] = {
+[103] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20484,
+},
+{
+"type-shiftR",
+"spell",
+50769,
+},
+},
+["common"] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20484,
+},
+{
+"type-shiftR",
+"spell",
+50769,
+},
+},
+[104] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20484,
+},
+{
+"type-shiftR",
+"spell",
+50769,
+},
+},
+["smartResurrection"] = "disabled",
+[105] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20484,
+},
+{
+"type-shiftR",
+"spell",
+50769,
+},
+},
+["alwaysTargeting"] = {
+[1447] = "disabled",
+[103] = "disabled",
+["common"] = "disabled",
+[102] = "disabled",
+[104] = "disabled",
+[105] = "disabled",
+},
+[1447] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20484,
+},
+{
+"type-shiftR",
+"spell",
+50769,
+},
+},
+[102] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-altR",
+"spell",
+20484,
+},
+{
+"type-shiftR",
+"spell",
+50769,
+},
+},
+["useCommon"] = true,
+},
+["EVOKER"] = {
+["alwaysTargeting"] = {
+[1468] = "disabled",
+[1465] = "disabled",
+["common"] = "disabled",
+[1473] = "disabled",
+[1467] = "disabled",
+},
+[1468] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+361227,
+},
+},
+[1465] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+361227,
+},
+},
+["common"] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+361227,
+},
+},
+[1473] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+361227,
+},
+},
+["useCommon"] = true,
+[1467] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+361227,
+},
+},
+["smartResurrection"] = "disabled",
+},
+["MONK"] = {
+[269] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+115178,
+},
+},
+["alwaysTargeting"] = {
+[269] = "disabled",
+[270] = "disabled",
+["common"] = "disabled",
+[268] = "disabled",
+[1450] = "disabled",
+},
+[1450] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+115178,
+},
+},
+["common"] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+115178,
+},
+},
+[270] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+115178,
+},
+},
+["useCommon"] = true,
+[268] = {
+{
+"type1",
+"target",
+},
+{
+"type2",
+"togglemenu",
+},
+{
+"type-shiftR",
+"spell",
+115178,
+},
+},
+["smartResurrection"] = "disabled",
+},
 },
 ["debuffBlacklist"] = {
 8326,
@@ -613,11 +866,134 @@ false,
 387847,
 213213,
 },
-["changelogsViewed"] = "r243-release",
-["snippets"] = {
-[0] = {
-["autorun"] = true,
-["code"] = "-- snippets can be found at https://github.com/enderneko/Cell/tree/master/.snippets\n-- use \"/run CellDB['snippets'][0]=nil ReloadUI()\" to reset this snippet\n\n-- cooldown style for icon/block indicators (\"VERTICAL\", \"CLOCK\")\nCELL_COOLDOWN_STYLE = \"VERTICAL\"\n\n-- fade out unit button if hp percent > (number: 0-1)\nCELL_FADE_OUT_HEALTH_PERCENT = nil\n\n-- add summon icons to Status Icon indicator (boolean, retail only)\nCELL_SUMMON_ICONS_ENABLED = false\n\n-- use separate width and height for custom indicator icons (boolean)\nCELL_RECTANGULAR_CUSTOM_INDICATOR_ICONS = false\n\n-- Use nicknames from Details! Damage Meter (boolean, NickTag-1.0 library)\nCELL_NICKTAG_ENABLED = false\n\n-- remove raid setup details from the tooltip of the Raid button (boolean)\nCELL_TOOLTIP_REMOVE_RAID_SETUP_DETAILS = false\n\n-- border thickness: unit button and icon (number)\nCELL_BORDER_SIZE = 1\n\n-- unit button border color ({r, g, b, a}, number: 0-1)\nCELL_BORDER_COLOR = {0, 0, 0, 1}\n\n-- show raid pet owner name (\"VEHICLE\", \"NAME\", nil)\nCELL_SHOW_RAID_PET_OWNER_NAME = nil\n\n-- use LibHealComm (boolean, non-retail)\nCELL_USE_LIBHEALCOMM = false",
+["indicatorPreview"] = {
+["scale"] = 2,
+["showAll"] = false,
+},
+["quickCast"] = {
+},
+["spellRequest"] = {
+["enabled"] = false,
+["timeout"] = 10,
+["responseType"] = "me",
+["spells"] = {
+{
+["glowOptions"] = {
+"pixel",
+{
+{
+1,
+1,
+0,
+1,
+},
+0,
+0,
+9,
+0.25,
+8,
+2,
+},
+},
+["type"] = "icon",
+["spellId"] = 10060,
+["isBuiltIn"] = true,
+["buffId"] = 10060,
+["keywords"] = "Power Infusion",
+["icon"] = 135939,
+["iconColor"] = {
+1,
+1,
+0,
+1,
+},
+},
+{
+["glowOptions"] = {
+"pixel",
+{
+{
+0,
+1,
+1,
+1,
+},
+0,
+0,
+9,
+0.25,
+8,
+2,
+},
+},
+["type"] = "icon",
+["spellId"] = 29166,
+["isBuiltIn"] = true,
+["buffId"] = 29166,
+["keywords"] = "Innervate",
+["icon"] = 136048,
+["iconColor"] = {
+0,
+1,
+1,
+1,
+},
+},
+},
+["sharedIconOptions"] = {
+"beat",
+27,
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+0,
+},
+["knownSpellsOnly"] = true,
+["checkIfExists"] = true,
+["replyCooldown"] = true,
+["freeCooldownOnly"] = true,
+},
+["tools"] = {
+["battleResTimer"] = {
+false,
+false,
+{
+},
+},
+["fadeOut"] = false,
+["deathReport"] = {
+false,
+10,
+},
+["buffTracker"] = {
+false,
+"left-to-right",
+32,
+{
+},
+},
+["marks"] = {
+false,
+false,
+"both_h",
+{
+},
+},
+["readyAndPull"] = {
+false,
+"text_button",
+{
+"default",
+7,
+},
+{
+},
+},
+},
+["aoeHealings"] = {
+["disabled"] = {
+},
+["custom"] = {
 },
 },
 ["actions"] = {
@@ -655,130 +1031,28 @@ false,
 },
 },
 },
-["tools"] = {
-["fadeOut"] = false,
-["showBattleRes"] = false,
-["deathReport"] = {
-false,
-10,
-},
-["buffTracker"] = {
-false,
-"left-to-right",
-32,
+["targetedSpellsGlow"] = {
+"Pixel",
 {
-},
-},
-["marks"] = {
-false,
-false,
-"both_h",
-{
-},
-},
-["readyAndPull"] = {
-false,
-"text_button",
-{
-"default",
-7,
-},
-{
-},
-},
-},
-["indicatorPreview"] = {
-["scale"] = 2,
-["showAll"] = false,
-},
-["spellRequest"] = {
-["enabled"] = false,
-["timeout"] = 10,
-["responseType"] = "me",
-["spells"] = {
-{
-["glowOptions"] = {
-"pixel",
-{
-{
-1,
-1,
-0,
+0.95,
+0.95,
+0.32,
 1,
 },
-0,
-0,
 9,
 0.25,
 8,
 2,
-},
-},
-["type"] = "icon",
-["spellId"] = 10060,
-["isBuiltIn"] = true,
-["iconColor"] = {
-1,
-1,
-0,
-1,
-},
-["buffId"] = 10060,
-["icon"] = 135939,
-["keywords"] = "Power Infusion",
-},
-{
-["glowOptions"] = {
-"pixel",
-{
-{
-0,
-1,
-1,
-1,
-},
-0,
-0,
-9,
-0.25,
-8,
-2,
-},
-},
-["type"] = "icon",
-["spellId"] = 29166,
-["isBuiltIn"] = true,
-["iconColor"] = {
-0,
-1,
-1,
-1,
-},
-["buffId"] = 29166,
-["icon"] = 136048,
-["keywords"] = "Innervate",
-},
-},
-["sharedIconOptions"] = {
-"beat",
-27,
-"BOTTOMRIGHT",
-"BOTTOMRIGHT",
-0,
-0,
-},
-["knownSpellsOnly"] = true,
-["checkIfExists"] = true,
-["replyCooldown"] = true,
-["freeCooldownOnly"] = true,
-},
-["crowdControls"] = {
-["disabled"] = {
-},
-["custom"] = {
-},
 },
 ["layoutAutoSwitch"] = {
+["WARRIOR"] = {
+},
+["SHAMAN"] = {
+},
+["MAGE"] = {
+},
+["PRIEST"] = {
+},
 ["role"] = {
 ["DAMAGER"] = {
 ["raid_instance"] = "default",
@@ -811,33 +1085,55 @@ false,
 ["battleground40"] = "default",
 },
 },
-["WARRIOR"] = {
-},
 ["WARLOCK"] = {
 },
-["SHAMAN"] = {
+["PALADIN"] = {
 },
-["MAGE"] = {
-},
-["MONK"] = {
+["DRUID"] = {
 },
 ["EVOKER"] = {
 },
-["PRIEST"] = {
+["MONK"] = {
 },
 },
-["targetedSpellsGlow"] = {
-"Pixel",
+["dispelRequest"] = {
+["enabled"] = false,
+["debuffs"] = {
+},
+["timeout"] = 10,
+["responseType"] = "all",
+["glowOptions"] = {
+"shine",
 {
-0.95,
-0.95,
-0.32,
+{
+1,
+0,
+0.4,
 1,
 },
+0,
+0,
 9,
-0.25,
-8,
+0.5,
 2,
+},
+},
+["textOptions"] = {
+"A",
+{
+1,
+0,
+0,
+1,
+},
+32,
+"TOPLEFT",
+"TOPLEFT",
+-1,
+5,
+},
+["type"] = "text",
+["dispellableByMe"] = true,
 },
 ["appearance"] = {
 ["optionsFontSizeOffset"] = 0,
@@ -1016,50 +1312,7 @@ false,
 },
 },
 },
-["dispelRequest"] = {
-["enabled"] = false,
-["debuffs"] = {
-},
-["timeout"] = 10,
-["responseType"] = "all",
-["glowOptions"] = {
-"shine",
-{
-{
-1,
-0,
-0.4,
-1,
-},
-0,
-0,
-9,
-0.5,
-2,
-},
-},
-["textOptions"] = {
-"A",
-{
-1,
-0,
-0,
-1,
-},
-32,
-"TOPLEFT",
-"TOPLEFT",
--1,
-5,
-},
-["type"] = "text",
-["dispellableByMe"] = true,
-},
-["bigDebuffs"] = {
-46392,
-240443,
-209858,
-240559,
+["dispelBlacklist"] = {
 },
 ["externals"] = {
 ["disabled"] = {
@@ -1110,9 +1363,13 @@ false,
 ["b"] = 0,
 },
 },
-["raidDebuffs"] = {
+["bigDebuffs"] = {
+46392,
+240443,
+209858,
+240559,
 },
-["dispelBlacklist"] = {
+["raidDebuffs"] = {
 },
 ["optionsFramePosition"] = {
 1121,
@@ -1124,15 +1381,16 @@ false,
 ["sameArrangementAsMain"] = true,
 ["spacingY"] = 3,
 ["spacingX"] = 3,
+["soloEnabled"] = true,
 ["partyEnabled"] = false,
-["orientation"] = "vertical",
-["raidEnabled"] = true,
-["sameSizeAsMain"] = true,
-["anchor"] = "TOPLEFT",
+["raidEnabled"] = false,
 ["position"] = {
 582,
 656,
 },
+["sameSizeAsMain"] = true,
+["anchor"] = "TOPLEFT",
+["orientation"] = "vertical",
 ["powerSize"] = 2,
 ["size"] = {
 66,
@@ -1184,6 +1442,7 @@ true,
 ["name"] = "Name Text",
 ["position"] = {
 "CENTER",
+"healthBar",
 "CENTER",
 0,
 0,
@@ -1274,7 +1533,17 @@ true,
 {
 ["enabled"] = false,
 ["type"] = "built-in",
-["frameLevel"] = 2,
+["name"] = "Health Text",
+["position"] = {
+"TOP",
+"button",
+"CENTER",
+0,
+-6,
+},
+["indicatorName"] = "healthText",
+["format"] = {
+["health1"] = {
 ["color"] = {
 "custom_color",
 {
@@ -1283,22 +1552,54 @@ true,
 1,
 },
 },
+["format"] = "effective_percent",
+["hideIfEmptyOrFull"] = false,
+},
+["health2"] = {
+["color"] = {
+"custom_color",
+{
+1,
+1,
+1,
+},
+},
+["format"] = "none",
+["delimiter"] = " ",
+["hideIfEmptyOrFull"] = false,
+},
+["shields"] = {
+["color"] = {
+"custom_color",
+{
+0,
+1,
+0,
+},
+},
+["format"] = "none",
+["delimiter"] = "+",
+},
+["healAbsorbs"] = {
+["color"] = {
+"custom_color",
+{
+1,
+0,
+0,
+},
+},
+["format"] = "none",
+["delimiter"] = "-",
+},
+},
 ["font"] = {
 "Cell Default",
 10,
 "None",
 true,
 },
-["name"] = "Health Text",
-["position"] = {
-"TOP",
-"CENTER",
-0,
--5,
-},
-["indicatorName"] = "healthText",
-["format"] = "[effective_percent]",
-["hideIfEmptyOrFull"] = true,
+["frameLevel"] = 2,
 },
 {
 ["enabled"] = false,
@@ -1321,6 +1622,7 @@ true,
 ["name"] = "Power Text",
 ["position"] = {
 "BOTTOMRIGHT",
+"button",
 "BOTTOMRIGHT",
 0,
 3,
@@ -1328,6 +1630,54 @@ true,
 ["indicatorName"] = "powerText",
 ["format"] = "number",
 ["hideIfEmptyOrFull"] = true,
+["filters"] = {
+["DEATHKNIGHT"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+},
+["WARRIOR"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+},
+["ROGUE"] = true,
+["PALADIN"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+["HEALER"] = true,
+},
+["MAGE"] = true,
+["MONK"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+["HEALER"] = true,
+},
+["VEHICLE"] = true,
+["PRIEST"] = {
+["DAMAGER"] = true,
+["HEALER"] = true,
+},
+["SHAMAN"] = {
+["DAMAGER"] = true,
+["HEALER"] = true,
+},
+["NPC"] = true,
+["WARLOCK"] = true,
+["DEMONHUNTER"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+},
+["PET"] = true,
+["DRUID"] = {
+["DAMAGER"] = true,
+["TANK"] = true,
+["HEALER"] = true,
+},
+["EVOKER"] = {
+["DAMAGER"] = true,
+["HEALER"] = true,
+},
+["HUNTER"] = true,
+},
 },
 {
 ["enabled"] = false,
@@ -1353,6 +1703,7 @@ true,
 ["name"] = "Status Icon",
 ["position"] = {
 "TOP",
+"button",
 "TOP",
 0,
 -3,
@@ -1371,6 +1722,7 @@ true,
 ["name"] = "Role Icon",
 ["position"] = {
 "TOPLEFT",
+"button",
 "TOPLEFT",
 0,
 0,
@@ -1394,6 +1746,7 @@ true,
 ["name"] = "Leader Icon",
 ["position"] = {
 "TOPLEFT",
+"button",
 "TOPLEFT",
 1,
 -10,
@@ -1406,11 +1759,31 @@ true,
 },
 },
 {
+["enabled"] = false,
+["type"] = "built-in",
+["name"] = "Combat Icon",
+["position"] = {
+"BOTTOMRIGHT",
+"button",
+"BOTTOMRIGHT",
+4,
+-4,
+},
+["indicatorName"] = "combatIcon",
+["onlyEnableNotInCombat"] = true,
+["frameLevel"] = 5,
+["size"] = {
+16,
+16,
+},
+},
+{
 ["enabled"] = true,
 ["type"] = "built-in",
 ["name"] = "Ready Check Icon",
 ["position"] = {
 "CENTER",
+"button",
 "CENTER",
 0,
 0,
@@ -1428,6 +1801,7 @@ true,
 ["name"] = "Raid Icon (player)",
 ["position"] = {
 "TOP",
+"button",
 "TOP",
 0,
 3,
@@ -1446,6 +1820,7 @@ true,
 ["name"] = "Raid Icon (target)",
 ["position"] = {
 "TOP",
+"button",
 "TOP",
 -14,
 3,
@@ -1464,6 +1839,7 @@ true,
 ["name"] = "Aggro (blink)",
 ["position"] = {
 "TOPLEFT",
+"button",
 "TOPLEFT",
 0,
 0,
@@ -1481,6 +1857,7 @@ true,
 ["name"] = "Aggro (bar)",
 ["position"] = {
 "BOTTOMLEFT",
+"button",
 "TOPLEFT",
 0,
 -1,
@@ -1513,6 +1890,7 @@ true,
 ["name"] = "Shield Bar",
 ["position"] = {
 "BOTTOMLEFT",
+nil,
 "BOTTOMLEFT",
 0,
 0,
@@ -1537,7 +1915,16 @@ true,
 ["enabled"] = true,
 ["type"] = "built-in",
 ["frameLevel"] = 10,
-["indicatorName"] = "externalCooldowns",
+["glowOptions"] = {
+"None",
+{
+0.95,
+0.95,
+0.32,
+1,
+},
+},
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -1572,13 +1959,14 @@ false,
 ["name"] = "External Cooldowns",
 ["position"] = {
 "RIGHT",
+"button",
 "RIGHT",
 2,
 5,
 },
 ["orientation"] = "right-to-left",
-["showDuration"] = false,
 ["num"] = 2,
+["indicatorName"] = "externalCooldowns",
 ["size"] = {
 12,
 20,
@@ -1588,7 +1976,16 @@ false,
 ["enabled"] = true,
 ["type"] = "built-in",
 ["frameLevel"] = 10,
-["indicatorName"] = "defensiveCooldowns",
+["glowOptions"] = {
+"None",
+{
+0.95,
+0.95,
+0.32,
+1,
+},
+},
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -1623,13 +2020,14 @@ false,
 ["name"] = "Defensive Cooldowns",
 ["position"] = {
 "LEFT",
+"button",
 "LEFT",
 -2,
 5,
 },
 ["orientation"] = "left-to-right",
-["showDuration"] = false,
 ["num"] = 2,
+["indicatorName"] = "defensiveCooldowns",
 ["size"] = {
 12,
 20,
@@ -1639,7 +2037,16 @@ false,
 ["enabled"] = false,
 ["type"] = "built-in",
 ["frameLevel"] = 10,
-["indicatorName"] = "allCooldowns",
+["glowOptions"] = {
+"None",
+{
+0.95,
+0.95,
+0.32,
+1,
+},
+},
+["showDuration"] = false,
 ["showAnimation"] = true,
 ["font"] = {
 {
@@ -1674,13 +2081,14 @@ false,
 ["name"] = "Externals + Defensives",
 ["position"] = {
 "LEFT",
+"button",
 "LEFT",
 -2,
 5,
 },
 ["orientation"] = "left-to-right",
-["showDuration"] = false,
 ["num"] = 2,
+["indicatorName"] = "allCooldowns",
 ["size"] = {
 12,
 20,
@@ -1692,6 +2100,7 @@ false,
 ["name"] = "Tank Active Mitigation",
 ["position"] = {
 "TOPLEFT",
+"button",
 "TOPLEFT",
 10,
 0,
@@ -1719,17 +2128,18 @@ false,
 12,
 12,
 },
-["orientation"] = "right-to-left",
+["iconStyle"] = "blizzard",
 ["name"] = "Dispels",
 ["position"] = {
 "BOTTOMRIGHT",
+"button",
 "BOTTOMRIGHT",
 0,
 4,
 },
-["iconStyle"] = "blizzard",
-["highlightType"] = "gradient-half",
 ["indicatorName"] = "dispels",
+["highlightType"] = "gradient-half",
+["orientation"] = "right-to-left",
 ["filters"] = {
 ["dispellableByMe"] = true,
 ["Disease"] = true,
@@ -1748,6 +2158,7 @@ false,
 ["type"] = "built-in",
 ["position"] = {
 "BOTTOMLEFT",
+"button",
 "BOTTOMLEFT",
 1,
 4,
@@ -1840,6 +2251,7 @@ false,
 ["name"] = "Raid Debuffs",
 ["position"] = {
 "CENTER",
+"button",
 "CENTER",
 0,
 3,
@@ -1858,6 +2270,7 @@ false,
 ["name"] = "Private Auras",
 ["position"] = {
 "TOP",
+"button",
 "TOP",
 0,
 3,
@@ -1896,6 +2309,7 @@ false,
 ["name"] = "Targeted Spells",
 ["position"] = {
 "TOPLEFT",
+"button",
 "TOPLEFT",
 -4,
 4,
@@ -1926,6 +2340,7 @@ false,
 ["name"] = "Target Counter",
 ["position"] = {
 "TOP",
+"button",
 "TOP",
 0,
 5,
@@ -1977,6 +2392,7 @@ false,
 ["name"] = "Crowd Controls",
 ["position"] = {
 "CENTER",
+"button",
 "CENTER",
 0,
 0,
@@ -2012,6 +2428,7 @@ false,
 ["name"] = "Missing Buffs",
 ["position"] = {
 "BOTTOMRIGHT",
+"button",
 "BOTTOMRIGHT",
 0,
 4,
@@ -2025,6 +2442,15 @@ false,
 },
 },
 {
+["glowOptions"] = {
+"None",
+{
+0.95,
+0.95,
+0.32,
+1,
+},
+},
 ["showDuration"] = false,
 ["castBy"] = "me",
 ["showAnimation"] = true,
@@ -2075,6 +2501,7 @@ false,
 ["name"] = "Healers",
 ["position"] = {
 "TOPRIGHT",
+"button",
 "TOPRIGHT",
 0,
 3,
@@ -2258,7 +2685,8 @@ true,
 },
 },
 },
-["revise"] = "r243-release",
+["changelogsViewed"] = "r249-release",
+["revise"] = "r249-release",
 ["targetedSpellsList"] = {
 451971,
 451224,
@@ -2388,7 +2816,9 @@ false,
 },
 ["customTextures"] = {
 },
-["quickCast"] = {
+["indicatorPreview"] = {
+["scale"] = 2,
+["showAll"] = false,
 },
 ["quickAssist"] = {
 },
@@ -2644,7 +3074,8 @@ false,
 [63] = "disabled",
 [1449] = "disabled",
 },
-[1449] = {
+["useCommon"] = true,
+["common"] = {
 {
 "type1",
 "target",
@@ -2654,7 +3085,7 @@ false,
 "togglemenu",
 },
 },
-["common"] = {
+[1449] = {
 {
 "type1",
 "target",
@@ -2674,7 +3105,6 @@ false,
 "togglemenu",
 },
 },
-["useCommon"] = true,
 [63] = {
 {
 "type1",
@@ -2877,7 +3307,122 @@ false,
 387847,
 213213,
 },
+["spellRequest"] = {
+["enabled"] = false,
+["timeout"] = 10,
+["responseType"] = "me",
+["spells"] = {
+{
+["glowOptions"] = {
+"pixel",
+{
+{
+1,
+1,
+0,
+1,
+},
+0,
+0,
+9,
+0.25,
+8,
+2,
+},
+},
+["type"] = "icon",
+["spellId"] = 10060,
+["isBuiltIn"] = true,
+["buffId"] = 10060,
+["keywords"] = "Power Infusion",
+["icon"] = 135939,
+["iconColor"] = {
+1,
+1,
+0,
+1,
+},
+},
+{
+["glowOptions"] = {
+"pixel",
+{
+{
+0,
+1,
+1,
+1,
+},
+0,
+0,
+9,
+0.25,
+8,
+2,
+},
+},
+["type"] = "icon",
+["spellId"] = 29166,
+["isBuiltIn"] = true,
+["buffId"] = 29166,
+["keywords"] = "Innervate",
+["icon"] = 136048,
+["iconColor"] = {
+0,
+1,
+1,
+1,
+},
+},
+},
+["sharedIconOptions"] = {
+"beat",
+27,
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+0,
+},
+["knownSpellsOnly"] = true,
+["checkIfExists"] = true,
+["replyCooldown"] = true,
+["freeCooldownOnly"] = true,
+},
+["quickCast"] = {
+},
 ["changelogsViewed"] = "r243-release",
+["tools"] = {
+["fadeOut"] = false,
+["showBattleRes"] = false,
+["deathReport"] = {
+false,
+10,
+},
+["buffTracker"] = {
+false,
+"left-to-right",
+32,
+{
+},
+},
+["marks"] = {
+false,
+false,
+"both_h",
+{
+},
+},
+["readyAndPull"] = {
+false,
+"text_button",
+{
+"default",
+7,
+},
+{
+},
+},
+},
 ["snippets"] = {
 [0] = {
 ["autorun"] = true,
@@ -2918,123 +3463,6 @@ false,
 },
 },
 },
-},
-["tools"] = {
-["fadeOut"] = false,
-["showBattleRes"] = false,
-["deathReport"] = {
-false,
-10,
-},
-["buffTracker"] = {
-false,
-"left-to-right",
-32,
-{
-},
-},
-["marks"] = {
-false,
-false,
-"both_h",
-{
-},
-},
-["readyAndPull"] = {
-false,
-"text_button",
-{
-"default",
-7,
-},
-{
-},
-},
-},
-["indicatorPreview"] = {
-["scale"] = 2,
-["showAll"] = false,
-},
-["spellRequest"] = {
-["enabled"] = false,
-["timeout"] = 10,
-["responseType"] = "me",
-["spells"] = {
-{
-["glowOptions"] = {
-"pixel",
-{
-{
-1,
-1,
-0,
-1,
-},
-0,
-0,
-9,
-0.25,
-8,
-2,
-},
-},
-["type"] = "icon",
-["spellId"] = 10060,
-["isBuiltIn"] = true,
-["iconColor"] = {
-1,
-1,
-0,
-1,
-},
-["buffId"] = 10060,
-["icon"] = 135939,
-["keywords"] = "Power Infusion",
-},
-{
-["glowOptions"] = {
-"pixel",
-{
-{
-0,
-1,
-1,
-1,
-},
-0,
-0,
-9,
-0.25,
-8,
-2,
-},
-},
-["type"] = "icon",
-["spellId"] = 29166,
-["isBuiltIn"] = true,
-["iconColor"] = {
-0,
-1,
-1,
-1,
-},
-["buffId"] = 29166,
-["icon"] = 136048,
-["keywords"] = "Innervate",
-},
-},
-["sharedIconOptions"] = {
-"beat",
-27,
-"BOTTOMRIGHT",
-"BOTTOMRIGHT",
-0,
-0,
-},
-["knownSpellsOnly"] = true,
-["checkIfExists"] = true,
-["replyCooldown"] = true,
-["freeCooldownOnly"] = true,
 },
 ["crowdControls"] = {
 ["disabled"] = {
@@ -3981,7 +4409,7 @@ false,
 12,
 12,
 },
-["orientation"] = "right-to-left",
+["iconStyle"] = "blizzard",
 ["name"] = "Dispels",
 ["position"] = {
 "BOTTOMRIGHT",
@@ -3989,9 +4417,9 @@ false,
 0,
 4,
 },
-["iconStyle"] = "blizzard",
-["highlightType"] = "gradient-half",
 ["indicatorName"] = "dispels",
+["highlightType"] = "gradient-half",
+["orientation"] = "right-to-left",
 ["filters"] = {
 ["dispellableByMe"] = true,
 ["Disease"] = true,

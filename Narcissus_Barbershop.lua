@@ -2,9 +2,9 @@
 NarciBarberShopDB = {
 ["PlayerData"] = {
 ["0EE8A760"] = {
-["classID"] = 4,
-["playerName"] = "Estuary",
 ["realmName"] = "Argent Dawn",
+["playerName"] = "Estuary",
+["realmID"] = "75",
 ["SavedLooks"] = {
 ["chrModel202"] = {
 },
@@ -23,13 +23,12 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["realmID"] = "75",
+["classID"] = 4,
 },
 ["0E71AEB0"] = {
-["realmName"] = "Kel'Thuzad",
+["classID"] = 10,
 ["playerName"] = "Strid",
 ["realmID"] = "3693",
-["classID"] = 10,
 ["SavedLooks"] = {
 [29] = {
 ["male"] = {
@@ -40,12 +39,12 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["realmName"] = "Kel'Thuzad",
 },
 ["0EE5568B"] = {
-["realmID"] = "75",
+["classID"] = 13,
 ["playerName"] = "Alluvium",
 ["realmName"] = "Argent Dawn",
-["classID"] = 13,
 ["SavedLooks"] = {
 [52] = {
 ["male"] = {
@@ -583,6 +582,7 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["realmID"] = "75",
 },
 ["0EF90062"] = {
 ["playerName"] = "Flumina",
@@ -598,6 +598,10 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0E792E1F"] = {
+["realmName"] = "Kel'Thuzad",
+["playerName"] = "Gelae",
+["realmID"] = "3693",
+["classID"] = 5,
 ["SavedLooks"] = {
 [9] = {
 ["male"] = {
@@ -608,23 +612,19 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["playerName"] = "Gelae",
-["realmName"] = "Kel'Thuzad",
-["classID"] = 5,
-["realmID"] = "3693",
 },
 ["0EEA1695"] = {
-["classID"] = 9,
-["playerName"] = "Riparium",
 ["realmName"] = "Argent Dawn",
+["playerName"] = "Riparium",
+["realmID"] = "75",
 ["SavedLooks"] = {
-["chrModel180"] = {
+["chrModel182"] = {
 },
 ["chrModel149"] = {
 },
-["chrModel181"] = {
+["chrModel129"] = {
 },
-["chrModel123"] = {
+["chrModel184"] = {
 },
 [29] = {
 ["male"] = {
@@ -634,11 +634,11 @@ NarciBarberShopDB = {
 },
 ["chrModel148"] = {
 },
-["chrModel182"] = {
+["chrModel183"] = {
 },
-["chrModel129"] = {
+["chrModel181"] = {
 },
-["chrModel184"] = {
+["chrModel123"] = {
 },
 ["chrModel126"] = {
 },
@@ -650,10 +650,10 @@ NarciBarberShopDB = {
 },
 ["chrModel124"] = {
 },
-["chrModel183"] = {
+["chrModel180"] = {
 },
 },
-["realmID"] = "75",
+["classID"] = 9,
 },
 ["0EEA10F9"] = {
 ["playerName"] = "Headcut",
@@ -669,6 +669,87 @@ NarciBarberShopDB = {
 },
 },
 ["realmName"] = "Argent Dawn",
+},
+["0F471196"] = {
+["SavedLooks"] = {
+[10] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+["chrModel124"] = {
+},
+},
+["playerName"] = "Cataracts",
+["realmID"] = "75",
+["classID"] = 12,
+["realmName"] = "Argent Dawn",
+},
+["0EEA107B"] = {
+["realmName"] = "Argent Dawn",
+["playerName"] = "Sverdrup",
+["realmID"] = "75",
+["SavedLooks"] = {
+["chrModel129"] = {
+},
+[2] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+["chrModel124"] = {
+},
+},
+["classID"] = 10,
+},
+["0F3C82E0"] = {
+["playerName"] = "Stream",
+["realmID"] = "75",
+["SavedLooks"] = {
+[35] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+["chrModel124"] = {
+},
+},
+["realmName"] = "Argent Dawn",
+},
+["0E6E2E59"] = {
+["realmName"] = "Kel'Thuzad",
+["playerName"] = "Esker",
+["realmID"] = "3693",
+["classID"] = 1,
+["SavedLooks"] = {
+["chrModel202"] = {
+},
+["chrModel124"] = {
+},
+[35] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+},
+},
+["0F40E777"] = {
+["realmName"] = "Argent Dawn",
+["playerName"] = "Emptyrivers",
+["realmID"] = "75",
+["classID"] = 8,
+["SavedLooks"] = {
+[27] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+},
 },
 ["0EE580BC"] = {
 ["playerName"] = "Emptyrivers",
@@ -691,109 +772,164 @@ NarciBarberShopDB = {
 },
 ["realmName"] = "Argent Dawn",
 },
-["0F40E777"] = {
-["SavedLooks"] = {
-[27] = {
-["male"] = {
-},
-["female"] = {
-},
-},
-},
-["playerName"] = "Emptyrivers",
-["realmName"] = "Argent Dawn",
-["classID"] = 8,
-["realmID"] = "75",
-},
-["0F3C82E0"] = {
-["playerName"] = "Stream",
-["realmID"] = "75",
-["SavedLooks"] = {
-[35] = {
-["male"] = {
-},
-["female"] = {
-},
-},
-["chrModel124"] = {
-},
-},
-["realmName"] = "Argent Dawn",
-},
-["0E6E2E59"] = {
-["SavedLooks"] = {
-[35] = {
-["male"] = {
-},
-["female"] = {
-},
-},
-["chrModel124"] = {
-},
-},
-["playerName"] = "Esker",
-["realmName"] = "Kel'Thuzad",
-["classID"] = 1,
-["realmID"] = "3693",
-},
-["0EEA107B"] = {
-["classID"] = 10,
-["playerName"] = "Sverdrup",
-["realmName"] = "Argent Dawn",
-["SavedLooks"] = {
-["chrModel129"] = {
-},
-[2] = {
-["male"] = {
-},
-["female"] = {
-},
-},
-["chrModel124"] = {
-},
-},
-["realmID"] = "75",
-},
-["0F471196"] = {
-["realmName"] = "Argent Dawn",
-["playerName"] = "Cataracts",
-["realmID"] = "75",
-["SavedLooks"] = {
-[10] = {
-["male"] = {
-},
-["female"] = {
-},
-},
-["chrModel124"] = {
-},
-},
-["classID"] = 12,
-},
 ["0EEA1257"] = {
-["classID"] = 2,
-["playerName"] = "Confluence",
 ["realmName"] = "Argent Dawn",
+["playerName"] = "Confluence",
+["realmID"] = "75",
 ["SavedLooks"] = {
 [30] = {
 ["male"] = {
 },
 ["female"] = {
+{
+["description"] = "Short Hair Style, Short Horns, Both Eyesight, Thin Tendrils, Zealous Rune, Crown Headdress, Shard Earrings, Jewel Necklace, Radiant Tattoo, Long Ornate Tail",
+["data"] = {
+{
+276,
+2956,
+},
+{
+277,
+2968,
+},
+{
+278,
+18264,
+},
+{
+279,
+18305,
+},
+{
+280,
+2983,
+},
+{
+6369,
+45210,
+},
+{
+1516,
+18273,
+},
+{
+282,
+2995,
+},
+{
+1518,
+18282,
+},
+{
+1522,
+18294,
+},
+{
+1519,
+18285,
+},
+{
+1521,
+18291,
+},
+{
+399,
+2992,
+},
+{
+1523,
+18303,
+},
+{
+1524,
+18328,
+},
+},
+["name"] = "Darker Alt",
+["timeCreated"] = 1742264692,
+},
+{
+["description"] = "Vogue Hair Style, Short Horns, Both Eyesight, Thin Tendrils, Zealous Rune, Crown Headdress, Shard Earrings, Jewel Necklace, Radiant Tattoo, Long Ornate Tail",
+["data"] = {
+{
+276,
+18314,
+},
+{
+277,
+2968,
+},
+{
+278,
+18261,
+},
+{
+279,
+18307,
+},
+{
+280,
+2983,
+},
+{
+6369,
+45210,
+},
+{
+1516,
+18273,
+},
+{
+282,
+2995,
+},
+{
+1518,
+18282,
+},
+{
+1522,
+18294,
+},
+{
+1519,
+18285,
+},
+{
+1521,
+18291,
+},
+{
+399,
+2992,
+},
+{
+1523,
+18303,
+},
+{
+1524,
+18328,
+},
+},
+["name"] = "Classic",
+["timeCreated"] = 1742264653,
+},
 },
 },
 ["chrModel124"] = {
 },
 },
-["realmID"] = "75",
+["classID"] = 2,
 },
 },
 ["ToggleNotification"] = true,
 ["SharedSavedLooks"] = {
 },
 ["Hotkeys"] = {
-["ZoomIn"] = "W",
+["RotateRight"] = "D",
 ["RotateLeft"] = "A",
 ["ZoomOut"] = "S",
-["RotateRight"] = "D",
+["ZoomIn"] = "W",
 },
 }

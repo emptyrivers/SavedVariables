@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-["currentPage"] = 3,
+["currentPage"] = 4,
 ["fontSize"] = 16,
 ["pages"] = {
 {
@@ -16,6 +16,15 @@ WowLua_DB = {
 ["name"] = "Parse an item link",
 ["content"] = "local link = \"\" -- replace with the item:... part of a hyperlink\n\nlocal function parse(link)\n   local raw = {strsplit(\":\", link)}\n   local index = 1\n   local function n(asString)\n      index = index + 1\n      return asString and raw[index] ~= \"\" and rawIndex or tonumber(raw[index])\n   end\n   local data = {\n      raw = raw,\n   }\n   data.itemID = n()\n   \n   data.enchantID = n()\n   local a, b, c, d = n(), n(), n(), n()\n   if a or b or c or d then\n      data.gems = {a, b, c, d}\n   end\n   data.suffixID = n()\n   data.uniqueID = n()\n   data.linkLevel = n()\n   data.specID = n()\n   data.modifiers_UNUSED = n()\n   data.context = n()\n   local numBonusIds = n() or 0\n   if numBonusIds > 0 then\n      data.bonusIDs = {}\n      for i = 1, numBonusIds do\n         data.bonusIDs[i] = n()\n      end\n   end\n   local numModifiers = n() or 0\n   if numModifiers > 0 then\n      data.modifiers = {}\n      local names = tInvert(Enum.ItemModification)\n      for i = 1, numModifiers do\n         data.modifiers[names[n()]] = n()\n      end\n   end\n   local relic1NumBonusIDs = n() or 0\n   if relic1NumBonusIDs > 0 then\n      data.relic1 = {}\n      for i = 1, relic1NumBonusIDs do\n         data.relic1[i] = n()\n      end\n   end\n   local relic2NumBonusIDs = n() or 0\n   if relic2NumBonusIDs > 0 then\n      data.relic2 = {}\n      for i = 1, relic2NumBonusIDs do\n         data.relic2[i] = n()\n      end\n   end\n   local relic3NumBonusIDs = n() or 0\n   if relic3NumBonusIDs > 0 then\n      data.relic3 = {}\n      for i = 1, relic3NumBonusIDs do\n         data.relic3[i] = n()\n      end\n   end\n   data.crafterGUID = n(true)\n   data.extraEnchantID = n()\n   \n   return data\nend\nlocal data = parse(link)\nDevTool:AddData(data, \"parsed\")",
 },
+{
+["name"] = "DandelionDev",
+["content"] = "local LTT = LibStub\"LibTalentTree-1.0\"\nprint'\\n\\n\\n\\n\\n--------'\nlocal classID = select(3,UnitClass'player')\nlocal function getNodes(class)\n   local tree = LTT:GetClassTreeID(class)\n   local nodes = C_Traits.GetTreeNodes(tree)\n   local nodeData = {\n      multi = 0,\n      choice = 0,\n      nodes = {}\n   }\n   for i = 0, GetNumSpecializations() do\n      nodeData.nodes[i] = {}\n      if i > 0 then\n         local specID = GetSpecializationInfo(i)\n         nodeData.nodes[specID] = nodeData.nodes[i]\n      end\n   end\n   print(tree, #nodes)\n   local choiceCount = 0\n   local multiCount = 0\n   for _, nodeID in ipairs(nodes) do\n      local nodeInfo = LTT:GetLibNodeInfo(nodeID)\n      if nodeInfo then\n         if nodeInfo.isClassNode then\n            nodeData.nodes[0][nodeID] = nodeInfo\n         else\n            for specID, visible in pairs(nodeInfo.visibleForSpecs) do\n               if visible then nodeData.nodes[specID][nodeID] = nodeInfo end\n            end\n         end\n         \n         if #nodeInfo.entryIDs > 1 then\n            nodeData.choice = nodeData.choice + 1\n         end\n         if nodeInfo.maxRanks > 1 then\n            nodeData.multi = nodeData.multi + 1\n         end\n      end\n   end\n   \n   return nodeData\nend\ngetNodes(classID)\nDevTool:AddData(getNodes(classID), \"nodes\")",
 },
-["untitled"] = 17,
+{
+["untitled"] = true,
+["name"] = "Untitled 21",
+["content"] = "",
+},
+},
+["untitled"] = 22,
 }

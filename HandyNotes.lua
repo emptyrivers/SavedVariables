@@ -17,22 +17,27 @@ HandyNotesDB = {
 ["Riptides - Argent Dawn"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
 ["Alandere - Argent Dawn"] = "Default",
+["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
 ["Lotic - Argent Dawn"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
+["Dukasuka - Eredar"] = "Dukasuka - Eredar",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
-["Asperos - Kel'Thuzad"] = "Default",
+["Darick - Eredar"] = "Darick - Eredar",
 ["Benthos - Argent Dawn"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
-["Evilrivers - Kel'Thuzad"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
+["Asperos - Kel'Thuzad"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
+["Evilrivers - Kel'Thuzad"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Zimuures - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Flumina - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
@@ -68,31 +73,41 @@ HandyNotesDB = {
 },
 ["Alandere - Argent Dawn"] = {
 },
+["Rosefin - Argent Dawn"] = {
+},
 ["Lotic - Argent Dawn"] = {
+},
+["Dukasuka - Eredar"] = {
 },
 ["Saellindris - Kel'Thuzad"] = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
+["Darick - Eredar"] = {
+},
 ["Emptyrivers - Sargeras"] = {
 },
-["Zimuures - Argent Dawn"] = {
+["Dannius - Argent Dawn"] = {
 },
 ["Benthos - Argent Dawn"] = {
 },
-["Asperos - Kel'Thuzad"] = {
-},
 ["Flumina - Argent Dawn"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
+["Esker - Kel'Thuzad"] = {
 },
-["Mothugeon - Argent Dawn"] = {
+["Asperos - Kel'Thuzad"] = {
 },
 ["Riparium - Argent Dawn"] = {
 ["enabledPlugins"] = {
 ["LoosePebbles"] = false,
 ["Handynotes_Pandaria"] = false,
 },
+},
+["Stream - Argent Dawn"] = {
+},
+["Mothugeon - Argent Dawn"] = {
+},
+["Evilrivers - Kel'Thuzad"] = {
 },
 ["Wildeadoriah - The Scryers"] = {
 },
@@ -102,9 +117,9 @@ HandyNotesDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Stream - Argent Dawn"] = {
+["Zimuures - Argent Dawn"] = {
 },
-["Esker - Kel'Thuzad"] = {
+["Roberia - Eredar"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },
@@ -128,22 +143,27 @@ HandyNotes_HandyNotesDB = {
 ["Riptides - Argent Dawn"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
 ["Alandere - Argent Dawn"] = "Default",
+["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
 ["Lotic - Argent Dawn"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
+["Dukasuka - Eredar"] = "Dukasuka - Eredar",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
-["Asperos - Kel'Thuzad"] = "Default",
+["Darick - Eredar"] = "Darick - Eredar",
 ["Benthos - Argent Dawn"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
-["Evilrivers - Kel'Thuzad"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
+["Asperos - Kel'Thuzad"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
+["Evilrivers - Kel'Thuzad"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Zimuures - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Flumina - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["profiles"] = {
@@ -179,27 +199,37 @@ HandyNotes_HandyNotesDB = {
 },
 ["Alandere - Argent Dawn"] = {
 },
+["Rosefin - Argent Dawn"] = {
+},
 ["Lotic - Argent Dawn"] = {
+},
+["Dukasuka - Eredar"] = {
 },
 ["Saellindris - Kel'Thuzad"] = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
+["Darick - Eredar"] = {
+},
 ["Emptyrivers - Sargeras"] = {
 },
-["Stream - Argent Dawn"] = {
+["Dannius - Argent Dawn"] = {
 },
 ["Esker - Kel'Thuzad"] = {
 },
-["Asperos - Kel'Thuzad"] = {
-},
 ["Ochrian - Argent Dawn"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
+["Benthos - Argent Dawn"] = {
+},
+["Asperos - Kel'Thuzad"] = {
+},
+["Riparium - Argent Dawn"] = {
+},
+["Riptides - Argent Dawn"] = {
 },
 ["Mothugeon - Argent Dawn"] = {
 },
-["Riparium - Argent Dawn"] = {
+["Evilrivers - Kel'Thuzad"] = {
 },
 ["Wildeadoriah - The Scryers"] = {
 },
@@ -209,9 +239,9 @@ HandyNotes_HandyNotesDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Riptides - Argent Dawn"] = {
+["Stream - Argent Dawn"] = {
 },
-["Benthos - Argent Dawn"] = {
+["Roberia - Eredar"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },
