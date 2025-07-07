@@ -6,21 +6,21 @@ TalentTreeTweaksDB = {
 ["InspectDiff"] = {
 ["colorYellow"] = {
 ["a"] = 0.75,
-["r"] = 1,
-["g"] = 0.67,
 ["b"] = 0,
+["g"] = 0.67,
+["r"] = 1,
 },
 ["colorGreen"] = {
 ["a"] = 0.58,
-["r"] = 0,
-["g"] = 1,
 ["b"] = 0.3,
+["g"] = 1,
+["r"] = 0,
 },
 ["colorRed"] = {
 ["a"] = 0.5,
-["r"] = 1,
-["g"] = 0,
 ["b"] = 0,
+["g"] = 0,
+["r"] = 1,
 },
 ["enableTalentTreeViewerDiff"] = true,
 },
@@ -38,42 +38,42 @@ TalentTreeTweaksDB = {
 ["rideAlong"] = 1,
 },
 ["UnlockRestrictions"] = {
-["unlockInCombatSpending"] = true,
 ["unlockShareButton"] = true,
+["unlockInCombatSpending"] = true,
 },
 ["MiniTreeInTooltip"] = {
-["upgradedDisplayStyle"] = 1,
+["inactiveSubTreeAlpha"] = 0.5,
 ["displayStyle"] = "simple-default-diff",
-["diffOrange"] = {
-["b"] = 0,
-["g"] = 1,
-["r"] = 1,
-},
+["upgradedDisplayStyle"] = 1,
 ["diffRed"] = {
-["b"] = 0,
-["g"] = 0,
 ["r"] = 1,
+["g"] = 0,
+["b"] = 0,
 },
 ["scale"] = 1,
 ["diffGreen"] = {
-["b"] = 0,
-["g"] = 1,
 ["r"] = 0,
+["g"] = 1,
+["b"] = 0,
 },
 ["diffYellow"] = {
-["b"] = 1,
-["g"] = 1,
 ["r"] = 1,
+["g"] = 1,
+["b"] = 1,
 },
-["inactiveSubTreeAlpha"] = 0.5,
+["diffOrange"] = {
+["r"] = 1,
+["g"] = 1,
+["b"] = 0,
+},
 },
 ["ReduceTaint"] = {
 ["disableMultiActionBarShowHide"] = true,
 },
 ["ExportInspectedBuild"] = {
-["showLinkInChatButton"] = true,
-["inspectTalentsMenuItem"] = true,
 ["exportOnDropdownRightClick"] = true,
+["inspectTalentsMenuItem"] = true,
+["showLinkInChatButton"] = true,
 },
 ["TooltipIds"] = {
 ["professionTooltip"] = {
@@ -91,10 +91,11 @@ TalentTreeTweaksDB = {
 ["entryId"] = true,
 },
 },
-["ReduceSpam"] = {
+["ImportIntoCurrentLoadout"] = {
+["defaultCheckboxState"] = false,
+["unlockImportButton"] = true,
 },
-["AlwaysShowGates"] = {
-["shiftHeroTrees"] = false,
+["ReduceSpam"] = {
 },
 ["ChangeBackground"] = {
 ["showAlphaInSpellbookUI"] = true,
@@ -105,65 +106,66 @@ TalentTreeTweaksDB = {
 },
 ["CopyTalentButtonInfo"] = {
 },
-["MiscFixes"] = {
-["dropdownUpdateOnLoadConfigFix"] = true,
-["linkChoiceNodeInChatFix"] = true,
+["HeroTalents"] = {
 },
 ["Drive Auto Purchaser"] = {
 ["node-103882"] = 128290,
 ["node-103881"] = 128288,
-["node-103880"] = 128285,
+["reportPurchases"] = true,
 ["node-104094"] = 128608,
 ["node-103879"] = 128282,
-["reportPurchases"] = true,
+["node-103880"] = 128285,
 },
 ["Skyriding Auto Purchaser"] = {
 ["reportPurchases"] = true,
 ["surge"] = 1,
 ["surgeCache"] = {
 ["Cataracts-Argent Dawn"] = 1,
-["Gelae-Kel'Thuzad"] = 1,
+["Dannius-Argent Dawn"] = 1,
 ["Stream-Argent Dawn"] = 1,
-["Headcut-Argent Dawn"] = 1,
+["Karst-Argent Dawn"] = 1,
 ["Roberia-Eredar"] = 1,
-["Alluvium-Argent Dawn"] = 1,
-["Strid-Kel'Thuzad"] = 1,
 ["Doneer-Eredar"] = 1,
+["Strid-Kel'Thuzad"] = 1,
+["Alluvium-Argent Dawn"] = 1,
 ["Sverdrup-Argent Dawn"] = 1,
 ["Emptyrivers-Argent Dawn"] = 1,
 ["Dukasuka-Eredar"] = 1,
 ["Confluence-Argent Dawn"] = 1,
 ["Flumina-Argent Dawn"] = 1,
 ["Estuary-Argent Dawn"] = 1,
-["Karst-Argent Dawn"] = 1,
-["Dannius-Argent Dawn"] = 1,
+["Headcut-Argent Dawn"] = 1,
+["Gelae-Kel'Thuzad"] = 1,
 },
-["rideAlong"] = 1,
+["horrificVisionsEnabled"] = true,
+["overchargedTitanConsoleEnabled"] = true,
+["skyridingEnabled"] = true,
 ["rideAlongCache"] = {
 ["Cataracts-Argent Dawn"] = 1,
-["Gelae-Kel'Thuzad"] = 1,
+["Dannius-Argent Dawn"] = 1,
 ["Stream-Argent Dawn"] = 1,
-["Headcut-Argent Dawn"] = 1,
+["Karst-Argent Dawn"] = 1,
 ["Roberia-Eredar"] = 1,
-["Alluvium-Argent Dawn"] = 1,
-["Strid-Kel'Thuzad"] = 1,
 ["Doneer-Eredar"] = 1,
+["Strid-Kel'Thuzad"] = 1,
+["Alluvium-Argent Dawn"] = 1,
 ["Sverdrup-Argent Dawn"] = 1,
 ["Emptyrivers-Argent Dawn"] = 1,
 ["Dukasuka-Eredar"] = 1,
 ["Confluence-Argent Dawn"] = 1,
 ["Flumina-Argent Dawn"] = 1,
 ["Estuary-Argent Dawn"] = 1,
-["Karst-Argent Dawn"] = 1,
-["Dannius-Argent Dawn"] = 1,
+["Headcut-Argent Dawn"] = 1,
+["Gelae-Kel'Thuzad"] = 1,
 },
+["rideAlong"] = 1,
 },
 ["HighlightCascadeRepurchable"] = {
 ["color"] = {
 ["a"] = 0.5,
-["r"] = 0,
-["g"] = 0,
 ["b"] = 1,
+["g"] = 0,
+["r"] = 0,
 },
 },
 ["DebugNodeInfo"] = {
@@ -179,11 +181,12 @@ TalentTreeTweaksDB = {
 ["ScaleTalentFrame"] = {
 ["scale"] = 1,
 },
-["HeroTalents"] = {
+["MiscFixes"] = {
+["dropdownUpdateOnLoadConfigFix"] = true,
+["linkChoiceNodeInChatFix"] = true,
 },
-["ImportIntoCurrentLoadout"] = {
-["defaultCheckboxState"] = false,
-["unlockImportButton"] = true,
+["AlwaysShowGates"] = {
+["shiftHeroTrees"] = false,
 },
 },
 }

@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-["currentPage"] = 4,
+["currentPage"] = 8,
 ["fontSize"] = 16,
 ["pages"] = {
 {
@@ -25,6 +25,21 @@ WowLua_DB = {
 ["name"] = "Untitled 21",
 ["content"] = "",
 },
+{
+["untitled"] = true,
+["name"] = "Untitled 22",
+["content"] = "local function decipher(str, key)\n   local ret = {};\n   for i = 1, #str do\n      table.insert(ret, string.char(bit.bxor(string.byte(string.sub(str, i, i + 1)), string.byte(string.sub(key, 1 + (i % #key), 1 + (i % #key) + 1))) % 256));\n   end\n   return table.concat(ret);\nend\n\n\nlocal seq = {229,147,128,229,134,172,231,154,132,231,140,171,229,146,170,231,140,155,230,140,160,86,51,46,48,70}\nlocal t = {}\n\nfor i = 1, #seq do table.insert(t, string.char(seq[i])) end\nprint(table.concat(t))",
 },
-["untitled"] = 22,
+{
+["untitled"] = true,
+["name"] = "Untitled 23",
+["content"] = "local aura_env = {}\naura_env.id = \"哀冬的猫咪猛挠V3.0F\"\n\nlocal env = {};\n---@diagnostic disable-next-line: lowercase-global\nbit32 = bit\n\nlocal isValid = true;\nlocal actualBytes = {};\nlocal expectedBytes = {229,147,128,229,134,172,231,154,132,231,140,171,229,146,170,231,140,155,230,140,160,86,51,46,48,70};\nlocal idx = 1;\nlocal id = aura_env.id;\n\nwhile idx <= #id do\n   local byt = string.byte(id, idx );\n   if ((byt >= 224) and (byt <= 239)) then\n      table.insert(actualBytes, byt);\n      table.insert(actualBytes, string.byte(id, idx + 1));\n      table.insert(actualBytes, string.byte(id, idx + 2));\n      idx = idx + 3;\n   else table.insert(actualBytes, byt);\n      idx = idx + 1;\n   end\nend\nlocal expectedLen = 26\nfor i = 1, #actualBytes, 1 do\n   if ((actualBytes[i] ~= expectedBytes[i]) or (#aura_env.id ~= expectedLen)) then\n      print(string.format(\"%s%s%s\",\"fail to load\", aura_env.id, \", You may be a victim of pirated software, this is a contaminated WA string\" ));\n      isValid = false;\n      break;\n   end\nend\nprint'successs!'",
+},
+{
+["untitled"] = true,
+["name"] = "Untitled 24",
+["content"] = "local function decipher2(str, k)\n   local ret = {};\n   for i = 1, #str do\n      table.insert(ret, string.char(bit.bxor(string.byte(string.sub(str, i, i + 1)), string.byte(string.sub(k, 1 + (i % #k), 1 + (i % #k) + 1))) % 256));\n   end\n   return table.concat(ret);\nend\n\nlocal env2 = {}\n\nenv2[20] = decipher2(\"\\16\\221\\47\\201\\240\\18\\216\\47\\208\\249\\20\\196\\36\\193\\243\\52\", \"\\156\\67\\173\\74\\165\");\nenv2[30] = decipher2(\"\\29\\164\\100\\25\\170\\47\\72\\51\", \"\\38\\84\\215\\41\\118\\220\\70\");\nenv2[40] = decipher2(\"\\121\\5\\17\\6\\241\\64\", \"\\158\\48\\118\\66\\114\");\nenv2[50] = decipher2(\"\\130\\55\\51\\55\\96\\177\\242\\165\\35\", \"\\155\\203\\68\\112\\86\\19\\197\");\nenv2[51] = decipher2(\"\\111\\206\\27\\249\\76\\125\\224\", \"\\152\\38\\189\\86\\156\\32\\24\\133\");\nenv2[60] = decipher2(\"\\207\\67\\166\\82\\249\", \"\\38\\156\\55\\199\");\nenv2[70] = decipher2(\"\\128\\120\\125\\36\\7\\124\", \"\\35\\200\\29\\28\\72\\115\\20\\154\");\nenv2[80] = decipher2(\"\\45\\182\\220\\218\\190\\56\\53\\20\\175\", \"\\84\\121\\223\\177\\191\\237\\76\");\nenv2[90] = decipher2(\"\\157\\68\\200\\173\\63\", \"\\161\\219\\54\\169\\192\\90\\48\\80\");\nenv2[100] = decipher2(\"\\102\\76\\35\\41\\64\\65\\11\", \"\\69\\41\\34\\96\");\nenv2[110] = decipher2(\"\\145\\194\\217\\11\", \"\\75\\220\\163\\183\\106\\98\");\n\nlocal t = {}\n\nfor i = 1, 110 do\n   if env2[i] ~= nil then \n      table.insert(t, (\"env2[%d] = %q\"):format(i, env2[i]))\n   end\nend\nBisectorP.priv.printResults(table.concat(t,\"\\n\"))\n\n\n\n",
+},
+},
+["untitled"] = 25,
 }

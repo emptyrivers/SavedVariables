@@ -1,7 +1,7 @@
 
 DatamineData = {
-["ItemText"] = {
-},
 ["Creature"] = {
+},
+["ItemText"] = {
 },
 }

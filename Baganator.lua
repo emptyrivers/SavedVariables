@@ -1,10 +1,11 @@
 
 BAGANATOR_CONFIG = {
-["Version"] = 1,
 ["CharacterSpecific"] = {
 ["sort_ignore_bank_slots_count"] = {
+["Mangrove-ArgentDawn"] = 0,
+["Confluence-ArgentDawn"] = 0,
 },
-["sort_ignore_slots_count_2"] = {
+["currencies_tracked_imported"] = {
 },
 ["currencies_tracked"] = {
 ["Estuary-ArgentDawn"] = {
@@ -15,23 +16,20 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3028,
 },
 },
-["Gelae-Kel'Thuzad"] = {
-{
-["currencyID"] = 3028,
-},
+["Riparium-ArgentDawn"] = {
 {
 ["currencyID"] = 3008,
 },
+{
+["currencyID"] = 3028,
 },
-["Benthos-ArgentDawn"] = {
+},
+["Mangrove-ArgentDawn"] = {
 {
 ["currencyID"] = 2815,
 },
 {
 ["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3056,
 },
 {
 ["currencyID"] = 3008,
@@ -45,7 +43,7 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3008,
 },
 },
-["Alluvium-ArgentDawn"] = {
+["Emptyrivers-ArgentDawn"] = {
 {
 ["currencyID"] = 3028,
 },
@@ -72,22 +70,6 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3008,
 },
 },
-["Sverdrup-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3008,
-},
-},
-["Riptides-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3008,
-},
-},
 ["Esker-Kel'Thuzad"] = {
 {
 ["currencyID"] = 3008,
@@ -99,7 +81,7 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3090,
 },
 },
-["Emptyrivers-ArgentDawn"] = {
+["Alluvium-ArgentDawn"] = {
 {
 ["currencyID"] = 3028,
 },
@@ -107,7 +89,26 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3008,
 },
 },
-["Mangrove-ArgentDawn"] = {
+["Sverdrup-ArgentDawn"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3309,
+},
+},
+["Riptides-ArgentDawn"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3008,
+},
+},
+["Benthos-ArgentDawn"] = {
 {
 ["currencyID"] = 2815,
 },
@@ -115,21 +116,27 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3028,
 },
 {
-["currencyID"] = 3008,
+["currencyID"] = 3056,
 },
-},
-["Riparium-ArgentDawn"] = {
 {
 ["currencyID"] = 3008,
 },
+},
+["Gelae-Kel'Thuzad"] = {
 {
 ["currencyID"] = 3028,
 },
+{
+["currencyID"] = 3008,
 },
 },
-["currencies_tracked_imported"] = {
+},
+["sort_ignore_slots_count_2"] = {
+["Mangrove-ArgentDawn"] = 0,
+["Confluence-ArgentDawn"] = 0,
 },
 },
+["Version"] = 1,
 ["Profiles"] = {
 ["DEFAULT"] = {
 ["guild_view_width"] = 20,
@@ -147,20 +154,20 @@ BAGANATOR_CONFIG = {
 ["default_battlepet"] = true,
 ["default_food"] = true,
 ["default_reagent"] = true,
-["default_weapon"] = true,
+["default_junk"] = true,
 ["default_special_empty"] = true,
-["default_recipe"] = true,
-["default_gem"] = true,
+["default_miscellaneous"] = true,
+["default_key"] = true,
 ["default_consumable"] = true,
 ["default_tradegoods"] = true,
-["default_potion"] = true,
-["default_keystone"] = true,
-["default_profession"] = true,
-["default_auto_equipment_sets"] = true,
 ["default_container"] = true,
-["default_key"] = true,
-["default_miscellaneous"] = true,
-["default_junk"] = true,
+["default_keystone"] = true,
+["default_auto_equipment_sets"] = true,
+["default_profession"] = true,
+["default_potion"] = true,
+["default_gem"] = true,
+["default_recipe"] = true,
+["default_weapon"] = true,
 },
 ["show_search_box"] = true,
 ["debug_categories_search"] = false,
@@ -173,7 +180,7 @@ BAGANATOR_CONFIG = {
 ["auction_house"] = true,
 ["void_storage"] = false,
 ["guild_bank"] = false,
-["trade_partner"] = false,
+["forge_of_bonds"] = false,
 ["tradeskill"] = false,
 ["item_upgrade"] = true,
 ["character_panel"] = false,
@@ -181,20 +188,31 @@ BAGANATOR_CONFIG = {
 ["item_interaction"] = true,
 ["mail"] = false,
 ["sockets"] = false,
-["forge_of_bonds"] = false,
+["trade_partner"] = false,
 ["bank"] = true,
 },
 ["icon_corners_auto_insert_applied"] = {
-["keystone_level"] = true,
+["bag_type"] = true,
 ["battle_pet_breed_id"] = true,
 ["battle_pet_level"] = true,
-["bag_type"] = true,
+["keystone_level"] = true,
 },
 ["show_recents_tabs_main_view"] = false,
 ["bag_view_show_bag_slots"] = false,
 ["category_hidden"] = {
 ["1"] = false,
+["default_recipe"] = false,
+["3"] = false,
 ["2"] = false,
+["default_armor"] = false,
+["4"] = false,
+["7"] = false,
+["default_tradegoods"] = false,
+["8"] = false,
+["default_profession"] = false,
+["5"] = false,
+["default_reagent"] = false,
+["6"] = false,
 },
 ["icon_mark_unusable"] = false,
 ["icon_flash_similar_alt"] = false,
@@ -204,7 +222,7 @@ BAGANATOR_CONFIG = {
 ["Estuary-ArgentDawn"] = 0,
 },
 ["warband_current_tab"] = 0,
-["category_item_grouping"] = true,
+["category_item_grouping"] = false,
 ["icon_top_left_corner_array"] = {
 "junk",
 "battle_pet_level",
@@ -221,12 +239,15 @@ BAGANATOR_CONFIG = {
 "default_food",
 "default_consumable",
 "default_questitem",
+"8",
 "_1",
 "default_auto_equipment_sets",
-"default_weapon",
-"default_armor",
-"2",
+"6",
 "1",
+"4",
+"7",
+"2",
+"3",
 "__end",
 "_2",
 "default_reagent",
@@ -237,6 +258,7 @@ BAGANATOR_CONFIG = {
 "default_gem",
 "default_itemenhancement",
 "default_container",
+"5",
 "default_key",
 "default_miscellaneous",
 "default_battlepet",
@@ -259,8 +281,8 @@ BAGANATOR_CONFIG = {
 },
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-207.214111328125,
-326.5680541992188,
+169.9199981689453,
+240.1832122802734,
 },
 ["guild_view_position_2"] = {
 "TOPLEFT",
@@ -272,35 +294,66 @@ BAGANATOR_CONFIG = {
 ["hide_special_container"] = {
 },
 ["bag_empty_space_at_top"] = false,
-["category_horizontal_spacing_2"] = 1,
+["category_horizontal_spacing_2"] = 0.65,
 ["category_default_import"] = 2,
 ["debug_categories"] = false,
-["junk_plugin_ignored"] = {
+["migrated_sort_method"] = true,
+["custom_categories"] = {
+["1"] = {
+["name"] = "A",
+["search"] = "#armor&#gear&!#junk&!#trinket",
 },
-["currency_headers_collapsed"] = {
+["8"] = {
+["name"] = "Cosmetic",
+["search"] = "#cosmetic",
 },
-["icon_context_fading"] = true,
+["3"] = {
+["name"] = "Old Stuff",
+["search"] = "(#armor|#weapon)&#soulbound&!(#shirt|#tabard)&(<597|season)",
+},
+["2"] = {
+["name"] = "Warbound",
+["search"] = "#gear&(#warbound until equipped|#warbound)",
+},
+["5"] = {
+["name"] = "Artifact",
+["search"] = "#artifact",
+},
+["4"] = {
+["name"] = "T",
+["search"] = "#trinket",
+},
+["7"] = {
+["name"] = "C",
+["search"] = "#crafted&(#armor|#weapon)",
+},
+["6"] = {
+["name"] = "W",
+["search"] = "#weapon",
+},
+},
+["icon_bottom_left_corner_array"] = {
+"battle_pet_breed_id",
+"bag_type",
+"equipment_set",
+},
 ["category_migration"] = 5,
-["character_select_position"] = {
-"RIGHT",
-"Baganator_CategoryViewBackpackViewFrameblizzard",
-"LEFT",
-0,
-0,
-},
+["category_group_empty_slots"] = true,
 ["category_modifications"] = {
 ["1"] = {
 ["showGroupPrefix"] = true,
-["priority"] = 0,
+["priority"] = -1,
 ["group"] = "track",
 ["addedItems"] = {
 },
 },
-["default_weapon"] = {
-["group"] = "track",
+["default_recipe"] = {
+["showGroupPrefix"] = false,
+["priority"] = -1,
 },
-["default_profession"] = {
-["group"] = "expansion",
+["3"] = {
+["showGroupPrefix"] = true,
+["priority"] = 1,
 },
 ["2"] = {
 ["showGroupPrefix"] = true,
@@ -308,18 +361,54 @@ BAGANATOR_CONFIG = {
 },
 ["default_armor"] = {
 ["group"] = "track",
+["priority"] = -1,
+["showGroupPrefix"] = false,
 },
-["default_reagent"] = {
+["4"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
+["group"] = "track",
+},
+["7"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
 ["group"] = "type",
-},
-["default_recipe"] = {
-["group"] = "expansion",
 },
 ["default_tradegoods"] = {
 ["group"] = "expansion",
+["priority"] = -1,
+["showGroupPrefix"] = false,
+},
+["default_weapon"] = {
+["group"] = "track",
+},
+["5"] = {
+["showGroupPrefix"] = true,
+["priority"] = 2,
+},
+["default_profession"] = {
+["group"] = "expansion",
+["priority"] = -1,
+["showGroupPrefix"] = false,
+},
+["default_potion"] = {
+},
+["default_reagent"] = {
+["group"] = "type",
+["priority"] = -1,
+["showGroupPrefix"] = false,
+},
+["6"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
+["group"] = "track",
+},
+["8"] = {
+["showGroupPrefix"] = true,
+["priority"] = 2,
 },
 },
-["warband_bank_view_width"] = 20,
+["warband_bank_view_width"] = 21,
 ["sort_ignore_slots_at_end"] = false,
 ["add_to_category_buttons_2"] = "drag",
 ["view_type"] = "unset",
@@ -396,7 +485,7 @@ BAGANATOR_CONFIG = {
 },
 ["Roberia-Eredar"] = {
 },
-["Mangrove-ArgentDawn"] = {
+["Benthos-ArgentDawn"] = {
 {
 ["currencyID"] = 2815,
 },
@@ -406,16 +495,11 @@ BAGANATOR_CONFIG = {
 {
 ["currencyID"] = 3028,
 },
+{
+["currencyID"] = 3056,
+},
 },
 ["Riptides-ArgentDawn"] = {
-{
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3028,
-},
-},
-["Alluvium-ArgentDawn"] = {
 {
 ["currencyID"] = 3008,
 },
@@ -434,7 +518,15 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3090,
 },
 },
-["Benthos-ArgentDawn"] = {
+["Alluvium-ArgentDawn"] = {
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3028,
+},
+},
+["Mangrove-ArgentDawn"] = {
 {
 ["currencyID"] = 2815,
 },
@@ -443,9 +535,6 @@ BAGANATOR_CONFIG = {
 },
 {
 ["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3056,
 },
 },
 ["Riparium-ArgentDawn"] = {
@@ -457,7 +546,7 @@ BAGANATOR_CONFIG = {
 },
 },
 },
-["lock_frames"] = false,
+["icon_equipment_set_border"] = true,
 ["icon_text_font_size"] = 14,
 ["upgrade_plugin_ignored"] = {
 },
@@ -468,7 +557,10 @@ BAGANATOR_CONFIG = {
 ["disabled_skins"] = {
 },
 ["setting_anchors"] = false,
-["bag_view_type"] = "category",
+["category_section_toggled"] = {
+["1"] = false,
+["2"] = false,
+},
 ["guild_current_tab"] = 1,
 ["skins"] = {
 ["elvui"] = {
@@ -487,9 +579,28 @@ BAGANATOR_CONFIG = {
 },
 },
 ["debug_keywords"] = false,
-["currencies_tracked_imported"] = {
-},
+["bag_icon_size"] = 37,
 ["auto_sort_on_open"] = false,
+["saved_searches"] = {
+{
+["search"] = "!warbound & gear & !(trinket & >619) & !set",
+["label"] = "vendorable gear",
+},
+},
+["icon_text_quality_colors"] = false,
+["bag_view_position"] = {
+"TOPRIGHT",
+-93.896484375,
+-177.286376953125,
+},
+["show_buttons_on_alt"] = false,
+["guild_view_dialog_position"] = {
+"BOTTOM",
+"Baganator_GuildViewFrame",
+"TOP",
+0,
+0,
+},
 ["category_sections"] = {
 ["1"] = {
 ["name"] = "EQUIPMENT",
@@ -498,41 +609,22 @@ BAGANATOR_CONFIG = {
 ["name"] = "CRAFTING",
 },
 },
-["icon_text_quality_colors"] = false,
-["show_buttons_on_alt"] = false,
-["bag_view_position"] = {
-"TOPRIGHT",
--176.5257568359375,
--180.9482421875,
+["currencies_tracked_imported"] = {
 },
-["guild_view_dialog_position"] = {
-"BOTTOM",
-"Baganator_GuildViewFrame",
-"TOP",
-0,
-0,
-},
-["saved_searches"] = {
-{
-["search"] = "!warbound & gear & !(trinket & >619) & !set",
-["label"] = "vendorable gear",
-},
-},
-["bag_icon_size"] = 37,
 ["recent_characters_main_view"] = {
-"Confluence-ArgentDawn",
-"Estuary-ArgentDawn",
-"Riparium-ArgentDawn",
-"Alluvium-ArgentDawn",
 "Sverdrup-ArgentDawn",
-"Emptyrivers-ArgentDawn",
-"Mangrove-ArgentDawn",
-"Riptides-ArgentDawn",
+"Confluence-ArgentDawn",
 "Stream-ArgentDawn",
+"Mangrove-ArgentDawn",
+"Emptyrivers-ArgentDawn",
 "Gelae-Kel'Thuzad",
 "Benthos-ArgentDawn",
 "Cataracts-ArgentDawn",
+"Alluvium-ArgentDawn",
+"Riptides-ArgentDawn",
 "Esker-Kel'Thuzad",
+"Estuary-ArgentDawn",
+"Riparium-ArgentDawn",
 "Doneer-Eredar",
 "Dukasuka-Eredar",
 "Roberia-Eredar",
@@ -541,11 +633,8 @@ BAGANATOR_CONFIG = {
 "Dannius-ArgentDawn",
 },
 ["show_sort_button_2"] = false,
-["category_section_toggled"] = {
-["1"] = false,
-["2"] = false,
-},
-["bag_view_width"] = 15,
+["bag_view_type"] = "category",
+["bag_view_width"] = 19,
 ["currency_panel_position"] = {
 "RIGHT",
 "Baganator_CategoryViewBackpackViewFrameblizzard",
@@ -553,24 +642,19 @@ BAGANATOR_CONFIG = {
 0,
 0,
 },
-["icon_equipment_set_border"] = true,
-["category_group_empty_slots"] = true,
-["icon_bottom_left_corner_array"] = {
-"battle_pet_breed_id",
-"bag_type",
-"equipment_set",
+["lock_frames"] = false,
+["character_select_position"] = {
+"RIGHT",
+"Baganator_CategoryViewBackpackViewFrameblizzard",
+"LEFT",
+0,
+0,
 },
-["custom_categories"] = {
-["1"] = {
-["name"] = "Trinkets",
-["search"] = "#trinket",
+["icon_context_fading"] = true,
+["currency_headers_collapsed"] = {
 },
-["2"] = {
-["name"] = "Warbound Gear",
-["search"] = "#gear&#warbound until equipped",
+["junk_plugin_ignored"] = {
 },
-},
-["migrated_sort_method"] = true,
 },
 },
 }

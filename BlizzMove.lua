@@ -12,8 +12,8 @@ BlizzMoveDB = {
 ["MailFrame"] = 2.4,
 ["MacroFrame"] = 1.300000047683716,
 ["EncounterJournal"] = 1.300000095367432,
-["ItemTextFrame"] = 1.500000095367432,
 ["CollectionsJournal"] = 1.400000071525574,
+["ItemTextFrame"] = 1.500000095367432,
 },
 ["mutedCompatWarnings"] = {
 },

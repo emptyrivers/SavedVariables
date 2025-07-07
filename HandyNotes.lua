@@ -22,21 +22,21 @@ HandyNotesDB = {
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dukasuka - Eredar"] = "Dukasuka - Eredar",
-["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Default",
-["Darick - Eredar"] = "Darick - Eredar",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Esker - Kel'Thuzad"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
-["Stream - Argent Dawn"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Evilrivers - Kel'Thuzad"] = "Default",
 ["Mothugeon - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
+["Darick - Eredar"] = "Darick - Eredar",
 ["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
@@ -85,9 +85,9 @@ HandyNotesDB = {
 },
 ["Darick - Eredar"] = {
 },
-["Emptyrivers - Sargeras"] = {
+["Zimuures - Argent Dawn"] = {
 },
-["Dannius - Argent Dawn"] = {
+["Emptyrivers - Sargeras"] = {
 },
 ["Benthos - Argent Dawn"] = {
 },
@@ -97,19 +97,19 @@ HandyNotesDB = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
+["Wildeadoriah - The Scryers"] = {
+},
+["Evilrivers - Kel'Thuzad"] = {
+},
+["Mothugeon - Argent Dawn"] = {
+},
+["Stream - Argent Dawn"] = {
+},
 ["Riparium - Argent Dawn"] = {
 ["enabledPlugins"] = {
 ["LoosePebbles"] = false,
 ["Handynotes_Pandaria"] = false,
 },
-},
-["Stream - Argent Dawn"] = {
-},
-["Mothugeon - Argent Dawn"] = {
-},
-["Evilrivers - Kel'Thuzad"] = {
-},
-["Wildeadoriah - The Scryers"] = {
 },
 ["Default"] = {
 },
@@ -117,7 +117,7 @@ HandyNotesDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Zimuures - Argent Dawn"] = {
+["Dannius - Argent Dawn"] = {
 },
 ["Roberia - Eredar"] = {
 },
@@ -148,21 +148,21 @@ HandyNotes_HandyNotesDB = {
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dukasuka - Eredar"] = "Dukasuka - Eredar",
-["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
 ["Emptyrivers - Sargeras"] = "Default",
-["Darick - Eredar"] = "Darick - Eredar",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Esker - Kel'Thuzad"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
-["Stream - Argent Dawn"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Evilrivers - Kel'Thuzad"] = "Default",
 ["Mothugeon - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
+["Darick - Eredar"] = "Darick - Eredar",
 ["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
@@ -211,9 +211,9 @@ HandyNotes_HandyNotesDB = {
 },
 ["Darick - Eredar"] = {
 },
-["Emptyrivers - Sargeras"] = {
+["Stream - Argent Dawn"] = {
 },
-["Dannius - Argent Dawn"] = {
+["Emptyrivers - Sargeras"] = {
 },
 ["Esker - Kel'Thuzad"] = {
 },
@@ -223,15 +223,15 @@ HandyNotes_HandyNotesDB = {
 },
 ["Asperos - Kel'Thuzad"] = {
 },
-["Riparium - Argent Dawn"] = {
-},
-["Riptides - Argent Dawn"] = {
-},
-["Mothugeon - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
 ["Evilrivers - Kel'Thuzad"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Mothugeon - Argent Dawn"] = {
+},
+["Riptides - Argent Dawn"] = {
+},
+["Riparium - Argent Dawn"] = {
 },
 ["Default"] = {
 },
@@ -239,7 +239,7 @@ HandyNotes_HandyNotesDB = {
 },
 ["Karst - Argent Dawn"] = {
 },
-["Stream - Argent Dawn"] = {
+["Dannius - Argent Dawn"] = {
 },
 ["Roberia - Eredar"] = {
 },

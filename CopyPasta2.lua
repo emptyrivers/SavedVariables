@@ -16,8 +16,8 @@ PasteDB = {
 ["Riparium - Argent Dawn"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
 ["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
@@ -59,7 +59,7 @@ PasteDB = {
 ["Confluence - Argent Dawn"] = {
 ["loaded"] = true,
 },
-["Sverdrup - Argent Dawn"] = {
+["Benthos - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Gelae - Kel'Thuzad"] = {
@@ -84,7 +84,7 @@ PasteDB = {
 ["pos"] = {
 },
 },
-["Benthos - Argent Dawn"] = {
+["Sverdrup - Argent Dawn"] = {
 ["loaded"] = true,
 },
 ["Roberia - Eredar"] = {

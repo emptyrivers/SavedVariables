@@ -1,3 +1,6 @@
 
 BisectorSaved = {
+["frameData"] = {
+["minimized"] = false,
+},
 }
