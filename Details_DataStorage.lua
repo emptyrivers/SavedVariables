@@ -1,1120 +1,6 @@
 
 DetailsDataStorage = {
 ["normal"] = {
-[3016] = {
-{
-["date"] = "22:36 14/03/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 373658238,
-["itemLevel"] = 633.3125,
-["classId"] = 11,
-},
-["Confluence"] = {
-["total"] = 231411181,
-["itemLevel"] = 645.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 467477127,
-["itemLevel"] = 638.375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 438341734,
-["itemLevel"] = 634.3125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 333475872,
-["itemLevel"] = 637.75,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 334460831,
-["itemLevel"] = 651.875,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 396244802,
-["itemLevel"] = 636.0625,
-["classId"] = 1,
-},
-["Zephyrri"] = {
-["total"] = 600713707,
-["itemLevel"] = 650.4375,
-["classId"] = 7,
-},
-},
-["elapsed"] = 388.0210000000079,
-["servertime"] = 1742009798,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 266293525,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1742009798,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1742436784,
-["elapsed"] = 389.4800000000396,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 470725066,
-["itemLevel"] = 644.5625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 9499221,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 644727453,
-["itemLevel"] = 652.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 303174875,
-["itemLevel"] = 654.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 554232346,
-["itemLevel"] = 650.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 520035336,
-["itemLevel"] = 654.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 380800152,
-["itemLevel"] = 640.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 334121648,
-["itemLevel"] = 656.25,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 525472339,
-["itemLevel"] = 642.4375,
-["classId"] = 7,
-},
-["Giulietta"] = {
-["total"] = 554706953,
-["itemLevel"] = 642,
-["classId"] = 1,
-},
-},
-["servertime"] = 1742436783,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 268556519,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 173339400,
-["itemLevel"] = 633.875,
-["classId"] = 13,
-},
-},
-["date"] = "21:13 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743041498,
-["elapsed"] = 332.9900000000052,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 198966288,
-["itemLevel"] = 655.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 254109874,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 640122291,
-["itemLevel"] = 657.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 278648002,
-["itemLevel"] = 658,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 572202734,
-["itemLevel"] = 660.25,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 434018441,
-["itemLevel"] = 648.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 354240599,
-["itemLevel"] = 644.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 487502668,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 585554992,
-["itemLevel"] = 663.1875,
-["classId"] = 3,
-},
-},
-["servertime"] = 1743041497,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 184527788,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 118289503,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:11 26/03/25",
-},
-{
-["time"] = 1744246681,
-["guild"] = "House Stalwart",
-["elapsed"] = 259.9989999999525,
-["date"] = "19:58 09/04/25",
-["servertime"] = 1744246680,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 240141462,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 231046941,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 391150598,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 169387040,
-["itemLevel"] = 665.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 229155959,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 544253118,
-["itemLevel"] = 665.5,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 252529117,
-["itemLevel"] = 665.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 425161934,
-["itemLevel"] = 665.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 588661741,
-["itemLevel"] = 665.375,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 308766649,
-["itemLevel"] = 650.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 414511226,
-["itemLevel"] = 659.625,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 383084812,
-["itemLevel"] = 658.75,
-["classId"] = 7,
-},
-},
-},
-{
-["date"] = "22:33 13/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 217587330,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 189677499,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Anguis"] = {
-["total"] = 573485235,
-["itemLevel"] = 664.375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 275998609,
-["itemLevel"] = 656.5625,
-["classId"] = 10,
-},
-["Confluence"] = {
-["total"] = 350548630,
-["itemLevel"] = 679.1875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 613870002,
-["itemLevel"] = 678.0625,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 415581659,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 294620966,
-["itemLevel"] = 665.5625,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 370427370,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-},
-["elapsed"] = 364.0100000000093,
-["servertime"] = 1749872031,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 519211317,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 374959911,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
-["time"] = 1749872031,
-},
-},
-[2919] = {
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 91377213,
-["itemLevel"] = 613,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 156330138,
-["itemLevel"] = 619.6875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 103948672,
-["itemLevel"] = 607.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 137342725,
-["itemLevel"] = 610.6875,
-["classId"] = 4,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 93865962,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 160606549,
-["itemLevel"] = 613.5,
-["classId"] = 5,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 133534702,
-["itemLevel"] = 613.75,
-["classId"] = 7,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 158365306,
-["itemLevel"] = 614.375,
-["classId"] = 10,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 72693571,
-["itemLevel"] = 619.875,
-["classId"] = 12,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 159426086,
-["itemLevel"] = 616,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 152685731,
-["itemLevel"] = 614.4375,
-["classId"] = 8,
-},
-},
-["time"] = 1728704564,
-["date"] = "22:42 11/10/24",
-["elapsed"] = 180.640000000014,
-["servertime"] = 1728704564,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 87912356,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 71103249,
-["itemLevel"] = 608.375,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1736566978,
-["elapsed"] = 163.7380000000121,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 64078619,
-["itemLevel"] = 631.4666666666667,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 62560199,
-["itemLevel"] = 611.625,
-["classId"] = 10,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 191882150,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Artanos"] = {
-["total"] = 151006937,
-["itemLevel"] = 626.625,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 91214494,
-["itemLevel"] = 625.8125,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 217337402,
-["itemLevel"] = 634.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 182825665,
-["itemLevel"] = 628.4375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 166035540,
-["itemLevel"] = 627.625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 98435900,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Elayna"] = {
-["total"] = 98146097,
-["itemLevel"] = 634.9375,
-["classId"] = 3,
-},
-},
-["servertime"] = 1736566977,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 100042421,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 83708446,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:42 10/01/25",
-},
-{
-["date"] = "21:32 29/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 62696104,
-["itemLevel"] = 631.6875,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 179883057,
-["itemLevel"] = 627.375,
-["classId"] = 7,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 231052294,
-["itemLevel"] = 636.625,
-["classId"] = 8,
-},
-["Gedan"] = {
-["total"] = 107618185,
-["itemLevel"] = 613.3125,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 134242435,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Allynas"] = {
-["total"] = 72602594,
-["itemLevel"] = 587.75,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 70575361,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 134574446,
-["itemLevel"] = 635.3333333333334,
-["classId"] = 3,
-},
-["Nil"] = {
-["total"] = 114608796,
-["itemLevel"] = 626.625,
-["classId"] = 10,
-},
-["Riptides"] = {
-["total"] = 136563751,
-["itemLevel"] = 605.625,
-["classId"] = 7,
-},
-},
-["elapsed"] = 150.6890000000003,
-["servertime"] = 1738207940,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 69071846,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 89837413,
-["itemLevel"] = 625.0625,
-["classId"] = 13,
-},
-},
-["time"] = 1738207940,
-},
-},
-[3010] = {
-{
-["time"] = 1741226627,
-["guild"] = "House Stalwart",
-["elapsed"] = 276.4359999999997,
-["date"] = "20:03 05/03/25",
-["servertime"] = 1741226626,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 125138319,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 161821083,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 253675768,
-["itemLevel"] = 628.875,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 73298447,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 342037709,
-["itemLevel"] = 637.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 160069951,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 134281656,
-["itemLevel"] = 623.4375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 322689293,
-["itemLevel"] = 635.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 345671463,
-["itemLevel"] = 637.6875,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 244226045,
-["itemLevel"] = 629,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 318783050,
-["itemLevel"] = 634.3125,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 267403722,
-["itemLevel"] = 629.25,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 169621702,
-["itemLevel"] = 640.75,
-["classId"] = 12,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 227850790,
-["itemLevel"] = 631.25,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 98857448,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 305389894,
-["itemLevel"] = 648.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 47850988,
-["itemLevel"] = 628,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 118854774,
-["itemLevel"] = 635.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 259491471,
-["itemLevel"] = 639.8125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 225665132,
-["itemLevel"] = 634.3125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 232231650,
-["itemLevel"] = 635.5625,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 197732024,
-["itemLevel"] = 652.875,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 281696204,
-["itemLevel"] = 636.0625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 269939240,
-["itemLevel"] = 644.5625,
-["classId"] = 3,
-},
-},
-["time"] = 1741827527,
-["date"] = "19:58 12/03/25",
-["elapsed"] = 202.030999999959,
-["servertime"] = 1741827526,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 163074148,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1742431957,
-["elapsed"] = 184.9349999999977,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 254639916,
-["itemLevel"] = 644.5625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 11627647,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 304028027,
-["itemLevel"] = 652.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 169028093,
-["itemLevel"] = 654.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 300948746,
-["itemLevel"] = 650.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 236938157,
-["itemLevel"] = 654.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 227614430,
-["itemLevel"] = 640.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 168227573,
-["itemLevel"] = 656.25,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 283637217,
-["itemLevel"] = 642,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 226036572,
-["itemLevel"] = 642.4375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1742431957,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 118186688,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 78503556,
-["itemLevel"] = 630.875,
-["classId"] = 13,
-},
-},
-["date"] = "19:52 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743036939,
-["elapsed"] = 186.1939999999886,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 118194341,
-["itemLevel"] = 655.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 149311678,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 272715393,
-["itemLevel"] = 657.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 164071995,
-["itemLevel"] = 658,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 327352665,
-["itemLevel"] = 660.25,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 265032841,
-["itemLevel"] = 648.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 246513251,
-["itemLevel"] = 644.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 280772698,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 333514136,
-["itemLevel"] = 663.375,
-["classId"] = 3,
-},
-},
-["servertime"] = 1743036939,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 78136812,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 54526327,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "19:55 26/03/25",
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 97058620,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 99696595,
-["itemLevel"] = 635.4375,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 338325837,
-["itemLevel"] = 664.375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 179205018,
-["itemLevel"] = 655.9375,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 359997759,
-["itemLevel"] = 678.0625,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 333779180,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 178568374,
-["itemLevel"] = 665.5625,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 248961006,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-["Burnadine"] = {
-["total"] = 92007433,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-},
-["time"] = 1749867180,
-["date"] = "21:13 13/06/25",
-["elapsed"] = 134.6620000000112,
-["servertime"] = 1749867180,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 135276028,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 128355959,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-},
-[2920] = {
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 82483135,
-["itemLevel"] = 613,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 141767449,
-["itemLevel"] = 619.6875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 75852922,
-["itemLevel"] = 607.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 111054111,
-["itemLevel"] = 610.6875,
-["classId"] = 4,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 89046908,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 121559074,
-["itemLevel"] = 613.5,
-["classId"] = 5,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 101523259,
-["itemLevel"] = 613.75,
-["classId"] = 7,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 125536801,
-["itemLevel"] = 614.375,
-["classId"] = 10,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 46728418,
-["itemLevel"] = 619.875,
-["classId"] = 12,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 136309735,
-["itemLevel"] = 616,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 112824768,
-["itemLevel"] = 614.4375,
-["classId"] = 8,
-},
-},
-["time"] = 1728704957,
-["date"] = "22:49 11/10/24",
-["elapsed"] = 143.4260000000359,
-["servertime"] = 1728704956,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 56625217,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 56521753,
-["itemLevel"] = 608.375,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1736566136,
-["elapsed"] = 113.880999999994,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 47057020,
-["itemLevel"] = 631.4666666666667,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 45830986,
-["itemLevel"] = 611.8125,
-["classId"] = 10,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 169003644,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Artanos"] = {
-["total"] = 74309695,
-["itemLevel"] = 626.625,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 138079429,
-["itemLevel"] = 634.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 137900708,
-["itemLevel"] = 628.4375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 132156715,
-["itemLevel"] = 627.625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 87661630,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Elayna"] = {
-["total"] = 62974049,
-["itemLevel"] = 634.9375,
-["classId"] = 3,
-},
-},
-["servertime"] = 1736566135,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 78842635,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 62339965,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:28 10/01/25",
-},
-{
-["date"] = "21:23 29/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 51878838,
-["itemLevel"] = 631.6875,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 190316963,
-["itemLevel"] = 627.375,
-["classId"] = 7,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 168524887,
-["itemLevel"] = 636.625,
-["classId"] = 8,
-},
-["Gedan"] = {
-["total"] = 94145055,
-["itemLevel"] = 613.3125,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 114489345,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 95949825,
-["itemLevel"] = 626.625,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 58020417,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 101307534,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-["Riptides"] = {
-["total"] = 101034399,
-["itemLevel"] = 605.625,
-["classId"] = 7,
-},
-},
-["elapsed"] = 117.9180000000001,
-["servertime"] = 1738207420,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 74916089,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 50075015,
-["itemLevel"] = 625.0625,
-["classId"] = 13,
-},
-},
-["time"] = 1738207421,
-},
-},
 [2898] = {
 {
 ["guild"] = "House Stalwart",
@@ -1249,811 +135,97 @@ DetailsDataStorage = {
 ["time"] = 1738206424,
 },
 },
-[3011] = {
-{
-["time"] = 1741227924,
-["guild"] = "House Stalwart",
-["elapsed"] = 420.3989999999994,
-["date"] = "20:25 05/03/25",
-["servertime"] = 1741227923,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 74529084,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 238933327,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 317647020,
-["itemLevel"] = 628.875,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 75156776,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 455817497,
-["itemLevel"] = 637.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 83690230,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 143422057,
-["itemLevel"] = 623.4375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 123309163,
-["itemLevel"] = 635.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 355563039,
-["itemLevel"] = 637.6875,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 246931603,
-["itemLevel"] = 629,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 158516221,
-["itemLevel"] = 634.3125,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 367004629,
-["itemLevel"] = 629.4375,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 212498455,
-["itemLevel"] = 640.75,
-["classId"] = 12,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 227205378,
-["itemLevel"] = 631.25,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 122117719,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 396810878,
-["itemLevel"] = 648.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 149224316,
-["itemLevel"] = 628,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 117720609,
-["itemLevel"] = 643.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 252041551,
-["itemLevel"] = 639.8125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 256443179,
-["itemLevel"] = 634.3125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 253802166,
-["itemLevel"] = 635.5625,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 187381950,
-["itemLevel"] = 652.875,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 293956473,
-["itemLevel"] = 636.0625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 288256260,
-["itemLevel"] = 644.5625,
-["classId"] = 3,
-},
-},
-["time"] = 1741828678,
-["date"] = "20:17 12/03/25",
-["elapsed"] = 244.2140000000363,
-["servertime"] = 1741828677,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 160421331,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 101983502,
-["itemLevel"] = 626.875,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1742432544,
-["elapsed"] = 221.1070000000182,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 241603181,
-["itemLevel"] = 644.5625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 107491418,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 370497074,
-["itemLevel"] = 652.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 134991383,
-["itemLevel"] = 654.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 277471936,
-["itemLevel"] = 650.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 272743767,
-["itemLevel"] = 654.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 200301883,
-["itemLevel"] = 640.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 196212906,
-["itemLevel"] = 656.25,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 205803633,
-["itemLevel"] = 642,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 261986703,
-["itemLevel"] = 642.4375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1742432543,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 124910433,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 108238910,
-["itemLevel"] = 630.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:02 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743037531,
-["elapsed"] = 225.4840000000113,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 101084098,
-["itemLevel"] = 655.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 183269684,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 410408593,
-["itemLevel"] = 657.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 114158976,
-["itemLevel"] = 658,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 324220616,
-["itemLevel"] = 660.25,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 248152256,
-["itemLevel"] = 648.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 199080192,
-["itemLevel"] = 644.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 286871753,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 346505592,
-["itemLevel"] = 663.375,
-["classId"] = 3,
-},
-},
-["servertime"] = 1743037530,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 127338424,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 52153012,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "20:05 26/03/25",
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 114056225,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 87233078,
-["itemLevel"] = 636.875,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 399899175,
-["itemLevel"] = 664.375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 128992148,
-["itemLevel"] = 655.9375,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 370398498,
-["itemLevel"] = 678.0625,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 297796976,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 203701035,
-["itemLevel"] = 665.5625,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 327743089,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-["Burnadine"] = {
-["total"] = 120064977,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-},
-["time"] = 1749867711,
-["date"] = "21:21 13/06/25",
-["elapsed"] = 183.8640000000014,
-["servertime"] = 1749867710,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 187122844,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 121568334,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-},
-[3012] = {
-{
-["time"] = 1741230317,
-["guild"] = "House Stalwart",
-["elapsed"] = 366.5749999999989,
-["date"] = "21:05 05/03/25",
-["servertime"] = 1741230316,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 318272239,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 208302520,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 391420268,
-["itemLevel"] = 628.875,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 420069132,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 548629206,
-["itemLevel"] = 637.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 321161700,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 398015313,
-["itemLevel"] = 624.625,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 636077817,
-["itemLevel"] = 635.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 335634277,
-["itemLevel"] = 637.6875,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 475923280,
-["itemLevel"] = 629,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 485754591,
-["itemLevel"] = 634.3125,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 542799522,
-["itemLevel"] = 629.4375,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 337134927,
-["itemLevel"] = 640.75,
-["classId"] = 12,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 356883853,
-["itemLevel"] = 631.25,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 268173344,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 487169181,
-["itemLevel"] = 648.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 248376778,
-["itemLevel"] = 628,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 295690132,
-["itemLevel"] = 643.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 496520568,
-["itemLevel"] = 639.8125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 512074526,
-["itemLevel"] = 634.3125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 278258827,
-["itemLevel"] = 635.5625,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 450353353,
-["itemLevel"] = 652.875,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 366128791,
-["itemLevel"] = 636.0625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 364053395,
-["itemLevel"] = 644.5625,
-["classId"] = 3,
-},
-},
-["time"] = 1741829426,
-["date"] = "20:30 12/03/25",
-["elapsed"] = 320.9640000000363,
-["servertime"] = 1741829425,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 233141958,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 156540221,
-["itemLevel"] = 626.875,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1742433304,
-["elapsed"] = 288.829000000027,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 383845487,
-["itemLevel"] = 644.5625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 203078872,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 560800886,
-["itemLevel"] = 652.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 244227345,
-["itemLevel"] = 654.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 550018540,
-["itemLevel"] = 650.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 380189137,
-["itemLevel"] = 654.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 346971847,
-["itemLevel"] = 640.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 293121917,
-["itemLevel"] = 656.25,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 429548972,
-["itemLevel"] = 642,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 418681087,
-["itemLevel"] = 642.4375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1742433303,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 153434679,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 115346557,
-["itemLevel"] = 630.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:15 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743038080,
-["elapsed"] = 257.3559999999998,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 174171242,
-["itemLevel"] = 655.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 259124283,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 529279115,
-["itemLevel"] = 657.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 259454344,
-["itemLevel"] = 658,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 499918203,
-["itemLevel"] = 660.25,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 372065924,
-["itemLevel"] = 648.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 266093674,
-["itemLevel"] = 644.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 396605334,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 410866214,
-["itemLevel"] = 663.375,
-["classId"] = 3,
-},
-},
-["servertime"] = 1743038079,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 114547134,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 80771365,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "20:14 26/03/25",
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 186625876,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 146989296,
-["itemLevel"] = 636.875,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 629057308,
-["itemLevel"] = 664.375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 206620209,
-["itemLevel"] = 655.9375,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 431833610,
-["itemLevel"] = 678.0625,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 404545802,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 258643566,
-["itemLevel"] = 665.5625,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 345742340,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-["Burnadine"] = {
-["total"] = 188584529,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-},
-["time"] = 1749868267,
-["date"] = "21:31 13/06/25",
-["elapsed"] = 257.2760000000126,
-["servertime"] = 1749868266,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 269178042,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 229050417,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-},
-[2922] = {
+[2902] = {
 {
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 145269464,
+["total"] = 60851972,
 ["itemLevel"] = 615.1875,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 134139591,
+["total"] = 82617724,
 ["itemLevel"] = 613.5625,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 210659981,
+["total"] = 106703256,
 ["itemLevel"] = 621.0625,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 127851201,
+["total"] = 59799925,
 ["itemLevel"] = 608.9375,
 ["classId"] = 8,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 159173312,
+["total"] = 88987504,
 ["itemLevel"] = 618.4375,
 ["classId"] = 10,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 120845019,
+["total"] = 75307557,
 ["itemLevel"] = 613.375,
 ["classId"] = 4,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 190767387,
+["total"] = 91702537,
 ["itemLevel"] = 614.5625,
 ["classId"] = 5,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 136549928,
+["total"] = 59284423,
 ["itemLevel"] = 0,
 ["classId"] = 3,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 52791239,
+["total"] = 57326389,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 151838697,
-["itemLevel"] = 624.9375,
-["classId"] = 12,
+["Kadria-ArgentDawn"] = {
+["total"] = 115215113,
+["itemLevel"] = 617,
+["classId"] = 11,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 187507438,
+["total"] = 106692596,
 ["itemLevel"] = 615.625,
 ["classId"] = 7,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 269448497,
+["total"] = 145901452,
 ["itemLevel"] = 623,
 ["classId"] = 8,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 133727508,
-["itemLevel"] = 617,
-["classId"] = 11,
+["Beamindemon-Proudmoore"] = {
+["total"] = 65391390,
+["itemLevel"] = 624.9375,
+["classId"] = 12,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 203473759,
+["total"] = 98141548,
 ["itemLevel"] = 618.9375,
 ["classId"] = 1,
 },
 ["Mysdelin-ArgentDawn"] = {
-["total"] = 184860878,
+["total"] = 93202353,
 ["itemLevel"] = 616,
 ["classId"] = 8,
 },
 },
-["time"] = 1729304286,
-["date"] = "21:18 18/10/24",
-["elapsed"] = 294.948000000004,
-["servertime"] = 1729304285,
+["time"] = 1729302547,
+["date"] = "20:49 18/10/24",
+["elapsed"] = 101.1359999999986,
+["servertime"] = 1729302546,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 100989112,
+["total"] = 15206976,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 95019082,
+["total"] = 30421334,
 ["itemLevel"] = 611.625,
 ["classId"] = 13,
 },
@@ -2062,317 +234,1066 @@ DetailsDataStorage = {
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1729908770,
-["elapsed"] = 247.3579999999929,
+["time"] = 1729907101,
+["elapsed"] = 106.4800000000105,
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 114918037,
+["total"] = 64266366,
 ["itemLevel"] = 617.75,
 ["classId"] = 1,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 204287610,
+["total"] = 109863958,
 ["itemLevel"] = 623.25,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 103474204,
+["total"] = 62859275,
 ["itemLevel"] = 611.8125,
 ["classId"] = 8,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 79882907,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
 ["Rylacus-ArgentDawn"] = {
-["total"] = 126558328,
+["total"] = 84987416,
 ["itemLevel"] = 616.1875,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 163829845,
+["total"] = 36583818,
 ["itemLevel"] = 614.6875,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 176219615,
+["total"] = 99323277,
 ["itemLevel"] = 617.875,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 65955832,
+["total"] = 38551392,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Nil-ArgentDawn"] = {
-["total"] = 110164498,
-["itemLevel"] = 619.25,
-["classId"] = 10,
+["Lleandryn-ArgentDawn"] = {
+["total"] = 54626025,
+["itemLevel"] = 0,
+["classId"] = 3,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 184669054,
+["total"] = 162186426,
 ["itemLevel"] = 616.375,
 ["classId"] = 7,
 },
-["Apókryfes-Proudmoore"] = {
-["total"] = 210717876,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
+["Malimortui-ArgentDawn"] = {
+["total"] = 69664211,
+["itemLevel"] = 595.5625,
+["classId"] = 6,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 64427562,
+["total"] = 42686411,
 ["itemLevel"] = 615,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 169668468,
+["total"] = 76657525,
 ["itemLevel"] = 621.8125,
 ["classId"] = 1,
 },
 ["Mysdelin-ArgentDawn"] = {
-["total"] = 128867121,
+["total"] = 101895947,
 ["itemLevel"] = 616.75,
 ["classId"] = 8,
 },
 },
-["servertime"] = 1729908769,
+["servertime"] = 1729907100,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 172690162,
+["total"] = 46377114,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 133433557,
+["total"] = 53120376,
 ["itemLevel"] = 611.875,
 ["classId"] = 13,
 },
 },
-["date"] = "21:12 25/10/24",
+["date"] = "20:45 25/10/24",
 },
 {
-["time"] = 1730512988,
+["time"] = 1730511681,
 ["guild"] = "House Stalwart",
-["elapsed"] = 232.4590000000317,
-["date"] = "21:03 01/11/24",
-["servertime"] = 1730512988,
+["elapsed"] = 92.83600000001024,
+["date"] = "20:41 01/11/24",
+["servertime"] = 1730511681,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 93327614,
+["total"] = 31365821,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 101070744,
+["total"] = 32300792,
 ["itemLevel"] = 617.5,
 ["classId"] = 13,
 },
 },
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 64898776,
+["total"] = 69401146,
 ["itemLevel"] = 619.8125,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 56365506,
+["total"] = 29190380,
 ["itemLevel"] = 619.4375,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 176432697,
+["total"] = 110258016,
 ["itemLevel"] = 625.1875,
 ["classId"] = 3,
 },
-["Artanos-ArgentDawn"] = {
-["total"] = 107047998,
-["itemLevel"] = 614.1875,
-["classId"] = 8,
+["Malimortui-ArgentDawn"] = {
+["total"] = 71166335,
+["itemLevel"] = 604.75,
+["classId"] = 6,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 141052365,
+["total"] = 87808962,
 ["itemLevel"] = 619.5,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 171665960,
+["total"] = 89707788,
 ["itemLevel"] = 619.4375,
 ["classId"] = 1,
 },
-["Hydeon-ArgentDawn"] = {
-["total"] = 190019160,
-["itemLevel"] = 620.5625,
-["classId"] = 5,
+["Lleandryn-ArgentDawn"] = {
+["total"] = 74645196,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 175803662,
+["total"] = 114014864,
 ["itemLevel"] = 617.5,
 ["classId"] = 7,
 },
-["Apókryfes-Proudmoore"] = {
-["total"] = 211088677,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
+["Hydeon-ArgentDawn"] = {
+["total"] = 99539530,
+["itemLevel"] = 620.5625,
+["classId"] = 5,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 170780455,
+["total"] = 106851699,
 ["itemLevel"] = 621.1875,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 200930605,
+["total"] = 90390314,
 ["itemLevel"] = 623.3125,
 ["classId"] = 1,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 141249941,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
+["Artanos-ArgentDawn"] = {
+["total"] = 70929920,
+["itemLevel"] = 614.1875,
+["classId"] = 8,
 },
 },
 },
 {
+["date"] = "20:43 08/11/24",
 ["guild"] = "House Stalwart",
-["time"] = 1736568476,
-["elapsed"] = 276.4799999999959,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 67456424,
+["itemLevel"] = 622.25,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 32262555,
+["itemLevel"] = 619.4375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 112464750,
+["itemLevel"] = 626.625,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 77785129,
+["itemLevel"] = 617.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 100744472,
+["itemLevel"] = 620,
+["classId"] = 4,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 102727805,
+["itemLevel"] = 621.4375,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 46284434,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 113645510,
+["itemLevel"] = 619,
+["classId"] = 7,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 85969759,
+["itemLevel"] = 621.4375,
+["classId"] = 3,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 121767434,
+["itemLevel"] = 624.25,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 70581775,
+["itemLevel"] = 624.375,
+["classId"] = 1,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 64964303,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 90.39700000000084,
+["servertime"] = 1731120210,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 25139606,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 24405635,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+},
+["time"] = 1731120211,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1736563843,
+["elapsed"] = 71.71700000000419,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 82833161,
-["itemLevel"] = 631.125,
+["total"] = 25229643,
+["itemLevel"] = 631.4666666666667,
 ["classId"] = 11,
 },
 ["Sverdrup"] = {
-["total"] = 76939293,
-["itemLevel"] = 611.625,
+["total"] = 27023317,
+["itemLevel"] = 611.8125,
 ["classId"] = 10,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 314794280,
+["total"] = 121673719,
 ["itemLevel"] = 635.8125,
 ["classId"] = 8,
 },
 ["Artanos"] = {
-["total"] = 110082238,
+["total"] = 68738327,
 ["itemLevel"] = 626.625,
 ["classId"] = 8,
 },
-["Nil"] = {
-["total"] = 123235494,
-["itemLevel"] = 625.8125,
-["classId"] = 10,
-},
 ["Kadria"] = {
-["total"] = 236761090,
+["total"] = 101625557,
 ["itemLevel"] = 634.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 169705772,
-["itemLevel"] = 628.4375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 196376131,
-["itemLevel"] = 627.625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 49886593,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
 ["Elayna"] = {
-["total"] = 160093935,
+["total"] = 81545219,
 ["itemLevel"] = 634.9375,
 ["classId"] = 3,
 },
+["Rylacus"] = {
+["total"] = 104458201,
+["itemLevel"] = 627.625,
+["classId"] = 4,
 },
-["servertime"] = 1736568475,
-["HEALER"] = {
+["Erixi"] = {
+["total"] = 100290787,
+["itemLevel"] = 628.4375,
+["classId"] = 7,
+},
 ["Bleddwen"] = {
-["total"] = 152655530,
+["total"] = 54146006,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+},
+["servertime"] = 1736563843,
+["HEALER"] = {
 ["Xerimok"] = {
-["total"] = 155188230,
+["total"] = 35955448,
 ["itemLevel"] = 623.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "22:07 10/01/25",
+["date"] = "20:50 10/01/25",
 },
+},
+[3129] = {
 {
-["date"] = "21:50 29/01/25",
+["time"] = 1755132549,
 ["guild"] = "House Stalwart",
+["elapsed"] = 449.4320000000298,
+["date"] = "19:49 13/08/25",
+["servertime"] = 1755132549,
+["HEALER"] = {
+["Mykellcat"] = {
+["total"] = 1152049927,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 100748117,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 84946076,
-["itemLevel"] = 631.6875,
-["classId"] = 11,
+["Burnadine"] = {
+["total"] = 52443350,
+["itemLevel"] = 0,
+["classId"] = 9,
 },
-["Zephyrri"] = {
-["total"] = 216417562,
-["itemLevel"] = 627.375,
-["classId"] = 7,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 284466828,
-["itemLevel"] = 636.625,
-["classId"] = 8,
-},
-["Gedan"] = {
-["total"] = 128581672,
-["itemLevel"] = 613.125,
-["classId"] = 11,
+["Anguis"] = {
+["total"] = 1168228943,
+["itemLevel"] = 680.875,
+["classId"] = 13,
 },
 ["Artanos"] = {
-["total"] = 97704965,
-["itemLevel"] = 627,
+["total"] = 123914199,
+["itemLevel"] = 668.125,
 ["classId"] = 8,
 },
-["Allynas"] = {
-["total"] = 80962693,
-["itemLevel"] = 592.125,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 67149524,
-["itemLevel"] = 552.625,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 161568465,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
 ["Nil"] = {
-["total"] = 165838814,
-["itemLevel"] = 626.625,
+["total"] = 126766279,
+["itemLevel"] = 671.5625,
 ["classId"] = 10,
 },
-["Riptides"] = {
-["total"] = 155205939,
-["itemLevel"] = 605.625,
+["Sverdrup"] = {
+["total"] = 417914128,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 922900266,
+["itemLevel"] = 682.9375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 769819671,
+["itemLevel"] = 678,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 486552833,
+["itemLevel"] = 689.125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 855624236,
+["itemLevel"] = 679.4375,
 ["classId"] = 7,
 },
+["Giulietta"] = {
+["total"] = 1027964535,
+["itemLevel"] = 682.9375,
+["classId"] = 1,
 },
-["elapsed"] = 272.3099999999995,
-["servertime"] = 1738209019,
+},
+},
+{
+["time"] = 1755737049,
+["guild"] = "House Stalwart",
+["elapsed"] = 241.5610000000452,
+["date"] = "19:44 20/08/25",
+["servertime"] = 1755737049,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 130670402,
+["total"] = 49423114,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 144269879,
-["itemLevel"] = 625.0625,
+["total"] = 373333283,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 240198516,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 487325613,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 302174602,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 653631537,
+["itemLevel"] = 685.1875,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 272954641,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 270031606,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 434667665,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 658320739,
+["itemLevel"] = 687.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 575346762,
+["itemLevel"] = 687.375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 466381580,
+["itemLevel"] = 681.375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 769094910,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Burnadine"] = {
+["total"] = 92762214,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 630859627,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 229795096,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 162713767,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 538113471,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 680380496,
+["itemLevel"] = 702.875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 555132471,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 343342026,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 397022730,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 587480792,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 499337383,
+["itemLevel"] = 709,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 349972047,
+["itemLevel"] = 693.25,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 601867157,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 324456485,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 587940986,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756946341,
+["date"] = "19:39 03/09/25",
+["elapsed"] = 146.3080000000045,
+["servertime"] = 1756946341,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 210060836,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 148319189,
+["itemLevel"] = 0,
 ["classId"] = 13,
 },
 },
-["time"] = 1738209019,
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1762393480,
+["guild"] = "House Stalwart",
+["elapsed"] = 176.4740000000456,
+["date"] = "19:44 05/11/25",
+["servertime"] = 1762393480,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 357797973,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 349943299,
+["itemLevel"] = 717.125,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 470216738,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 358302446,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 730055048,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 526211257,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Heikuro"] = {
+["total"] = 894199449,
+["itemLevel"] = 722.4375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 768203328,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 261132268,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 543207513,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 637274579,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 603242906,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1051782010,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 512447020,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 844274908,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 146104675,
+["itemLevel"] = 724.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 970169628,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 225046311,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1762998354,
+["date"] = "19:45 12/11/25",
+["elapsed"] = 351.6050000000105,
+["servertime"] = 1762998353,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 393563168,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 627944337,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3131] = {
+{
+["time"] = 1755134596,
+["guild"] = "House Stalwart",
+["elapsed"] = 308.7750000000233,
+["date"] = "20:23 13/08/25",
+["servertime"] = 1755134596,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 580439655,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 861328966,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 355499890,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 925890098,
+["itemLevel"] = 680.875,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 558796816,
+["itemLevel"] = 668.125,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 325949485,
+["itemLevel"] = 673.1875,
+["classId"] = 10,
+},
+["Burnadine"] = {
+["total"] = 184592601,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 767156603,
+["itemLevel"] = 679.4375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 612466480,
+["itemLevel"] = 678,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 561498452,
+["itemLevel"] = 682.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 814776576,
+["itemLevel"] = 682.9375,
+["classId"] = 3,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 346358041,
+["itemLevel"] = 689.125,
+["classId"] = 12,
+},
+},
+},
+{
+["time"] = 1755737751,
+["guild"] = "House Stalwart",
+["elapsed"] = 243.1060000000289,
+["date"] = "19:55 20/08/25",
+["servertime"] = 1755737751,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 503934340,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 482980678,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 945936512,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 193692670,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 399136307,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 655486682,
+["itemLevel"] = 685.1875,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 268988426,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 403885430,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 416191456,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 842439848,
+["itemLevel"] = 687.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 781456576,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 581257403,
+["itemLevel"] = 681.375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 933804694,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Burnadine"] = {
+["total"] = 94111219,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 697443625,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 218571110,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 209738535,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 742984893,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 740726419,
+["itemLevel"] = 702.875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 785755780,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 337148781,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 535659715,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 722706013,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 653162020,
+["itemLevel"] = 709,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 413251153,
+["itemLevel"] = 693.25,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 806778406,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 367848594,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 740515603,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756946923,
+["date"] = "19:48 03/09/25",
+["elapsed"] = 179.2790000000023,
+["servertime"] = 1756946923,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 428651703,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 417007897,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 229477017,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 423072250,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 452071581,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 573601371,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 971524145,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 728877274,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 539646556,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 774886646,
+["itemLevel"] = 724.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 856430762,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 429944277,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1762998851,
+["date"] = "19:54 12/11/25",
+["elapsed"] = 130.255999999994,
+["servertime"] = 1762998850,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 238409003,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 337038346,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1763604493,
+["guild"] = "House Stalwart",
+["elapsed"] = 110.3960000000079,
+["date"] = "20:08 19/11/25",
+["servertime"] = 1763604492,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 178979529,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 246465614,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 232727696,
+["itemLevel"] = 728.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 320556298,
+["itemLevel"] = 719.375,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 685229729,
+["itemLevel"] = 723.1875,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 416607575,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 699077282,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 604478510,
+["itemLevel"] = 720.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 434554601,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 736253143,
+["itemLevel"] = 724.75,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 735938062,
+["itemLevel"] = 723.875,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 600820248,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+},
 },
 },
 [3009] = {
@@ -2869,6 +1790,363 @@ DetailsDataStorage = {
 ["guild"] = "House Stalwart",
 },
 },
+[3011] = {
+{
+["time"] = 1741227924,
+["guild"] = "House Stalwart",
+["elapsed"] = 420.3989999999994,
+["date"] = "20:25 05/03/25",
+["servertime"] = 1741227923,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 74529084,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 238933327,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 317647020,
+["itemLevel"] = 628.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 75156776,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 455817497,
+["itemLevel"] = 637.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 83690230,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 143422057,
+["itemLevel"] = 623.4375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 123309163,
+["itemLevel"] = 635.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 355563039,
+["itemLevel"] = 637.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 246931603,
+["itemLevel"] = 629,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 158516221,
+["itemLevel"] = 634.3125,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 367004629,
+["itemLevel"] = 629.4375,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 212498455,
+["itemLevel"] = 640.75,
+["classId"] = 12,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 227205378,
+["itemLevel"] = 631.25,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 122117719,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 396810878,
+["itemLevel"] = 648.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 149224316,
+["itemLevel"] = 628,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 117720609,
+["itemLevel"] = 643.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 252041551,
+["itemLevel"] = 639.8125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 256443179,
+["itemLevel"] = 634.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 253802166,
+["itemLevel"] = 635.5625,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 187381950,
+["itemLevel"] = 652.875,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 293956473,
+["itemLevel"] = 636.0625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 288256260,
+["itemLevel"] = 644.5625,
+["classId"] = 3,
+},
+},
+["time"] = 1741828678,
+["date"] = "20:17 12/03/25",
+["elapsed"] = 244.2140000000363,
+["servertime"] = 1741828677,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 160421331,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 101983502,
+["itemLevel"] = 626.875,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1742432544,
+["elapsed"] = 221.1070000000182,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 241603181,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 107491418,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 370497074,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 134991383,
+["itemLevel"] = 654.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 277471936,
+["itemLevel"] = 650.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 272743767,
+["itemLevel"] = 654.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 200301883,
+["itemLevel"] = 640.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 196212906,
+["itemLevel"] = 656.25,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 205803633,
+["itemLevel"] = 642,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 261986703,
+["itemLevel"] = 642.4375,
+["classId"] = 7,
+},
+},
+["servertime"] = 1742432543,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 124910433,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 108238910,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:02 19/03/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1743037531,
+["elapsed"] = 225.4840000000113,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 101084098,
+["itemLevel"] = 655.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 183269684,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 410408593,
+["itemLevel"] = 657.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 114158976,
+["itemLevel"] = 658,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 324220616,
+["itemLevel"] = 660.25,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 248152256,
+["itemLevel"] = 648.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 199080192,
+["itemLevel"] = 644.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 286871753,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 346505592,
+["itemLevel"] = 663.375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1743037530,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 127338424,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 52153012,
+["itemLevel"] = 637.75,
+["classId"] = 13,
+},
+},
+["date"] = "20:05 26/03/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 114056225,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 87233078,
+["itemLevel"] = 636.875,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 399899175,
+["itemLevel"] = 664.375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 128992148,
+["itemLevel"] = 655.9375,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 370398498,
+["itemLevel"] = 678.0625,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 297796976,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 203701035,
+["itemLevel"] = 665.5625,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 327743089,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 120064977,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1749867711,
+["date"] = "21:21 13/06/25",
+["elapsed"] = 183.8640000000014,
+["servertime"] = 1749867710,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 187122844,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 121568334,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
 [3013] = {
 {
 ["time"] = 1741231331,
@@ -3206,1299 +2484,6 @@ DetailsDataStorage = {
 ["guild"] = "House Stalwart",
 },
 },
-[2902] = {
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 60851972,
-["itemLevel"] = 615.1875,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 82617724,
-["itemLevel"] = 613.5625,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 106703256,
-["itemLevel"] = 621.0625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 59799925,
-["itemLevel"] = 608.9375,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 88987504,
-["itemLevel"] = 618.4375,
-["classId"] = 10,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 75307557,
-["itemLevel"] = 613.375,
-["classId"] = 4,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 91702537,
-["itemLevel"] = 614.5625,
-["classId"] = 5,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 59284423,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 57326389,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 115215113,
-["itemLevel"] = 617,
-["classId"] = 11,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 106692596,
-["itemLevel"] = 615.625,
-["classId"] = 7,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 145901452,
-["itemLevel"] = 623,
-["classId"] = 8,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 65391390,
-["itemLevel"] = 624.9375,
-["classId"] = 12,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 98141548,
-["itemLevel"] = 618.9375,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 93202353,
-["itemLevel"] = 616,
-["classId"] = 8,
-},
-},
-["time"] = 1729302547,
-["date"] = "20:49 18/10/24",
-["elapsed"] = 101.1359999999986,
-["servertime"] = 1729302546,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 15206976,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 30421334,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1729907101,
-["elapsed"] = 106.4800000000105,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 64266366,
-["itemLevel"] = 617.75,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 109863958,
-["itemLevel"] = 623.25,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 62859275,
-["itemLevel"] = 611.8125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 84987416,
-["itemLevel"] = 616.1875,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 36583818,
-["itemLevel"] = 614.6875,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 99323277,
-["itemLevel"] = 617.875,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 38551392,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 54626025,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 162186426,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Malimortui-ArgentDawn"] = {
-["total"] = 69664211,
-["itemLevel"] = 595.5625,
-["classId"] = 6,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 42686411,
-["itemLevel"] = 615,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 76657525,
-["itemLevel"] = 621.8125,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 101895947,
-["itemLevel"] = 616.75,
-["classId"] = 8,
-},
-},
-["servertime"] = 1729907100,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 46377114,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 53120376,
-["itemLevel"] = 611.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:45 25/10/24",
-},
-{
-["time"] = 1730511681,
-["guild"] = "House Stalwart",
-["elapsed"] = 92.83600000001024,
-["date"] = "20:41 01/11/24",
-["servertime"] = 1730511681,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 31365821,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 32300792,
-["itemLevel"] = 617.5,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 69401146,
-["itemLevel"] = 619.8125,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 29190380,
-["itemLevel"] = 619.4375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 110258016,
-["itemLevel"] = 625.1875,
-["classId"] = 3,
-},
-["Malimortui-ArgentDawn"] = {
-["total"] = 71166335,
-["itemLevel"] = 604.75,
-["classId"] = 6,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 87808962,
-["itemLevel"] = 619.5,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 89707788,
-["itemLevel"] = 619.4375,
-["classId"] = 1,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 74645196,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 114014864,
-["itemLevel"] = 617.5,
-["classId"] = 7,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 99539530,
-["itemLevel"] = 620.5625,
-["classId"] = 5,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 106851699,
-["itemLevel"] = 621.1875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 90390314,
-["itemLevel"] = 623.3125,
-["classId"] = 1,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 70929920,
-["itemLevel"] = 614.1875,
-["classId"] = 8,
-},
-},
-},
-{
-["date"] = "20:43 08/11/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 67456424,
-["itemLevel"] = 622.25,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 32262555,
-["itemLevel"] = 619.4375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 112464750,
-["itemLevel"] = 626.625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 77785129,
-["itemLevel"] = 617.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 100744472,
-["itemLevel"] = 620,
-["classId"] = 4,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 102727805,
-["itemLevel"] = 621.4375,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 46284434,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 113645510,
-["itemLevel"] = 619,
-["classId"] = 7,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 85969759,
-["itemLevel"] = 621.4375,
-["classId"] = 3,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 121767434,
-["itemLevel"] = 624.25,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 70581775,
-["itemLevel"] = 624.375,
-["classId"] = 1,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 64964303,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-},
-["elapsed"] = 90.39700000000084,
-["servertime"] = 1731120210,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 25139606,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 24405635,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-},
-["time"] = 1731120211,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1736563843,
-["elapsed"] = 71.71700000000419,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 25229643,
-["itemLevel"] = 631.4666666666667,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 27023317,
-["itemLevel"] = 611.8125,
-["classId"] = 10,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 121673719,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Artanos"] = {
-["total"] = 68738327,
-["itemLevel"] = 626.625,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 101625557,
-["itemLevel"] = 634.125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 81545219,
-["itemLevel"] = 634.9375,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 104458201,
-["itemLevel"] = 627.625,
-["classId"] = 4,
-},
-["Erixi"] = {
-["total"] = 100290787,
-["itemLevel"] = 628.4375,
-["classId"] = 7,
-},
-["Bleddwen"] = {
-["total"] = 54146006,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["servertime"] = 1736563843,
-["HEALER"] = {
-["Xerimok"] = {
-["total"] = 35955448,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:50 10/01/25",
-},
-},
-[3014] = {
-{
-["time"] = 1741232900,
-["guild"] = "House Stalwart",
-["elapsed"] = 375.7040000000015,
-["date"] = "21:48 05/03/25",
-["servertime"] = 1741232899,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 256224022,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 291711859,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 334887857,
-["itemLevel"] = 628.875,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 256621878,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 402952565,
-["itemLevel"] = 637.4375,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 256512988,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 160471181,
-["itemLevel"] = 624.875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 325018866,
-["itemLevel"] = 635.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 327516563,
-["itemLevel"] = 638.6875,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 263284563,
-["itemLevel"] = 629,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 469169336,
-["itemLevel"] = 634.3125,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 222630955,
-["itemLevel"] = 629.4375,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 211814828,
-["itemLevel"] = 640.75,
-["classId"] = 12,
-},
-},
-},
-{
-["date"] = "21:09 14/03/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 239730851,
-["itemLevel"] = 631.25,
-["classId"] = 11,
-},
-["Confluence"] = {
-["total"] = 177354473,
-["itemLevel"] = 645.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 265987434,
-["itemLevel"] = 638.375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 331435319,
-["itemLevel"] = 634.3125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 250519586,
-["itemLevel"] = 637.75,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 222971862,
-["itemLevel"] = 651.875,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 306987553,
-["itemLevel"] = 636.0625,
-["classId"] = 1,
-},
-["Zephyrri"] = {
-["total"] = 413611759,
-["itemLevel"] = 650.0625,
-["classId"] = 7,
-},
-},
-["elapsed"] = 253.5620000000054,
-["servertime"] = 1742004547,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 174164761,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1742004548,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1742435564,
-["elapsed"] = 244.36599999998,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 291893030,
-["itemLevel"] = 644.5625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 170966173,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 431870150,
-["itemLevel"] = 652.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 196010554,
-["itemLevel"] = 654.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 391558062,
-["itemLevel"] = 650.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 332419964,
-["itemLevel"] = 654.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 261170892,
-["itemLevel"] = 640.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 231515952,
-["itemLevel"] = 656.25,
-["classId"] = 12,
-},
-["Giulietta"] = {
-["total"] = 381805864,
-["itemLevel"] = 642,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 320552529,
-["itemLevel"] = 642.4375,
-["classId"] = 7,
-},
-},
-["servertime"] = 1742435563,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 171996130,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 138514780,
-["itemLevel"] = 631.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:52 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743040286,
-["elapsed"] = 256.0040000000008,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 156401138,
-["itemLevel"] = 655.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 198600550,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 556966428,
-["itemLevel"] = 657.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 214283165,
-["itemLevel"] = 658,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 362898459,
-["itemLevel"] = 660.25,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 374811009,
-["itemLevel"] = 648.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 279854400,
-["itemLevel"] = 644.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 333336324,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 447521149,
-["itemLevel"] = 663.1875,
-["classId"] = 3,
-},
-},
-["servertime"] = 1743040285,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 149230547,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 108415877,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:51 26/03/25",
-},
-{
-["time"] = 1744247222,
-["guild"] = "House Stalwart",
-["elapsed"] = 179.2229999999981,
-["date"] = "20:07 09/04/25",
-["servertime"] = 1744247221,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 98240445,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 129793838,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 214162356,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 110230410,
-["itemLevel"] = 665.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 177542688,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 398371541,
-["itemLevel"] = 665.5,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 191017201,
-["itemLevel"] = 665.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 328841849,
-["itemLevel"] = 665.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 307505869,
-["itemLevel"] = 658.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 212428559,
-["itemLevel"] = 650.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 280642686,
-["itemLevel"] = 659.625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 424992034,
-["itemLevel"] = 665.375,
-["classId"] = 3,
-},
-},
-},
-{
-["date"] = "22:10 13/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 209175136,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 56417907,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Anguis"] = {
-["total"] = 564675840,
-["itemLevel"] = 664.375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 414422004,
-["itemLevel"] = 656.5625,
-["classId"] = 10,
-},
-["Confluence"] = {
-["total"] = 311664825,
-["itemLevel"] = 679.1875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 584134367,
-["itemLevel"] = 678.0625,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 565012603,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 397013447,
-["itemLevel"] = 665.5625,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 567375395,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-},
-["elapsed"] = 299.2880000000005,
-["servertime"] = 1749870606,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 408637210,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 316326508,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
-["time"] = 1749870607,
-},
-},
-[2917] = {
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 73256374,
-["itemLevel"] = 615.1875,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 81608739,
-["itemLevel"] = 613.5625,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 129178056,
-["itemLevel"] = 621.0625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 65575666,
-["itemLevel"] = 608.9375,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 93117090,
-["itemLevel"] = 618.4375,
-["classId"] = 10,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 87340429,
-["itemLevel"] = 613.375,
-["classId"] = 4,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 114028412,
-["itemLevel"] = 614.5625,
-["classId"] = 5,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 77276974,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 48658441,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 71384145,
-["itemLevel"] = 624.9375,
-["classId"] = 12,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 166191407,
-["itemLevel"] = 615.625,
-["classId"] = 7,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 172462655,
-["itemLevel"] = 623,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 139962657,
-["itemLevel"] = 617,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 135159445,
-["itemLevel"] = 618.9375,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 85790234,
-["itemLevel"] = 616,
-["classId"] = 8,
-},
-},
-["time"] = 1729303073,
-["date"] = "20:57 18/10/24",
-["elapsed"] = 127.1459999999934,
-["servertime"] = 1729303072,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 34920302,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 41850943,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1729907614,
-["elapsed"] = 142.2219999999943,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 71037413,
-["itemLevel"] = 617.75,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 121171682,
-["itemLevel"] = 623.25,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 86970553,
-["itemLevel"] = 611.8125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 87377695,
-["itemLevel"] = 616.1875,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 100083593,
-["itemLevel"] = 614.6875,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 112576550,
-["itemLevel"] = 617.875,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 70389753,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 61527230,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 153672976,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Malimortui-ArgentDawn"] = {
-["total"] = 93719100,
-["itemLevel"] = 595.5625,
-["classId"] = 6,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 57864016,
-["itemLevel"] = 615,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 131414523,
-["itemLevel"] = 621.8125,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 100337970,
-["itemLevel"] = 616.75,
-["classId"] = 8,
-},
-},
-["servertime"] = 1729907613,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 92990136,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 57435743,
-["itemLevel"] = 611.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:53 25/10/24",
-},
-{
-["time"] = 1730512143,
-["guild"] = "House Stalwart",
-["elapsed"] = 113.2419999999693,
-["date"] = "20:49 01/11/24",
-["servertime"] = 1730512142,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 47318791,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 55018352,
-["itemLevel"] = 617.5,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 76973182,
-["itemLevel"] = 619.8125,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 37586252,
-["itemLevel"] = 619.4375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 117527513,
-["itemLevel"] = 625.1875,
-["classId"] = 3,
-},
-["Malimortui-ArgentDawn"] = {
-["total"] = 93451162,
-["itemLevel"] = 604.75,
-["classId"] = 6,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 99515974,
-["itemLevel"] = 619.5,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 124298137,
-["itemLevel"] = 619.4375,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 127477561,
-["itemLevel"] = 620.5625,
-["classId"] = 5,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 127347924,
-["itemLevel"] = 617.5,
-["classId"] = 7,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 81959489,
-["itemLevel"] = 614.1875,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 120388943,
-["itemLevel"] = 621.1875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 128365733,
-["itemLevel"] = 623.3125,
-["classId"] = 1,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 76563086,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
-},
-},
-},
-{
-["date"] = "20:51 08/11/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 77803103,
-["itemLevel"] = 622.25,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 43164933,
-["itemLevel"] = 619.4375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 124567425,
-["itemLevel"] = 626.625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 91046129,
-["itemLevel"] = 617.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 97664114,
-["itemLevel"] = 620,
-["classId"] = 4,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 88823043,
-["itemLevel"] = 621.4375,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 68546877,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 151129088,
-["itemLevel"] = 619,
-["classId"] = 7,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 95363538,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 135991209,
-["itemLevel"] = 624.25,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 127203957,
-["itemLevel"] = 624.375,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 115550504,
-["itemLevel"] = 621.4375,
-["classId"] = 5,
-},
-},
-["elapsed"] = 113.2719999999972,
-["servertime"] = 1731120690,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 56040710,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 40846321,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-},
-["time"] = 1731120691,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1736564560,
-["elapsed"] = 237.3650000000052,
-["DAMAGER"] = {
-["Artanos"] = {
-["total"] = 96991327,
-["itemLevel"] = 626.625,
-["classId"] = 8,
-},
-["Sverdrup"] = {
-["total"] = 59112236,
-["itemLevel"] = 611.8125,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 179558945,
-["itemLevel"] = 634.125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 84879464,
-["itemLevel"] = 634.9375,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 144842917,
-["itemLevel"] = 627.625,
-["classId"] = 4,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 154403884,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 138958135,
-["itemLevel"] = 628.4375,
-["classId"] = 7,
-},
-["Keydan"] = {
-["total"] = 46706002,
-["itemLevel"] = 631.4666666666667,
-["classId"] = 11,
-},
-},
-["servertime"] = 1736564559,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 207261604,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 166560809,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:02 10/01/25",
-},
-{
-["date"] = "20:58 29/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 82097630,
-["itemLevel"] = 514.3125,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 193345404,
-["itemLevel"] = 627.375,
-["classId"] = 7,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 160765893,
-["itemLevel"] = 636.625,
-["classId"] = 8,
-},
-["Gedan"] = {
-["total"] = 90389445,
-["itemLevel"] = 613.3125,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 88905888,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Allynas"] = {
-["total"] = 37479250,
-["itemLevel"] = 583.0625,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 88966465,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 108085605,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-["Nil"] = {
-["total"] = 82867704,
-["itemLevel"] = 626.625,
-["classId"] = 10,
-},
-["Riptides"] = {
-["total"] = 144929845,
-["itemLevel"] = 605.1875,
-["classId"] = 7,
-},
-},
-["elapsed"] = 233.5830000000001,
-["servertime"] = 1738205907,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 185121429,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 178376293,
-["itemLevel"] = 625.0625,
-["classId"] = 13,
-},
-},
-["time"] = 1738205908,
-},
-},
 [3015] = {
 {
 ["date"] = "21:30 14/03/25",
@@ -4829,6 +2814,388 @@ DetailsDataStorage = {
 },
 },
 ["time"] = 1749871470,
+},
+},
+[3133] = {
+{
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 238114786,
+["itemLevel"] = 690.1875,
+["classId"] = 10,
+},
+["Rylacus"] = {
+["total"] = 506731762,
+["itemLevel"] = 679.6875,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 661714482,
+["itemLevel"] = 686.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 663503646,
+["itemLevel"] = 682.9375,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 198610128,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Errya"] = {
+["total"] = 91581949,
+["itemLevel"] = 652.875,
+["classId"] = 2,
+},
+["Burnadine"] = {
+["total"] = 237676278,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1755309579,
+["date"] = "20:59 15/08/25",
+["elapsed"] = 261.7299999999996,
+["servertime"] = 1755309578,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 281012047,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 601341524,
+["itemLevel"] = 693.6875,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1755740910,
+["guild"] = "House Stalwart",
+["elapsed"] = 177.5430000000051,
+["date"] = "20:48 20/08/25",
+["servertime"] = 1755740910,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 240094107,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 184594192,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 440717407,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 430372171,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 226320411,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 513829481,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 284119618,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 375097965,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 300227998,
+["itemLevel"] = 687.875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 546055119,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 621238892,
+["itemLevel"] = 689.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 384032784,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 695021371,
+["itemLevel"] = 694.3125,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 262723121,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 483739073,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+},
+},
+{
+["date"] = "20:50 27/08/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 176366596,
+["itemLevel"] = 696,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 291279245,
+["itemLevel"] = 700.9375,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 481078280,
+["itemLevel"] = 685.625,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 534319867,
+["itemLevel"] = 705.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 411879267,
+["itemLevel"] = 684.6875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 401153794,
+["itemLevel"] = 694.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 584438142,
+["itemLevel"] = 699.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 436915267,
+["itemLevel"] = 698.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 308067181,
+["itemLevel"] = 685.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 604361148,
+["itemLevel"] = 698.75,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 607478593,
+["itemLevel"] = 695.4375,
+["classId"] = 7,
+},
+["Burnadine"] = {
+["total"] = 82134881,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["elapsed"] = 145.2700000000186,
+["servertime"] = 1756345802,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 238030821,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 200987872,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["time"] = 1756345803,
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 193844180,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 223253916,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 513536906,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 634138954,
+["itemLevel"] = 702.6875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 476372267,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 344073116,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 456556172,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 548591121,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 563119124,
+["itemLevel"] = 708.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 389656428,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 632072998,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 284032463,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 654326219,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756949049,
+["date"] = "20:24 03/09/25",
+["elapsed"] = 131.6900000000023,
+["servertime"] = 1756949049,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 185687421,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 208890117,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 370815976,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 527122876,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 367114844,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 61190388,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 694850193,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 583569578,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 546360746,
+["itemLevel"] = 725.5625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1245862079,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 267031174,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1763002088,
+["date"] = "20:48 12/11/25",
+["elapsed"] = 310.9610000000102,
+["servertime"] = 1763002087,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 474401086,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 533751500,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 296523487,
+["itemLevel"] = 723.3125,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
 },
 },
 [2918] = {
@@ -5458,6 +3825,5035 @@ DetailsDataStorage = {
 ["time"] = 1738208372,
 },
 },
+[2919] = {
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 91377213,
+["itemLevel"] = 613,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 156330138,
+["itemLevel"] = 619.6875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 103948672,
+["itemLevel"] = 607.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 137342725,
+["itemLevel"] = 610.6875,
+["classId"] = 4,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 93865962,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 160606549,
+["itemLevel"] = 613.5,
+["classId"] = 5,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 133534702,
+["itemLevel"] = 613.75,
+["classId"] = 7,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 158365306,
+["itemLevel"] = 614.375,
+["classId"] = 10,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 72693571,
+["itemLevel"] = 619.875,
+["classId"] = 12,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 159426086,
+["itemLevel"] = 616,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 152685731,
+["itemLevel"] = 614.4375,
+["classId"] = 8,
+},
+},
+["time"] = 1728704564,
+["date"] = "22:42 11/10/24",
+["elapsed"] = 180.640000000014,
+["servertime"] = 1728704564,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 87912356,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 71103249,
+["itemLevel"] = 608.375,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1736566978,
+["elapsed"] = 163.7380000000121,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 64078619,
+["itemLevel"] = 631.4666666666667,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 62560199,
+["itemLevel"] = 611.625,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 191882150,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 151006937,
+["itemLevel"] = 626.625,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 91214494,
+["itemLevel"] = 625.8125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 217337402,
+["itemLevel"] = 634.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 182825665,
+["itemLevel"] = 628.4375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 166035540,
+["itemLevel"] = 627.625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 98435900,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 98146097,
+["itemLevel"] = 634.9375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1736566977,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 100042421,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 83708446,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["date"] = "21:42 10/01/25",
+},
+{
+["date"] = "21:32 29/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 62696104,
+["itemLevel"] = 631.6875,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 179883057,
+["itemLevel"] = 627.375,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 231052294,
+["itemLevel"] = 636.625,
+["classId"] = 8,
+},
+["Gedan"] = {
+["total"] = 107618185,
+["itemLevel"] = 613.3125,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 134242435,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Allynas"] = {
+["total"] = 72602594,
+["itemLevel"] = 587.75,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 70575361,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 134574446,
+["itemLevel"] = 635.3333333333334,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 114608796,
+["itemLevel"] = 626.625,
+["classId"] = 10,
+},
+["Riptides"] = {
+["total"] = 136563751,
+["itemLevel"] = 605.625,
+["classId"] = 7,
+},
+},
+["elapsed"] = 150.6890000000003,
+["servertime"] = 1738207940,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 69071846,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 89837413,
+["itemLevel"] = 625.0625,
+["classId"] = 13,
+},
+},
+["time"] = 1738207940,
+},
+},
+[3010] = {
+{
+["time"] = 1741226627,
+["guild"] = "House Stalwart",
+["elapsed"] = 276.4359999999997,
+["date"] = "20:03 05/03/25",
+["servertime"] = 1741226626,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 125138319,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 161821083,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 253675768,
+["itemLevel"] = 628.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 73298447,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 342037709,
+["itemLevel"] = 637.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 160069951,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 134281656,
+["itemLevel"] = 623.4375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 322689293,
+["itemLevel"] = 635.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 345671463,
+["itemLevel"] = 637.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 244226045,
+["itemLevel"] = 629,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 318783050,
+["itemLevel"] = 634.3125,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 267403722,
+["itemLevel"] = 629.25,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 169621702,
+["itemLevel"] = 640.75,
+["classId"] = 12,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 227850790,
+["itemLevel"] = 631.25,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 98857448,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 305389894,
+["itemLevel"] = 648.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 47850988,
+["itemLevel"] = 628,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 118854774,
+["itemLevel"] = 635.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 259491471,
+["itemLevel"] = 639.8125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 225665132,
+["itemLevel"] = 634.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 232231650,
+["itemLevel"] = 635.5625,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 197732024,
+["itemLevel"] = 652.875,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 281696204,
+["itemLevel"] = 636.0625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 269939240,
+["itemLevel"] = 644.5625,
+["classId"] = 3,
+},
+},
+["time"] = 1741827527,
+["date"] = "19:58 12/03/25",
+["elapsed"] = 202.030999999959,
+["servertime"] = 1741827526,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 163074148,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1742431957,
+["elapsed"] = 184.9349999999977,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 254639916,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 11627647,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 304028027,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 169028093,
+["itemLevel"] = 654.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 300948746,
+["itemLevel"] = 650.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 236938157,
+["itemLevel"] = 654.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 227614430,
+["itemLevel"] = 640.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 168227573,
+["itemLevel"] = 656.25,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 283637217,
+["itemLevel"] = 642,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 226036572,
+["itemLevel"] = 642.4375,
+["classId"] = 7,
+},
+},
+["servertime"] = 1742431957,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 118186688,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 78503556,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
+["date"] = "19:52 19/03/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1743036939,
+["elapsed"] = 186.1939999999886,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 118194341,
+["itemLevel"] = 655.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 149311678,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 272715393,
+["itemLevel"] = 657.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 164071995,
+["itemLevel"] = 658,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 327352665,
+["itemLevel"] = 660.25,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 265032841,
+["itemLevel"] = 648.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 246513251,
+["itemLevel"] = 644.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 280772698,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 333514136,
+["itemLevel"] = 663.375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1743036939,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 78136812,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 54526327,
+["itemLevel"] = 637.75,
+["classId"] = 13,
+},
+},
+["date"] = "19:55 26/03/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 97058620,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 99696595,
+["itemLevel"] = 635.4375,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 338325837,
+["itemLevel"] = 664.375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 179205018,
+["itemLevel"] = 655.9375,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 359997759,
+["itemLevel"] = 678.0625,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 333779180,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 178568374,
+["itemLevel"] = 665.5625,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 248961006,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 92007433,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1749867180,
+["date"] = "21:13 13/06/25",
+["elapsed"] = 134.6620000000112,
+["servertime"] = 1749867180,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 135276028,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 128355959,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3122] = {
+{
+["time"] = 1755139532,
+["guild"] = "House Stalwart",
+["elapsed"] = 413.179999999993,
+["date"] = "21:45 13/08/25",
+["servertime"] = 1755139531,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 864315722,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 1322235273,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Burnadine"] = {
+["total"] = 466727671,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1404470867,
+["itemLevel"] = 681.3125,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 808329644,
+["itemLevel"] = 668.125,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 684427198,
+["itemLevel"] = 674.1875,
+["classId"] = 10,
+},
+["Giulietta"] = {
+["total"] = 1169947452,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 1010228175,
+["itemLevel"] = 683.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 859275489,
+["itemLevel"] = 678.4375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 699276194,
+["itemLevel"] = 689.125,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 593178351,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 1186115722,
+["itemLevel"] = 679.875,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1755739838,
+["guild"] = "House Stalwart",
+["elapsed"] = 316.8410000000149,
+["date"] = "20:30 20/08/25",
+["servertime"] = 1755739838,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 582459299,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 623277915,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1081825889,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1058262409,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 584095409,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1041444946,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 604222555,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 719221562,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 742063009,
+["itemLevel"] = 687.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1582608941,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 885058519,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 967543471,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1402385134,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 573248881,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 940365668,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 671963081,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 318699891,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1145962295,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 1330495573,
+["itemLevel"] = 702.875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 1092007706,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 605481196,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 897979608,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1416043560,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1174737021,
+["itemLevel"] = 709,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 867449276,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1271037908,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 585243277,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1591454475,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756948633,
+["date"] = "20:17 03/09/25",
+["elapsed"] = 220.073000000004,
+["servertime"] = 1756948632,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 544506482,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 616413980,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 672814168,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 712166469,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 951574498,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 1002986136,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1196034921,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1443859176,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1001249529,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1503770388,
+["itemLevel"] = 725.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1326678840,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 468644647,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1763000975,
+["date"] = "20:29 12/11/25",
+["elapsed"] = 207.8690000000061,
+["servertime"] = 1763000974,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 383255736,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 527477411,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[2922] = {
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 145269464,
+["itemLevel"] = 615.1875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 134139591,
+["itemLevel"] = 613.5625,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 210659981,
+["itemLevel"] = 621.0625,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 127851201,
+["itemLevel"] = 608.9375,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 159173312,
+["itemLevel"] = 618.4375,
+["classId"] = 10,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 120845019,
+["itemLevel"] = 613.375,
+["classId"] = 4,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 190767387,
+["itemLevel"] = 614.5625,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 136549928,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 52791239,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 151838697,
+["itemLevel"] = 624.9375,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 187507438,
+["itemLevel"] = 615.625,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 269448497,
+["itemLevel"] = 623,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 133727508,
+["itemLevel"] = 617,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 203473759,
+["itemLevel"] = 618.9375,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 184860878,
+["itemLevel"] = 616,
+["classId"] = 8,
+},
+},
+["time"] = 1729304286,
+["date"] = "21:18 18/10/24",
+["elapsed"] = 294.948000000004,
+["servertime"] = 1729304285,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 100989112,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 95019082,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1729908770,
+["elapsed"] = 247.3579999999929,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 114918037,
+["itemLevel"] = 617.75,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 204287610,
+["itemLevel"] = 623.25,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 103474204,
+["itemLevel"] = 611.8125,
+["classId"] = 8,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 79882907,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 126558328,
+["itemLevel"] = 616.1875,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 163829845,
+["itemLevel"] = 614.6875,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 176219615,
+["itemLevel"] = 617.875,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 65955832,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 110164498,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 184669054,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 210717876,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 64427562,
+["itemLevel"] = 615,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 169668468,
+["itemLevel"] = 621.8125,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 128867121,
+["itemLevel"] = 616.75,
+["classId"] = 8,
+},
+},
+["servertime"] = 1729908769,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 172690162,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 133433557,
+["itemLevel"] = 611.875,
+["classId"] = 13,
+},
+},
+["date"] = "21:12 25/10/24",
+},
+{
+["time"] = 1730512988,
+["guild"] = "House Stalwart",
+["elapsed"] = 232.4590000000317,
+["date"] = "21:03 01/11/24",
+["servertime"] = 1730512988,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 93327614,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 101070744,
+["itemLevel"] = 617.5,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 64898776,
+["itemLevel"] = 619.8125,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 56365506,
+["itemLevel"] = 619.4375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 176432697,
+["itemLevel"] = 625.1875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 107047998,
+["itemLevel"] = 614.1875,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 141052365,
+["itemLevel"] = 619.5,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 171665960,
+["itemLevel"] = 619.4375,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 190019160,
+["itemLevel"] = 620.5625,
+["classId"] = 5,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 175803662,
+["itemLevel"] = 617.5,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 211088677,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 170780455,
+["itemLevel"] = 621.1875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 200930605,
+["itemLevel"] = 623.3125,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 141249941,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1736568476,
+["elapsed"] = 276.4799999999959,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 82833161,
+["itemLevel"] = 631.125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 76939293,
+["itemLevel"] = 611.625,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 314794280,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 110082238,
+["itemLevel"] = 626.625,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 123235494,
+["itemLevel"] = 625.8125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 236761090,
+["itemLevel"] = 634.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 169705772,
+["itemLevel"] = 628.4375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 196376131,
+["itemLevel"] = 627.625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 49886593,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 160093935,
+["itemLevel"] = 634.9375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1736568475,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 152655530,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 155188230,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["date"] = "22:07 10/01/25",
+},
+{
+["date"] = "21:50 29/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 84946076,
+["itemLevel"] = 631.6875,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 216417562,
+["itemLevel"] = 627.375,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 284466828,
+["itemLevel"] = 636.625,
+["classId"] = 8,
+},
+["Gedan"] = {
+["total"] = 128581672,
+["itemLevel"] = 613.125,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 97704965,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Allynas"] = {
+["total"] = 80962693,
+["itemLevel"] = 592.125,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 67149524,
+["itemLevel"] = 552.625,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 161568465,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 165838814,
+["itemLevel"] = 626.625,
+["classId"] = 10,
+},
+["Riptides"] = {
+["total"] = 155205939,
+["itemLevel"] = 605.625,
+["classId"] = 7,
+},
+},
+["elapsed"] = 272.3099999999995,
+["servertime"] = 1738209019,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 130670402,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 144269879,
+["itemLevel"] = 625.0625,
+["classId"] = 13,
+},
+},
+["time"] = 1738209019,
+},
+},
+[2917] = {
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 73256374,
+["itemLevel"] = 615.1875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 81608739,
+["itemLevel"] = 613.5625,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 129178056,
+["itemLevel"] = 621.0625,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 65575666,
+["itemLevel"] = 608.9375,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 93117090,
+["itemLevel"] = 618.4375,
+["classId"] = 10,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 87340429,
+["itemLevel"] = 613.375,
+["classId"] = 4,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 114028412,
+["itemLevel"] = 614.5625,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 77276974,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 48658441,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 71384145,
+["itemLevel"] = 624.9375,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 166191407,
+["itemLevel"] = 615.625,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 172462655,
+["itemLevel"] = 623,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 139962657,
+["itemLevel"] = 617,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 135159445,
+["itemLevel"] = 618.9375,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 85790234,
+["itemLevel"] = 616,
+["classId"] = 8,
+},
+},
+["time"] = 1729303073,
+["date"] = "20:57 18/10/24",
+["elapsed"] = 127.1459999999934,
+["servertime"] = 1729303072,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 34920302,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 41850943,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1729907614,
+["elapsed"] = 142.2219999999943,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 71037413,
+["itemLevel"] = 617.75,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 121171682,
+["itemLevel"] = 623.25,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 86970553,
+["itemLevel"] = 611.8125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 87377695,
+["itemLevel"] = 616.1875,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 100083593,
+["itemLevel"] = 614.6875,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 112576550,
+["itemLevel"] = 617.875,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 70389753,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 61527230,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 153672976,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Malimortui-ArgentDawn"] = {
+["total"] = 93719100,
+["itemLevel"] = 595.5625,
+["classId"] = 6,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 57864016,
+["itemLevel"] = 615,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 131414523,
+["itemLevel"] = 621.8125,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 100337970,
+["itemLevel"] = 616.75,
+["classId"] = 8,
+},
+},
+["servertime"] = 1729907613,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 92990136,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 57435743,
+["itemLevel"] = 611.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:53 25/10/24",
+},
+{
+["time"] = 1730512143,
+["guild"] = "House Stalwart",
+["elapsed"] = 113.2419999999693,
+["date"] = "20:49 01/11/24",
+["servertime"] = 1730512142,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 47318791,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 55018352,
+["itemLevel"] = 617.5,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 76973182,
+["itemLevel"] = 619.8125,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 37586252,
+["itemLevel"] = 619.4375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 117527513,
+["itemLevel"] = 625.1875,
+["classId"] = 3,
+},
+["Malimortui-ArgentDawn"] = {
+["total"] = 93451162,
+["itemLevel"] = 604.75,
+["classId"] = 6,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 99515974,
+["itemLevel"] = 619.5,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 124298137,
+["itemLevel"] = 619.4375,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 127477561,
+["itemLevel"] = 620.5625,
+["classId"] = 5,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 127347924,
+["itemLevel"] = 617.5,
+["classId"] = 7,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 81959489,
+["itemLevel"] = 614.1875,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 120388943,
+["itemLevel"] = 621.1875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 128365733,
+["itemLevel"] = 623.3125,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 76563086,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
+},
+},
+},
+{
+["date"] = "20:51 08/11/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 77803103,
+["itemLevel"] = 622.25,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 43164933,
+["itemLevel"] = 619.4375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 124567425,
+["itemLevel"] = 626.625,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 91046129,
+["itemLevel"] = 617.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 97664114,
+["itemLevel"] = 620,
+["classId"] = 4,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 88823043,
+["itemLevel"] = 621.4375,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 68546877,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 151129088,
+["itemLevel"] = 619,
+["classId"] = 7,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 95363538,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 135991209,
+["itemLevel"] = 624.25,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 127203957,
+["itemLevel"] = 624.375,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 115550504,
+["itemLevel"] = 621.4375,
+["classId"] = 5,
+},
+},
+["elapsed"] = 113.2719999999972,
+["servertime"] = 1731120690,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 56040710,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 40846321,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+},
+["time"] = 1731120691,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1736564560,
+["elapsed"] = 237.3650000000052,
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 96991327,
+["itemLevel"] = 626.625,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 59112236,
+["itemLevel"] = 611.8125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 179558945,
+["itemLevel"] = 634.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 84879464,
+["itemLevel"] = 634.9375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 144842917,
+["itemLevel"] = 627.625,
+["classId"] = 4,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 154403884,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 138958135,
+["itemLevel"] = 628.4375,
+["classId"] = 7,
+},
+["Keydan"] = {
+["total"] = 46706002,
+["itemLevel"] = 631.4666666666667,
+["classId"] = 11,
+},
+},
+["servertime"] = 1736564559,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 207261604,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 166560809,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["date"] = "21:02 10/01/25",
+},
+{
+["date"] = "20:58 29/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 82097630,
+["itemLevel"] = 514.3125,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 193345404,
+["itemLevel"] = 627.375,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 160765893,
+["itemLevel"] = 636.625,
+["classId"] = 8,
+},
+["Gedan"] = {
+["total"] = 90389445,
+["itemLevel"] = 613.3125,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 88905888,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Allynas"] = {
+["total"] = 37479250,
+["itemLevel"] = 583.0625,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 88966465,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 108085605,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 82867704,
+["itemLevel"] = 626.625,
+["classId"] = 10,
+},
+["Riptides"] = {
+["total"] = 144929845,
+["itemLevel"] = 605.1875,
+["classId"] = 7,
+},
+},
+["elapsed"] = 233.5830000000001,
+["servertime"] = 1738205907,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 185121429,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 178376293,
+["itemLevel"] = 625.0625,
+["classId"] = 13,
+},
+},
+["time"] = 1738205908,
+},
+},
+[2920] = {
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 82483135,
+["itemLevel"] = 613,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 141767449,
+["itemLevel"] = 619.6875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 75852922,
+["itemLevel"] = 607.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 111054111,
+["itemLevel"] = 610.6875,
+["classId"] = 4,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 89046908,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 121559074,
+["itemLevel"] = 613.5,
+["classId"] = 5,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 101523259,
+["itemLevel"] = 613.75,
+["classId"] = 7,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 125536801,
+["itemLevel"] = 614.375,
+["classId"] = 10,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 46728418,
+["itemLevel"] = 619.875,
+["classId"] = 12,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 136309735,
+["itemLevel"] = 616,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 112824768,
+["itemLevel"] = 614.4375,
+["classId"] = 8,
+},
+},
+["time"] = 1728704957,
+["date"] = "22:49 11/10/24",
+["elapsed"] = 143.4260000000359,
+["servertime"] = 1728704956,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 56625217,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 56521753,
+["itemLevel"] = 608.375,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1736566136,
+["elapsed"] = 113.880999999994,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 47057020,
+["itemLevel"] = 631.4666666666667,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 45830986,
+["itemLevel"] = 611.8125,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 169003644,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 74309695,
+["itemLevel"] = 626.625,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 138079429,
+["itemLevel"] = 634.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 137900708,
+["itemLevel"] = 628.4375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 132156715,
+["itemLevel"] = 627.625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 87661630,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 62974049,
+["itemLevel"] = 634.9375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1736566135,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 78842635,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 62339965,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["date"] = "21:28 10/01/25",
+},
+{
+["date"] = "21:23 29/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 51878838,
+["itemLevel"] = 631.6875,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 190316963,
+["itemLevel"] = 627.375,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 168524887,
+["itemLevel"] = 636.625,
+["classId"] = 8,
+},
+["Gedan"] = {
+["total"] = 94145055,
+["itemLevel"] = 613.3125,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 114489345,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 95949825,
+["itemLevel"] = 626.625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 58020417,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 101307534,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Riptides"] = {
+["total"] = 101034399,
+["itemLevel"] = 605.625,
+["classId"] = 7,
+},
+},
+["elapsed"] = 117.9180000000001,
+["servertime"] = 1738207420,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 74916089,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 50075015,
+["itemLevel"] = 625.0625,
+["classId"] = 13,
+},
+},
+["time"] = 1738207421,
+},
+},
+[3130] = {
+{
+["time"] = 1755135523,
+["guild"] = "House Stalwart",
+["elapsed"] = 375.5289999999804,
+["date"] = "20:38 13/08/25",
+["servertime"] = 1755135522,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 209343463,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 947971005,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 531719209,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 1274181385,
+["itemLevel"] = 680.875,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 843009049,
+["itemLevel"] = 668.125,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 773373141,
+["itemLevel"] = 673.1875,
+["classId"] = 10,
+},
+["Burnadine"] = {
+["total"] = 520715400,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 1064061123,
+["itemLevel"] = 679.4375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 683303291,
+["itemLevel"] = 678,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1079893105,
+["itemLevel"] = 682.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 912379135,
+["itemLevel"] = 682.9375,
+["classId"] = 3,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 545726046,
+["itemLevel"] = 689.125,
+["classId"] = 12,
+},
+},
+},
+{
+["time"] = 1755738393,
+["guild"] = "House Stalwart",
+["elapsed"] = 261.1040000000503,
+["date"] = "20:06 20/08/25",
+["servertime"] = 1755738392,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 308634599,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 431313420,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 801433838,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 657155925,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 518348474,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 871646834,
+["itemLevel"] = 685.1875,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 371714958,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 632737624,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 656132485,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 932700888,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 707196891,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 582894945,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 221575348,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Burnadine"] = {
+["total"] = 388754151,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 709051789,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 301382411,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 304580710,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 933328769,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 902213465,
+["itemLevel"] = 702.875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 828705101,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 497999724,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 500444713,
+["itemLevel"] = 698.25,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 733468709,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 851762048,
+["itemLevel"] = 709,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 612625528,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 919406964,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 381848336,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 816001713,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756947510,
+["date"] = "19:58 03/09/25",
+["elapsed"] = 169.4880000000048,
+["servertime"] = 1756947509,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 275114798,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 252573936,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 391806971,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 778994960,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 599299741,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 754186193,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 953862613,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 834494445,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 612101482,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 951515680,
+["itemLevel"] = 724.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 891771727,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 388365160,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1762999330,
+["date"] = "20:02 12/11/25",
+["elapsed"] = 201.0860000000102,
+["servertime"] = 1762999329,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 329419241,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 336761245,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1763604918,
+["guild"] = "House Stalwart",
+["elapsed"] = 119.1140000000014,
+["date"] = "20:15 19/11/25",
+["servertime"] = 1763604917,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 181680490,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 186996875,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 197718678,
+["itemLevel"] = 728.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 303694786,
+["itemLevel"] = 719.375,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 699428474,
+["itemLevel"] = 723.1875,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 423429135,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 785402908,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 631337990,
+["itemLevel"] = 720.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 659058448,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 769407539,
+["itemLevel"] = 724.75,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 897378114,
+["itemLevel"] = 723.875,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 534994971,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+},
+},
+},
+[3132] = {
+{
+["time"] = 1755138483,
+["guild"] = "House Stalwart",
+["elapsed"] = 368.2519999999786,
+["date"] = "21:28 13/08/25",
+["servertime"] = 1755138483,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 469765569,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 705147028,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Burnadine"] = {
+["total"] = 535754130,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1216796042,
+["itemLevel"] = 681.3125,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 955848219,
+["itemLevel"] = 668.125,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 686612263,
+["itemLevel"] = 674.1875,
+["classId"] = 10,
+},
+["Giulietta"] = {
+["total"] = 1145993015,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 939634164,
+["itemLevel"] = 683.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 714778515,
+["itemLevel"] = 678.4375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 508181522,
+["itemLevel"] = 689.125,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 511618341,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 924166074,
+["itemLevel"] = 679.875,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1755739195,
+["guild"] = "House Stalwart",
+["elapsed"] = 264.5879999999888,
+["date"] = "20:19 20/08/25",
+["servertime"] = 1755739194,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 333395367,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 295393666,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 634562553,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 736520930,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 350498231,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 994955781,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 404354667,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 562947540,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 646038050,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 820568719,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 860080793,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 608647055,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1061968622,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 478918979,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 725404682,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 364334839,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 283603191,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 753418166,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 961597081,
+["itemLevel"] = 702.875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 972391756,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 496685195,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 695802215,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 704009799,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 703121035,
+["itemLevel"] = 709,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 590709561,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 908399391,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 424903956,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 825552743,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756948189,
+["date"] = "20:09 03/09/25",
+["elapsed"] = 193.2050000000018,
+["servertime"] = 1756948189,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 180914982,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 195816561,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 449189374,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 393203268,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 909521219,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 803282119,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1303564090,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 758594444,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 965745116,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 683658986,
+["itemLevel"] = 725.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1174655051,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 337105837,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1763000466,
+["date"] = "20:21 12/11/25",
+["elapsed"] = 263.7589999999909,
+["servertime"] = 1763000465,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 355306305,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 401724702,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3134] = {
+{
+["DAMAGER"] = {
+["Rylacus"] = {
+["total"] = 703312790,
+["itemLevel"] = 679.6875,
+["classId"] = 4,
+},
+["Sverdrup"] = {
+["total"] = 740317483,
+["itemLevel"] = 690.1875,
+["classId"] = 10,
+},
+["Giulietta"] = {
+["total"] = 1044490249,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 1090940687,
+["itemLevel"] = 686.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 1165681898,
+["itemLevel"] = 682.9375,
+["classId"] = 13,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 583403466,
+["itemLevel"] = 696,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1034055955,
+["itemLevel"] = 683.75,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 336394051,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1755311416,
+["date"] = "21:30 15/08/25",
+["elapsed"] = 399.3600000000006,
+["servertime"] = 1755311415,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 554094330,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 1091652710,
+["itemLevel"] = 693.6875,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1755741717,
+["guild"] = "House Stalwart",
+["elapsed"] = 313.2619999999879,
+["date"] = "21:01 20/08/25",
+["servertime"] = 1755741716,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 494796393,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 497217477,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1049482235,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 805880680,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 385862018,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1139304728,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Sverdrup"] = {
+["total"] = 562575538,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 553647245,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 656959682,
+["itemLevel"] = 687.875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 973718658,
+["itemLevel"] = 688.5625,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 959014955,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 712417509,
+["itemLevel"] = 682.8125,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 520562323,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 973613321,
+["itemLevel"] = 689.625,
+["classId"] = 7,
+},
+["Giulietta"] = {
+["total"] = 1247887703,
+["itemLevel"] = 694.3125,
+["classId"] = 1,
+},
+},
+},
+{
+["date"] = "21:03 27/08/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 390243643,
+["itemLevel"] = 696,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 257519640,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 879329465,
+["itemLevel"] = 685.625,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1193906472,
+["itemLevel"] = 705.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 282223393,
+["itemLevel"] = 684.6875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 665743579,
+["itemLevel"] = 694.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 403717792,
+["itemLevel"] = 699.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 446718355,
+["itemLevel"] = 698.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 356655034,
+["itemLevel"] = 685.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 520227507,
+["itemLevel"] = 698.75,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 784625917,
+["itemLevel"] = 695.4375,
+["classId"] = 7,
+},
+["Sverdrup"] = {
+["total"] = 630321314,
+["itemLevel"] = 700.9375,
+["classId"] = 10,
+},
+},
+["elapsed"] = 334.9180000000633,
+["servertime"] = 1756346580,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 439565440,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 908159071,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["time"] = 1756346581,
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 309455659,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 135817453,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 912764217,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 1093978736,
+["itemLevel"] = 702.6875,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 879020485,
+["itemLevel"] = 708.1875,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 451186379,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 643578637,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 800644603,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 801476349,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 500383057,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 959680773,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 493765674,
+["itemLevel"] = 707.125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 743604653,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756949704,
+["date"] = "20:35 03/09/25",
+["elapsed"] = 193.8269999999975,
+["servertime"] = 1756949704,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 372838042,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 376418720,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1760758514,
+["guild"] = "House Stalwart",
+["elapsed"] = 149.0109999999986,
+["date"] = "22:35 17/10/25",
+["servertime"] = 1760758514,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 246708830,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 368602742,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 284385836,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 341364128,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 871944151,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Sverdrup"] = {
+["total"] = 546962175,
+["itemLevel"] = 715.25,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 547259292,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 681366230,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 971128011,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 769214534,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 642493187,
+["itemLevel"] = 707.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 990094651,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 802524030,
+["itemLevel"] = 717.9375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 950932559,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1761362516,
+["guild"] = "House Stalwart",
+["elapsed"] = 142.8450000000012,
+["date"] = "22:21 24/10/25",
+["servertime"] = 1761362516,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 288110565,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 384665869,
+["itemLevel"] = 714.1875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 320965025,
+["itemLevel"] = 718.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 448697898,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 976894163,
+["itemLevel"] = 716.875,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 336419586,
+["itemLevel"] = 704.75,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 428895274,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1074781579,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 690672027,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 698320283,
+["itemLevel"] = 709.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1042254543,
+["itemLevel"] = 722.625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 948978966,
+["itemLevel"] = 719.8125,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 445831347,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 330090086,
+["itemLevel"] = 724.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 523673211,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 994249639,
+["itemLevel"] = 719.6875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 591829477,
+["itemLevel"] = 710,
+["classId"] = 4,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 893864018,
+["itemLevel"] = 722.125,
+["classId"] = 6,
+},
+["Heikuro"] = {
+["total"] = 1092236553,
+["itemLevel"] = 722.0625,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 925367586,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+},
+["time"] = 1761962230,
+["date"] = "20:57 31/10/25",
+["elapsed"] = 176.2310000000289,
+["servertime"] = 1761962229,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 107133750,
+["itemLevel"] = 723.3125,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 469261315,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1762394059,
+["guild"] = "House Stalwart",
+["elapsed"] = 209.0280000000494,
+["date"] = "19:54 05/11/25",
+["servertime"] = 1762394059,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 393430426,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 346635101,
+["itemLevel"] = 717.125,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 672331759,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 619090404,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 1278844434,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 788030258,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Heikuro"] = {
+["total"] = 1233617298,
+["itemLevel"] = 722.4375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 894708521,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 326552974,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 486036958,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 459911119,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 830554655,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1055558632,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1019439860,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 638232786,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1057124331,
+["itemLevel"] = 725.5625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 997165130,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 387442935,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1763002650,
+["date"] = "20:57 12/11/25",
+["elapsed"] = 168.7629999999772,
+["servertime"] = 1763002649,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 323851342,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 401391861,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3012] = {
+{
+["time"] = 1741230317,
+["guild"] = "House Stalwart",
+["elapsed"] = 366.5749999999989,
+["date"] = "21:05 05/03/25",
+["servertime"] = 1741230316,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 318272239,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 208302520,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 391420268,
+["itemLevel"] = 628.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 420069132,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 548629206,
+["itemLevel"] = 637.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 321161700,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 398015313,
+["itemLevel"] = 624.625,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 636077817,
+["itemLevel"] = 635.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 335634277,
+["itemLevel"] = 637.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 475923280,
+["itemLevel"] = 629,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 485754591,
+["itemLevel"] = 634.3125,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 542799522,
+["itemLevel"] = 629.4375,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 337134927,
+["itemLevel"] = 640.75,
+["classId"] = 12,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 356883853,
+["itemLevel"] = 631.25,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 268173344,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 487169181,
+["itemLevel"] = 648.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 248376778,
+["itemLevel"] = 628,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 295690132,
+["itemLevel"] = 643.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 496520568,
+["itemLevel"] = 639.8125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 512074526,
+["itemLevel"] = 634.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 278258827,
+["itemLevel"] = 635.5625,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 450353353,
+["itemLevel"] = 652.875,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 366128791,
+["itemLevel"] = 636.0625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 364053395,
+["itemLevel"] = 644.5625,
+["classId"] = 3,
+},
+},
+["time"] = 1741829426,
+["date"] = "20:30 12/03/25",
+["elapsed"] = 320.9640000000363,
+["servertime"] = 1741829425,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 233141958,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 156540221,
+["itemLevel"] = 626.875,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1742433304,
+["elapsed"] = 288.829000000027,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 383845487,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 203078872,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 560800886,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 244227345,
+["itemLevel"] = 654.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 550018540,
+["itemLevel"] = 650.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 380189137,
+["itemLevel"] = 654.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 346971847,
+["itemLevel"] = 640.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 293121917,
+["itemLevel"] = 656.25,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 429548972,
+["itemLevel"] = 642,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 418681087,
+["itemLevel"] = 642.4375,
+["classId"] = 7,
+},
+},
+["servertime"] = 1742433303,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 153434679,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 115346557,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:15 19/03/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1743038080,
+["elapsed"] = 257.3559999999998,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 174171242,
+["itemLevel"] = 655.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 259124283,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 529279115,
+["itemLevel"] = 657.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 259454344,
+["itemLevel"] = 658,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 499918203,
+["itemLevel"] = 660.25,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 372065924,
+["itemLevel"] = 648.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 266093674,
+["itemLevel"] = 644.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 396605334,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 410866214,
+["itemLevel"] = 663.375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1743038079,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 114547134,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 80771365,
+["itemLevel"] = 637.75,
+["classId"] = 13,
+},
+},
+["date"] = "20:14 26/03/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 186625876,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 146989296,
+["itemLevel"] = 636.875,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 629057308,
+["itemLevel"] = 664.375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 206620209,
+["itemLevel"] = 655.9375,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 431833610,
+["itemLevel"] = 678.0625,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 404545802,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 258643566,
+["itemLevel"] = 665.5625,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 345742340,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 188584529,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1749868267,
+["date"] = "21:31 13/06/25",
+["elapsed"] = 257.2760000000126,
+["servertime"] = 1749868266,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 269178042,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 229050417,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3014] = {
+{
+["time"] = 1741232900,
+["guild"] = "House Stalwart",
+["elapsed"] = 375.7040000000015,
+["date"] = "21:48 05/03/25",
+["servertime"] = 1741232899,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 256224022,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 291711859,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 334887857,
+["itemLevel"] = 628.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 256621878,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 402952565,
+["itemLevel"] = 637.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 256512988,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 160471181,
+["itemLevel"] = 624.875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 325018866,
+["itemLevel"] = 635.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 327516563,
+["itemLevel"] = 638.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 263284563,
+["itemLevel"] = 629,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 469169336,
+["itemLevel"] = 634.3125,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 222630955,
+["itemLevel"] = 629.4375,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 211814828,
+["itemLevel"] = 640.75,
+["classId"] = 12,
+},
+},
+},
+{
+["date"] = "21:09 14/03/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 239730851,
+["itemLevel"] = 631.25,
+["classId"] = 11,
+},
+["Confluence"] = {
+["total"] = 177354473,
+["itemLevel"] = 645.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 265987434,
+["itemLevel"] = 638.375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 331435319,
+["itemLevel"] = 634.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 250519586,
+["itemLevel"] = 637.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 222971862,
+["itemLevel"] = 651.875,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 306987553,
+["itemLevel"] = 636.0625,
+["classId"] = 1,
+},
+["Zephyrri"] = {
+["total"] = 413611759,
+["itemLevel"] = 650.0625,
+["classId"] = 7,
+},
+},
+["elapsed"] = 253.5620000000054,
+["servertime"] = 1742004547,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 174164761,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1742004548,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1742435564,
+["elapsed"] = 244.36599999998,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 291893030,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 170966173,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 431870150,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 196010554,
+["itemLevel"] = 654.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 391558062,
+["itemLevel"] = 650.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 332419964,
+["itemLevel"] = 654.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 261170892,
+["itemLevel"] = 640.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 231515952,
+["itemLevel"] = 656.25,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 381805864,
+["itemLevel"] = 642,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 320552529,
+["itemLevel"] = 642.4375,
+["classId"] = 7,
+},
+},
+["servertime"] = 1742435563,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 171996130,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 138514780,
+["itemLevel"] = 631.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:52 19/03/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1743040286,
+["elapsed"] = 256.0040000000008,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 156401138,
+["itemLevel"] = 655.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 198600550,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 556966428,
+["itemLevel"] = 657.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 214283165,
+["itemLevel"] = 658,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 362898459,
+["itemLevel"] = 660.25,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 374811009,
+["itemLevel"] = 648.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 279854400,
+["itemLevel"] = 644.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 333336324,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 447521149,
+["itemLevel"] = 663.1875,
+["classId"] = 3,
+},
+},
+["servertime"] = 1743040285,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 149230547,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 108415877,
+["itemLevel"] = 638.5625,
+["classId"] = 13,
+},
+},
+["date"] = "20:51 26/03/25",
+},
+{
+["time"] = 1744247222,
+["guild"] = "House Stalwart",
+["elapsed"] = 179.2229999999981,
+["date"] = "20:07 09/04/25",
+["servertime"] = 1744247221,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 98240445,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 129793838,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 214162356,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 110230410,
+["itemLevel"] = 665.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 177542688,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 398371541,
+["itemLevel"] = 665.5,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 191017201,
+["itemLevel"] = 665.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 328841849,
+["itemLevel"] = 665.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 307505869,
+["itemLevel"] = 658.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 212428559,
+["itemLevel"] = 650.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 280642686,
+["itemLevel"] = 659.625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 424992034,
+["itemLevel"] = 665.375,
+["classId"] = 3,
+},
+},
+},
+{
+["date"] = "22:10 13/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 209175136,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 56417907,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 564675840,
+["itemLevel"] = 664.375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 414422004,
+["itemLevel"] = 656.5625,
+["classId"] = 10,
+},
+["Confluence"] = {
+["total"] = 311664825,
+["itemLevel"] = 679.1875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 584134367,
+["itemLevel"] = 678.0625,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 565012603,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 397013447,
+["itemLevel"] = 665.5625,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 567375395,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+},
+["elapsed"] = 299.2880000000005,
+["servertime"] = 1749870606,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 408637210,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 316326508,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["time"] = 1749870607,
+},
+},
+[3016] = {
+{
+["date"] = "22:36 14/03/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 373658238,
+["itemLevel"] = 633.3125,
+["classId"] = 11,
+},
+["Confluence"] = {
+["total"] = 231411181,
+["itemLevel"] = 645.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 467477127,
+["itemLevel"] = 638.375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 438341734,
+["itemLevel"] = 634.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 333475872,
+["itemLevel"] = 637.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 334460831,
+["itemLevel"] = 651.875,
+["classId"] = 12,
+},
+["Giulietta"] = {
+["total"] = 396244802,
+["itemLevel"] = 636.0625,
+["classId"] = 1,
+},
+["Zephyrri"] = {
+["total"] = 600713707,
+["itemLevel"] = 650.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 388.0210000000079,
+["servertime"] = 1742009798,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 266293525,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1742009798,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1742436784,
+["elapsed"] = 389.4800000000396,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 470725066,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 9499221,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 644727453,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 303174875,
+["itemLevel"] = 654.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 554232346,
+["itemLevel"] = 650.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 520035336,
+["itemLevel"] = 654.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 380800152,
+["itemLevel"] = 640.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 334121648,
+["itemLevel"] = 656.25,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 525472339,
+["itemLevel"] = 642.4375,
+["classId"] = 7,
+},
+["Giulietta"] = {
+["total"] = 554706953,
+["itemLevel"] = 642,
+["classId"] = 1,
+},
+},
+["servertime"] = 1742436783,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 268556519,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 173339400,
+["itemLevel"] = 633.875,
+["classId"] = 13,
+},
+},
+["date"] = "21:13 19/03/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1743041498,
+["elapsed"] = 332.9900000000052,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 198966288,
+["itemLevel"] = 655.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 254109874,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 640122291,
+["itemLevel"] = 657.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 278648002,
+["itemLevel"] = 658,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 572202734,
+["itemLevel"] = 660.25,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 434018441,
+["itemLevel"] = 648.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 354240599,
+["itemLevel"] = 644.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 487502668,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 585554992,
+["itemLevel"] = 663.1875,
+["classId"] = 3,
+},
+},
+["servertime"] = 1743041497,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 184527788,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 118289503,
+["itemLevel"] = 638.5625,
+["classId"] = 13,
+},
+},
+["date"] = "21:11 26/03/25",
+},
+{
+["time"] = 1744246681,
+["guild"] = "House Stalwart",
+["elapsed"] = 259.9989999999525,
+["date"] = "19:58 09/04/25",
+["servertime"] = 1744246680,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 240141462,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 231046941,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 391150598,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 169387040,
+["itemLevel"] = 665.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 229155959,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 544253118,
+["itemLevel"] = 665.5,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 252529117,
+["itemLevel"] = 665.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 425161934,
+["itemLevel"] = 665.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 588661741,
+["itemLevel"] = 665.375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 308766649,
+["itemLevel"] = 650.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 414511226,
+["itemLevel"] = 659.625,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 383084812,
+["itemLevel"] = 658.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "22:33 13/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 217587330,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 189677499,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 573485235,
+["itemLevel"] = 664.375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 275998609,
+["itemLevel"] = 656.5625,
+["classId"] = 10,
+},
+["Confluence"] = {
+["total"] = 350548630,
+["itemLevel"] = 679.1875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 613870002,
+["itemLevel"] = 678.0625,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 415581659,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 294620966,
+["itemLevel"] = 665.5625,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 370427370,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+},
+["elapsed"] = 364.0100000000093,
+["servertime"] = 1749872031,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 519211317,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 374959911,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["time"] = 1749872031,
+},
+},
+[3135] = {
+{
+["time"] = 1755744232,
+["guild"] = "House Stalwart",
+["elapsed"] = 491.7440000000061,
+["date"] = "21:43 20/08/25",
+["servertime"] = 1755744232,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 671170906,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 581989350,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1393377129,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 829152466,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 157170690,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 852682190,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Sverdrup"] = {
+["total"] = 716466826,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 448151984,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 738110115,
+["itemLevel"] = 687.875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1168660328,
+["itemLevel"] = 688.5625,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 738730363,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 665506009,
+["itemLevel"] = 682.8125,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 460977996,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 987086389,
+["itemLevel"] = 689.625,
+["classId"] = 7,
+},
+["Giulietta"] = {
+["total"] = 1299794456,
+["itemLevel"] = 694.3125,
+["classId"] = 1,
+},
+},
+},
+{
+["date"] = "21:30 27/08/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 311567196,
+["itemLevel"] = 696.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 130404671,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 962980846,
+["itemLevel"] = 685.625,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 790045688,
+["itemLevel"] = 705.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 437082234,
+["itemLevel"] = 684.6875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 675224725,
+["itemLevel"] = 694.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1080975241,
+["itemLevel"] = 699.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 836249938,
+["itemLevel"] = 698.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 671300188,
+["itemLevel"] = 685.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1194175228,
+["itemLevel"] = 698.75,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 1100247853,
+["itemLevel"] = 695.4375,
+["classId"] = 7,
+},
+["Sverdrup"] = {
+["total"] = 754653442,
+["itemLevel"] = 700.9375,
+["classId"] = 10,
+},
+},
+["elapsed"] = 441.4789999998175,
+["servertime"] = 1756348199,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 695753161,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 522008250,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 969004578,
+["itemLevel"] = 706.875,
+["classId"] = 11,
+},
+},
+["time"] = 1756348200,
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 380908881,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 121650949,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1251187883,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 508174646,
+["itemLevel"] = 702.6875,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 1262513211,
+["itemLevel"] = 708.1875,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 179402121,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 828057541,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1160115647,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1144151090,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 785908700,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 790668957,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 675797799,
+["itemLevel"] = 703.875,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1176179614,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756950885,
+["date"] = "20:54 03/09/25",
+["elapsed"] = 432.8020000000033,
+["servertime"] = 1756950885,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 531994130,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 479179042,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1760759001,
+["guild"] = "House Stalwart",
+["elapsed"] = 312.6969999999856,
+["date"] = "22:43 17/10/25",
+["servertime"] = 1760759000,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 272104860,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 407843200,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 382414419,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 21023777,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1179080788,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Sverdrup"] = {
+["total"] = 583709782,
+["itemLevel"] = 715.25,
+["classId"] = 10,
+},
+["Nil"] = {
+["total"] = 715568655,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1061994941,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 683195733,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 771692896,
+["itemLevel"] = 707.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 924746058,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1022958099,
+["itemLevel"] = 717.9375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 903139822,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1761362966,
+["guild"] = "House Stalwart",
+["elapsed"] = 286.8029999999999,
+["date"] = "22:29 24/10/25",
+["servertime"] = 1761362965,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 382281701,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 397673105,
+["itemLevel"] = 714.1875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 317411179,
+["itemLevel"] = 718.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 332263032,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 822693416,
+["itemLevel"] = 716.875,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 492652137,
+["itemLevel"] = 704.75,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 652865565,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1172851517,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 728005101,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 896571224,
+["itemLevel"] = 709.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 931217362,
+["itemLevel"] = 722.625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1006464746,
+["itemLevel"] = 719.8125,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 475082206,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 125397046,
+["itemLevel"] = 724.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 841867212,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 870086050,
+["itemLevel"] = 719.6875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 905461947,
+["itemLevel"] = 710,
+["classId"] = 4,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1479120082,
+["itemLevel"] = 722.125,
+["classId"] = 6,
+},
+["Heikuro"] = {
+["total"] = 349245770,
+["itemLevel"] = 722.0625,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1140714971,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+},
+["time"] = 1761962763,
+["date"] = "21:06 31/10/25",
+["elapsed"] = 374.0819999999367,
+["servertime"] = 1761962762,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 274377542,
+["itemLevel"] = 723.3125,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 545271600,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1762394827,
+["guild"] = "House Stalwart",
+["elapsed"] = 414.1550000000279,
+["date"] = "20:07 05/11/25",
+["servertime"] = 1762394826,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 508485713,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 571622571,
+["itemLevel"] = 717.125,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 523007255,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 862988195,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 1152976648,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 874340470,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Heikuro"] = {
+["total"] = 1448932698,
+["itemLevel"] = 722.4375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 965447721,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 145429524,
+["itemLevel"] = 726.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 672421929,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 504984948,
+["itemLevel"] = 706.9375,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 786773035,
+["itemLevel"] = 722.5,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1346466350,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1018828912,
+["itemLevel"] = 719.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1002303785,
+["itemLevel"] = 710.1875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 858814353,
+["itemLevel"] = 725.5625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1344948066,
+["itemLevel"] = 723.25,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 71051405,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1763003394,
+["date"] = "21:09 12/11/25",
+["elapsed"] = 384.3489999999874,
+["servertime"] = 1763003393,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 400654257,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 581292460,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
 },
 ["mythic"] = {
 },
@@ -5500,50 +8896,6 @@ DetailsDataStorage = {
 },
 },
 ["heroic"] = {
-[3016] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 118,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[2919] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 21,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3010] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 7,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[2920] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 33,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
 [2898] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
@@ -5554,83 +8906,6 @@ DetailsDataStorage = {
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
-},
-[2921] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 17,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3012] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 28,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[2922] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 117,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3011] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 6,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3013] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 15,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[2917] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 20,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3014] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 32,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
 },
 [2902] = {
 ["time_incombat"] = 0,
@@ -5643,21 +8918,21 @@ DetailsDataStorage = {
 ["dps_best_when"] = 0,
 ["dps_best_raid"] = 0,
 },
-[3015] = {
+[3129] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 37,
+["wipes"] = 9,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
-[2918] = {
+[3131] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 14,
+["wipes"] = 12,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -5676,6 +8951,215 @@ DetailsDataStorage = {
 ["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
 },
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 14,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2920] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 33,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3015] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 39,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3135] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 127,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2922] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 117,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3014] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 33,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3012] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 28,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 20,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3122] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 10,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3013] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 16,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3010] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 7,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3011] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 7,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3130] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3132] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 11,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3134] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 49,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2919] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 21,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 17,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3016] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 118,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3133] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 9,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
 },
 [3009] = {
 ["normal"] = {
@@ -5690,15 +9174,111 @@ DetailsDataStorage = {
 ["dps_best_raid"] = 25050376.3871543,
 },
 ["heroic"] = {
-["time_incombat"] = 4569.609999999731,
-["time_fasterkill"] = 188.774000000034,
+["time_incombat"] = 4926.262999999723,
+["time_fasterkill"] = 163.801999999996,
 ["wipes"] = 0,
-["kills"] = 18,
+["kills"] = 20,
 ["dps_best"] = 2035880.635149343,
 ["dps_best_raid"] = 28488880.06822461,
-["time_fasterkill_when"] = 1749084394,
+["time_fasterkill_when"] = 1752108305,
 ["dps_best_raid_when"] = 1749084394,
 ["dps_best_when"] = 1744770773,
+},
+},
+[3015] = {
+["normal"] = {
+["time_incombat"] = 2037.051000000036,
+["time_fasterkill"] = 184.484000000055,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 1225601.237368421,
+["dps_best_raid"] = 17359948.46707057,
+["time_fasterkill_when"] = 1744246190,
+["dps_best_raid_when"] = 1744246190,
+["dps_best_when"] = 1744073139,
+},
+["heroic"] = {
+["time_incombat"] = 4398.989999999942,
+["time_fasterkill"] = 241.5610000000015,
+["wipes"] = 0,
+["kills"] = 14,
+["dps_best"] = 2378707.439538014,
+["dps_best_when"] = 1750299409,
+["time_fasterkill_when"] = 1752113089,
+["dps_best_raid_when"] = 1752113089,
+["dps_best_raid"] = 18317905.402776,
+},
+},
+[3129] = {
+["normal"] = {
+["time_incombat"] = 1860.731000000219,
+["time_fasterkill"] = 146.3080000000045,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 3036321.042417326,
+["dps_best_when"] = 1755899079,
+["time_fasterkill_when"] = 1756946341,
+["dps_best_raid_when"] = 1756946341,
+["dps_best_raid"] = 53378088.01979221,
+},
+["heroic"] = {
+["time_incombat"] = 4028.815000000048,
+["time_fasterkill"] = 236.0679999999993,
+["wipes"] = 0,
+["kills"] = 13,
+["dps_best"] = 3870046.280491246,
+["dps_best_raid"] = 70874251.29200082,
+["time_fasterkill_when"] = 1756833855,
+["dps_best_when"] = 1758087170,
+["dps_best_raid_when"] = 1756833855,
+},
+},
+[3131] = {
+["normal"] = {
+["time_incombat"] = 1382.667999999998,
+["time_fasterkill"] = 110.3960000000079,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 4047985.423863229,
+["dps_best_when"] = 1755899836,
+["time_fasterkill_when"] = 1763604493,
+["dps_best_raid_when"] = 1756946923,
+["dps_best_raid"] = 53554033.08809107,
+},
+["heroic"] = {
+["time_incombat"] = 3681.507999999915,
+["time_fasterkill"] = 236.1069999999891,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 4527331.250449862,
+["dps_best_raid"] = 91098513.83906871,
+["time_fasterkill_when"] = 1756834490,
+["dps_best_when"] = 1758088375,
+["dps_best_raid_when"] = 1756834490,
+},
+},
+[3133] = {
+["normal"] = {
+["time_incombat"] = 1477.600000000027,
+["time_fasterkill"] = 131.6900000000023,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 2748788.310549841,
+["dps_best_raid_when"] = 1756949049,
+["time_fasterkill_when"] = 1756949049,
+["dps_best_when"] = 1759002084,
+["dps_best_raid"] = 57990259.41225503,
+},
+["heroic"] = {
+["time_incombat"] = 3113.027999999904,
+["time_fasterkill"] = 224.7429999999586,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 4316826.468464184,
+["dps_best_raid"] = 78489252.17192721,
+["time_fasterkill_when"] = 1758091187,
+["dps_best_when"] = 1758091187,
+["dps_best_raid_when"] = 1756837126,
 },
 },
 [2918] = {
@@ -5738,10 +9318,10 @@ DetailsDataStorage = {
 },
 [3013] = {
 ["heroic"] = {
-["time_incombat"] = 4229.206999999995,
+["time_incombat"] = 4739.224999999991,
 ["time_fasterkill"] = 222.939000000013,
 ["wipes"] = 0,
-["kills"] = 14,
+["kills"] = 16,
 ["dps_best"] = 2184510.386268497,
 ["dps_best_raid"] = 20595347.43710839,
 ["time_fasterkill_when"] = 1750296850,
@@ -5806,8 +9386,87 @@ DetailsDataStorage = {
 ["dps_best_raid"] = 8733879.587762006,
 },
 },
+[3014] = {
 ["normal"] = {
-[3016] = {
+["time_incombat"] = 1830.95199999998,
+["time_fasterkill"] = 179.2229999999981,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 1387628.814459459,
+["dps_best_when"] = 1744072476,
+["time_fasterkill_when"] = 1744247222,
+["dps_best_raid_when"] = 1744247222,
+["dps_best_raid"] = 19170630.33204464,
+},
+["heroic"] = {
+["time_incombat"] = 4760.307999999963,
+["time_fasterkill"] = 239.4429999999993,
+["wipes"] = 0,
+["kills"] = 15,
+["dps_best"] = 2189197.377207662,
+["dps_best_raid"] = 21809955.49289601,
+["time_fasterkill_when"] = 1752112174,
+["dps_best_raid_when"] = 1749088481,
+["dps_best_when"] = 1750298235,
+},
+},
+["normal"] = {
+[2898] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3131] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3009] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3011] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3013] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3015] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 3,
@@ -5817,6 +9476,39 @@ DetailsDataStorage = {
 ["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
+},
+[3133] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 23,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
 },
 [2919] = {
 ["time_incombat"] = 0,
@@ -5829,32 +9521,21 @@ DetailsDataStorage = {
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
 },
+[3122] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
 [3010] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 1,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[2898] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 1,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[2921] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 23,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_when"] = 0,
@@ -5884,10 +9565,21 @@ DetailsDataStorage = {
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
 },
-[3009] = {
+[2917] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 2,
+["wipes"] = 5,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3132] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_when"] = 0,
@@ -5895,16 +9587,16 @@ DetailsDataStorage = {
 ["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
-[3013] = {
+[3134] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 6,
+["wipes"] = 3,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3012] = {
 ["time_incombat"] = 0,
@@ -5928,18 +9620,7 @@ DetailsDataStorage = {
 ["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
-[2917] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 5,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3015] = {
+[3016] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 3,
@@ -5950,150 +9631,10 @@ DetailsDataStorage = {
 ["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
 },
-[2918] = {
+[3135] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3011] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-},
-[2920] = {
-["normal"] = {
-["time_incombat"] = 1485.541999999982,
-["time_fasterkill"] = 113.880999999994,
-["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 856819.1370459038,
-["dps_best_raid"] = 10154893.37943067,
-["time_fasterkill_when"] = 1736566136,
-["dps_best_when"] = 1738207421,
-["dps_best_raid_when"] = 1730871974,
-},
-["heroic"] = {
-["time_incombat"] = 3813.610999999962,
-["time_fasterkill"] = 232.0210000000079,
-["wipes"] = 0,
-["kills"] = 13,
-["dps_best"] = 947188.7914292166,
-["dps_best_raid"] = 13745608.64192425,
-["time_fasterkill_when"] = 1735784674,
-["dps_best_when"] = 1737599498,
-["dps_best_raid_when"] = 1730339982,
-},
-["raidfinder"] = {
-["time_incombat"] = 727.4730000000562,
-["time_fasterkill"] = 225.7779999999329,
-["wipes"] = 0,
-["kills"] = 3,
-["dps_best"] = 557215.0249091784,
-["dps_best_raid_when"] = 1728946583,
-["time_fasterkill_when"] = 1728946583,
-["dps_best_when"] = 1727472911,
-["dps_best_raid"] = 7316436.752032929,
-},
-},
-[2902] = {
-["normal"] = {
-["time_incombat"] = 1459.37600000008,
-["time_fasterkill"] = 71.71700000000419,
-["wipes"] = 0,
-["kills"] = 9,
-["dps_best"] = 747567.172230076,
-["dps_best_raid"] = 13644128.80675545,
-["time_fasterkill_when"] = 1736563843,
-["dps_best_when"] = 1730511681,
-["dps_best_raid_when"] = 1729302547,
-},
-["heroic"] = {
-["time_incombat"] = 4603.117999999944,
-["time_fasterkill"] = 183.0510000000068,
-["wipes"] = 0,
-["kills"] = 18,
-["dps_best"] = 836983.7833553166,
-["dps_best_raid"] = 11975066.25576393,
-["time_fasterkill_when"] = 1735782742,
-["dps_best_when"] = 1731713697,
-["dps_best_raid_when"] = 1730335587,
-},
-["raidfinder"] = {
-["time_incombat"] = 561.0879999999961,
-["time_fasterkill"] = 197.6909999999989,
-["wipes"] = 0,
-["kills"] = 2,
-["dps_best"] = 360741.4645826383,
-["dps_best_raid"] = 7562294.100389034,
-["time_fasterkill_when"] = 1733266175,
-["dps_best_raid_when"] = 1733266175,
-["dps_best_when"] = 1726528559,
-},
-},
-[3014] = {
-["normal"] = {
-["time_incombat"] = 1830.95199999998,
-["time_fasterkill"] = 179.2229999999981,
-["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 1387628.814459459,
-["dps_best_when"] = 1744072476,
-["time_fasterkill_when"] = 1744247222,
-["dps_best_raid_when"] = 1744247222,
-["dps_best_raid"] = 19170630.33204464,
-},
-["heroic"] = {
-["time_incombat"] = 4263.222999999942,
-["time_fasterkill"] = 255.7290000000212,
-["wipes"] = 0,
-["kills"] = 13,
-["dps_best"] = 2189197.377207662,
-["dps_best_raid"] = 21809955.49289601,
-["time_fasterkill_when"] = 1748051244,
-["dps_best_raid_when"] = 1749088481,
-["dps_best_when"] = 1750298235,
-},
-},
-["raidfinder"] = {
-[2917] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 1,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3011] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 1,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3013] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 1,
+["wipes"] = 23,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -6139,13 +9680,13 @@ DetailsDataStorage = {
 },
 [3010] = {
 ["heroic"] = {
-["time_incombat"] = 4519.965999999762,
-["time_fasterkill"] = 202.4279999998398,
+["time_incombat"] = 4923.828999999789,
+["time_fasterkill"] = 183.5740000000078,
 ["wipes"] = 0,
-["kills"] = 17,
+["kills"] = 19,
 ["dps_best"] = 1566146.46705564,
 ["dps_best_raid"] = 19401188.57076643,
-["time_fasterkill_when"] = 1750899524,
+["time_fasterkill_when"] = 1752108707,
 ["dps_best_when"] = 1744771300,
 ["dps_best_raid_when"] = 1750899524,
 },
@@ -6172,39 +9713,39 @@ DetailsDataStorage = {
 ["dps_best_raid"] = 20930058.08933335,
 },
 },
-[3011] = {
-["heroic"] = {
-["time_incombat"] = 4350.890999999834,
-["time_fasterkill"] = 197.0889999999199,
-["wipes"] = 0,
-["kills"] = 17,
-["dps_best"] = 2318112.304631748,
-["dps_best_raid"] = 18920850.31650887,
-["time_fasterkill_when"] = 1750295055,
-["dps_best_when"] = 1750295055,
-["dps_best_raid_when"] = 1749085477,
-},
+[2902] = {
 ["normal"] = {
-["time_incombat"] = 1604.157000000045,
-["time_fasterkill"] = 183.8640000000014,
+["time_incombat"] = 1459.37600000008,
+["time_fasterkill"] = 71.71700000000419,
 ["wipes"] = 0,
-["kills"] = 6,
-["dps_best"] = 965217.6234132503,
-["dps_best_when"] = 1743976123,
-["time_fasterkill_when"] = 1749867711,
-["dps_best_raid_when"] = 1743976123,
-["dps_best_raid"] = 13267259.02895377,
+["kills"] = 9,
+["dps_best"] = 747567.172230076,
+["dps_best_raid"] = 13644128.80675545,
+["time_fasterkill_when"] = 1736563843,
+["dps_best_when"] = 1730511681,
+["dps_best_raid_when"] = 1729302547,
+},
+["heroic"] = {
+["time_incombat"] = 4603.117999999944,
+["time_fasterkill"] = 183.0510000000068,
+["wipes"] = 0,
+["kills"] = 18,
+["dps_best"] = 836983.7833553166,
+["dps_best_raid"] = 11975066.25576393,
+["time_fasterkill_when"] = 1735782742,
+["dps_best_when"] = 1731713697,
+["dps_best_raid_when"] = 1730335587,
 },
 ["raidfinder"] = {
-["time_incombat"] = 525.5579999999609,
-["time_fasterkill"] = 194.984999999986,
+["time_incombat"] = 561.0879999999961,
+["time_fasterkill"] = 197.6909999999989,
 ["wipes"] = 0,
 ["kills"] = 2,
-["dps_best"] = 1949729.507436799,
-["dps_best_raid_when"] = 1747329730,
-["time_fasterkill_when"] = 1747329730,
-["dps_best_when"] = 1747329730,
-["dps_best_raid"] = 16800646.94207367,
+["dps_best"] = 360741.4645826383,
+["dps_best_raid"] = 7562294.100389034,
+["time_fasterkill_when"] = 1733266175,
+["dps_best_raid_when"] = 1733266175,
+["dps_best_when"] = 1726528559,
 },
 },
 [2917] = {
@@ -6242,15 +9783,216 @@ DetailsDataStorage = {
 ["dps_best_raid"] = 7919326.18316677,
 },
 },
+[3122] = {
+["normal"] = {
+["time_incombat"] = 2214.343000000026,
+["time_fasterkill"] = 207.8690000000061,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 4444709.090236279,
+["dps_best_when"] = 1755295869,
+["time_fasterkill_when"] = 1763000975,
+["dps_best_raid_when"] = 1756948633,
+["dps_best_raid"] = 76713783.83990629,
+},
+["heroic"] = {
+["time_incombat"] = 4761.800999999716,
+["time_fasterkill"] = 325.50900000002,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 5624708.146345072,
+["dps_best_raid"] = 108365947.1494149,
+["time_fasterkill_when"] = 1758089986,
+["dps_best_when"] = 1758089986,
+["dps_best_raid_when"] = 1756836535,
+},
+},
+[2920] = {
+["normal"] = {
+["time_incombat"] = 1485.541999999982,
+["time_fasterkill"] = 113.880999999994,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 856819.1370459038,
+["dps_best_raid"] = 10154893.37943067,
+["time_fasterkill_when"] = 1736566136,
+["dps_best_when"] = 1738207421,
+["dps_best_raid_when"] = 1730871974,
+},
+["heroic"] = {
+["time_incombat"] = 3813.610999999962,
+["time_fasterkill"] = 232.0210000000079,
+["wipes"] = 0,
+["kills"] = 13,
+["dps_best"] = 947188.7914292166,
+["dps_best_raid"] = 13745608.64192425,
+["time_fasterkill_when"] = 1735784674,
+["dps_best_when"] = 1737599498,
+["dps_best_raid_when"] = 1730339982,
+},
+["raidfinder"] = {
+["time_incombat"] = 727.4730000000562,
+["time_fasterkill"] = 225.7779999999329,
+["wipes"] = 0,
+["kills"] = 3,
+["dps_best"] = 557215.0249091784,
+["dps_best_raid_when"] = 1728946583,
+["time_fasterkill_when"] = 1728946583,
+["dps_best_when"] = 1727472911,
+["dps_best_raid"] = 7316436.752032929,
+},
+},
+["raidfinder"] = {
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3011] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3013] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+},
+[3011] = {
+["heroic"] = {
+["time_incombat"] = 4713.266999999853,
+["time_fasterkill"] = 175.7710000000079,
+["wipes"] = 0,
+["kills"] = 19,
+["dps_best"] = 2318112.304631748,
+["dps_best_raid"] = 18920850.31650887,
+["time_fasterkill_when"] = 1752109304,
+["dps_best_when"] = 1750295055,
+["dps_best_raid_when"] = 1749085477,
+},
+["normal"] = {
+["time_incombat"] = 1604.157000000045,
+["time_fasterkill"] = 183.8640000000014,
+["wipes"] = 0,
+["kills"] = 6,
+["dps_best"] = 965217.6234132503,
+["dps_best_when"] = 1743976123,
+["time_fasterkill_when"] = 1749867711,
+["dps_best_raid_when"] = 1743976123,
+["dps_best_raid"] = 13267259.02895377,
+},
+["raidfinder"] = {
+["time_incombat"] = 525.5579999999609,
+["time_fasterkill"] = 194.984999999986,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 1949729.507436799,
+["dps_best_raid_when"] = 1747329730,
+["time_fasterkill_when"] = 1747329730,
+["dps_best_when"] = 1747329730,
+["dps_best_raid"] = 16800646.94207367,
+},
+},
+[3130] = {
+["normal"] = {
+["time_incombat"] = 1609.61400000011,
+["time_fasterkill"] = 119.1140000000014,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 4682325.516798425,
+["dps_best_when"] = 1755900689,
+["time_fasterkill_when"] = 1763604918,
+["dps_best_raid_when"] = 1756947510,
+["dps_best_raid"] = 65519620.43920327,
+},
+["heroic"] = {
+["time_incombat"] = 3302.300999999774,
+["time_fasterkill"] = 216.0610000000015,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 6441747.809697507,
+["dps_best_raid"] = 103639529.3690201,
+["time_fasterkill_when"] = 1756835122,
+["dps_best_when"] = 1758087800,
+["dps_best_raid_when"] = 1756835122,
+},
+},
+[3132] = {
+["normal"] = {
+["time_incombat"] = 1588.857000000004,
+["time_fasterkill"] = 193.2050000000018,
+["wipes"] = 0,
+["kills"] = 6,
+["dps_best"] = 4275309.915055797,
+["dps_best_when"] = 1755901508,
+["time_fasterkill_when"] = 1756948189,
+["dps_best_raid_when"] = 1756948189,
+["dps_best_raid"] = 58812535.85569678,
+},
+["heroic"] = {
+["time_incombat"] = 4436.086000000185,
+["time_fasterkill"] = 277.875,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 5400128.943209769,
+["dps_best_raid"] = 102740299.2501775,
+["time_fasterkill_when"] = 1756835881,
+["dps_best_when"] = 1758089173,
+["dps_best_raid_when"] = 1756433420,
+},
+},
+[3134] = {
+["normal"] = {
+["time_incombat"] = 2403.974000000097,
+["time_fasterkill"] = 142.8450000000012,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 3670616.095495044,
+["dps_best_raid"] = 58861544.7641461,
+["time_fasterkill_when"] = 1761362516,
+["dps_best_when"] = 1760758514,
+["dps_best_raid_when"] = 1756949704,
+},
+["heroic"] = {
+["time_incombat"] = 3367.478000000068,
+["time_fasterkill"] = 355.8730000000214,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 4631284.903924477,
+["dps_best_raid"] = 73378899.53745188,
+["time_fasterkill_when"] = 1761185201,
+["dps_best_raid_when"] = 1756839105,
+["dps_best_when"] = 1756839105,
+},
+},
 [3012] = {
 ["heroic"] = {
-["time_incombat"] = 5765.084999999938,
-["time_fasterkill"] = 293.3229999999749,
+["time_incombat"] = 6297.493999999923,
+["time_fasterkill"] = 253.6499999999942,
 ["wipes"] = 0,
-["kills"] = 16,
+["kills"] = 18,
 ["dps_best"] = 2842474.674227667,
 ["dps_best_raid"] = 23312364.73028186,
-["time_fasterkill_when"] = 1749691084,
+["time_fasterkill_when"] = 1752109900,
 ["dps_best_raid_when"] = 1746062139,
 ["dps_best_when"] = 1750295689,
 },
@@ -6325,10 +10067,10 @@ DetailsDataStorage = {
 ["dps_best_when"] = 1744056310,
 },
 ["heroic"] = {
-["time_incombat"] = 3506.885000000097,
+["time_incombat"] = 4423.121000000101,
 ["time_fasterkill"] = 429.8000000000466,
 ["wipes"] = 0,
-["kills"] = 7,
+["kills"] = 9,
 ["dps_best"] = 2367386.979603286,
 ["dps_best_raid_when"] = 1748659691,
 ["time_fasterkill_when"] = 1751510167,
@@ -6347,28 +10089,28 @@ DetailsDataStorage = {
 ["dps_best_raid"] = 21824545.54288301,
 },
 },
-[3015] = {
+[3135] = {
 ["normal"] = {
-["time_incombat"] = 2037.051000000036,
-["time_fasterkill"] = 184.484000000055,
+["time_incombat"] = 4166.94199999973,
+["time_fasterkill"] = 286.8029999999999,
 ["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 1225601.237368421,
-["dps_best_raid"] = 17359948.46707057,
-["time_fasterkill_when"] = 1744246190,
-["dps_best_raid_when"] = 1744246190,
-["dps_best_when"] = 1744073139,
+["kills"] = 10,
+["dps_best"] = 2682333.023437858,
+["dps_best_raid"] = 29116459.01542175,
+["time_fasterkill_when"] = 1761362966,
+["dps_best_when"] = 1755904538,
+["dps_best_raid_when"] = 1761362966,
 },
 ["heroic"] = {
-["time_incombat"] = 3894.400999999948,
-["time_fasterkill"] = 251.9649999999674,
+["time_incombat"] = 1216.407000000007,
+["time_fasterkill"] = 592.9130000000005,
 ["wipes"] = 0,
-["kills"] = 12,
-["dps_best"] = 2378707.439538014,
-["dps_best_when"] = 1750299409,
-["time_fasterkill_when"] = 1750299409,
-["dps_best_raid_when"] = 1746065059,
-["dps_best_raid"] = 18240343.92340528,
+["kills"] = 2,
+["dps_best"] = 2258537.220474402,
+["dps_best_when"] = 1760757864,
+["time_fasterkill_when"] = 1760757864,
+["dps_best_raid_when"] = 1760757864,
+["dps_best_raid"] = 32295343.11779297,
 },
 },
 },
@@ -6378,1027 +10120,457 @@ DetailsDataStorage = {
 ["saved_encounters"] = {
 },
 ["heroic"] = {
-[3016] = {
+[2898] = {
 {
-["guild"] = "House Stalwart",
-["time"] = 1748058378,
-["elapsed"] = 491.9239999999991,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 419039459,
-["itemLevel"] = 670.8125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 61846506,
-["itemLevel"] = 660.9375,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 1034432428,
-["itemLevel"] = 671.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 999272838,
-["itemLevel"] = 667.8125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 708188759,
-["itemLevel"] = 662.9375,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 1052982279,
-["itemLevel"] = 675.5,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 709825923,
-["itemLevel"] = 674.25,
-["classId"] = 2,
-},
-["Elayna"] = {
-["total"] = 1090693789,
-["itemLevel"] = 674.8125,
-["classId"] = 3,
-},
-},
-["servertime"] = 1748058377,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 601681891,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 1059939353,
-["itemLevel"] = 668.0625,
-["classId"] = 7,
-},
-},
-["date"] = "22:46 23/05/25",
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 1050559668,
-["itemLevel"] = 675.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 83848415,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Anguis"] = {
-["total"] = 1160363123,
-["itemLevel"] = 660.875,
-["classId"] = 13,
-},
-["Confluence"] = {
-["total"] = 700430510,
-["itemLevel"] = 677.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 1057390761,
-["itemLevel"] = 672.375,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 1187371264,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 713888172,
-["itemLevel"] = 663.375,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 1093781734,
-["itemLevel"] = 676.625,
-["classId"] = 1,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 455635761,
-["itemLevel"] = 673.125,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 999169108,
-["itemLevel"] = 674.3125,
-["classId"] = 7,
-},
-},
-["time"] = 1748659691,
-["date"] = "21:48 30/05/25",
-["elapsed"] = 501.3450000000012,
-["servertime"] = 1748659690,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 788767121,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 544275530,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1749091291,
-["elapsed"] = 556.369000000006,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 1086387685,
-["itemLevel"] = 675.75,
-["classId"] = 11,
-},
-["Confluence"] = {
-["total"] = 722881574,
-["itemLevel"] = 677.75,
-["classId"] = 2,
-},
-["Artanos"] = {
-["total"] = 552402798,
-["itemLevel"] = 642.875,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 1232509010,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 728279522,
-["itemLevel"] = 664.125,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 507674926,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 1269993600,
-["itemLevel"] = 676.75,
-["classId"] = 3,
-},
-["Giulietta"] = {
-["total"] = 1077466599,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
-},
-},
-["servertime"] = 1749091291,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 853299658,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 747417731,
-["itemLevel"] = 655.4375,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 870651353,
-["itemLevel"] = 669.6875,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 1219948889,
-["itemLevel"] = 668.0625,
-["classId"] = 7,
-},
-},
-["date"] = "21:41 04/06/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1749866043,
-["elapsed"] = 529.8190000000177,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 529860682,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 28912972,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 1302383492,
-["itemLevel"] = 678.0625,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 1162299846,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 784255255,
-["itemLevel"] = 665.5625,
-["classId"] = 4,
-},
-["Angelica"] = {
-["total"] = 923755326,
-["itemLevel"] = 655.9375,
-["classId"] = 10,
-},
-["Erixi"] = {
-["total"] = 1150296457,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 622540634,
-["itemLevel"] = 679.1875,
-["classId"] = 2,
-},
-},
-["servertime"] = 1749866042,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 885173473,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 717671659,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-["Zephyrri"] = {
-["total"] = 1176174693,
-["itemLevel"] = 668.0625,
-["classId"] = 7,
-},
-},
-["date"] = "20:54 13/06/25",
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 441562371,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 1307075649,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 758581087,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 607165819,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
-["Riparium"] = {
-["total"] = 1137145927,
-["itemLevel"] = 671.375,
-["classId"] = 9,
-},
-["Rylacus"] = {
-["total"] = 735006912,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 495866210,
-["itemLevel"] = 681.3125,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 1031586095,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Elayna"] = {
-["total"] = 1042548684,
-["itemLevel"] = 678.375,
-["classId"] = 3,
-},
-},
-["time"] = 1750301911,
-["date"] = "21:58 18/06/25",
-["elapsed"] = 480.3379999999888,
-["servertime"] = 1750301910,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 760173748,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 621421074,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 1054086485,
-["itemLevel"] = 678.4375,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["time"] = 1751077885,
-["guild"] = "House Stalwart",
-["elapsed"] = 517.2900000000373,
-["date"] = "21:31 27/06/25",
-["servertime"] = 1751077885,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 1079062609,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 932206508,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 1110729535,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 505309654,
-["itemLevel"] = 676.5,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 481363952,
-["itemLevel"] = 661.375,
-["classId"] = 10,
-},
-["Urklesnurkle"] = {
-["total"] = 589909961,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 1383926965,
-["itemLevel"] = 672.9375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 989206233,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Erixi"] = {
-["total"] = 1134871474,
-["itemLevel"] = 675.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 825069766,
-["itemLevel"] = 669.25,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 41394469,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Elayna"] = {
-["total"] = 1122137706,
-["itemLevel"] = 679.375,
-["classId"] = 3,
-},
-},
-},
-{
-["time"] = 1751510167,
-["guild"] = "House Stalwart",
-["elapsed"] = 429.8000000000466,
-["date"] = "21:36 02/07/25",
-["servertime"] = 1751510166,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 1152773505,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 1023461500,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Sverdrup"] = {
-["total"] = 440547541,
-["itemLevel"] = 667.8125,
-["classId"] = 10,
-},
-["Urklesnurkle"] = {
-["total"] = 614267576,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 828081198,
-["itemLevel"] = 674.5625,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 1155152891,
-["itemLevel"] = 674.5,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 854737544,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 633388824,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 925345520,
-["itemLevel"] = 675.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 615021158,
-["itemLevel"] = 669.25,
-["classId"] = 4,
-},
-["Errya"] = {
-["total"] = 101697413,
-["itemLevel"] = 635.8125,
-["classId"] = 2,
-},
-},
-},
-},
-[2919] = {
-{
-["date"] = "21:20 16/10/24",
+["date"] = "20:13 16/10/24",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 224828204,
-["itemLevel"] = 615.1875,
+["total"] = 96696396,
+["itemLevel"] = 614.75,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 275078674,
+["total"] = 165984325,
 ["itemLevel"] = 613.5625,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 385243769,
+["total"] = 92490248,
 ["itemLevel"] = 620.3125,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 183705140,
+["total"] = 111764179,
 ["itemLevel"] = 608.9375,
 ["classId"] = 8,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 361426037,
-["itemLevel"] = 616.9375,
+["total"] = 156077353,
+["itemLevel"] = 616.5625,
 ["classId"] = 10,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 374750070,
+["total"] = 181308985,
 ["itemLevel"] = 613.75,
 ["classId"] = 5,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 253834247,
+["total"] = 129861017,
 ["itemLevel"] = 0,
 ["classId"] = 3,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 234083907,
+["total"] = 136086806,
 ["itemLevel"] = 611.0625,
 ["classId"] = 4,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 261385194,
+["total"] = 130673743,
 ["itemLevel"] = 624,
 ["classId"] = 12,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 380647762,
-["itemLevel"] = 615.625,
+["total"] = 214252744,
+["itemLevel"] = 614.6875,
 ["classId"] = 7,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 475668977,
+["total"] = 237726078,
 ["itemLevel"] = 621.5625,
 ["classId"] = 8,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 412045734,
+["total"] = 182647113,
 ["itemLevel"] = 615.0625,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 414817738,
+["total"] = 195353623,
 ["itemLevel"] = 618.5625,
 ["classId"] = 1,
 },
 ["Mysdelin-ArgentDawn"] = {
-["total"] = 327779980,
+["total"] = 165452245,
 ["itemLevel"] = 615.25,
 ["classId"] = 8,
 },
 },
-["elapsed"] = 398.7639999999665,
-["servertime"] = 1729131601,
+["elapsed"] = 205.0100000000093,
+["servertime"] = 1729127596,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 296253372,
+["total"] = 134358135,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 304676244,
+["total"] = 129952763,
 ["itemLevel"] = 611.625,
 ["classId"] = 13,
 },
 },
-["time"] = 1729131602,
+["time"] = 1729127597,
 },
 {
-["date"] = "21:30 23/10/24",
+["date"] = "20:27 23/10/24",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 314250715,
+["total"] = 119653714,
 ["itemLevel"] = 617.75,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 224058516,
-["itemLevel"] = 614.5625,
+["total"] = 64424069,
+["itemLevel"] = 614.2666666666667,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 564124880,
+["total"] = 174708542,
 ["itemLevel"] = 622.6875,
 ["classId"] = 3,
 },
+["Zea-ArgentDawn"] = {
+["total"] = 170499210,
+["itemLevel"] = 615,
+["classId"] = 4,
+},
 ["Apókryfes-Proudmoore"] = {
-["total"] = 713138221,
+["total"] = 247556370,
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 289843455,
+["total"] = 147276602,
 ["itemLevel"] = 616,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 379549723,
-["itemLevel"] = 613.3125,
+["total"] = 75348538,
+["itemLevel"] = 612.0625,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 483690739,
+["total"] = 181879107,
 ["itemLevel"] = 617.3125,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 110948090,
+["total"] = 39868077,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
+["Lleandryn-ArgentDawn"] = {
+["total"] = 151858253,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
 ["Erixi-ArgentDawn"] = {
-["total"] = 552081698,
+["total"] = 226583649,
 ["itemLevel"] = 616.375,
 ["classId"] = 7,
 },
-["Nil-ArgentDawn"] = {
-["total"] = 459100637,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
 ["Artanos-ArgentDawn"] = {
-["total"] = 257908418,
-["itemLevel"] = 611.8125,
+["total"] = 159612117,
+["itemLevel"] = 611,
 ["classId"] = 8,
 },
+["Kadria-ArgentDawn"] = {
+["total"] = 84891695,
+["itemLevel"] = 619.125,
+["classId"] = 11,
+},
 ["Giulietta-ArgentDawn"] = {
-["total"] = 473326400,
+["total"] = 182506068,
 ["itemLevel"] = 621.375,
 ["classId"] = 1,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 207503053,
-["itemLevel"] = 193.875,
-["classId"] = 3,
+["Nil-ArgentDawn"] = {
+["total"] = 200792654,
+["itemLevel"] = 619.25,
+["classId"] = 10,
 },
 },
-["elapsed"] = 518.4709999999905,
-["servertime"] = 1729737034,
+["elapsed"] = 234.1739999999991,
+["servertime"] = 1729733268,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 356380347,
+["total"] = 148805224,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 351675103,
-["itemLevel"] = 617.75,
-["classId"] = 11,
-},
 ["Xerimok-ArgentDawn"] = {
-["total"] = 389432777,
+["total"] = 182143719,
 ["itemLevel"] = 611.625,
 ["classId"] = 13,
 },
 },
-["time"] = 1729737035,
+["time"] = 1729733269,
 },
 {
-["date"] = "21:17 30/10/24",
+["date"] = "20:12 30/10/24",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 245547290,
+["total"] = 104188616,
 ["itemLevel"] = 620.0625,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 264249698,
-["itemLevel"] = 617,
+["total"] = 100682269,
+["itemLevel"] = 616.75,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 399469447,
+["total"] = 183986399,
 ["itemLevel"] = 624.375,
 ["classId"] = 3,
 },
-["Zea-ArgentDawn"] = {
-["total"] = 251546090,
-["itemLevel"] = 616.8125,
-["classId"] = 4,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 280916635,
-["itemLevel"] = 617,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 512923518,
-["itemLevel"] = 618.875,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 377487221,
-["itemLevel"] = 620.125,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 255533096,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 423975355,
-["itemLevel"] = 617.5,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 216728842,
-["itemLevel"] = 628.8125,
-["classId"] = 12,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 432731583,
-["itemLevel"] = 622.4375,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 34292883,
-["itemLevel"] = 617.125,
-["classId"] = 8,
-},
 ["Apókryfes-Proudmoore"] = {
-["total"] = 480971010,
+["total"] = 214434656,
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 226427133,
-["itemLevel"] = 620.5625,
-["classId"] = 3,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 432107560,
-["itemLevel"] = 621.1875,
-["classId"] = 11,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 347912899,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
 ["Artanos-ArgentDawn"] = {
-["total"] = 281358253,
+["total"] = 141603426,
 ["itemLevel"] = 612.625,
 ["classId"] = 8,
 },
+["Rylacus-ArgentDawn"] = {
+["total"] = 151202162,
+["itemLevel"] = 617,
+["classId"] = 4,
 },
-["elapsed"] = 387.7519999999786,
-["servertime"] = 1730341051,
+["Nil-ArgentDawn"] = {
+["total"] = 186104002,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 180000733,
+["itemLevel"] = 618.875,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 125504898,
+["itemLevel"] = 620.5625,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 127953273,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 103386834,
+["itemLevel"] = 628.375,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 196571884,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 183165633,
+["itemLevel"] = 620.125,
+["classId"] = 5,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 215086517,
+["itemLevel"] = 621.1875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 180759483,
+["itemLevel"] = 622.25,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 161614676,
+["itemLevel"] = 617.125,
+["classId"] = 8,
+},
+},
+["elapsed"] = 194.9269999999669,
+["servertime"] = 1730337163,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 319894638,
+["total"] = 165972811,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 297775820,
+["total"] = 142880348,
 ["itemLevel"] = 613.125,
 ["classId"] = 13,
 },
 },
-["time"] = 1730341052,
+["time"] = 1730337163,
 },
 {
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 248348819,
-["itemLevel"] = 621.125,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 437099411,
-["itemLevel"] = 626,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 549363200,
-["itemLevel"] = 625.75,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 348627006,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 273210604,
-["itemLevel"] = 616.0625,
-["classId"] = 8,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 306866731,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 216302525,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 271746137,
-["itemLevel"] = 619.75,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 427759424,
-["itemLevel"] = 618.25,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 233600401,
-["itemLevel"] = 630.4375,
-["classId"] = 12,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 430733716,
-["itemLevel"] = 623.375,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 229003059,
-["itemLevel"] = 624,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 431713399,
-["itemLevel"] = 621,
-["classId"] = 5,
-},
-},
-["time"] = 1730949406,
-["date"] = "21:16 06/11/24",
-["elapsed"] = 387.2609999999404,
-["servertime"] = 1730949406,
+["time"] = 1731725472,
+["guild"] = "House Stalwart",
+["elapsed"] = 187.3469999999506,
+["date"] = "20:51 15/11/24",
+["servertime"] = 1731725472,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 166936369,
+["total"] = 133530135,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 367283107,
-["itemLevel"] = 617.5,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["time"] = 1731727488,
-["guild"] = "House Stalwart",
-["elapsed"] = 328.5210000000661,
-["date"] = "21:24 15/11/24",
-["servertime"] = 1731727487,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 316160963,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 342135587,
+["total"] = 148191034,
 ["itemLevel"] = 619.3125,
 ["classId"] = 13,
 },
 ["Zephyrri-ArgentDawn"] = {
-["total"] = 444257421,
+["total"] = 234395797,
 ["itemLevel"] = 617.875,
 ["classId"] = 7,
 },
 },
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 222026002,
+["total"] = 92352639,
 ["itemLevel"] = 623.375,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 129839163,
+["total"] = 64803993,
 ["itemLevel"] = 620.5,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 351766045,
+["total"] = 197397821,
 ["itemLevel"] = 628.1875,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 228263273,
-["itemLevel"] = 618.625,
+["total"] = 124742661,
+["itemLevel"] = 618.1333333333333,
 ["classId"] = 8,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 264394594,
+["total"] = 151470827,
 ["itemLevel"] = 619.25,
 ["classId"] = 10,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 486182581,
+["total"] = 195623274,
 ["itemLevel"] = 619.4375,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 367723604,
+["total"] = 193457080,
 ["itemLevel"] = 621.875,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 227789420,
+["total"] = 116009441,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 392130325,
+["total"] = 228093870,
 ["itemLevel"] = 621.5,
 ["classId"] = 7,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 271320198,
+["total"] = 164387937,
 ["itemLevel"] = 620,
 ["classId"] = 4,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 427083630,
-["itemLevel"] = 626.75,
-["classId"] = 11,
-},
 ["Giulietta-ArgentDawn"] = {
-["total"] = 442117564,
+["total"] = 192288363,
 ["itemLevel"] = 625.375,
 ["classId"] = 1,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 293645728,
+["total"] = 176895444,
 ["itemLevel"] = 623.0625,
 ["classId"] = 3,
 },
 },
 },
 {
-["time"] = 1732161898,
+["time"] = 1732160274,
 ["guild"] = "House Stalwart",
-["elapsed"] = 323.3029999999999,
-["date"] = "22:04 20/11/24",
-["servertime"] = 1732161897,
+["elapsed"] = 159.0549999999967,
+["date"] = "21:37 20/11/24",
+["servertime"] = 1732160273,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 222011182,
+["total"] = 95067595,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 },
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 232721048,
+["total"] = 104316542,
 ["itemLevel"] = 624.5,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 288177490,
+["total"] = 124278780,
 ["itemLevel"] = 618.9375,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 337199108,
+["total"] = 193924476,
 ["itemLevel"] = 629.375,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 250580462,
+["total"] = 147412897,
 ["itemLevel"] = 618.625,
 ["classId"] = 8,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 257433759,
+["total"] = 151014081,
 ["itemLevel"] = 620.6875,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 419623878,
+["total"] = 164264980,
 ["itemLevel"] = 622,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 331272744,
+["total"] = 179390799,
 ["itemLevel"] = 621.875,
 ["classId"] = 5,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 269699647,
+["total"] = 161983863,
 ["itemLevel"] = 623.9375,
 ["classId"] = 3,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 401503895,
+["total"] = 194851096,
 ["itemLevel"] = 621.5,
 ["classId"] = 7,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 400567398,
-["itemLevel"] = 627.375,
+["total"] = 218889750,
+["itemLevel"] = 626.6,
 ["classId"] = 11,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 178860174,
+["total"] = 97163413,
 ["itemLevel"] = 632.5625,
 ["classId"] = 12,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 378880993,
+["total"] = 181590658,
 ["itemLevel"] = 626.875,
 ["classId"] = 1,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 419802717,
+["total"] = 178623136,
 ["itemLevel"] = 627.8125,
 ["classId"] = 8,
 },
@@ -7406,439 +10578,434 @@ DetailsDataStorage = {
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1733368714,
-["elapsed"] = 385.1669999999867,
+["time"] = 1733365238,
+["elapsed"] = 181.0210000000079,
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 266554603,
+["total"] = 103957810,
 ["itemLevel"] = 626.9375,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 161573647,
+["total"] = 56856934,
 ["itemLevel"] = 623.75,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 398785824,
-["itemLevel"] = 630.5333333333333,
+["total"] = 197097863,
+["itemLevel"] = 631.0625,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 255586329,
-["itemLevel"] = 620.25,
+["total"] = 137152809,
+["itemLevel"] = 619.8666666666667,
 ["classId"] = 8,
 },
 ["Tazz-ArgentDawn"] = {
-["total"] = 0,
+["total"] = 36523278,
 ["itemLevel"] = 605.8125,
 ["classId"] = 10,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 318529524,
+["total"] = 136216596,
 ["itemLevel"] = 622.0625,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 496490337,
+["total"] = 195406040,
 ["itemLevel"] = 623.0625,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 387067750,
+["total"] = 190184041,
 ["itemLevel"] = 622.9375,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 124368525,
+["total"] = 60694470,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 468211004,
+["total"] = 239374060,
 ["itemLevel"] = 630.5625,
 ["classId"] = 8,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 477269399,
+["total"] = 204025350,
 ["itemLevel"] = 630,
 ["classId"] = 1,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 306886662,
+["total"] = 167682962,
 ["itemLevel"] = 621.8125,
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733368714,
+["servertime"] = 1733365238,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 363271651,
+["total"] = 153785190,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 506396296,
-["itemLevel"] = 630.625,
+["total"] = 105020302,
+["itemLevel"] = 630.25,
 ["classId"] = 11,
 },
 },
-["date"] = "21:18 04/12/24",
+["date"] = "20:20 04/12/24",
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1733970849,
-["elapsed"] = 321.0550000000512,
+["time"] = 1733969154,
+["elapsed"] = 165.6430000000401,
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 223961648,
+["total"] = 118680165,
 ["itemLevel"] = 628.875,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 140445853,
-["itemLevel"] = 624.75,
+["total"] = 78251569,
+["itemLevel"] = 625.3125,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 352603406,
+["total"] = 196050135,
 ["itemLevel"] = 632.125,
 ["classId"] = 3,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 411854945,
+["total"] = 182887060,
 ["itemLevel"] = 625.1875,
 ["classId"] = 8,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 403113805,
+["total"] = 210763794,
 ["itemLevel"] = 631,
 ["classId"] = 8,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 433929554,
+["total"] = 189028052,
 ["itemLevel"] = 623.5,
 ["classId"] = 1,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 183343795,
+["total"] = 115580568,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 337071505,
+["total"] = 184313216,
 ["itemLevel"] = 622.75,
 ["classId"] = 7,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 420324453,
+["total"] = 220402004,
 ["itemLevel"] = 631.875,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 406109249,
+["total"] = 198485598,
 ["itemLevel"] = 0,
 ["classId"] = 1,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 250169797,
+["total"] = 136019797,
 ["itemLevel"] = 621.3125,
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733970849,
+["servertime"] = 1733969153,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 258152021,
-["itemLevel"] = 624.4666666666667,
+["total"] = 101038824,
+["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 232357162,
+["total"] = 98285656,
 ["itemLevel"] = 620.125,
 ["classId"] = 13,
 },
 },
-["date"] = "20:34 11/12/24",
+["date"] = "20:05 11/12/24",
 },
 {
-["time"] = 1734576471,
+["time"] = 1734574643,
 ["guild"] = "House Stalwart",
-["elapsed"] = 342.820000000007,
-["date"] = "20:47 18/12/24",
-["servertime"] = 1734576470,
+["elapsed"] = 201.2339999999967,
+["date"] = "20:17 18/12/24",
+["servertime"] = 1734574642,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 287395532,
+["total"] = 124199000,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 216967692,
+["total"] = 128298895,
 ["itemLevel"] = 620.5625,
 ["classId"] = 13,
 },
 ["Mykellqt-Sargeras"] = {
-["total"] = 338759483,
-["itemLevel"] = 606.6875,
+["total"] = 110885586,
+["itemLevel"] = 604.875,
 ["classId"] = 5,
 },
 },
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 141035529,
+["total"] = 76511632,
 ["itemLevel"] = 626.75,
 ["classId"] = 11,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 489075603,
+["total"] = 226409148,
 ["itemLevel"] = 626.375,
 ["classId"] = 8,
 },
 ["Lleandryn"] = {
-["total"] = 297887253,
+["total"] = 206343376,
 ["itemLevel"] = 624.375,
 ["classId"] = 3,
 },
 ["Artanos"] = {
-["total"] = 295966938,
+["total"] = 130866968,
 ["itemLevel"] = 624.25,
 ["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 176526904,
-["itemLevel"] = 612.5,
+["total"] = 82900013,
+["itemLevel"] = 611.8125,
 ["classId"] = 2,
 },
 ["Kadria"] = {
-["total"] = 498362525,
+["total"] = 258265914,
 ["itemLevel"] = 632.5,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 391687981,
+["total"] = 113658162,
 ["itemLevel"] = 622.75,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 312217513,
+["total"] = 142410059,
 ["itemLevel"] = 623.375,
 ["classId"] = 4,
 },
 ["Malimortui"] = {
-["total"] = 337035339,
-["itemLevel"] = 610.0625,
+["total"] = 167522306,
+["itemLevel"] = 609.4375,
 ["classId"] = 6,
 },
 ["Elayna"] = {
-["total"] = 395819286,
+["total"] = 236707837,
 ["itemLevel"] = 633.125,
 ["classId"] = 3,
 },
 },
 },
 {
-["date"] = "20:35 01/01/25",
+["date"] = "20:10 01/01/25",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
-["total"] = 237459783,
+["total"] = 221271013,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
 ["Erixi"] = {
-["total"] = 406656559,
+["total"] = 220973178,
 ["itemLevel"] = 628.25,
 ["classId"] = 7,
 },
 ["Artanos"] = {
-["total"] = 308465640,
+["total"] = 157849184,
 ["itemLevel"] = 625.375,
 ["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 193597692,
+["total"] = 76538763,
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
 ["Angélique"] = {
-["total"] = 301839213,
-["itemLevel"] = 618.9375,
+["total"] = 109750046,
+["itemLevel"] = 618.3125,
 ["classId"] = 12,
 },
 ["Elayna"] = {
-["total"] = 335567119,
+["total"] = 188457938,
 ["itemLevel"] = 634.75,
 ["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 282108908,
+["total"] = 140566793,
 ["itemLevel"] = 627.25,
 ["classId"] = 4,
 },
 ["Nil"] = {
-["total"] = 300395561,
+["total"] = 143525431,
 ["itemLevel"] = 623,
 ["classId"] = 10,
 },
 ["Hydeon"] = {
-["total"] = 348460008,
+["total"] = 156809184,
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
 ["Kadria"] = {
-["total"] = 133509378,
+["total"] = 71107790,
 ["itemLevel"] = 630.875,
 ["classId"] = 11,
 },
 },
-["elapsed"] = 314.3640000000014,
-["servertime"] = 1735785312,
+["elapsed"] = 148.6539999999804,
+["servertime"] = 1735783812,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 292033323,
+["total"] = 126931763,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Zephyrri"] = {
-["total"] = 454001548,
+["total"] = 170314223,
 ["itemLevel"] = 624.9375,
 ["classId"] = 7,
 },
 },
-["time"] = 1735785313,
+["time"] = 1735783813,
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1737600248,
-["elapsed"] = 342.6180000000168,
+["time"] = 1737598280,
+["elapsed"] = 169.6700000000419,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 144155095,
-["itemLevel"] = 78.25,
+["total"] = 66823651,
+["itemLevel"] = 631.5,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 248678060,
+["total"] = 131109075,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Zephyrri"] = {
-["total"] = 327273201,
-["itemLevel"] = 625.75,
-["classId"] = 7,
-},
 ["Permaphrost-Proudmoore"] = {
-["total"] = 527285842,
-["itemLevel"] = 634.9375,
+["total"] = 264379963,
+["itemLevel"] = 636.1875,
 ["classId"] = 8,
 },
 ["Artaius"] = {
-["total"] = 179165335,
+["total"] = 106711078,
 ["itemLevel"] = 597.3125,
 ["classId"] = 11,
 },
 ["Kadria"] = {
-["total"] = 178109379,
+["total"] = 96337863,
 ["itemLevel"] = 630.875,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 425588508,
+["total"] = 197911684,
 ["itemLevel"] = 626.8125,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 333812986,
+["total"] = 157532291,
 ["itemLevel"] = 628,
 ["classId"] = 4,
 },
 ["Estuary"] = {
-["total"] = 335221015,
-["itemLevel"] = 619.0625,
+["total"] = 158846717,
+["itemLevel"] = 618.4375,
 ["classId"] = 4,
 },
 ["Elayna"] = {
-["total"] = 348764814,
+["total"] = 195127159,
 ["itemLevel"] = 635.5625,
 ["classId"] = 3,
 },
 },
-["servertime"] = 1737600247,
+["servertime"] = 1737598279,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 294014511,
+["total"] = 132517390,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 289104181,
+["total"] = 115865373,
 ["itemLevel"] = 623.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "20:44 22/01/25",
+["date"] = "20:11 22/01/25",
 },
 {
 ["DAMAGER"] = {
 ["Sverdrup"] = {
-["total"] = 177309070,
+["total"] = 70515460,
 ["itemLevel"] = 616.8125,
 ["classId"] = 10,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 547381865,
+["total"] = 261075458,
 ["itemLevel"] = 635.8125,
 ["classId"] = 8,
 },
 ["Jiulianna"] = {
-["total"] = 344137086,
+["total"] = 153246966,
 ["itemLevel"] = 609.4375,
 ["classId"] = 2,
 },
 ["Gedan"] = {
-["total"] = 231924974,
-["itemLevel"] = 615.1875,
+["total"] = 145022825,
+["itemLevel"] = 615,
 ["classId"] = 11,
 },
 ["Artanos"] = {
-["total"] = 302379442,
+["total"] = 188875327,
 ["itemLevel"] = 627,
 ["classId"] = 8,
 },
 ["Xyza"] = {
-["total"] = 122286059,
+["total"] = 69757683,
 ["itemLevel"] = 558.4375,
 ["classId"] = 5,
 },
 ["Kadria"] = {
-["total"] = 199072145,
-["itemLevel"] = 631.2,
+["total"] = 78128055,
+["itemLevel"] = 630.875,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 433265111,
+["total"] = 198135811,
 ["itemLevel"] = 635.5625,
 ["classId"] = 3,
 },
 ["Burnadine"] = {
-["total"] = 213396817,
+["total"] = 141482342,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 },
-["time"] = 1738811236,
-["date"] = "21:07 05/02/25",
-["elapsed"] = 351.8019999999087,
-["servertime"] = 1738811236,
+["time"] = 1738808940,
+["date"] = "20:29 05/02/25",
+["elapsed"] = 176.6940000000177,
+["servertime"] = 1738808940,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 376910654,
-["itemLevel"] = 628.1333333333333,
+["total"] = 190279559,
+["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Zephyrri"] = {
-["total"] = 582236659,
+["total"] = 210760028,
 ["itemLevel"] = 628.5625,
 ["classId"] = 7,
 },
@@ -7846,464 +11013,3023 @@ DetailsDataStorage = {
 ["guild"] = "House Stalwart",
 },
 },
-[3010] = {
+[2902] = {
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 142599477,
+["itemLevel"] = 609.9375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 84838221,
+["itemLevel"] = 606.875,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 212870774,
+["itemLevel"] = 610.875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 120316007,
+["itemLevel"] = 598.875,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 111361642,
+["itemLevel"] = 606.125,
+["classId"] = 10,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 224087160,
+["itemLevel"] = 604.75,
+["classId"] = 5,
+},
+["Zea-ArgentDawn"] = {
+["total"] = 206872049,
+["itemLevel"] = 609,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 207088853,
+["itemLevel"] = 606.8125,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 310189731,
+["itemLevel"] = 613.25,
+["classId"] = 8,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 158539790,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 123411834,
+["itemLevel"] = 601.3125,
+["classId"] = 4,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 231240757,
+["itemLevel"] = 610.375,
+["classId"] = 8,
+},
+},
+["time"] = 1727488096,
+["date"] = "20:48 27/09/24",
+["elapsed"] = 403.0139999999665,
+["servertime"] = 1727488096,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 130163209,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 182856088,
+["itemLevel"] = 607.25,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "19:47 16/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 143724245,
+["itemLevel"] = 614.75,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 52766516,
+["itemLevel"] = 612.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 183204322,
+["itemLevel"] = 620.3125,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 119437781,
+["itemLevel"] = 608.9375,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 44232645,
+["itemLevel"] = 616.5625,
+["classId"] = 10,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 191964669,
+["itemLevel"] = 613.75,
+["classId"] = 5,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 225448275,
+["itemLevel"] = 621.5625,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 161672344,
+["itemLevel"] = 611.0625,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 207085602,
+["itemLevel"] = 614.6875,
+["classId"] = 7,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 75086273,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 210791537,
+["itemLevel"] = 615.0625,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 170398801,
+["itemLevel"] = 618.5625,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 192592320,
+["itemLevel"] = 615.25,
+["classId"] = 8,
+},
+},
+["elapsed"] = 247.2839999999851,
+["servertime"] = 1729126050,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 97481211,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 154961710,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["time"] = 1729126050,
+},
+{
+["date"] = "19:51 23/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 132321018,
+["itemLevel"] = 617.75,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 239370527,
+["itemLevel"] = 622.6875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 126171189,
+["itemLevel"] = 611,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 141905297,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 195703748,
+["itemLevel"] = 617.3125,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 203121630,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 16885452,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zea-ArgentDawn"] = {
+["total"] = 148901387,
+["itemLevel"] = 614.75,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 233841985,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 167151151,
+["itemLevel"] = 616,
+["classId"] = 4,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 90614565,
+["itemLevel"] = 612.4375,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 181418694,
+["itemLevel"] = 621.375,
+["classId"] = 1,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 312726378,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+},
+["elapsed"] = 275.6300000000047,
+["servertime"] = 1729731086,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 128946091,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 132349756,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["time"] = 1729731087,
+},
+{
+["date"] = "19:46 30/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 147841193,
+["itemLevel"] = 620.0625,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 66549542,
+["itemLevel"] = 617.8125,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 195408905,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 223095881,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 122461546,
+["itemLevel"] = 612.625,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 176960468,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 185273571,
+["itemLevel"] = 618.875,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 139870931,
+["itemLevel"] = 620.5625,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 97356291,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 188750680,
+["itemLevel"] = 617,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 218338577,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 200817351,
+["itemLevel"] = 620.125,
+["classId"] = 5,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 234496317,
+["itemLevel"] = 621.1875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 210292565,
+["itemLevel"] = 622.25,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 169599729,
+["itemLevel"] = 617.125,
+["classId"] = 8,
+},
+},
+["elapsed"] = 233.3080000000191,
+["servertime"] = 1730335586,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 87669762,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 119544994,
+["itemLevel"] = 613.125,
+["classId"] = 13,
+},
+},
+["time"] = 1730335587,
+},
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 155930642,
+["itemLevel"] = 623.375,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 217802202,
+["itemLevel"] = 628.1875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 127273477,
+["itemLevel"] = 618.125,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 86363130,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 130988203,
+["itemLevel"] = 619.4375,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 199741392,
+["itemLevel"] = 621.4375,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 101750410,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 203307688,
+["itemLevel"] = 620,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 248891100,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 231406016,
+["itemLevel"] = 625.9375,
+["classId"] = 11,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 116250612,
+["itemLevel"] = 631.3125,
+["classId"] = 12,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 190388579,
+["itemLevel"] = 623.0625,
+["classId"] = 3,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 250566159,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+},
+["time"] = 1731548875,
+["date"] = "19:47 13/11/24",
+["elapsed"] = 226.4290000000037,
+["servertime"] = 1731548875,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 71155237,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 138322839,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 101177306,
+["itemLevel"] = 618.9375,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1732153618,
+["guild"] = "House Stalwart",
+["elapsed"] = 201.6409999999996,
+["date"] = "19:46 20/11/24",
+["servertime"] = 1732153617,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 74378291,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 120811731,
+["itemLevel"] = 624.5,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 78172661,
+["itemLevel"] = 620.5,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 180173642,
+["itemLevel"] = 629.375,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 68003387,
+["itemLevel"] = 618.625,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 142063589,
+["itemLevel"] = 620.6875,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 128625993,
+["itemLevel"] = 622,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 164826832,
+["itemLevel"] = 621.875,
+["classId"] = 5,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 232612332,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 178340898,
+["itemLevel"] = 623.6875,
+["classId"] = 3,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 206283953,
+["itemLevel"] = 627.375,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 188506314,
+["itemLevel"] = 626.875,
+["classId"] = 1,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 250496094,
+["itemLevel"] = 627.8125,
+["classId"] = 8,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733363714,
+["elapsed"] = 211.4380000000238,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 136173226,
+["itemLevel"] = 626.9375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 78484661,
+["itemLevel"] = 623.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 174489989,
+["itemLevel"] = 631.0625,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 138092399,
+["itemLevel"] = 620.8125,
+["classId"] = 8,
+},
+["Tazz-ArgentDawn"] = {
+["total"] = 3468572,
+["itemLevel"] = 605.8125,
+["classId"] = 10,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 152830912,
+["itemLevel"] = 622.0625,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 238463571,
+["itemLevel"] = 623.0625,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 172020213,
+["itemLevel"] = 622.9375,
+["classId"] = 5,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 249319933,
+["itemLevel"] = 550.875,
+["classId"] = 8,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 194862586,
+["itemLevel"] = 630,
+["classId"] = 1,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 158938981,
+["itemLevel"] = 621.8125,
+["classId"] = 10,
+},
+},
+["servertime"] = 1733363713,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 146360546,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 92486604,
+["itemLevel"] = 630.25,
+["classId"] = 11,
+},
+},
+["date"] = "19:55 04/12/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733967978,
+["elapsed"] = 208.9130000000587,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 112235190,
+["itemLevel"] = 628.875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 81932709,
+["itemLevel"] = 625.3125,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 181581325,
+["itemLevel"] = 632.125,
+["classId"] = 3,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 220960175,
+["itemLevel"] = 625.1875,
+["classId"] = 8,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 276232842,
+["itemLevel"] = 631,
+["classId"] = 8,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 187830779,
+["itemLevel"] = 623.5,
+["classId"] = 1,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 130644960,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 208157606,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 241974335,
+["itemLevel"] = 631.875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 216363727,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 107510665,
+["itemLevel"] = 621,
+["classId"] = 8,
+},
+},
+["servertime"] = 1733967977,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 63729854,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 90101846,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
+["date"] = "19:46 11/12/24",
+},
+{
+["time"] = 1734573164,
+["guild"] = "House Stalwart",
+["elapsed"] = 209.0639999999985,
+["date"] = "19:52 18/12/24",
+["servertime"] = 1734573163,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 96194647,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 95446819,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 131054095,
+["itemLevel"] = 604.875,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 77457188,
+["itemLevel"] = 626.75,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 232894714,
+["itemLevel"] = 626.375,
+["classId"] = 8,
+},
+["Lleandryn"] = {
+["total"] = 174052136,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 155685153,
+["itemLevel"] = 624.25,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 93834672,
+["itemLevel"] = 611.8125,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 258040127,
+["itemLevel"] = 632.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 211076751,
+["itemLevel"] = 633.125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 173415304,
+["itemLevel"] = 623.375,
+["classId"] = 4,
+},
+["Malimortui"] = {
+["total"] = 134998414,
+["itemLevel"] = 609.6666666666666,
+["classId"] = 6,
+},
+["Erixi"] = {
+["total"] = 202715972,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1735354111,
+["guild"] = "House Stalwart",
+["elapsed"] = 199.7210000000196,
+["date"] = "20:48 27/12/24",
+["servertime"] = 1735354110,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 97318978,
+["itemLevel"] = 156.5,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 105150802,
+["itemLevel"] = 623.1875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 73136171,
+["itemLevel"] = 628.625,
+["classId"] = 11,
+},
+["Confluence"] = {
+["total"] = 90441469,
+["itemLevel"] = 613.75,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 235798297,
+["itemLevel"] = 633.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 193482580,
+["itemLevel"] = 633.9375,
+["classId"] = 3,
+},
+["Malimortui"] = {
+["total"] = 139913693,
+["itemLevel"] = 618.6666666666666,
+["classId"] = 6,
+},
+["Giulietta"] = {
+["total"] = 190804982,
+["itemLevel"] = 633.5,
+["classId"] = 1,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 235111773,
+["itemLevel"] = 632.3125,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 132421557,
+["itemLevel"] = 624.0625,
+["classId"] = 8,
+},
+},
+},
+{
+["date"] = "19:52 01/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Permaphrost-Proudmoore"] = {
+["total"] = 229337389,
+["itemLevel"] = 635.375,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 236194283,
+["itemLevel"] = 628.25,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 111599902,
+["itemLevel"] = 625.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 96713956,
+["itemLevel"] = 619.3125,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 81358643,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 211323110,
+["itemLevel"] = 634.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 183505296,
+["itemLevel"] = 627.25,
+["classId"] = 4,
+},
+["Nil"] = {
+["total"] = 123595829,
+["itemLevel"] = 623,
+["classId"] = 10,
+},
+["Hydeon"] = {
+["total"] = 167535789,
+["itemLevel"] = 623.8125,
+["classId"] = 5,
+},
+["Angélique"] = {
+["total"] = 145086264,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
+},
+},
+["elapsed"] = 183.0510000000068,
+["servertime"] = 1735782742,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 71590747,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 153938813,
+["itemLevel"] = 624.9375,
+["classId"] = 7,
+},
+},
+["time"] = 1735782742,
+},
+{
+["date"] = "19:49 22/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 90240049,
+["itemLevel"] = 631.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 136331532,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Artaius"] = {
+["total"] = 105915283,
+["itemLevel"] = 597.3125,
+["classId"] = 11,
+},
+["Kadria"] = {
+["total"] = 87928732,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 275832117,
+["itemLevel"] = 628.8125,
+["classId"] = 7,
+},
+["Estuary"] = {
+["total"] = 196081749,
+["itemLevel"] = 618.4375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 146449140,
+["itemLevel"] = 636.625,
+["classId"] = 12,
+},
+["Rylacus"] = {
+["total"] = 184440942,
+["itemLevel"] = 628,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 226728941,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+},
+["elapsed"] = 254.9329999999609,
+["servertime"] = 1737596997,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 102682475,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 143231729,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["time"] = 1737596998,
+},
+{
+["DAMAGER"] = {
+["Burnadine"] = {
+["total"] = 150688134,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 280251065,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Jiulianna"] = {
+["total"] = 179627399,
+["itemLevel"] = 608.625,
+["classId"] = 2,
+},
+["Gedan"] = {
+["total"] = 101373811,
+["itemLevel"] = 615,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 180516907,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Xyza"] = {
+["total"] = 43930636,
+["itemLevel"] = 546,
+["classId"] = 5,
+},
+["Kadria"] = {
+["total"] = 127889422,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 212799201,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Sverdrup"] = {
+["total"] = 97636856,
+["itemLevel"] = 617.375,
+["classId"] = 10,
+},
+},
+["time"] = 1738807214,
+["date"] = "20:00 05/02/25",
+["elapsed"] = 246.3719999999739,
+["servertime"] = 1738807213,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 166516747,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 213392665,
+["itemLevel"] = 628.5625,
+["classId"] = 7,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3129] = {
 {
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 465327596,
+["total"] = 346587198,
+["itemLevel"] = 692.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 133255959,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1141115439,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 777419311,
+["itemLevel"] = 694.75,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 951553045,
+["itemLevel"] = 689.625,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 133036166,
+["itemLevel"] = 682.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 974512786,
+["itemLevel"] = 692.375,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1241799676,
+["itemLevel"] = 688.375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1186858946,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 720083114,
+["itemLevel"] = 683.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1569692516,
+["itemLevel"] = 694.9375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 625241201,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1347568845,
+["itemLevel"] = 697.5625,
+["classId"] = 6,
+},
+},
+["time"] = 1755916814,
+["date"] = "21:40 22/08/25",
+["elapsed"] = 487.9779999998864,
+["servertime"] = 1755916813,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 252350383,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1004744979,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1817238798,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "21:44 27/08/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 415757691,
+["itemLevel"] = 696.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 140800438,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1101699650,
+["itemLevel"] = 687.875,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1618634940,
+["itemLevel"] = 705.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 540285085,
+["itemLevel"] = 684.6875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 762876974,
+["itemLevel"] = 694.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1189887306,
+["itemLevel"] = 699.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 895638230,
+["itemLevel"] = 698.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 684130569,
+["itemLevel"] = 685.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1478895466,
+["itemLevel"] = 698.75,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 768463131,
+["itemLevel"] = 695.4375,
+["classId"] = 7,
+},
+["Sverdrup"] = {
+["total"] = 684790353,
+["itemLevel"] = 700.9375,
+["classId"] = 10,
+},
+},
+["elapsed"] = 439.2120000000577,
+["servertime"] = 1756349051,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 796574434,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 949160741,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1716033326,
+["itemLevel"] = 706.875,
+["classId"] = 11,
+},
+},
+["time"] = 1756349052,
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 374815760,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 99243643,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1023632175,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 1279593983,
+["itemLevel"] = 702.6875,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 995236841,
+["itemLevel"] = 709.75,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 511057393,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 765790648,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 948431813,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 900142343,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 746768773,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1203814525,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 549329338,
+["itemLevel"] = 703.5,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1289035280,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756952263,
+["date"] = "21:17 03/09/25",
+["elapsed"] = 293.8070000000007,
+["servertime"] = 1756952262,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 718872791,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 350165566,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1253576286,
+["itemLevel"] = 712.125,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1758156367,
+["guild"] = "House Stalwart",
+["elapsed"] = 294.804999999993,
+["date"] = "19:46 17/09/25",
+["servertime"] = 1758156367,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 624459065,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 693619242,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 937515994,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 287094386,
+["itemLevel"] = 713.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 632144989,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 644013981,
+["itemLevel"] = 693.625,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 142116535,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 1279550424,
+["itemLevel"] = 711.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1178236256,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 819183132,
+["itemLevel"] = 703.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1285055261,
+["itemLevel"] = 714.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 936916095,
+["itemLevel"] = 699.125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1130850274,
+["itemLevel"] = 708.875,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "19:47 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 344185282,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 607073422,
+["itemLevel"] = 709.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1200351603,
+["itemLevel"] = 714.4375,
+["classId"] = 6,
+},
+["Erixi"] = {
+["total"] = 1106683035,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
+},
+["Nil"] = {
+["total"] = 810981744,
+["itemLevel"] = 700.6875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1213691195,
+["itemLevel"] = 713.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 771837023,
+["itemLevel"] = 712.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 736469914,
+["itemLevel"] = 704.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1229321265,
+["itemLevel"] = 715.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1105081137,
+["itemLevel"] = 707.75,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 188195830,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["elapsed"] = 270.7609999999986,
+["servertime"] = 1758761263,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 490899742,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 623422808,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 938304141,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
+},
+},
+["time"] = 1758761264,
+},
+{
+["date"] = "19:49 01/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 381461759,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 561784371,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 668254557,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 192706378,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 1110383646,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1021609218,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 744138090,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1220061563,
+["itemLevel"] = 716.0625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1034385436,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1045363029,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 258.3709999999846,
+["servertime"] = 1759366152,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 758253917,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 669846401,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+},
+["time"] = 1759366153,
+},
+{
+["date"] = "19:44 08/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 396351942,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 684028315,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 1023963646,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 679231101,
+["itemLevel"] = 701.5,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 847682855,
+["itemLevel"] = 705.625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1189310677,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 974681421,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 791010251,
+["itemLevel"] = 706.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1467334302,
+["itemLevel"] = 718.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1197628265,
+["itemLevel"] = 714.6875,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 416788945,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["elapsed"] = 284.9020000000019,
+["servertime"] = 1759970663,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 706236517,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 638016877,
+["itemLevel"] = 710.875,
+["classId"] = 13,
+},
+},
+["time"] = 1759970663,
+},
+{
+["time"] = 1760575595,
+["guild"] = "House Stalwart",
+["elapsed"] = 270.2540000000008,
+["date"] = "19:46 15/10/25",
+["servertime"] = 1760575594,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 456577445,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 623624250,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1018074692,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 349694479,
+["itemLevel"] = 716.125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 672173434,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 710478714,
+["itemLevel"] = 701.9375,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 591511502,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 1040543748,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 785658957,
+["itemLevel"] = 707.625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1337078926,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1238678195,
+["itemLevel"] = 717.125,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1034502103,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761180621,
+["elapsed"] = 314.9510000000009,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 410917359,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 810637708,
+["itemLevel"] = 716.3125,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 277459555,
+["itemLevel"] = 691.4375,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 785918723,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 143050817,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 865000037,
+["itemLevel"] = 718.4375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 749268827,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 499542057,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1473781671,
+["itemLevel"] = 721.375,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1423811285,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1265300121,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+["servertime"] = 1761180620,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1068958077,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 540026006,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+},
+["date"] = "19:50 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 414188919,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 193707168,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Artanos"] = {
+["total"] = 502672124,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 1559459518,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 317814199,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 898303372,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 984632463,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Heikuro"] = {
+["total"] = 1471218526,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 788802447,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761785078,
+["date"] = "19:44 29/10/25",
+["elapsed"] = 325.8769999999786,
+["servertime"] = 1761785077,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 184940890,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1269461841,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3131] = {
+{
+["time"] = 1756519257,
+["guild"] = "House Stalwart",
+["elapsed"] = 339.9819999998435,
+["date"] = "21:00 29/08/25",
+["servertime"] = 1756519256,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 859334003,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 815716052,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1511049976,
+["itemLevel"] = 707.5,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 485218051,
+["itemLevel"] = 699.75,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 688272007,
+["itemLevel"] = 700.9375,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 1005266706,
+["itemLevel"] = 696.75,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1364934199,
+["itemLevel"] = 706.6875,
+["classId"] = 6,
+},
+["Nil"] = {
+["total"] = 286250559,
+["itemLevel"] = 694.8125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1093263904,
+["itemLevel"] = 700.375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1333492205,
+["itemLevel"] = 705.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 712468513,
+["itemLevel"] = 687.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1469646367,
+["itemLevel"] = 701.4375,
+["classId"] = 1,
+},
+["Taise-Area52"] = {
+["total"] = 1523024971,
+["itemLevel"] = 702.5,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 1199976614,
+["itemLevel"] = 700.375,
+["classId"] = 7,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 508741050,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 229154167,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1192253699,
+["itemLevel"] = 700.375,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 1539029992,
+["itemLevel"] = 702.6875,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 1110502416,
+["itemLevel"] = 709.75,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 607271472,
+["itemLevel"] = 687.875,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 229884414,
+["itemLevel"] = 698.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1218712831,
+["itemLevel"] = 702.75,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1096171656,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 756708536,
+["itemLevel"] = 694.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1500990558,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 596630156,
+["itemLevel"] = 703.5,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1398128154,
+["itemLevel"] = 709.4375,
+["classId"] = 6,
+},
+},
+["time"] = 1756953091,
+["date"] = "21:31 03/09/25",
+["elapsed"] = 324.0979999999981,
+["servertime"] = 1756953090,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 673241682,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 934608445,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1544923508,
+["itemLevel"] = 712.125,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1758157352,
+["guild"] = "House Stalwart",
+["elapsed"] = 410.2300000000396,
+["date"] = "20:02 17/09/25",
+["servertime"] = 1758157351,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 998031864,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 911999472,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1418300864,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 828231421,
+["itemLevel"] = 713.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1151297610,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1731768098,
+["itemLevel"] = 713.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 980399820,
+["itemLevel"] = 693.625,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 434878440,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1625588472,
+["itemLevel"] = 711.3125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1912826881,
+["itemLevel"] = 708.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 931950928,
+["itemLevel"] = 703.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 336237223,
+["itemLevel"] = 714.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1081758948,
+["itemLevel"] = 699.125,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 114248344,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+},
+{
+["date"] = "20:00 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 488329721,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 67535820,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1249954713,
+["itemLevel"] = 714.4375,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 998861878,
+["itemLevel"] = 712.25,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 484675417,
+["itemLevel"] = 700.6875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1371560733,
+["itemLevel"] = 713.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1334583081,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 968627258,
+["itemLevel"] = 704.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1491814359,
+["itemLevel"] = 715.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1398063317,
+["itemLevel"] = 707.75,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 781340281,
+["itemLevel"] = 709.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 288.7839999999851,
+["servertime"] = 1758762056,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 637500901,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 721787557,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1139530596,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
+},
+},
+["time"] = 1758762057,
+},
+{
+["date"] = "20:05 01/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 458707240,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 597600001,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1499854749,
+["itemLevel"] = 716.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 740447380,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 20803068,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 1203296178,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1089086658,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 896104004,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1360741584,
+["itemLevel"] = 716.0625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1332291453,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1214572600,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 260.5570000000298,
+["servertime"] = 1759367136,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 846233003,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 952267402,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+},
+["time"] = 1759367137,
+},
+{
+["date"] = "19:56 08/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 497290483,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 825119956,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 1344744084,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 925309051,
+["itemLevel"] = 701.5,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 940899587,
+["itemLevel"] = 705.625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1382771401,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1299187465,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1008750256,
+["itemLevel"] = 706.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1670765536,
+["itemLevel"] = 718.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1585434351,
+["itemLevel"] = 714.6875,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 111866747,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["elapsed"] = 313.689000000013,
+["servertime"] = 1759971366,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 761762701,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1103377963,
+["itemLevel"] = 710.875,
+["classId"] = 13,
+},
+},
+["time"] = 1759971367,
+},
+{
+["time"] = 1760576315,
+["guild"] = "House Stalwart",
+["elapsed"] = 335.1119999999937,
+["date"] = "19:58 15/10/25",
+["servertime"] = 1760576315,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 741245160,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 925192544,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1133657929,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 507506152,
+["itemLevel"] = 716.125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1003757769,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 972765670,
+["itemLevel"] = 701.9375,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 112862845,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 1401529005,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1108373167,
+["itemLevel"] = 707.625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1673944702,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1885314732,
+["itemLevel"] = 717.125,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1418541951,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761181378,
+["elapsed"] = 250.2220000000671,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 491015149,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 154701130,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1210094841,
+["itemLevel"] = 720.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 691144418,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 735867787,
+["itemLevel"] = 716.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1316286655,
+["itemLevel"] = 718.4375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1146617774,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 994105545,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1493015786,
+["itemLevel"] = 721.375,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1358296046,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1231315441,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+["servertime"] = 1761181377,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 669859644,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 706507396,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 908284840,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:02 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 586265841,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 178527223,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Artanos"] = {
+["total"] = 991950148,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 1784686138,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1070298125,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 366532449,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 1031893442,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Heikuro"] = {
+["total"] = 1668823752,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 918977166,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761785856,
+["date"] = "19:57 29/10/25",
+["elapsed"] = 348.935999999987,
+["servertime"] = 1761785855,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1106718014,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 971266948,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3009] = {
+{
+["date"] = "22:22 14/03/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 266194087,
+["itemLevel"] = 631.25,
+["classId"] = 11,
+},
+["Confluence"] = {
+["total"] = 330319659,
+["itemLevel"] = 645.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 548205474,
+["itemLevel"] = 638.375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 517110540,
+["itemLevel"] = 634.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 433054508,
+["itemLevel"] = 637.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 538145085,
+["itemLevel"] = 636.0625,
+["classId"] = 1,
+},
+["Zephyrri"] = {
+["total"] = 691024664,
+["itemLevel"] = 650.25,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 423855937,
+["itemLevel"] = 651.875,
+["classId"] = 12,
+},
+},
+["elapsed"] = 375.3850000000093,
+["servertime"] = 1742008941,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 367493998,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1742008942,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1742438174,
+["elapsed"] = 324.755999999994,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 555456492,
 ["itemLevel"] = 644.5625,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 37036234,
+["total"] = 279744656,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Zephyrri"] = {
-["total"] = 483562145,
+["total"] = 629823067,
 ["itemLevel"] = 652.8125,
 ["classId"] = 7,
 },
-["Giulietta"] = {
-["total"] = 413072356,
-["itemLevel"] = 642.375,
-["classId"] = 1,
-},
-["Nil"] = {
-["total"] = 91193163,
-["itemLevel"] = 626.625,
-["classId"] = 10,
+["Confluence"] = {
+["total"] = 358226515,
+["itemLevel"] = 654.6875,
+["classId"] = 2,
 },
 ["Kadria"] = {
-["total"] = 522875921,
-["itemLevel"] = 657.5625,
+["total"] = 708246536,
+["itemLevel"] = 651.5,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 533451175,
-["itemLevel"] = 655.3125,
+["total"] = 500570783,
+["itemLevel"] = 654.3125,
 ["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 386865863,
-["itemLevel"] = 642.6875,
+["total"] = 437876796,
+["itemLevel"] = 641.6875,
 ["classId"] = 4,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 307081275,
-["itemLevel"] = 658.25,
+["total"] = 365626691,
+["itemLevel"] = 656.25,
 ["classId"] = 12,
 },
 ["Erixi"] = {
-["total"] = 387086533,
-["itemLevel"] = 644.8125,
+["total"] = 541426147,
+["itemLevel"] = 642.4375,
 ["classId"] = 7,
 },
-["Confluence"] = {
-["total"] = 289708026,
-["itemLevel"] = 654.9375,
-["classId"] = 2,
+["Giulietta"] = {
+["total"] = 551613626,
+["itemLevel"] = 642.375,
+["classId"] = 1,
 },
 },
-["time"] = 1742610339,
-["date"] = "21:25 21/03/25",
-["elapsed"] = 393.4040000000005,
-["servertime"] = 1742610338,
+["servertime"] = 1742438173,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 394647823,
+["total"] = 319131068,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 252504439,
+["itemLevel"] = 633.875,
+["classId"] = 13,
 },
-["guild"] = "House Stalwart",
+},
+["date"] = "21:36 19/03/25",
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1743043458,
-["elapsed"] = 337.9060000000027,
+["time"] = 1743042763,
+["elapsed"] = 313.1720000000059,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 175703536,
+["total"] = 260960595,
 ["itemLevel"] = 655.0625,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 25302137,
+["total"] = 43491852,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Zephyrri"] = {
-["total"] = 571696891,
+["total"] = 704982315,
 ["itemLevel"] = 658.75,
 ["classId"] = 7,
 },
 ["Confluence"] = {
-["total"] = 276314714,
+["total"] = 336766496,
 ["itemLevel"] = 658,
 ["classId"] = 2,
 },
 ["Kadria"] = {
-["total"] = 529931655,
+["total"] = 594484607,
 ["itemLevel"] = 660.25,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 580954030,
-["itemLevel"] = 663.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 571438843,
+["itemLevel"] = 648.75,
+["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 233466817,
+["total"] = 447003757,
 ["itemLevel"] = 645.5625,
 ["classId"] = 4,
 },
 ["Giulietta"] = {
-["total"] = 548427551,
+["total"] = 696879532,
 ["itemLevel"] = 646.9375,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 418015386,
-["itemLevel"] = 648.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 776128945,
+["itemLevel"] = 663.1875,
+["classId"] = 3,
 },
 },
-["servertime"] = 1743043457,
+["servertime"] = 1743042762,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 134005418,
+["total"] = 332728224,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 171810143,
+["total"] = 199746290,
 ["itemLevel"] = 638.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "21:44 26/03/25",
+["date"] = "21:32 26/03/25",
 },
 {
-["time"] = 1744248452,
+["time"] = 1744247932,
 ["guild"] = "House Stalwart",
-["elapsed"] = 271.4589999999153,
-["date"] = "20:27 09/04/25",
-["servertime"] = 1744248451,
+["elapsed"] = 265.7539999999572,
+["date"] = "20:18 09/04/25",
+["servertime"] = 1744247931,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 232933563,
+["total"] = 380090908,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 222019643,
+["total"] = 311096679,
 ["itemLevel"] = 646.9375,
 ["classId"] = 13,
 },
 ["Mykellqt-Sargeras"] = {
-["total"] = 540768535,
+["total"] = 529030394,
 ["itemLevel"] = 650.3125,
 ["classId"] = 5,
 },
 },
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 155119307,
+["total"] = 200357372,
 ["itemLevel"] = 665.75,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 101242050,
+["total"] = 222979703,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Zephyrri"] = {
-["total"] = 562555199,
+["total"] = 668608691,
 ["itemLevel"] = 665.5,
 ["classId"] = 7,
 },
 ["Confluence"] = {
-["total"] = 250497132,
+["total"] = 313158034,
 ["itemLevel"] = 665.6875,
 ["classId"] = 2,
 },
 ["Kadria"] = {
-["total"] = 228654243,
+["total"] = 581395675,
 ["itemLevel"] = 665.5,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 436336596,
+["total"] = 513868353,
 ["itemLevel"] = 659.375,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 298993846,
+["total"] = 394240328,
 ["itemLevel"] = 650.75,
 ["classId"] = 4,
 },
 ["Giulietta"] = {
-["total"] = 461623601,
-["itemLevel"] = 659,
+["total"] = 495728094,
+["itemLevel"] = 659.4375,
 ["classId"] = 1,
 },
 ["Elayna"] = {
-["total"] = 461911032,
+["total"] = 590136693,
 ["itemLevel"] = 665.375,
 ["classId"] = 3,
 },
 },
 },
 {
-["time"] = 1747270312,
+["time"] = 1747269861,
 ["guild"] = "House Stalwart",
-["elapsed"] = 222.4629999999888,
-["date"] = "19:51 14/05/25",
-["servertime"] = 1747270311,
+["elapsed"] = 246.3379999999888,
+["date"] = "19:44 14/05/25",
+["servertime"] = 1747269860,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 309982283,
+["total"] = 335720484,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 },
 ["DAMAGER"] = {
 ["Rylacus"] = {
-["total"] = 275350754,
+["total"] = 427342559,
 ["itemLevel"] = 661.0625,
 ["classId"] = 4,
 },
 ["Burnadine"] = {
-["total"] = 106014497,
+["total"] = 342100998,
 ["itemLevel"] = 657.75,
 ["classId"] = 9,
 },
 ["Kadria"] = {
-["total"] = 196810770,
+["total"] = 204327883,
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 487631644,
+["total"] = 576575240,
 ["itemLevel"] = 673.3125,
 ["classId"] = 3,
 },
 ["Anguis"] = {
-["total"] = 348583223,
+["total"] = 455808731,
 ["itemLevel"] = 651.375,
 ["classId"] = 13,
 },
 ["Giulietta"] = {
-["total"] = 547348634,
+["total"] = 518820513,
 ["itemLevel"] = 672.625,
 ["classId"] = 1,
 },
 ["Confluence"] = {
-["total"] = 257220486,
+["total"] = 356612988,
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
 ["Erixi"] = {
-["total"] = 430923056,
+["total"] = 512891248,
 ["itemLevel"] = 665.75,
 ["classId"] = 7,
 },
 },
 },
 {
-["date"] = "19:49 28/05/25",
+["date"] = "19:41 28/05/25",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Artanos"] = {
-["total"] = 54139016,
+["total"] = 259719248,
 ["itemLevel"] = 637.875,
 ["classId"] = 8,
 },
 ["Burnadine"] = {
-["total"] = 136537123,
+["total"] = 402765010,
 ["itemLevel"] = 661.1875,
 ["classId"] = 9,
 },
 ["Keydan"] = {
-["total"] = 195881867,
+["total"] = 226986998,
 ["itemLevel"] = 673.8125,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 550561866,
+["total"] = 645958920,
 ["itemLevel"] = 675.5625,
 ["classId"] = 3,
 },
 ["Anguis"] = {
-["total"] = 426871973,
+["total"] = 525599866,
 ["itemLevel"] = 658,
 ["classId"] = 13,
 },
 ["Giulietta"] = {
-["total"] = 599216912,
+["total"] = 515312581,
 ["itemLevel"] = 676.625,
 ["classId"] = 1,
 },
 ["Confluence"] = {
-["total"] = 272289401,
+["total"] = 356495833,
 ["itemLevel"] = 677,
 ["classId"] = 2,
 },
 ["Erixi"] = {
-["total"] = 524378774,
+["total"] = 591349450,
 ["itemLevel"] = 673.3125,
 ["classId"] = 7,
 },
 },
-["elapsed"] = 239.7930000000051,
-["servertime"] = 1748479779,
+["elapsed"] = 237.6929999999993,
+["servertime"] = 1748479265,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 233127608,
+["total"] = 311615462,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 },
-["time"] = 1748479780,
+["time"] = 1748479266,
 },
 {
-["date"] = "19:55 04/06/25",
+["date"] = "19:46 04/06/25",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 535134256,
+["total"] = 650229827,
 ["itemLevel"] = 675.75,
 ["classId"] = 11,
 },
 ["Sverdrup"] = {
-["total"] = 111349607,
-["itemLevel"] = 629,
+["total"] = 128038524,
+["itemLevel"] = 625.25,
 ["classId"] = 10,
 },
 ["Anguis"] = {
-["total"] = 486621892,
+["total"] = 562424472,
 ["itemLevel"] = 661.5,
 ["classId"] = 13,
 },
 ["Artanos"] = {
-["total"] = 67228168,
+["total"] = 295394718,
 ["itemLevel"] = 641.4375,
 ["classId"] = 8,
 },
 ["Kadria"] = {
-["total"] = 458596615,
+["total"] = 606136782,
 ["itemLevel"] = 673.4375,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 482241390,
+["total"] = 674093861,
 ["itemLevel"] = 675.125,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 299044367,
+["total"] = 368148148,
 ["itemLevel"] = 664.125,
 ["classId"] = 4,
 },
 ["Giulietta"] = {
-["total"] = 578454663,
+["total"] = 586765756,
 ["itemLevel"] = 678.0625,
 ["classId"] = 1,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 264372412,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
 ["Elayna"] = {
-["total"] = 523350278,
+["total"] = 569258204,
 ["itemLevel"] = 676.75,
 ["classId"] = 3,
 },
+["Beamindemon-Proudmoore"] = {
+["total"] = 265708306,
+["itemLevel"] = 675,
+["classId"] = 12,
 },
-["elapsed"] = 218.5050000000047,
-["servertime"] = 1749084931,
+},
+["elapsed"] = 188.774000000034,
+["servertime"] = 1749084394,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 296444815,
+["total"] = 273869495,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 245990755,
+["total"] = 251504027,
 ["itemLevel"] = 655.6875,
 ["classId"] = 13,
 },
 },
-["time"] = 1749084931,
+["time"] = 1749084394,
 },
 {
-["time"] = 1749689884,
+["time"] = 1749689428,
 ["guild"] = "House Stalwart",
-["elapsed"] = 232.8280000000086,
-["date"] = "19:58 11/06/25",
-["servertime"] = 1749689884,
+["elapsed"] = 195.2889999999898,
+["date"] = "19:50 11/06/25",
+["servertime"] = 1749689427,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 374448138,
+["total"] = 355025405,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 269275209,
+["total"] = 288181619,
 ["itemLevel"] = 656.875,
 ["classId"] = 13,
 },
 },
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 278071279,
+["total"] = 558189541,
 ["itemLevel"] = 676.9375,
 ["classId"] = 11,
 },
 ["Anguis"] = {
-["total"] = 501727302,
+["total"] = 579659389,
 ["itemLevel"] = 662.9375,
 ["classId"] = 13,
 },
 ["Angelica"] = {
-["total"] = 406081648,
+["total"] = 372666335,
 ["itemLevel"] = 653.5,
 ["classId"] = 10,
 },
 ["Artanos"] = {
-["total"] = 94251534,
+["total"] = 366446284,
 ["itemLevel"] = 650.375,
 ["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 277346669,
+["total"] = 314226784,
 ["itemLevel"] = 678.375,
 ["classId"] = 2,
 },
 ["Kadria"] = {
-["total"] = 504011265,
+["total"] = 653034497,
 ["itemLevel"] = 677.125,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 526116330,
+["total"] = 478459227,
 ["itemLevel"] = 677.125,
 ["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 333253064,
+["total"] = 387488754,
 ["itemLevel"] = 665,
 ["classId"] = 4,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 88111846,
+["total"] = 264728469,
 ["itemLevel"] = 676.625,
 ["classId"] = 12,
 },
 ["Erixi"] = {
-["total"] = 404572347,
+["total"] = 533310071,
 ["itemLevel"] = 675.125,
 ["classId"] = 7,
 },
@@ -8311,208 +14037,1329 @@ DetailsDataStorage = {
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1750294480,
-["elapsed"] = 224.0089999999618,
+["time"] = 1750293950,
+["elapsed"] = 233.7050000000745,
 ["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 190075668,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
+["Artanos"] = {
+["total"] = 427999858,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
 },
 ["Sverdrup"] = {
-["total"] = 119179804,
+["total"] = 186024432,
 ["itemLevel"] = 639.75,
 ["classId"] = 10,
 },
 ["Anguis"] = {
-["total"] = 604033615,
+["total"] = 671657440,
 ["itemLevel"] = 668.4375,
 ["classId"] = 13,
 },
-["Angelica"] = {
-["total"] = 441606091,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 107838661,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
 ["Erixi"] = {
-["total"] = 460920727,
+["total"] = 593933349,
 ["itemLevel"] = 675.5625,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 310938306,
+["total"] = 353101198,
 ["itemLevel"] = 665.9375,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 280098352,
-["itemLevel"] = 681.3125,
-["classId"] = 12,
+["Angelica"] = {
+["total"] = 503477422,
+["itemLevel"] = 659.875,
+["classId"] = 10,
 },
 ["Elayna"] = {
-["total"] = 584671268,
+["total"] = 762280847,
 ["itemLevel"] = 678.375,
 ["classId"] = 3,
 },
+["Keydan"] = {
+["total"] = 245314470,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
 },
-["servertime"] = 1750294479,
+},
+["servertime"] = 1750293949,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 205548436,
+["total"] = 304843583,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 274105851,
+["total"] = 264702913,
 ["itemLevel"] = 659.4375,
 ["classId"] = 13,
 },
 },
-["date"] = "19:54 18/06/25",
+["date"] = "19:45 18/06/25",
 },
 {
-["date"] = "19:58 25/06/25",
+["date"] = "19:48 25/06/25",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 164010398,
+["total"] = 232644031,
 ["itemLevel"] = 676.3125,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 156565898,
+["total"] = 298191394,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Urklesnurkle"] = {
-["total"] = 216193494,
+["total"] = 313361821,
 ["itemLevel"] = 0,
 ["classId"] = 8,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 422692116,
+["total"] = 539281126,
 ["itemLevel"] = 668.25,
 ["classId"] = 8,
 },
 ["Anguis"] = {
-["total"] = 470815009,
+["total"] = 327418953,
 ["itemLevel"] = 672.5,
 ["classId"] = 13,
 },
 ["Angelica"] = {
-["total"] = 367247862,
+["total"] = 511491076,
 ["itemLevel"] = 667.3125,
 ["classId"] = 10,
 },
 ["Artanos"] = {
-["total"] = 220359002,
+["total"] = 352610069,
 ["itemLevel"] = 657.125,
 ["classId"] = 8,
 },
 ["Kadria"] = {
-["total"] = 479628064,
+["total"] = 720305018,
 ["itemLevel"] = 679.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 444896844,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 283896187,
-["itemLevel"] = 668.5,
-["classId"] = 4,
-},
-["Sverdrup"] = {
-["total"] = 167390125,
-["itemLevel"] = 645.75,
-["classId"] = 10,
-},
 ["Elayna"] = {
-["total"] = 496240026,
+["total"] = 696180578,
 ["itemLevel"] = 679.375,
 ["classId"] = 3,
 },
+["Rylacus"] = {
+["total"] = 340521900,
+["itemLevel"] = 668.5,
+["classId"] = 4,
 },
-["elapsed"] = 202.4279999998398,
-["servertime"] = 1750899524,
+["Erixi"] = {
+["total"] = 663539362,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Sverdrup"] = {
+["total"] = 242705557,
+["itemLevel"] = 645.75,
+["classId"] = 10,
+},
+},
+["elapsed"] = 198.5349999999162,
+["servertime"] = 1750898924,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 417943845,
+["total"] = 388359013,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 285989589,
+["total"] = 459413106,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 },
-["time"] = 1750899524,
+["time"] = 1750898925,
 },
 {
 ["DAMAGER"] = {
 ["Artanos"] = {
-["total"] = 230787919,
+["total"] = 409548195,
 ["itemLevel"] = 658.5,
 ["classId"] = 8,
 },
 ["Sverdrup"] = {
-["total"] = 230362795,
+["total"] = 231198162,
 ["itemLevel"] = 666.8125,
 ["classId"] = 10,
 },
 ["Urklesnurkle"] = {
-["total"] = 286119955,
+["total"] = 401868254,
 ["itemLevel"] = 0,
 ["classId"] = 8,
 },
 ["Errya"] = {
-["total"] = 62087734,
-["itemLevel"] = 622.125,
+["total"] = 88117502,
+["itemLevel"] = 619.6875,
 ["classId"] = 2,
 },
 ["Anguis"] = {
-["total"] = 557568961,
+["total"] = 711430697,
 ["itemLevel"] = 674.3125,
 ["classId"] = 13,
 },
 ["Angelica"] = {
-["total"] = 444073046,
+["total"] = 551615720,
 ["itemLevel"] = 667.3125,
 ["classId"] = 10,
 },
 ["Erixi"] = {
-["total"] = 542634470,
+["total"] = 656942989,
 ["itemLevel"] = 675.75,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 277096933,
+["total"] = 419669573,
 ["itemLevel"] = 669.25,
 ["classId"] = 4,
 },
 },
-["time"] = 1751504353,
-["date"] = "19:59 02/07/25",
-["elapsed"] = 217.9740000001621,
-["servertime"] = 1751504353,
+["time"] = 1751503765,
+["date"] = "19:49 02/07/25",
+["elapsed"] = 228.8479999999981,
+["servertime"] = 1751503764,
 ["HEALER"] = {
 ["Kadria"] = {
-["total"] = 346783973,
+["total"] = 339098668,
 ["itemLevel"] = 680.4375,
 ["classId"] = 11,
 },
 ["Bleddwen"] = {
-["total"] = 333449413,
+["total"] = 500790949,
 ["itemLevel"] = 0,
 ["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 537483093,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 249160095,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 532233946,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 667128182,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 376056519,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 198282284,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 539036261,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 402222004,
+["itemLevel"] = 670,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 532395007,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+["Jullianna"] = {
+["total"] = 374810623,
+["itemLevel"] = 665,
+["classId"] = 5,
+},
+},
+["time"] = 1752108305,
+["date"] = "19:45 09/07/25",
+["elapsed"] = 163.801999999996,
+["servertime"] = 1752108305,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 329734613,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 293757314,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1752713386,
+["guild"] = "House Stalwart",
+["elapsed"] = 192.8509999999951,
+["date"] = "19:49 16/07/25",
+["servertime"] = 1752713385,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 373907648,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 397235016,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 229013379,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 661404731,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 412758341,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 354310542,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 242033491,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 600205123,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 445512578,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 354530741,
+["itemLevel"] = 656.6875,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 580877716,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 634137407,
+["itemLevel"] = 678.6875,
+["classId"] = 13,
+},
+},
+},
+},
+[2918] = {
+{
+["time"] = 1728094266,
+["guild"] = "House Stalwart",
+["elapsed"] = 384.4020000000019,
+["date"] = "21:11 04/10/24",
+["servertime"] = 1728094265,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 225876059,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 218339945,
+["itemLevel"] = 610.8125,
+["classId"] = 13,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 265930768,
+["itemLevel"] = 610.625,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 168591365,
+["itemLevel"] = 610.875,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 89071463,
+["itemLevel"] = 615,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 43444581,
+["itemLevel"] = 603.375,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 227397013,
+["itemLevel"] = 609.8125,
+["classId"] = 10,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 257458859,
+["itemLevel"] = 608.625,
+["classId"] = 5,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 321363173,
+["itemLevel"] = 616.1875,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 195266308,
+["itemLevel"] = 608.5625,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 289112861,
+["itemLevel"] = 608.5,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 203397674,
+["itemLevel"] = 616.4375,
+["classId"] = 12,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 152294037,
+["itemLevel"] = 608.625,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 306149371,
+["itemLevel"] = 614.875,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 207761335,
+["itemLevel"] = 612.75,
+["classId"] = 8,
+},
+},
+},
+{
+["date"] = "20:22 16/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 140144418,
+["itemLevel"] = 614.75,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 187228541,
+["itemLevel"] = 613.5625,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 241866543,
+["itemLevel"] = 620.3125,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 122647060,
+["itemLevel"] = 608.9375,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 190379358,
+["itemLevel"] = 616.5625,
+["classId"] = 10,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 217241300,
+["itemLevel"] = 613.75,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 164906181,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 148164908,
+["itemLevel"] = 611.0625,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 163459501,
+["itemLevel"] = 624,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 243940854,
+["itemLevel"] = 614.6875,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 308288679,
+["itemLevel"] = 621.5625,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 239050497,
+["itemLevel"] = 615.0625,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 258331852,
+["itemLevel"] = 618.5625,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 138366404,
+["itemLevel"] = 615.25,
+["classId"] = 8,
+},
+},
+["elapsed"] = 280.8040000000037,
+["servertime"] = 1729128125,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 163519634,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 184118896,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["time"] = 1729128125,
+},
+{
+["date"] = "20:37 23/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 153283190,
+["itemLevel"] = 617.75,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 80377893,
+["itemLevel"] = 614.2666666666667,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 227276690,
+["itemLevel"] = 622.6875,
+["classId"] = 3,
+},
+["Zea-ArgentDawn"] = {
+["total"] = 195132809,
+["itemLevel"] = 615,
+["classId"] = 4,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 272480706,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 185544712,
+["itemLevel"] = 616,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 228759564,
+["itemLevel"] = 612.0625,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 210007308,
+["itemLevel"] = 617.3125,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 117872047,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 165831550,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 241817142,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 130661710,
+["itemLevel"] = 611,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 241755940,
+["itemLevel"] = 619.125,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 256323313,
+["itemLevel"] = 621.375,
+["classId"] = 1,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 214127627,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 268.9440000000031,
+["servertime"] = 1729733820,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 170250095,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 193776027,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["time"] = 1729733821,
+},
+{
+["date"] = "20:35 30/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 157788086,
+["itemLevel"] = 620.0625,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 162728538,
+["itemLevel"] = 616.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 228585457,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 291067747,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 160038378,
+["itemLevel"] = 612.625,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 237876871,
+["itemLevel"] = 617,
+["classId"] = 4,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 198934150,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 250508125,
+["itemLevel"] = 618.875,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 140937820,
+["itemLevel"] = 620.5625,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 150934730,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 161609282,
+["itemLevel"] = 628.8125,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 211029378,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 221909072,
+["itemLevel"] = 620.125,
+["classId"] = 5,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 217213667,
+["itemLevel"] = 621.1875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 168919576,
+["itemLevel"] = 622.25,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 198141249,
+["itemLevel"] = 617.125,
+["classId"] = 8,
+},
+},
+["elapsed"] = 266.8099999999977,
+["servertime"] = 1730338521,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 213127824,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 173052683,
+["itemLevel"] = 613.125,
+["classId"] = 13,
+},
+},
+["time"] = 1730338522,
+},
+{
+["time"] = 1731725994,
+["guild"] = "House Stalwart",
+["elapsed"] = 281.375,
+["date"] = "20:59 15/11/24",
+["servertime"] = 1731725993,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 222006145,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 243335504,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+["Zephyrri-ArgentDawn"] = {
+["total"] = 381403653,
+["itemLevel"] = 617.875,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 187611099,
+["itemLevel"] = 623.375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 102511789,
+["itemLevel"] = 620.5,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 294040056,
+["itemLevel"] = 628.1875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 137467188,
+["itemLevel"] = 618.1333333333333,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 243063561,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 112023484,
+["itemLevel"] = 619.4375,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 255113284,
+["itemLevel"] = 621.875,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 156207109,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 268527980,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 238331103,
+["itemLevel"] = 620,
+["classId"] = 4,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 317896270,
+["itemLevel"] = 625.375,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 223232505,
+["itemLevel"] = 623.0625,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1732160684,
+["guild"] = "House Stalwart",
+["elapsed"] = 202.3909999999996,
+["date"] = "21:44 20/11/24",
+["servertime"] = 1732160683,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 150209974,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 138360619,
+["itemLevel"] = 624.5,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 149879891,
+["itemLevel"] = 618.9375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 210399942,
+["itemLevel"] = 629.375,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 128457841,
+["itemLevel"] = 618.625,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 172591608,
+["itemLevel"] = 620.6875,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 225899227,
+["itemLevel"] = 622,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 189776348,
+["itemLevel"] = 621.875,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 176456388,
+["itemLevel"] = 623.9375,
+["classId"] = 3,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 215510291,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 246647872,
+["itemLevel"] = 627.375,
+["classId"] = 11,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 130927010,
+["itemLevel"] = 632.5625,
+["classId"] = 12,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 227210491,
+["itemLevel"] = 626.875,
+["classId"] = 1,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 220687463,
+["itemLevel"] = 627.8125,
+["classId"] = 8,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733365890,
+["elapsed"] = 256.5469999999914,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 153750947,
+["itemLevel"] = 626.9375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 95643242,
+["itemLevel"] = 623.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 224296876,
+["itemLevel"] = 631.0625,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 180040443,
+["itemLevel"] = 620.25,
+["classId"] = 8,
+},
+["Tazz-ArgentDawn"] = {
+["total"] = 5136553,
+["itemLevel"] = 605.8125,
+["classId"] = 10,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 188076971,
+["itemLevel"] = 622.0625,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 273087683,
+["itemLevel"] = 623.0625,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 241321229,
+["itemLevel"] = 622.9375,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 148003383,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 259976401,
+["itemLevel"] = 630.5625,
+["classId"] = 8,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 291773904,
+["itemLevel"] = 630,
+["classId"] = 1,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 197404654,
+["itemLevel"] = 621.8125,
+["classId"] = 10,
+},
+},
+["servertime"] = 1733365889,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 240495286,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 333629800,
+["itemLevel"] = 630.25,
+["classId"] = 11,
+},
+},
+["date"] = "20:31 04/12/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733969599,
+["elapsed"] = 221.6790000000037,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 154665441,
+["itemLevel"] = 628.875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 94019901,
+["itemLevel"] = 625.3125,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 224670942,
+["itemLevel"] = 632.125,
+["classId"] = 3,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 211664260,
+["itemLevel"] = 625.1875,
+["classId"] = 8,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 267127340,
+["itemLevel"] = 631,
+["classId"] = 8,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 202887496,
+["itemLevel"] = 623.5,
+["classId"] = 1,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 147807432,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 237197989,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 246056710,
+["itemLevel"] = 631.875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 258526815,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 164404569,
+["itemLevel"] = 621.3125,
+["classId"] = 8,
+},
+},
+["servertime"] = 1733969599,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 132698731,
+["itemLevel"] = 234.75,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 133115767,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
+["date"] = "20:13 11/12/24",
+},
+{
+["time"] = 1734575108,
+["guild"] = "House Stalwart",
+["elapsed"] = 235.4809999999998,
+["date"] = "20:25 18/12/24",
+["servertime"] = 1734575108,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 151565415,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 122385037,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 198392714,
+["itemLevel"] = 606.6875,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 94994499,
+["itemLevel"] = 626.75,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 278226962,
+["itemLevel"] = 626.375,
+["classId"] = 8,
+},
+["Lleandryn"] = {
+["total"] = 226682884,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 163168133,
+["itemLevel"] = 624.25,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 108912292,
+["itemLevel"] = 611.8125,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 283978122,
+["itemLevel"] = 632.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 226223956,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 213398333,
+["itemLevel"] = 623.375,
+["classId"] = 4,
+},
+["Malimortui"] = {
+["total"] = 214451739,
+["itemLevel"] = 609.4375,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 209075463,
+["itemLevel"] = 633.125,
+["classId"] = 3,
+},
+},
+},
+{
+["date"] = "20:16 01/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Permaphrost-Proudmoore"] = {
+["total"] = 265517608,
+["itemLevel"] = 635.375,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 239400804,
+["itemLevel"] = 628.25,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 164821938,
+["itemLevel"] = 625.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 88684298,
+["itemLevel"] = 619.3125,
+["classId"] = 2,
+},
+["Angélique"] = {
+["total"] = 149690885,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 191548378,
+["itemLevel"] = 634.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 190554494,
+["itemLevel"] = 627.25,
+["classId"] = 4,
+},
+["Nil"] = {
+["total"] = 187554444,
+["itemLevel"] = 623,
+["classId"] = 10,
+},
+["Hydeon"] = {
+["total"] = 180920577,
+["itemLevel"] = 623.8125,
+["classId"] = 5,
+},
+["Kadria"] = {
+["total"] = 83166879,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+},
+["elapsed"] = 175.3110000000161,
+["servertime"] = 1735784197,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 160818472,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 173678738,
+["itemLevel"] = 624.9375,
+["classId"] = 7,
+},
+},
+["time"] = 1735784198,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1737598852,
+["elapsed"] = 231.4309999999823,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 86050246,
+["itemLevel"] = 631.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 167125981,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 230021697,
+["itemLevel"] = 627.1875,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 332957409,
+["itemLevel"] = 636.1875,
+["classId"] = 8,
+},
+["Artaius"] = {
+["total"] = 38664277,
+["itemLevel"] = 597.3125,
+["classId"] = 11,
+},
+["Kadria"] = {
+["total"] = 107385989,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 228371015,
+["itemLevel"] = 626.8125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 219855090,
+["itemLevel"] = 628,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 196255208,
+["itemLevel"] = 618.4375,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 207709027,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+},
+["servertime"] = 1737598851,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 200774155,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 159717596,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["date"] = "20:20 22/01/25",
+},
+{
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 124715027,
+["itemLevel"] = 616.8125,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 92739708,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Jiulianna"] = {
+["total"] = 249085069,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["Gedan"] = {
+["total"] = 198819941,
+["itemLevel"] = 615,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 218634568,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Xyza"] = {
+["total"] = 20931326,
+["itemLevel"] = 558.4375,
+["classId"] = 5,
+},
+["Kadria"] = {
+["total"] = 164496173,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 268957344,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 215476600,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1738809413,
+["date"] = "20:36 05/02/25",
+["elapsed"] = 293.0219999999972,
+["servertime"] = 1738809412,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 268223179,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 424033763,
+["itemLevel"] = 628.5625,
+["classId"] = 7,
 },
 },
 ["guild"] = "House Stalwart",
@@ -9578,457 +16425,3440 @@ DetailsDataStorage = {
 ["guild"] = "House Stalwart",
 },
 },
-[2898] = {
+[3015] = {
 {
-["date"] = "20:13 16/10/24",
+["time"] = 1745033912,
+["guild"] = "House Stalwart",
+["elapsed"] = 360.755000000001,
+["date"] = "22:38 18/04/25",
+["servertime"] = 1745033912,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 469713233,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 377667457,
+["itemLevel"] = 647.9375,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 569470173,
+["itemLevel"] = 667.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 51115317,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 680502085,
+["itemLevel"] = 667.375,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 313772832,
+["itemLevel"] = 667.3125,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 652489830,
+["itemLevel"] = 666.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 730178019,
+["itemLevel"] = 669.0625,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 426687479,
+["itemLevel"] = 657.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 631292413,
+["itemLevel"] = 666.6875,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 665024077,
+["itemLevel"] = 660.125,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 275076872,
+["itemLevel"] = 667.375,
+["classId"] = 12,
+},
+},
+},
+{
+["time"] = 1747275851,
+["guild"] = "House Stalwart",
+["elapsed"] = 311.7899999999791,
+["date"] = "21:24 14/05/25",
+["servertime"] = 1747275850,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 372915356,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Kadria"] = {
+["total"] = 238293790,
+["itemLevel"] = 667.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 326658001,
+["itemLevel"] = 657.75,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 569595475,
+["itemLevel"] = 669.8125,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 647131939,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 374551924,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 541083876,
+["itemLevel"] = 673.0625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 292913858,
+["itemLevel"] = 672.5,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 561252073,
+["itemLevel"] = 665.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "20:56 28/05/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 191511937,
+["itemLevel"] = 673.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 162529073,
+["itemLevel"] = 661.1875,
+["classId"] = 9,
+},
+["Confluence"] = {
+["total"] = 365144193,
+["itemLevel"] = 677.375,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 716625179,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 645371734,
+["itemLevel"] = 658.875,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 715825078,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 752007346,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 225984462,
+["itemLevel"] = 637.875,
+["classId"] = 8,
+},
+},
+["elapsed"] = 334.9959999999846,
+["servertime"] = 1748483766,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 375844642,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1748483767,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1749090156,
+["elapsed"] = 315.8680000000168,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 633720783,
+["itemLevel"] = 675.75,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 621271938,
+["itemLevel"] = 662.125,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 146214472,
+["itemLevel"] = 642.875,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 350530034,
+["itemLevel"] = 677.75,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 682145305,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 389987871,
+["itemLevel"] = 664.125,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 256206788,
+["itemLevel"] = 675,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 530539392,
+["itemLevel"] = 676.75,
+["classId"] = 3,
+},
+["Giulietta"] = {
+["total"] = 704956669,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
+},
+},
+["servertime"] = 1749090155,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 355966152,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 509417058,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 285661214,
+["itemLevel"] = 669.6875,
+["classId"] = 11,
+},
+},
+["date"] = "21:22 04/06/25",
+},
+{
+["time"] = 1749694569,
+["guild"] = "House Stalwart",
+["elapsed"] = 301.9260000000068,
+["date"] = "21:16 11/06/25",
+["servertime"] = 1749694568,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 328308957,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 214143379,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 630306557,
+["itemLevel"] = 676.9375,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 516643548,
+["itemLevel"] = 662.9375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 258268033,
+["itemLevel"] = 653.6875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 247841127,
+["itemLevel"] = 650.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 396144092,
+["itemLevel"] = 678.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 676601445,
+["itemLevel"] = 677.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 674080086,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 405668839,
+["itemLevel"] = 665,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 225264001,
+["itemLevel"] = 676.625,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 635743184,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 183675988,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 648059539,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 467652629,
+["itemLevel"] = 659.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 320319570,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 670285032,
+["itemLevel"] = 678.4375,
+["classId"] = 11,
+},
+["Riparium"] = {
+["total"] = 599351020,
+["itemLevel"] = 671.375,
+["classId"] = 9,
+},
+["Rylacus"] = {
+["total"] = 358289194,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 207190105,
+["itemLevel"] = 681.3125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 595650810,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 586276028,
+["itemLevel"] = 678.375,
+["classId"] = 3,
+},
+},
+["time"] = 1750299409,
+["date"] = "21:16 18/06/25",
+["elapsed"] = 251.9649999999674,
+["servertime"] = 1750299408,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 321611667,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 298897378,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "21:26 25/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 198872236,
+["itemLevel"] = 676.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 335188972,
+["itemLevel"] = 649.625,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 320005362,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 660079515,
+["itemLevel"] = 668.5,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 749524805,
+["itemLevel"] = 672.5,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 664499803,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 329038335,
+["itemLevel"] = 657.125,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 675488867,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 506935808,
+["itemLevel"] = 668.6875,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 64328211,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 732148955,
+["itemLevel"] = 679.375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 348.62099999981,
+["servertime"] = 1750904807,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 555457337,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 554791450,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 420438152,
+["itemLevel"] = 680.25,
+["classId"] = 11,
+},
+},
+["time"] = 1750904807,
+},
+{
+["time"] = 1751508192,
+["guild"] = "House Stalwart",
+["elapsed"] = 280.6190000001807,
+["date"] = "21:03 02/07/25",
+["servertime"] = 1751508191,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 413227748,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 536571236,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 255256843,
+["itemLevel"] = 667.4375,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 295992776,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 569929319,
+["itemLevel"] = 674.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 675860972,
+["itemLevel"] = 674.3125,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 413160640,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 298207888,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 637283303,
+["itemLevel"] = 675.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 416082672,
+["itemLevel"] = 669.25,
+["classId"] = 4,
+},
+["Errya"] = {
+["total"] = 81519848,
+["itemLevel"] = 633.375,
+["classId"] = 2,
+},
+},
+},
+{
+["time"] = 1752113089,
+["guild"] = "House Stalwart",
+["elapsed"] = 241.5610000000015,
+["date"] = "21:04 09/07/25",
+["servertime"] = 1752113088,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 463873074,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 316935898,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 589162043,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 266022568,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 464778433,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 648511992,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 241791799,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 206354406,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 580253392,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 378490077,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Jullianna"] = {
+["total"] = 362016325,
+["itemLevel"] = 665.25,
+["classId"] = 5,
+},
+["Erixi"] = {
+["total"] = 496655497,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1752717609,
+["guild"] = "House Stalwart",
+["elapsed"] = 263.0279999999912,
+["date"] = "21:00 16/07/25",
+["servertime"] = 1752717608,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 422346659,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 452478616,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 197463890,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 622855310,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 343206264,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 329476810,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 193967057,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 506073316,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 419766783,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 289816599,
+["itemLevel"] = 657.8125,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 579856060,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 777251574,
+["itemLevel"] = 678.875,
+["classId"] = 13,
+},
+},
+},
+},
+[3135] = {
+{
+["time"] = 1760757864,
+["guild"] = "House Stalwart",
+["elapsed"] = 592.9130000000005,
+["date"] = "22:24 17/10/25",
+["servertime"] = 1760757863,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 992282889,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1897088891,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2427124413,
+["itemLevel"] = 719.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 817022211,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 197969211,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2314370836,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Sverdrup"] = {
+["total"] = 1339116079,
+["itemLevel"] = 715.25,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 111301926,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 1384805067,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2191583366,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1815013836,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1189391638,
+["itemLevel"] = 707.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2166107844,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2615621954,
+["itemLevel"] = 717.9375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1929061274,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1761361975,
+["guild"] = "House Stalwart",
+["elapsed"] = 623.494000000006,
+["date"] = "22:12 24/10/25",
+["servertime"] = 1761361974,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1308447025,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1807674965,
+["itemLevel"] = 714.1875,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2422173626,
+["itemLevel"] = 720.3125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 810541353,
+["itemLevel"] = 718.875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 475093372,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 2199238542,
+["itemLevel"] = 716.875,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 86159873,
+["itemLevel"] = 704.75,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 1508454671,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2256783287,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1932277011,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1483962014,
+["itemLevel"] = 709.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2263531639,
+["itemLevel"] = 722.625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2364865160,
+["itemLevel"] = 719.8125,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 1315504947,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+},
+},
+[3013] = {
+{
+["date"] = "21:17 04/04/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 467962587,
+["itemLevel"] = 663.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 117782871,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 633382773,
+["itemLevel"] = 582.1875,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 249566584,
+["itemLevel"] = 662.75,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 493929948,
+["itemLevel"] = 664.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 533767892,
+["itemLevel"] = 657.9375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 420019507,
+["itemLevel"] = 649.3125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 502726251,
+["itemLevel"] = 659,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 548925918,
+["itemLevel"] = 665.375,
+["classId"] = 3,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 182884655,
+["itemLevel"] = 665.4375,
+["classId"] = 12,
+},
+},
+["elapsed"] = 339.4130000000005,
+["servertime"] = 1743819453,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 419967895,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 236797892,
+["itemLevel"] = 646.6875,
+["classId"] = 13,
+},
+},
+["time"] = 1743819454,
+},
+{
+["time"] = 1747273072,
+["guild"] = "House Stalwart",
+["elapsed"] = 322.2149999999674,
+["date"] = "20:37 14/05/25",
+["servertime"] = 1747273071,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 307131969,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Rylacus"] = {
+["total"] = 396050716,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 242222179,
+["itemLevel"] = 657.75,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 248874729,
+["itemLevel"] = 667.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 630520100,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
+},
+["Anguis"] = {
+["total"] = 394968361,
+["itemLevel"] = 651.25,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 553836288,
+["itemLevel"] = 673.0625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 285890543,
+["itemLevel"] = 672.5,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 549249503,
+["itemLevel"] = 665.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "20:25 28/05/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 198361174,
+["itemLevel"] = 673.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 233183966,
+["itemLevel"] = 661.1875,
+["classId"] = 9,
+},
+["Confluence"] = {
+["total"] = 318033163,
+["itemLevel"] = 677,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 585220710,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 632265603,
+["itemLevel"] = 658,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 712801398,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 768719154,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 63719384,
+["itemLevel"] = 637.875,
+["classId"] = 8,
+},
+},
+["elapsed"] = 321.7830000000249,
+["servertime"] = 1748481936,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 144201702,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1748481937,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1749087308,
+["elapsed"] = 242.9839999999967,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 555035317,
+["itemLevel"] = 675.75,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 577476777,
+["itemLevel"] = 661.9375,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 237722295,
+["itemLevel"] = 642.875,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 215436202,
+["itemLevel"] = 677.75,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 552142620,
+["itemLevel"] = 673.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 563243958,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 353322552,
+["itemLevel"] = 664.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 610093378,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 587554748,
+["itemLevel"] = 676.75,
+["classId"] = 3,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 222114397,
+["itemLevel"] = 675,
+["classId"] = 12,
+},
+},
+["servertime"] = 1749087307,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 352103296,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 197912373,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
+["date"] = "20:35 04/06/25",
+},
+{
+["time"] = 1749691922,
+["guild"] = "House Stalwart",
+["elapsed"] = 311.9869999999937,
+["date"] = "20:32 11/06/25",
+["servertime"] = 1749691921,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 375979658,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 335126994,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 707980183,
+["itemLevel"] = 676.9375,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 587782483,
+["itemLevel"] = 662.9375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 219387625,
+["itemLevel"] = 653.6875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 134642495,
+["itemLevel"] = 650.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 313884595,
+["itemLevel"] = 678.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 749348319,
+["itemLevel"] = 677.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 594227616,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 425510915,
+["itemLevel"] = 665,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 209214914,
+["itemLevel"] = 676.625,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 324954724,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 173767146,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 610822968,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 459514896,
+["itemLevel"] = 659.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 123531881,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 587981296,
+["itemLevel"] = 678.4375,
+["classId"] = 11,
+},
+["Riparium"] = {
+["total"] = 487012561,
+["itemLevel"] = 671.375,
+["classId"] = 9,
+},
+["Rylacus"] = {
+["total"] = 359166468,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 220545427,
+["itemLevel"] = 681.3125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 537728687,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 568411402,
+["itemLevel"] = 678.375,
+["classId"] = 3,
+},
+},
+["time"] = 1750296850,
+["date"] = "20:34 18/06/25",
+["elapsed"] = 222.939000000013,
+["servertime"] = 1750296849,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 278236040,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 231112332,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "21:01 25/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 182694395,
+["itemLevel"] = 676.3125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 307317057,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Urklesnurkle"] = {
+["total"] = 246184650,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 508082617,
+["itemLevel"] = 668.5,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 653248659,
+["itemLevel"] = 672.5,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 515015112,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 298619082,
+["itemLevel"] = 657.125,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 567654156,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 460639155,
+["itemLevel"] = 668.5,
+["classId"] = 4,
+},
+["Sverdrup"] = {
+["total"] = 191276140,
+["itemLevel"] = 649,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 654231226,
+["itemLevel"] = 679.375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 253.6419999999926,
+["servertime"] = 1750903297,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 483148819,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 420486688,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 361080402,
+["itemLevel"] = 680.25,
+["classId"] = 11,
+},
+},
+["time"] = 1750903297,
+},
+{
+["time"] = 1751506397,
+["guild"] = "House Stalwart",
+["elapsed"] = 266.6189999999479,
+["date"] = "20:33 02/07/25",
+["servertime"] = 1751506396,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 516417679,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 518099866,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 246183337,
+["itemLevel"] = 667.25,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 364418338,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 487264974,
+["itemLevel"] = 674.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 631676735,
+["itemLevel"] = 674.3125,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 322648210,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 245242996,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 638612179,
+["itemLevel"] = 675.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 411404974,
+["itemLevel"] = 669.25,
+["classId"] = 4,
+},
+["Errya"] = {
+["total"] = 57277248,
+["itemLevel"] = 627.625,
+["classId"] = 2,
+},
+},
+},
+{
+["time"] = 1752111101,
+["guild"] = "House Stalwart",
+["elapsed"] = 275.7649999999994,
+["date"] = "20:31 09/07/25",
+["servertime"] = 1752111100,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 556134911,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 431025890,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 645551032,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 266707377,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 639691615,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 739970952,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 261927654,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 236348978,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 37349744,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 425358373,
+["itemLevel"] = 670,
+["classId"] = 4,
+},
+["Jullianna"] = {
+["total"] = 406286951,
+["itemLevel"] = 665.25,
+["classId"] = 5,
+},
+["Erixi"] = {
+["total"] = 652731737,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1752715562,
+["guild"] = "House Stalwart",
+["elapsed"] = 234.252999999997,
+["date"] = "20:26 16/07/25",
+["servertime"] = 1752715562,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 485879754,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 341424346,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 177772658,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 502141997,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 310915523,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 315368828,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 198155309,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 576003797,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 375107060,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 320231450,
+["itemLevel"] = 656.125,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 541612782,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 600092148,
+["itemLevel"] = 678.6875,
+["classId"] = 13,
+},
+},
+},
+},
+[3014] = {
+{
+["time"] = 1747274601,
+["guild"] = "House Stalwart",
+["elapsed"] = 346.6730000000098,
+["date"] = "21:03 14/05/25",
+["servertime"] = 1747274600,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 482444634,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Rylacus"] = {
+["total"] = 496759507,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 299679393,
+["itemLevel"] = 657.75,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 299748128,
+["itemLevel"] = 667.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 749135874,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
+},
+["Anguis"] = {
+["total"] = 649591799,
+["itemLevel"] = 652.625,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 296316300,
+["itemLevel"] = 673.0625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 353268300,
+["itemLevel"] = 672.5,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 660953955,
+["itemLevel"] = 665.75,
+["classId"] = 7,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1748051244,
+["elapsed"] = 255.7290000000212,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 190359672,
+["itemLevel"] = 670.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 327056510,
+["itemLevel"] = 660.9375,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 520233991,
+["itemLevel"] = 658,
+["classId"] = 13,
+},
+["Confluence"] = {
+["total"] = 283720175,
+["itemLevel"] = 674.25,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 590389663,
+["itemLevel"] = 671.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 578669943,
+["itemLevel"] = 667.8125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 393511228,
+["itemLevel"] = 662.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 666549106,
+["itemLevel"] = 675.5,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 660091496,
+["itemLevel"] = 674.8125,
+["classId"] = 3,
+},
+},
+["servertime"] = 1748051243,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 326582252,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:47 23/05/25",
+},
+{
+["date"] = "20:37 28/05/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 278608878,
+["itemLevel"] = 673.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 331115793,
+["itemLevel"] = 661.1875,
+["classId"] = 9,
+},
+["Confluence"] = {
+["total"] = 454549616,
+["itemLevel"] = 677,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 726961480,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 757025706,
+["itemLevel"] = 658,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 736379636,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 820999229,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 357723030,
+["itemLevel"] = 637.875,
+["classId"] = 8,
+},
+},
+["elapsed"] = 337.2599999999802,
+["servertime"] = 1748482679,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 318847926,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1748482679,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1749088481,
+["elapsed"] = 289.3919999999926,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 671471747,
+["itemLevel"] = 675.75,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 744030029,
+["itemLevel"] = 662.125,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 297802781,
+["itemLevel"] = 642.875,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 373225594,
+["itemLevel"] = 677.75,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 649786817,
+["itemLevel"] = 673.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 708147831,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 436381857,
+["itemLevel"] = 664.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 657216296,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 751394469,
+["itemLevel"] = 676.75,
+["classId"] = 3,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 264071598,
+["itemLevel"] = 675,
+["classId"] = 12,
+},
+},
+["servertime"] = 1749088480,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 455931072,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 488077517,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
+["date"] = "20:54 04/06/25",
+},
+{
+["time"] = 1749692472,
+["guild"] = "House Stalwart",
+["elapsed"] = 261.9259999999777,
+["date"] = "20:41 11/06/25",
+["servertime"] = 1749692472,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 317187654,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 347598691,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 626015308,
+["itemLevel"] = 676.9375,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 696670162,
+["itemLevel"] = 662.9375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 501407133,
+["itemLevel"] = 653.6875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 367824086,
+["itemLevel"] = 650.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 333829437,
+["itemLevel"] = 678.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 680151496,
+["itemLevel"] = 677.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 701705978,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 434596513,
+["itemLevel"] = 665,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 258157721,
+["itemLevel"] = 676.625,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 701604222,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 241908274,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 1033118021,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 225955054,
+["itemLevel"] = 659.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 456804291,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 855486643,
+["itemLevel"] = 678.4375,
+["classId"] = 11,
+},
+["Riparium"] = {
+["total"] = 726001337,
+["itemLevel"] = 671.375,
+["classId"] = 9,
+},
+["Rylacus"] = {
+["total"] = 427588718,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 288919661,
+["itemLevel"] = 681.3125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 767122108,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 284012849,
+["itemLevel"] = 678.375,
+["classId"] = 3,
+},
+},
+["time"] = 1750298235,
+["date"] = "20:57 18/06/25",
+["elapsed"] = 331.6290000000736,
+["servertime"] = 1750298235,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 478048006,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 447575204,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "21:12 25/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 259629576,
+["itemLevel"] = 676.3125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 357626302,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Urklesnurkle"] = {
+["total"] = 382728830,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 677202491,
+["itemLevel"] = 668.5,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 950143606,
+["itemLevel"] = 672.5,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 635007504,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 405422790,
+["itemLevel"] = 657.125,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 754657254,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 535695878,
+["itemLevel"] = 668.5,
+["classId"] = 4,
+},
+["Sverdrup"] = {
+["total"] = 295417572,
+["itemLevel"] = 649,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 867994399,
+["itemLevel"] = 679.375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 325.6740000001155,
+["servertime"] = 1750903924,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 523286512,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 557463321,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 521001292,
+["itemLevel"] = 680.25,
+["classId"] = 11,
+},
+},
+["time"] = 1750903925,
+},
+{
+["time"] = 1751507578,
+["guild"] = "House Stalwart",
+["elapsed"] = 266.1849999998231,
+["date"] = "20:52 02/07/25",
+["servertime"] = 1751507577,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 507081242,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 476903310,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 287337382,
+["itemLevel"] = 667.4375,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 458713463,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 607368819,
+["itemLevel"] = 674.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 751115405,
+["itemLevel"] = 674.3125,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 616132728,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 452246700,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 608203240,
+["itemLevel"] = 675.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 413674686,
+["itemLevel"] = 669.25,
+["classId"] = 4,
+},
+["Errya"] = {
+["total"] = 63536102,
+["itemLevel"] = 633.375,
+["classId"] = 2,
+},
+},
+},
+{
+["time"] = 1752112174,
+["guild"] = "House Stalwart",
+["elapsed"] = 239.4429999999993,
+["date"] = "20:49 09/07/25",
+["servertime"] = 1752112173,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 449998646,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 411961449,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 647756272,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 210761777,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 555961098,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 757414999,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 475274295,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 257671822,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 568443677,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 392144993,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Jullianna"] = {
+["total"] = 371044888,
+["itemLevel"] = 665.25,
+["classId"] = 5,
+},
+["Erixi"] = {
+["total"] = 628132215,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1752716252,
+["guild"] = "House Stalwart",
+["elapsed"] = 257.6420000000217,
+["date"] = "20:37 16/07/25",
+["servertime"] = 1752716252,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 409745093,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 440537563,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 165979450,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 634209176,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 476671621,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 416987630,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 251553271,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 609110856,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 472930182,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 393265747,
+["itemLevel"] = 656.125,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 630425820,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 871972420,
+["itemLevel"] = 678.875,
+["classId"] = 13,
+},
+},
+},
+},
+[3012] = {
+{
+["date"] = "22:11 28/03/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 842021220,
+["itemLevel"] = 658.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 462010924,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 893660908,
+["itemLevel"] = 659.3125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 775508733,
+["itemLevel"] = 662,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 912789916,
+["itemLevel"] = 662,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 732818260,
+["itemLevel"] = 650.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 516398057,
+["itemLevel"] = 647.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 425205053,
+["itemLevel"] = 662.4375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 915680017,
+["itemLevel"] = 663.8125,
+["classId"] = 3,
+},
+["Giulietta"] = {
+["total"] = 574549525,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+},
+["elapsed"] = 438.4539999999979,
+["servertime"] = 1743217918,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 427174680,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 271168253,
+["itemLevel"] = 640.75,
+["classId"] = 13,
+},
+},
+["time"] = 1743217919,
+},
+{
+["time"] = 1747271420,
+["guild"] = "House Stalwart",
+["elapsed"] = 330.7710000000079,
+["date"] = "20:10 14/05/25",
+["servertime"] = 1747271419,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 388441083,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Rylacus"] = {
+["total"] = 482602572,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 369436871,
+["itemLevel"] = 657.75,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 291365402,
+["itemLevel"] = 667.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 605457758,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
+},
+["Anguis"] = {
+["total"] = 583013628,
+["itemLevel"] = 651.25,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 796385733,
+["itemLevel"] = 673.0625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 608725775,
+["itemLevel"] = 672.5,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 693958238,
+["itemLevel"] = 665.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "20:11 28/05/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 428937169,
+["itemLevel"] = 673.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 450042962,
+["itemLevel"] = 661.1875,
+["classId"] = 9,
+},
+["Confluence"] = {
+["total"] = 694853806,
+["itemLevel"] = 677,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 652161197,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 787623041,
+["itemLevel"] = 658,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 801637635,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 657022264,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 341728989,
+["itemLevel"] = 637.875,
+["classId"] = 8,
+},
+},
+["elapsed"] = 347.7289999999921,
+["servertime"] = 1748481102,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 259742697,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1748481103,
+},
+{
+["date"] = "20:14 04/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 853883608,
+["itemLevel"] = 675.75,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 253636407,
+["itemLevel"] = 630.625,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 838679212,
+["itemLevel"] = 661.5,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 325107048,
+["itemLevel"] = 642.875,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 853240671,
+["itemLevel"] = 673.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 654374372,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 512803829,
+["itemLevel"] = 664.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 722402717,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 273077501,
+["itemLevel"] = 675,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 552624378,
+["itemLevel"] = 676.75,
+["classId"] = 3,
+},
+},
+["elapsed"] = 295.6489999999758,
+["servertime"] = 1749086083,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 393974712,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 337943646,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
+["time"] = 1749086084,
+},
+{
+["time"] = 1749691084,
+["guild"] = "House Stalwart",
+["elapsed"] = 293.3229999999749,
+["date"] = "20:18 11/06/25",
+["servertime"] = 1749691083,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 309875893,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 226843987,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 671738890,
+["itemLevel"] = 676.9375,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 687072844,
+["itemLevel"] = 662.9375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 564333249,
+["itemLevel"] = 653.6875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 480120947,
+["itemLevel"] = 650.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 529758413,
+["itemLevel"] = 678.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 971879517,
+["itemLevel"] = 677.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 701195060,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 395201922,
+["itemLevel"] = 665,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 348098534,
+["itemLevel"] = 676.625,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 561447384,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 277501478,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 859307542,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 577990801,
+["itemLevel"] = 659.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 450283909,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
+},
+["Riparium"] = {
+["total"] = 879035293,
+["itemLevel"] = 671.375,
+["classId"] = 9,
+},
+["Rylacus"] = {
+["total"] = 433386413,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 395363038,
+["itemLevel"] = 681.3125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 698995188,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 663071224,
+["itemLevel"] = 678.375,
+["classId"] = 3,
+},
+},
+["time"] = 1750295689,
+["date"] = "20:14 18/06/25",
+["elapsed"] = 309.25,
+["servertime"] = 1750295688,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 366085243,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 314427439,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "20:26 25/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 286546402,
+["itemLevel"] = 676.3125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 234388292,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Urklesnurkle"] = {
+["total"] = 435709715,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 854803682,
+["itemLevel"] = 668.25,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 411933221,
+["itemLevel"] = 672.5,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 721232908,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 431728863,
+["itemLevel"] = 657.125,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 1010708151,
+["itemLevel"] = 679.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 646190860,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 431147809,
+["itemLevel"] = 668.5,
+["classId"] = 4,
+},
+["Sverdrup"] = {
+["total"] = 236861420,
+["itemLevel"] = 649,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 753356396,
+["itemLevel"] = 679.375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 304.3200000000652,
+["servertime"] = 1750901201,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 531943379,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 544191987,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["time"] = 1750901202,
+},
+{
+["time"] = 1751505614,
+["guild"] = "House Stalwart",
+["elapsed"] = 302.3379999999888,
+["date"] = "20:20 02/07/25",
+["servertime"] = 1751505613,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 475604446,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 524128280,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 344571500,
+["itemLevel"] = 667.25,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 475035615,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 794389295,
+["itemLevel"] = 674.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 853727617,
+["itemLevel"] = 674.3125,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 710589457,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 450144148,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 670344970,
+["itemLevel"] = 675.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 470509595,
+["itemLevel"] = 669.25,
+["classId"] = 4,
+},
+["Errya"] = {
+["total"] = 73388766,
+["itemLevel"] = 627.625,
+["classId"] = 2,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 638031706,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 321101751,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 664861731,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 699241723,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 406616073,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 289833115,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 553266619,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 417998993,
+["itemLevel"] = 670,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 582845742,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+["Jullianna"] = {
+["total"] = 381815048,
+["itemLevel"] = 665.25,
+["classId"] = 5,
+},
+},
+["time"] = 1752109900,
+["date"] = "20:11 09/07/25",
+["elapsed"] = 253.6499999999942,
+["servertime"] = 1752109899,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 460221010,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 298213365,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1752714915,
+["guild"] = "House Stalwart",
+["elapsed"] = 278.7589999999909,
+["date"] = "20:15 16/07/25",
+["servertime"] = 1752714914,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 470231683,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 340747206,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 292298351,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 949888014,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 161384196,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 460070617,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 310445224,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 543896804,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 427965180,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 437316272,
+["itemLevel"] = 656.125,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 634127163,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 1039356591,
+["itemLevel"] = 678.6875,
+["classId"] = 13,
+},
+},
+},
+},
+[2917] = {
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 149299977,
+["itemLevel"] = 606.25,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 90091734,
+["itemLevel"] = 582.9375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 197847725,
+["itemLevel"] = 605.4375,
+["classId"] = 3,
+},
+["Zea-ArgentDawn"] = {
+["total"] = 188796597,
+["itemLevel"] = 603.8125,
+["classId"] = 4,
+},
+["Zýthos-ArgentDawn"] = {
+["total"] = 279511985,
+["itemLevel"] = 601.8125,
+["classId"] = 10,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 150946080,
+["itemLevel"] = 594.75,
+["classId"] = 10,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 166740219,
+["itemLevel"] = 586.5,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 161338097,
+["itemLevel"] = 610.5,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 244115994,
+["itemLevel"] = 601.6875,
+["classId"] = 7,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 134978174,
+["itemLevel"] = 588.8125,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 241643605,
+["itemLevel"] = 605.25,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 275315567,
+["itemLevel"] = 609.5,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 214038704,
+["itemLevel"] = 607.5,
+["classId"] = 8,
+},
+},
+["time"] = 1726889083,
+["date"] = "22:24 20/09/24",
+["elapsed"] = 421.1080000000002,
+["servertime"] = 1726889082,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 145329361,
+["itemLevel"] = 590.875,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 265825212,
+["itemLevel"] = 602,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "20:02 16/10/24",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 96696396,
+["total"] = 129867758,
 ["itemLevel"] = 614.75,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 165984325,
-["itemLevel"] = 613.5625,
+["total"] = 178866018,
+["itemLevel"] = 613.3125,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 92490248,
+["total"] = 212262004,
 ["itemLevel"] = 620.3125,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 111764179,
+["total"] = 118431212,
 ["itemLevel"] = 608.9375,
 ["classId"] = 8,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 156077353,
+["total"] = 181275395,
 ["itemLevel"] = 616.5625,
 ["classId"] = 10,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 181308985,
+["total"] = 191158710,
 ["itemLevel"] = 613.75,
 ["classId"] = 5,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 129861017,
+["total"] = 127424506,
 ["itemLevel"] = 0,
 ["classId"] = 3,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 136086806,
+["total"] = 137426827,
 ["itemLevel"] = 611.0625,
 ["classId"] = 4,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 130673743,
+["total"] = 137245576,
 ["itemLevel"] = 624,
 ["classId"] = 12,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 214252744,
+["total"] = 291283063,
 ["itemLevel"] = 614.6875,
 ["classId"] = 7,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 237726078,
+["total"] = 262928106,
 ["itemLevel"] = 621.5625,
 ["classId"] = 8,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 182647113,
+["total"] = 221711962,
 ["itemLevel"] = 615.0625,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 195353623,
+["total"] = 214457012,
 ["itemLevel"] = 618.5625,
 ["classId"] = 1,
 },
 ["Mysdelin-ArgentDawn"] = {
-["total"] = 165452245,
+["total"] = 189863618,
 ["itemLevel"] = 615.25,
 ["classId"] = 8,
 },
 },
-["elapsed"] = 205.0100000000093,
-["servertime"] = 1729127596,
+["elapsed"] = 263.1380000000354,
+["servertime"] = 1729126939,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 134358135,
+["total"] = 77994296,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 129952763,
+["total"] = 120554530,
 ["itemLevel"] = 611.625,
 ["classId"] = 13,
 },
 },
-["time"] = 1729127597,
+["time"] = 1729126939,
 },
 {
-["date"] = "20:27 23/10/24",
+["date"] = "20:14 23/10/24",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 119653714,
+["total"] = 180300575,
 ["itemLevel"] = 617.75,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 64424069,
-["itemLevel"] = 614.2666666666667,
+["total"] = 104747174,
+["itemLevel"] = 614.5625,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 174708542,
+["total"] = 320594543,
 ["itemLevel"] = 622.6875,
 ["classId"] = 3,
 },
 ["Zea-ArgentDawn"] = {
-["total"] = 170499210,
-["itemLevel"] = 615,
+["total"] = 242148901,
+["itemLevel"] = 614.75,
 ["classId"] = 4,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 247556370,
+["total"] = 387446988,
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 147276602,
+["total"] = 173218189,
 ["itemLevel"] = 616,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 75348538,
-["itemLevel"] = 612.0625,
+["total"] = 283037383,
+["itemLevel"] = 611.8125,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 181879107,
+["total"] = 148429420,
 ["itemLevel"] = 617.3125,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 39868077,
+["total"] = 31152319,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 151858253,
+["total"] = 81136866,
 ["itemLevel"] = 0,
 ["classId"] = 3,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 226583649,
+["total"] = 59699,
 ["itemLevel"] = 616.375,
 ["classId"] = 7,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 159612117,
+["total"] = 117370226,
 ["itemLevel"] = 611,
 ["classId"] = 8,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 84891695,
+["total"] = 354303181,
 ["itemLevel"] = 619.125,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 182506068,
+["total"] = 334145420,
 ["itemLevel"] = 621.375,
 ["classId"] = 1,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 200792654,
+["total"] = 253796993,
 ["itemLevel"] = 619.25,
 ["classId"] = 10,
 },
 },
-["elapsed"] = 234.1739999999991,
-["servertime"] = 1729733268,
+["elapsed"] = 373.3220000000001,
+["servertime"] = 1729732484,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 148805224,
+["total"] = 242737992,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 182143719,
+["total"] = 32886585,
 ["itemLevel"] = 611.625,
 ["classId"] = 13,
 },
 },
-["time"] = 1729733269,
+["time"] = 1729732484,
 },
 {
-["date"] = "20:12 30/10/24",
+["date"] = "20:00 30/10/24",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 104188616,
+["total"] = 149654986,
 ["itemLevel"] = 620.0625,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 100682269,
-["itemLevel"] = 616.75,
+["total"] = 89094256,
+["itemLevel"] = 617.8125,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 183986399,
+["total"] = 249671336,
 ["itemLevel"] = 624.375,
 ["classId"] = 3,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 214434656,
+["total"] = 269778297,
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 141603426,
+["total"] = 134127568,
 ["itemLevel"] = 612.625,
 ["classId"] = 8,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 151202162,
+["total"] = 189577632,
 ["itemLevel"] = 617,
 ["classId"] = 4,
 },
-["Nil-ArgentDawn"] = {
-["total"] = 186104002,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 180000733,
+["total"] = 215545190,
 ["itemLevel"] = 618.875,
 ["classId"] = 1,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 125504898,
+["total"] = 125356475,
 ["itemLevel"] = 620.5625,
 ["classId"] = 3,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 127953273,
+["total"] = 40213621,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 103386834,
-["itemLevel"] = 628.375,
-["classId"] = 12,
+["Nil-ArgentDawn"] = {
+["total"] = 208782904,
+["itemLevel"] = 619.25,
+["classId"] = 10,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 196571884,
+["total"] = 187275295,
 ["itemLevel"] = 616.375,
 ["classId"] = 7,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 183165633,
+["total"] = 229353763,
 ["itemLevel"] = 620.125,
 ["classId"] = 5,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 215086517,
+["total"] = 281253549,
 ["itemLevel"] = 621.1875,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 180759483,
+["total"] = 264407662,
 ["itemLevel"] = 622.25,
 ["classId"] = 1,
 },
 ["Mysdelin-ArgentDawn"] = {
-["total"] = 161614676,
+["total"] = 156031767,
 ["itemLevel"] = 617.125,
 ["classId"] = 8,
 },
 },
-["elapsed"] = 194.9269999999669,
-["servertime"] = 1730337163,
+["elapsed"] = 254.8660000000382,
+["servertime"] = 1730336414,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 165972811,
+["total"] = 85268078,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 142880348,
+["total"] = 97763605,
 ["itemLevel"] = 613.125,
 ["classId"] = 13,
 },
 },
-["time"] = 1730337163,
+["time"] = 1730336415,
 },
 {
-["time"] = 1731725472,
-["guild"] = "House Stalwart",
-["elapsed"] = 187.3469999999506,
-["date"] = "20:51 15/11/24",
-["servertime"] = 1731725472,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 133530135,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 148191034,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 234395797,
-["itemLevel"] = 617.875,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 92352639,
+["total"] = 163688449,
 ["itemLevel"] = 623.375,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 64803993,
-["itemLevel"] = 620.5,
+["total"] = 132111018,
+["itemLevel"] = 618.9375,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 197397821,
+["total"] = 148620261,
 ["itemLevel"] = 628.1875,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 124742661,
-["itemLevel"] = 618.1333333333333,
+["total"] = 177461846,
+["itemLevel"] = 618.125,
 ["classId"] = 8,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 151470827,
+["total"] = 196373045,
 ["itemLevel"] = 619.25,
 ["classId"] = 10,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 195623274,
+["total"] = 233053426,
 ["itemLevel"] = 619.4375,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 193457080,
-["itemLevel"] = 621.875,
+["total"] = 236001600,
+["itemLevel"] = 621.4375,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 116009441,
+["total"] = 53261647,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi-ArgentDawn"] = {
-["total"] = 228093870,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
 ["Rylacus-ArgentDawn"] = {
-["total"] = 164387937,
+["total"] = 208524336,
 ["itemLevel"] = 620,
 ["classId"] = 4,
 },
-["Giulietta-ArgentDawn"] = {
-["total"] = 192288363,
-["itemLevel"] = 625.375,
-["classId"] = 1,
+["Erixi-ArgentDawn"] = {
+["total"] = 295481470,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 320458610,
+["itemLevel"] = 625.9375,
+["classId"] = 11,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 118449195,
+["itemLevel"] = 631.3125,
+["classId"] = 12,
 },
 ["Lleandryn-ArgentDawn"] = {
-["total"] = 176895444,
+["total"] = 76772492,
 ["itemLevel"] = 623.0625,
 ["classId"] = 3,
 },
+["Apókryfes-Proudmoore"] = {
+["total"] = 176771705,
+["itemLevel"] = 627,
+["classId"] = 8,
 },
 },
-{
-["time"] = 1732160274,
-["guild"] = "House Stalwart",
-["elapsed"] = 159.0549999999967,
-["date"] = "21:37 20/11/24",
-["servertime"] = 1732160273,
+["time"] = 1731549518,
+["date"] = "19:58 13/11/24",
+["elapsed"] = 247.7710000000079,
+["servertime"] = 1731549517,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 95067595,
+["total"] = 99401128,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 92178587,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1732154244,
+["guild"] = "House Stalwart",
+["elapsed"] = 182.4600000000028,
+["date"] = "19:57 20/11/24",
+["servertime"] = 1732154243,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 64239639,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 },
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 104316542,
+["total"] = 120089931,
 ["itemLevel"] = 624.5,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 124278780,
-["itemLevel"] = 618.9375,
+["total"] = 62514328,
+["itemLevel"] = 620.5,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 193924476,
+["total"] = 209051983,
 ["itemLevel"] = 629.375,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 147412897,
+["total"] = 143180685,
 ["itemLevel"] = 618.625,
 ["classId"] = 8,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 151014081,
+["total"] = 147050614,
 ["itemLevel"] = 620.6875,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 164264980,
+["total"] = 199155486,
 ["itemLevel"] = 622,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 179390799,
+["total"] = 177002940,
 ["itemLevel"] = 621.875,
 ["classId"] = 5,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 161983863,
-["itemLevel"] = 623.9375,
-["classId"] = 3,
-},
 ["Erixi-ArgentDawn"] = {
-["total"] = 194851096,
+["total"] = 238932151,
 ["itemLevel"] = 621.5,
 ["classId"] = 7,
 },
+["Lleandryn-ArgentDawn"] = {
+["total"] = 160523250,
+["itemLevel"] = 623.6875,
+["classId"] = 3,
+},
 ["Kadria-ArgentDawn"] = {
-["total"] = 218889750,
-["itemLevel"] = 626.6,
+["total"] = 221342875,
+["itemLevel"] = 627.375,
 ["classId"] = 11,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 97163413,
-["itemLevel"] = 632.5625,
-["classId"] = 12,
-},
 ["Giulietta-ArgentDawn"] = {
-["total"] = 181590658,
+["total"] = 206766697,
 ["itemLevel"] = 626.875,
 ["classId"] = 1,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 178623136,
+["total"] = 228951591,
 ["itemLevel"] = 627.8125,
 ["classId"] = 8,
 },
@@ -10036,434 +19866,6191 @@ DetailsDataStorage = {
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1733365238,
-["elapsed"] = 181.0210000000079,
+["time"] = 1733364595,
+["elapsed"] = 198.560999999987,
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 103957810,
+["total"] = 121725978,
 ["itemLevel"] = 626.9375,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 56856934,
+["total"] = 77398037,
 ["itemLevel"] = 623.75,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 197097863,
+["total"] = 198169480,
 ["itemLevel"] = 631.0625,
 ["classId"] = 3,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 137152809,
-["itemLevel"] = 619.8666666666667,
+["total"] = 137258376,
+["itemLevel"] = 620.8125,
 ["classId"] = 8,
 },
 ["Tazz-ArgentDawn"] = {
-["total"] = 36523278,
+["total"] = 38644424,
 ["itemLevel"] = 605.8125,
 ["classId"] = 10,
 },
 ["Rylacus-ArgentDawn"] = {
-["total"] = 136216596,
+["total"] = 175020156,
 ["itemLevel"] = 622.0625,
 ["classId"] = 4,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 195406040,
+["total"] = 218588086,
 ["itemLevel"] = 623.0625,
 ["classId"] = 1,
 },
 ["Hydeon-ArgentDawn"] = {
-["total"] = 190184041,
+["total"] = 222071328,
 ["itemLevel"] = 622.9375,
 ["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 60694470,
+["total"] = 79478495,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 239374060,
+["total"] = 248678870,
 ["itemLevel"] = 630.5625,
 ["classId"] = 8,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 204025350,
+["total"] = 239966543,
 ["itemLevel"] = 630,
 ["classId"] = 1,
 },
 ["Nil-ArgentDawn"] = {
-["total"] = 167682962,
+["total"] = 178300733,
 ["itemLevel"] = 621.8125,
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733365238,
+["servertime"] = 1733364594,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 153785190,
+["total"] = 143839416,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 105020302,
+["total"] = 107369007,
 ["itemLevel"] = 630.25,
 ["classId"] = 11,
 },
 },
-["date"] = "20:20 04/12/24",
+["date"] = "20:09 04/12/24",
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1733969154,
-["elapsed"] = 165.6430000000401,
+["time"] = 1733968598,
+["elapsed"] = 235.3020000000252,
 ["DAMAGER"] = {
 ["Esker"] = {
-["total"] = 118680165,
+["total"] = 175340377,
 ["itemLevel"] = 628.875,
 ["classId"] = 1,
 },
 ["Keydan-ArgentDawn"] = {
-["total"] = 78251569,
+["total"] = 118670581,
 ["itemLevel"] = 625.3125,
 ["classId"] = 11,
 },
 ["Elayna-ArgentDawn"] = {
-["total"] = 196050135,
+["total"] = 158102938,
 ["itemLevel"] = 632.125,
 ["classId"] = 3,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 182887060,
+["total"] = 225701645,
 ["itemLevel"] = 625.1875,
 ["classId"] = 8,
 },
 ["Apókryfes-Proudmoore"] = {
-["total"] = 210763794,
+["total"] = 299870989,
 ["itemLevel"] = 631,
 ["classId"] = 8,
 },
 ["Nidokiv-ArgentDawn"] = {
-["total"] = 189028052,
+["total"] = 252301348,
 ["itemLevel"] = 623.5,
 ["classId"] = 1,
 },
 ["Burnadine-ArgentDawn"] = {
-["total"] = 115580568,
+["total"] = 113130441,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Erixi-ArgentDawn"] = {
-["total"] = 184313216,
+["total"] = 303141119,
 ["itemLevel"] = 622.75,
 ["classId"] = 7,
 },
 ["Kadria-ArgentDawn"] = {
-["total"] = 220402004,
+["total"] = 295745831,
 ["itemLevel"] = 631.875,
 ["classId"] = 11,
 },
 ["Giulietta-ArgentDawn"] = {
-["total"] = 198485598,
+["total"] = 266367421,
 ["itemLevel"] = 0,
 ["classId"] = 1,
 },
 ["Artanos-ArgentDawn"] = {
-["total"] = 136019797,
+["total"] = 170154695,
 ["itemLevel"] = 621.3125,
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733969153,
+["servertime"] = 1733968598,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 101038824,
+["total"] = 115854238,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok-ArgentDawn"] = {
-["total"] = 98285656,
+["total"] = 140813255,
 ["itemLevel"] = 620.125,
 ["classId"] = 13,
 },
 },
-["date"] = "20:05 11/12/24",
+["date"] = "19:56 11/12/24",
 },
 {
-["time"] = 1734574643,
+["time"] = 1734573824,
 ["guild"] = "House Stalwart",
-["elapsed"] = 201.2339999999967,
-["date"] = "20:17 18/12/24",
-["servertime"] = 1734574642,
+["elapsed"] = 209.2810000000027,
+["date"] = "20:03 18/12/24",
+["servertime"] = 1734573824,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 124199000,
+["total"] = 123111003,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 128298895,
+["total"] = 127343684,
 ["itemLevel"] = 620.5625,
 ["classId"] = 13,
 },
 ["Mykellqt-Sargeras"] = {
-["total"] = 110885586,
+["total"] = 124085388,
 ["itemLevel"] = 604.875,
 ["classId"] = 5,
 },
 },
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 76511632,
+["total"] = 78074724,
 ["itemLevel"] = 626.75,
 ["classId"] = 11,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 226409148,
+["total"] = 213355123,
 ["itemLevel"] = 626.375,
 ["classId"] = 8,
 },
 ["Lleandryn"] = {
-["total"] = 206343376,
+["total"] = 190354067,
 ["itemLevel"] = 624.375,
 ["classId"] = 3,
 },
 ["Artanos"] = {
-["total"] = 130866968,
+["total"] = 150463625,
 ["itemLevel"] = 624.25,
 ["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 82900013,
+["total"] = 90443981,
 ["itemLevel"] = 611.8125,
 ["classId"] = 2,
 },
 ["Kadria"] = {
-["total"] = 258265914,
+["total"] = 282955327,
 ["itemLevel"] = 632.5,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 113658162,
+["total"] = 285905244,
 ["itemLevel"] = 622.75,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 142410059,
+["total"] = 165664984,
 ["itemLevel"] = 623.375,
 ["classId"] = 4,
 },
 ["Malimortui"] = {
-["total"] = 167522306,
+["total"] = 165472172,
 ["itemLevel"] = 609.4375,
 ["classId"] = 6,
 },
 ["Elayna"] = {
-["total"] = 236707837,
+["total"] = 195226657,
 ["itemLevel"] = 633.125,
 ["classId"] = 3,
 },
 },
 },
 {
-["date"] = "20:10 01/01/25",
+["date"] = "20:01 01/01/25",
 ["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
-["total"] = 221271013,
+["total"] = 273628963,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
 ["Erixi"] = {
-["total"] = 220973178,
+["total"] = 252988255,
 ["itemLevel"] = 628.25,
 ["classId"] = 7,
 },
 ["Artanos"] = {
-["total"] = 157849184,
+["total"] = 50852844,
 ["itemLevel"] = 625.375,
 ["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 76538763,
+["total"] = 103004208,
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
 ["Angélique"] = {
-["total"] = 109750046,
+["total"] = 174976592,
 ["itemLevel"] = 618.3125,
 ["classId"] = 12,
 },
 ["Elayna"] = {
-["total"] = 188457938,
+["total"] = 205596304,
 ["itemLevel"] = 634.75,
 ["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 140566793,
+["total"] = 195126587,
 ["itemLevel"] = 627.25,
 ["classId"] = 4,
 },
 ["Nil"] = {
-["total"] = 143525431,
+["total"] = 181294879,
 ["itemLevel"] = 623,
 ["classId"] = 10,
 },
 ["Hydeon"] = {
-["total"] = 156809184,
+["total"] = 195268350,
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
 ["Kadria"] = {
-["total"] = 71107790,
+["total"] = 83833053,
 ["itemLevel"] = 630.875,
 ["classId"] = 11,
 },
 },
-["elapsed"] = 148.6539999999804,
-["servertime"] = 1735783812,
+["elapsed"] = 185.5359999999928,
+["servertime"] = 1735783299,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 126931763,
+["total"] = 115959594,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Zephyrri"] = {
-["total"] = 170314223,
+["total"] = 123421263,
 ["itemLevel"] = 624.9375,
 ["classId"] = 7,
 },
 },
-["time"] = 1735783813,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1737598280,
-["elapsed"] = 169.6700000000419,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 66823651,
-["itemLevel"] = 631.5,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 131109075,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 264379963,
-["itemLevel"] = 636.1875,
-["classId"] = 8,
-},
-["Artaius"] = {
-["total"] = 106711078,
-["itemLevel"] = 597.3125,
-["classId"] = 11,
-},
-["Kadria"] = {
-["total"] = 96337863,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 197911684,
-["itemLevel"] = 626.8125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 157532291,
-["itemLevel"] = 628,
-["classId"] = 4,
-},
-["Estuary"] = {
-["total"] = 158846717,
-["itemLevel"] = 618.4375,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 195127159,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-},
-["servertime"] = 1737598279,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 132517390,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 115865373,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:11 22/01/25",
+["time"] = 1735783299,
 },
 {
 ["DAMAGER"] = {
 ["Sverdrup"] = {
-["total"] = 70515460,
+["total"] = 127114270,
 ["itemLevel"] = 616.8125,
 ["classId"] = 10,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 261075458,
+["total"] = 339727625,
 ["itemLevel"] = 635.8125,
 ["classId"] = 8,
 },
 ["Jiulianna"] = {
-["total"] = 153246966,
-["itemLevel"] = 609.4375,
+["total"] = 192583915,
+["itemLevel"] = 608.625,
 ["classId"] = 2,
 },
 ["Gedan"] = {
-["total"] = 145022825,
+["total"] = 166742415,
 ["itemLevel"] = 615,
 ["classId"] = 11,
 },
 ["Artanos"] = {
-["total"] = 188875327,
+["total"] = 239595030,
 ["itemLevel"] = 627,
 ["classId"] = 8,
 },
 ["Xyza"] = {
-["total"] = 69757683,
-["itemLevel"] = 558.4375,
+["total"] = 83466484,
+["itemLevel"] = 553.25,
 ["classId"] = 5,
 },
 ["Kadria"] = {
-["total"] = 78128055,
+["total"] = 132201443,
 ["itemLevel"] = 630.875,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 198135811,
+["total"] = 265568427,
 ["itemLevel"] = 635.5625,
 ["classId"] = 3,
 },
 ["Burnadine"] = {
-["total"] = 141482342,
+["total"] = 32668379,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 },
-["time"] = 1738808940,
-["date"] = "20:29 05/02/25",
-["elapsed"] = 176.6940000000177,
-["servertime"] = 1738808940,
+["time"] = 1738808296,
+["date"] = "20:18 05/02/25",
+["elapsed"] = 265.8540000000503,
+["servertime"] = 1738808295,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 190279559,
+["total"] = 160485380,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Zephyrri"] = {
-["total"] = 210760028,
+["total"] = 293692349,
+["itemLevel"] = 628.5625,
+["classId"] = 7,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3122] = {
+{
+["time"] = 1757126306,
+["guild"] = "House Stalwart",
+["elapsed"] = 462.5129999999917,
+["date"] = "21:38 05/09/25",
+["servertime"] = 1757126306,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1178382035,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1097154919,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2306000313,
+["itemLevel"] = 712.125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1069786988,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 1043469170,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1369067365,
+["itemLevel"] = 704.6875,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 3035689140,
+["itemLevel"] = 710.625,
+["classId"] = 6,
+},
+["Taise-Area52"] = {
+["total"] = 3067910549,
+["itemLevel"] = 706.75,
+["classId"] = 1,
+},
+["Nil"] = {
+["total"] = 513194286,
+["itemLevel"] = 699.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2380431884,
+["itemLevel"] = 707.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 2236822993,
+["itemLevel"] = 706.375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1418942881,
+["itemLevel"] = 697.3125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2866162996,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 1200262217,
+["itemLevel"] = 706.6875,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 2039206534,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1758162654,
+["guild"] = "House Stalwart",
+["elapsed"] = 444.9969999999739,
+["date"] = "21:30 17/09/25",
+["servertime"] = 1758162653,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1109096114,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1123395487,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1988757639,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1286461082,
+["itemLevel"] = 713.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1308583076,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 3087030889,
+["itemLevel"] = 713.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1131183526,
+["itemLevel"] = 694,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 2205563785,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 2853545642,
+["itemLevel"] = 711.3125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1496892951,
+["itemLevel"] = 709.9375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1763196976,
+["itemLevel"] = 703.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2795150081,
+["itemLevel"] = 714.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2364355264,
+["itemLevel"] = 699.75,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 927448521,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+},
+{
+["date"] = "20:38 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1006874225,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 964688079,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2744257535,
+["itemLevel"] = 714.0625,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 1540242257,
+["itemLevel"] = 711.6875,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 563263929,
+["itemLevel"] = 700.6875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2486900808,
+["itemLevel"] = 713.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 2141136967,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1586927975,
+["itemLevel"] = 704.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2557690472,
+["itemLevel"] = 715.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2447825748,
+["itemLevel"] = 707.75,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 1286091079,
+["itemLevel"] = 709.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 377.8470000000089,
+["servertime"] = 1758764323,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1059201525,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 959230545,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1769351127,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
+},
+},
+["time"] = 1758764323,
+},
+{
+["date"] = "20:57 01/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 941447355,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1215135266,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2857362070,
+["itemLevel"] = 716.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1233697843,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 1132560127,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 2730005874,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1717015904,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1663747095,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2463648030,
+["itemLevel"] = 716.0625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2591777225,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1932098135,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 372.0900000000256,
+["servertime"] = 1759370237,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 963800988,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1202795767,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1649377917,
+["itemLevel"] = 716.4375,
+["classId"] = 11,
+},
+},
+["time"] = 1759370238,
+},
+{
+["date"] = "21:04 08/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 997924504,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1291098686,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 1087975094,
+["itemLevel"] = 701.5,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 792167627,
+["itemLevel"] = 705.625,
+["classId"] = 10,
+},
+["Burnadine"] = {
+["total"] = 967839625,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 2053133116,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1680353158,
+["itemLevel"] = 706.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 3113131792,
+["itemLevel"] = 718.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 3325560675,
+["itemLevel"] = 714.6875,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 2313207583,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 436.4470000000001,
+["servertime"] = 1759975498,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1347314933,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1780311330,
+["itemLevel"] = 710.875,
+["classId"] = 13,
+},
+},
+["time"] = 1759975499,
+},
+{
+["time"] = 1760578644,
+["guild"] = "House Stalwart",
+["elapsed"] = 365.1009999999951,
+["date"] = "20:37 15/10/25",
+["servertime"] = 1760578644,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 976440828,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1074529378,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1622487755,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 998595549,
+["itemLevel"] = 716.125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 1010544281,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2517345449,
+["itemLevel"] = 718.75,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 533448851,
+["itemLevel"] = 701.9375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 1264189596,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 2096645622,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1696934771,
+["itemLevel"] = 707.625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2807584427,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2966179045,
+["itemLevel"] = 717.125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 2257261815,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761183358,
+["elapsed"] = 327.7709999999497,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 871357889,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 1029912294,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2653830494,
+["itemLevel"] = 720.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1334527192,
+["itemLevel"] = 704.75,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 1091675050,
+["itemLevel"] = 716.875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2740232569,
+["itemLevel"] = 718.4375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1823722742,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1615124525,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2412094413,
+["itemLevel"] = 722.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2871898927,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1680162418,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+["servertime"] = 1761183357,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 935375571,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1076758995,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1377536496,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:35 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 797534998,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 928851493,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2542445018,
+["itemLevel"] = 722.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1257414338,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 2453956849,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1392887111,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1613666186,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 1885371412,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Heikuro"] = {
+["total"] = 2584655115,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 924681038,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761788467,
+["date"] = "20:41 29/10/25",
+["elapsed"] = 332.5199999999604,
+["servertime"] = 1761788466,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1220412604,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1401381225,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[2922] = {
+{
+["time"] = 1732935777,
+["guild"] = "House Stalwart",
+["elapsed"] = 486.9729999999981,
+["date"] = "21:02 29/11/24",
+["servertime"] = 1732935776,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 363409668,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 284318948,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 303156274,
+["itemLevel"] = 625.5,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 183785220,
+["itemLevel"] = 623.3125,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 474923006,
+["itemLevel"] = 630.6875,
+["classId"] = 3,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 493357181,
+["itemLevel"] = 629.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 393236582,
+["itemLevel"] = 621.625,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 634327243,
+["itemLevel"] = 622,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 532910574,
+["itemLevel"] = 622.9375,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 116349947,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 496415871,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 217253559,
+["itemLevel"] = 620.8125,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 194231100,
+["itemLevel"] = 621.8125,
+["classId"] = 10,
+},
+},
+},
+{
+["time"] = 1733540424,
+["guild"] = "House Stalwart",
+["elapsed"] = 507.4790000000503,
+["date"] = "21:00 06/12/24",
+["servertime"] = 1733540423,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 421341183,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 423778904,
+["itemLevel"] = 630.8125,
+["classId"] = 11,
+},
+["Zephyrri-ArgentDawn"] = {
+["total"] = 628390346,
+["itemLevel"] = 620.75,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 313242984,
+["itemLevel"] = 627.375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 190523344,
+["itemLevel"] = 624,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 157378861,
+["itemLevel"] = 631.0625,
+["classId"] = 3,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 212428155,
+["itemLevel"] = 624.75,
+["classId"] = 8,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 261876458,
+["itemLevel"] = 621.3125,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 210992071,
+["itemLevel"] = 621.8125,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 599284629,
+["itemLevel"] = 623.0625,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 550792045,
+["itemLevel"] = 623.625,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 243863544,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 478136677,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 505175980,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 319722864,
+["itemLevel"] = 622.3125,
+["classId"] = 4,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733973979,
+["elapsed"] = 479.6659999999683,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 308955516,
+["itemLevel"] = 628.875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 166297001,
+["itemLevel"] = 624.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 462935096,
+["itemLevel"] = 632.125,
+["classId"] = 3,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 492411433,
+["itemLevel"] = 625.1875,
+["classId"] = 8,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 585637024,
+["itemLevel"] = 631,
+["classId"] = 8,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 535358443,
+["itemLevel"] = 623.5,
+["classId"] = 1,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 58536588,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 452821301,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 483961535,
+["itemLevel"] = 631.875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 529135694,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 84137650,
+["itemLevel"] = 621.3125,
+["classId"] = 8,
+},
+},
+["servertime"] = 1733973979,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 286868004,
+["itemLevel"] = 624.4666666666667,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 295538226,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
+["date"] = "21:26 11/12/24",
+},
+{
+["date"] = "21:53 18/12/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 292818094,
+["itemLevel"] = 631.9375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 188274133,
+["itemLevel"] = 626.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 436657706,
+["itemLevel"] = 633.125,
+["classId"] = 3,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 534361246,
+["itemLevel"] = 626.375,
+["classId"] = 8,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 243479383,
+["itemLevel"] = 624.0625,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 338922129,
+["itemLevel"] = 623.375,
+["classId"] = 4,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 378138408,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 501794409,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 622885232,
+["itemLevel"] = 632.5,
+["classId"] = 11,
+},
+["Malimortui-ArgentDawn"] = {
+["total"] = 170685633,
+["itemLevel"] = 612.5,
+["classId"] = 6,
+},
+},
+["elapsed"] = 490.1310000000085,
+["servertime"] = 1734580438,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 352717576,
+["itemLevel"] = 625.3333333333334,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 249762556,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 431595712,
+["itemLevel"] = 606.6875,
+["classId"] = 5,
+},
+},
+["time"] = 1734580439,
+},
+{
+["date"] = "22:46 27/12/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 201343630,
+["itemLevel"] = 628.625,
+["classId"] = 11,
+},
+["Confluence"] = {
+["total"] = 232732208,
+["itemLevel"] = 614.25,
+["classId"] = 2,
+},
+["Malimortui"] = {
+["total"] = 402351188,
+["itemLevel"] = 618.6875,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 508847699,
+["itemLevel"] = 633.9375,
+["classId"] = 3,
+},
+["Giulietta"] = {
+["total"] = 345751460,
+["itemLevel"] = 633.5,
+["classId"] = 1,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 570837827,
+["itemLevel"] = 632.3125,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 285754566,
+["itemLevel"] = 624.0625,
+["classId"] = 8,
+},
+},
+["elapsed"] = 500.7700000000186,
+["servertime"] = 1735361215,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 351717743,
+["itemLevel"] = 156.5,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 284180157,
+["itemLevel"] = 623,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 330101869,
+["itemLevel"] = 634.125,
+["classId"] = 11,
+},
+},
+["time"] = 1735361216,
+},
+{
+["date"] = "21:18 01/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Permaphrost-Proudmoore"] = {
+["total"] = 500224374,
+["itemLevel"] = 635.375,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 418795346,
+["itemLevel"] = 628.25,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 276195625,
+["itemLevel"] = 625.375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 290436857,
+["itemLevel"] = 623,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 156657363,
+["itemLevel"] = 631.2,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 408439273,
+["itemLevel"] = 634.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 342052617,
+["itemLevel"] = 627.25,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 139423267,
+["itemLevel"] = 633.5,
+["classId"] = 1,
+},
+["Hydeon"] = {
+["total"] = 335961665,
+["itemLevel"] = 623.8125,
+["classId"] = 5,
+},
+["Confluence"] = {
+["total"] = 208993534,
+["itemLevel"] = 619.3125,
+["classId"] = 2,
+},
+},
+["elapsed"] = 385.9279999999853,
+["servertime"] = 1735787898,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 339725571,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 398296020,
+["itemLevel"] = 624.9375,
+["classId"] = 7,
+},
+},
+["time"] = 1735787898,
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 212884830,
+["itemLevel"] = 630.9375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 78527227,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 687887636,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Angélique"] = {
+["total"] = 152282009,
+["itemLevel"] = 620.0625,
+["classId"] = 12,
+},
+["Artanos"] = {
+["total"] = 276162889,
+["itemLevel"] = 626.1875,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 282926781,
+["itemLevel"] = 620.875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 227243105,
+["itemLevel"] = 634.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 470159135,
+["itemLevel"] = 634.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 385592914,
+["itemLevel"] = 627.625,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 570015455,
+["itemLevel"] = 628.4375,
+["classId"] = 7,
+},
+["Hydeon"] = {
+["total"] = 498541671,
+["itemLevel"] = 623.8125,
+["classId"] = 5,
+},
+["Nil"] = {
+["total"] = 377745495,
+["itemLevel"] = 623.1875,
+["classId"] = 10,
+},
+},
+["time"] = 1736392258,
+["date"] = "21:10 08/01/25",
+["elapsed"] = 496.0129999999999,
+["servertime"] = 1736392258,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 312349199,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 297238585,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 480812673,
+["itemLevel"] = 618.25,
+["classId"] = 5,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 215344019,
+["itemLevel"] = 631.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 174178717,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 502578252,
+["itemLevel"] = 626.125,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 652508475,
+["itemLevel"] = 634.9375,
+["classId"] = 8,
+},
+["Artanos"] = {
+["total"] = 132672157,
+["itemLevel"] = 626.625,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 139691087,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 475449489,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Estuary"] = {
+["total"] = 219304255,
+["itemLevel"] = 619.0625,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 495194186,
+["itemLevel"] = 626.8125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 430785990,
+["itemLevel"] = 628,
+["classId"] = 4,
+},
+},
+["time"] = 1737603472,
+["date"] = "21:37 22/01/25",
+["elapsed"] = 488.9079999999376,
+["servertime"] = 1737603471,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 380386969,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 287881319,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1738814346,
+["guild"] = "House Stalwart",
+["elapsed"] = 417.5329999999376,
+["date"] = "21:59 05/02/25",
+["servertime"] = 1738814346,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 397329603,
+["itemLevel"] = 628.1333333333333,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 486060745,
+["itemLevel"] = 628.5625,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Burnadine"] = {
+["total"] = 263173238,
+["itemLevel"] = 625,
+["classId"] = 9,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 573564618,
+["itemLevel"] = 636.625,
+["classId"] = 8,
+},
+["Jiulianna"] = {
+["total"] = 332581497,
+["itemLevel"] = 611.375,
+["classId"] = 2,
+},
+["Gedan"] = {
+["total"] = 223017856,
+["itemLevel"] = 615.1875,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 271881506,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 206138304,
+["itemLevel"] = 623.4375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 169173320,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 399382499,
+["itemLevel"] = 628.8125,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 402025295,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+},
+},
+},
+[3010] = {
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 465327596,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 37036234,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 483562145,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Giulietta"] = {
+["total"] = 413072356,
+["itemLevel"] = 642.375,
+["classId"] = 1,
+},
+["Nil"] = {
+["total"] = 91193163,
+["itemLevel"] = 626.625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 522875921,
+["itemLevel"] = 657.5625,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 533451175,
+["itemLevel"] = 655.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 386865863,
+["itemLevel"] = 642.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 307081275,
+["itemLevel"] = 658.25,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 387086533,
+["itemLevel"] = 644.8125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 289708026,
+["itemLevel"] = 654.9375,
+["classId"] = 2,
+},
+},
+["time"] = 1742610339,
+["date"] = "21:25 21/03/25",
+["elapsed"] = 393.4040000000005,
+["servertime"] = 1742610338,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 394647823,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1743043458,
+["elapsed"] = 337.9060000000027,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 175703536,
+["itemLevel"] = 655.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 25302137,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 571696891,
+["itemLevel"] = 658.75,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 276314714,
+["itemLevel"] = 658,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 529931655,
+["itemLevel"] = 660.25,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 580954030,
+["itemLevel"] = 663.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 233466817,
+["itemLevel"] = 645.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 548427551,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 418015386,
+["itemLevel"] = 648.75,
+["classId"] = 7,
+},
+},
+["servertime"] = 1743043457,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 134005418,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 171810143,
+["itemLevel"] = 638.5625,
+["classId"] = 13,
+},
+},
+["date"] = "21:44 26/03/25",
+},
+{
+["time"] = 1744248452,
+["guild"] = "House Stalwart",
+["elapsed"] = 271.4589999999153,
+["date"] = "20:27 09/04/25",
+["servertime"] = 1744248451,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 232933563,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 222019643,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 540768535,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 155119307,
+["itemLevel"] = 665.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 101242050,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 562555199,
+["itemLevel"] = 665.5,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 250497132,
+["itemLevel"] = 665.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 228654243,
+["itemLevel"] = 665.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 436336596,
+["itemLevel"] = 659.375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 298993846,
+["itemLevel"] = 650.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 461623601,
+["itemLevel"] = 659,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 461911032,
+["itemLevel"] = 665.375,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1747270312,
+["guild"] = "House Stalwart",
+["elapsed"] = 222.4629999999888,
+["date"] = "19:51 14/05/25",
+["servertime"] = 1747270311,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 309982283,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Rylacus"] = {
+["total"] = 275350754,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 106014497,
+["itemLevel"] = 657.75,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 196810770,
+["itemLevel"] = 667.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 487631644,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
+},
+["Anguis"] = {
+["total"] = 348583223,
+["itemLevel"] = 651.375,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 547348634,
+["itemLevel"] = 672.625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 257220486,
+["itemLevel"] = 672.5,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 430923056,
+["itemLevel"] = 665.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "19:49 28/05/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 54139016,
+["itemLevel"] = 637.875,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 136537123,
+["itemLevel"] = 661.1875,
+["classId"] = 9,
+},
+["Keydan"] = {
+["total"] = 195881867,
+["itemLevel"] = 673.8125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 550561866,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
+},
+["Anguis"] = {
+["total"] = 426871973,
+["itemLevel"] = 658,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 599216912,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 272289401,
+["itemLevel"] = 677,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 524378774,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
+},
+},
+["elapsed"] = 239.7930000000051,
+["servertime"] = 1748479779,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 233127608,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1748479780,
+},
+{
+["date"] = "19:55 04/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 535134256,
+["itemLevel"] = 675.75,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 111349607,
+["itemLevel"] = 629,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 486621892,
+["itemLevel"] = 661.5,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 67228168,
+["itemLevel"] = 641.4375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 458596615,
+["itemLevel"] = 673.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 482241390,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 299044367,
+["itemLevel"] = 664.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 578454663,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 264372412,
+["itemLevel"] = 675,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 523350278,
+["itemLevel"] = 676.75,
+["classId"] = 3,
+},
+},
+["elapsed"] = 218.5050000000047,
+["servertime"] = 1749084931,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 296444815,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 245990755,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
+["time"] = 1749084931,
+},
+{
+["time"] = 1749689884,
+["guild"] = "House Stalwart",
+["elapsed"] = 232.8280000000086,
+["date"] = "19:58 11/06/25",
+["servertime"] = 1749689884,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 374448138,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 269275209,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 278071279,
+["itemLevel"] = 676.9375,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 501727302,
+["itemLevel"] = 662.9375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 406081648,
+["itemLevel"] = 653.5,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 94251534,
+["itemLevel"] = 650.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 277346669,
+["itemLevel"] = 678.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 504011265,
+["itemLevel"] = 677.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 526116330,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 333253064,
+["itemLevel"] = 665,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 88111846,
+["itemLevel"] = 676.625,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 404572347,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1750294480,
+["elapsed"] = 224.0089999999618,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 190075668,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 119179804,
+["itemLevel"] = 639.75,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 604033615,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 441606091,
+["itemLevel"] = 659.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 107838661,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 460920727,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 310938306,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 280098352,
+["itemLevel"] = 681.3125,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 584671268,
+["itemLevel"] = 678.375,
+["classId"] = 3,
+},
+},
+["servertime"] = 1750294479,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 205548436,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 274105851,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
+["date"] = "19:54 18/06/25",
+},
+{
+["date"] = "19:58 25/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 164010398,
+["itemLevel"] = 676.3125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 156565898,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Urklesnurkle"] = {
+["total"] = 216193494,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 422692116,
+["itemLevel"] = 668.25,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 470815009,
+["itemLevel"] = 672.5,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 367247862,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 220359002,
+["itemLevel"] = 657.125,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 479628064,
+["itemLevel"] = 679.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 444896844,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 283896187,
+["itemLevel"] = 668.5,
+["classId"] = 4,
+},
+["Sverdrup"] = {
+["total"] = 167390125,
+["itemLevel"] = 645.75,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 496240026,
+["itemLevel"] = 679.375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 202.4279999998398,
+["servertime"] = 1750899524,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 417943845,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 285989589,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["time"] = 1750899524,
+},
+{
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 230787919,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 230362795,
+["itemLevel"] = 666.8125,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 286119955,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Errya"] = {
+["total"] = 62087734,
+["itemLevel"] = 622.125,
+["classId"] = 2,
+},
+["Anguis"] = {
+["total"] = 557568961,
+["itemLevel"] = 674.3125,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 444073046,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 542634470,
+["itemLevel"] = 675.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 277096933,
+["itemLevel"] = 669.25,
+["classId"] = 4,
+},
+},
+["time"] = 1751504353,
+["date"] = "19:59 02/07/25",
+["elapsed"] = 217.9740000001621,
+["servertime"] = 1751504353,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 346783973,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 333449413,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 412186750,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 203649931,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 363198794,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 565338439,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 103480222,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 178839686,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 497343526,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 301563242,
+["itemLevel"] = 670,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 401250764,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+["Jullianna"] = {
+["total"] = 294952930,
+["itemLevel"] = 665,
+["classId"] = 5,
+},
+},
+["time"] = 1752108707,
+["date"] = "19:51 09/07/25",
+["elapsed"] = 183.5740000000078,
+["servertime"] = 1752108706,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 327438736,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 236640010,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1752713801,
+["guild"] = "House Stalwart",
+["elapsed"] = 220.2890000000189,
+["date"] = "19:56 16/07/25",
+["servertime"] = 1752713800,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 307152817,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 195905315,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 146754462,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 415305409,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 316438391,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 249069183,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 164768602,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 502012904,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 385808753,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 219145054,
+["itemLevel"] = 656.125,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 406782649,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 601565012,
+["itemLevel"] = 678.6875,
+["classId"] = 13,
+},
+},
+},
+},
+[3011] = {
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 392789130,
+["itemLevel"] = 644.5625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 84516466,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 567109178,
+["itemLevel"] = 652.8125,
+["classId"] = 7,
+},
+["Giulietta"] = {
+["total"] = 354953233,
+["itemLevel"] = 642.375,
+["classId"] = 1,
+},
+["Nil"] = {
+["total"] = 103356076,
+["itemLevel"] = 630.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 453652273,
+["itemLevel"] = 657.5625,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 408259786,
+["itemLevel"] = 655.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 359942849,
+["itemLevel"] = 642.6875,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 286666223,
+["itemLevel"] = 658.25,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 426707656,
+["itemLevel"] = 645.25,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 252939717,
+["itemLevel"] = 654.9375,
+["classId"] = 2,
+},
+},
+["time"] = 1742611630,
+["date"] = "21:47 21/03/25",
+["elapsed"] = 382.3580000000002,
+["servertime"] = 1742611630,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 417456750,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "21:01 28/03/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 450169017,
+["itemLevel"] = 658.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 100757293,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 569281401,
+["itemLevel"] = 659.3125,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 243604769,
+["itemLevel"] = 662,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 400111881,
+["itemLevel"] = 662,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 326547315,
+["itemLevel"] = 650.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 319026506,
+["itemLevel"] = 647.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 242985487,
+["itemLevel"] = 662.4375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 581255446,
+["itemLevel"] = 663.8125,
+["classId"] = 3,
+},
+["Giulietta"] = {
+["total"] = 374900539,
+["itemLevel"] = 646.9375,
+["classId"] = 1,
+},
+},
+["elapsed"] = 331.505999999994,
+["servertime"] = 1743213715,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 327296727,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 213374848,
+["itemLevel"] = 640.75,
+["classId"] = 13,
+},
+},
+["time"] = 1743213715,
+},
+{
+["time"] = 1744249082,
+["guild"] = "House Stalwart",
+["elapsed"] = 254.2409999999218,
+["date"] = "20:38 09/04/25",
+["servertime"] = 1744249081,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 292690351,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 226067476,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 462378855,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 167883691,
+["itemLevel"] = 665.75,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 112158132,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 482125281,
+["itemLevel"] = 665.5,
+["classId"] = 7,
+},
+["Confluence"] = {
+["total"] = 217590827,
+["itemLevel"] = 665.6875,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 422668013,
+["itemLevel"] = 665.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 370272175,
+["itemLevel"] = 659.375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 280885006,
+["itemLevel"] = 650.75,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 345445735,
+["itemLevel"] = 659,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 400003581,
+["itemLevel"] = 665.375,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1747270820,
+["guild"] = "House Stalwart",
+["elapsed"] = 231.570000000007,
+["date"] = "20:00 14/05/25",
+["servertime"] = 1747270819,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 310799882,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Rylacus"] = {
+["total"] = 283286999,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
+},
+["Burnadine"] = {
+["total"] = 133896204,
+["itemLevel"] = 657.75,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 177485642,
+["itemLevel"] = 667.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 444554714,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
+},
+["Anguis"] = {
+["total"] = 344092876,
+["itemLevel"] = 651.25,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 423244572,
+["itemLevel"] = 673.0625,
+["classId"] = 1,
+},
+["Confluence"] = {
+["total"] = 232134581,
+["itemLevel"] = 672.5,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 421490024,
+["itemLevel"] = 665.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "20:00 28/05/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 182049175,
+["itemLevel"] = 673.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 154102036,
+["itemLevel"] = 661.1875,
+["classId"] = 9,
+},
+["Confluence"] = {
+["total"] = 252290700,
+["itemLevel"] = 677,
+["classId"] = 2,
+},
+["Erixi"] = {
+["total"] = 508619815,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 426665455,
+["itemLevel"] = 658,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 516376534,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 545527506,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 227628568,
+["itemLevel"] = 637.875,
+["classId"] = 8,
+},
+},
+["elapsed"] = 243.1900000000023,
+["servertime"] = 1748480437,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 211261053,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["time"] = 1748480438,
+},
+{
+["date"] = "20:04 04/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 404864952,
+["itemLevel"] = 675.75,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 97114769,
+["itemLevel"] = 630.625,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 455424767,
+["itemLevel"] = 661.5,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 235958779,
+["itemLevel"] = 641.4375,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 394404821,
+["itemLevel"] = 673.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 435487461,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 318988070,
+["itemLevel"] = 664.125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 309720070,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 190835445,
+["itemLevel"] = 675,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 434390642,
+["itemLevel"] = 676.75,
+["classId"] = 3,
+},
+},
+["elapsed"] = 202.6809999999823,
+["servertime"] = 1749085477,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 309217602,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 198692913,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
+["time"] = 1749085477,
+},
+{
+["time"] = 1749690462,
+["guild"] = "House Stalwart",
+["elapsed"] = 208.9759999999951,
+["date"] = "20:07 11/06/25",
+["servertime"] = 1749690461,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 350662469,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 231879012,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 428824996,
+["itemLevel"] = 676.9375,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 478773455,
+["itemLevel"] = 662.9375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 318214828,
+["itemLevel"] = 653.5,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 226783924,
+["itemLevel"] = 650.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 229362439,
+["itemLevel"] = 678.375,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 422843852,
+["itemLevel"] = 677.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 429561850,
+["itemLevel"] = 675.125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 302637366,
+["itemLevel"] = 665,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 193279743,
+["itemLevel"] = 676.625,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 294128152,
+["itemLevel"] = 677.125,
+["classId"] = 3,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 168672550,
+["itemLevel"] = 674.5625,
+["classId"] = 11,
+},
+["Anguis"] = {
+["total"] = 524785763,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 374491163,
+["itemLevel"] = 659.875,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 261817377,
+["itemLevel"] = 652.4375,
+["classId"] = 8,
+},
+["Riparium"] = {
+["total"] = 456874436,
+["itemLevel"] = 671.375,
+["classId"] = 9,
+},
+["Rylacus"] = {
+["total"] = 195773399,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 200595992,
+["itemLevel"] = 681.3125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 351641070,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 403538257,
+["itemLevel"] = 678.375,
+["classId"] = 3,
+},
+},
+["time"] = 1750295055,
+["date"] = "20:04 18/06/25",
+["elapsed"] = 197.0889999999199,
+["servertime"] = 1750295054,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 229294636,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 225558618,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "20:13 25/06/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 151543551,
+["itemLevel"] = 676.3125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 147453476,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Urklesnurkle"] = {
+["total"] = 260214171,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 385018501,
+["itemLevel"] = 668.25,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 246206503,
+["itemLevel"] = 672.5,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 386261336,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 257153352,
+["itemLevel"] = 657.125,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 345975267,
+["itemLevel"] = 679.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 452645277,
+["itemLevel"] = 675.5625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 231439178,
+["itemLevel"] = 668.5,
+["classId"] = 4,
+},
+["Sverdrup"] = {
+["total"] = 136464981,
+["itemLevel"] = 645.75,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 477234533,
+["itemLevel"] = 679.375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 220.6450000000186,
+["servertime"] = 1750900424,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 261897554,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 409211938,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["time"] = 1750900425,
+},
+{
+["time"] = 1751505054,
+["guild"] = "House Stalwart",
+["elapsed"] = 216.8349999999628,
+["date"] = "20:10 02/07/25",
+["servertime"] = 1751505053,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 373712200,
+["itemLevel"] = 637.75,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 316047161,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Artanos"] = {
+["total"] = 297680124,
+["itemLevel"] = 658.5,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 172749696,
+["itemLevel"] = 665.8666666666667,
+["classId"] = 10,
+},
+["Urklesnurkle"] = {
+["total"] = 244229967,
+["itemLevel"] = 0,
+["classId"] = 8,
+},
+["Errya"] = {
+["total"] = 50758974,
+["itemLevel"] = 622.125,
+["classId"] = 2,
+},
+["Anguis"] = {
+["total"] = 485262324,
+["itemLevel"] = 674.3125,
+["classId"] = 13,
+},
+["Angelica"] = {
+["total"] = 407677510,
+["itemLevel"] = 667.3125,
+["classId"] = 10,
+},
+["Rylacus"] = {
+["total"] = 321947886,
+["itemLevel"] = 669.25,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 420438928,
+["itemLevel"] = 675.75,
+["classId"] = 7,
+},
+},
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 398826893,
+["itemLevel"] = 681.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 187119528,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 390106134,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 427452200,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 173499254,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 174773251,
+["itemLevel"] = 677.1875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 349807749,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 285903909,
+["itemLevel"] = 670,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 352961341,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+["Jullianna"] = {
+["total"] = 223906760,
+["itemLevel"] = 665,
+["classId"] = 5,
+},
+},
+["time"] = 1752109304,
+["date"] = "20:01 09/07/25",
+["elapsed"] = 175.7710000000079,
+["servertime"] = 1752109303,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 290031113,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 255859157,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1752714368,
+["guild"] = "House Stalwart",
+["elapsed"] = 186.6050000000105,
+["date"] = "20:06 16/07/25",
+["servertime"] = 1752714367,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 308519639,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 277538926,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 142106623,
+["itemLevel"] = 682.9375,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 425037785,
+["itemLevel"] = 680.5,
+["classId"] = 8,
+},
+["Jullianna"] = {
+["total"] = 284536054,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
+},
+["Artanos"] = {
+["total"] = 228730012,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 173608105,
+["itemLevel"] = 678,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 406403587,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 286960457,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 254847398,
+["itemLevel"] = 656.125,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 384680722,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+["Anguis"] = {
+["total"] = 506349575,
+["itemLevel"] = 678.6875,
+["classId"] = 13,
+},
+},
+},
+},
+[3130] = {
+{
+["time"] = 1756521708,
+["guild"] = "House Stalwart",
+["elapsed"] = 357.5509999999777,
+["date"] = "21:41 29/08/25",
+["servertime"] = 1756521707,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 690703424,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 712535650,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1507475043,
+["itemLevel"] = 707.5,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 757411511,
+["itemLevel"] = 699.75,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 942867973,
+["itemLevel"] = 700.9375,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 1748919563,
+["itemLevel"] = 696.75,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 872560756,
+["itemLevel"] = 706.6875,
+["classId"] = 6,
+},
+["Nil"] = {
+["total"] = 1198633557,
+["itemLevel"] = 695,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1528401422,
+["itemLevel"] = 700.375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1576073075,
+["itemLevel"] = 705.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 994191559,
+["itemLevel"] = 687.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1999551756,
+["itemLevel"] = 701.4375,
+["classId"] = 1,
+},
+["Taise-Area52"] = {
+["total"] = 2013112491,
+["itemLevel"] = 702.5,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 1564665135,
+["itemLevel"] = 700.375,
+["classId"] = 7,
+},
+},
+},
+{
+["time"] = 1757123553,
+["guild"] = "House Stalwart",
+["elapsed"] = 368.30799999999,
+["date"] = "20:52 05/09/25",
+["servertime"] = 1757123553,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 527364986,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 942130803,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1674268998,
+["itemLevel"] = 712.125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 813886481,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1287299631,
+["itemLevel"] = 706.6875,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 1859571939,
+["itemLevel"] = 704.6875,
+["classId"] = 13,
+},
+["Taise-Area52"] = {
+["total"] = 2419647101,
+["itemLevel"] = 706.375,
+["classId"] = 1,
+},
+["Nil"] = {
+["total"] = 1398947492,
+["itemLevel"] = 699.125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1557503416,
+["itemLevel"] = 707.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1696300655,
+["itemLevel"] = 706.375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1156040855,
+["itemLevel"] = 697.3125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1949166428,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Elayna"] = {
+["total"] = 1669299958,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 352917491,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+},
+{
+["time"] = 1758158519,
+["guild"] = "House Stalwart",
+["elapsed"] = 277.2870000000112,
+["date"] = "20:21 17/09/25",
+["servertime"] = 1758158519,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 588261480,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 598584671,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 989327751,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 759880036,
+["itemLevel"] = 713.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 927547339,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1566828959,
+["itemLevel"] = 713.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 875309744,
+["itemLevel"] = 693.625,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 1344744104,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1506177151,
+["itemLevel"] = 711.3125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1652550354,
+["itemLevel"] = 708.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1087914787,
+["itemLevel"] = 703.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1743790458,
+["itemLevel"] = 714.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1302408071,
+["itemLevel"] = 699.125,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 749913479,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+},
+{
+["date"] = "20:12 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 573280052,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 807739042,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1753042589,
+["itemLevel"] = 714.4375,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 1076005992,
+["itemLevel"] = 712.25,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 929208047,
+["itemLevel"] = 700.6875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1377680589,
+["itemLevel"] = 713.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1408538631,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 924699317,
+["itemLevel"] = 704.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1561720587,
+["itemLevel"] = 715.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1439552030,
+["itemLevel"] = 707.75,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 818823353,
+["itemLevel"] = 709.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 244.8260000000009,
+["servertime"] = 1758762747,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 648494092,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 573045438,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1066632504,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
+},
+},
+["time"] = 1758762748,
+},
+{
+["date"] = "20:22 01/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 597414954,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 717088152,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1726990450,
+["itemLevel"] = 716.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 849532896,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 619555411,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 1329507459,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1374030350,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1066646726,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1539560539,
+["itemLevel"] = 716.0625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1468005994,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1234404329,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 248.7399999999907,
+["servertime"] = 1759368145,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 649589589,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 617211123,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 859211240,
+["itemLevel"] = 716.4375,
+["classId"] = 11,
+},
+},
+["time"] = 1759368146,
+},
+{
+["date"] = "20:08 08/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 941412227,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1231945197,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 1286269940,
+["itemLevel"] = 701.5,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 1233212244,
+["itemLevel"] = 705.625,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 1850763800,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
+},
+["Erixi"] = {
+["total"] = 2332169485,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 582564731,
+["itemLevel"] = 706.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2448639503,
+["itemLevel"] = 718.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2210692841,
+["itemLevel"] = 714.6875,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 131150982,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["elapsed"] = 332.4219999999914,
+["servertime"] = 1759972120,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 764290101,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1036901473,
+["itemLevel"] = 710.875,
+["classId"] = 13,
+},
+},
+["time"] = 1759972120,
+},
+{
+["time"] = 1760576975,
+["guild"] = "House Stalwart",
+["elapsed"] = 259.0550000000076,
+["date"] = "20:09 15/10/25",
+["servertime"] = 1760576975,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 513114159,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 675400510,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1067717713,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 556325258,
+["itemLevel"] = 716.125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 865214246,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 913444501,
+["itemLevel"] = 701.9375,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 747724126,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 1514558366,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1241001612,
+["itemLevel"] = 707.625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1723763285,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1945127355,
+["itemLevel"] = 717.125,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1322453552,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761181990,
+["elapsed"] = 234.0039999999572,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 579771994,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 494742460,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1370914406,
+["itemLevel"] = 720.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 899477153,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 789720518,
+["itemLevel"] = 716.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1373175657,
+["itemLevel"] = 718.4375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1427425231,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1029289720,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1693167881,
+["itemLevel"] = 721.375,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1523265035,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1571370009,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+["servertime"] = 1761181990,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 535401104,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 663640000,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 864332798,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:13 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 566880588,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 558749699,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Artanos"] = {
+["total"] = 921666667,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 1453741000,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1466799231,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1203356844,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 1028511388,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Heikuro"] = {
+["total"] = 1690514176,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 936535699,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761786471,
+["date"] = "20:07 29/10/25",
+["elapsed"] = 245.3020000000252,
+["servertime"] = 1761786470,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 737726259,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 691942395,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3132] = {
+{
+["time"] = 1757124689,
+["guild"] = "House Stalwart",
+["elapsed"] = 415.2489999999962,
+["date"] = "21:11 05/09/25",
+["servertime"] = 1757124688,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 827027499,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 779408722,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1295337069,
+["itemLevel"] = 712.125,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 700015155,
+["itemLevel"] = 709.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 776153830,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 2005578960,
+["itemLevel"] = 704.6875,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1892955065,
+["itemLevel"] = 710.625,
+["classId"] = 6,
+},
+["Taise-Area52"] = {
+["total"] = 1984360393,
+["itemLevel"] = 706.75,
+["classId"] = 1,
+},
+["Nil"] = {
+["total"] = 1151026618,
+["itemLevel"] = 699.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1745024143,
+["itemLevel"] = 707.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1713862151,
+["itemLevel"] = 706.375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1241696950,
+["itemLevel"] = 697.3125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2013992855,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 949095241,
+["itemLevel"] = 706.6875,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 1727570701,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1758159422,
+["guild"] = "House Stalwart",
+["elapsed"] = 433.6630000000005,
+["date"] = "20:37 17/09/25",
+["servertime"] = 1758159421,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 762537548,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 864569540,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1136666052,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 913482412,
+["itemLevel"] = 713.0625,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1204426128,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2198656126,
+["itemLevel"] = 713.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1133264630,
+["itemLevel"] = 693.625,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 1886191838,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 2002760623,
+["itemLevel"] = 711.3125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1708685394,
+["itemLevel"] = 708.875,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1458342238,
+["itemLevel"] = 703.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2201310710,
+["itemLevel"] = 714.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1825192979,
+["itemLevel"] = 699.125,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 355197471,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+},
+{
+["date"] = "20:27 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 767619121,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 925556942,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2297405559,
+["itemLevel"] = 714.0625,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 1292733173,
+["itemLevel"] = 712.25,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 386062836,
+["itemLevel"] = 700.6875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1854021388,
+["itemLevel"] = 713.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1735044975,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1287006804,
+["itemLevel"] = 704.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1904039232,
+["itemLevel"] = 715.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1831715879,
+["itemLevel"] = 707.75,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 1195550072,
+["itemLevel"] = 709.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 396.984999999986,
+["servertime"] = 1758763676,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 628694258,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 703180190,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 899558732,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
+},
+},
+["time"] = 1758763677,
+},
+{
+["date"] = "20:39 01/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 851314042,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1252684836,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2324900632,
+["itemLevel"] = 716.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1128714947,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 700762130,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 1758684672,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 2043409201,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1308458514,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1938713873,
+["itemLevel"] = 716.0625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1794932222,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1512953171,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 408.6329999999725,
+["servertime"] = 1759369148,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 706335056,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 977678406,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1031307218,
+["itemLevel"] = 716.4375,
+["classId"] = 11,
+},
+},
+["time"] = 1759369149,
+},
+{
+["date"] = "20:26 08/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 877895144,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1281245859,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1786829702,
+["itemLevel"] = 716.625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1347167469,
+["itemLevel"] = 701.5,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 1376491936,
+["itemLevel"] = 705.625,
+["classId"] = 10,
+},
+["Burnadine"] = {
+["total"] = 697711405,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Elayna"] = {
+["total"] = 1673486915,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1357168202,
+["itemLevel"] = 706.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2225897453,
+["itemLevel"] = 718.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2285772709,
+["itemLevel"] = 714.6875,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1668661399,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 421.7339999999967,
+["servertime"] = 1759973199,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 822785929,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1026376004,
+["itemLevel"] = 710.875,
+["classId"] = 13,
+},
+},
+["time"] = 1759973200,
+},
+{
+["time"] = 1760577922,
+["guild"] = "House Stalwart",
+["elapsed"] = 388.0500000000029,
+["date"] = "20:25 15/10/25",
+["servertime"] = 1760577922,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 624790772,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 853823800,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 770402611,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 659350523,
+["itemLevel"] = 716.125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 971927824,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1728566027,
+["itemLevel"] = 718.9375,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1346107368,
+["itemLevel"] = 701.9375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 1213260979,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 1640340788,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1485813418,
+["itemLevel"] = 707.625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2071693369,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2118015159,
+["itemLevel"] = 717.125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1836836710,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761182711,
+["elapsed"] = 315.25,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 624657617,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 844102582,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1909066608,
+["itemLevel"] = 720.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 924879460,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 887305708,
+["itemLevel"] = 716,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1537615840,
+["itemLevel"] = 718.4375,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1283254988,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1125516681,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1899594847,
+["itemLevel"] = 721.375,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1773653408,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1664349330,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+["servertime"] = 1761182711,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 546545989,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 549663842,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 694023322,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:25 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 555510241,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 719301888,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1809618514,
+["itemLevel"] = 722.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 935788389,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 1690237268,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1027040208,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1146424538,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 1480408716,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Heikuro"] = {
+["total"] = 1602227001,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 920158569,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761787812,
+["date"] = "20:30 29/10/25",
+["elapsed"] = 318.0800000000163,
+["servertime"] = 1761787811,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 642441784,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 770746598,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[3134] = {
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 929609650,
+["itemLevel"] = 713.0625,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 819983058,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2442772642,
+["itemLevel"] = 713.4375,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 976385602,
+["itemLevel"] = 699.25,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 1177505917,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2170747221,
+["itemLevel"] = 711.6875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1877807498,
+["itemLevel"] = 710.3125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1194818856,
+["itemLevel"] = 704.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2407111287,
+["itemLevel"] = 714.5,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1937079993,
+["itemLevel"] = 702.8125,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 2029155035,
+["itemLevel"] = 714.8125,
+["classId"] = 3,
+},
+},
+["time"] = 1758338383,
+["date"] = "22:19 19/09/25",
+["elapsed"] = 466.5429999999979,
+["servertime"] = 1758338382,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 995540229,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1035051567,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2070392398,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["date"] = "21:20 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 918163262,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 127393598,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2651523499,
+["itemLevel"] = 714.0625,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 1936088404,
+["itemLevel"] = 712.25,
+["classId"] = 3,
+},
+["Nil"] = {
+["total"] = 598940874,
+["itemLevel"] = 700.6875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2150356708,
+["itemLevel"] = 713.125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 2319417378,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1460519168,
+["itemLevel"] = 704.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2206015116,
+["itemLevel"] = 715.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2100417797,
+["itemLevel"] = 707.9375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 1268786095,
+["itemLevel"] = 709.25,
+["classId"] = 10,
+},
+},
+["elapsed"] = 425.6820000000007,
+["servertime"] = 1758766855,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 984726321,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 986856318,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1893579295,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
+},
+},
+["time"] = 1758766856,
+},
+{
+["date"] = "21:26 01/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1092685730,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1224211313,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2651851237,
+["itemLevel"] = 716.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 994351181,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
+["Burnadine"] = {
+["total"] = 612414535,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Kadria"] = {
+["total"] = 2227102801,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 2094392909,
+["itemLevel"] = 712.625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1458128366,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2455067611,
+["itemLevel"] = 716.0625,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2368784903,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 2334697455,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 469.4980000000214,
+["servertime"] = 1759372005,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1082230800,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1297222312,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2145444206,
+["itemLevel"] = 716.4375,
+["classId"] = 11,
+},
+},
+["time"] = 1759372006,
+},
+{
+["date"] = "21:20 10/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1008581607,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 1365663517,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1950409094,
+["itemLevel"] = 716.625,
+["classId"] = 6,
+},
+["Burnadine"] = {
+["total"] = 921368096,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Nil"] = {
+["total"] = 1504444251,
+["itemLevel"] = 707.8125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1129620077,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 2071483892,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1710613507,
+["itemLevel"] = 706.9375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2463355744,
+["itemLevel"] = 718.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2511875626,
+["itemLevel"] = 715.3125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 2054607646,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
+},
+},
+["elapsed"] = 427.2329999999784,
+["servertime"] = 1760149233,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 841194148,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1270985506,
+["itemLevel"] = 711.3125,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2034896613,
+["itemLevel"] = 717.4375,
+["classId"] = 11,
+},
+},
+["time"] = 1760149234,
+},
+{
+["time"] = 1760753190,
+["guild"] = "House Stalwart",
+["elapsed"] = 443.0510000000359,
+["date"] = "21:06 17/10/25",
+["servertime"] = 1760753190,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 731485743,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1052171709,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1985691521,
+["itemLevel"] = 719.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1018245113,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 941704706,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2160122046,
+["itemLevel"] = 718.375,
+["classId"] = 6,
+},
+["Sverdrup"] = {
+["total"] = 1342941943,
+["itemLevel"] = 715.25,
+["classId"] = 10,
+},
+["Artanos"] = {
+["total"] = 888943226,
+["itemLevel"] = 704.375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 1422311932,
+["itemLevel"] = 710.1875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1971729479,
+["itemLevel"] = 716.3125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 2082832042,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1516195313,
+["itemLevel"] = 707.8125,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2178263040,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2475082289,
+["itemLevel"] = 717.9375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1752892995,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761185201,
+["elapsed"] = 355.8730000000214,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 919392526,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 915082639,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2559858939,
+["itemLevel"] = 720.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1098969569,
+["itemLevel"] = 704.75,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 1326634380,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 2026651475,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1954157017,
+["itemLevel"] = 714.0625,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 1403642394,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 2127364758,
+["itemLevel"] = 722.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 2233693670,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 1903640199,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+},
+["servertime"] = 1761185200,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 733979327,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1064736405,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1527488355,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
+["date"] = "21:06 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 878390154,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 872916529,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 2459925271,
+["itemLevel"] = 722.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 1353849007,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 2335703783,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 1649878268,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 1361519917,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 2115575381,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Heikuro"] = {
+["total"] = 2372628573,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 1327796836,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761791506,
+["date"] = "21:31 29/10/25",
+["elapsed"] = 397.585000000021,
+["servertime"] = 1761791505,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 891241224,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1065212443,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1656083538,
+["itemLevel"] = 720.3125,
+["classId"] = 11,
+},
+},
+["guild"] = "House Stalwart",
+},
+},
+[2919] = {
+{
+["date"] = "21:20 16/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 224828204,
+["itemLevel"] = 615.1875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 275078674,
+["itemLevel"] = 613.5625,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 385243769,
+["itemLevel"] = 620.3125,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 183705140,
+["itemLevel"] = 608.9375,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 361426037,
+["itemLevel"] = 616.9375,
+["classId"] = 10,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 374750070,
+["itemLevel"] = 613.75,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 253834247,
+["itemLevel"] = 0,
+["classId"] = 3,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 234083907,
+["itemLevel"] = 611.0625,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 261385194,
+["itemLevel"] = 624,
+["classId"] = 12,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 380647762,
+["itemLevel"] = 615.625,
+["classId"] = 7,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 475668977,
+["itemLevel"] = 621.5625,
+["classId"] = 8,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 412045734,
+["itemLevel"] = 615.0625,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 414817738,
+["itemLevel"] = 618.5625,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 327779980,
+["itemLevel"] = 615.25,
+["classId"] = 8,
+},
+},
+["elapsed"] = 398.7639999999665,
+["servertime"] = 1729131601,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 296253372,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 304676244,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["time"] = 1729131602,
+},
+{
+["date"] = "21:30 23/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 314250715,
+["itemLevel"] = 617.75,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 224058516,
+["itemLevel"] = 614.5625,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 564124880,
+["itemLevel"] = 622.6875,
+["classId"] = 3,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 713138221,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 289843455,
+["itemLevel"] = 616,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 379549723,
+["itemLevel"] = 613.3125,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 483690739,
+["itemLevel"] = 617.3125,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 110948090,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 552081698,
+["itemLevel"] = 616.375,
+["classId"] = 7,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 459100637,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 257908418,
+["itemLevel"] = 611.8125,
+["classId"] = 8,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 473326400,
+["itemLevel"] = 621.375,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 207503053,
+["itemLevel"] = 193.875,
+["classId"] = 3,
+},
+},
+["elapsed"] = 518.4709999999905,
+["servertime"] = 1729737034,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 356380347,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 351675103,
+["itemLevel"] = 617.75,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 389432777,
+["itemLevel"] = 611.625,
+["classId"] = 13,
+},
+},
+["time"] = 1729737035,
+},
+{
+["date"] = "21:17 30/10/24",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 245547290,
+["itemLevel"] = 620.0625,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 264249698,
+["itemLevel"] = 617,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 399469447,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Zea-ArgentDawn"] = {
+["total"] = 251546090,
+["itemLevel"] = 616.8125,
+["classId"] = 4,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 280916635,
+["itemLevel"] = 617,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 512923518,
+["itemLevel"] = 618.875,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 377487221,
+["itemLevel"] = 620.125,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 255533096,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 423975355,
+["itemLevel"] = 617.5,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 216728842,
+["itemLevel"] = 628.8125,
+["classId"] = 12,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 432731583,
+["itemLevel"] = 622.4375,
+["classId"] = 1,
+},
+["Mysdelin-ArgentDawn"] = {
+["total"] = 34292883,
+["itemLevel"] = 617.125,
+["classId"] = 8,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 480971010,
+["itemLevel"] = 624.3125,
+["classId"] = 8,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 226427133,
+["itemLevel"] = 620.5625,
+["classId"] = 3,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 432107560,
+["itemLevel"] = 621.1875,
+["classId"] = 11,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 347912899,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 281358253,
+["itemLevel"] = 612.625,
+["classId"] = 8,
+},
+},
+["elapsed"] = 387.7519999999786,
+["servertime"] = 1730341051,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 319894638,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 297775820,
+["itemLevel"] = 613.125,
+["classId"] = 13,
+},
+},
+["time"] = 1730341052,
+},
+{
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 248348819,
+["itemLevel"] = 621.125,
+["classId"] = 1,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 437099411,
+["itemLevel"] = 626,
+["classId"] = 3,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 549363200,
+["itemLevel"] = 625.75,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 348627006,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 273210604,
+["itemLevel"] = 616.0625,
+["classId"] = 8,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 306866731,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 216302525,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 271746137,
+["itemLevel"] = 619.75,
+["classId"] = 4,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 427759424,
+["itemLevel"] = 618.25,
+["classId"] = 7,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 233600401,
+["itemLevel"] = 630.4375,
+["classId"] = 12,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 430733716,
+["itemLevel"] = 623.375,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 229003059,
+["itemLevel"] = 624,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 431713399,
+["itemLevel"] = 621,
+["classId"] = 5,
+},
+},
+["time"] = 1730949406,
+["date"] = "21:16 06/11/24",
+["elapsed"] = 387.2609999999404,
+["servertime"] = 1730949406,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 166936369,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 367283107,
+["itemLevel"] = 617.5,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
+},
+{
+["time"] = 1731727488,
+["guild"] = "House Stalwart",
+["elapsed"] = 328.5210000000661,
+["date"] = "21:24 15/11/24",
+["servertime"] = 1731727487,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 316160963,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 342135587,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
+},
+["Zephyrri-ArgentDawn"] = {
+["total"] = 444257421,
+["itemLevel"] = 617.875,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 222026002,
+["itemLevel"] = 623.375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 129839163,
+["itemLevel"] = 620.5,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 351766045,
+["itemLevel"] = 628.1875,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 228263273,
+["itemLevel"] = 618.625,
+["classId"] = 8,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 264394594,
+["itemLevel"] = 619.25,
+["classId"] = 10,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 486182581,
+["itemLevel"] = 619.4375,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 367723604,
+["itemLevel"] = 621.875,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 227789420,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 392130325,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 271320198,
+["itemLevel"] = 620,
+["classId"] = 4,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 427083630,
+["itemLevel"] = 626.75,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 442117564,
+["itemLevel"] = 625.375,
+["classId"] = 1,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 293645728,
+["itemLevel"] = 623.0625,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1732161898,
+["guild"] = "House Stalwart",
+["elapsed"] = 323.3029999999999,
+["date"] = "22:04 20/11/24",
+["servertime"] = 1732161897,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 222011182,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 232721048,
+["itemLevel"] = 624.5,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 288177490,
+["itemLevel"] = 618.9375,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 337199108,
+["itemLevel"] = 629.375,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 250580462,
+["itemLevel"] = 618.625,
+["classId"] = 8,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 257433759,
+["itemLevel"] = 620.6875,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 419623878,
+["itemLevel"] = 622,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 331272744,
+["itemLevel"] = 621.875,
+["classId"] = 5,
+},
+["Lleandryn-ArgentDawn"] = {
+["total"] = 269699647,
+["itemLevel"] = 623.9375,
+["classId"] = 3,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 401503895,
+["itemLevel"] = 621.5,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 400567398,
+["itemLevel"] = 627.375,
+["classId"] = 11,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 178860174,
+["itemLevel"] = 632.5625,
+["classId"] = 12,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 378880993,
+["itemLevel"] = 626.875,
+["classId"] = 1,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 419802717,
+["itemLevel"] = 627.8125,
+["classId"] = 8,
+},
+},
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733368714,
+["elapsed"] = 385.1669999999867,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 266554603,
+["itemLevel"] = 626.9375,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 161573647,
+["itemLevel"] = 623.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 398785824,
+["itemLevel"] = 630.5333333333333,
+["classId"] = 3,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 255586329,
+["itemLevel"] = 620.25,
+["classId"] = 8,
+},
+["Tazz-ArgentDawn"] = {
+["total"] = 0,
+["itemLevel"] = 605.8125,
+["classId"] = 10,
+},
+["Rylacus-ArgentDawn"] = {
+["total"] = 318529524,
+["itemLevel"] = 622.0625,
+["classId"] = 4,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 496490337,
+["itemLevel"] = 623.0625,
+["classId"] = 1,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 387067750,
+["itemLevel"] = 622.9375,
+["classId"] = 5,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 124368525,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 468211004,
+["itemLevel"] = 630.5625,
+["classId"] = 8,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 477269399,
+["itemLevel"] = 630,
+["classId"] = 1,
+},
+["Nil-ArgentDawn"] = {
+["total"] = 306886662,
+["itemLevel"] = 621.8125,
+["classId"] = 10,
+},
+},
+["servertime"] = 1733368714,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 363271651,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 506396296,
+["itemLevel"] = 630.625,
+["classId"] = 11,
+},
+},
+["date"] = "21:18 04/12/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733970849,
+["elapsed"] = 321.0550000000512,
+["DAMAGER"] = {
+["Esker"] = {
+["total"] = 223961648,
+["itemLevel"] = 628.875,
+["classId"] = 1,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 140445853,
+["itemLevel"] = 624.75,
+["classId"] = 11,
+},
+["Elayna-ArgentDawn"] = {
+["total"] = 352603406,
+["itemLevel"] = 632.125,
+["classId"] = 3,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 411854945,
+["itemLevel"] = 625.1875,
+["classId"] = 8,
+},
+["Apókryfes-Proudmoore"] = {
+["total"] = 403113805,
+["itemLevel"] = 631,
+["classId"] = 8,
+},
+["Nidokiv-ArgentDawn"] = {
+["total"] = 433929554,
+["itemLevel"] = 623.5,
+["classId"] = 1,
+},
+["Burnadine-ArgentDawn"] = {
+["total"] = 183343795,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi-ArgentDawn"] = {
+["total"] = 337071505,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 420324453,
+["itemLevel"] = 631.875,
+["classId"] = 11,
+},
+["Giulietta-ArgentDawn"] = {
+["total"] = 406109249,
+["itemLevel"] = 0,
+["classId"] = 1,
+},
+["Artanos-ArgentDawn"] = {
+["total"] = 250169797,
+["itemLevel"] = 621.3125,
+["classId"] = 8,
+},
+},
+["servertime"] = 1733970849,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 258152021,
+["itemLevel"] = 624.4666666666667,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 232357162,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
+["date"] = "20:34 11/12/24",
+},
+{
+["time"] = 1734576471,
+["guild"] = "House Stalwart",
+["elapsed"] = 342.820000000007,
+["date"] = "20:47 18/12/24",
+["servertime"] = 1734576470,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 287395532,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 216967692,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 338759483,
+["itemLevel"] = 606.6875,
+["classId"] = 5,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 141035529,
+["itemLevel"] = 626.75,
+["classId"] = 11,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 489075603,
+["itemLevel"] = 626.375,
+["classId"] = 8,
+},
+["Lleandryn"] = {
+["total"] = 297887253,
+["itemLevel"] = 624.375,
+["classId"] = 3,
+},
+["Artanos"] = {
+["total"] = 295966938,
+["itemLevel"] = 624.25,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 176526904,
+["itemLevel"] = 612.5,
+["classId"] = 2,
+},
+["Kadria"] = {
+["total"] = 498362525,
+["itemLevel"] = 632.5,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 391687981,
+["itemLevel"] = 622.75,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 312217513,
+["itemLevel"] = 623.375,
+["classId"] = 4,
+},
+["Malimortui"] = {
+["total"] = 337035339,
+["itemLevel"] = 610.0625,
+["classId"] = 6,
+},
+["Elayna"] = {
+["total"] = 395819286,
+["itemLevel"] = 633.125,
+["classId"] = 3,
+},
+},
+},
+{
+["date"] = "20:35 01/01/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Permaphrost-Proudmoore"] = {
+["total"] = 237459783,
+["itemLevel"] = 635.375,
+["classId"] = 8,
+},
+["Erixi"] = {
+["total"] = 406656559,
+["itemLevel"] = 628.25,
+["classId"] = 7,
+},
+["Artanos"] = {
+["total"] = 308465640,
+["itemLevel"] = 625.375,
+["classId"] = 8,
+},
+["Confluence"] = {
+["total"] = 193597692,
+["itemLevel"] = 619.3125,
+["classId"] = 2,
+},
+["Angélique"] = {
+["total"] = 301839213,
+["itemLevel"] = 618.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 335567119,
+["itemLevel"] = 634.75,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 282108908,
+["itemLevel"] = 627.25,
+["classId"] = 4,
+},
+["Nil"] = {
+["total"] = 300395561,
+["itemLevel"] = 623,
+["classId"] = 10,
+},
+["Hydeon"] = {
+["total"] = 348460008,
+["itemLevel"] = 623.8125,
+["classId"] = 5,
+},
+["Kadria"] = {
+["total"] = 133509378,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+},
+["elapsed"] = 314.3640000000014,
+["servertime"] = 1735785312,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 292033323,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 454001548,
+["itemLevel"] = 624.9375,
+["classId"] = 7,
+},
+},
+["time"] = 1735785313,
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1737600248,
+["elapsed"] = 342.6180000000168,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 144155095,
+["itemLevel"] = 78.25,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 248678060,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Zephyrri"] = {
+["total"] = 327273201,
+["itemLevel"] = 625.75,
+["classId"] = 7,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 527285842,
+["itemLevel"] = 634.9375,
+["classId"] = 8,
+},
+["Artaius"] = {
+["total"] = 179165335,
+["itemLevel"] = 597.3125,
+["classId"] = 11,
+},
+["Kadria"] = {
+["total"] = 178109379,
+["itemLevel"] = 630.875,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 425588508,
+["itemLevel"] = 626.8125,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 333812986,
+["itemLevel"] = 628,
+["classId"] = 4,
+},
+["Estuary"] = {
+["total"] = 335221015,
+["itemLevel"] = 619.0625,
+["classId"] = 4,
+},
+["Elayna"] = {
+["total"] = 348764814,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+},
+["servertime"] = 1737600247,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 294014511,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 289104181,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
+["date"] = "20:44 22/01/25",
+},
+{
+["DAMAGER"] = {
+["Sverdrup"] = {
+["total"] = 177309070,
+["itemLevel"] = 616.8125,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 547381865,
+["itemLevel"] = 635.8125,
+["classId"] = 8,
+},
+["Jiulianna"] = {
+["total"] = 344137086,
+["itemLevel"] = 609.4375,
+["classId"] = 2,
+},
+["Gedan"] = {
+["total"] = 231924974,
+["itemLevel"] = 615.1875,
+["classId"] = 11,
+},
+["Artanos"] = {
+["total"] = 302379442,
+["itemLevel"] = 627,
+["classId"] = 8,
+},
+["Xyza"] = {
+["total"] = 122286059,
+["itemLevel"] = 558.4375,
+["classId"] = 5,
+},
+["Kadria"] = {
+["total"] = 199072145,
+["itemLevel"] = 631.2,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 433265111,
+["itemLevel"] = 635.5625,
+["classId"] = 3,
+},
+["Burnadine"] = {
+["total"] = 213396817,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+["time"] = 1738811236,
+["date"] = "21:07 05/02/25",
+["elapsed"] = 351.8019999999087,
+["servertime"] = 1738811236,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 376910654,
+["itemLevel"] = 628.1333333333333,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 582236659,
 ["itemLevel"] = 628.5625,
 ["classId"] = 7,
 },
@@ -11516,7142 +27103,1260 @@ DetailsDataStorage = {
 },
 },
 },
-[3012] = {
+[3016] = {
 {
-["date"] = "22:11 28/03/25",
 ["guild"] = "House Stalwart",
+["time"] = 1748058378,
+["elapsed"] = 491.9239999999991,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 842021220,
-["itemLevel"] = 658.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 462010924,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 893660908,
-["itemLevel"] = 659.3125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 775508733,
-["itemLevel"] = 662,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 912789916,
-["itemLevel"] = 662,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 732818260,
-["itemLevel"] = 650.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 516398057,
-["itemLevel"] = 647.75,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 425205053,
-["itemLevel"] = 662.4375,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 915680017,
-["itemLevel"] = 663.8125,
-["classId"] = 3,
-},
-["Giulietta"] = {
-["total"] = 574549525,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-},
-["elapsed"] = 438.4539999999979,
-["servertime"] = 1743217918,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 427174680,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 271168253,
-["itemLevel"] = 640.75,
-["classId"] = 13,
-},
-},
-["time"] = 1743217919,
-},
-{
-["time"] = 1747271420,
-["guild"] = "House Stalwart",
-["elapsed"] = 330.7710000000079,
-["date"] = "20:10 14/05/25",
-["servertime"] = 1747271419,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 388441083,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 482602572,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 369436871,
-["itemLevel"] = 657.75,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 291365402,
-["itemLevel"] = 667.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 605457758,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
-},
-["Anguis"] = {
-["total"] = 583013628,
-["itemLevel"] = 651.25,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 796385733,
-["itemLevel"] = 673.0625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 608725775,
-["itemLevel"] = 672.5,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 693958238,
-["itemLevel"] = 665.75,
-["classId"] = 7,
-},
-},
-},
-{
-["date"] = "20:11 28/05/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 428937169,
-["itemLevel"] = 673.8125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 450042962,
-["itemLevel"] = 661.1875,
-["classId"] = 9,
-},
-["Confluence"] = {
-["total"] = 694853806,
-["itemLevel"] = 677,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 652161197,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
-},
-["Anguis"] = {
-["total"] = 787623041,
-["itemLevel"] = 658,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 801637635,
-["itemLevel"] = 676.625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 657022264,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
-},
-["Artanos"] = {
-["total"] = 341728989,
-["itemLevel"] = 637.875,
-["classId"] = 8,
-},
-},
-["elapsed"] = 347.7289999999921,
-["servertime"] = 1748481102,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 259742697,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1748481103,
-},
-{
-["date"] = "20:14 04/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 853883608,
-["itemLevel"] = 675.75,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 253636407,
-["itemLevel"] = 630.625,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 838679212,
-["itemLevel"] = 661.5,
-["classId"] = 13,
-},
-["Artanos"] = {
-["total"] = 325107048,
-["itemLevel"] = 642.875,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 853240671,
-["itemLevel"] = 673.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 654374372,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 512803829,
-["itemLevel"] = 664.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 722402717,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 273077501,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 552624378,
-["itemLevel"] = 676.75,
-["classId"] = 3,
-},
-},
-["elapsed"] = 295.6489999999758,
-["servertime"] = 1749086083,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 393974712,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 337943646,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["time"] = 1749086084,
-},
-{
-["time"] = 1749691084,
-["guild"] = "House Stalwart",
-["elapsed"] = 293.3229999999749,
-["date"] = "20:18 11/06/25",
-["servertime"] = 1749691083,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 309875893,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 226843987,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 671738890,
-["itemLevel"] = 676.9375,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 687072844,
-["itemLevel"] = 662.9375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 564333249,
-["itemLevel"] = 653.6875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 480120947,
-["itemLevel"] = 650.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 529758413,
-["itemLevel"] = 678.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 971879517,
-["itemLevel"] = 677.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 701195060,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 395201922,
-["itemLevel"] = 665,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 348098534,
-["itemLevel"] = 676.625,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 561447384,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 277501478,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 859307542,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 577990801,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 450283909,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
-["Riparium"] = {
-["total"] = 879035293,
-["itemLevel"] = 671.375,
-["classId"] = 9,
-},
-["Rylacus"] = {
-["total"] = 433386413,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 395363038,
-["itemLevel"] = 681.3125,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 698995188,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Elayna"] = {
-["total"] = 663071224,
-["itemLevel"] = 678.375,
-["classId"] = 3,
-},
-},
-["time"] = 1750295689,
-["date"] = "20:14 18/06/25",
-["elapsed"] = 309.25,
-["servertime"] = 1750295688,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 366085243,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 314427439,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["date"] = "20:26 25/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 286546402,
-["itemLevel"] = 676.3125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 234388292,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Urklesnurkle"] = {
-["total"] = 435709715,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 854803682,
-["itemLevel"] = 668.25,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 411933221,
-["itemLevel"] = 672.5,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 721232908,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 431728863,
-["itemLevel"] = 657.125,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 1010708151,
-["itemLevel"] = 679.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 646190860,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 431147809,
-["itemLevel"] = 668.5,
-["classId"] = 4,
-},
-["Sverdrup"] = {
-["total"] = 236861420,
-["itemLevel"] = 649,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 753356396,
-["itemLevel"] = 679.375,
-["classId"] = 3,
-},
-},
-["elapsed"] = 304.3200000000652,
-["servertime"] = 1750901201,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 531943379,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 544191987,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
-["time"] = 1750901202,
-},
-{
-["time"] = 1751505614,
-["guild"] = "House Stalwart",
-["elapsed"] = 302.3379999999888,
-["date"] = "20:20 02/07/25",
-["servertime"] = 1751505613,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 475604446,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 524128280,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Sverdrup"] = {
-["total"] = 344571500,
-["itemLevel"] = 667.25,
-["classId"] = 10,
-},
-["Urklesnurkle"] = {
-["total"] = 475035615,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 794389295,
-["itemLevel"] = 674.5625,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 853727617,
-["itemLevel"] = 674.3125,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 710589457,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 450144148,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 670344970,
-["itemLevel"] = 675.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 470509595,
-["itemLevel"] = 669.25,
-["classId"] = 4,
-},
-["Errya"] = {
-["total"] = 73388766,
-["itemLevel"] = 627.625,
-["classId"] = 2,
-},
-},
-},
-},
-[2922] = {
-{
-["time"] = 1732935777,
-["guild"] = "House Stalwart",
-["elapsed"] = 486.9729999999981,
-["date"] = "21:02 29/11/24",
-["servertime"] = 1732935776,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 363409668,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 284318948,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 303156274,
-["itemLevel"] = 625.5,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 183785220,
-["itemLevel"] = 623.3125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 474923006,
-["itemLevel"] = 630.6875,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 493357181,
-["itemLevel"] = 629.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 393236582,
-["itemLevel"] = 621.625,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 634327243,
-["itemLevel"] = 622,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 532910574,
-["itemLevel"] = 622.9375,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 116349947,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 496415871,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 217253559,
-["itemLevel"] = 620.8125,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 194231100,
-["itemLevel"] = 621.8125,
-["classId"] = 10,
-},
-},
-},
-{
-["time"] = 1733540424,
-["guild"] = "House Stalwart",
-["elapsed"] = 507.4790000000503,
-["date"] = "21:00 06/12/24",
-["servertime"] = 1733540423,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 421341183,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 423778904,
-["itemLevel"] = 630.8125,
-["classId"] = 11,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 628390346,
-["itemLevel"] = 620.75,
-["classId"] = 7,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 313242984,
-["itemLevel"] = 627.375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 190523344,
-["itemLevel"] = 624,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 157378861,
-["itemLevel"] = 631.0625,
-["classId"] = 3,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 212428155,
-["itemLevel"] = 624.75,
-["classId"] = 8,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 261876458,
-["itemLevel"] = 621.3125,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 210992071,
-["itemLevel"] = 621.8125,
-["classId"] = 10,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 599284629,
-["itemLevel"] = 623.0625,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 550792045,
-["itemLevel"] = 623.625,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 243863544,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 478136677,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 505175980,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 319722864,
-["itemLevel"] = 622.3125,
-["classId"] = 4,
-},
-},
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733973979,
-["elapsed"] = 479.6659999999683,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 308955516,
-["itemLevel"] = 628.875,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 166297001,
-["itemLevel"] = 624.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 462935096,
-["itemLevel"] = 632.125,
-["classId"] = 3,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 492411433,
-["itemLevel"] = 625.1875,
-["classId"] = 8,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 585637024,
-["itemLevel"] = 631,
-["classId"] = 8,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 535358443,
-["itemLevel"] = 623.5,
-["classId"] = 1,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 58536588,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 452821301,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 483961535,
-["itemLevel"] = 631.875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 529135694,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 84137650,
-["itemLevel"] = 621.3125,
-["classId"] = 8,
-},
-},
-["servertime"] = 1733973979,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 286868004,
-["itemLevel"] = 624.4666666666667,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 295538226,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "21:26 11/12/24",
-},
-{
-["date"] = "21:53 18/12/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 292818094,
-["itemLevel"] = 631.9375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 188274133,
-["itemLevel"] = 626.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 436657706,
-["itemLevel"] = 633.125,
-["classId"] = 3,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 534361246,
-["itemLevel"] = 626.375,
-["classId"] = 8,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 243479383,
-["itemLevel"] = 624.0625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 338922129,
-["itemLevel"] = 623.375,
-["classId"] = 4,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 378138408,
-["itemLevel"] = 624.375,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 501794409,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 622885232,
-["itemLevel"] = 632.5,
-["classId"] = 11,
-},
-["Malimortui-ArgentDawn"] = {
-["total"] = 170685633,
-["itemLevel"] = 612.5,
-["classId"] = 6,
-},
-},
-["elapsed"] = 490.1310000000085,
-["servertime"] = 1734580438,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 352717576,
-["itemLevel"] = 625.3333333333334,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 249762556,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 431595712,
-["itemLevel"] = 606.6875,
-["classId"] = 5,
-},
-},
-["time"] = 1734580439,
-},
-{
-["date"] = "22:46 27/12/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 201343630,
-["itemLevel"] = 628.625,
-["classId"] = 11,
-},
-["Confluence"] = {
-["total"] = 232732208,
-["itemLevel"] = 614.25,
-["classId"] = 2,
-},
-["Malimortui"] = {
-["total"] = 402351188,
-["itemLevel"] = 618.6875,
-["classId"] = 6,
-},
-["Elayna"] = {
-["total"] = 508847699,
-["itemLevel"] = 633.9375,
-["classId"] = 3,
-},
-["Giulietta"] = {
-["total"] = 345751460,
-["itemLevel"] = 633.5,
-["classId"] = 1,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 570837827,
-["itemLevel"] = 632.3125,
-["classId"] = 8,
-},
-["Artanos"] = {
-["total"] = 285754566,
-["itemLevel"] = 624.0625,
-["classId"] = 8,
-},
-},
-["elapsed"] = 500.7700000000186,
-["servertime"] = 1735361215,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 351717743,
-["itemLevel"] = 156.5,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 284180157,
-["itemLevel"] = 623,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 330101869,
-["itemLevel"] = 634.125,
-["classId"] = 11,
-},
-},
-["time"] = 1735361216,
-},
-{
-["date"] = "21:18 01/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Permaphrost-Proudmoore"] = {
-["total"] = 500224374,
-["itemLevel"] = 635.375,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 418795346,
-["itemLevel"] = 628.25,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 276195625,
-["itemLevel"] = 625.375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 290436857,
-["itemLevel"] = 623,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 156657363,
-["itemLevel"] = 631.2,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 408439273,
-["itemLevel"] = 634.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 342052617,
-["itemLevel"] = 627.25,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 139423267,
-["itemLevel"] = 633.5,
-["classId"] = 1,
-},
-["Hydeon"] = {
-["total"] = 335961665,
-["itemLevel"] = 623.8125,
-["classId"] = 5,
-},
-["Confluence"] = {
-["total"] = 208993534,
-["itemLevel"] = 619.3125,
-["classId"] = 2,
-},
-},
-["elapsed"] = 385.9279999999853,
-["servertime"] = 1735787898,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 339725571,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 398296020,
-["itemLevel"] = 624.9375,
-["classId"] = 7,
-},
-},
-["time"] = 1735787898,
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 212884830,
-["itemLevel"] = 630.9375,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 78527227,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 687887636,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Angélique"] = {
-["total"] = 152282009,
-["itemLevel"] = 620.0625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 276162889,
-["itemLevel"] = 626.1875,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 282926781,
-["itemLevel"] = 620.875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 227243105,
-["itemLevel"] = 634.125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 470159135,
-["itemLevel"] = 634.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 385592914,
-["itemLevel"] = 627.625,
-["classId"] = 4,
-},
-["Erixi"] = {
-["total"] = 570015455,
-["itemLevel"] = 628.4375,
-["classId"] = 7,
-},
-["Hydeon"] = {
-["total"] = 498541671,
-["itemLevel"] = 623.8125,
-["classId"] = 5,
-},
-["Nil"] = {
-["total"] = 377745495,
-["itemLevel"] = 623.1875,
-["classId"] = 10,
-},
-},
-["time"] = 1736392258,
-["date"] = "21:10 08/01/25",
-["elapsed"] = 496.0129999999999,
-["servertime"] = 1736392258,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 312349199,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 297238585,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 480812673,
-["itemLevel"] = 618.25,
-["classId"] = 5,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 215344019,
-["itemLevel"] = 631.5,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 174178717,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 502578252,
-["itemLevel"] = 626.125,
-["classId"] = 7,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 652508475,
-["itemLevel"] = 634.9375,
-["classId"] = 8,
-},
-["Artanos"] = {
-["total"] = 132672157,
-["itemLevel"] = 626.625,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 139691087,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 475449489,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-["Estuary"] = {
-["total"] = 219304255,
-["itemLevel"] = 619.0625,
-["classId"] = 4,
-},
-["Erixi"] = {
-["total"] = 495194186,
-["itemLevel"] = 626.8125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 430785990,
-["itemLevel"] = 628,
-["classId"] = 4,
-},
-},
-["time"] = 1737603472,
-["date"] = "21:37 22/01/25",
-["elapsed"] = 488.9079999999376,
-["servertime"] = 1737603471,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 380386969,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 287881319,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["time"] = 1738814346,
-["guild"] = "House Stalwart",
-["elapsed"] = 417.5329999999376,
-["date"] = "21:59 05/02/25",
-["servertime"] = 1738814346,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 397329603,
-["itemLevel"] = 628.1333333333333,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 486060745,
-["itemLevel"] = 628.5625,
-["classId"] = 7,
-},
-},
-["DAMAGER"] = {
-["Burnadine"] = {
-["total"] = 263173238,
-["itemLevel"] = 625,
-["classId"] = 9,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 573564618,
-["itemLevel"] = 636.625,
-["classId"] = 8,
-},
-["Jiulianna"] = {
-["total"] = 332581497,
-["itemLevel"] = 611.375,
-["classId"] = 2,
-},
-["Gedan"] = {
-["total"] = 223017856,
-["itemLevel"] = 615.1875,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 271881506,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 206138304,
-["itemLevel"] = 623.4375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 169173320,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 399382499,
-["itemLevel"] = 628.8125,
-["classId"] = 7,
-},
-["Elayna"] = {
-["total"] = 402025295,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-},
-},
-},
-[3009] = {
-{
-["date"] = "22:22 14/03/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 266194087,
-["itemLevel"] = 631.25,
-["classId"] = 11,
-},
-["Confluence"] = {
-["total"] = 330319659,
-["itemLevel"] = 645.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 548205474,
-["itemLevel"] = 638.375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 517110540,
-["itemLevel"] = 634.3125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 433054508,
-["itemLevel"] = 637.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 538145085,
-["itemLevel"] = 636.0625,
-["classId"] = 1,
-},
-["Zephyrri"] = {
-["total"] = 691024664,
-["itemLevel"] = 650.25,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 423855937,
-["itemLevel"] = 651.875,
-["classId"] = 12,
-},
-},
-["elapsed"] = 375.3850000000093,
-["servertime"] = 1742008941,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 367493998,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1742008942,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1742438174,
-["elapsed"] = 324.755999999994,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 555456492,
-["itemLevel"] = 644.5625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 279744656,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 629823067,
-["itemLevel"] = 652.8125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 358226515,
-["itemLevel"] = 654.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 708246536,
-["itemLevel"] = 651.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 500570783,
-["itemLevel"] = 654.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 437876796,
-["itemLevel"] = 641.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 365626691,
-["itemLevel"] = 656.25,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 541426147,
-["itemLevel"] = 642.4375,
-["classId"] = 7,
-},
-["Giulietta"] = {
-["total"] = 551613626,
-["itemLevel"] = 642.375,
-["classId"] = 1,
-},
-},
-["servertime"] = 1742438173,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 319131068,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 252504439,
-["itemLevel"] = 633.875,
-["classId"] = 13,
-},
-},
-["date"] = "21:36 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743042763,
-["elapsed"] = 313.1720000000059,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 260960595,
-["itemLevel"] = 655.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 43491852,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 704982315,
-["itemLevel"] = 658.75,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 336766496,
-["itemLevel"] = 658,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 594484607,
-["itemLevel"] = 660.25,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 571438843,
-["itemLevel"] = 648.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 447003757,
-["itemLevel"] = 645.5625,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 696879532,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 776128945,
-["itemLevel"] = 663.1875,
-["classId"] = 3,
-},
-},
-["servertime"] = 1743042762,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 332728224,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 199746290,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:32 26/03/25",
-},
-{
-["time"] = 1744247932,
-["guild"] = "House Stalwart",
-["elapsed"] = 265.7539999999572,
-["date"] = "20:18 09/04/25",
-["servertime"] = 1744247931,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 380090908,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 311096679,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 529030394,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 200357372,
-["itemLevel"] = 665.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 222979703,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 668608691,
-["itemLevel"] = 665.5,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 313158034,
-["itemLevel"] = 665.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 581395675,
-["itemLevel"] = 665.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 513868353,
-["itemLevel"] = 659.375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 394240328,
-["itemLevel"] = 650.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 495728094,
-["itemLevel"] = 659.4375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 590136693,
-["itemLevel"] = 665.375,
-["classId"] = 3,
-},
-},
-},
-{
-["time"] = 1747269861,
-["guild"] = "House Stalwart",
-["elapsed"] = 246.3379999999888,
-["date"] = "19:44 14/05/25",
-["servertime"] = 1747269860,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 335720484,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 427342559,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 342100998,
-["itemLevel"] = 657.75,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 204327883,
-["itemLevel"] = 667.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 576575240,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
-},
-["Anguis"] = {
-["total"] = 455808731,
-["itemLevel"] = 651.375,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 518820513,
-["itemLevel"] = 672.625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 356612988,
-["itemLevel"] = 672.5,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 512891248,
-["itemLevel"] = 665.75,
-["classId"] = 7,
-},
-},
-},
-{
-["date"] = "19:41 28/05/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Artanos"] = {
-["total"] = 259719248,
-["itemLevel"] = 637.875,
-["classId"] = 8,
-},
-["Burnadine"] = {
-["total"] = 402765010,
-["itemLevel"] = 661.1875,
-["classId"] = 9,
-},
-["Keydan"] = {
-["total"] = 226986998,
-["itemLevel"] = 673.8125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 645958920,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
-},
-["Anguis"] = {
-["total"] = 525599866,
-["itemLevel"] = 658,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 515312581,
-["itemLevel"] = 676.625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 356495833,
-["itemLevel"] = 677,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 591349450,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
-},
-},
-["elapsed"] = 237.6929999999993,
-["servertime"] = 1748479265,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 311615462,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1748479266,
-},
-{
-["date"] = "19:46 04/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 650229827,
-["itemLevel"] = 675.75,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 128038524,
-["itemLevel"] = 625.25,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 562424472,
-["itemLevel"] = 661.5,
-["classId"] = 13,
-},
-["Artanos"] = {
-["total"] = 295394718,
-["itemLevel"] = 641.4375,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 606136782,
-["itemLevel"] = 673.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 674093861,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 368148148,
-["itemLevel"] = 664.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 586765756,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 569258204,
-["itemLevel"] = 676.75,
-["classId"] = 3,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 265708306,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
-},
-["elapsed"] = 188.774000000034,
-["servertime"] = 1749084394,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 273869495,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 251504027,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["time"] = 1749084394,
-},
-{
-["time"] = 1749689428,
-["guild"] = "House Stalwart",
-["elapsed"] = 195.2889999999898,
-["date"] = "19:50 11/06/25",
-["servertime"] = 1749689427,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 355025405,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 288181619,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 558189541,
-["itemLevel"] = 676.9375,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 579659389,
-["itemLevel"] = 662.9375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 372666335,
-["itemLevel"] = 653.5,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 366446284,
-["itemLevel"] = 650.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 314226784,
-["itemLevel"] = 678.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 653034497,
-["itemLevel"] = 677.125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 478459227,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 387488754,
-["itemLevel"] = 665,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 264728469,
-["itemLevel"] = 676.625,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 533310071,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-},
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1750293950,
-["elapsed"] = 233.7050000000745,
-["DAMAGER"] = {
-["Artanos"] = {
-["total"] = 427999858,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
-["Sverdrup"] = {
-["total"] = 186024432,
-["itemLevel"] = 639.75,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 671657440,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
-},
-["Erixi"] = {
-["total"] = 593933349,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 353101198,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
-},
-["Angelica"] = {
-["total"] = 503477422,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 762280847,
-["itemLevel"] = 678.375,
-["classId"] = 3,
-},
-["Keydan"] = {
-["total"] = 245314470,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
-},
-},
-["servertime"] = 1750293949,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 304843583,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 264702913,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-},
-["date"] = "19:45 18/06/25",
-},
-{
-["date"] = "19:48 25/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 232644031,
-["itemLevel"] = 676.3125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 298191394,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Urklesnurkle"] = {
-["total"] = 313361821,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 539281126,
-["itemLevel"] = 668.25,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 327418953,
-["itemLevel"] = 672.5,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 511491076,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 352610069,
-["itemLevel"] = 657.125,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 720305018,
-["itemLevel"] = 679.4375,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 696180578,
-["itemLevel"] = 679.375,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 340521900,
-["itemLevel"] = 668.5,
-["classId"] = 4,
-},
-["Erixi"] = {
-["total"] = 663539362,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Sverdrup"] = {
-["total"] = 242705557,
-["itemLevel"] = 645.75,
-["classId"] = 10,
-},
-},
-["elapsed"] = 198.5349999999162,
-["servertime"] = 1750898924,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 388359013,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 459413106,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
-["time"] = 1750898925,
-},
-{
-["DAMAGER"] = {
-["Artanos"] = {
-["total"] = 409548195,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Sverdrup"] = {
-["total"] = 231198162,
-["itemLevel"] = 666.8125,
-["classId"] = 10,
-},
-["Urklesnurkle"] = {
-["total"] = 401868254,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Errya"] = {
-["total"] = 88117502,
-["itemLevel"] = 619.6875,
-["classId"] = 2,
-},
-["Anguis"] = {
-["total"] = 711430697,
-["itemLevel"] = 674.3125,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 551615720,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Erixi"] = {
-["total"] = 656942989,
-["itemLevel"] = 675.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 419669573,
-["itemLevel"] = 669.25,
-["classId"] = 4,
-},
-},
-["time"] = 1751503765,
-["date"] = "19:49 02/07/25",
-["elapsed"] = 228.8479999999981,
-["servertime"] = 1751503764,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 339098668,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 500790949,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-},
-[3013] = {
-{
-["date"] = "21:17 04/04/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 467962587,
-["itemLevel"] = 663.0625,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 117782871,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 633382773,
-["itemLevel"] = 582.1875,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 249566584,
-["itemLevel"] = 662.75,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 493929948,
-["itemLevel"] = 664.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 533767892,
-["itemLevel"] = 657.9375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 420019507,
-["itemLevel"] = 649.3125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 502726251,
-["itemLevel"] = 659,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 548925918,
-["itemLevel"] = 665.375,
-["classId"] = 3,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 182884655,
-["itemLevel"] = 665.4375,
-["classId"] = 12,
-},
-},
-["elapsed"] = 339.4130000000005,
-["servertime"] = 1743819453,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 419967895,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 236797892,
-["itemLevel"] = 646.6875,
-["classId"] = 13,
-},
-},
-["time"] = 1743819454,
-},
-{
-["time"] = 1747273072,
-["guild"] = "House Stalwart",
-["elapsed"] = 322.2149999999674,
-["date"] = "20:37 14/05/25",
-["servertime"] = 1747273071,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 307131969,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 396050716,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 242222179,
-["itemLevel"] = 657.75,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 248874729,
-["itemLevel"] = 667.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 630520100,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
-},
-["Anguis"] = {
-["total"] = 394968361,
-["itemLevel"] = 651.25,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 553836288,
-["itemLevel"] = 673.0625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 285890543,
-["itemLevel"] = 672.5,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 549249503,
-["itemLevel"] = 665.75,
-["classId"] = 7,
-},
-},
-},
-{
-["date"] = "20:25 28/05/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 198361174,
-["itemLevel"] = 673.8125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 233183966,
-["itemLevel"] = 661.1875,
-["classId"] = 9,
-},
-["Confluence"] = {
-["total"] = 318033163,
-["itemLevel"] = 677,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 585220710,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
-},
-["Anguis"] = {
-["total"] = 632265603,
-["itemLevel"] = 658,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 712801398,
-["itemLevel"] = 676.625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 768719154,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
-},
-["Artanos"] = {
-["total"] = 63719384,
-["itemLevel"] = 637.875,
-["classId"] = 8,
-},
-},
-["elapsed"] = 321.7830000000249,
-["servertime"] = 1748481936,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 144201702,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1748481937,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1749087308,
-["elapsed"] = 242.9839999999967,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 555035317,
-["itemLevel"] = 675.75,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 577476777,
-["itemLevel"] = 661.9375,
-["classId"] = 13,
-},
-["Artanos"] = {
-["total"] = 237722295,
-["itemLevel"] = 642.875,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 215436202,
-["itemLevel"] = 677.75,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 552142620,
-["itemLevel"] = 673.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 563243958,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 353322552,
-["itemLevel"] = 664.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 610093378,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 587554748,
-["itemLevel"] = 676.75,
-["classId"] = 3,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 222114397,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
-},
-["servertime"] = 1749087307,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 352103296,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 197912373,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:35 04/06/25",
-},
-{
-["time"] = 1749691922,
-["guild"] = "House Stalwart",
-["elapsed"] = 311.9869999999937,
-["date"] = "20:32 11/06/25",
-["servertime"] = 1749691921,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 375979658,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 335126994,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 707980183,
-["itemLevel"] = 676.9375,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 587782483,
-["itemLevel"] = 662.9375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 219387625,
-["itemLevel"] = 653.6875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 134642495,
-["itemLevel"] = 650.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 313884595,
-["itemLevel"] = 678.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 749348319,
-["itemLevel"] = 677.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 594227616,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 425510915,
-["itemLevel"] = 665,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 209214914,
-["itemLevel"] = 676.625,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 324954724,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 173767146,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 610822968,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 459514896,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 123531881,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 587981296,
-["itemLevel"] = 678.4375,
-["classId"] = 11,
-},
-["Riparium"] = {
-["total"] = 487012561,
-["itemLevel"] = 671.375,
-["classId"] = 9,
-},
-["Rylacus"] = {
-["total"] = 359166468,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 220545427,
-["itemLevel"] = 681.3125,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 537728687,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Elayna"] = {
-["total"] = 568411402,
-["itemLevel"] = 678.375,
-["classId"] = 3,
-},
-},
-["time"] = 1750296850,
-["date"] = "20:34 18/06/25",
-["elapsed"] = 222.939000000013,
-["servertime"] = 1750296849,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 278236040,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 231112332,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["date"] = "21:01 25/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 182694395,
-["itemLevel"] = 676.3125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 307317057,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Urklesnurkle"] = {
-["total"] = 246184650,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 508082617,
-["itemLevel"] = 668.5,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 653248659,
-["itemLevel"] = 672.5,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 515015112,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 298619082,
-["itemLevel"] = 657.125,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 567654156,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 460639155,
-["itemLevel"] = 668.5,
-["classId"] = 4,
-},
-["Sverdrup"] = {
-["total"] = 191276140,
-["itemLevel"] = 649,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 654231226,
-["itemLevel"] = 679.375,
-["classId"] = 3,
-},
-},
-["elapsed"] = 253.6419999999926,
-["servertime"] = 1750903297,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 483148819,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 420486688,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 361080402,
-["itemLevel"] = 680.25,
-["classId"] = 11,
-},
-},
-["time"] = 1750903297,
-},
-{
-["time"] = 1751506397,
-["guild"] = "House Stalwart",
-["elapsed"] = 266.6189999999479,
-["date"] = "20:33 02/07/25",
-["servertime"] = 1751506396,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 516417679,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 518099866,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Sverdrup"] = {
-["total"] = 246183337,
-["itemLevel"] = 667.25,
-["classId"] = 10,
-},
-["Urklesnurkle"] = {
-["total"] = 364418338,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 487264974,
-["itemLevel"] = 674.5625,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 631676735,
-["itemLevel"] = 674.3125,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 322648210,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 245242996,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 638612179,
-["itemLevel"] = 675.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 411404974,
-["itemLevel"] = 669.25,
-["classId"] = 4,
-},
-["Errya"] = {
-["total"] = 57277248,
-["itemLevel"] = 627.625,
-["classId"] = 2,
-},
-},
-},
-},
-[2902] = {
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 142599477,
-["itemLevel"] = 609.9375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 84838221,
-["itemLevel"] = 606.875,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 212870774,
-["itemLevel"] = 610.875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 120316007,
-["itemLevel"] = 598.875,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 111361642,
-["itemLevel"] = 606.125,
-["classId"] = 10,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 224087160,
-["itemLevel"] = 604.75,
-["classId"] = 5,
-},
-["Zea-ArgentDawn"] = {
-["total"] = 206872049,
-["itemLevel"] = 609,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 207088853,
-["itemLevel"] = 606.8125,
-["classId"] = 7,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 310189731,
-["itemLevel"] = 613.25,
-["classId"] = 8,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 158539790,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 123411834,
-["itemLevel"] = 601.3125,
-["classId"] = 4,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 231240757,
-["itemLevel"] = 610.375,
-["classId"] = 8,
-},
-},
-["time"] = 1727488096,
-["date"] = "20:48 27/09/24",
-["elapsed"] = 403.0139999999665,
-["servertime"] = 1727488096,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 130163209,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 182856088,
-["itemLevel"] = 607.25,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["date"] = "19:47 16/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 143724245,
-["itemLevel"] = 614.75,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 52766516,
-["itemLevel"] = 612.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 183204322,
-["itemLevel"] = 620.3125,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 119437781,
-["itemLevel"] = 608.9375,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 44232645,
-["itemLevel"] = 616.5625,
-["classId"] = 10,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 191964669,
-["itemLevel"] = 613.75,
-["classId"] = 5,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 225448275,
-["itemLevel"] = 621.5625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 161672344,
-["itemLevel"] = 611.0625,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 207085602,
-["itemLevel"] = 614.6875,
-["classId"] = 7,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 75086273,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 210791537,
-["itemLevel"] = 615.0625,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 170398801,
-["itemLevel"] = 618.5625,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 192592320,
-["itemLevel"] = 615.25,
-["classId"] = 8,
-},
-},
-["elapsed"] = 247.2839999999851,
-["servertime"] = 1729126050,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 97481211,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 154961710,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["time"] = 1729126050,
-},
-{
-["date"] = "19:51 23/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 132321018,
-["itemLevel"] = 617.75,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 239370527,
-["itemLevel"] = 622.6875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 126171189,
-["itemLevel"] = 611,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 141905297,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 195703748,
-["itemLevel"] = 617.3125,
-["classId"] = 5,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 203121630,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 16885452,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zea-ArgentDawn"] = {
-["total"] = 148901387,
-["itemLevel"] = 614.75,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 233841985,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 167151151,
-["itemLevel"] = 616,
-["classId"] = 4,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 90614565,
-["itemLevel"] = 612.4375,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 181418694,
-["itemLevel"] = 621.375,
-["classId"] = 1,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 312726378,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
-},
-},
-["elapsed"] = 275.6300000000047,
-["servertime"] = 1729731086,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 128946091,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 132349756,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["time"] = 1729731087,
-},
-{
-["date"] = "19:46 30/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 147841193,
-["itemLevel"] = 620.0625,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 66549542,
-["itemLevel"] = 617.8125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 195408905,
-["itemLevel"] = 624.375,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 223095881,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 122461546,
-["itemLevel"] = 612.625,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 176960468,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 185273571,
-["itemLevel"] = 618.875,
-["classId"] = 1,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 139870931,
-["itemLevel"] = 620.5625,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 97356291,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 188750680,
-["itemLevel"] = 617,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 218338577,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 200817351,
-["itemLevel"] = 620.125,
-["classId"] = 5,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 234496317,
-["itemLevel"] = 621.1875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 210292565,
-["itemLevel"] = 622.25,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 169599729,
-["itemLevel"] = 617.125,
-["classId"] = 8,
-},
-},
-["elapsed"] = 233.3080000000191,
-["servertime"] = 1730335586,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 87669762,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 119544994,
-["itemLevel"] = 613.125,
-["classId"] = 13,
-},
-},
-["time"] = 1730335587,
-},
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 155930642,
-["itemLevel"] = 623.375,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 217802202,
-["itemLevel"] = 628.1875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 127273477,
-["itemLevel"] = 618.125,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 86363130,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 130988203,
-["itemLevel"] = 619.4375,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 199741392,
-["itemLevel"] = 621.4375,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 101750410,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 203307688,
-["itemLevel"] = 620,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 248891100,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 231406016,
-["itemLevel"] = 625.9375,
-["classId"] = 11,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 116250612,
-["itemLevel"] = 631.3125,
-["classId"] = 12,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 190388579,
-["itemLevel"] = 623.0625,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 250566159,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-},
-["time"] = 1731548875,
-["date"] = "19:47 13/11/24",
-["elapsed"] = 226.4290000000037,
-["servertime"] = 1731548875,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 71155237,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 138322839,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 101177306,
-["itemLevel"] = 618.9375,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["time"] = 1732153618,
-["guild"] = "House Stalwart",
-["elapsed"] = 201.6409999999996,
-["date"] = "19:46 20/11/24",
-["servertime"] = 1732153617,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 74378291,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 120811731,
-["itemLevel"] = 624.5,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 78172661,
-["itemLevel"] = 620.5,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 180173642,
-["itemLevel"] = 629.375,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 68003387,
-["itemLevel"] = 618.625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 142063589,
-["itemLevel"] = 620.6875,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 128625993,
-["itemLevel"] = 622,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 164826832,
-["itemLevel"] = 621.875,
-["classId"] = 5,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 232612332,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 178340898,
-["itemLevel"] = 623.6875,
-["classId"] = 3,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 206283953,
-["itemLevel"] = 627.375,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 188506314,
-["itemLevel"] = 626.875,
-["classId"] = 1,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 250496094,
-["itemLevel"] = 627.8125,
-["classId"] = 8,
-},
-},
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733363714,
-["elapsed"] = 211.4380000000238,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 136173226,
-["itemLevel"] = 626.9375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 78484661,
-["itemLevel"] = 623.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 174489989,
-["itemLevel"] = 631.0625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 138092399,
-["itemLevel"] = 620.8125,
-["classId"] = 8,
-},
-["Tazz-ArgentDawn"] = {
-["total"] = 3468572,
-["itemLevel"] = 605.8125,
-["classId"] = 10,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 152830912,
-["itemLevel"] = 622.0625,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 238463571,
-["itemLevel"] = 623.0625,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 172020213,
-["itemLevel"] = 622.9375,
-["classId"] = 5,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 249319933,
-["itemLevel"] = 550.875,
-["classId"] = 8,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 194862586,
-["itemLevel"] = 630,
-["classId"] = 1,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 158938981,
-["itemLevel"] = 621.8125,
-["classId"] = 10,
-},
-},
-["servertime"] = 1733363713,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 146360546,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 92486604,
-["itemLevel"] = 630.25,
-["classId"] = 11,
-},
-},
-["date"] = "19:55 04/12/24",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733967978,
-["elapsed"] = 208.9130000000587,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 112235190,
-["itemLevel"] = 628.875,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 81932709,
-["itemLevel"] = 625.3125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 181581325,
-["itemLevel"] = 632.125,
-["classId"] = 3,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 220960175,
-["itemLevel"] = 625.1875,
-["classId"] = 8,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 276232842,
-["itemLevel"] = 631,
-["classId"] = 8,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 187830779,
-["itemLevel"] = 623.5,
-["classId"] = 1,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 130644960,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 208157606,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 241974335,
-["itemLevel"] = 631.875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 216363727,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 107510665,
-["itemLevel"] = 621,
-["classId"] = 8,
-},
-},
-["servertime"] = 1733967977,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 63729854,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 90101846,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "19:46 11/12/24",
-},
-{
-["time"] = 1734573164,
-["guild"] = "House Stalwart",
-["elapsed"] = 209.0639999999985,
-["date"] = "19:52 18/12/24",
-["servertime"] = 1734573163,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 96194647,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 95446819,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 131054095,
-["itemLevel"] = 604.875,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 77457188,
-["itemLevel"] = 626.75,
-["classId"] = 11,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 232894714,
-["itemLevel"] = 626.375,
-["classId"] = 8,
-},
-["Lleandryn"] = {
-["total"] = 174052136,
-["itemLevel"] = 624.375,
-["classId"] = 3,
-},
-["Artanos"] = {
-["total"] = 155685153,
-["itemLevel"] = 624.25,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 93834672,
-["itemLevel"] = 611.8125,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 258040127,
-["itemLevel"] = 632.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 211076751,
-["itemLevel"] = 633.125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 173415304,
-["itemLevel"] = 623.375,
-["classId"] = 4,
-},
-["Malimortui"] = {
-["total"] = 134998414,
-["itemLevel"] = 609.6666666666666,
-["classId"] = 6,
-},
-["Erixi"] = {
-["total"] = 202715972,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-},
-},
-{
-["time"] = 1735354111,
-["guild"] = "House Stalwart",
-["elapsed"] = 199.7210000000196,
-["date"] = "20:48 27/12/24",
-["servertime"] = 1735354110,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 97318978,
-["itemLevel"] = 156.5,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 105150802,
-["itemLevel"] = 623.1875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 73136171,
-["itemLevel"] = 628.625,
-["classId"] = 11,
-},
-["Confluence"] = {
-["total"] = 90441469,
-["itemLevel"] = 613.75,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 235798297,
-["itemLevel"] = 633.3125,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 193482580,
-["itemLevel"] = 633.9375,
-["classId"] = 3,
-},
-["Malimortui"] = {
-["total"] = 139913693,
-["itemLevel"] = 618.6666666666666,
-["classId"] = 6,
-},
-["Giulietta"] = {
-["total"] = 190804982,
-["itemLevel"] = 633.5,
-["classId"] = 1,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 235111773,
-["itemLevel"] = 632.3125,
-["classId"] = 8,
-},
-["Artanos"] = {
-["total"] = 132421557,
-["itemLevel"] = 624.0625,
-["classId"] = 8,
-},
-},
-},
-{
-["date"] = "19:52 01/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Permaphrost-Proudmoore"] = {
-["total"] = 229337389,
-["itemLevel"] = 635.375,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 236194283,
-["itemLevel"] = 628.25,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 111599902,
-["itemLevel"] = 625.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 96713956,
-["itemLevel"] = 619.3125,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 81358643,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 211323110,
-["itemLevel"] = 634.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 183505296,
-["itemLevel"] = 627.25,
-["classId"] = 4,
-},
-["Nil"] = {
-["total"] = 123595829,
-["itemLevel"] = 623,
-["classId"] = 10,
-},
-["Hydeon"] = {
-["total"] = 167535789,
-["itemLevel"] = 623.8125,
-["classId"] = 5,
-},
-["Angélique"] = {
-["total"] = 145086264,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
-},
-},
-["elapsed"] = 183.0510000000068,
-["servertime"] = 1735782742,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 71590747,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 153938813,
-["itemLevel"] = 624.9375,
-["classId"] = 7,
-},
-},
-["time"] = 1735782742,
-},
-{
-["date"] = "19:49 22/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 90240049,
-["itemLevel"] = 631.5,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 136331532,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Artaius"] = {
-["total"] = 105915283,
-["itemLevel"] = 597.3125,
-["classId"] = 11,
-},
-["Kadria"] = {
-["total"] = 87928732,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 275832117,
-["itemLevel"] = 628.8125,
-["classId"] = 7,
-},
-["Estuary"] = {
-["total"] = 196081749,
-["itemLevel"] = 618.4375,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 146449140,
-["itemLevel"] = 636.625,
-["classId"] = 12,
-},
-["Rylacus"] = {
-["total"] = 184440942,
-["itemLevel"] = 628,
-["classId"] = 4,
-},
-["Elayna"] = {
-["total"] = 226728941,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-},
-["elapsed"] = 254.9329999999609,
-["servertime"] = 1737596997,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 102682475,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 143231729,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["time"] = 1737596998,
-},
-{
-["DAMAGER"] = {
-["Burnadine"] = {
-["total"] = 150688134,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 280251065,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Jiulianna"] = {
-["total"] = 179627399,
-["itemLevel"] = 608.625,
-["classId"] = 2,
-},
-["Gedan"] = {
-["total"] = 101373811,
-["itemLevel"] = 615,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 180516907,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Xyza"] = {
-["total"] = 43930636,
-["itemLevel"] = 546,
-["classId"] = 5,
-},
-["Kadria"] = {
-["total"] = 127889422,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 212799201,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-["Sverdrup"] = {
-["total"] = 97636856,
-["itemLevel"] = 617.375,
-["classId"] = 10,
-},
-},
-["time"] = 1738807214,
-["date"] = "20:00 05/02/25",
-["elapsed"] = 246.3719999999739,
-["servertime"] = 1738807213,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 166516747,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 213392665,
-["itemLevel"] = 628.5625,
-["classId"] = 7,
-},
-},
-["guild"] = "House Stalwart",
-},
-},
-[3014] = {
-{
-["time"] = 1747274601,
-["guild"] = "House Stalwart",
-["elapsed"] = 346.6730000000098,
-["date"] = "21:03 14/05/25",
-["servertime"] = 1747274600,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 482444634,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 496759507,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 299679393,
-["itemLevel"] = 657.75,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 299748128,
-["itemLevel"] = 667.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 749135874,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
-},
-["Anguis"] = {
-["total"] = 649591799,
-["itemLevel"] = 652.625,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 296316300,
-["itemLevel"] = 673.0625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 353268300,
-["itemLevel"] = 672.5,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 660953955,
-["itemLevel"] = 665.75,
-["classId"] = 7,
-},
-},
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1748051244,
-["elapsed"] = 255.7290000000212,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 190359672,
+["total"] = 419039459,
 ["itemLevel"] = 670.8125,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 327056510,
+["total"] = 61846506,
 ["itemLevel"] = 660.9375,
 ["classId"] = 9,
 },
-["Anguis"] = {
-["total"] = 520233991,
-["itemLevel"] = 658,
-["classId"] = 13,
-},
-["Confluence"] = {
-["total"] = 283720175,
-["itemLevel"] = 674.25,
-["classId"] = 2,
-},
 ["Kadria"] = {
-["total"] = 590389663,
-["itemLevel"] = 671.125,
+["total"] = 1034432428,
+["itemLevel"] = 671.5,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 578669943,
+["total"] = 999272838,
 ["itemLevel"] = 667.8125,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 393511228,
+["total"] = 708188759,
 ["itemLevel"] = 662.9375,
 ["classId"] = 4,
 },
 ["Giulietta"] = {
-["total"] = 666549106,
+["total"] = 1052982279,
 ["itemLevel"] = 675.5,
 ["classId"] = 1,
 },
+["Confluence"] = {
+["total"] = 709825923,
+["itemLevel"] = 674.25,
+["classId"] = 2,
+},
 ["Elayna"] = {
-["total"] = 660091496,
+["total"] = 1090693789,
 ["itemLevel"] = 674.8125,
 ["classId"] = 3,
 },
 },
-["servertime"] = 1748051243,
+["servertime"] = 1748058377,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 326582252,
+["total"] = 601681891,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-},
-["date"] = "20:47 23/05/25",
-},
-{
-["date"] = "20:37 28/05/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 278608878,
-["itemLevel"] = 673.8125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 331115793,
-["itemLevel"] = 661.1875,
-["classId"] = 9,
-},
-["Confluence"] = {
-["total"] = 454549616,
-["itemLevel"] = 677,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 726961480,
-["itemLevel"] = 673.3125,
+["Zephyrri"] = {
+["total"] = 1059939353,
+["itemLevel"] = 668.0625,
 ["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 757025706,
-["itemLevel"] = 658,
-["classId"] = 13,
 },
-["Giulietta"] = {
-["total"] = 736379636,
-["itemLevel"] = 676.625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 820999229,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
-},
-["Artanos"] = {
-["total"] = 357723030,
-["itemLevel"] = 637.875,
-["classId"] = 8,
-},
-},
-["elapsed"] = 337.2599999999802,
-["servertime"] = 1748482679,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 318847926,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1748482679,
+["date"] = "22:46 23/05/25",
 },
 {
-["guild"] = "House Stalwart",
-["time"] = 1749088481,
-["elapsed"] = 289.3919999999926,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 671471747,
+["total"] = 1050559668,
 ["itemLevel"] = 675.75,
 ["classId"] = 11,
 },
-["Anguis"] = {
-["total"] = 744030029,
-["itemLevel"] = 662.125,
-["classId"] = 13,
-},
-["Artanos"] = {
-["total"] = 297802781,
-["itemLevel"] = 642.875,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 373225594,
-["itemLevel"] = 677.75,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 649786817,
-["itemLevel"] = 673.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 708147831,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 436381857,
-["itemLevel"] = 664.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 657216296,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 751394469,
-["itemLevel"] = 676.75,
-["classId"] = 3,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 264071598,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
-},
-["servertime"] = 1749088480,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 455931072,
+["Burnadine"] = {
+["total"] = 83848415,
 ["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 488077517,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:54 04/06/25",
-},
-{
-["time"] = 1749692472,
-["guild"] = "House Stalwart",
-["elapsed"] = 261.9259999999777,
-["date"] = "20:41 11/06/25",
-["servertime"] = 1749692472,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 317187654,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 347598691,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 626015308,
-["itemLevel"] = 676.9375,
-["classId"] = 11,
+["classId"] = 9,
 },
 ["Anguis"] = {
-["total"] = 696670162,
-["itemLevel"] = 662.9375,
+["total"] = 1160363123,
+["itemLevel"] = 660.875,
 ["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 501407133,
-["itemLevel"] = 653.6875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 367824086,
-["itemLevel"] = 650.375,
-["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 333829437,
-["itemLevel"] = 678.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 680151496,
-["itemLevel"] = 677.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 701705978,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 434596513,
-["itemLevel"] = 665,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 258157721,
-["itemLevel"] = 676.625,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 701604222,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 241908274,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 1033118021,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 225955054,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 456804291,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 855486643,
-["itemLevel"] = 678.4375,
-["classId"] = 11,
-},
-["Riparium"] = {
-["total"] = 726001337,
-["itemLevel"] = 671.375,
-["classId"] = 9,
-},
-["Rylacus"] = {
-["total"] = 427588718,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 288919661,
-["itemLevel"] = 681.3125,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 767122108,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Elayna"] = {
-["total"] = 284012849,
-["itemLevel"] = 678.375,
-["classId"] = 3,
-},
-},
-["time"] = 1750298235,
-["date"] = "20:57 18/06/25",
-["elapsed"] = 331.6290000000736,
-["servertime"] = 1750298235,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 478048006,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 447575204,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["date"] = "21:12 25/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 259629576,
-["itemLevel"] = 676.3125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 357626302,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Urklesnurkle"] = {
-["total"] = 382728830,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 677202491,
-["itemLevel"] = 668.5,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 950143606,
-["itemLevel"] = 672.5,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 635007504,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 405422790,
-["itemLevel"] = 657.125,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 754657254,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 535695878,
-["itemLevel"] = 668.5,
-["classId"] = 4,
-},
-["Sverdrup"] = {
-["total"] = 295417572,
-["itemLevel"] = 649,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 867994399,
-["itemLevel"] = 679.375,
-["classId"] = 3,
-},
-},
-["elapsed"] = 325.6740000001155,
-["servertime"] = 1750903924,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 523286512,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 557463321,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 521001292,
-["itemLevel"] = 680.25,
-["classId"] = 11,
-},
-},
-["time"] = 1750903925,
-},
-{
-["time"] = 1751507578,
-["guild"] = "House Stalwart",
-["elapsed"] = 266.1849999998231,
-["date"] = "20:52 02/07/25",
-["servertime"] = 1751507577,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 507081242,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 476903310,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Sverdrup"] = {
-["total"] = 287337382,
-["itemLevel"] = 667.4375,
-["classId"] = 10,
-},
-["Urklesnurkle"] = {
-["total"] = 458713463,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 607368819,
-["itemLevel"] = 674.5625,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 751115405,
-["itemLevel"] = 674.3125,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 616132728,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 452246700,
-["itemLevel"] = 658.5,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 608203240,
-["itemLevel"] = 675.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 413674686,
-["itemLevel"] = 669.25,
-["classId"] = 4,
-},
-["Errya"] = {
-["total"] = 63536102,
-["itemLevel"] = 633.375,
-["classId"] = 2,
-},
-},
-},
-},
-[2917] = {
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 149299977,
-["itemLevel"] = 606.25,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 90091734,
-["itemLevel"] = 582.9375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 197847725,
-["itemLevel"] = 605.4375,
-["classId"] = 3,
-},
-["Zea-ArgentDawn"] = {
-["total"] = 188796597,
-["itemLevel"] = 603.8125,
-["classId"] = 4,
-},
-["Zýthos-ArgentDawn"] = {
-["total"] = 279511985,
-["itemLevel"] = 601.8125,
-["classId"] = 10,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 150946080,
-["itemLevel"] = 594.75,
-["classId"] = 10,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 166740219,
-["itemLevel"] = 586.5,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 161338097,
-["itemLevel"] = 610.5,
-["classId"] = 12,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 244115994,
-["itemLevel"] = 601.6875,
-["classId"] = 7,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 134978174,
-["itemLevel"] = 588.8125,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 241643605,
-["itemLevel"] = 605.25,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 275315567,
-["itemLevel"] = 609.5,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 214038704,
-["itemLevel"] = 607.5,
-["classId"] = 8,
-},
-},
-["time"] = 1726889083,
-["date"] = "22:24 20/09/24",
-["elapsed"] = 421.1080000000002,
-["servertime"] = 1726889082,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 145329361,
-["itemLevel"] = 590.875,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 265825212,
-["itemLevel"] = 602,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["date"] = "20:02 16/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 129867758,
-["itemLevel"] = 614.75,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 178866018,
-["itemLevel"] = 613.3125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 212262004,
-["itemLevel"] = 620.3125,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 118431212,
-["itemLevel"] = 608.9375,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 181275395,
-["itemLevel"] = 616.5625,
-["classId"] = 10,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 191158710,
-["itemLevel"] = 613.75,
-["classId"] = 5,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 127424506,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 137426827,
-["itemLevel"] = 611.0625,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 137245576,
-["itemLevel"] = 624,
-["classId"] = 12,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 291283063,
-["itemLevel"] = 614.6875,
-["classId"] = 7,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 262928106,
-["itemLevel"] = 621.5625,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 221711962,
-["itemLevel"] = 615.0625,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 214457012,
-["itemLevel"] = 618.5625,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 189863618,
-["itemLevel"] = 615.25,
-["classId"] = 8,
-},
-},
-["elapsed"] = 263.1380000000354,
-["servertime"] = 1729126939,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 77994296,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 120554530,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["time"] = 1729126939,
-},
-{
-["date"] = "20:14 23/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 180300575,
-["itemLevel"] = 617.75,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 104747174,
-["itemLevel"] = 614.5625,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 320594543,
-["itemLevel"] = 622.6875,
-["classId"] = 3,
-},
-["Zea-ArgentDawn"] = {
-["total"] = 242148901,
-["itemLevel"] = 614.75,
-["classId"] = 4,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 387446988,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 173218189,
-["itemLevel"] = 616,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 283037383,
-["itemLevel"] = 611.8125,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 148429420,
-["itemLevel"] = 617.3125,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 31152319,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 81136866,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 59699,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 117370226,
-["itemLevel"] = 611,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 354303181,
-["itemLevel"] = 619.125,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 334145420,
-["itemLevel"] = 621.375,
-["classId"] = 1,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 253796993,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-},
-["elapsed"] = 373.3220000000001,
-["servertime"] = 1729732484,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 242737992,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 32886585,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["time"] = 1729732484,
-},
-{
-["date"] = "20:00 30/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 149654986,
-["itemLevel"] = 620.0625,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 89094256,
-["itemLevel"] = 617.8125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 249671336,
-["itemLevel"] = 624.375,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 269778297,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 134127568,
-["itemLevel"] = 612.625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 189577632,
-["itemLevel"] = 617,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 215545190,
-["itemLevel"] = 618.875,
-["classId"] = 1,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 125356475,
-["itemLevel"] = 620.5625,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 40213621,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 208782904,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 187275295,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 229353763,
-["itemLevel"] = 620.125,
-["classId"] = 5,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 281253549,
-["itemLevel"] = 621.1875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 264407662,
-["itemLevel"] = 622.25,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 156031767,
-["itemLevel"] = 617.125,
-["classId"] = 8,
-},
-},
-["elapsed"] = 254.8660000000382,
-["servertime"] = 1730336414,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 85268078,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 97763605,
-["itemLevel"] = 613.125,
-["classId"] = 13,
-},
-},
-["time"] = 1730336415,
-},
-{
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 163688449,
-["itemLevel"] = 623.375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 132111018,
-["itemLevel"] = 618.9375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 148620261,
-["itemLevel"] = 628.1875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 177461846,
-["itemLevel"] = 618.125,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 196373045,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 233053426,
-["itemLevel"] = 619.4375,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 236001600,
-["itemLevel"] = 621.4375,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 53261647,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 208524336,
-["itemLevel"] = 620,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 295481470,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 320458610,
-["itemLevel"] = 625.9375,
-["classId"] = 11,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 118449195,
-["itemLevel"] = 631.3125,
-["classId"] = 12,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 76772492,
-["itemLevel"] = 623.0625,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 176771705,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-},
-["time"] = 1731549518,
-["date"] = "19:58 13/11/24",
-["elapsed"] = 247.7710000000079,
-["servertime"] = 1731549517,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 99401128,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 92178587,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["time"] = 1732154244,
-["guild"] = "House Stalwart",
-["elapsed"] = 182.4600000000028,
-["date"] = "19:57 20/11/24",
-["servertime"] = 1732154243,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 64239639,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 120089931,
-["itemLevel"] = 624.5,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 62514328,
-["itemLevel"] = 620.5,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 209051983,
-["itemLevel"] = 629.375,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 143180685,
-["itemLevel"] = 618.625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 147050614,
-["itemLevel"] = 620.6875,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 199155486,
-["itemLevel"] = 622,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 177002940,
-["itemLevel"] = 621.875,
-["classId"] = 5,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 238932151,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 160523250,
-["itemLevel"] = 623.6875,
-["classId"] = 3,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 221342875,
-["itemLevel"] = 627.375,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 206766697,
-["itemLevel"] = 626.875,
-["classId"] = 1,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 228951591,
-["itemLevel"] = 627.8125,
-["classId"] = 8,
-},
-},
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733364595,
-["elapsed"] = 198.560999999987,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 121725978,
-["itemLevel"] = 626.9375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 77398037,
-["itemLevel"] = 623.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 198169480,
-["itemLevel"] = 631.0625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 137258376,
-["itemLevel"] = 620.8125,
-["classId"] = 8,
-},
-["Tazz-ArgentDawn"] = {
-["total"] = 38644424,
-["itemLevel"] = 605.8125,
-["classId"] = 10,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 175020156,
-["itemLevel"] = 622.0625,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 218588086,
-["itemLevel"] = 623.0625,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 222071328,
-["itemLevel"] = 622.9375,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 79478495,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 248678870,
-["itemLevel"] = 630.5625,
-["classId"] = 8,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 239966543,
-["itemLevel"] = 630,
-["classId"] = 1,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 178300733,
-["itemLevel"] = 621.8125,
-["classId"] = 10,
-},
-},
-["servertime"] = 1733364594,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 143839416,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 107369007,
-["itemLevel"] = 630.25,
-["classId"] = 11,
-},
-},
-["date"] = "20:09 04/12/24",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733968598,
-["elapsed"] = 235.3020000000252,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 175340377,
-["itemLevel"] = 628.875,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 118670581,
-["itemLevel"] = 625.3125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 158102938,
-["itemLevel"] = 632.125,
-["classId"] = 3,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 225701645,
-["itemLevel"] = 625.1875,
-["classId"] = 8,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 299870989,
-["itemLevel"] = 631,
-["classId"] = 8,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 252301348,
-["itemLevel"] = 623.5,
-["classId"] = 1,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 113130441,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 303141119,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 295745831,
-["itemLevel"] = 631.875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 266367421,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 170154695,
-["itemLevel"] = 621.3125,
-["classId"] = 8,
-},
-},
-["servertime"] = 1733968598,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 115854238,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 140813255,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "19:56 11/12/24",
-},
-{
-["time"] = 1734573824,
-["guild"] = "House Stalwart",
-["elapsed"] = 209.2810000000027,
-["date"] = "20:03 18/12/24",
-["servertime"] = 1734573824,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 123111003,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 127343684,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 124085388,
-["itemLevel"] = 604.875,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 78074724,
-["itemLevel"] = 626.75,
-["classId"] = 11,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 213355123,
-["itemLevel"] = 626.375,
-["classId"] = 8,
-},
-["Lleandryn"] = {
-["total"] = 190354067,
-["itemLevel"] = 624.375,
-["classId"] = 3,
-},
-["Artanos"] = {
-["total"] = 150463625,
-["itemLevel"] = 624.25,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 90443981,
-["itemLevel"] = 611.8125,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 282955327,
-["itemLevel"] = 632.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 285905244,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 165664984,
-["itemLevel"] = 623.375,
-["classId"] = 4,
-},
-["Malimortui"] = {
-["total"] = 165472172,
-["itemLevel"] = 609.4375,
-["classId"] = 6,
-},
-["Elayna"] = {
-["total"] = 195226657,
-["itemLevel"] = 633.125,
-["classId"] = 3,
-},
-},
-},
-{
-["date"] = "20:01 01/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Permaphrost-Proudmoore"] = {
-["total"] = 273628963,
-["itemLevel"] = 635.375,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 252988255,
-["itemLevel"] = 628.25,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 50852844,
-["itemLevel"] = 625.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 103004208,
-["itemLevel"] = 619.3125,
-["classId"] = 2,
-},
-["Angélique"] = {
-["total"] = 174976592,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 205596304,
-["itemLevel"] = 634.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 195126587,
-["itemLevel"] = 627.25,
-["classId"] = 4,
-},
-["Nil"] = {
-["total"] = 181294879,
-["itemLevel"] = 623,
-["classId"] = 10,
-},
-["Hydeon"] = {
-["total"] = 195268350,
-["itemLevel"] = 623.8125,
-["classId"] = 5,
-},
-["Kadria"] = {
-["total"] = 83833053,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-},
-["elapsed"] = 185.5359999999928,
-["servertime"] = 1735783299,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 115959594,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 123421263,
-["itemLevel"] = 624.9375,
-["classId"] = 7,
-},
-},
-["time"] = 1735783299,
-},
-{
-["DAMAGER"] = {
-["Sverdrup"] = {
-["total"] = 127114270,
-["itemLevel"] = 616.8125,
-["classId"] = 10,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 339727625,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Jiulianna"] = {
-["total"] = 192583915,
-["itemLevel"] = 608.625,
-["classId"] = 2,
-},
-["Gedan"] = {
-["total"] = 166742415,
-["itemLevel"] = 615,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 239595030,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Xyza"] = {
-["total"] = 83466484,
-["itemLevel"] = 553.25,
-["classId"] = 5,
-},
-["Kadria"] = {
-["total"] = 132201443,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 265568427,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-["Burnadine"] = {
-["total"] = 32668379,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-},
-["time"] = 1738808296,
-["date"] = "20:18 05/02/25",
-["elapsed"] = 265.8540000000503,
-["servertime"] = 1738808295,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 160485380,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 293692349,
-["itemLevel"] = 628.5625,
-["classId"] = 7,
-},
-},
-["guild"] = "House Stalwart",
-},
-},
-[3015] = {
-{
-["time"] = 1745033912,
-["guild"] = "House Stalwart",
-["elapsed"] = 360.755000000001,
-["date"] = "22:38 18/04/25",
-["servertime"] = 1745033912,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 469713233,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 377667457,
-["itemLevel"] = 647.9375,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 569470173,
-["itemLevel"] = 667.4375,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 51115317,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 680502085,
-["itemLevel"] = 667.375,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 313772832,
-["itemLevel"] = 667.3125,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 652489830,
-["itemLevel"] = 666.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 730178019,
-["itemLevel"] = 669.0625,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 426687479,
-["itemLevel"] = 657.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 631292413,
-["itemLevel"] = 666.6875,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 665024077,
-["itemLevel"] = 660.125,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 275076872,
-["itemLevel"] = 667.375,
-["classId"] = 12,
-},
-},
-},
-{
-["time"] = 1747275851,
-["guild"] = "House Stalwart",
-["elapsed"] = 311.7899999999791,
-["date"] = "21:24 14/05/25",
-["servertime"] = 1747275850,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 372915356,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Kadria"] = {
-["total"] = 238293790,
-["itemLevel"] = 667.5,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 326658001,
-["itemLevel"] = 657.75,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 569595475,
-["itemLevel"] = 669.8125,
-["classId"] = 7,
-},
-["Elayna"] = {
-["total"] = 647131939,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 374551924,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 541083876,
-["itemLevel"] = 673.0625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 292913858,
-["itemLevel"] = 672.5,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 561252073,
-["itemLevel"] = 665.75,
-["classId"] = 7,
-},
-},
-},
-{
-["date"] = "20:56 28/05/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 191511937,
-["itemLevel"] = 673.8125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 162529073,
-["itemLevel"] = 661.1875,
-["classId"] = 9,
-},
-["Confluence"] = {
-["total"] = 365144193,
+["total"] = 700430510,
 ["itemLevel"] = 677.375,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 716625179,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
-},
-["Anguis"] = {
-["total"] = 645371734,
-["itemLevel"] = 658.875,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 715825078,
-["itemLevel"] = 676.625,
-["classId"] = 1,
+["Kadria"] = {
+["total"] = 1057390761,
+["itemLevel"] = 672.375,
+["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 752007346,
+["total"] = 1187371264,
 ["itemLevel"] = 675.5625,
 ["classId"] = 3,
 },
-["Artanos"] = {
-["total"] = 225984462,
-["itemLevel"] = 637.875,
-["classId"] = 8,
+["Rylacus"] = {
+["total"] = 713888172,
+["itemLevel"] = 663.375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1093781734,
+["itemLevel"] = 676.625,
+["classId"] = 1,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 455635761,
+["itemLevel"] = 673.125,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 999169108,
+["itemLevel"] = 674.3125,
+["classId"] = 7,
 },
 },
-["elapsed"] = 334.9959999999846,
-["servertime"] = 1748483766,
+["time"] = 1748659691,
+["date"] = "21:48 30/05/25",
+["elapsed"] = 501.3450000000012,
+["servertime"] = 1748659690,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 375844642,
+["total"] = 788767121,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 544275530,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
 },
-["time"] = 1748483767,
+},
+["guild"] = "House Stalwart",
 },
 {
 ["guild"] = "House Stalwart",
-["time"] = 1749090156,
-["elapsed"] = 315.8680000000168,
+["time"] = 1749091291,
+["elapsed"] = 556.369000000006,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 633720783,
+["total"] = 1086387685,
 ["itemLevel"] = 675.75,
 ["classId"] = 11,
 },
-["Anguis"] = {
-["total"] = 621271938,
-["itemLevel"] = 662.125,
-["classId"] = 13,
-},
-["Artanos"] = {
-["total"] = 146214472,
-["itemLevel"] = 642.875,
-["classId"] = 8,
-},
 ["Confluence"] = {
-["total"] = 350530034,
+["total"] = 722881574,
 ["itemLevel"] = 677.75,
 ["classId"] = 2,
 },
+["Artanos"] = {
+["total"] = 552402798,
+["itemLevel"] = 642.875,
+["classId"] = 8,
+},
 ["Erixi"] = {
-["total"] = 682145305,
+["total"] = 1232509010,
 ["itemLevel"] = 675.125,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 389987871,
+["total"] = 728279522,
 ["itemLevel"] = 664.125,
 ["classId"] = 4,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 256206788,
+["total"] = 507674926,
 ["itemLevel"] = 675,
 ["classId"] = 12,
 },
 ["Elayna"] = {
-["total"] = 530539392,
+["total"] = 1269993600,
 ["itemLevel"] = 676.75,
 ["classId"] = 3,
 },
 ["Giulietta"] = {
-["total"] = 704956669,
+["total"] = 1077466599,
 ["itemLevel"] = 678.0625,
 ["classId"] = 1,
 },
 },
-["servertime"] = 1749090155,
+["servertime"] = 1749091291,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 355966152,
+["total"] = 853299658,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 509417058,
-["itemLevel"] = 655.6875,
+["total"] = 747417731,
+["itemLevel"] = 655.4375,
 ["classId"] = 13,
 },
 ["Kadria"] = {
-["total"] = 285661214,
+["total"] = 870651353,
 ["itemLevel"] = 669.6875,
 ["classId"] = 11,
 },
+["Zephyrri"] = {
+["total"] = 1219948889,
+["itemLevel"] = 668.0625,
+["classId"] = 7,
 },
-["date"] = "21:22 04/06/25",
+},
+["date"] = "21:41 04/06/25",
 },
 {
-["time"] = 1749694569,
 ["guild"] = "House Stalwart",
-["elapsed"] = 301.9260000000068,
-["date"] = "21:16 11/06/25",
-["servertime"] = 1749694568,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 328308957,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 214143379,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
+["time"] = 1749866043,
+["elapsed"] = 529.8190000000177,
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 630306557,
-["itemLevel"] = 676.9375,
+["total"] = 529860682,
+["itemLevel"] = 674,
 ["classId"] = 11,
 },
-["Anguis"] = {
-["total"] = 516643548,
-["itemLevel"] = 662.9375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 258268033,
-["itemLevel"] = 653.6875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 247841127,
-["itemLevel"] = 650.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 396144092,
-["itemLevel"] = 678.375,
-["classId"] = 2,
+["Burnadine"] = {
+["total"] = 28912972,
+["itemLevel"] = 0,
+["classId"] = 9,
 },
 ["Kadria"] = {
-["total"] = 676601445,
-["itemLevel"] = 677.125,
+["total"] = 1302383492,
+["itemLevel"] = 678.0625,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 674080086,
+["total"] = 1162299846,
 ["itemLevel"] = 677.125,
 ["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 405668839,
-["itemLevel"] = 665,
+["total"] = 784255255,
+["itemLevel"] = 665.5625,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 225264001,
-["itemLevel"] = 676.625,
-["classId"] = 12,
+["Angelica"] = {
+["total"] = 923755326,
+["itemLevel"] = 655.9375,
+["classId"] = 10,
 },
 ["Erixi"] = {
-["total"] = 635743184,
+["total"] = 1150296457,
 ["itemLevel"] = 675.125,
 ["classId"] = 7,
 },
+["Confluence"] = {
+["total"] = 622540634,
+["itemLevel"] = 679.1875,
+["classId"] = 2,
 },
+},
+["servertime"] = 1749866042,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 885173473,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 717671659,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+["Zephyrri"] = {
+["total"] = 1176174693,
+["itemLevel"] = 668.0625,
+["classId"] = 7,
+},
+},
+["date"] = "20:54 13/06/25",
 },
 {
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 183675988,
+["total"] = 441562371,
 ["itemLevel"] = 674.5625,
 ["classId"] = 11,
 },
 ["Anguis"] = {
-["total"] = 648059539,
+["total"] = 1307075649,
 ["itemLevel"] = 668.4375,
 ["classId"] = 13,
 },
 ["Angelica"] = {
-["total"] = 467652629,
+["total"] = 758581087,
 ["itemLevel"] = 659.875,
 ["classId"] = 10,
 },
 ["Artanos"] = {
-["total"] = 320319570,
+["total"] = 607165819,
 ["itemLevel"] = 652.4375,
 ["classId"] = 8,
 },
-["Kadria"] = {
-["total"] = 670285032,
-["itemLevel"] = 678.4375,
-["classId"] = 11,
-},
 ["Riparium"] = {
-["total"] = 599351020,
+["total"] = 1137145927,
 ["itemLevel"] = 671.375,
 ["classId"] = 9,
 },
 ["Rylacus"] = {
-["total"] = 358289194,
+["total"] = 735006912,
 ["itemLevel"] = 665.9375,
 ["classId"] = 4,
 },
 ["Beamindemon-Proudmoore"] = {
-["total"] = 207190105,
+["total"] = 495866210,
 ["itemLevel"] = 681.3125,
 ["classId"] = 12,
 },
 ["Erixi"] = {
-["total"] = 595650810,
+["total"] = 1031586095,
 ["itemLevel"] = 675.5625,
 ["classId"] = 7,
 },
 ["Elayna"] = {
-["total"] = 586276028,
+["total"] = 1042548684,
 ["itemLevel"] = 678.375,
 ["classId"] = 3,
 },
 },
-["time"] = 1750299409,
-["date"] = "21:16 18/06/25",
-["elapsed"] = 251.9649999999674,
-["servertime"] = 1750299408,
+["time"] = 1750301911,
+["date"] = "21:58 18/06/25",
+["elapsed"] = 480.3379999999888,
+["servertime"] = 1750301910,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 321611667,
+["total"] = 760173748,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 298897378,
+["total"] = 621421074,
 ["itemLevel"] = 659.4375,
 ["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 1054086485,
+["itemLevel"] = 678.4375,
+["classId"] = 11,
 },
 },
 ["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:26 25/06/25",
+["time"] = 1751077885,
 ["guild"] = "House Stalwart",
+["elapsed"] = 517.2900000000373,
+["date"] = "21:31 27/06/25",
+["servertime"] = 1751077885,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1079062609,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 932206508,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 1110729535,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 198872236,
-["itemLevel"] = 676.3125,
+["total"] = 505309654,
+["itemLevel"] = 676.5,
 ["classId"] = 11,
 },
 ["Sverdrup"] = {
-["total"] = 335188972,
-["itemLevel"] = 649.625,
+["total"] = 481363952,
+["itemLevel"] = 661.375,
 ["classId"] = 10,
 },
 ["Urklesnurkle"] = {
-["total"] = 320005362,
+["total"] = 589909961,
 ["itemLevel"] = 0,
 ["classId"] = 8,
 },
-["Permaphrost-Proudmoore"] = {
-["total"] = 660079515,
-["itemLevel"] = 668.5,
-["classId"] = 8,
-},
 ["Anguis"] = {
-["total"] = 749524805,
-["itemLevel"] = 672.5,
+["total"] = 1383926965,
+["itemLevel"] = 672.9375,
 ["classId"] = 13,
 },
 ["Angelica"] = {
-["total"] = 664499803,
+["total"] = 989206233,
 ["itemLevel"] = 667.3125,
 ["classId"] = 10,
 },
-["Artanos"] = {
-["total"] = 329038335,
-["itemLevel"] = 657.125,
-["classId"] = 8,
-},
 ["Erixi"] = {
-["total"] = 675488867,
-["itemLevel"] = 675.5625,
+["total"] = 1134871474,
+["itemLevel"] = 675.75,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 506935808,
-["itemLevel"] = 668.6875,
+["total"] = 825069766,
+["itemLevel"] = 669.25,
 ["classId"] = 4,
 },
 ["Burnadine"] = {
-["total"] = 64328211,
+["total"] = 41394469,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
 ["Elayna"] = {
-["total"] = 732148955,
+["total"] = 1122137706,
 ["itemLevel"] = 679.375,
 ["classId"] = 3,
 },
 },
-["elapsed"] = 348.62099999981,
-["servertime"] = 1750904807,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 555457337,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 554791450,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 420438152,
-["itemLevel"] = 680.25,
-["classId"] = 11,
-},
-},
-["time"] = 1750904807,
 },
 {
-["time"] = 1751508192,
+["time"] = 1751510167,
 ["guild"] = "House Stalwart",
-["elapsed"] = 280.6190000001807,
-["date"] = "21:03 02/07/25",
-["servertime"] = 1751508191,
+["elapsed"] = 429.8000000000466,
+["date"] = "21:36 02/07/25",
+["servertime"] = 1751510166,
 ["HEALER"] = {
 ["Kadria"] = {
-["total"] = 413227748,
+["total"] = 1152773505,
 ["itemLevel"] = 680.4375,
 ["classId"] = 11,
 },
 ["Bleddwen"] = {
-["total"] = 536571236,
+["total"] = 1023461500,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 },
 ["DAMAGER"] = {
 ["Sverdrup"] = {
-["total"] = 255256843,
-["itemLevel"] = 667.4375,
+["total"] = 440547541,
+["itemLevel"] = 667.8125,
 ["classId"] = 10,
 },
 ["Urklesnurkle"] = {
-["total"] = 295992776,
+["total"] = 614267576,
 ["itemLevel"] = 0,
 ["classId"] = 8,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 569929319,
+["total"] = 828081198,
 ["itemLevel"] = 674.5625,
 ["classId"] = 8,
 },
 ["Anguis"] = {
-["total"] = 675860972,
-["itemLevel"] = 674.3125,
+["total"] = 1155152891,
+["itemLevel"] = 674.5,
 ["classId"] = 13,
 },
 ["Angelica"] = {
-["total"] = 413160640,
+["total"] = 854737544,
 ["itemLevel"] = 667.3125,
 ["classId"] = 10,
 },
 ["Artanos"] = {
-["total"] = 298207888,
+["total"] = 633388824,
 ["itemLevel"] = 658.5,
 ["classId"] = 8,
 },
 ["Erixi"] = {
-["total"] = 637283303,
+["total"] = 925345520,
 ["itemLevel"] = 675.75,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 416082672,
+["total"] = 615021158,
 ["itemLevel"] = 669.25,
 ["classId"] = 4,
 },
 ["Errya"] = {
-["total"] = 81519848,
-["itemLevel"] = 633.375,
+["total"] = 101697413,
+["itemLevel"] = 635.8125,
 ["classId"] = 2,
 },
 },
 },
-},
-[2918] = {
 {
-["time"] = 1728094266,
+["time"] = 1752113761,
 ["guild"] = "House Stalwart",
-["elapsed"] = 384.4020000000019,
-["date"] = "21:11 04/10/24",
-["servertime"] = 1728094265,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 225876059,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 218339945,
-["itemLevel"] = 610.8125,
-["classId"] = 13,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 265930768,
-["itemLevel"] = 610.625,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 168591365,
-["itemLevel"] = 610.875,
-["classId"] = 1,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 89071463,
-["itemLevel"] = 615,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 43444581,
-["itemLevel"] = 603.375,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 227397013,
-["itemLevel"] = 609.8125,
-["classId"] = 10,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 257458859,
-["itemLevel"] = 608.625,
-["classId"] = 5,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 321363173,
-["itemLevel"] = 616.1875,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 195266308,
-["itemLevel"] = 608.5625,
-["classId"] = 4,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 289112861,
-["itemLevel"] = 608.5,
-["classId"] = 7,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 203397674,
-["itemLevel"] = 616.4375,
-["classId"] = 12,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 152294037,
-["itemLevel"] = 608.625,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 306149371,
-["itemLevel"] = 614.875,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 207761335,
-["itemLevel"] = 612.75,
-["classId"] = 8,
-},
-},
-},
-{
-["date"] = "20:22 16/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 140144418,
-["itemLevel"] = 614.75,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 187228541,
-["itemLevel"] = 613.5625,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 241866543,
-["itemLevel"] = 620.3125,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 122647060,
-["itemLevel"] = 608.9375,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 190379358,
-["itemLevel"] = 616.5625,
-["classId"] = 10,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 217241300,
-["itemLevel"] = 613.75,
-["classId"] = 5,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 164906181,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 148164908,
-["itemLevel"] = 611.0625,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 163459501,
-["itemLevel"] = 624,
-["classId"] = 12,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 243940854,
-["itemLevel"] = 614.6875,
-["classId"] = 7,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 308288679,
-["itemLevel"] = 621.5625,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 239050497,
-["itemLevel"] = 615.0625,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 258331852,
-["itemLevel"] = 618.5625,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 138366404,
-["itemLevel"] = 615.25,
-["classId"] = 8,
-},
-},
-["elapsed"] = 280.8040000000037,
-["servertime"] = 1729128125,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 163519634,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 184118896,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["time"] = 1729128125,
-},
-{
-["date"] = "20:37 23/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 153283190,
-["itemLevel"] = 617.75,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 80377893,
-["itemLevel"] = 614.2666666666667,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 227276690,
-["itemLevel"] = 622.6875,
-["classId"] = 3,
-},
-["Zea-ArgentDawn"] = {
-["total"] = 195132809,
-["itemLevel"] = 615,
-["classId"] = 4,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 272480706,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 185544712,
-["itemLevel"] = 616,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 228759564,
-["itemLevel"] = 612.0625,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 210007308,
-["itemLevel"] = 617.3125,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 117872047,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 165831550,
-["itemLevel"] = 0,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 241817142,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 130661710,
-["itemLevel"] = 611,
-["classId"] = 8,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 241755940,
-["itemLevel"] = 619.125,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 256323313,
-["itemLevel"] = 621.375,
-["classId"] = 1,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 214127627,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-},
-["elapsed"] = 268.9440000000031,
-["servertime"] = 1729733820,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 170250095,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 193776027,
-["itemLevel"] = 611.625,
-["classId"] = 13,
-},
-},
-["time"] = 1729733821,
-},
-{
-["date"] = "20:35 30/10/24",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 157788086,
-["itemLevel"] = 620.0625,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 162728538,
-["itemLevel"] = 616.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 228585457,
-["itemLevel"] = 624.375,
-["classId"] = 3,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 291067747,
-["itemLevel"] = 624.3125,
-["classId"] = 8,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 160038378,
-["itemLevel"] = 612.625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 237876871,
-["itemLevel"] = 617,
-["classId"] = 4,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 198934150,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 250508125,
-["itemLevel"] = 618.875,
-["classId"] = 1,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 140937820,
-["itemLevel"] = 620.5625,
-["classId"] = 3,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 150934730,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 161609282,
-["itemLevel"] = 628.8125,
-["classId"] = 12,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 211029378,
-["itemLevel"] = 616.375,
-["classId"] = 7,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 221909072,
-["itemLevel"] = 620.125,
-["classId"] = 5,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 217213667,
-["itemLevel"] = 621.1875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 168919576,
-["itemLevel"] = 622.25,
-["classId"] = 1,
-},
-["Mysdelin-ArgentDawn"] = {
-["total"] = 198141249,
-["itemLevel"] = 617.125,
-["classId"] = 8,
-},
-},
-["elapsed"] = 266.8099999999977,
-["servertime"] = 1730338521,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 213127824,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 173052683,
-["itemLevel"] = 613.125,
-["classId"] = 13,
-},
-},
-["time"] = 1730338522,
-},
-{
-["time"] = 1731725994,
-["guild"] = "House Stalwart",
-["elapsed"] = 281.375,
-["date"] = "20:59 15/11/24",
-["servertime"] = 1731725993,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 222006145,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 243335504,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 381403653,
-["itemLevel"] = 617.875,
-["classId"] = 7,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 187611099,
-["itemLevel"] = 623.375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 102511789,
-["itemLevel"] = 620.5,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 294040056,
-["itemLevel"] = 628.1875,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 137467188,
-["itemLevel"] = 618.1333333333333,
-["classId"] = 8,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 243063561,
-["itemLevel"] = 619.25,
-["classId"] = 10,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 112023484,
-["itemLevel"] = 619.4375,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 255113284,
-["itemLevel"] = 621.875,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 156207109,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 268527980,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 238331103,
-["itemLevel"] = 620,
-["classId"] = 4,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 317896270,
-["itemLevel"] = 625.375,
-["classId"] = 1,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 223232505,
-["itemLevel"] = 623.0625,
-["classId"] = 3,
-},
-},
-},
-{
-["time"] = 1732160684,
-["guild"] = "House Stalwart",
-["elapsed"] = 202.3909999999996,
-["date"] = "21:44 20/11/24",
-["servertime"] = 1732160683,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 150209974,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 138360619,
-["itemLevel"] = 624.5,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 149879891,
-["itemLevel"] = 618.9375,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 210399942,
-["itemLevel"] = 629.375,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 128457841,
-["itemLevel"] = 618.625,
-["classId"] = 8,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 172591608,
-["itemLevel"] = 620.6875,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 225899227,
-["itemLevel"] = 622,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 189776348,
-["itemLevel"] = 621.875,
-["classId"] = 5,
-},
-["Lleandryn-ArgentDawn"] = {
-["total"] = 176456388,
-["itemLevel"] = 623.9375,
-["classId"] = 3,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 215510291,
-["itemLevel"] = 621.5,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 246647872,
-["itemLevel"] = 627.375,
-["classId"] = 11,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 130927010,
-["itemLevel"] = 632.5625,
-["classId"] = 12,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 227210491,
-["itemLevel"] = 626.875,
-["classId"] = 1,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 220687463,
-["itemLevel"] = 627.8125,
-["classId"] = 8,
-},
-},
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733365890,
-["elapsed"] = 256.5469999999914,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 153750947,
-["itemLevel"] = 626.9375,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 95643242,
-["itemLevel"] = 623.75,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 224296876,
-["itemLevel"] = 631.0625,
-["classId"] = 3,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 180040443,
-["itemLevel"] = 620.25,
-["classId"] = 8,
-},
-["Tazz-ArgentDawn"] = {
-["total"] = 5136553,
-["itemLevel"] = 605.8125,
-["classId"] = 10,
-},
-["Rylacus-ArgentDawn"] = {
-["total"] = 188076971,
-["itemLevel"] = 622.0625,
-["classId"] = 4,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 273087683,
-["itemLevel"] = 623.0625,
-["classId"] = 1,
-},
-["Hydeon-ArgentDawn"] = {
-["total"] = 241321229,
-["itemLevel"] = 622.9375,
-["classId"] = 5,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 148003383,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 259976401,
-["itemLevel"] = 630.5625,
-["classId"] = 8,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 291773904,
-["itemLevel"] = 630,
-["classId"] = 1,
-},
-["Nil-ArgentDawn"] = {
-["total"] = 197404654,
-["itemLevel"] = 621.8125,
-["classId"] = 10,
-},
-},
-["servertime"] = 1733365889,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 240495286,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 333629800,
-["itemLevel"] = 630.25,
-["classId"] = 11,
-},
-},
-["date"] = "20:31 04/12/24",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733969599,
-["elapsed"] = 221.6790000000037,
-["DAMAGER"] = {
-["Esker"] = {
-["total"] = 154665441,
-["itemLevel"] = 628.875,
-["classId"] = 1,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 94019901,
-["itemLevel"] = 625.3125,
-["classId"] = 11,
-},
-["Elayna-ArgentDawn"] = {
-["total"] = 224670942,
-["itemLevel"] = 632.125,
-["classId"] = 3,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 211664260,
-["itemLevel"] = 625.1875,
-["classId"] = 8,
-},
-["Apókryfes-Proudmoore"] = {
-["total"] = 267127340,
-["itemLevel"] = 631,
-["classId"] = 8,
-},
-["Nidokiv-ArgentDawn"] = {
-["total"] = 202887496,
-["itemLevel"] = 623.5,
-["classId"] = 1,
-},
-["Burnadine-ArgentDawn"] = {
-["total"] = 147807432,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Erixi-ArgentDawn"] = {
-["total"] = 237197989,
-["itemLevel"] = 622.75,
-["classId"] = 7,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 246056710,
-["itemLevel"] = 631.875,
-["classId"] = 11,
-},
-["Giulietta-ArgentDawn"] = {
-["total"] = 258526815,
-["itemLevel"] = 0,
-["classId"] = 1,
-},
-["Artanos-ArgentDawn"] = {
-["total"] = 164404569,
-["itemLevel"] = 621.3125,
-["classId"] = 8,
-},
-},
-["servertime"] = 1733969599,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 132698731,
-["itemLevel"] = 234.75,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 133115767,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "20:13 11/12/24",
-},
-{
-["time"] = 1734575108,
-["guild"] = "House Stalwart",
-["elapsed"] = 235.4809999999998,
-["date"] = "20:25 18/12/24",
-["servertime"] = 1734575108,
+["elapsed"] = 436.3990000000049,
+["date"] = "21:16 09/07/25",
+["servertime"] = 1752113760,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 151565415,
+["total"] = 919369352,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 122385037,
-["itemLevel"] = 620.5625,
+["total"] = 821537661,
+["itemLevel"] = 0,
 ["classId"] = 13,
 },
-["Mykellqt-Sargeras"] = {
-["total"] = 198392714,
-["itemLevel"] = 606.6875,
-["classId"] = 5,
+["Kadria"] = {
+["total"] = 1120155571,
+["itemLevel"] = 682.5,
+["classId"] = 11,
 },
 },
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 94994499,
-["itemLevel"] = 626.75,
+["total"] = 418522434,
+["itemLevel"] = 678.8125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 534987220,
+["itemLevel"] = 670.6875,
+["classId"] = 10,
+},
+["Permaphrost-Proudmoore"] = {
+["total"] = 842895880,
+["itemLevel"] = 676.5625,
+["classId"] = 8,
+},
+["Anguis"] = {
+["total"] = 1249860547,
+["itemLevel"] = 675.5625,
+["classId"] = 13,
+},
+["Artanos"] = {
+["total"] = 670247436,
+["itemLevel"] = 662.25,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 1068566429,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 641514212,
+["itemLevel"] = 670.1875,
+["classId"] = 4,
+},
+["Jullianna"] = {
+["total"] = 617944936,
+["itemLevel"] = 665.25,
+["classId"] = 5,
+},
+["Erixi"] = {
+["total"] = 941671938,
+["itemLevel"] = 676.75,
+["classId"] = 7,
+},
+},
+},
+{
+["date"] = "21:16 16/07/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 475768795,
+["itemLevel"] = 682.9375,
 ["classId"] = 11,
 },
 ["Permaphrost-Proudmoore"] = {
-["total"] = 278226962,
-["itemLevel"] = 626.375,
+["total"] = 1204558374,
+["itemLevel"] = 680.5,
 ["classId"] = 8,
 },
-["Lleandryn"] = {
-["total"] = 226682884,
-["itemLevel"] = 624.375,
-["classId"] = 3,
+["Jullianna"] = {
+["total"] = 89464973,
+["itemLevel"] = 667.3125,
+["classId"] = 5,
 },
 ["Artanos"] = {
-["total"] = 163168133,
-["itemLevel"] = 624.25,
+["total"] = 781459804,
+["itemLevel"] = 662.25,
 ["classId"] = 8,
 },
 ["Confluence"] = {
-["total"] = 108912292,
-["itemLevel"] = 611.8125,
+["total"] = 631208749,
+["itemLevel"] = 681.875,
 ["classId"] = 2,
 },
+["Elayna"] = {
+["total"] = 839793512,
+["itemLevel"] = 679.8125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 754121518,
+["itemLevel"] = 672.875,
+["classId"] = 4,
+},
+["Anguis"] = {
+["total"] = 1359479614,
+["itemLevel"] = 678.875,
+["classId"] = 13,
+},
+["Erixi"] = {
+["total"] = 1157584675,
+["itemLevel"] = 677.8125,
+["classId"] = 7,
+},
+},
+["elapsed"] = 479.8369999999995,
+["servertime"] = 1752718610,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 925155596,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 788062114,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
 ["Kadria"] = {
-["total"] = 283978122,
-["itemLevel"] = 632.5,
+["total"] = 943951229,
+["itemLevel"] = 680.875,
+["classId"] = 11,
+},
+},
+["time"] = 1752718611,
+},
+},
+[3133] = {
+{
+["time"] = 1757128249,
+["guild"] = "House Stalwart",
+["elapsed"] = 278.3990000000049,
+["date"] = "22:10 05/09/25",
+["servertime"] = 1757128248,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 668082449,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 584383558,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 552191524,
+["itemLevel"] = 711.75,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 447381699,
+["itemLevel"] = 709.6875,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 479008467,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1054157964,
+["itemLevel"] = 704.6875,
+["classId"] = 13,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1125258599,
+["itemLevel"] = 710.625,
+["classId"] = 6,
+},
+["Taise-Area52"] = {
+["total"] = 1340198097,
+["itemLevel"] = 706.75,
+["classId"] = 1,
+},
+["Nil"] = {
+["total"] = 711110118,
+["itemLevel"] = 699.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1027565966,
+["itemLevel"] = 707.6875,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 226223956,
-["itemLevel"] = 622.75,
+["total"] = 993017987,
+["itemLevel"] = 706.375,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 213398333,
-["itemLevel"] = 623.375,
+["total"] = 718653280,
+["itemLevel"] = 697.5625,
 ["classId"] = 4,
 },
-["Malimortui"] = {
-["total"] = 214451739,
-["itemLevel"] = 609.4375,
+["Giulietta"] = {
+["total"] = 1200622844,
+["itemLevel"] = 704.4375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 544762337,
+["itemLevel"] = 706.6875,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 1029193218,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
+},
+},
+},
+{
+["time"] = 1758163675,
+["guild"] = "House Stalwart",
+["elapsed"] = 291.179999999993,
+["date"] = "21:47 17/09/25",
+["servertime"] = 1758163674,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 536528018,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 564165131,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 926600208,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 472246442,
+["itemLevel"] = 712.875,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 619874590,
+["itemLevel"] = 706.875,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1098955477,
+["itemLevel"] = 713.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 673103357,
+["itemLevel"] = 694,
+["classId"] = 8,
+},
+["Elayna"] = {
+["total"] = 1183002988,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
+},
+["Kadria"] = {
+["total"] = 1212349509,
+["itemLevel"] = 711.3125,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1117681037,
+["itemLevel"] = 709.9375,
+["classId"] = 7,
+},
+["Rylacus"] = {
+["total"] = 811726417,
+["itemLevel"] = 703.0625,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1393781041,
+["itemLevel"] = 714.125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 929495980,
+["itemLevel"] = 699.75,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 474207795,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+},
+},
+{
+["date"] = "20:57 24/09/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 401311494,
+["itemLevel"] = 713.8125,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 529289261,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1162489145,
+["itemLevel"] = 714.0625,
 ["classId"] = 6,
 },
 ["Elayna"] = {
-["total"] = 209075463,
-["itemLevel"] = 633.125,
+["total"] = 990043320,
+["itemLevel"] = 712.25,
 ["classId"] = 3,
-},
-},
-},
-{
-["date"] = "20:16 01/01/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Permaphrost-Proudmoore"] = {
-["total"] = 265517608,
-["itemLevel"] = 635.375,
-["classId"] = 8,
-},
-["Erixi"] = {
-["total"] = 239400804,
-["itemLevel"] = 628.25,
-["classId"] = 7,
-},
-["Artanos"] = {
-["total"] = 164821938,
-["itemLevel"] = 625.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 88684298,
-["itemLevel"] = 619.3125,
-["classId"] = 2,
-},
-["Angélique"] = {
-["total"] = 149690885,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 191548378,
-["itemLevel"] = 634.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 190554494,
-["itemLevel"] = 627.25,
-["classId"] = 4,
 },
 ["Nil"] = {
-["total"] = 187554444,
-["itemLevel"] = 623,
+["total"] = 687493348,
+["itemLevel"] = 700.6875,
 ["classId"] = 10,
 },
-["Hydeon"] = {
-["total"] = 180920577,
-["itemLevel"] = 623.8125,
-["classId"] = 5,
-},
 ["Kadria"] = {
-["total"] = 83166879,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-},
-["elapsed"] = 175.3110000000161,
-["servertime"] = 1735784197,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 160818472,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 173678738,
-["itemLevel"] = 624.9375,
-["classId"] = 7,
-},
-},
-["time"] = 1735784198,
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1737598852,
-["elapsed"] = 231.4309999999823,
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 86050246,
-["itemLevel"] = 631.5,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 167125981,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 230021697,
-["itemLevel"] = 627.1875,
-["classId"] = 7,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 332957409,
-["itemLevel"] = 636.1875,
-["classId"] = 8,
-},
-["Artaius"] = {
-["total"] = 38664277,
-["itemLevel"] = 597.3125,
-["classId"] = 11,
-},
-["Kadria"] = {
-["total"] = 107385989,
-["itemLevel"] = 630.875,
+["total"] = 1128748336,
+["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
 ["Erixi"] = {
-["total"] = 228371015,
-["itemLevel"] = 626.8125,
+["total"] = 1124855277,
+["itemLevel"] = 712.0625,
 ["classId"] = 7,
 },
 ["Rylacus"] = {
-["total"] = 219855090,
-["itemLevel"] = 628,
+["total"] = 752233777,
+["itemLevel"] = 704.6875,
 ["classId"] = 4,
 },
-["Estuary"] = {
-["total"] = 196255208,
-["itemLevel"] = 618.4375,
-["classId"] = 4,
+["Giulietta"] = {
+["total"] = 1307271744,
+["itemLevel"] = 715.125,
+["classId"] = 1,
 },
-["Elayna"] = {
-["total"] = 207709027,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
+["Heikuro"] = {
+["total"] = 1074756458,
+["itemLevel"] = 707.9375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 633199113,
+["itemLevel"] = 709.25,
+["classId"] = 10,
 },
 },
-["servertime"] = 1737598851,
+["elapsed"] = 246.1669999999867,
+["servertime"] = 1758765463,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 200774155,
+["total"] = 467593415,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 159717596,
-["itemLevel"] = 623.5625,
+["total"] = 461190826,
+["itemLevel"] = 0,
 ["classId"] = 13,
 },
+["Mykellcat"] = {
+["total"] = 693497672,
+["itemLevel"] = 715.0625,
+["classId"] = 11,
 },
-["date"] = "20:20 22/01/25",
+},
+["time"] = 1758765463,
 },
 {
-["DAMAGER"] = {
-["Sverdrup"] = {
-["total"] = 124715027,
-["itemLevel"] = 616.8125,
-["classId"] = 10,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 92739708,
-["itemLevel"] = 635.8125,
-["classId"] = 8,
-},
-["Jiulianna"] = {
-["total"] = 249085069,
-["itemLevel"] = 609.4375,
-["classId"] = 2,
-},
-["Gedan"] = {
-["total"] = 198819941,
-["itemLevel"] = 615,
-["classId"] = 11,
-},
-["Artanos"] = {
-["total"] = 218634568,
-["itemLevel"] = 627,
-["classId"] = 8,
-},
-["Xyza"] = {
-["total"] = 20931326,
-["itemLevel"] = 558.4375,
-["classId"] = 5,
-},
-["Kadria"] = {
-["total"] = 164496173,
-["itemLevel"] = 630.875,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 268957344,
-["itemLevel"] = 635.5625,
-["classId"] = 3,
-},
-["Burnadine"] = {
-["total"] = 215476600,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-},
-["time"] = 1738809413,
-["date"] = "20:36 05/02/25",
-["elapsed"] = 293.0219999999972,
-["servertime"] = 1738809412,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 268223179,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 424033763,
-["itemLevel"] = 628.5625,
-["classId"] = 7,
-},
-},
+["date"] = "21:05 01/10/25",
 ["guild"] = "House Stalwart",
-},
-},
-[3011] = {
-{
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 392789130,
-["itemLevel"] = 644.5625,
+["total"] = 446906032,
+["itemLevel"] = 713.8125,
 ["classId"] = 11,
 },
+["Sverdrup"] = {
+["total"] = 728348335,
+["itemLevel"] = 712.25,
+["classId"] = 10,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1326168898,
+["itemLevel"] = 716.0625,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 713470585,
+["itemLevel"] = 701.125,
+["classId"] = 8,
+},
 ["Burnadine"] = {
-["total"] = 84516466,
+["total"] = 268925896,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Zephyrri"] = {
-["total"] = 567109178,
-["itemLevel"] = 652.8125,
+["Kadria"] = {
+["total"] = 1285807443,
+["itemLevel"] = 714.4375,
+["classId"] = 11,
+},
+["Erixi"] = {
+["total"] = 1217960031,
+["itemLevel"] = 712.625,
 ["classId"] = 7,
 },
+["Rylacus"] = {
+["total"] = 858013952,
+["itemLevel"] = 706.5625,
+["classId"] = 4,
+},
 ["Giulietta"] = {
-["total"] = 354953233,
-["itemLevel"] = 642.375,
+["total"] = 1252604409,
+["itemLevel"] = 716.0625,
 ["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1160730578,
+["itemLevel"] = 709.9375,
+["classId"] = 12,
+},
+["Elayna"] = {
+["total"] = 985726537,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
+},
+},
+["elapsed"] = 277.4579999999842,
+["servertime"] = 1759370734,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 521378611,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 631200483,
+["itemLevel"] = 710.4375,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 872787209,
+["itemLevel"] = 716.4375,
+["classId"] = 11,
+},
+},
+["time"] = 1759370735,
+},
+{
+["date"] = "20:46 10/10/25",
+["guild"] = "House Stalwart",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 406993158,
+["itemLevel"] = 715.3125,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 636343076,
+["itemLevel"] = 714.8125,
+["classId"] = 10,
+},
+["Burnadine"] = {
+["total"] = 514423385,
+["itemLevel"] = 0,
+["classId"] = 9,
 },
 ["Nil"] = {
-["total"] = 103356076,
-["itemLevel"] = 630.0625,
+["total"] = 678979331,
+["itemLevel"] = 707.8125,
 ["classId"] = 10,
 },
 ["Kadria"] = {
-["total"] = 453652273,
-["itemLevel"] = 657.5625,
+["total"] = 1188618666,
+["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
 ["Elayna"] = {
-["total"] = 408259786,
-["itemLevel"] = 655.3125,
+["total"] = 1034397254,
+["itemLevel"] = 715.4375,
 ["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 359942849,
-["itemLevel"] = 642.6875,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 286666223,
-["itemLevel"] = 658.25,
-["classId"] = 12,
-},
-["Erixi"] = {
-["total"] = 426707656,
-["itemLevel"] = 645.25,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 252939717,
-["itemLevel"] = 654.9375,
-["classId"] = 2,
-},
-},
-["time"] = 1742611630,
-["date"] = "21:47 21/03/25",
-["elapsed"] = 382.3580000000002,
-["servertime"] = 1742611630,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 417456750,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["guild"] = "House Stalwart",
-},
-{
-["date"] = "21:01 28/03/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 450169017,
-["itemLevel"] = 658.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 100757293,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 569281401,
-["itemLevel"] = 659.3125,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 243604769,
-["itemLevel"] = 662,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 400111881,
-["itemLevel"] = 662,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 326547315,
-["itemLevel"] = 650.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 319026506,
-["itemLevel"] = 647.75,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 242985487,
-["itemLevel"] = 662.4375,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 581255446,
-["itemLevel"] = 663.8125,
-["classId"] = 3,
-},
-["Giulietta"] = {
-["total"] = 374900539,
-["itemLevel"] = 646.9375,
-["classId"] = 1,
-},
-},
-["elapsed"] = 331.505999999994,
-["servertime"] = 1743213715,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 327296727,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 213374848,
-["itemLevel"] = 640.75,
-["classId"] = 13,
-},
-},
-["time"] = 1743213715,
-},
-{
-["time"] = 1744249082,
-["guild"] = "House Stalwart",
-["elapsed"] = 254.2409999999218,
-["date"] = "20:38 09/04/25",
-["servertime"] = 1744249081,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 292690351,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 226067476,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 462378855,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 167883691,
-["itemLevel"] = 665.75,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 112158132,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Zephyrri"] = {
-["total"] = 482125281,
-["itemLevel"] = 665.5,
-["classId"] = 7,
-},
-["Confluence"] = {
-["total"] = 217590827,
-["itemLevel"] = 665.6875,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 422668013,
-["itemLevel"] = 665.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 370272175,
-["itemLevel"] = 659.375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 280885006,
-["itemLevel"] = 650.75,
+["total"] = 842003123,
+["itemLevel"] = 706.9375,
 ["classId"] = 4,
 },
 ["Giulietta"] = {
-["total"] = 345445735,
-["itemLevel"] = 659,
+["total"] = 1381419968,
+["itemLevel"] = 718.1875,
 ["classId"] = 1,
 },
-["Elayna"] = {
-["total"] = 400003581,
-["itemLevel"] = 665.375,
-["classId"] = 3,
-},
-},
-},
-{
-["time"] = 1747270820,
-["guild"] = "House Stalwart",
-["elapsed"] = 231.570000000007,
-["date"] = "20:00 14/05/25",
-["servertime"] = 1747270819,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 310799882,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 283286999,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
-},
-["Burnadine"] = {
-["total"] = 133896204,
-["itemLevel"] = 657.75,
-["classId"] = 9,
-},
-["Kadria"] = {
-["total"] = 177485642,
-["itemLevel"] = 667.5,
-["classId"] = 11,
-},
-["Elayna"] = {
-["total"] = 444554714,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
-},
-["Anguis"] = {
-["total"] = 344092876,
-["itemLevel"] = 651.25,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 423244572,
-["itemLevel"] = 673.0625,
-["classId"] = 1,
-},
-["Confluence"] = {
-["total"] = 232134581,
-["itemLevel"] = 672.5,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 421490024,
-["itemLevel"] = 665.75,
-["classId"] = 7,
-},
-},
-},
-{
-["date"] = "20:00 28/05/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 182049175,
-["itemLevel"] = 673.8125,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 154102036,
-["itemLevel"] = 661.1875,
-["classId"] = 9,
-},
-["Confluence"] = {
-["total"] = 252290700,
-["itemLevel"] = 677,
-["classId"] = 2,
-},
-["Erixi"] = {
-["total"] = 508619815,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
-},
-["Anguis"] = {
-["total"] = 426665455,
-["itemLevel"] = 658,
-["classId"] = 13,
-},
-["Giulietta"] = {
-["total"] = 516376534,
-["itemLevel"] = 676.625,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 545527506,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
-},
-["Artanos"] = {
-["total"] = 227628568,
-["itemLevel"] = 637.875,
-["classId"] = 8,
-},
-},
-["elapsed"] = 243.1900000000023,
-["servertime"] = 1748480437,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 211261053,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["time"] = 1748480438,
-},
-{
-["date"] = "20:04 04/06/25",
-["guild"] = "House Stalwart",
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 404864952,
-["itemLevel"] = 675.75,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 97114769,
-["itemLevel"] = 630.625,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 455424767,
-["itemLevel"] = 661.5,
-["classId"] = 13,
-},
-["Artanos"] = {
-["total"] = 235958779,
-["itemLevel"] = 641.4375,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 394404821,
-["itemLevel"] = 673.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 435487461,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 318988070,
-["itemLevel"] = 664.125,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 309720070,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 190835445,
-["itemLevel"] = 675,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 434390642,
-["itemLevel"] = 676.75,
-["classId"] = 3,
-},
-},
-["elapsed"] = 202.6809999999823,
-["servertime"] = 1749085477,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 309217602,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 198692913,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["time"] = 1749085477,
-},
-{
-["time"] = 1749690462,
-["guild"] = "House Stalwart",
-["elapsed"] = 208.9759999999951,
-["date"] = "20:07 11/06/25",
-["servertime"] = 1749690461,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 350662469,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 231879012,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 428824996,
-["itemLevel"] = 676.9375,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 478773455,
-["itemLevel"] = 662.9375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 318214828,
-["itemLevel"] = 653.5,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 226783924,
-["itemLevel"] = 650.375,
-["classId"] = 8,
-},
-["Confluence"] = {
-["total"] = 229362439,
-["itemLevel"] = 678.375,
-["classId"] = 2,
-},
-["Kadria"] = {
-["total"] = 422843852,
-["itemLevel"] = 677.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 429561850,
-["itemLevel"] = 675.125,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 302637366,
-["itemLevel"] = 665,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 193279743,
-["itemLevel"] = 676.625,
-["classId"] = 12,
-},
-["Elayna"] = {
-["total"] = 294128152,
-["itemLevel"] = 677.125,
-["classId"] = 3,
-},
-},
-},
-{
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 168672550,
-["itemLevel"] = 674.5625,
-["classId"] = 11,
-},
-["Anguis"] = {
-["total"] = 524785763,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 374491163,
-["itemLevel"] = 659.875,
-["classId"] = 10,
-},
-["Artanos"] = {
-["total"] = 261817377,
-["itemLevel"] = 652.4375,
-["classId"] = 8,
-},
-["Riparium"] = {
-["total"] = 456874436,
-["itemLevel"] = 671.375,
-["classId"] = 9,
-},
-["Rylacus"] = {
-["total"] = 195773399,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 200595992,
-["itemLevel"] = 681.3125,
+["Heikuro"] = {
+["total"] = 1236485743,
+["itemLevel"] = 715.3125,
 ["classId"] = 12,
 },
 ["Erixi"] = {
-["total"] = 351641070,
-["itemLevel"] = 675.5625,
+["total"] = 1267940744,
+["itemLevel"] = 713.4375,
 ["classId"] = 7,
 },
-["Elayna"] = {
-["total"] = 403538257,
-["itemLevel"] = 678.375,
-["classId"] = 3,
 },
-},
-["time"] = 1750295055,
-["date"] = "20:04 18/06/25",
-["elapsed"] = 197.0889999999199,
-["servertime"] = 1750295054,
+["elapsed"] = 260.5489999999991,
+["servertime"] = 1760147211,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 229294636,
+["total"] = 518379720,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 225558618,
-["itemLevel"] = 659.4375,
+["total"] = 559094749,
+["itemLevel"] = 711.3125,
 ["classId"] = 13,
 },
+["Mykellcat"] = {
+["total"] = 806986032,
+["itemLevel"] = 717.4375,
+["classId"] = 11,
 },
-["guild"] = "House Stalwart",
+},
+["time"] = 1760147212,
 },
 {
-["date"] = "20:13 25/06/25",
+["time"] = 1760579782,
 ["guild"] = "House Stalwart",
+["elapsed"] = 261.2799999999988,
+["date"] = "20:56 15/10/25",
+["servertime"] = 1760579782,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 525303064,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 597180384,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 858015240,
+["itemLevel"] = 719.25,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
-["total"] = 151543551,
-["itemLevel"] = 676.3125,
+["total"] = 372541686,
+["itemLevel"] = 716.125,
 ["classId"] = 11,
 },
 ["Burnadine"] = {
-["total"] = 147453476,
+["total"] = 568557473,
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Urklesnurkle"] = {
-["total"] = 260214171,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Permaphrost-Proudmoore"] = {
-["total"] = 385018501,
-["itemLevel"] = 668.25,
-["classId"] = 8,
-},
-["Anguis"] = {
-["total"] = 246206503,
-["itemLevel"] = 672.5,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 386261336,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
+["Fortybelow-Proudmoore"] = {
+["total"] = 1169531075,
+["itemLevel"] = 718.75,
+["classId"] = 6,
 },
 ["Artanos"] = {
-["total"] = 257153352,
-["itemLevel"] = 657.125,
-["classId"] = 8,
-},
-["Kadria"] = {
-["total"] = 345975267,
-["itemLevel"] = 679.4375,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 452645277,
-["itemLevel"] = 675.5625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 231439178,
-["itemLevel"] = 668.5,
-["classId"] = 4,
-},
-["Sverdrup"] = {
-["total"] = 136464981,
-["itemLevel"] = 645.75,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 477234533,
-["itemLevel"] = 679.375,
-["classId"] = 3,
-},
-},
-["elapsed"] = 220.6450000000186,
-["servertime"] = 1750900424,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 261897554,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 409211938,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
-["time"] = 1750900425,
-},
-{
-["time"] = 1751505054,
-["guild"] = "House Stalwart",
-["elapsed"] = 216.8349999999628,
-["date"] = "20:10 02/07/25",
-["servertime"] = 1751505053,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 373712200,
-["itemLevel"] = 637.75,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 316047161,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["DAMAGER"] = {
-["Artanos"] = {
-["total"] = 297680124,
-["itemLevel"] = 658.5,
+["total"] = 807544597,
+["itemLevel"] = 701.9375,
 ["classId"] = 8,
 },
 ["Sverdrup"] = {
-["total"] = 172749696,
-["itemLevel"] = 665.8666666666667,
+["total"] = 712010724,
+["itemLevel"] = 715.25,
 ["classId"] = 10,
 },
-["Urklesnurkle"] = {
-["total"] = 244229967,
-["itemLevel"] = 0,
-["classId"] = 8,
-},
-["Errya"] = {
-["total"] = 50758974,
-["itemLevel"] = 622.125,
-["classId"] = 2,
-},
-["Anguis"] = {
-["total"] = 485262324,
-["itemLevel"] = 674.3125,
-["classId"] = 13,
-},
-["Angelica"] = {
-["total"] = 407677510,
-["itemLevel"] = 667.3125,
-["classId"] = 10,
+["Elayna"] = {
+["total"] = 976508040,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
-["total"] = 321947886,
-["itemLevel"] = 669.25,
+["total"] = 863187728,
+["itemLevel"] = 707.625,
 ["classId"] = 4,
 },
+["Giulietta"] = {
+["total"] = 1412679824,
+["itemLevel"] = 719.3125,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1203985935,
+["itemLevel"] = 717.9375,
+["classId"] = 12,
+},
 ["Erixi"] = {
-["total"] = 420438928,
-["itemLevel"] = 675.75,
+["total"] = 1124717377,
+["itemLevel"] = 713.1875,
 ["classId"] = 7,
 },
 },
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761184426,
+["elapsed"] = 238.6670000000158,
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 460165746,
+["itemLevel"] = 715.5,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 555191769,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1199514624,
+["itemLevel"] = 720.25,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 788974195,
+["itemLevel"] = 704.75,
+["classId"] = 8,
+},
+["Sverdrup"] = {
+["total"] = 632388279,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1153717158,
+["itemLevel"] = 717.625,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 907933424,
+["itemLevel"] = 720.25,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 808629994,
+["itemLevel"] = 708.4375,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1208740360,
+["itemLevel"] = 722.1875,
+["classId"] = 1,
+},
+["Heikuro"] = {
+["total"] = 1199315189,
+["itemLevel"] = 719.375,
+["classId"] = 12,
+},
+["Erixi"] = {
+["total"] = 1107545460,
+["itemLevel"] = 714.0625,
+["classId"] = 7,
+},
+},
+["servertime"] = 1761184425,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 436766808,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 413517957,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 774063205,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:53 22/10/25",
+},
+{
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 376290124,
+["itemLevel"] = 723.4375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 512978139,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1368060327,
+["itemLevel"] = 722.3125,
+["classId"] = 6,
+},
+["Artanos"] = {
+["total"] = 287650728,
+["itemLevel"] = 706.75,
+["classId"] = 8,
+},
+["Kadria"] = {
+["total"] = 1140547168,
+["itemLevel"] = 722.6875,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 911758882,
+["itemLevel"] = 721.6875,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 754216615,
+["itemLevel"] = 709.4375,
+["classId"] = 4,
+},
+["Erixi"] = {
+["total"] = 1027106916,
+["itemLevel"] = 719.25,
+["classId"] = 7,
+},
+["Heikuro"] = {
+["total"] = 1245655385,
+["itemLevel"] = 721.4375,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 589586947,
+["itemLevel"] = 717.3125,
+["classId"] = 10,
+},
+},
+["time"] = 1761788999,
+["date"] = "20:49 29/10/25",
+["elapsed"] = 249.9830000000075,
+["servertime"] = 1761788998,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 766717897,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 638071217,
+["itemLevel"] = 715.0625,
+["classId"] = 13,
+},
+},
+["guild"] = "House Stalwart",
 },
 },
 },

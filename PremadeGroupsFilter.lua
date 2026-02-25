@@ -10,11 +10,11 @@ PremadeGroupsFilterSettings = {
 ["ratingInfo"] = true,
 ["dialogMovable"] = true,
 ["leaderCrown"] = true,
-["cancelOldestApp"] = true,
 ["classCircle"] = false,
+["version"] = 3,
 ["classBar"] = true,
 ["persistSignUpNote"] = true,
 ["classNamesInTooltip"] = true,
 ["skipSignUpDialog"] = false,
-["version"] = 3,
+["cancelOldestApp"] = true,
 }

@@ -1,55 +1,41 @@
 
 BAGANATOR_CONFIG = {
+["Version"] = 1,
 ["CharacterSpecific"] = {
 ["sort_ignore_bank_slots_count"] = {
-["Mangrove-ArgentDawn"] = 0,
+["Estuary-ArgentDawn"] = 0,
+["Cascades-Kel'Thuzad"] = 0,
 ["Confluence-ArgentDawn"] = 0,
+["Riparium-ArgentDawn"] = 0,
+["Riptides-ArgentDawn"] = 0,
+["Sverdrup-ArgentDawn"] = 0,
+["Esker-Kel'Thuzad"] = 0,
+["Mangrove-ArgentDawn"] = 0,
+["Gelae-Kel'Thuzad"] = 0,
 },
-["currencies_tracked_imported"] = {
+["sort_ignore_slots_count_2"] = {
+["Estuary-ArgentDawn"] = 0,
+["Cascades-Kel'Thuzad"] = 0,
+["Confluence-ArgentDawn"] = 0,
+["Riparium-ArgentDawn"] = 0,
+["Riptides-ArgentDawn"] = 0,
+["Sverdrup-ArgentDawn"] = 0,
+["Esker-Kel'Thuzad"] = 0,
+["Mangrove-ArgentDawn"] = 0,
+["Gelae-Kel'Thuzad"] = 0,
 },
 ["currencies_tracked"] = {
 ["Estuary-ArgentDawn"] = {
 {
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3028,
-},
-},
-["Riparium-ArgentDawn"] = {
-{
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3028,
-},
-},
-["Mangrove-ArgentDawn"] = {
-{
-["currencyID"] = 2815,
-},
-{
 ["currencyID"] = 3028,
 },
 {
 ["currencyID"] = 3008,
 },
 },
-["Cataracts-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
+["Cascades-Kel'Thuzad"] = {
 },
-{
-["currencyID"] = 3008,
-},
-},
-["Emptyrivers-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3008,
-},
+["Geosmin-Kel'Thuzad"] = {
 },
 ["Confluence-ArgentDawn"] = {
 {
@@ -70,6 +56,10 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3008,
 },
 },
+["Virga-Kel'Thuzad"] = {
+},
+["Meander-Kel'Thuzad"] = {
+},
 ["Esker-Kel'Thuzad"] = {
 {
 ["currencyID"] = 3008,
@@ -79,33 +69,6 @@ BAGANATOR_CONFIG = {
 },
 {
 ["currencyID"] = 3090,
-},
-},
-["Alluvium-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3008,
-},
-},
-["Sverdrup-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3309,
-},
-},
-["Riptides-ArgentDawn"] = {
-{
-["currencyID"] = 3028,
-},
-{
-["currencyID"] = 3008,
 },
 },
 ["Benthos-ArgentDawn"] = {
@@ -122,6 +85,8 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3008,
 },
 },
+["Aquifer-Kel'Thuzad"] = {
+},
 ["Gelae-Kel'Thuzad"] = {
 {
 ["currencyID"] = 3028,
@@ -130,19 +95,105 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3008,
 },
 },
+["Emptyrivers-ArgentDawn"] = {
+{
+["currencyID"] = 3028,
 },
-["sort_ignore_slots_count_2"] = {
-["Mangrove-ArgentDawn"] = 0,
-["Confluence-ArgentDawn"] = 0,
+{
+["currencyID"] = 3008,
 },
 },
-["Version"] = 1,
+["Weir-Kel'Thuzad"] = {
+},
+["Gyre-Kel'Thuzad"] = {
+},
+["Glaciers-Kel'Thuzad"] = {
+},
+["Riptides-ArgentDawn"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3008,
+},
+},
+["Shoal-Kel'Thuzad"] = {
+{
+["currencyID"] = 3268,
+},
+{
+["currencyID"] = 3252,
+},
+},
+["Cataracts-ArgentDawn"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3008,
+},
+},
+["Neva-Kel'Thuzad"] = {
+},
+["Asperse-Kel'Thuzad"] = {
+},
+["Mangrove-ArgentDawn"] = {
+{
+["currencyID"] = 2815,
+},
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3008,
+},
+},
+["Loess-Kel'Thuzad"] = {
+{
+["currencyID"] = 3268,
+},
+{
+["currencyID"] = 3252,
+},
+},
+["Alluvium-ArgentDawn"] = {
+{
+["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3008,
+},
+},
+["Remaxxing-Kel'Thuzad"] = {
+},
+["Sverdrup-ArgentDawn"] = {
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3028,
+},
+},
+["Flumes-Kel'Thuzad"] = {
+},
+["Riparium-ArgentDawn"] = {
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3028,
+},
+},
+},
+["currencies_tracked_imported"] = {
+},
+},
 ["Profiles"] = {
 ["DEFAULT"] = {
 ["guild_view_width"] = 20,
 ["junk_plugin"] = "poor_quality",
 ["reduce_spacing"] = true,
-["upgrade_plugin"] = "none",
+["upgrade_plugin"] = "equip_recommended_gear",
 ["automatic_categories_added"] = {
 ["default_auto_recents"] = true,
 ["default_questitem"] = true,
@@ -154,20 +205,20 @@ BAGANATOR_CONFIG = {
 ["default_battlepet"] = true,
 ["default_food"] = true,
 ["default_reagent"] = true,
-["default_junk"] = true,
+["default_weapon"] = true,
 ["default_special_empty"] = true,
-["default_miscellaneous"] = true,
-["default_key"] = true,
+["default_recipe"] = true,
+["default_gem"] = true,
 ["default_consumable"] = true,
 ["default_tradegoods"] = true,
-["default_container"] = true,
-["default_keystone"] = true,
-["default_auto_equipment_sets"] = true,
-["default_profession"] = true,
 ["default_potion"] = true,
-["default_gem"] = true,
-["default_recipe"] = true,
-["default_weapon"] = true,
+["default_keystone"] = true,
+["default_profession"] = true,
+["default_auto_equipment_sets"] = true,
+["default_container"] = true,
+["default_key"] = true,
+["default_miscellaneous"] = true,
+["default_junk"] = true,
 },
 ["show_search_box"] = true,
 ["debug_categories_search"] = false,
@@ -180,7 +231,7 @@ BAGANATOR_CONFIG = {
 ["auction_house"] = true,
 ["void_storage"] = false,
 ["guild_bank"] = false,
-["forge_of_bonds"] = false,
+["trade_partner"] = false,
 ["tradeskill"] = false,
 ["item_upgrade"] = true,
 ["character_panel"] = false,
@@ -188,34 +239,53 @@ BAGANATOR_CONFIG = {
 ["item_interaction"] = true,
 ["mail"] = false,
 ["sockets"] = false,
-["trade_partner"] = false,
+["forge_of_bonds"] = false,
 ["bank"] = true,
 },
 ["icon_corners_auto_insert_applied"] = {
-["bag_type"] = true,
-["battle_pet_breed_id"] = true,
 ["battle_pet_level"] = true,
 ["keystone_level"] = true,
+["TransmogUpgradeMaster"] = true,
+["battle_pet_breed_id"] = true,
+["transmogloothelper"] = true,
+["bag_type"] = true,
 },
-["show_recents_tabs_main_view"] = false,
+["show_recents_tabs_main_view"] = true,
 ["bag_view_show_bag_slots"] = false,
 ["category_hidden"] = {
+["default_questitem"] = false,
+["8"] = false,
+["default_armor"] = false,
+["default_reagent"] = false,
+["12"] = false,
+["13"] = false,
+["default_profession"] = false,
+["default_hearthstone"] = false,
+["5"] = false,
+["15"] = false,
+["14"] = false,
+["6"] = false,
+["7"] = false,
+["4"] = false,
 ["1"] = false,
 ["default_recipe"] = false,
 ["3"] = false,
 ["2"] = false,
-["default_armor"] = false,
-["4"] = false,
-["7"] = false,
+["19"] = false,
+["18"] = false,
+["default_consumable"] = false,
 ["default_tradegoods"] = false,
-["8"] = false,
-["default_profession"] = false,
-["5"] = false,
-["default_reagent"] = false,
-["6"] = false,
+["9"] = false,
+["default_keystone"] = false,
+["16"] = false,
+["17"] = false,
+["20"] = false,
+["21"] = false,
+["11"] = false,
+["10"] = false,
 },
 ["icon_mark_unusable"] = false,
-["icon_flash_similar_alt"] = false,
+["icon_flash_similar_alt"] = true,
 ["category_edit_search_mode"] = "visual",
 ["sort_ignore_bank_slots_count"] = {
 ["Confluence-ArgentDawn"] = 0,
@@ -238,12 +308,21 @@ BAGANATOR_CONFIG = {
 "default_potion",
 "default_food",
 "default_consumable",
+"17",
+"16",
 "default_questitem",
 "8",
+"20",
+"9",
+"12",
+"11",
 "_1",
+"19",
+"18",
 "default_auto_equipment_sets",
 "6",
 "1",
+"15",
 "4",
 "7",
 "2",
@@ -262,6 +341,9 @@ BAGANATOR_CONFIG = {
 "default_key",
 "default_miscellaneous",
 "default_battlepet",
+"14",
+"13",
+"10",
 "default_toy",
 "default_other",
 "----",
@@ -275,15 +357,18 @@ BAGANATOR_CONFIG = {
 ["category_sort_method"] = "type",
 ["sort_start_at_bottom"] = false,
 ["icon_top_right_corner_array"] = {
+"transmogloothelper",
 },
 ["icon_bottom_right_corner_array"] = {
+"TransmogUpgradeMaster",
 "quantity",
 },
 ["bank_view_position"] = {
 "BOTTOMLEFT",
-169.9199981689453,
-240.1832122802734,
+210.3286285400391,
+538.7490844726562,
 },
+["recent_include_owned"] = false,
 ["guild_view_position_2"] = {
 "TOPLEFT",
 30,
@@ -295,51 +380,326 @@ BAGANATOR_CONFIG = {
 },
 ["bag_empty_space_at_top"] = false,
 ["category_horizontal_spacing_2"] = 0.65,
-["category_default_import"] = 2,
+["category_default_import"] = 3,
 ["debug_categories"] = false,
-["migrated_sort_method"] = true,
-["custom_categories"] = {
-["1"] = {
-["name"] = "A",
-["search"] = "#armor&#gear&!#junk&!#trinket",
+["character_bank_current_tab"] = 0,
+["character_bank_view_width"] = 14,
+["currency_headers_collapsed"] = {
+},
+["junk_plugin_ignored"] = {
+},
+["new_items_flashing"] = true,
+["lock_frames"] = false,
+["category_migration"] = 5,
+["character_select_position"] = {
+"RIGHT",
+"Baganator_CategoryViewBackpackViewFrameblizzard",
+"LEFT",
+0,
+0,
+},
+["category_modifications"] = {
+["20"] = {
+["showGroupPrefix"] = true,
+["color"] = "F15DFF",
+["priority"] = 0,
+["group"] = "type",
+["addedItems"] = {
+["i:247527"] = true,
+["i:247633"] = true,
+["i:247650"] = true,
+["i:247590"] = true,
+["i:247514"] = true,
+["i:247654"] = true,
+["i:247576"] = true,
+["i:247536"] = true,
+["i:247630"] = true,
+["i:247564"] = true,
+["i:247520"] = true,
+["i:247512"] = true,
+["i:247528"] = true,
+["i:247649"] = true,
+["i:247639"] = true,
+["i:247504"] = true,
+["i:247473"] = true,
+["i:249684"] = true,
+["i:247605"] = true,
+["i:247589"] = true,
+["i:249685"] = true,
+["i:247575"] = true,
+["i:249683"] = true,
+["i:247544"] = true,
+["i:247622"] = true,
+["i:247625"] = true,
+["i:247489"] = true,
+["i:247522"] = true,
+["i:247453"] = true,
+["i:247598"] = true,
+["i:247525"] = true,
+["i:247456"] = true,
+["i:247517"] = true,
+["i:247573"] = true,
+["i:247638"] = true,
+["i:247620"] = true,
+["i:247471"] = true,
+["i:247599"] = true,
+["i:247454"] = true,
+["i:247645"] = true,
+["i:247571"] = true,
+["i:247607"] = true,
+["i:247646"] = true,
+["i:247538"] = true,
+["i:249681"] = true,
+["i:247534"] = true,
+["i:247559"] = true,
+["i:247458"] = true,
+["i:247636"] = true,
+["i:247533"] = true,
+["i:247651"] = true,
+["i:247569"] = true,
+["i:247626"] = true,
+["i:247570"] = true,
+["i:247596"] = true,
+["i:247530"] = true,
+["i:247521"] = true,
+["i:247494"] = true,
+["i:247640"] = true,
+["i:247513"] = true,
+["i:247464"] = true,
+["i:247555"] = true,
+["i:247603"] = true,
+["i:247597"] = true,
+["i:247554"] = true,
+["i:247600"] = true,
+["i:247491"] = true,
+["i:247531"] = true,
+["i:247493"] = true,
+["i:247439"] = true,
+["i:247470"] = true,
+["i:247565"] = true,
+["i:247537"] = true,
+["i:247601"] = true,
+["i:247484"] = true,
+["i:247612"] = true,
+["i:247488"] = true,
+["i:247642"] = true,
+["i:247628"] = true,
+["i:247526"] = true,
+["i:247524"] = true,
+["i:247585"] = true,
+["i:247629"] = true,
+["i:247558"] = true,
+["i:247460"] = true,
+["i:247566"] = true,
+["i:247441"] = true,
+["i:247482"] = true,
+["i:247572"] = true,
+["i:247577"] = true,
+["i:247430"] = true,
+["i:247486"] = true,
+["i:247507"] = true,
+["i:247631"] = true,
+["i:247652"] = true,
+["i:247477"] = true,
+["i:247641"] = true,
+["i:247586"] = true,
+["i:247435"] = true,
+["i:247529"] = true,
+["i:247643"] = true,
+["i:247515"] = true,
+["i:247588"] = true,
+["i:247615"] = true,
+["i:247548"] = true,
+["i:247647"] = true,
+["i:247648"] = true,
+["i:247656"] = true,
+["i:247623"] = true,
+["i:247467"] = true,
+["i:247602"] = true,
+["i:247481"] = true,
+["i:247579"] = true,
+["i:247618"] = true,
+["i:247506"] = true,
+["i:247516"] = true,
+["i:247542"] = true,
+["i:247582"] = true,
+["i:247496"] = true,
+["i:247561"] = true,
+["i:247543"] = true,
+["i:247594"] = true,
+["i:247637"] = true,
+["i:249680"] = true,
+["i:247587"] = true,
+["i:247437"] = true,
+["i:247653"] = true,
+["i:247535"] = true,
+["i:247545"] = true,
+["i:247549"] = true,
+["i:247624"] = true,
+["i:247632"] = true,
+["i:247609"] = true,
+["i:247562"] = true,
+["i:247604"] = true,
+["i:247619"] = true,
+["i:247466"] = true,
+["i:247447"] = true,
+["i:247532"] = true,
+["i:247621"] = true,
+["i:247511"] = true,
+["i:247448"] = true,
+["i:247509"] = true,
+["i:247523"] = true,
+["i:247616"] = true,
+["i:247540"] = true,
+["i:247591"] = true,
+["i:247655"] = true,
+["i:247436"] = true,
+["i:247431"] = true,
+["i:247547"] = true,
+["i:247518"] = true,
+["i:247567"] = true,
+["i:247610"] = true,
+["i:247519"] = true,
+["i:247614"] = true,
+["i:247635"] = true,
+["i:247541"] = true,
+["i:247495"] = true,
+["i:247490"] = true,
+["i:247584"] = true,
+["i:247557"] = true,
+["i:247617"] = true,
+["i:247581"] = true,
+["i:249682"] = true,
+["i:247644"] = true,
+["i:247551"] = true,
+["i:247469"] = true,
+["i:247606"] = true,
+["i:247440"] = true,
+["i:247578"] = true,
+["i:247574"] = true,
+["i:247438"] = true,
+["i:247627"] = true,
+["i:247472"] = true,
+["i:247611"] = true,
+["i:247595"] = true,
+["i:247546"] = true,
+["i:247568"] = true,
+["i:247505"] = true,
+["i:247634"] = true,
+["i:247613"] = true,
+["i:247492"] = true,
+["i:247465"] = true,
+["i:247608"] = true,
+},
 },
 ["8"] = {
-["name"] = "Cosmetic",
-["search"] = "#cosmetic",
+["showGroupPrefix"] = true,
+["priority"] = 2,
 },
-["3"] = {
-["name"] = "Old Stuff",
-["search"] = "(#armor|#weapon)&#soulbound&!(#shirt|#tabard)&(<597|season)",
+["default_questitem"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
 },
-["2"] = {
-["name"] = "Warbound",
-["search"] = "#gear&(#warbound until equipped|#warbound)",
+["12"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+["addedItems"] = {
+["i:21237"] = true,
+["i:20878"] = true,
+["i:20879"] = true,
+["i:20932"] = true,
+["i:20861"] = true,
+["i:20858"] = true,
+["i:20929"] = true,
+["i:20871"] = true,
+["i:20870"] = true,
+["i:20860"] = true,
+["i:20927"] = true,
+["i:20885"] = true,
+["i:20930"] = true,
+["i:20928"] = true,
+["i:20867"] = true,
+["i:20890"] = true,
+["i:20859"] = true,
+["i:20931"] = true,
+["i:20886"] = true,
+["i:20926"] = true,
+["i:20863"] = true,
+["i:20868"] = true,
+["i:20875"] = true,
+["i:20881"] = true,
+["i:20882"] = true,
+["i:20864"] = true,
+["i:20877"] = true,
+["i:20869"] = true,
+["i:20862"] = true,
+["i:20872"] = true,
+["i:20876"] = true,
+["i:20884"] = true,
+["i:20865"] = true,
+["i:20866"] = true,
+["i:20874"] = true,
 },
-["5"] = {
-["name"] = "Artifact",
-["search"] = "#artifact",
 },
-["4"] = {
-["name"] = "T",
-["search"] = "#trinket",
+["default_armor"] = {
+["group"] = "track",
+["priority"] = -1,
+["showGroupPrefix"] = false,
 },
-["7"] = {
-["name"] = "C",
-["search"] = "#crafted&(#armor|#weapon)",
+["13"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
+["17"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+["addedItems"] = {
+["i:254267"] = true,
+["i:253224"] = true,
+["i:253227"] = true,
+},
+},
+["default_weapon"] = {
+["group"] = "track",
+},
+["15"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+["group"] = "track",
+},
+["default_hearthstone"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
+},
+["9"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
 },
 ["6"] = {
-["name"] = "W",
-["search"] = "#weapon",
+["showGroupPrefix"] = true,
+["priority"] = -1,
+["group"] = "track",
+["addedItems"] = {
 },
 },
-["icon_bottom_left_corner_array"] = {
-"battle_pet_breed_id",
-"bag_type",
-"equipment_set",
+["default_consumable"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
 },
-["category_migration"] = 5,
-["category_group_empty_slots"] = true,
-["category_modifications"] = {
+["4"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
+["group"] = "track",
+},
+["19"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+},
+["default_recipe"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
+["group"] = "type",
+},
 ["1"] = {
 ["showGroupPrefix"] = true,
 ["priority"] = -1,
@@ -347,44 +707,76 @@ BAGANATOR_CONFIG = {
 ["addedItems"] = {
 },
 },
-["default_recipe"] = {
-["showGroupPrefix"] = false,
+["default_reagent"] = {
+["group"] = "type",
 ["priority"] = -1,
+["showGroupPrefix"] = false,
 },
 ["3"] = {
 ["showGroupPrefix"] = true,
-["priority"] = 1,
+["priority"] = 0,
 },
 ["2"] = {
 ["showGroupPrefix"] = true,
 ["priority"] = 2,
 },
-["default_armor"] = {
-["group"] = "track",
-["priority"] = -1,
-["showGroupPrefix"] = false,
-},
-["4"] = {
+["5"] = {
 ["showGroupPrefix"] = true,
-["priority"] = -1,
-["group"] = "track",
+["priority"] = 2,
+["addedItems"] = {
+},
+},
+["18"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+["group"] = "slot",
 },
 ["7"] = {
 ["showGroupPrefix"] = true,
 ["priority"] = 0,
-["group"] = "type",
 },
 ["default_tradegoods"] = {
 ["group"] = "expansion",
 ["priority"] = -1,
 ["showGroupPrefix"] = false,
 },
-["default_weapon"] = {
-["group"] = "track",
-},
-["5"] = {
+["14"] = {
 ["showGroupPrefix"] = true,
-["priority"] = 2,
+["priority"] = 0,
+["addedItems"] = {
+["i:86143"] = true,
+["i:98114"] = true,
+["i:92680"] = true,
+["i:116374"] = true,
+["i:116423"] = true,
+["i:116421"] = true,
+["i:116419"] = true,
+["i:116424"] = true,
+["i:116429"] = true,
+["i:92665"] = true,
+["i:98715"] = true,
+},
+},
+["default_keystone"] = {
+["showGroupPrefix"] = true,
+["priority"] = -1,
+},
+["16"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
+["addedItems"] = {
+["i:217731"] = true,
+["i:217608"] = true,
+["i:217730"] = true,
+["i:217901"] = true,
+["i:217606"] = true,
+["i:238727"] = true,
+["i:217929"] = true,
+["i:217956"] = true,
+["i:217928"] = true,
+["i:217605"] = true,
+["i:217607"] = true,
+},
 },
 ["default_profession"] = {
 ["group"] = "expansion",
@@ -393,24 +785,74 @@ BAGANATOR_CONFIG = {
 },
 ["default_potion"] = {
 },
-["default_reagent"] = {
-["group"] = "type",
-["priority"] = -1,
-["showGroupPrefix"] = false,
-},
-["6"] = {
+["21"] = {
 ["showGroupPrefix"] = true,
-["priority"] = -1,
-["group"] = "track",
+["priority"] = 0,
 },
-["8"] = {
+["11"] = {
 ["showGroupPrefix"] = true,
-["priority"] = 2,
+["priority"] = 0,
+["addedItems"] = {
+["i:203770"] = true,
+["i:19701"] = true,
+["i:203850"] = true,
+["i:19702"] = true,
+["i:203839"] = true,
+["i:203826"] = true,
+["i:203743"] = true,
+["i:19699"] = true,
+["i:203861"] = true,
+["i:203846"] = true,
+["i:203849"] = true,
+["i:19703"] = true,
+["i:203851"] = true,
+["i:203824"] = true,
+["i:203765"] = true,
+["i:203828"] = true,
+["i:203832"] = true,
+["i:203838"] = true,
+["i:203768"] = true,
+["i:203830"] = true,
+["i:203769"] = true,
+["i:19705"] = true,
+["i:203844"] = true,
+["i:203829"] = true,
+["i:203848"] = true,
+["i:203835"] = true,
+["i:19698"] = true,
+["i:19706"] = true,
+["i:203773"] = true,
+["i:19704"] = true,
+["i:203841"] = true,
+["i:203847"] = true,
+["i:203914"] = true,
+["i:19931"] = true,
+["i:203771"] = true,
+["i:203845"] = true,
+["i:203772"] = true,
+["i:203833"] = true,
+["i:203831"] = true,
+["i:203827"] = true,
+["i:203766"] = true,
+["i:203843"] = true,
+["i:203834"] = true,
+["i:203767"] = true,
+["i:203842"] = true,
+["i:203825"] = true,
+["i:203840"] = true,
+["i:203968"] = true,
+["i:203836"] = true,
+["i:203837"] = true,
+},
+},
+["10"] = {
+["showGroupPrefix"] = true,
+["priority"] = 0,
 },
 },
 ["warband_bank_view_width"] = 21,
 ["sort_ignore_slots_at_end"] = false,
-["add_to_category_buttons_2"] = "drag",
+["add_to_category_buttons_2"] = "drag+alt",
 ["view_type"] = "unset",
 ["bank_current_tab"] = 2,
 ["currencies_tracked"] = {
@@ -485,7 +927,7 @@ BAGANATOR_CONFIG = {
 },
 ["Roberia-Eredar"] = {
 },
-["Benthos-ArgentDawn"] = {
+["Mangrove-ArgentDawn"] = {
 {
 ["currencyID"] = 2815,
 },
@@ -495,11 +937,16 @@ BAGANATOR_CONFIG = {
 {
 ["currencyID"] = 3028,
 },
-{
-["currencyID"] = 3056,
-},
 },
 ["Riptides-ArgentDawn"] = {
+{
+["currencyID"] = 3008,
+},
+{
+["currencyID"] = 3028,
+},
+},
+["Alluvium-ArgentDawn"] = {
 {
 ["currencyID"] = 3008,
 },
@@ -518,15 +965,7 @@ BAGANATOR_CONFIG = {
 ["currencyID"] = 3090,
 },
 },
-["Alluvium-ArgentDawn"] = {
-{
-["currencyID"] = 3008,
-},
-{
-["currencyID"] = 3028,
-},
-},
-["Mangrove-ArgentDawn"] = {
+["Benthos-ArgentDawn"] = {
 {
 ["currencyID"] = 2815,
 },
@@ -535,6 +974,9 @@ BAGANATOR_CONFIG = {
 },
 {
 ["currencyID"] = 3028,
+},
+{
+["currencyID"] = 3056,
 },
 },
 ["Riparium-ArgentDawn"] = {
@@ -546,21 +988,18 @@ BAGANATOR_CONFIG = {
 },
 },
 },
-["icon_equipment_set_border"] = true,
+["icon_context_fading"] = true,
 ["icon_text_font_size"] = 14,
 ["upgrade_plugin_ignored"] = {
+},
+["setting_anchors"] = false,
+["disabled_skins"] = {
 },
 ["sort_ignore_slots_count_2"] = {
 ["Confluence-ArgentDawn"] = 0,
 ["Estuary-ArgentDawn"] = 0,
 },
-["disabled_skins"] = {
-},
-["setting_anchors"] = false,
-["category_section_toggled"] = {
-["1"] = false,
-["2"] = false,
-},
+["bag_view_type"] = "category",
 ["guild_current_tab"] = 1,
 ["skins"] = {
 ["elvui"] = {
@@ -579,28 +1018,9 @@ BAGANATOR_CONFIG = {
 },
 },
 ["debug_keywords"] = false,
-["bag_icon_size"] = 37,
+["currencies_tracked_imported"] = {
+},
 ["auto_sort_on_open"] = false,
-["saved_searches"] = {
-{
-["search"] = "!warbound & gear & !(trinket & >619) & !set",
-["label"] = "vendorable gear",
-},
-},
-["icon_text_quality_colors"] = false,
-["bag_view_position"] = {
-"TOPRIGHT",
--93.896484375,
--177.286376953125,
-},
-["show_buttons_on_alt"] = false,
-["guild_view_dialog_position"] = {
-"BOTTOM",
-"Baganator_GuildViewFrame",
-"TOP",
-0,
-0,
-},
 ["category_sections"] = {
 ["1"] = {
 ["name"] = "EQUIPMENT",
@@ -609,22 +1029,34 @@ BAGANATOR_CONFIG = {
 ["name"] = "CRAFTING",
 },
 },
-["currencies_tracked_imported"] = {
+["icon_text_quality_colors"] = false,
+["show_buttons_on_alt"] = false,
+["bag_view_position"] = {
+"TOPRIGHT",
+-218.956787109375,
+-182.3474731445313,
+},
+["guild_view_dialog_position"] = {
+"BOTTOM",
+"Baganator_GuildViewFrame",
+"TOP",
+0,
+0,
 },
 ["recent_characters_main_view"] = {
+"Esker-Kel'Thuzad",
+"Riptides-ArgentDawn",
 "Sverdrup-ArgentDawn",
 "Confluence-ArgentDawn",
+"Riparium-ArgentDawn",
+"Gelae-Kel'Thuzad",
+"Estuary-ArgentDawn",
+"Benthos-ArgentDawn",
 "Stream-ArgentDawn",
+"Alluvium-ArgentDawn",
+"Cataracts-ArgentDawn",
 "Mangrove-ArgentDawn",
 "Emptyrivers-ArgentDawn",
-"Gelae-Kel'Thuzad",
-"Benthos-ArgentDawn",
-"Cataracts-ArgentDawn",
-"Alluvium-ArgentDawn",
-"Riptides-ArgentDawn",
-"Esker-Kel'Thuzad",
-"Estuary-ArgentDawn",
-"Riparium-ArgentDawn",
 "Doneer-Eredar",
 "Dukasuka-Eredar",
 "Roberia-Eredar",
@@ -632,29 +1064,114 @@ BAGANATOR_CONFIG = {
 "Rosefin-ArgentDawn",
 "Dannius-ArgentDawn",
 },
-["show_sort_button_2"] = false,
-["bag_view_type"] = "category",
-["bag_view_width"] = 19,
+["saved_searches"] = {
+{
+["search"] = "!warbound & gear & !(trinket & >619) & !set",
+["label"] = "vendorable gear",
+},
+},
+["bag_icon_size"] = 37,
+["show_sort_button_2"] = true,
+["bag_view_width"] = 20,
+["category_section_toggled"] = {
+["1"] = false,
+["2"] = true,
+},
 ["currency_panel_position"] = {
 "RIGHT",
-"Baganator_CategoryViewBackpackViewFrameblizzard",
-"LEFT",
-0,
-0,
+-1043.545959472656,
+102.9479370117188,
 },
-["lock_frames"] = false,
-["character_select_position"] = {
-"RIGHT",
-"Baganator_CategoryViewBackpackViewFrameblizzard",
-"LEFT",
-0,
-0,
+["icon_equipment_set_border"] = true,
+["category_group_empty_slots"] = true,
+["icon_bottom_left_corner_array"] = {
+"battle_pet_breed_id",
+"bag_type",
+"equipment_set",
 },
-["icon_context_fading"] = true,
-["currency_headers_collapsed"] = {
+["custom_categories"] = {
+["19"] = {
+["name"] = "Remix Armor",
+["search"] = "#legion&!(#ring|#trinket|#neck)&#armor",
 },
-["junk_plugin_ignored"] = {
+["4"] = {
+["name"] = "T",
+["search"] = "#trinket",
 },
+["14"] = {
+["name"] = "Pet Stuff",
+["search"] = "",
+},
+["13"] = {
+["name"] = "Opened Boxes",
+["search"] = "#open&(lockbox|junkbox)",
+},
+["1"] = {
+["name"] = "A",
+["search"] = "#armor&#gear&!(#trinket|#junk|#finger|#neck)",
+},
+["15"] = {
+["name"] = "J",
+["search"] = "!#crafted&(#neck|#finger)",
+},
+["3"] = {
+["name"] = "Old Stuff",
+["search"] = "(#armor|#weapon)&#soulbound&!(#shirt|#tabard)&!#active season",
+},
+["2"] = {
+["name"] = "Warbound",
+["search"] = "#gear&(#warbound until equipped|#warbound)",
+},
+["5"] = {
+["name"] = "Artifact",
+["search"] = "#artifact",
+},
+["18"] = {
+["name"] = "Remix Traits",
+["search"] = "#legion&(#ring|#trinket|#neck)",
+},
+["7"] = {
+["name"] = "Crafted",
+["search"] = "#crafted&(#armor|#weapon)",
+},
+["6"] = {
+["name"] = "W",
+["search"] = "#weapon|#held in off-hand|#shields",
+},
+["9"] = {
+["name"] = "Uncollected BoE",
+["search"] = "#uncollected&(#boe)",
+},
+["8"] = {
+["name"] = "Cosmetic",
+["search"] = "#cosmetic",
+},
+["16"] = {
+["name"] = "Remix Buffs",
+["search"] = "",
+},
+["17"] = {
+["name"] = "Remix Power",
+["search"] = "",
+},
+["20"] = {
+["name"] = "Remix Convertable",
+["search"] = "",
+},
+["12"] = {
+["name"] = "AQ currencies",
+["search"] = "",
+},
+["11"] = {
+["name"] = "Zul'Gurub",
+["search"] = "",
+},
+["10"] = {
+["name"] = "Lockboxes",
+["search"] = "!#open&(junkbox|lockbox)",
+},
+},
+["migrated_sort_method"] = true,
 },
 },
 }

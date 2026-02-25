@@ -1,17 +1,11 @@
 
 NarciBarberShopDB = {
-["Hotkeys"] = {
-["ZoomIn"] = "W",
-["RotateLeft"] = "A",
-["ZoomOut"] = "S",
-["RotateRight"] = "D",
-},
-["ToggleNotification"] = true,
 ["PlayerData"] = {
 ["0EE8A760"] = {
-["classID"] = 4,
+["realmID"] = "75",
 ["playerName"] = "Estuary",
 ["realmName"] = "Argent Dawn",
+["classID"] = 4,
 ["SavedLooks"] = {
 ["chrModel202"] = {
 },
@@ -30,13 +24,8 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["realmID"] = "75",
 },
 ["0E71AEB0"] = {
-["realmName"] = "Kel'Thuzad",
-["playerName"] = "Strid",
-["realmID"] = "3693",
-["classID"] = 10,
 ["SavedLooks"] = {
 [29] = {
 ["male"] = {
@@ -47,20 +36,18 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["playerName"] = "Strid",
+["realmName"] = "Kel'Thuzad",
+["classID"] = 10,
+["realmID"] = "3693",
 },
 ["0EE5568B"] = {
-["realmID"] = "75",
-["playerName"] = "Alluvium",
-["realmName"] = "Argent Dawn",
-["classID"] = 13,
 ["SavedLooks"] = {
 [52] = {
 ["male"] = {
 },
 ["female"] = {
 {
-["name"] = "second",
-["description"] = "Strong Secondary Color Strength, Char Body Pattern, Swept Horns, Bands Horn Jewelry, New 01 Jewelry Color, Small Fin Crest, Slayer Snout, Sear Face Pattern, Oath Face Markings, Slit Eye Style, Both Eyesight, Wing Ears, Clean Brow, Clean Cheekbone, Clean Cheek, Large Fin Throat, New 00 Armor Color, Diamond Tail, Fin Tail Ridge",
 ["data"] = {
 {
 1597,
@@ -231,11 +218,11 @@ NarciBarberShopDB = {
 19560,
 },
 },
+["name"] = "second",
+["description"] = "Strong Secondary Color Strength, Char Body Pattern, Swept Horns, Bands Horn Jewelry, New 01 Jewelry Color, Small Fin Crest, Slayer Snout, Sear Face Pattern, Oath Face Markings, Slit Eye Style, Both Eyesight, Wing Ears, Clean Brow, Clean Cheekbone, Clean Cheek, Large Fin Throat, New 00 Armor Color, Diamond Tail, Fin Tail Ridge",
 ["timeCreated"] = 1738449895,
 },
 {
-["name"] = "first",
-["description"] = "Strong Secondary Color Strength, Char Body Pattern, Swept Horns, Bands Horn Jewelry, New 01 Jewelry Color, Small Fin Crest, Slayer Snout, Sear Face Pattern, Oath Face Markings, Slit Eye Style, Both Eyesight, Wing Ears, Clean Brow, Clean Cheekbone, Clean Cheek, Large Fin Throat, New 00 Armor Color, Diamond Tail, Fin Tail Ridge",
 ["data"] = {
 {
 1597,
@@ -406,11 +393,11 @@ NarciBarberShopDB = {
 19560,
 },
 },
+["name"] = "first",
+["description"] = "Strong Secondary Color Strength, Char Body Pattern, Swept Horns, Bands Horn Jewelry, New 01 Jewelry Color, Small Fin Crest, Slayer Snout, Sear Face Pattern, Oath Face Markings, Slit Eye Style, Both Eyesight, Wing Ears, Clean Brow, Clean Cheekbone, Clean Cheek, Large Fin Throat, New 00 Armor Color, Diamond Tail, Fin Tail Ridge",
 ["timeCreated"] = 1738449845,
 },
 {
-["name"] = "test",
-["description"] = "Strong Secondary Color Strength, Cinder Body Pattern, Swept Horns, Bands Horn Jewelry, New 00 Jewelry Color, Small Fin Crest, Slayer Snout, Sear Face Pattern, Oath Face Markings, Slit Eye Style, Both Eyesight, Wing Ears, Clean Cheekbone, Clean Cheek, Large Fin Throat, Crown Helm, Wing Shoulders, Tabard Chest, Wings Upper Arms, Vambraces Lower Arms, New 00 Armor Color, Diamond Tail, Fin Tail Ridge",
 ["data"] = {
 {
 1597,
@@ -577,6 +564,8 @@ NarciBarberShopDB = {
 19560,
 },
 },
+["name"] = "test",
+["description"] = "Strong Secondary Color Strength, Cinder Body Pattern, Swept Horns, Bands Horn Jewelry, New 00 Jewelry Color, Small Fin Crest, Slayer Snout, Sear Face Pattern, Oath Face Markings, Slit Eye Style, Both Eyesight, Wing Ears, Clean Cheekbone, Clean Cheek, Large Fin Throat, Crown Helm, Wing Shoulders, Tabard Chest, Wings Upper Arms, Vambraces Lower Arms, New 00 Armor Color, Diamond Tail, Fin Tail Ridge",
 ["timeCreated"] = 1738449836,
 },
 },
@@ -590,6 +579,10 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
+["playerName"] = "Alluvium",
+["realmID"] = "75",
+["classID"] = 13,
+["realmName"] = "Argent Dawn",
 },
 ["0EF90062"] = {
 ["playerName"] = "Flumina",
@@ -604,7 +597,26 @@ NarciBarberShopDB = {
 },
 ["realmName"] = "Argent Dawn",
 },
+["0F471196"] = {
+["classID"] = 12,
+["playerName"] = "Cataracts",
+["realmName"] = "Argent Dawn",
+["SavedLooks"] = {
+[10] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+["chrModel124"] = {
+},
+},
+["realmID"] = "75",
+},
 ["0E792E1F"] = {
+["realmID"] = "3693",
+["playerName"] = "Gelae",
+["realmName"] = "Kel'Thuzad",
 ["SavedLooks"] = {
 [9] = {
 ["male"] = {
@@ -615,25 +627,23 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["playerName"] = "Gelae",
-["realmName"] = "Kel'Thuzad",
 ["classID"] = 5,
-["realmID"] = "3693",
 },
 ["0EEA1695"] = {
-["classID"] = 9,
+["realmID"] = "75",
 ["playerName"] = "Riparium",
 ["realmName"] = "Argent Dawn",
+["classID"] = 9,
 ["SavedLooks"] = {
+["chrModel148"] = {
+},
+["chrModel183"] = {
+},
 ["chrModel212"] = {
 },
-["chrModel180"] = {
+["chrModel129"] = {
 },
-["chrModel149"] = {
-},
-["chrModel181"] = {
-},
-["chrModel123"] = {
+["chrModel184"] = {
 },
 [29] = {
 ["male"] = {
@@ -641,13 +651,13 @@ NarciBarberShopDB = {
 ["female"] = {
 },
 },
-["chrModel148"] = {
+["chrModel180"] = {
 },
 ["chrModel182"] = {
 },
-["chrModel129"] = {
+["chrModel181"] = {
 },
-["chrModel184"] = {
+["chrModel123"] = {
 },
 ["chrModel126"] = {
 },
@@ -659,10 +669,9 @@ NarciBarberShopDB = {
 },
 ["chrModel124"] = {
 },
-["chrModel183"] = {
+["chrModel149"] = {
 },
 },
-["realmID"] = "75",
 },
 ["0EEA10F9"] = {
 ["playerName"] = "Headcut",
@@ -678,6 +687,30 @@ NarciBarberShopDB = {
 },
 },
 ["realmName"] = "Argent Dawn",
+},
+["0EEA107B"] = {
+["realmID"] = "75",
+["playerName"] = "Sverdrup",
+["realmName"] = "Argent Dawn",
+["classID"] = 10,
+["SavedLooks"] = {
+["chrModel129"] = {
+},
+[2] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+["chrModel212"] = {
+},
+["chrModel207"] = {
+},
+["chrModel124"] = {
+},
+["chrModel123"] = {
+},
+},
 },
 ["0EE580BC"] = {
 ["playerName"] = "Emptyrivers",
@@ -700,20 +733,6 @@ NarciBarberShopDB = {
 },
 ["realmName"] = "Argent Dawn",
 },
-["0F40E777"] = {
-["SavedLooks"] = {
-[27] = {
-["male"] = {
-},
-["female"] = {
-},
-},
-},
-["playerName"] = "Emptyrivers",
-["realmName"] = "Argent Dawn",
-["classID"] = 8,
-["realmID"] = "75",
-},
 ["0F3C82E0"] = {
 ["playerName"] = "Stream",
 ["realmID"] = "75",
@@ -730,6 +749,9 @@ NarciBarberShopDB = {
 ["realmName"] = "Argent Dawn",
 },
 ["0E6E2E59"] = {
+["realmID"] = "3693",
+["playerName"] = "Esker",
+["realmName"] = "Kel'Thuzad",
 ["SavedLooks"] = {
 ["chrModel202"] = {
 },
@@ -742,55 +764,60 @@ NarciBarberShopDB = {
 },
 },
 },
-["playerName"] = "Esker",
-["realmName"] = "Kel'Thuzad",
 ["classID"] = 1,
+},
+["0F40E777"] = {
+["realmID"] = "75",
+["playerName"] = "Emptyrivers",
+["realmName"] = "Argent Dawn",
+["SavedLooks"] = {
+[27] = {
+["male"] = {
+},
+["female"] = {
+},
+},
+},
+["classID"] = 8,
+},
+["0EC3FD56"] = {
+["realmName"] = "Kel'Thuzad",
+["playerName"] = "Weir",
 ["realmID"] = "3693",
-},
-["0EEA107B"] = {
-["classID"] = 10,
-["playerName"] = "Sverdrup",
-["realmName"] = "Argent Dawn",
+["classID"] = 11,
 ["SavedLooks"] = {
-["chrModel129"] = {
+["chrModel190"] = {
 },
-[2] = {
+["alternateForm"] = {
 ["male"] = {
 },
 ["female"] = {
 },
 },
-["chrModel124"] = {
-},
-},
-["realmID"] = "75",
-},
-["0F471196"] = {
-["realmName"] = "Argent Dawn",
-["playerName"] = "Cataracts",
-["realmID"] = "75",
-["SavedLooks"] = {
-[10] = {
+[22] = {
 ["male"] = {
 },
 ["female"] = {
 },
 },
-["chrModel124"] = {
+["chrModel192"] = {
+},
+["chrModel193"] = {
 },
 },
-["classID"] = 12,
 },
 ["0EEA1257"] = {
-["classID"] = 2,
+["realmID"] = "75",
 ["playerName"] = "Confluence",
 ["realmName"] = "Argent Dawn",
+["classID"] = 2,
 ["SavedLooks"] = {
 [30] = {
 ["male"] = {
 },
 ["female"] = {
 {
+["description"] = "Short Hair Style, Short Horns, Both Eyesight, Thin Tendrils, Zealous Rune, Crown Headdress, Shard Earrings, Jewel Necklace, Radiant Tattoo, Long Ornate Tail",
 ["data"] = {
 {
 276,
@@ -854,10 +881,10 @@ NarciBarberShopDB = {
 },
 },
 ["name"] = "Darker Alt",
-["description"] = "Short Hair Style, Short Horns, Both Eyesight, Thin Tendrils, Zealous Rune, Crown Headdress, Shard Earrings, Jewel Necklace, Radiant Tattoo, Long Ornate Tail",
 ["timeCreated"] = 1742264692,
 },
 {
+["description"] = "Vogue Hair Style, Short Horns, Both Eyesight, Thin Tendrils, Zealous Rune, Crown Headdress, Shard Earrings, Jewel Necklace, Radiant Tattoo, Long Ornate Tail",
 ["data"] = {
 {
 276,
@@ -921,7 +948,6 @@ NarciBarberShopDB = {
 },
 },
 ["name"] = "Classic",
-["description"] = "Vogue Hair Style, Short Horns, Both Eyesight, Thin Tendrils, Zealous Rune, Crown Headdress, Shard Earrings, Jewel Necklace, Radiant Tattoo, Long Ornate Tail",
 ["timeCreated"] = 1742264653,
 },
 },
@@ -929,9 +955,15 @@ NarciBarberShopDB = {
 ["chrModel124"] = {
 },
 },
-["realmID"] = "75",
 },
 },
+["ToggleNotification"] = true,
 ["SharedSavedLooks"] = {
+},
+["Hotkeys"] = {
+["RotateRight"] = "D",
+["RotateLeft"] = "A",
+["ZoomOut"] = "S",
+["ZoomIn"] = "W",
 },
 }

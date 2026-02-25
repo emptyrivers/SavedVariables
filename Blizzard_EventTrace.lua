@@ -2,19 +2,19 @@
 EventTraceSavedVars = {
 ["ShowTimestamp"] = true,
 ["Size"] = {
-["Height"] = 587.8406372070312,
-["Width"] = 1158.943237304688,
+["Height"] = 352.723388671875,
+["Width"] = 715,
 },
 ["ShowArguments"] = true,
 ["Filters"] = {
 ["User"] = {
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "ACTIONBAR_SLOT_CHANGED",
 ["displayEvent"] = "ACTIONBAR_SLOT_CHANGED",
 },
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "ACTIONBAR_UPDATE_COOLDOWN",
 ["displayEvent"] = "ACTIONBAR_UPDATE_COOLDOWN",
 },
@@ -29,7 +29,7 @@ EventTraceSavedVars = {
 ["displayEvent"] = "ACTIONBAR_UPDATE_USABLE",
 },
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "ACTION_RANGE_CHECK_UPDATE",
 ["displayEvent"] = "ACTION_RANGE_CHECK_UPDATE",
 },
@@ -47,6 +47,21 @@ EventTraceSavedVars = {
 ["enabled"] = false,
 ["event"] = "BN_FRIEND_INFO_CHANGED",
 ["displayEvent"] = "BN_FRIEND_INFO_CHANGED",
+},
+{
+["enabled"] = true,
+["event"] = "CHALLENGE_MODE_MAPS_UPDATE",
+["displayEvent"] = "CHALLENGE_MODE_MAPS_UPDATE",
+},
+{
+["enabled"] = true,
+["event"] = "COMBAT_LOG_EVENT",
+["displayEvent"] = "COMBAT_LOG_EVENT",
+},
+{
+["enabled"] = true,
+["event"] = "COMBAT_LOG_EVENT_UNFILTERED",
+["displayEvent"] = "COMBAT_LOG_EVENT_UNFILTERED",
 },
 {
 ["enabled"] = false,
@@ -89,14 +104,19 @@ EventTraceSavedVars = {
 ["displayEvent"] = "GET_ITEM_INFO_RECEIVED",
 },
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "GLOBAL_MOUSE_DOWN",
 ["displayEvent"] = "GLOBAL_MOUSE_DOWN",
 },
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "GLOBAL_MOUSE_UP",
 ["displayEvent"] = "GLOBAL_MOUSE_UP",
+},
+{
+["enabled"] = true,
+["event"] = "MYTHIC_PLUS_CURRENT_AFFIX_UPDATE",
+["displayEvent"] = "MYTHIC_PLUS_CURRENT_AFFIX_UPDATE",
 },
 {
 ["enabled"] = false,
@@ -119,7 +139,7 @@ EventTraceSavedVars = {
 ["displayEvent"] = "PLAYER_STARTED_MOVING",
 },
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "PLAYER_STARTED_TURNING",
 ["displayEvent"] = "PLAYER_STARTED_TURNING",
 },
@@ -154,7 +174,7 @@ EventTraceSavedVars = {
 ["displayEvent"] = "SPELLS_CHANGED",
 },
 {
-["enabled"] = false,
+["enabled"] = true,
 ["event"] = "SPELL_ACTIVATION_OVERLAY_HIDE",
 ["displayEvent"] = "SPELL_ACTIVATION_OVERLAY_HIDE",
 },

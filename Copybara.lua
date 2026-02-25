@@ -127,11 +127,11 @@ CopybaraDB = {
 "COMBAT_HONOR_GAIN",
 "COMBAT_MISC_INFO",
 },
-["name"] = "Combat Log",
-["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["height"] = 120,
 ["parentName"] = "UIParent",
+["alpha"] = 0.1568627506494522,
+["height"] = 120,
+["locked"] = true,
+["name"] = "Combat Log",
 ["r"] = 0,
 },
 {
@@ -147,9 +147,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
+["height"] = 120,
 ["name"] = "Voice",
-["height"] = 120,
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -165,9 +165,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -183,9 +183,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -201,9 +201,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -219,9 +219,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -237,9 +237,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -255,9 +255,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -273,9 +273,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["locked"] = true,
-["name"] = "",
 ["height"] = 120,
+["name"] = "",
+["locked"] = true,
 ["DefaultChannels"] = {
 },
 },
@@ -307,7 +307,7 @@ CopybaraDB = {
 42,
 },
 ["shown"] = true,
-["name"] = "General",
+["parentName"] = "UIParent",
 ["g"] = 0,
 ["width"] = 430,
 ["uninteractable"] = false,
@@ -358,9 +358,9 @@ CopybaraDB = {
 "COMBAT_HONOR_GAIN",
 "PING",
 },
-["parentName"] = "UIParent",
-["locked"] = true,
+["name"] = "General",
 ["height"] = 120,
+["locked"] = true,
 ["alpha"] = 0.1568627506494522,
 ["docked"] = 1,
 ["b"] = 0,
@@ -371,7 +371,7 @@ CopybaraDB = {
 ["DefaultChannels"] = {
 },
 ["shown"] = false,
-["name"] = "Combat Log",
+["parentName"] = "UIParent",
 ["g"] = 0,
 ["width"] = 430,
 ["uninteractable"] = false,
@@ -383,9 +383,9 @@ CopybaraDB = {
 "COMBAT_HONOR_GAIN",
 "COMBAT_MISC_INFO",
 },
-["parentName"] = "UIParent",
-["locked"] = true,
+["name"] = "Combat Log",
 ["height"] = 120,
+["locked"] = true,
 ["alpha"] = 0.1568627506494522,
 ["docked"] = 2,
 ["b"] = 0,
@@ -403,8 +403,8 @@ CopybaraDB = {
 "VOICE_TEXT",
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "Voice",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -421,8 +421,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -439,8 +439,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -457,8 +457,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -475,8 +475,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -493,8 +493,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -511,8 +511,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -529,8 +529,8 @@ CopybaraDB = {
 ["DefaultMessages"] = {
 },
 ["parentName"] = "UIParent",
-["locked"] = true,
 ["height"] = 120,
+["locked"] = true,
 ["name"] = "",
 ["alpha"] = 0.1568627506494522,
 ["r"] = 0,
@@ -2196,9 +2196,8 @@ CopybaraDB = {
 },
 {
 ["fontSize"] = 12,
+["b"] = 0,
 ["r"] = 0,
-["DefaultChannels"] = {
-},
 ["shown"] = false,
 ["docked"] = 2,
 ["g"] = 0,
@@ -2217,7 +2216,8 @@ CopybaraDB = {
 ["height"] = 120,
 ["locked"] = true,
 ["name"] = "Combat Log",
-["b"] = 0,
+["DefaultChannels"] = {
+},
 },
 {
 ["fontSize"] = 12,
@@ -2240,9 +2240,8 @@ CopybaraDB = {
 },
 {
 ["fontSize"] = 15,
+["b"] = 0,
 ["r"] = 0,
-["DefaultChannels"] = {
-},
 ["shown"] = false,
 ["docked"] = 4,
 ["g"] = 0,
@@ -2257,7 +2256,8 @@ CopybaraDB = {
 ["height"] = 120,
 ["locked"] = true,
 ["name"] = "Loot",
-["b"] = 0,
+["DefaultChannels"] = {
+},
 },
 {
 ["fontSize"] = 15,
@@ -2496,11 +2496,11 @@ CopybaraDB = {
 "COMBAT_HONOR_GAIN",
 "COMBAT_MISC_INFO",
 },
-["parentName"] = "UIParent",
-["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["locked"] = true,
 ["name"] = "Combat Log",
+["alpha"] = 0.1568627506494522,
+["locked"] = true,
+["height"] = 120,
+["parentName"] = "UIParent",
 ["b"] = 0,
 },
 {
@@ -2516,9 +2516,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
+["locked"] = true,
 ["name"] = "Voice",
-["locked"] = true,
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2534,9 +2534,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2552,9 +2552,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2570,9 +2570,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2588,9 +2588,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2606,9 +2606,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2624,9 +2624,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2642,9 +2642,9 @@ CopybaraDB = {
 },
 ["parentName"] = "UIParent",
 ["alpha"] = 0.1568627506494522,
-["height"] = 120,
-["name"] = "",
 ["locked"] = true,
+["name"] = "",
+["height"] = 120,
 ["DefaultChannels"] = {
 },
 },
@@ -2717,7 +2717,6 @@ CopybaraDB = {
 },
 ["name"] = "General",
 ["height"] = 218,
-["shown"] = true,
 ["DefaultChannels"] = {
 "Community:345166821:1",
 0,
@@ -2740,6 +2739,7 @@ CopybaraDB = {
 "Services",
 42,
 },
+["shown"] = true,
 },
 {
 ["fontSize"] = 12,
@@ -2765,9 +2765,9 @@ CopybaraDB = {
 },
 ["name"] = "Combat Log",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -2787,9 +2787,9 @@ CopybaraDB = {
 },
 ["name"] = "Voice",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -2811,9 +2811,9 @@ CopybaraDB = {
 },
 ["name"] = "Loot",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -2851,9 +2851,9 @@ CopybaraDB = {
 },
 ["name"] = "Social",
 ["height"] = 218,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -2872,9 +2872,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 6",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -2893,9 +2893,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 7",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -2914,9 +2914,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 8",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -2935,9 +2935,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 9",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -2956,13 +2956,13 @@ CopybaraDB = {
 },
 ["name"] = "Chat 10",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 },
 },
-["Riptides - Argent Dawn"] = {
+["Benthos - Argent Dawn"] = {
 ["selectedCharacter"] = "Riparium - Argent Dawn",
 ["chatConfig"] = {
 {
@@ -3029,6 +3029,7 @@ CopybaraDB = {
 },
 ["name"] = "General",
 ["height"] = 218,
+["shown"] = true,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -3049,7 +3050,6 @@ CopybaraDB = {
 "Services",
 42,
 },
-["shown"] = true,
 },
 {
 ["fontSize"] = 12,
@@ -3075,9 +3075,9 @@ CopybaraDB = {
 },
 ["name"] = "Combat Log",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3097,9 +3097,9 @@ CopybaraDB = {
 },
 ["name"] = "Voice",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -3125,9 +3125,9 @@ CopybaraDB = {
 },
 ["name"] = "Loot",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -3165,6 +3165,7 @@ CopybaraDB = {
 },
 ["name"] = "Social",
 ["height"] = 218,
+["shown"] = false,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -3173,7 +3174,6 @@ CopybaraDB = {
 "NewcomerChat",
 32,
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3192,9 +3192,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 6",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3213,9 +3213,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 7",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3234,9 +3234,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 8",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3255,9 +3255,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 9",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3276,9 +3276,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 10",
 ["height"] = 120,
+["shown"] = false,
 ["DefaultChannels"] = {
 },
-["shown"] = false,
 },
 },
 },
@@ -3669,7 +3669,6 @@ CopybaraDB = {
 },
 ["name"] = "General",
 ["height"] = 218,
-["shown"] = true,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -3690,6 +3689,7 @@ CopybaraDB = {
 "Services",
 42,
 },
+["shown"] = true,
 },
 {
 ["fontSize"] = 12,
@@ -3715,9 +3715,9 @@ CopybaraDB = {
 },
 ["name"] = "Combat Log",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3737,9 +3737,9 @@ CopybaraDB = {
 },
 ["name"] = "Voice",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -3765,9 +3765,9 @@ CopybaraDB = {
 },
 ["name"] = "Loot",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -3805,7 +3805,6 @@ CopybaraDB = {
 },
 ["name"] = "Social",
 ["height"] = 218,
-["shown"] = false,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -3814,6 +3813,7 @@ CopybaraDB = {
 "NewcomerChat",
 32,
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3832,9 +3832,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 6",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3853,9 +3853,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 7",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3874,9 +3874,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 8",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3895,9 +3895,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 9",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -3916,13 +3916,13 @@ CopybaraDB = {
 },
 ["name"] = "Chat 10",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 },
 },
-["Benthos - Argent Dawn"] = {
+["Riptides - Argent Dawn"] = {
 ["selectedCharacter"] = "Riparium - Argent Dawn",
 ["chatConfig"] = {
 {
@@ -3989,7 +3989,6 @@ CopybaraDB = {
 },
 ["name"] = "General",
 ["height"] = 218,
-["shown"] = true,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -4010,6 +4009,7 @@ CopybaraDB = {
 "Services",
 42,
 },
+["shown"] = true,
 },
 {
 ["fontSize"] = 12,
@@ -4035,9 +4035,9 @@ CopybaraDB = {
 },
 ["name"] = "Combat Log",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -4057,9 +4057,9 @@ CopybaraDB = {
 },
 ["name"] = "Voice",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -4085,9 +4085,9 @@ CopybaraDB = {
 },
 ["name"] = "Loot",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -4125,7 +4125,6 @@ CopybaraDB = {
 },
 ["name"] = "Social",
 ["height"] = 218,
-["shown"] = false,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -4134,6 +4133,7 @@ CopybaraDB = {
 "NewcomerChat",
 32,
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -4152,9 +4152,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 6",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -4173,9 +4173,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 7",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -4194,9 +4194,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 8",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -4215,9 +4215,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 9",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -4236,9 +4236,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 10",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 },
 },
@@ -5670,7 +5670,6 @@ CopybaraDB = {
 },
 ["name"] = "General",
 ["height"] = 218,
-["shown"] = true,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -5691,6 +5690,7 @@ CopybaraDB = {
 "Services",
 42,
 },
+["shown"] = true,
 },
 {
 ["fontSize"] = 12,
@@ -5716,9 +5716,9 @@ CopybaraDB = {
 },
 ["name"] = "Combat Log",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -5738,9 +5738,9 @@ CopybaraDB = {
 },
 ["name"] = "Voice",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -5766,9 +5766,9 @@ CopybaraDB = {
 },
 ["name"] = "Loot",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 15,
@@ -5806,7 +5806,6 @@ CopybaraDB = {
 },
 ["name"] = "Social",
 ["height"] = 218,
-["shown"] = false,
 ["DefaultChannels"] = {
 "General",
 1,
@@ -5815,6 +5814,7 @@ CopybaraDB = {
 "NewcomerChat",
 32,
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -5833,9 +5833,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 6",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -5854,9 +5854,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 7",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -5875,9 +5875,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 8",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -5896,9 +5896,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 9",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 {
 ["fontSize"] = 12,
@@ -5917,9 +5917,9 @@ CopybaraDB = {
 },
 ["name"] = "Chat 10",
 ["height"] = 120,
-["shown"] = false,
 ["DefaultChannels"] = {
 },
+["shown"] = false,
 },
 },
 },

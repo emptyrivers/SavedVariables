@@ -2,55 +2,60 @@
 MythicDungeonToolsDB = {
 ["profileKeys"] = {
 ["Calestin - Sargeras"] = "Default",
+["Loess - Kel'Thuzad"] = "Loess - Kel'Thuzad",
 ["Strid - Kel'Thuzad"] = "Default",
 ["Sverdrup - Argent Dawn"] = "Default",
+["Remaxxing - Kel'Thuzad"] = "Remaxxing - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Default",
+["Cascades - Kel'Thuzad"] = "Cascades - Kel'Thuzad",
 ["Doneer - Eredar"] = "Default",
 ["Mangrove - Argent Dawn"] = "Default",
+["Temprivers - Kel'Thuzad"] = "Temprivers - Kel'Thuzad",
 ["Inundito - Kel'Thuzad"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
 ["Emptystreams - Argent Dawn"] = "Default",
+["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
 ["Alluvium - Argent Dawn"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
+["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Benthos - Argent Dawn"] = "Default",
 ["Alandere - Argent Dawn"] = "Default",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
+["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
+["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
+["Riptides - Argent Dawn"] = "Default",
+["Aquifer - Kel'Thuzad"] = "Aquifer - Kel'Thuzad",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
+["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
+["Darick - Eredar"] = "Darick - Eredar",
 ["Dukasuka - Eredar"] = "Dukasuka - Eredar",
-["Esker - Kel'Thuzad"] = "Default",
-["Riptides - Argent Dawn"] = "Default",
-["Asperos - Kel'Thuzad"] = "Default",
-["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Emptyrivers - Sargeras"] = "Default",
 ["Zimuures - Argent Dawn"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Geosmin - Kel'Thuzad"] = "Geosmin - Kel'Thuzad",
+["Asperos - Kel'Thuzad"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
+["Stream - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Emptyrivers - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Darick - Eredar"] = "Darick - Eredar",
+["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
 ["Roberia - Eredar"] = "Roberia - Eredar",
 ["Estuary - Argent Dawn"] = "Default",
 },
 ["global"] = {
 ["anchorTo"] = "CENTER",
-["scale"] = 1.131443552927928,
-["anchorFrom"] = "CENTER",
-["minimap"] = {
-["minimapPos"] = 304.3254193684146,
-["showInCompartment"] = true,
-},
-["nonFullscreenScale"] = 1.131443552927928,
-["MDI"] = {
-},
-["selectedDungeonList"] = 2,
-["latestSeenDungeonList"] = 9,
 ["colorPaletteInfo"] = {
 ["customPaletteValues"] = {
 {
@@ -115,6 +120,12 @@ MythicDungeonToolsDB = {
 },
 },
 },
+["anchorFrom"] = "CENTER",
+["latestDungeonSeen"] = 123,
+["nonFullscreenScale"] = 1.131443552927928,
+["MDI"] = {
+},
+["maximized"] = false,
 ["presets"] = {
 {
 {
@@ -707,19 +718,19 @@ nil,
 [11] = {
 3,
 },
-["color"] = "fffb3e",
-[8] = {
-2,
-},
-[3] = {
-7,
-},
 [12] = {
 3,
 2,
 6,
 5,
 },
+[8] = {
+2,
+},
+[10] = {
+4,
+},
+["color"] = "fffb3e",
 [5] = {
 4,
 3,
@@ -727,8 +738,8 @@ nil,
 [9] = {
 4,
 },
-[10] = {
-4,
+[3] = {
+7,
 },
 },
 {
@@ -813,6 +824,10 @@ nil,
 5,
 },
 ["color"] = "a1ff3e",
+[4] = {
+},
+[12] = {
+},
 [14] = {
 28,
 27,
@@ -825,19 +840,15 @@ nil,
 13,
 15,
 },
-[12] = {
-},
-[4] = {
-},
 },
 {
 {
 },
 ["color"] = "ff3eff",
-[4] = {
-},
 [15] = {
 8,
+},
+[4] = {
 },
 [14] = {
 32,
@@ -1129,26 +1140,26 @@ nil,
 [24] = {
 3,
 },
-[23] = {
-2,
+[16] = {
+7,
 },
 [32] = {
 4,
 10,
 14,
 },
-["color"] = "a1ff3e",
-[14] = {
-7,
-8,
-},
-[16] = {
-7,
-},
 [33] = {
 7,
 8,
 },
+[14] = {
+7,
+8,
+},
+[23] = {
+2,
+},
+["color"] = "a1ff3e",
 },
 {
 [20] = {
@@ -1282,16 +1293,16 @@ nil,
 [15] = {
 2,
 },
-[29] = {
-1,
-},
+["color"] = "3effff",
 [36] = {
 11,
 },
 [9] = {
 6,
 },
-["color"] = "3effff",
+[29] = {
+1,
+},
 },
 {
 {
@@ -1497,11 +1508,11 @@ nil,
 15,
 },
 ["color"] = "a1ff3e",
-[5] = {
-8,
-},
 [9] = {
 4,
+},
+[5] = {
+8,
 },
 [22] = {
 16,
@@ -2446,6 +2457,533 @@ true,
 },
 },
 },
+},
+},
+[30] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"617.8",
+"-251.8",
+1,
+true,
+"Avoid the patrol. Go straight to the middle when you jump down",
+},
+},
+{
+["d"] = {
+3,
+1,
+1,
+true,
+"4abb4f",
+-8,
+true,
+},
+["l"] = {
+"656.2",
+"-218.5",
+"644.1",
+"-221.8",
+"644.1",
+"-221.8",
+"622.3",
+"-235",
+},
+},
+{
+["d"] = {
+3,
+1,
+1,
+true,
+"8d5206",
+-8,
+true,
+},
+["l"] = {
+"623.4",
+"-233.5",
+"626.8",
+"-222.6",
+},
+},
+{
+["d"] = {
+3,
+1,
+1,
+true,
+"ac63bc",
+-8,
+true,
+},
+["l"] = {
+"624.2",
+"-234.6",
+"639.2",
+"-234.6",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"737.2",
+"-294.4",
+1,
+true,
+"Try to CC the Houndmaster so it doesn't come into the first pull (Hunter trap, Mage poly, DH imprison etc.)",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"531.3",
+"-302",
+1,
+true,
+"Quick boss guide video: https://youtu.be/TzDAEMqBd5g",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"493",
+"-201",
+1,
+true,
+"Pull this back a bit so you don't get the patrol of Anklebiters",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"425.2",
+"-196.5",
+1,
+true,
+"Wait for these to turn to stone and pass to the boss",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"429.3",
+"-289.2",
+1,
+true,
+"Wait for the 2 Stoneborn to turn to stone and then run up the stairs",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"282.5",
+"-303.3",
+1,
+true,
+"Quick boss guide video: https://youtu.be/TzDAEMqBd5g",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"110.7",
+"-307.3",
+2,
+true,
+"Quick boss guide video: https://youtu.be/TzDAEMqBd5g",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"114.5",
+"-76.5",
+3,
+true,
+"Quick boss guide video: https://youtu.be/TzDAEMqBd5g",
+},
+},
+},
+["week"] = 2,
+["difficulty"] = 2,
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentDungeonIdx"] = 30,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+{
+25,
+3,
+},
+["color"] = "ff3eff",
+},
+{
+{
+16,
+},
+nil,
+nil,
+{
+12,
+},
+{
+24,
+25,
+26,
+27,
+},
+{
+3,
+},
+{
+3,
+},
+["color"] = "3eff9e",
+},
+{
+{
+5,
+},
+{
+4,
+},
+{
+5,
+6,
+},
+{
+4,
+},
+{
+2,
+3,
+4,
+1,
+5,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+15,
+},
+nil,
+nil,
+{
+},
+{
+6,
+7,
+8,
+9,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+},
+{
+{
+4,
+},
+{
+9,
+},
+{
+17,
+18,
+},
+{
+1,
+},
+[12] = {
+7,
+},
+["color"] = "fffb3e",
+},
+{
+{
+10,
+},
+{
+6,
+},
+{
+11,
+12,
+},
+{
+11,
+},
+{
+21,
+16,
+22,
+23,
+},
+["color"] = "3eff3e",
+},
+{
+{
+},
+{
+7,
+},
+{
+13,
+14,
+},
+{
+},
+["color"] = "ff3e9e",
+},
+{
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+["color"] = "3effff",
+[4] = {
+9,
+10,
+},
+[5] = {
+15,
+17,
+18,
+19,
+20,
+},
+},
+{
+[8] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+{
+7,
+},
+[11] = {
+8,
+9,
+10,
+},
+[10] = {
+29,
+30,
+31,
+32,
+},
+[4] = {
+27,
+28,
+7,
+},
+["color"] = "3e3eff",
+},
+{
+[11] = {
+11,
+12,
+},
+[10] = {
+33,
+34,
+35,
+37,
+36,
+},
+[12] = {
+},
+[4] = {
+22,
+26,
+},
+[5] = {
+28,
+29,
+30,
+31,
+},
+["color"] = "a1ff3e",
+},
+{
+{
+8,
+},
+[5] = {
+33,
+32,
+34,
+35,
+},
+[12] = {
+11,
+},
+[4] = {
+23,
+},
+["color"] = "ff3eff",
+},
+{
+[11] = {
+5,
+6,
+},
+[10] = {
+10,
+11,
+12,
+14,
+15,
+16,
+17,
+18,
+13,
+},
+["color"] = "3eff9e",
+[4] = {
+20,
+},
+[9] = {
+3,
+},
+},
+{
+[13] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+[11] = {
+14,
+13,
+},
+[9] = {
+11,
+},
+["color"] = "3e9eff",
+},
+{
+[3] = {
+21,
+20,
+19,
+},
+[2] = {
+10,
+11,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[6] = {
+4,
+},
+[4] = {
+24,
+},
+[23] = {
+1,
+2,
+},
+},
+{
+[14] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[24] = {
+1,
+2,
+3,
+4,
+},
+[16] = {
+1,
+},
+["color"] = "3effff",
+},
+{
+[17] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+},
+},
+["uid"] = "fMoMDyw8Uis",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
 },
 },
 [31] = {
@@ -6760,16 +7298,16 @@ true,
 },
 [10] = {
 },
-[23] = {
-},
-[11] = {
-},
-[22] = {
-},
 [12] = {
 },
 [21] = {
 1,
+},
+[22] = {
+},
+[23] = {
+},
+[11] = {
 },
 },
 {
@@ -6973,11 +7511,11 @@ nil,
 4,
 3,
 },
-[15] = {
-1,
-},
 [9] = {
 2,
+},
+[15] = {
+1,
 },
 },
 {
@@ -7103,9 +7641,16 @@ nil,
 [29] = {
 1,
 },
-[6] = {
-3,
+[22] = {
+7,
+4,
+8,
+9,
+5,
+6,
 2,
+1,
+3,
 },
 [20] = {
 1,
@@ -7117,16 +7662,9 @@ nil,
 1,
 2,
 },
-[22] = {
-7,
-4,
-8,
-9,
-5,
-6,
-2,
-1,
+[6] = {
 3,
+2,
 },
 [23] = {
 2,
@@ -7156,12 +7694,12 @@ nil,
 },
 ["currentPull"] = 8,
 ["currentSublevel"] = 1,
+["teeming"] = false,
+["currentDungeonIdx"] = 35,
 ["poiAssignments"] = {
 {
 },
 },
-["currentDungeonIdx"] = 35,
-["teeming"] = false,
 ["selection"] = {
 8,
 },
@@ -7272,11 +7810,6 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Raider.IO Weekly Route - Bunten",
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
@@ -7422,11 +7955,11 @@ nil,
 4,
 3,
 },
-[9] = {
-2,
-},
 [15] = {
 1,
+},
+[9] = {
+2,
 },
 ["color"] = "3effff",
 },
@@ -7638,7 +8171,1061 @@ nil,
 },
 },
 },
+["text"] = "Raider.IO Weekly Route - Bunten",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
 ["uid"] = "STwEuLn4r)a",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[37] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+},
+},
+{
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"677.1",
+"-286.2",
+1,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"274.9",
+"-488.1",
+2,
+true,
+"Tag the 2 Peacekeepers and bring them to boss room to start for RP (and wait for it). Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"275.5",
+"-147.5",
+1,
+true,
+"You can start the event by buying the item from the vendor and picking up the item on the ground while you're fighting the Bazaar Overseer if your tank drags him over to the door. You have to wait for some RP before you can buy the item from the vendor, a",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"169.4",
+"-53.1",
+4,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"117.7",
+"-246.8",
+3,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"101.9",
+"-396.3",
+1,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+},
+["week"] = 2,
+["difficulty"] = 2,
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+8,
+9,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+6,
+7,
+3,
+},
+nil,
+{
+1,
+2,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+4,
+},
+nil,
+{
+3,
+},
+{
+3,
+},
+[6] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+5,
+},
+["color"] = "3e9eff",
+[7] = {
+1,
+},
+[4] = {
+4,
+},
+},
+{
+[5] = {
+2,
+3,
+},
+["color"] = "fffb3e",
+},
+{
+[8] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+},
+{
+[11] = {
+1,
+2,
+3,
+4,
+},
+["color"] = "3effff",
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[12] = {
+1,
+2,
+},
+[26] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+[17] = {
+1,
+},
+[18] = {
+1,
+},
+[12] = {
+6,
+7,
+},
+[16] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+[34] = {
+1,
+2,
+3,
+},
+[37] = {
+2,
+1,
+},
+[35] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+},
+["color"] = "a1ff3e",
+},
+{
+[20] = {
+1,
+2,
+3,
+},
+[21] = {
+1,
+2,
+},
+[22] = {
+1,
+2,
+},
+[23] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[27] = {
+2,
+3,
+1,
+},
+[28] = {
+1,
+2,
+},
+[12] = {
+13,
+},
+[29] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[27] = {
+6,
+4,
+5,
+},
+[28] = {
+3,
+},
+[29] = {
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+[27] = {
+7,
+},
+[28] = {
+4,
+},
+[32] = {
+1,
+},
+[29] = {
+3,
+},
+["color"] = "3e9eff",
+},
+{
+[30] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[15] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[31] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+},
+},
+["uid"] = "4yhAWdIoju(",
+},
+{
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"677.1",
+"-286.2",
+1,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"274.9",
+"-488.1",
+2,
+true,
+"Tag the 2 Peacekeepers and bring them to boss room to start for RP (and wait for it). Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"275.5",
+"-147.5",
+1,
+true,
+"You can start the event by buying the item from the vendor and picking up the item on the ground while you're fighting the Bazaar Overseer if your tank drags him over to the door. You have to wait for some RP before you can buy the item from the vendor, a",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"169.4",
+"-53.1",
+4,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"117.7",
+"-246.8",
+3,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"101.9",
+"-396.3",
+1,
+true,
+"Quick boss guide video: https://youtu.be/XxP3rpxtVnA",
+},
+},
+},
+["week"] = 2,
+["difficulty"] = 2,
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route 2",
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentDungeonIdx"] = 37,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+1,
+2,
+8,
+9,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+6,
+7,
+3,
+},
+nil,
+{
+1,
+2,
+},
+{
+2,
+1,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+4,
+},
+nil,
+{
+3,
+},
+{
+3,
+},
+[6] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+5,
+},
+["color"] = "3e9eff",
+[7] = {
+1,
+},
+[4] = {
+4,
+},
+},
+{
+[5] = {
+2,
+3,
+},
+["color"] = "fffb3e",
+},
+{
+[8] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+["color"] = "ff3e9e",
+[10] = {
+1,
+},
+[9] = {
+1,
+2,
+},
+},
+{
+[11] = {
+1,
+2,
+3,
+4,
+},
+["color"] = "3effff",
+},
+{
+[24] = {
+1,
+},
+[25] = {
+1,
+},
+[12] = {
+1,
+2,
+},
+[26] = {
+1,
+},
+["color"] = "ff9b3e",
+},
+{
+[17] = {
+1,
+},
+[18] = {
+1,
+},
+[12] = {
+6,
+7,
+},
+[16] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+[34] = {
+1,
+2,
+3,
+},
+[37] = {
+2,
+1,
+},
+[35] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+},
+["color"] = "a1ff3e",
+},
+{
+[20] = {
+1,
+2,
+3,
+},
+[21] = {
+1,
+2,
+},
+[22] = {
+1,
+2,
+},
+[23] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+[27] = {
+2,
+3,
+1,
+},
+[28] = {
+1,
+2,
+},
+[12] = {
+13,
+},
+[29] = {
+1,
+},
+["color"] = "3eff9e",
+},
+{
+[27] = {
+6,
+4,
+5,
+},
+[28] = {
+3,
+},
+[29] = {
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+[27] = {
+7,
+},
+[28] = {
+4,
+},
+[32] = {
+1,
+},
+[29] = {
+3,
+},
+["color"] = "3e9eff",
+},
+{
+[30] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[15] = {
+1,
+},
+["color"] = "3eff3e",
+},
+{
+[31] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+},
+},
+["uid"] = "V26RqDjg1Z1",
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+[38] = {
+{
+["difficulty"] = 10,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+["currentDungeonIdx"] = 38,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+},
+{
+["objects"] = {
+{
+["n"] = true,
+["d"] = {
+"308.2",
+"-49.8",
+1,
+true,
+"As of Season 3 and the Fishsticks get affected by AoE damage. On any pull with Scalebinders, FOCUS THE SCALEBINDER. The Scalebinders bring an unavoidable Fish Invigoration that makes enemies take less damage and heal, so these are the prio target and then",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"696",
+"-149.8",
+2,
+true,
+"Quick boss guide video: https://youtu.be/uVHS4dRXi4M",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"484.7",
+"-510.8",
+3,
+true,
+"Quick boss guide video: https://youtu.be/uVHS4dRXi4M",
+},
+},
+{
+["n"] = true,
+["d"] = {
+"94.9",
+"-450.2",
+4,
+true,
+"Quick boss guide video: https://youtu.be/uVHS4dRXi4M",
+},
+},
+},
+["week"] = 2,
+["difficulty"] = 2,
+["mdi"] = {
+["freehold"] = 1,
+["freeholdJoined"] = false,
+["beguiling"] = 1,
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+[2] = {
+},
+},
+["currentDungeonIdx"] = 38,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["pulls"] = {
+{
+{
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+},
+{
+2,
+},
+{
+5,
+6,
+},
+{
+1,
+},
+{
+1,
+},
+[24] = {
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+2,
+3,
+1,
+4,
+33,
+34,
+35,
+36,
+},
+{
+1,
+},
+{
+1,
+2,
+},
+[5] = {
+2,
+},
+["color"] = "3eff9e",
+},
+{
+{
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+},
+{
+10,
+11,
+},
+{
+14,
+},
+[24] = {
+2,
+3,
+},
+[5] = {
+7,
+8,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+69,
+70,
+72,
+71,
+76,
+73,
+74,
+77,
+80,
+79,
+78,
+75,
+},
+{
+12,
+},
+{
+15,
+},
+{
+4,
+},
+{
+9,
+10,
+},
+[24] = {
+8,
+},
+["color"] = "3e9eff",
+},
+{
+{
+93,
+94,
+95,
+96,
+},
+{
+16,
+},
+{
+22,
+},
+[5] = {
+14,
+},
+[6] = {
+1,
+2,
+},
+["color"] = "fffb3e",
+[24] = {
+9,
+},
+},
+{
+["color"] = "3eff3e",
+[6] = {
+3,
+4,
+},
+[7] = {
+1,
+},
+},
+{
+[8] = {
+1,
+4,
+2,
+3,
+},
+[9] = {
+2,
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[11] = {
+2,
+1,
+},
+[8] = {
+7,
+6,
+5,
+},
+[9] = {
+5,
+3,
+4,
+},
+["color"] = "3effff",
+},
+{
+[11] = {
+4,
+3,
+},
+[9] = {
+7,
+6,
+},
+["color"] = "ff9b3e",
+},
+{
+[12] = {
+1,
+},
+["color"] = "3e3eff",
+},
+{
+[13] = {
+1,
+},
+[15] = {
+2,
+},
+["color"] = "a1ff3e",
+[14] = {
+3,
+4,
+},
+[23] = {
+3,
+},
+},
+{
+[13] = {
+3,
+},
+[15] = {
+3,
+4,
+},
+["color"] = "ff3eff",
+[14] = {
+6,
+5,
+7,
+},
+[23] = {
+2,
+},
+},
+{
+[13] = {
+2,
+},
+[15] = {
+1,
+},
+["color"] = "3eff9e",
+[14] = {
+2,
+1,
+},
+[23] = {
+1,
+},
+},
+{
+[16] = {
+1,
+},
+["color"] = "ff3e3e",
+},
+},
+},
+["uid"] = "r4RL)hGeU3A",
 },
 {
 ["value"] = 0,
@@ -8383,10 +9970,10 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
 [12] = {
 2,
 },
+["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -8707,10 +10294,10 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
 [12] = {
 2,
 },
+["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -9031,10 +10618,10 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
 [12] = {
 2,
 },
+["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -9355,10 +10942,10 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
 [12] = {
 2,
 },
+["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -9679,10 +11266,10 @@ nil,
 [21] = {
 3,
 },
-["color"] = "ff3e3e",
 [12] = {
 2,
 },
+["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -10777,11 +12364,11 @@ nil,
 3,
 2,
 },
-[9] = {
-1,
-},
 [7] = {
 3,
+},
+[9] = {
+1,
 },
 },
 {
@@ -10901,78 +12488,29 @@ nil,
 ["difficulty"] = 10,
 ["week"] = 1,
 ["value"] = {
-["currentPull"] = 2,
-["currentSublevel"] = 1,
 ["riftOffsets"] = {
 {
 },
 },
+["currentPull"] = 15,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
 ["currentDungeonIdx"] = 111,
 ["teeming"] = false,
 ["selection"] = {
-2,
+15,
 },
 ["pulls"] = {
 {
 {
-5,
-6,
-4,
-7,
-8,
-9,
 1,
 2,
 3,
-11,
-},
-{
-3,
-4,
-2,
-1,
-},
-{
-2,
-1,
 },
 {
 1,
 2,
-},
-{
-1,
-2,
-},
-{
-7,
-14,
-36,
-},
-{
-12,
-38,
-39,
-11,
-5,
-},
-{
-5,
-10,
-18,
-8,
-},
-nil,
-{
-29,
-6,
-7,
-2,
-1,
-3,
-26,
-},
-{
 },
 {
 1,
@@ -10980,128 +12518,201 @@ nil,
 ["color"] = "ff3eff",
 },
 {
-["color"] = "3eff9e",
-[9] = {
-1,
+{
+4,
 5,
-},
-},
-},
-},
-["uid"] = "nliFSS99oa9",
+6,
 },
 {
-["objects"] = {
-},
-["uid"] = "EPk8YEFdtY4",
-["difficulty"] = 10,
-["value"] = {
-["currentPull"] = 3,
-["currentSublevel"] = 1,
-["riftOffsets"] = {
-{
-},
-},
-["currentDungeonIdx"] = 111,
-["teeming"] = false,
-["selection"] = {
 3,
 },
-["pulls"] = {
+{
+2,
+},
+{
+1,
+},
+["color"] = "3eff9e",
+},
+{
+{
+9,
+},
+["color"] = "ff3e3e",
+[4] = {
+2,
+},
+[5] = {
+2,
+},
+},
+{
+{
+8,
+7,
+},
+{
+4,
+},
+["color"] = "3e9eff",
+[5] = {
+1,
+},
+},
+{
+["color"] = "fffb3e",
+[14] = {
+1,
+},
+},
+{
+{
+16,
+},
+{
+9,
+},
+nil,
+nil,
+nil,
+{
+7,
+},
+{
+14,
+33,
+},
+{
+1,
+2,
+},
+{
+5,
+},
+["color"] = "3eff3e",
+},
 {
 [6] = {
+10,
+11,
+8,
+9,
 },
 [7] = {
-5,
+12,
+13,
 },
-[10] = {
-3,
+["color"] = "ff3e9e",
+[4] = {
+4,
 },
 [12] = {
 1,
 },
-["color"] = "ff3eff",
-[16] = {
+},
+{
+[11] = {
+1,
+},
+[7] = {
+5,
+},
+["color"] = "3effff",
+[9] = {
+3,
 },
 [2] = {
 8,
 },
 },
 {
-["color"] = "3eff9e",
 [6] = {
-37,
-38,
-39,
-40,
-35,
+21,
 },
 [7] = {
-37,
-36,
+20,
+19,
 },
-[8] = {
+["color"] = "ff9b3e",
+[4] = {
+7,
+},
+[9] = {
+12,
 },
 },
 {
-[6] = {
-9,
+["color"] = "3e3eff",
+[10] = {
+1,
 },
 [7] = {
-40,
-16,
-13,
+4,
+3,
 },
-[8] = {
+[6] = {
 1,
 2,
 },
-["color"] = "ff3e3e",
-[13] = {
+},
+{
+["color"] = "a1ff3e",
+[6] = {
+16,
+15,
+},
+[9] = {
+9,
+8,
+},
+[7] = {
+16,
 },
 },
 {
-[6] = {
-14,
+{
+17,
 },
+["color"] = "ff3eff",
+[3] = {
+3,
+},
+[7] = {
+6,
+7,
+},
+[9] = {
+4,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+1,
+},
+[18] = {
+2,
+3,
+1,
+4,
+5,
+},
+},
+{
+["color"] = "ff3e3e",
 [13] = {
 1,
 },
-[8] = {
-10,
 },
-[10] = {
-29,
-},
+{
 ["color"] = "3e9eff",
-[7] = {
-38,
-39,
-},
-},
-{
-[6] = {
-},
-[7] = {
-},
-[8] = {
-},
-[10] = {
-},
-["color"] = "fffb3e",
+[16] = {
+1,
 },
 },
 },
-["text"] = "Default 2",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
 },
-["week"] = 1,
-},
-{
-["value"] = 0,
-["text"] = "<New Route>",
+["uid"] = "nliFSS99oa9",
 },
 },
 [112] = {
@@ -11684,11 +13295,6 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Raider.IO Weekly Route - Bunten",
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
@@ -11743,6 +13349,11 @@ true,
 },
 },
 },
+["text"] = "Raider.IO Weekly Route - Bunten",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
 ["uid"] = "8mGwvfb1GXg",
 },
 {
@@ -11786,339 +13397,150 @@ true,
 },
 ["week"] = 1,
 ["value"] = {
-["currentPull"] = 21,
+["currentPull"] = 6,
 ["currentSublevel"] = 1,
 ["pulls"] = {
 {
 {
-35,
+34,
 2,
-36,
-3,
-37,
+35,
+5,
+4,
 6,
-4,
-5,
-},
-["color"] = "ff3eff",
-[4] = {
-5,
-4,
-},
-},
-{
-{
+3,
+36,
+11,
 10,
 9,
-12,
 },
 {
-7,
+5,
+42,
+43,
 6,
-8,
+44,
+45,
+7,
 },
 nil,
 {
-2,
+5,
 6,
-7,
+2,
 },
-["color"] = "3eff9e",
-},
-{
-{
-24,
-25,
-23,
-28,
-27,
-26,
+["color"] = "ff3eff",
 },
 {
+{
+31,
 29,
 30,
-32,
-31,
+28,
+27,
+25,
+26,
+24,
+22,
+23,
 },
 {
+26,
+27,
+28,
+29,
+},
+{
+5,
 6,
 },
-nil,
-nil,
-nil,
-{
+["color"] = "3eff9e",
+[7] = {
 1,
 },
+},
 {
+{
+21,
+20,
+19,
 },
-[11] = {
+{
+33,
+34,
+35,
+24,
+23,
+25,
 },
-[16] = {
+{
+8,
+},
+{
+20,
+19,
+16,
+15,
+10,
+11,
+12,
 },
 ["color"] = "ff3e3e",
 },
 {
-{
-29,
-},
-{
-38,
-36,
-37,
-},
-{
-8,
-5,
-},
-{
-24,
-23,
-},
 ["color"] = "3e9eff",
-},
-{
-{
-20,
-21,
-22,
-},
-["color"] = "fffb3e",
-[4] = {
-20,
-19,
-15,
-16,
-14,
-},
-},
-{
-["color"] = "3eff3e",
 [6] = {
 1,
 },
 [2] = {
-20,
-21,
-22,
+17,
+18,
+19,
 },
 },
 {
-["color"] = "ff3e9e",
-[2] = {
-25,
-24,
-23,
-},
 [3] = {
 4,
 },
+[2] = {
+20,
+21,
+22,
+62,
+64,
+65,
+66,
+67,
+63,
+},
+["color"] = "fffb3e",
 [5] = {
 1,
 },
 },
 {
-["color"] = "3effff",
-[17] = {
-1,
-},
+{
+18,
+16,
+17,
+15,
 },
 {
+13,
+12,
+14,
+},
+nil,
 {
-34,
-},
-[8] = {
-2,
-3,
-1,
-4,
-5,
-},
-[10] = {
-1,
-},
-[9] = {
-1,
-2,
-},
-["color"] = "ff9b3e",
-},
-{
-[11] = {
-1,
-},
-["color"] = "3e3eff",
-[8] = {
-6,
-7,
-},
-},
-{
-["color"] = "a1ff3e",
-[12] = {
-1,
-},
-[8] = {
-8,
-10,
 9,
-11,
 },
-},
-{
-["color"] = "ff3eff",
-[10] = {
-4,
-},
-[9] = {
-3,
-},
-},
-{
-[11] = {
-4,
-},
-[8] = {
-},
-[10] = {
-10,
-},
-["color"] = "3eff9e",
-[9] = {
-10,
-},
-},
-{
-["color"] = "ff3e3e",
-[9] = {
-11,
-},
-[12] = {
-5,
-},
-[8] = {
-38,
-37,
-39,
-},
-},
-{
-["color"] = "3e9eff",
-[10] = {
-11,
-},
-[8] = {
-33,
-34,
-36,
-35,
-},
-},
-{
-[11] = {
-5,
-},
-[8] = {
-41,
-40,
-42,
-43,
-},
-[10] = {
-12,
-},
-["color"] = "fffb3e",
-[9] = {
-12,
-},
-[12] = {
-},
-},
-{
 ["color"] = "3eff3e",
-[10] = {
-8,
-},
-[12] = {
-6,
-7,
-},
-},
-{
-[11] = {
-6,
-},
-["color"] = "ff3e9e",
-[8] = {
-27,
-28,
-25,
-29,
-26,
-30,
-},
-},
-{
-[18] = {
-1,
-},
-[19] = {
-1,
-},
-["color"] = "3effff",
-},
-{
-["color"] = "ff9b3e",
-[13] = {
-1,
-},
-[14] = {
-},
-},
-{
-[14] = {
-2,
-1,
-4,
-5,
-3,
-},
-[16] = {
-1,
-2,
-},
-["color"] = "3e3eff",
-},
-{
-[14] = {
-8,
-7,
-9,
-10,
-6,
-},
-[15] = {
-1,
-},
-["color"] = "a1ff3e",
-},
-{
-["color"] = "ff3eff",
-[13] = {
-3,
-2,
-},
-},
-{
-["color"] = "3eff9e",
-[20] = {
-1,
-},
 },
 },
 ["currentDungeonIdx"] = 113,
 ["teeming"] = false,
 ["selection"] = {
-21,
+6,
 },
 ["riftOffsets"] = {
 {
@@ -12132,13 +13554,6 @@ nil,
 ["difficulty"] = 10,
 ["uid"] = "4IsLGmijhU(",
 ["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Default 2",
-["objects"] = {
-},
 ["value"] = {
 ["currentPull"] = 5,
 ["currentSublevel"] = 1,
@@ -12158,7 +13573,6 @@ nil,
 2,
 36,
 3,
-37,
 6,
 4,
 5,
@@ -12251,8 +13665,6 @@ nil,
 8,
 },
 {
-24,
-23,
 20,
 19,
 15,
@@ -12341,14 +13753,9 @@ nil,
 38,
 37,
 39,
-42,
-40,
-41,
-43,
 },
 [10] = {
 11,
-12,
 },
 [12] = {
 5,
@@ -12421,6 +13828,13 @@ nil,
 },
 },
 },
+},
+["text"] = "Default 2",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 },
 {
@@ -12734,6 +14148,688 @@ nil,
 },
 },
 },
+{
+["objects"] = {
+{
+["d"] = {
+"628.3",
+"-261.2",
+1,
+true,
+"Play on the side of the stairs since Suleyman has a big tank knockback.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"674.4",
+"-260.5",
+1,
+true,
+"Don't pull all at once. Chain the further packs later, and if you can skip the first 4 footmen, there are many other options of footmen packs later on.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"511.8",
+"-283.1",
+1,
+true,
+"Quick boss guide video: https://youtu.be/NIRwtcA_hoY",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"448.3",
+"-245.9",
+2,
+true,
+"Chain this room however you see fit. The packs that come down the stairs have 2 casters per pack, so keep that in mind.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"399.7",
+"-283.3",
+2,
+true,
+"Quick boss guide video: https://youtu.be/NIRwtcA_hoY",
+},
+["n"] = true,
+},
+{
+["d"] = {
+"88.2",
+"-284.3",
+2,
+true,
+"Quick boss guide video: https://youtu.be/NIRwtcA_hoY",
+},
+["n"] = true,
+},
+},
+["week"] = 2,
+["uid"] = "yZ9eYxDUGOE",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["pulls"] = {
+{
+{
+2,
+3,
+4,
+5,
+9,
+12,
+13,
+17,
+},
+{
+3,
+},
+[11] = {
+1,
+},
+[6] = {
+4,
+},
+[9] = {
+4,
+9,
+34,
+},
+["color"] = "ff3eff",
+},
+{
+[6] = {
+5,
+},
+[8] = {
+1,
+},
+["color"] = "3eff9e",
+[16] = {
+1,
+},
+[9] = {
+10,
+},
+},
+{
+{
+18,
+},
+[8] = {
+2,
+},
+[6] = {
+6,
+},
+["color"] = "ff3e3e",
+},
+{
+{
+43,
+1,
+26,
+},
+{
+1,
+},
+["color"] = "3e9eff",
+[6] = {
+8,
+},
+[9] = {
+1,
+33,
+13,
+},
+},
+{
+[6] = {
+7,
+},
+[8] = {
+5,
+},
+[10] = {
+1,
+},
+["color"] = "fffb3e",
+[19] = {
+5,
+},
+[9] = {
+12,
+},
+},
+{
+{
+32,
+},
+["color"] = "3eff3e",
+[6] = {
+9,
+},
+[7] = {
+1,
+},
+},
+{
+[21] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+{
+[20] = {
+1,
+2,
+3,
+},
+["color"] = "3effff",
+[4] = {
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+},
+[5] = {
+1,
+2,
+3,
+4,
+},
+[6] = {
+17,
+},
+},
+{
+[20] = {
+4,
+},
+[8] = {
+18,
+},
+["color"] = "ff9b3e",
+[5] = {
+5,
+},
+[6] = {
+18,
+},
+},
+{
+[20] = {
+5,
+6,
+},
+[8] = {
+19,
+},
+["color"] = "3e3eff",
+[5] = {
+6,
+7,
+8,
+},
+[6] = {
+19,
+20,
+},
+},
+{
+[22] = {
+1,
+},
+["color"] = "a1ff3e",
+},
+{
+[5] = {
+9,
+10,
+},
+[6] = {
+22,
+21,
+},
+[20] = {
+7,
+8,
+},
+["color"] = "ff3eff",
+},
+{
+[20] = {
+9,
+},
+[13] = {
+7,
+},
+[15] = {
+2,
+},
+["color"] = "3eff9e",
+[14] = {
+12,
+},
+[5] = {
+12,
+11,
+},
+},
+{
+[20] = {
+10,
+},
+[13] = {
+8,
+},
+["color"] = "ff3e3e",
+[14] = {
+3,
+},
+[5] = {
+13,
+},
+[6] = {
+24,
+27,
+},
+},
+{
+[14] = {
+10,
+1,
+2,
+},
+[13] = {
+1,
+9,
+},
+[15] = {
+1,
+5,
+4,
+},
+["color"] = "3e9eff",
+},
+{
+[14] = {
+11,
+},
+[6] = {
+25,
+26,
+},
+[17] = {
+1,
+},
+["color"] = "fffb3e",
+},
+{
+[14] = {
+7,
+8,
+9,
+4,
+5,
+6,
+},
+[6] = {
+29,
+28,
+},
+["color"] = "3eff3e",
+},
+{
+[23] = {
+1,
+},
+["color"] = "ff3e9e",
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+1,
+},
+["riftOffsets"] = {
+[2] = {
+},
+},
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["mdi"] = {
+["freehold"] = 1,
+["beguiling"] = 1,
+["freeholdJoined"] = false,
+},
+["difficulty"] = 2,
+},
+{
+["difficulty"] = 12,
+["uid"] = "wjw)KTyrIRA",
+["week"] = 1,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Prio",
+["objects"] = {
+},
+["value"] = {
+["currentPull"] = 16,
+["currentSublevel"] = 1,
+["riftOffsets"] = {
+{
+},
+},
+["currentDungeonIdx"] = 115,
+["teeming"] = false,
+["selection"] = {
+16,
+},
+["pulls"] = {
+{
+{
+4,
+2,
+3,
+5,
+9,
+13,
+12,
+17,
+},
+{
+3,
+},
+["color"] = "ff3eff",
+[6] = {
+4,
+},
+[9] = {
+34,
+4,
+9,
+},
+[11] = {
+1,
+},
+},
+{
+{
+22,
+20,
+21,
+19,
+},
+["color"] = "3eff9e",
+[19] = {
+4,
+3,
+},
+[9] = {
+11,
+},
+[16] = {
+1,
+},
+},
+{
+{
+43,
+1,
+26,
+},
+{
+1,
+},
+["color"] = "ff3e3e",
+[6] = {
+8,
+},
+[9] = {
+1,
+33,
+13,
+},
+},
+{
+[6] = {
+7,
+},
+[8] = {
+5,
+},
+[10] = {
+1,
+},
+["color"] = "3e9eff",
+[19] = {
+5,
+},
+[9] = {
+12,
+},
+},
+{
+{
+32,
+},
+["color"] = "fffb3e",
+[6] = {
+9,
+},
+[7] = {
+1,
+},
+},
+{
+["color"] = "3eff3e",
+[21] = {
+1,
+},
+},
+{
+[20] = {
+1,
+2,
+3,
+},
+["color"] = "ff3e9e",
+[4] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+[5] = {
+1,
+2,
+4,
+3,
+},
+[6] = {
+17,
+},
+},
+{
+[20] = {
+4,
+},
+[8] = {
+18,
+},
+["color"] = "3effff",
+[5] = {
+5,
+},
+[6] = {
+18,
+},
+},
+{
+[6] = {
+20,
+19,
+},
+[8] = {
+19,
+},
+["color"] = "ff9b3e",
+[5] = {
+7,
+8,
+6,
+},
+[20] = {
+6,
+5,
+},
+},
+{
+["color"] = "3e3eff",
+[22] = {
+1,
+},
+},
+{
+["color"] = "a1ff3e",
+[6] = {
+21,
+22,
+},
+[20] = {
+7,
+8,
+},
+[5] = {
+9,
+10,
+},
+},
+{
+[20] = {
+9,
+},
+[13] = {
+7,
+},
+[15] = {
+2,
+},
+["color"] = "ff3eff",
+[14] = {
+12,
+},
+[5] = {
+12,
+11,
+},
+},
+{
+[20] = {
+10,
+},
+[13] = {
+8,
+},
+["color"] = "3eff9e",
+[14] = {
+3,
+},
+[5] = {
+13,
+},
+[6] = {
+24,
+27,
+},
+},
+{
+[14] = {
+10,
+1,
+11,
+2,
+},
+[13] = {
+1,
+9,
+},
+[15] = {
+1,
+5,
+4,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+25,
+26,
+28,
+},
+[17] = {
+1,
+},
+[14] = {
+4,
+5,
+6,
+},
+},
+{
+[6] = {
+29,
+},
+[24] = {
+6,
+2,
+8,
+3,
+1,
+4,
+5,
+7,
+},
+["color"] = "fffb3e",
+[14] = {
+7,
+8,
+9,
+},
+[23] = {
+1,
+},
+},
+},
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
 },
 [116] = {
 {
@@ -12763,6 +14859,43 @@ nil,
 ["uid"] = "UTLFFBPvf51",
 ["week"] = 1,
 ["wagoID"] = "drIFqCVFI",
+["colorPaletteInfo"] = {
+["colorPaletteIdx"] = 4,
+["autoColoring"] = true,
+},
+["text"] = "Tactyks PUG Friendly",
+["objects"] = {
+{
+["d"] = {
+358.78440067811,
+-343.89239285187,
+1,
+true,
+"Beware of Chef Chewie as he patrols around the room",
+},
+["n"] = true,
+},
+{
+["d"] = {
+452.41811545241,
+-140.47603349209,
+1,
+true,
+"Not pulling G25 and G27 gives you less space to fight this boss, so if you aren't pressed for time you can pull them to make the boss fight easier, but you'll be VERY over count.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+525.8248921305,
+-447.85696653702,
+1,
+true,
+"Jump over the railing here to avoid G41",
+},
+["n"] = true,
+},
+},
 ["value"] = {
 ["currentPull"] = 24,
 ["currentSublevel"] = 1,
@@ -12955,8 +15088,7 @@ nil,
 },
 [13] = {
 },
-[22] = {
-},
+["color"] = "ff3eff",
 [14] = {
 2,
 3,
@@ -12968,17 +15100,18 @@ nil,
 [12] = {
 11,
 },
-["color"] = "ff3eff",
+[22] = {
+},
 },
 {
 [21] = {
 2,
 1,
 },
-[23] = {
-},
 [17] = {
 1,
+},
+[23] = {
 },
 ["color"] = "3eff9e",
 },
@@ -13204,43 +15337,6 @@ nil,
 {
 },
 },
-},
-["text"] = "Tactyks PUG Friendly",
-["objects"] = {
-{
-["d"] = {
-358.78440067811,
--343.89239285187,
-1,
-true,
-"Beware of Chef Chewie as he patrols around the room",
-},
-["n"] = true,
-},
-{
-["d"] = {
-452.41811545241,
--140.47603349209,
-1,
-true,
-"Not pulling G25 and G27 gives you less space to fight this boss, so if you aren't pressed for time you can pull them to make the boss fight easier, but you'll be VERY over count.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-525.8248921305,
--447.85696653702,
-1,
-true,
-"Jump over the railing here to avoid G41",
-},
-["n"] = true,
-},
-},
-["colorPaletteInfo"] = {
-["colorPaletteIdx"] = 4,
-["autoColoring"] = true,
 },
 },
 {
@@ -14517,17 +16613,17 @@ nil,
 [2] = {
 27,
 },
+[5] = {
+31,
+30,
+34,
+},
+["color"] = "ff3eff",
 [9] = {
 7,
 8,
 10,
 11,
-},
-["color"] = "ff3eff",
-[5] = {
-31,
-30,
-34,
 },
 [16] = {
 1,
@@ -14794,6 +16890,11 @@ nil,
 {
 ["difficulty"] = 2,
 ["uid"] = "sTskgX3xej(",
+["colorPaletteInfo"] = {
+["colorPaletteIdx"] = 4,
+["autoColoring"] = true,
+},
+["wagoID"] = "hknAL92pp",
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
@@ -15012,13 +17113,13 @@ nil,
 [9] = {
 },
 ["color"] = "a1ff3e",
-[21] = {
+[11] = {
 },
 [22] = {
 },
 [23] = {
 },
-[11] = {
+[21] = {
 },
 },
 {
@@ -15160,25 +17261,20 @@ nil,
 },
 [15] = {
 },
-[30] = {
-1,
-2,
+[9] = {
 },
 ["color"] = "a1ff3e",
 [14] = {
 },
-[9] = {
+[30] = {
+1,
+2,
 },
 [27] = {
 1,
 },
 },
 },
-},
-["wagoID"] = "hknAL92pp",
-["colorPaletteInfo"] = {
-["colorPaletteIdx"] = 4,
-["autoColoring"] = true,
 },
 ["text"] = "Tactyks PUG Friendly",
 ["objects"] = {
@@ -15282,6 +17378,10 @@ true,
 },
 ["week"] = 6,
 ["uid"] = "U98Z1N3Xp8E",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -15384,12 +17484,12 @@ nil,
 8,
 },
 ["color"] = "3eff3e",
-[12] = {
-4,
-},
 [9] = {
 7,
 8,
+},
+[12] = {
+4,
 },
 },
 {
@@ -15397,11 +17497,11 @@ nil,
 11,
 },
 ["color"] = "ff3e9e",
-[12] = {
-8,
-},
 [9] = {
 12,
+},
+[12] = {
+8,
 },
 },
 {
@@ -15564,10 +17664,6 @@ nil,
 },
 },
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
 ["text"] = "Motherlode w/ Skip",
 ["mdi"] = {
 ["freehold"] = 1,
@@ -15607,14 +17703,827 @@ nil,
 },
 },
 },
+[123] = {
+{
+["difficulty"] = 10,
+["week"] = 1,
+["addonVersion"] = 556,
+["value"] = {
+["pulls"] = {
+{
+{
+3,
 },
+{
+4,
+},
+{
+2,
+7,
+4,
+5,
+3,
+6,
+11,
+8,
+9,
+10,
+},
+{
+1,
+},
+{
+1,
+},
+["color"] = "ff3eff",
+},
+{
+{
+4,
+5,
+6,
+},
+{
+6,
+5,
+},
+{
+},
+{
+2,
+3,
+},
+{
+},
+["color"] = "3eff9e",
+},
+{
+{
+11,
+10,
+},
+nil,
+{
+16,
+15,
+13,
+14,
+12,
+},
+{
+6,
+},
+{
+3,
+2,
+},
+["color"] = "ff3e3e",
+},
+{
+["color"] = "3e9eff",
+[6] = {
+},
+[15] = {
+1,
+},
+[18] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+8,
+7,
+9,
+},
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+[8] = {
+1,
+},
+["color"] = "fffb3e",
+[11] = {
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+3,
+},
+[9] = {
+1,
+2,
+3,
+4,
+},
+},
+{
+[8] = {
+3,
+2,
+},
+[6] = {
+4,
+},
+[9] = {
+5,
+6,
+},
+["color"] = "ff3e9e",
+},
+{
+["color"] = "3effff",
+[8] = {
+4,
+},
+[7] = {
+4,
+3,
+},
+[9] = {
+8,
+7,
+},
+},
+{
+[6] = {
+5,
+},
+[8] = {
+},
+[10] = {
+2,
+},
+["color"] = "ff9b3e",
+[9] = {
+9,
+10,
+},
+},
+{
+[8] = {
+6,
+5,
+19,
+},
+["color"] = "3e3eff",
+[7] = {
+11,
+12,
+},
+[9] = {
+12,
+11,
+},
+},
+{
+[8] = {
+20,
+7,
+},
+["color"] = "a1ff3e",
+[9] = {
+14,
+13,
+},
+[7] = {
+13,
+},
+},
+{
+[7] = {
+1,
+},
+[8] = {
+10,
+},
+[10] = {
+4,
+},
+["color"] = "ff3eff",
+[9] = {
+16,
+},
+},
+{
+["color"] = "3eff9e",
+[6] = {
+1,
+},
+[9] = {
+32,
+},
+[10] = {
+14,
+},
+},
+{
+["color"] = "ff3e3e",
+[16] = {
+1,
+},
+[20] = {
+1,
+},
+[19] = {
+1,
+},
+},
+{
+[11] = {
+1,
+},
+[10] = {
+5,
+},
+["color"] = "3e9eff",
+[9] = {
+19,
+},
+[12] = {
+1,
+},
+},
+{
+[11] = {
+2,
+},
+[7] = {
+5,
+},
+[8] = {
+13,
+},
+[10] = {
+},
+["color"] = "fffb3e",
+[9] = {
+20,
+},
+[12] = {
+},
+},
+{
+["color"] = "3eff3e",
+[10] = {
+6,
+7,
+},
+[9] = {
+21,
+22,
+},
+[12] = {
+2,
+4,
+3,
+},
+},
+{
+[11] = {
+4,
+},
+[10] = {
+10,
+1,
+},
+[12] = {
+6,
+7,
+},
+[9] = {
+23,
+},
+["color"] = "ff3e9e",
+},
+{
+[8] = {
+18,
+},
+[11] = {
+5,
+},
+[9] = {
+25,
+},
+["color"] = "3effff",
+},
+{
+["color"] = "ff9b3e",
+[10] = {
+11,
+},
+[9] = {
+24,
+},
+[11] = {
+6,
+},
+},
+{
+["color"] = "3e3eff",
+[17] = {
+1,
+},
+[11] = {
+},
+},
+},
+["currentPull"] = 6,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 123,
+["teeming"] = false,
+["selection"] = {
+6,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["uid"] = "rGTUjVPmc24",
+},
+{
+["difficulty"] = 12,
+["week"] = 1,
+["value"] = {
+["pulls"] = {
+{
+["color"] = "ff3eff",
+[5] = {
+3,
+2,
+},
+},
+{
+["color"] = "3eff9e",
+[15] = {
+1,
+},
+[18] = {
+1,
+2,
+4,
+3,
+},
+},
+{
+{
+7,
+8,
+9,
+},
+["color"] = "ff3e3e",
+[6] = {
+2,
+},
+[7] = {
+2,
+},
+[8] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[10] = {
+3,
+},
+[9] = {
+1,
+2,
+3,
+4,
+},
+},
+{
+[8] = {
+3,
+2,
+},
+[6] = {
+4,
+},
+[9] = {
+5,
+6,
+},
+["color"] = "fffb3e",
+},
+{
+["color"] = "3eff3e",
+[8] = {
+4,
+},
+[7] = {
+4,
+3,
+},
+[9] = {
+8,
+7,
+},
+},
+{
+["color"] = "ff3e9e",
+[6] = {
+5,
+},
+[9] = {
+9,
+10,
+},
+[10] = {
+2,
+},
+},
+{
+[8] = {
+5,
+6,
+19,
+},
+["color"] = "3effff",
+[7] = {
+11,
+12,
+},
+[9] = {
+12,
+11,
+},
+},
+{
+["color"] = "ff9b3e",
+[8] = {
+7,
+20,
+},
+[7] = {
+13,
+},
+[9] = {
+14,
+13,
+},
+},
+{
+[7] = {
+1,
+},
+[8] = {
+10,
+},
+[10] = {
+4,
+13,
+},
+["color"] = "3e3eff",
+[9] = {
+16,
+31,
+},
+},
+{
+[6] = {
+1,
+},
+[8] = {
+9,
+},
+[10] = {
+14,
+},
+["color"] = "a1ff3e",
+[9] = {
+32,
+15,
+},
+},
+{
+["color"] = "ff3eff",
+[16] = {
+1,
+},
+[20] = {
+1,
+},
+[19] = {
+1,
+},
+},
+{
+[11] = {
+1,
+},
+[10] = {
+5,
+},
+["color"] = "3eff9e",
+[9] = {
+19,
+},
+[12] = {
+1,
+},
+},
+{
+[11] = {
+2,
+},
+[7] = {
+5,
+},
+[8] = {
+13,
+},
+["color"] = "ff3e3e",
+[9] = {
+20,
+},
+[13] = {
+1,
+},
+},
+{
+["color"] = "3e9eff",
+[10] = {
+6,
+7,
+},
+[9] = {
+21,
+22,
+},
+[12] = {
+2,
+4,
+3,
+},
+},
+{
+[11] = {
+4,
+},
+[10] = {
+10,
+1,
+},
+[12] = {
+6,
+7,
+},
+[9] = {
+23,
+},
+["color"] = "fffb3e",
+},
+{
+[11] = {
+},
+[7] = {
+8,
+9,
+10,
+},
+[8] = {
+16,
+15,
+17,
+},
+[10] = {
+},
+["color"] = "3eff3e",
+[9] = {
+},
+[12] = {
+},
+},
+{
+[11] = {
+},
+[8] = {
+},
+[10] = {
+},
+["color"] = "ff3e9e",
+[9] = {
+},
+},
+{
+["color"] = "3effff",
+[10] = {
+12,
+},
+[12] = {
+8,
+},
+[9] = {
+26,
+30,
+29,
+},
+},
+{
+[11] = {
+5,
+6,
+},
+[8] = {
+18,
+},
+[10] = {
+11,
+},
+["color"] = "ff9b3e",
+[9] = {
+25,
+24,
+},
+},
+{
+["color"] = "3e3eff",
+[17] = {
+1,
+},
+},
+},
+["currentPull"] = 21,
+["currentSublevel"] = 1,
+["enemyAssignments"] = {
+},
+["currentDungeonIdx"] = 123,
+["teeming"] = false,
+["selection"] = {
+21,
+},
+["riftOffsets"] = {
+{
+},
+},
+},
+["text"] = "Warlock Gateskip",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["objects"] = {
+{
+["l"] = {
+"722.1",
+"-337.5",
+"722.0",
+"-339.7",
+"722.0",
+"-339.7",
+"721.9",
+"-342.0",
+"721.9",
+"-342.0",
+"721.8",
+"-344.2",
+"721.8",
+"-344.2",
+"721.6",
+"-346.3",
+"721.6",
+"-346.3",
+"721.6",
+"-348.5",
+"721.6",
+"-348.5",
+"721.5",
+"-350.7",
+"721.5",
+"-350.7",
+"721.4",
+"-352.9",
+"721.4",
+"-352.9",
+"721.2",
+"-355.1",
+"721.2",
+"-355.1",
+"721.1",
+"-357.3",
+"721.1",
+"-357.3",
+"721.0",
+"-359.5",
+"721.0",
+"-359.5",
+"720.8",
+"-361.8",
+"720.8",
+"-361.8",
+"720.8",
+"-364.0",
+"720.8",
+"-364.0",
+"720.7",
+"-366.2",
+"720.7",
+"-366.2",
+"720.6",
+"-368.4",
+"720.6",
+"-368.4",
+"720.4",
+"-370.6",
+"720.4",
+"-370.6",
+"720.3",
+"-372.8",
+"720.3",
+"-372.8",
+"720.2",
+"-375.0",
+"720.2",
+"-375.0",
+"720.1",
+"-377.2",
+"720.1",
+"-377.2",
+"720.0",
+"-379.4",
+"720.0",
+"-379.4",
+"719.9",
+"-381.6",
+"719.9",
+"-381.6",
+"719.8",
+"-383.8",
+"719.8",
+"-383.8",
+"719.7",
+"-385.7",
+},
+["d"] = {
+3,
+1.1,
+1,
+false,
+"fc544d",
+-8,
+true,
+},
+},
+{
+["n"] = true,
+["d"] = {
+727.0123895138076,
+-326.3178673019354,
+1,
+true,
+"Gate around here, aimed at the dome boundary",
+},
+},
+{
+["d"] = {
+11,
+1,
+1,
+true,
+"f936fc",
+-8,
+},
+["t"] = {
+1.386175382224601,
+},
+["l"] = {
+"723.5",
+"-331.9",
+"712.7",
+"-389.9",
+},
+},
+},
+},
+{
+["value"] = 0,
+["text"] = "<New Route>",
+},
+},
+},
+["scale"] = 1.131443552927928,
 ["toolbar"] = {
 ["color"] = {
-["b"] = 0.3019607961177826,
-["g"] = 0.3294117748737335,
-["r"] = 0.988235354423523,
+["b"] = 0.988235354423523,
+["g"] = 0.2117647230625153,
+["r"] = 0.9764706492424011,
 },
 },
+["currentDifficulty"] = 2,
 ["currentPreset"] = {
 nil,
 nil,
@@ -15624,20 +18533,26 @@ nil,
 nil,
 nil,
 2,
+[30] = 2,
+[37] = 3,
+[38] = 2,
 [102] = 6,
-[111] = 2,
-[113] = 2,
+[115] = 3,
 [116] = 2,
 [117] = 3,
 [119] = 2,
 [120] = 4,
+[123] = 2,
 },
-["currentDungeonIdx"] = 117,
-["version"] = 543,
-["xoffset"] = 151.1408538818359,
-["maximized"] = false,
-["latestDungeonSeen"] = 115,
-["yoffset"] = 11.79362773895264,
+["currentDungeonIdx"] = 30,
+["version"] = 564,
+["xoffset"] = -108.765754699707,
+["latestSeenDungeonList"] = 9,
+["minimap"] = {
+["minimapPos"] = 304.3254193684146,
+["showInCompartment"] = true,
+},
+["yoffset"] = -35.53034210205078,
 },
 ["profiles"] = {
 ["Doneer - Eredar"] = {
