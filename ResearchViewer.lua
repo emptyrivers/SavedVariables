@@ -1,0 +1,6 @@
+
+ResearchViewerDB = {
+["ldbOptions"] = {
+["hide"] = false,
+},
+}
