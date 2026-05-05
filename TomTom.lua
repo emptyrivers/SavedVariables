@@ -4,123 +4,145 @@ TomTomDB = {
 ["Calestin - Sargeras"] = "Default",
 ["Strid - Kel'Thuzad"] = "Default",
 ["Sverdrup - Argent Dawn"] = "Default",
-["Remaxxing - Kel'Thuzad"] = "Default",
-["Canerena - Arthas"] = "Default",
+["Virga - Kel'Thuzad"] = "Default",
 ["Beefyrivers - Thrall"] = "Default",
-["Yandanderex - Moon Guard"] = "Default",
 ["Serenerivers - Arthas"] = "Default",
-["Sacredrivers - Korgath"] = "Default",
-["Dammedrivers - Exodar"] = "Default",
-["Emptystreams - Argent Dawn"] = "Default",
 ["Weir - Kel'Thuzad"] = "Default",
-["Wildrivers - Korgath"] = "Default",
-["Crazyrivers - Bleeding Hollow"] = "Default",
-["Wildrivers - Bleeding Hollow"] = "Default",
 ["Aquifer - Kel'Thuzad"] = "Default",
-["Deadrivers - Korgath"] = "Default",
-["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Testrivers - Arthas"] = "Default",
-["Virga - Kel'Thuzad"] = "Default",
-["Luckyrivers - Sargeras"] = "Default",
-["Neva - Kel'Thuzad"] = "Default",
 ["Darick - Eredar"] = "Default",
-["Caladiir - Kel'Thuzad"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
-["Luckyrivers - Korgath"] = "Default",
-["Tinyrivers - Arthas"] = "Default",
+["Falls - Mal'Ganis"] = "Default",
 ["Shachein - Arthas"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Mahntaiaga - Arthas"] = "Default",
-["Crazyrivers - Arthas"] = "Default",
-["Asperos - Kel'Thuzad"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
-["Boringrivers - Korgath"] = "Default",
-["Boringrivers - Bleeding Hollow"] = "Default",
-["Rapidrivers - Arthas"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
-["Glaciers - Kel'Thuzad"] = "Default",
+["Notariver - Arthas"] = "Default",
+["Fjord - Mal'Ganis"] = "Default",
 ["Sneakyrivers - Korgath"] = "Default",
-["Dannius - Argent Dawn"] = "Default",
-["Serenerivers - Kel'Thuzad"] = "Default",
-["Ragingrivers - Arthas"] = "Default",
+["Mahntaiaga - Arthas"] = "Default",
 ["Geosmin - Kel'Thuzad"] = "Default",
 ["Toofattohide - Kel'Thuzad"] = "Default",
-["Serenerivers - Korgath"] = "Default",
+["Lather - Mal'Ganis"] = "Default",
 ["Kdajshtlaiuw - Bleeding Hollow"] = "Default",
-["Smaz - Mug'thol"] = "Default",
+["Mothugeon - Argent Dawn"] = "Default",
 ["Testes - Arthas"] = "Default",
 ["Daedrasminia - Arthas"] = "Default",
-["Riversticks - Bleeding Hollow"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
-["Imnotamonk - Korgath"] = "Default",
-["Bittydots - Korgath"] = "Default",
 ["Roberia - Eredar"] = "Default",
-["Estuary - Argent Dawn"] = "Default",
 ["Garumn - Arthas"] = "Default",
-["Loess - Kel'Thuzad"] = "Default",
 ["Dukasuka - Eredar"] = "Default",
 ["Stream - Argent Dawn"] = "Default",
-["Serenerivers - Bleeding Hollow"] = "Default",
-["Naturerivers - Korgath"] = "Default",
+["Cirque - Kel'Thuzad"] = "Default",
 ["Cascades - Kel'Thuzad"] = "Default",
-["Tinyrivers - Kel'Thuzad"] = "Default",
-["Ailisuul - Arthas"] = "Default",
-["Meander - Kel'Thuzad"] = "Default",
-["Gyre - Kel'Thuzad"] = "Default",
-["Temprivers - Kel'Thuzad"] = "Default",
-["Inundito - Kel'Thuzad"] = "Default",
-["Ochrian - Argent Dawn"] = "Default",
-["Emptyrivers - Korgath"] = "Default",
-["Flumes - Kel'Thuzad"] = "Default",
+["Doneer - Eredar"] = "Default",
+["Shoal - Kel'Thuzad"] = "Default",
 ["Blindrivers - Sargeras"] = "Default",
 ["Alluvium - Argent Dawn"] = "Default",
-["Hulyon - Kel'Thuzad"] = "Default",
 ["Testrivers - Bleeding Hollow"] = "Default",
-["Sassyrivers - Arthas"] = "Default",
-["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
-["Asperse - Kel'Thuzad"] = "Default",
-["Greedyrivers - Arthas"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
-["Benthos - Argent Dawn"] = "Default",
-["Emptyrivers - Arthas"] = "Default",
+["Blindrivers - Arthas"] = "Default",
+["Hulyon - Kel'Thuzad"] = "Default",
 ["Littlerivers - Kel'Thuzad"] = "Default",
 ["Alandere - Argent Dawn"] = "Default",
 ["Spicydremer - Korgath"] = "Default",
-["Hiddenrivers - Korgath"] = "Default",
+["Edgyrivers - Arthas"] = "Default",
+["Elakai - Korgath"] = "Default",
+["Beefyrivers - Arthas"] = "Default",
+["Serenerivers - Sargeras"] = "Default",
+["Luckyrivers - Korgath"] = "Default",
+["Mecharivers - Sargeras"] = "Default",
+["Emptyrivers - Bleeding Hollow"] = "Default",
+["Rivulet - Mal'Ganis"] = "Default",
+["Floe - Mal'Ganis"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
+["Remaxxing - Kel'Thuzad"] = "Default",
+["Canerena - Arthas"] = "Default",
+["Docks - Kel'Thuzad"] = "Default",
+["Treesurgeon - Korgath"] = "Default",
+["Yandanderex - Moon Guard"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
+["Dammedrivers - Exodar"] = "Default",
+["Emptystreams - Argent Dawn"] = "Default",
+["Wildrivers - Korgath"] = "Default",
+["Crazyrivers - Bleeding Hollow"] = "Default",
+["Wildrivers - Bleeding Hollow"] = "Default",
+["Moraine - Kel'Thuzad"] = "Default",
+["Gelae - Kel'Thuzad"] = "Default",
+["Brack - Mal'Ganis"] = "Default",
+["Luckyrivers - Sargeras"] = "Default",
+["Spume - Argent Dawn"] = "Default",
+["Boringrivers - Bleeding Hollow"] = "Default",
+["Cataracts - Argent Dawn"] = "Default",
+["Angryrivers - Korgath"] = "Default",
+["Baffle - Mal'Ganis"] = "Default",
+["Serenerivers - Korgath"] = "Default",
+["Riversticks - Bleeding Hollow"] = "Default",
+["Karst - Argent Dawn"] = "Default",
+["Slush - Mal'Ganis"] = "Default",
+["Skankyrivers - Arthas"] = "Default",
+["Estuary - Argent Dawn"] = "Default",
+["Boringrivers - Korgath"] = "Default",
+["Rapidrivers - Arthas"] = "Default",
+["Mire - Mal'Ganis"] = "Default",
+["Seep - Kel'Thuzad"] = "Default",
+["Ragingrivers - Arthas"] = "Default",
+["Naturerivers - Korgath"] = "Default",
+["Rapids - Argent Dawn"] = "Default",
+["Edgyrivers - Kel'Thuzad"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Glaciers - Kel'Thuzad"] = "Default",
+["Neva - Kel'Thuzad"] = "Default",
+["Mindrivers - Korgath"] = "Default",
+["Inundito - Kel'Thuzad"] = "Default",
+["Ochrian - Argent Dawn"] = "Default",
+["Serenerivers - Bleeding Hollow"] = "Default",
+["Flumes - Kel'Thuzad"] = "Default",
+["Rill - Kel'Thuzad"] = "Default",
+["Dannius - Argent Dawn"] = "Default",
+["Brook - Argent Dawn"] = "Default",
+["Serenerivers - Kel'Thuzad"] = "Default",
+["Sassyrivers - Arthas"] = "Default",
+["Headcut - Argent Dawn"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
+["Asperse - Kel'Thuzad"] = "Default",
+["Greedyrivers - Arthas"] = "Default",
+["Emptyrivers - Arthas"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
+["Bog - Kel'Thuzad"] = "Default",
+["Tinyrivers - Kel'Thuzad"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
+["Emptyrivers - Korgath"] = "Default",
+["Surge - Argent Dawn"] = "Default",
 ["Rosefin - Argent Dawn"] = "Default",
 ["Savattellir - Arthas"] = "Default",
-["Edgyrivers - Arthas"] = "Default",
-["Beefyrivers - Arthas"] = "Default",
-["Edgyrivers - Kel'Thuzad"] = "Default",
-["Elakai - Korgath"] = "Default",
+["Meander - Kel'Thuzad"] = "Default",
+["Gyre - Kel'Thuzad"] = "Default",
+["Dussrasande - Kel'Thuzad"] = "Default",
+["Bittydots - Korgath"] = "Default",
 ["Wildrivers - Arthas"] = "Default",
 ["Blindrivers - Korgath"] = "Default",
 ["Lotic - Argent Dawn"] = "Default",
 ["Evilrivers - Korgath"] = "Default",
-["Brightrivers - Korgath"] = "Default",
-["Blindrivers - Arthas"] = "Default",
+["Smaz - Mug'thol"] = "Default",
+["Temprivers - Kel'Thuzad"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
-["Shoal - Kel'Thuzad"] = "Default",
-["Serenerivers - Sargeras"] = "Default",
-["Mindrivers - Korgath"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
-["Mecharivers - Sargeras"] = "Default",
-["Dussrasande - Kel'Thuzad"] = "Default",
-["Doneer - Eredar"] = "Default",
-["Emptyrivers - Bleeding Hollow"] = "Default",
-["Skankyrivers - Arthas"] = "Default",
-["Karst - Argent Dawn"] = "Default",
+["Ailisuul - Arthas"] = "Default",
+["Hiddenrivers - Korgath"] = "Default",
+["Loess - Kel'Thuzad"] = "Default",
+["Crazyrivers - Arthas"] = "Default",
+["Imnotamonk - Korgath"] = "Default",
+["Brightrivers - Korgath"] = "Default",
+["Asperos - Kel'Thuzad"] = "Default",
+["Tinyrivers - Arthas"] = "Default",
+["Caladiir - Kel'Thuzad"] = "Default",
+["Deadrivers - Korgath"] = "Default",
 ["Evilrivers - Kel'Thuzad"] = "Default",
-["Angryrivers - Korgath"] = "Default",
+["Sacredrivers - Korgath"] = "Default",
 ["Wildeadoriah - The Scryers"] = "Default",
-["Notariver - Arthas"] = "Default",
+["Quag - Argent Dawn"] = "Default",
 ["Magicrivers - Korgath"] = "Default",
-["Treesurgeon - Korgath"] = "Default",
-["Tinyrivers - Sargeras"] = "Default",
-["Flumina - Argent Dawn"] = "Default",
 ["Mangrove - Argent Dawn"] = "Default",
+["Tinyrivers - Sargeras"] = "Default",
+["Geyser - Mal'Ganis"] = "Default",
+["Rime - Kel'Thuzad"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -151,6 +173,11 @@ nil,
 ["playerenable"] = false,
 ["cursorenable"] = false,
 },
+["paste"] = {
+["button"] = {
+["showInCompartment"] = true,
+},
+},
 ["block"] = {
 ["enable"] = false,
 },
@@ -165,20 +192,27 @@ TomTomWaypointsM = {
 ["Esker - Kel'Thuzad"] = "Default",
 ["Remaxxing - Kel'Thuzad"] = "Remaxxing - Kel'Thuzad",
 ["Canerena - Arthas"] = "Default",
+["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
 ["Mangrove - Argent Dawn"] = "Default",
 ["Flumina - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
+["Slush - Mal'Ganis"] = "Slush - Mal'Ganis",
 ["Aquifer - Kel'Thuzad"] = "Aquifer - Kel'Thuzad",
+["Moraine - Kel'Thuzad"] = "Moraine - Kel'Thuzad",
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Testrivers - Arthas"] = "Default",
 ["Luckyrivers - Sargeras"] = "Default",
 ["Darick - Eredar"] = "Darick - Eredar",
+["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Spume - Argent Dawn"] = "Spume - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Mahntaiaga - Arthas"] = "Default",
+["Baffle - Mal'Ganis"] = "Baffle - Mal'Ganis",
 ["Geosmin - Kel'Thuzad"] = "Geosmin - Kel'Thuzad",
 ["Asperos - Kel'Thuzad"] = "Default",
+["Lather - Mal'Ganis"] = "Lather - Mal'Ganis",
 ["Mothugeon - Argent Dawn"] = "Default",
 ["Daedrasminia - Arthas"] = "Default",
 ["Emptyrivers - Argent Dawn"] = "Default",
@@ -189,6 +223,7 @@ TomTomWaypointsM = {
 ["Loess - Kel'Thuzad"] = "Loess - Kel'Thuzad",
 ["Dukasuka - Eredar"] = "Dukasuka - Eredar",
 ["Stream - Argent Dawn"] = "Default",
+["Cirque - Kel'Thuzad"] = "Cirque - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Default",
 ["Cascades - Kel'Thuzad"] = "Cascades - Kel'Thuzad",
 ["Doneer - Eredar"] = "Default",
@@ -203,28 +238,42 @@ TomTomWaypointsM = {
 ["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
 ["Benthos - Argent Dawn"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
+["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
 ["Alandere - Argent Dawn"] = "Default",
+["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
+["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
 ["Savattellir - Arthas"] = "Default",
-["Lotic - Argent Dawn"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
 ["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
-["Emptyrivers - Sargeras"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
-["Ailisuul - Arthas"] = "Default",
-["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
-["Emptyrivers - Bleeding Hollow"] = "Default",
-["Emptystreams - Argent Dawn"] = "Default",
-["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
-["Evilrivers - Kel'Thuzad"] = "Default",
+["Quag - Argent Dawn"] = "Quag - Argent Dawn",
 ["Wildeadoriah - The Scryers"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
-["Zimuures - Argent Dawn"] = "Default",
-["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
-["Beefyrivers - Arthas"] = "Default",
-["Ragingrivers - Arthas"] = "Default",
+["Ailisuul - Arthas"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
 ["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Emptystreams - Argent Dawn"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
+["Beefyrivers - Arthas"] = "Default",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Emptyrivers - Sargeras"] = "Default",
+["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
+["Ragingrivers - Arthas"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
+["Emptyrivers - Bleeding Hollow"] = "Default",
+["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Default",
+["Evilrivers - Kel'Thuzad"] = "Default",
+["Brook - Argent Dawn"] = "Brook - Argent Dawn",
+["Riparium - Argent Dawn"] = "Default",
+["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
+["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
+["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
+["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
 },
 ["profiles"] = {
 ["Calestin - Sargeras"] = {
@@ -237,6 +286,8 @@ TomTomWaypointsM = {
 },
 ["Canerena - Arthas"] = {
 },
+["Docks - Kel'Thuzad"] = {
+},
 ["Mangrove - Argent Dawn"] = {
 },
 ["Flumina - Argent Dawn"] = {
@@ -245,7 +296,11 @@ TomTomWaypointsM = {
 },
 ["Weir - Kel'Thuzad"] = {
 },
+["Slush - Mal'Ganis"] = {
+},
 ["Aquifer - Kel'Thuzad"] = {
+},
+["Moraine - Kel'Thuzad"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
@@ -257,13 +312,21 @@ TomTomWaypointsM = {
 },
 ["Darick - Eredar"] = {
 },
+["Falls - Mal'Ganis"] = {
+},
+["Spume - Argent Dawn"] = {
+},
 ["Cataracts - Argent Dawn"] = {
 },
 ["Dannius - Argent Dawn"] = {
 },
+["Baffle - Mal'Ganis"] = {
+},
 ["Geosmin - Kel'Thuzad"] = {
 },
 ["Asperos - Kel'Thuzad"] = {
+},
+["Lather - Mal'Ganis"] = {
 },
 ["Mothugeon - Argent Dawn"] = {
 },
@@ -282,8 +345,8 @@ TomTomWaypointsM = {
 0.837,
 0.276,
 ["crazy"] = true,
-["minimap"] = true,
-["sourcePath"] = "npcID153297",
+["desc"] = "Retrieving data",
+["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
 ["arrivaldistance"] = 15,
 ["callbacks"] = {
 ["distance"] = {
@@ -293,16 +356,16 @@ TomTomWaypointsM = {
 ["world"] = {
 },
 },
-["from"] = "ATT",
+["minimap_displayID"] = 122197,
 ["persistent"] = true,
-["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
+["minimap"] = true,
 ["silent"] = true,
 ["cleardistance"] = 10,
-["title"] = "Ny'alotha Obelisk",
+["sourcePath"] = "npcID153297",
+["from"] = "ATT",
 ["worldmap_displayID"] = 122197,
-["minimap_displayID"] = 122197,
-["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["desc"] = "Retrieving data",
+["title"] = "Ny'alotha Obelisk",
+["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
 ["world"] = true,
 },
 ["1530:837000000:276000000:Retrieving data"] = {
@@ -476,22 +539,23 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [17] = {
 60.7,
 14.2,
 },
 ["quest"] = 28960,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [17] = {
 44.4,
 87.7,
 },
 ["quest"] = 28961,
-["side"] = 1,
 },
 {
+["side"] = 2,
 [17] = {
 40.5,
 11.4,
@@ -600,33 +664,33 @@ TomTomWaypointsM = {
 ["88,17"] = false,
 },
 ["quest"] = 28959,
-["side"] = 2,
 },
 {
 ["extra"] = 3,
+["side"] = 3,
 ["quest"] = 12404,
 [111] = {
 56.2,
 81.8,
-["101,111"] = {
-["y"] = 0.6877992153167725,
-["x"] = 0.4348621368408203,
+["108,111"] = {
+["y"] = 0.3295267224311829,
+["x"] = 0.3115153610706329,
 },
 ["100,111"] = {
 ["y"] = 1.064986109733582,
 ["x"] = 0.02680439129471779,
 },
-["108,111"] = {
-["y"] = 0.3295267224311829,
-["x"] = 0.3115153610706329,
+["107,111"] = {
+["y"] = 0.6048762202262878,
+["x"] = 0.8859148621559143,
 },
 ["109,111"] = {
 ["y"] = 2.056288480758667,
 ["x"] = 0.01474145520478487,
 },
-["107,111"] = {
-["y"] = 0.6048762202262878,
-["x"] = 0.8859148621559143,
+["101,111"] = {
+["y"] = 0.6877992153167725,
+["x"] = 0.4348621368408203,
 },
 ["102,111"] = {
 ["y"] = 1.229596138000488,
@@ -637,7 +701,6 @@ TomTomWaypointsM = {
 ["x"] = 0.634964644908905,
 },
 },
-["side"] = 3,
 },
 {
 ["extra"] = 3,
@@ -968,6 +1031,7 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
+["side"] = 3,
 [126] = {
 37.95,
 59.99,
@@ -1020,9 +1084,9 @@ TomTomWaypointsM = {
 ["63,126"] = false,
 },
 ["quest"] = 13472,
-["side"] = 3,
 },
 {
+["side"] = 2,
 [241] = {
 53.4,
 42.9,
@@ -1091,9 +1155,9 @@ TomTomWaypointsM = {
 ["198,241"] = false,
 },
 ["quest"] = 28973,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [241] = {
 45.1,
 76.7,
@@ -1162,9 +1226,9 @@ TomTomWaypointsM = {
 ["198,241"] = false,
 },
 ["quest"] = 28974,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [241] = {
 75.3,
 54.8,
@@ -1273,9 +1337,9 @@ TomTomWaypointsM = {
 ["198,241"] = false,
 },
 ["quest"] = 28975,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [241] = {
 75.4,
 16.5,
@@ -1344,39 +1408,38 @@ TomTomWaypointsM = {
 ["198,241"] = false,
 },
 ["quest"] = 28976,
-["side"] = 2,
 },
 {
+["side"] = 1,
 [241] = {
 60.4,
 58.2,
 },
 ["quest"] = 28977,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [241] = {
 49.6,
 30.4,
 },
 ["quest"] = 28978,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [241] = {
 43.6,
 57.3,
 },
 ["quest"] = 28979,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [241] = {
 79.5,
 78.5,
 },
 ["quest"] = 28980,
-["side"] = 1,
 },
 {
 [198] = {
@@ -1667,6 +1730,7 @@ TomTomWaypointsM = {
 ["style"] = 2,
 },
 {
+["side"] = 2,
 [418] = {
 28.25,
 50.74,
@@ -1738,7 +1802,6 @@ TomTomWaypointsM = {
 ["78,418"] = false,
 },
 ["quest"] = 32020,
-["side"] = 2,
 },
 {
 [392] = {
@@ -1749,6 +1812,7 @@ TomTomWaypointsM = {
 ["quest"] = 32022,
 },
 {
+["side"] = 3,
 [418] = {
 51.45,
 77.33,
@@ -1820,9 +1884,9 @@ TomTomWaypointsM = {
 ["78,418"] = false,
 },
 ["quest"] = 32034,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [418] = {
 75.96,
 6.96,
@@ -1894,9 +1958,9 @@ TomTomWaypointsM = {
 ["78,418"] = false,
 },
 ["quest"] = 32036,
-["side"] = 3,
 },
 {
+["side"] = 2,
 [418] = {
 61.03,
 25.14,
@@ -1968,7 +2032,6 @@ TomTomWaypointsM = {
 ["78,418"] = false,
 },
 ["quest"] = 32047,
-["side"] = 2,
 },
 {
 [393] = {
@@ -2008,7 +2071,7 @@ TomTomWaypointsM = {
 ["875,207"] = false,
 ["650,207"] = false,
 ["127,207"] = false,
-["14,207"] = false,
+["1,207"] = false,
 ["85,207"] = false,
 ["95,207"] = false,
 ["83,207"] = false,
@@ -2017,7 +2080,7 @@ TomTomWaypointsM = {
 ["376,207"] = false,
 ["120,207"] = false,
 ["199,207"] = false,
-["1,207"] = false,
+["424,207"] = false,
 ["70,207"] = false,
 ["619,207"] = false,
 ["49,207"] = false,
@@ -2033,7 +2096,7 @@ TomTomWaypointsM = {
 ["66,207"] = false,
 ["115,207"] = false,
 ["78,207"] = false,
-["424,207"] = false,
+["14,207"] = false,
 ["26,207"] = false,
 ["224,207"] = false,
 ["116,207"] = false,
@@ -2073,20 +2136,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [87] = {
 18.6,
 51.3,
 },
 ["quest"] = 12335,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [84] = {
 60.5,
 75.2,
 },
 ["quest"] = 12336,
-["side"] = 1,
 },
 {
 [48] = {
@@ -2105,28 +2168,28 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [56] = {
 10.8,
 60.9,
 },
 ["quest"] = 12343,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [47] = {
 73.9,
 44.4,
 },
 ["quest"] = 12344,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [26] = {
 14.2,
 44.7,
 },
 ["quest"] = 12351,
-["side"] = 1,
 },
 {
 [18] = {
@@ -2244,12 +2307,12 @@ TomTomWaypointsM = {
 ["style"] = 2,
 },
 {
+["side"] = 2,
 [90] = {
 67.7,
 37.9,
 },
 ["quest"] = 12368,
-["side"] = 2,
 },
 {
 [21] = {
@@ -2497,6 +2560,7 @@ TomTomWaypointsM = {
 ["quest"] = 12380,
 },
 {
+["side"] = 2,
 [50] = {
 37.3,
 51.7,
@@ -2597,7 +2661,6 @@ TomTomWaypointsM = {
 ["198,50"] = false,
 },
 ["quest"] = 12382,
-["side"] = 2,
 },
 {
 [51] = {
@@ -2683,6 +2746,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 2,
 [26] = {
 78.2,
 81.4,
@@ -2731,7 +2795,6 @@ TomTomWaypointsM = {
 ["71,26"] = false,
 },
 ["quest"] = 12387,
-["side"] = 2,
 },
 {
 [210] = {
@@ -2795,22 +2858,22 @@ TomTomWaypointsM = {
 ["y"] = 3.55862283706665,
 ["x"] = -0.304265171289444,
 },
-["37,210"] = {
-["y"] = 2.8164222240448,
-["x"] = 0.299907922744751,
+["241,210"] = {
+["y"] = 3.500355243682861,
+["x"] = -0.5562664866447449,
 },
 ["25,210"] = {
 ["y"] = 4.917149543762207,
 ["x"] = 0.2787685394287109,
 },
 ["69,210"] = false,
+["37,210"] = {
+["y"] = 2.8164222240448,
+["x"] = 0.299907922744751,
+},
 ["49,210"] = {
 ["y"] = 3.470877647399902,
 ["x"] = -0.7683338522911072,
-},
-["241,210"] = {
-["y"] = 3.500355243682861,
-["x"] = -0.5562664866447449,
 },
 ["65,210"] = false,
 ["2070,210"] = false,
@@ -2900,6 +2963,7 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 3,
 [15] = {
 65.9,
 35.8,
@@ -2968,17 +3032,17 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 28955,
-["side"] = 3,
 },
 {
+["side"] = 1,
 [15] = {
 20.9,
 56.2,
 },
 ["quest"] = 28956,
-["side"] = 1,
 },
 {
+["side"] = 2,
 [15] = {
 18.3,
 42.8,
@@ -3047,7 +3111,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 28957,
-["side"] = 2,
 },
 {
 [25] = {
@@ -3125,14 +3188,15 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [50] = {
 53.1,
 66.9,
 },
 ["quest"] = 28964,
-["side"] = 1,
 },
 {
+["side"] = 3,
 [32] = {
 39.4,
 66.1,
@@ -3221,7 +3285,6 @@ TomTomWaypointsM = {
 ["71,32"] = false,
 },
 ["quest"] = 28965,
-["side"] = 3,
 },
 {
 [21] = {
@@ -3439,22 +3502,22 @@ TomTomWaypointsM = {
 ["y"] = 2.974746942520142,
 ["x"] = -0.3768698573112488,
 },
-["37,210"] = {
-["y"] = 2.286685228347778,
-["x"] = 0.2339710891246796,
+["241,210"] = {
+["y"] = 3.151482820510864,
+["x"] = -0.5996859073638916,
 },
 ["25,210"] = {
 ["y"] = 4.538906097412109,
 ["x"] = 0.2317029982805252,
 },
 ["69,210"] = false,
+["37,210"] = {
+["y"] = 2.286685228347778,
+["x"] = 0.2339710891246796,
+},
 ["49,210"] = {
 ["y"] = 2.754892110824585,
 ["x"] = -0.8574263453483582,
-},
-["241,210"] = {
-["y"] = 3.151482820510864,
-["x"] = -0.5996859073638916,
 },
 ["65,210"] = false,
 ["2070,210"] = false,
@@ -3485,14 +3548,15 @@ TomTomWaypointsM = {
 ["quest"] = 28969,
 },
 {
+["side"] = 1,
 [26] = {
 66.2,
 44.4,
 },
 ["quest"] = 28970,
-["side"] = 1,
 },
 {
+["side"] = 2,
 [26] = {
 31.9,
 57.9,
@@ -3549,7 +3613,6 @@ TomTomWaypointsM = {
 ["71,26"] = false,
 },
 ["quest"] = 28971,
-["side"] = 2,
 },
 {
 [18] = {
@@ -3745,16 +3808,16 @@ TomTomWaypointsM = {
 ["x"] = -0.6692200303077698,
 },
 ["69,201"] = false,
-["37,201"] = {
-["y"] = -1.207905888557434,
-["x"] = -0.5067628026008606,
-},
+["198,201"] = false,
 ["83,201"] = false,
 ["25,201"] = {
 ["y"] = 2.043695688247681,
 ["x"] = -0.2970308363437653,
 },
-["63,201"] = false,
+["37,201"] = {
+["y"] = -1.207905888557434,
+["x"] = -0.5067628026008606,
+},
 ["71,201"] = false,
 ["21,201"] = {
 ["y"] = 2.43228816986084,
@@ -3800,7 +3863,7 @@ TomTomWaypointsM = {
 ["x"] = -0.05775569006800652,
 },
 ["199,201"] = false,
-["198,201"] = false,
+["63,201"] = false,
 ["70,201"] = false,
 ["66,201"] = false,
 },
@@ -3808,6 +3871,7 @@ TomTomWaypointsM = {
 ["quest"] = 28981,
 },
 {
+["side"] = 3,
 [205] = {
 49.2,
 41.9,
@@ -3916,17 +3980,17 @@ TomTomWaypointsM = {
 ["199,205"] = false,
 },
 ["quest"] = 28982,
-["side"] = 3,
 },
 {
+["side"] = 1,
 [205] = {
 49.7,
 57.4,
 },
 ["quest"] = 28983,
-["side"] = 1,
 },
 {
+["side"] = 2,
 [205] = {
 51.5,
 62.5,
@@ -4035,7 +4099,6 @@ TomTomWaypointsM = {
 ["199,205"] = false,
 },
 ["quest"] = 28984,
-["side"] = 2,
 },
 {
 [204] = {
@@ -4176,11 +4239,8 @@ TomTomWaypointsM = {
 ["x"] = 0.4866796135902405,
 },
 ["83,22"] = false,
-["26,22"] = {
-["y"] = -0.02880434691905975,
-["x"] = 0.02102143876254559,
-},
 ["94,22"] = false,
+["85,22"] = false,
 ["76,22"] = false,
 ["2070,22"] = false,
 ["22,22"] = {
@@ -4207,7 +4267,10 @@ TomTomWaypointsM = {
 ["78,22"] = false,
 ["88,22"] = false,
 ["69,22"] = false,
-["85,22"] = false,
+["26,22"] = {
+["y"] = -0.02880434691905975,
+["x"] = 0.02102143876254559,
+},
 ["95,22"] = false,
 ["65,22"] = false,
 ["64,22"] = false,
@@ -4224,20 +4287,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [56] = {
 26.1,
 25.9,
 },
 ["quest"] = 28990,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [56] = {
 58.1,
 39.2,
 },
 ["quest"] = 28991,
-["side"] = 1,
 },
 {
 [57] = {
@@ -4272,20 +4335,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [66] = {
 66.3,
 6.7,
 },
 ["quest"] = 12348,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [69] = {
 46.3,
 45.2,
 },
 ["quest"] = 12350,
-["side"] = 1,
 },
 {
 {
@@ -4372,6 +4435,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 2,
 [7] = {
 46.8,
 60.4,
@@ -4401,7 +4465,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12362,
-["side"] = 2,
 },
 {
 [85] = {
@@ -4612,6 +4675,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 2,
 [66] = {
 24.1,
 68.3,
@@ -4627,9 +4691,9 @@ TomTomWaypointsM = {
 ["y"] = 0.8889821171760559,
 ["x"] = -0.5130245685577393,
 },
-["69,66"] = {
-["y"] = -0.1664414256811142,
-["x"] = 0.3297602832317352,
+["81,66"] = {
+["y"] = -1.580573678016663,
+["x"] = -0.04102825000882149,
 },
 ["199,66"] = {
 ["y"] = 0.3641806542873383,
@@ -4643,9 +4707,9 @@ TomTomWaypointsM = {
 ["y"] = -0.8083570003509521,
 ["x"] = -0.8143567442893982,
 },
-["81,66"] = {
-["y"] = -1.580573678016663,
-["x"] = -0.04102825000882149,
+["70,66"] = {
+["y"] = -0.1250966191291809,
+["x"] = -0.7856830954551697,
 },
 ["78,66"] = {
 ["y"] = -1.772104620933533,
@@ -4655,9 +4719,9 @@ TomTomWaypointsM = {
 ["y"] = 1.071367025375366,
 ["x"] = -2.52279806137085,
 },
-["70,66"] = {
-["y"] = -0.1250966191291809,
-["x"] = -0.7856830954551697,
+["69,66"] = {
+["y"] = -0.1664414256811142,
+["x"] = 0.3297602832317352,
 },
 ["71,66"] = {
 ["y"] = -0.8683478236198425,
@@ -4673,9 +4737,9 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12381,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [69] = {
 74.8,
 45.1,
@@ -4733,7 +4797,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12386,
-["side"] = 2,
 },
 {
 [10] = {
@@ -4880,6 +4943,7 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
+["side"] = 3,
 [81] = {
 55.5,
 36.7,
@@ -4933,23 +4997,22 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12401,
-["side"] = 3,
 },
 {
+["side"] = 1,
 [62] = {
 50.8,
 18.8,
 },
 ["quest"] = 28951,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [69] = {
 51.1,
 17.8,
 },
 ["quest"] = 28952,
-["side"] = 1,
 },
 {
 [63] = {
@@ -5248,6 +5311,7 @@ TomTomWaypointsM = {
 ["quest"] = 28992,
 },
 {
+["side"] = 3,
 [66] = {
 56.8,
 50,
@@ -5263,9 +5327,9 @@ TomTomWaypointsM = {
 ["y"] = 0.7457867860794067,
 ["x"] = -0.2571631371974945,
 },
-["69,66"] = {
-["y"] = -0.2848480939865112,
-["x"] = 0.5412907600402832,
+["81,66"] = {
+["y"] = -1.78329598903656,
+["x"] = 0.3212235569953919,
 },
 ["199,66"] = {
 ["y"] = 0.2531620264053345,
@@ -5279,9 +5343,9 @@ TomTomWaypointsM = {
 ["y"] = -0.9953858256340027,
 ["x"] = -0.4802346229553223,
 },
-["81,66"] = {
-["y"] = -1.78329598903656,
-["x"] = 0.3212235569953919,
+["70,66"] = {
+["y"] = -0.2818443477153778,
+["x"] = -0.5056569576263428,
 },
 ["78,66"] = {
 ["y"] = -1.99451756477356,
@@ -5291,9 +5355,9 @@ TomTomWaypointsM = {
 ["y"] = 0.2829337120056152,
 ["x"] = -1.114283680915833,
 },
-["70,66"] = {
-["y"] = -0.2818443477153778,
-["x"] = -0.5056569576263428,
+["69,66"] = {
+["y"] = -0.2848480939865112,
+["x"] = 0.5412907600402832,
 },
 ["71,66"] = {
 ["y"] = -0.9824441075325012,
@@ -5309,7 +5373,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 28993,
-["side"] = 3,
 },
 {
 [77] = {
@@ -5392,6 +5455,7 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 2,
 [69] = {
 41.4,
 15.6,
@@ -5449,9 +5513,9 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 28996,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [69] = {
 52,
 47.7,
@@ -5509,7 +5573,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 28998,
-["side"] = 2,
 },
 {
 [10] = {
@@ -5568,6 +5631,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 2,
 [199] = {
 39.3,
 20.1,
@@ -5593,9 +5657,9 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 29004,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [199] = {
 40.7,
 69.3,
@@ -5625,31 +5689,30 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 29005,
-["side"] = 2,
 },
 {
+["side"] = 1,
 [199] = {
 39,
 11,
 },
 ["quest"] = 29006,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [199] = {
 65.6,
 46.6,
 },
 ["quest"] = 29007,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [199] = {
 49.1,
 68.5,
 },
 ["quest"] = 29008,
-["side"] = 1,
 },
 {
 [65] = {
@@ -5796,6 +5859,7 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
+["side"] = 3,
 [78] = {
 55.2,
 62.1,
@@ -5841,7 +5905,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 29018,
-["side"] = 3,
 },
 {
 [97] = {
@@ -5884,28 +5947,28 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [102] = {
 67.2,
 49,
 },
 ["quest"] = 12354,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [102] = {
 41.9,
 26.2,
 },
 ["quest"] = 12355,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [108] = {
 56.6,
 53.2,
 },
 ["quest"] = 12356,
-["side"] = 1,
 },
 {
 [107] = {
@@ -5916,20 +5979,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [105] = {
 35.8,
 63.8,
 },
 ["quest"] = 12358,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [105] = {
 61,
 68.1,
 },
 ["quest"] = 12359,
-["side"] = 1,
 },
 {
 [104] = {
@@ -5944,8 +6007,11 @@ TomTomWaypointsM = {
 43.7,
 71.1,
 ["18,94"] = false,
+["110,94"] = {
+["y"] = 1.792933821678162,
+["x"] = 0.1972622573375702,
+},
 ["76,94"] = false,
-["22,94"] = false,
 ["23,94"] = false,
 ["122,94"] = {
 ["y"] = 2.191110849380493,
@@ -5958,10 +6024,7 @@ TomTomWaypointsM = {
 },
 ["63,94"] = false,
 ["10,94"] = false,
-["110,94"] = {
-["y"] = 1.792933821678162,
-["x"] = 0.1972622573375702,
-},
+["22,94"] = false,
 ["12,94"] = false,
 ["85,94"] = false,
 ["95,94"] = {
@@ -6013,14 +6076,14 @@ TomTomWaypointsM = {
 },
 ["22,95"] = false,
 ["198,95"] = false,
-["64,95"] = false,
+["10,95"] = false,
 ["12,95"] = false,
 ["13,95"] = {
 ["y"] = 0.221500962972641,
 ["x"] = 0.5561720728874207,
 },
 ["71,95"] = false,
-["1,95"] = false,
+["64,95"] = false,
 ["63,95"] = false,
 ["199,95"] = false,
 ["2070,95"] = false,
@@ -6028,7 +6091,7 @@ TomTomWaypointsM = {
 ["81,95"] = false,
 ["66,95"] = false,
 ["83,95"] = false,
-["10,95"] = false,
+["1,95"] = false,
 ["95,95"] = {
 ["y"] = 0.3199998438358307,
 ["x"] = 0.486000120639801,
@@ -6068,6 +6131,7 @@ TomTomWaypointsM = {
 ["quest"] = 12389,
 },
 {
+["side"] = 2,
 [102] = {
 30.7,
 50.9,
@@ -6077,9 +6141,9 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12390,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [108] = {
 48.8,
 45.2,
@@ -6089,7 +6153,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12391,
-["side"] = 2,
 },
 {
 [107] = {
@@ -6108,6 +6171,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 2,
 [105] = {
 53.4,
 55.5,
@@ -6117,9 +6181,9 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12393,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [105] = {
 76.2,
 60.4,
@@ -6133,7 +6197,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12394,
-["side"] = 2,
 },
 {
 [104] = {
@@ -6148,6 +6211,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 3,
 [102] = {
 78.5,
 62.9,
@@ -6157,9 +6221,9 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12403,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [105] = {
 62.9,
 38.3,
@@ -6173,7 +6237,6 @@ TomTomWaypointsM = {
 },
 },
 ["quest"] = 12406,
-["side"] = 3,
 },
 {
 [109] = {
@@ -6439,7 +6502,7 @@ TomTomWaypointsM = {
 ["78,116"] = false,
 ["224,116"] = false,
 ["76,116"] = false,
-["94,116"] = false,
+["1,116"] = false,
 ["198,116"] = false,
 ["126,116"] = {
 ["y"] = 7.252313613891602,
@@ -6462,8 +6525,8 @@ TomTomWaypointsM = {
 ["y"] = 0.182095929980278,
 ["x"] = 0.5352049469947815,
 },
-["1,116"] = false,
 ["66,116"] = false,
+["94,116"] = false,
 ["81,116"] = false,
 },
 ["quest"] = 12946,
@@ -6513,7 +6576,7 @@ TomTomWaypointsM = {
 ["78,116"] = false,
 ["224,116"] = false,
 ["76,116"] = false,
-["94,116"] = false,
+["1,116"] = false,
 ["198,116"] = false,
 ["126,116"] = {
 ["y"] = 5.602469444274902,
@@ -6536,8 +6599,8 @@ TomTomWaypointsM = {
 ["y"] = 0.169719323515892,
 ["x"] = 0.5677551627159119,
 },
-["1,116"] = false,
 ["66,116"] = false,
+["94,116"] = false,
 ["81,116"] = false,
 },
 ["quest"] = 12947,
@@ -6590,17 +6653,17 @@ TomTomWaypointsM = {
 ["17,119"] = false,
 ["25,119"] = false,
 ["15,119"] = false,
+["81,119"] = false,
+["95,119"] = false,
+["65,119"] = false,
+["2070,119"] = false,
+["199,119"] = false,
 ["63,119"] = false,
+["71,119"] = false,
 ["127,119"] = {
 ["y"] = 0.5146360397338867,
 ["x"] = -1.587377667427063,
 },
-["65,119"] = false,
-["2070,119"] = false,
-["199,119"] = false,
-["69,119"] = false,
-["71,119"] = false,
-["83,119"] = false,
 ["85,119"] = false,
 ["12,119"] = false,
 ["22,119"] = false,
@@ -6612,8 +6675,8 @@ TomTomWaypointsM = {
 ["49,119"] = false,
 ["51,119"] = false,
 ["241,119"] = false,
-["95,119"] = false,
-["81,119"] = false,
+["83,119"] = false,
+["69,119"] = false,
 ["126,119"] = {
 ["y"] = 1.084205508232117,
 ["x"] = -8.611462593078613,
@@ -6626,44 +6689,44 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
+["side"] = 1,
 [117] = {
 58.4,
 62.8,
 },
 ["quest"] = 13433,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [117] = {
 30.8,
 41.5,
 },
 ["quest"] = 13434,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [117] = {
 60.5,
 15.9,
 },
 ["quest"] = 13435,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [114] = {
 58.5,
 67.9,
 },
 ["quest"] = 13436,
-["side"] = 1,
 },
 {
+["side"] = 1,
 [114] = {
 57.1,
 18.8,
 },
 ["quest"] = 13437,
-["side"] = 1,
 },
 {
 [115] = {
@@ -6682,14 +6745,15 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 1,
 [120] = {
 28.7,
 74.3,
 },
 ["quest"] = 13448,
-["side"] = 1,
 },
 {
+["side"] = 3,
 [117] = {
 25.4,
 59.8,
@@ -6765,7 +6829,6 @@ TomTomWaypointsM = {
 ["23,117"] = false,
 },
 ["quest"] = 13452,
-["side"] = 3,
 },
 {
 [115] = {
@@ -6928,6 +6991,7 @@ TomTomWaypointsM = {
 ["quest"] = 13459,
 },
 {
+["side"] = 3,
 [114] = {
 78.4,
 49.2,
@@ -7007,9 +7071,9 @@ TomTomWaypointsM = {
 ["199,114"] = false,
 },
 ["quest"] = 13460,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [120] = {
 41.1,
 85.9,
@@ -7073,9 +7137,9 @@ TomTomWaypointsM = {
 ["23,120"] = false,
 },
 ["quest"] = 13461,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [120] = {
 30.9,
 37.2,
@@ -7143,9 +7207,9 @@ TomTomWaypointsM = {
 ["23,120"] = false,
 },
 ["quest"] = 13462,
-["side"] = 3,
 },
 {
+["side"] = 2,
 [117] = {
 49.5,
 10.8,
@@ -7221,9 +7285,9 @@ TomTomWaypointsM = {
 ["23,117"] = false,
 },
 ["quest"] = 13464,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [117] = {
 52.1,
 66.2,
@@ -7299,9 +7363,9 @@ TomTomWaypointsM = {
 ["23,117"] = false,
 },
 ["quest"] = 13465,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [117] = {
 79.2,
 30.6,
@@ -7377,9 +7441,9 @@ TomTomWaypointsM = {
 ["23,117"] = false,
 },
 ["quest"] = 13466,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [114] = {
 76.7,
 37.4,
@@ -7459,9 +7523,9 @@ TomTomWaypointsM = {
 ["199,114"] = false,
 },
 ["quest"] = 13467,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [114] = {
 41.8,
 54.4,
@@ -7541,7 +7605,6 @@ TomTomWaypointsM = {
 ["199,114"] = false,
 },
 ["quest"] = 13468,
-["side"] = 2,
 },
 {
 [115] = {
@@ -7704,6 +7767,7 @@ TomTomWaypointsM = {
 ["quest"] = 13470,
 },
 {
+["side"] = 2,
 [120] = {
 67.6,
 50.6,
@@ -7771,7 +7835,6 @@ TomTomWaypointsM = {
 ["23,120"] = false,
 },
 ["quest"] = 13471,
-["side"] = 2,
 },
 {
 [125] = {
@@ -7837,6 +7900,7 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
+["side"] = 2,
 [114] = {
 49.7,
 10,
@@ -7916,9 +7980,9 @@ TomTomWaypointsM = {
 ["199,114"] = false,
 },
 ["quest"] = 13501,
-["side"] = 2,
 },
 {
+["side"] = 2,
 [120] = {
 37.1,
 49.6,
@@ -7986,7 +8050,6 @@ TomTomWaypointsM = {
 ["23,120"] = false,
 },
 ["quest"] = 13548,
-["side"] = 2,
 },
 {
 [371] = {
@@ -8203,6 +8266,7 @@ TomTomWaypointsM = {
 ["quest"] = 32024,
 },
 {
+["side"] = 3,
 [433] = {
 54.9,
 72.3,
@@ -8270,7 +8334,6 @@ TomTomWaypointsM = {
 ["14,433"] = false,
 },
 ["quest"] = 32026,
-["side"] = 3,
 },
 {
 [371] = {
@@ -8635,6 +8698,7 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
+["side"] = 3,
 [379] = {
 57.4,
 59.9,
@@ -8702,9 +8766,9 @@ TomTomWaypointsM = {
 ["21,379"] = false,
 },
 ["quest"] = 32037,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [379] = {
 72.7,
 92.2,
@@ -8772,21 +8836,21 @@ TomTomWaypointsM = {
 ["21,379"] = false,
 },
 ["quest"] = 32039,
-["side"] = 3,
 },
 {
+["side"] = 2,
 [379] = {
 62.7,
 80.5,
 ["117,379"] = false,
 ["15,379"] = false,
 ["13,379"] = false,
-["83,379"] = false,
+["113,379"] = false,
 ["424,379"] = {
 ["y"] = 0.4272822141647339,
 ["x"] = 0.5051306486129761,
 },
-["113,379"] = false,
+["65,379"] = false,
 ["224,379"] = false,
 ["116,379"] = false,
 ["379,379"] = {
@@ -8851,13 +8915,13 @@ TomTomWaypointsM = {
 ["125,379"] = false,
 ["85,379"] = false,
 ["95,379"] = false,
-["65,379"] = false,
+["83,379"] = false,
 ["21,379"] = false,
 },
 ["quest"] = 32040,
-["side"] = 2,
 },
 {
+["side"] = 3,
 [379] = {
 64.2,
 61.2,
@@ -8925,17 +8989,17 @@ TomTomWaypointsM = {
 ["21,379"] = false,
 },
 ["quest"] = 32041,
-["side"] = 3,
 },
 {
+["side"] = 1,
 [379] = {
 54.1,
 82.8,
 },
 ["quest"] = 32042,
-["side"] = 1,
 },
 {
+["side"] = 3,
 [388] = {
 71.1,
 57.8,
@@ -9003,7 +9067,6 @@ TomTomWaypointsM = {
 ["94,388"] = false,
 },
 ["quest"] = 32043,
-["side"] = 3,
 },
 {
 [1530] = {
@@ -9018,6 +9081,7 @@ TomTomWaypointsM = {
 ["quest"] = 32044,
 },
 {
+["side"] = 3,
 [376] = {
 19.8,
 55.7,
@@ -9085,9 +9149,9 @@ TomTomWaypointsM = {
 ["85,376"] = false,
 },
 ["quest"] = 32046,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [376] = {
 83.6,
 20.3,
@@ -9155,7 +9219,6 @@ TomTomWaypointsM = {
 ["85,376"] = false,
 },
 ["quest"] = 32048,
-["side"] = 3,
 },
 {
 [371] = {
@@ -9249,6 +9312,7 @@ TomTomWaypointsM = {
 ["quest"] = 32050,
 },
 {
+["side"] = 3,
 [379] = {
 62.3,
 29,
@@ -9316,21 +9380,21 @@ TomTomWaypointsM = {
 ["21,379"] = false,
 },
 ["quest"] = 32051,
-["side"] = 3,
 },
 {
 [590] = {
 47.5,
 37.8,
 },
+["side"] = 3,
 [582] = {
 44,
 52,
 },
 ["quest"] = 39657,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [627] = {
 48.1,
 41.3,
@@ -9360,8 +9424,8 @@ TomTomWaypointsM = {
 ["241,627"] = false,
 ["76,627"] = false,
 ["25,627"] = false,
-["14,627"] = false,
 ["26,627"] = false,
+["2070,627"] = false,
 ["36,627"] = false,
 ["198,627"] = false,
 ["95,627"] = false,
@@ -9377,7 +9441,7 @@ TomTomWaypointsM = {
 ["x"] = 0.4577274918556213,
 },
 ["70,627"] = false,
-["2070,627"] = false,
+["14,627"] = false,
 ["22,627"] = false,
 ["12,627"] = false,
 ["199,627"] = false,
@@ -9393,17 +9457,17 @@ TomTomWaypointsM = {
 ["379,627"] = false,
 },
 ["quest"] = 43055,
-["side"] = 3,
 },
 {
+["side"] = 1,
 [627] = {
 41.8,
 64.2,
 },
 ["quest"] = 43056,
-["side"] = 1,
 },
 {
+["side"] = 2,
 [627] = {
 66.8,
 30,
@@ -9425,7 +9489,7 @@ TomTomWaypointsM = {
 ["76,627"] = false,
 ["21,627"] = false,
 ["65,627"] = false,
-["84,627"] = false,
+["115,627"] = false,
 ["85,627"] = false,
 ["15,627"] = false,
 ["71,627"] = false,
@@ -9439,7 +9503,7 @@ TomTomWaypointsM = {
 ["120,627"] = false,
 ["424,627"] = false,
 ["198,627"] = false,
-["115,627"] = false,
+["50,627"] = false,
 ["127,627"] = false,
 ["947,627"] = {
 ["y"] = 0.4575163722038269,
@@ -9463,7 +9527,7 @@ TomTomWaypointsM = {
 ["83,627"] = false,
 ["64,627"] = false,
 ["241,627"] = false,
-["50,627"] = false,
+["84,627"] = false,
 ["619,627"] = {
 ["y"] = 0.6378007531166077,
 ["x"] = 0.4658996164798737,
@@ -9485,7 +9549,6 @@ TomTomWaypointsM = {
 ["379,627"] = false,
 },
 ["quest"] = 43057,
-["side"] = 2,
 },
 {
 ["extra"] = 3,
@@ -9510,29 +9573,30 @@ TomTomWaypointsM = {
 },
 {
 ["extra"] = 3,
+["side"] = 3,
 ["quest"] = 12404,
 [111] = {
 28.1,
 49,
-["101,111"] = {
-["y"] = 0.6632637977600098,
-["x"] = 0.4138450026512146,
+["108,111"] = {
+["y"] = 0.250184178352356,
+["x"] = 0.2435421347618103,
 },
 ["100,111"] = {
 ["y"] = 0.9820436239242554,
 ["x"] = -0.04426730424165726,
 },
-["108,111"] = {
-["y"] = 0.250184178352356,
-["x"] = 0.2435421347618103,
+["107,111"] = {
+["y"] = 0.5273288488388062,
+["x"] = 0.8194791674613953,
 },
 ["109,111"] = {
 ["y"] = 1.979436635971069,
 ["x"] = -0.05109813436865807,
 },
-["107,111"] = {
-["y"] = 0.5273288488388062,
-["x"] = 0.8194791674613953,
+["101,111"] = {
+["y"] = 0.6632637977600098,
+["x"] = 0.4138450026512146,
 },
 ["102,111"] = {
 ["y"] = 1.144385576248169,
@@ -9543,7 +9607,6 @@ TomTomWaypointsM = {
 ["x"] = 0.5673046112060547,
 },
 },
-["side"] = 3,
 },
 nil,
 {
@@ -9691,44 +9754,44 @@ nil,
 ["side"] = 3,
 },
 {
+["side"] = 3,
 [2024] = {
 47.03,
 40.26,
 },
 ["quest"] = 75667,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2024] = {
 62.78,
 57.73,
 },
 ["quest"] = 75668,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2024] = {
 12.38,
 49.34,
 },
 ["quest"] = 75669,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2024] = {
 65.5,
 16.25,
 },
 ["quest"] = 75670,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2024] = {
 18.81,
 24.55,
 },
 ["quest"] = 75671,
-["side"] = 3,
 },
 {
 [2151] = {
@@ -9916,60 +9979,60 @@ nil,
 ["side"] = 3,
 },
 {
+["side"] = 3,
 [2255] = {
 58.96,
 18.62,
 },
 ["quest"] = 84579,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2255] = {
 77.95,
 62.78,
 },
 ["quest"] = 84580,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2255] = {
 56.86,
 38.97,
 },
 ["quest"] = 84582,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2255] = {
 44.85,
 66.27,
 },
 ["quest"] = 84581,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2213] = {
 62.05,
 41.37,
 },
 ["quest"] = 84576,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2213] = {
 49.73,
 22.24,
 },
 ["quest"] = 84578,
-["side"] = 3,
 },
 {
+["side"] = 3,
 [2216] = {
 57.43,
 38.49,
 },
 ["quest"] = 84577,
-["side"] = 3,
 },
 {
 [2215] = {
@@ -10004,12 +10067,12 @@ nil,
 ["side"] = 3,
 },
 {
+["side"] = 3,
 [2339] = {
 45.01,
 47.31,
 },
 ["quest"] = 84564,
-["side"] = 3,
 },
 {
 [2248] = {
@@ -10068,6 +10131,7 @@ nil,
 "Interface\\GossipFrame\\GossipGossipIcon",
 },
 },
+["side"] = 2,
 [1163] = {
 50.71,
 82.3,
@@ -10141,11 +10205,12 @@ nil,
 ["15,1163"] = false,
 },
 ["quest"] = 54709,
-["side"] = 2,
 },
 ["world"] = true,
 },
 },
+},
+["Cirque - Kel'Thuzad"] = {
 },
 ["Naturerivers - Korgath"] = {
 },
@@ -10168,6 +10233,78 @@ nil,
 ["Headcut - Argent Dawn"] = {
 },
 ["Gyre - Kel'Thuzad"] = {
+[86] = {
+["86:640000000:599000000:Messenger Aelor"] = {
+86,
+0.64,
+0.599,
+["from"] = "ATT",
+["minimap"] = true,
+["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
+["arrivaldistance"] = 15,
+["callbacks"] = {
+["distance"] = {
+[10] = nil --[[ skipped inline function ]],
+[15] = nil --[[ skipped inline function ]],
+},
+["world"] = {
+["onclick"] = nil --[[ skipped inline function ]],
+["tooltip_show"] = nil --[[ skipped inline function ]],
+},
+["minimap"] = {
+["onclick"] = nil --[[ skipped inline function ]],
+["tooltip_show"] = nil --[[ skipped inline function ]],
+},
+},
+["minimap_displayID"] = 142161,
+["persistent"] = true,
+["desc"] = "Messenger Aelor",
+["silent"] = true,
+["cleardistance"] = 10,
+["sourcePath"] = "npcID257544",
+["worldmap_displayID"] = 142161,
+["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
+["crazy"] = true,
+["title"] = "Messenger Aelor",
+["world"] = true,
+},
+},
+[2339] = {
+["2339:444000000:503000000:Messenger Aelor"] = {
+2339,
+0.444,
+0.503,
+["from"] = "ATT",
+["minimap"] = true,
+["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
+["arrivaldistance"] = 15,
+["callbacks"] = {
+["distance"] = {
+[10] = nil --[[ skipped inline function ]],
+[15] = nil --[[ skipped inline function ]],
+},
+["world"] = {
+["onclick"] = nil --[[ skipped inline function ]],
+["tooltip_show"] = nil --[[ skipped inline function ]],
+},
+["minimap"] = {
+["onclick"] = nil --[[ skipped inline function ]],
+["tooltip_show"] = nil --[[ skipped inline function ]],
+},
+},
+["minimap_displayID"] = 142161,
+["persistent"] = true,
+["desc"] = "Messenger Aelor",
+["silent"] = true,
+["cleardistance"] = 10,
+["sourcePath"] = "npcID257544",
+["worldmap_displayID"] = 142161,
+["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
+["crazy"] = true,
+["title"] = "Messenger Aelor",
+["world"] = true,
+},
+},
 },
 ["Asperse - Kel'Thuzad"] = {
 },
@@ -10175,49 +10312,77 @@ nil,
 },
 ["Emptyrivers - Arthas"] = {
 },
+["Brack - Mal'Ganis"] = {
+},
 ["Alandere - Argent Dawn"] = {
+},
+["Fjord - Mal'Ganis"] = {
+},
+["Surge - Argent Dawn"] = {
 },
 ["Rosefin - Argent Dawn"] = {
 },
 ["Savattellir - Arthas"] = {
 },
-["Lotic - Argent Dawn"] = {
+["Mire - Mal'Ganis"] = {
 },
-["Saellindris - Kel'Thuzad"] = {
+["Bog - Kel'Thuzad"] = {
 },
-["Virga - Kel'Thuzad"] = {
+["Brook - Argent Dawn"] = {
 },
-["Ragingrivers - Arthas"] = {
+["Quag - Argent Dawn"] = {
+},
+["Riparium - Argent Dawn"] = {
 },
 ["Sverdrup - Argent Dawn"] = {
 },
-["Ailisuul - Arthas"] = {
+["Lotic - Argent Dawn"] = {
+},
+["Rill - Kel'Thuzad"] = {
+},
+["Mahntaiaga - Arthas"] = {
 },
 ["Dussrasande - Kel'Thuzad"] = {
 },
-["Emptyrivers - Bleeding Hollow"] = {
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Shoal - Kel'Thuzad"] = {
 },
 ["Glaciers - Kel'Thuzad"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
-},
-["Riparium - Argent Dawn"] = {
-},
-["Wildeadoriah - The Scryers"] = {
-},
 ["Emptystreams - Argent Dawn"] = {
-},
-["Confluence - Argent Dawn"] = {
-},
-["Zimuures - Argent Dawn"] = {
 },
 ["Emptyrivers - Sargeras"] = {
 },
+["Zimuures - Argent Dawn"] = {
+},
+["Ragingrivers - Arthas"] = {
+},
+["Confluence - Argent Dawn"] = {
+},
+["Emptyrivers - Bleeding Hollow"] = {
+},
+["Ailisuul - Arthas"] = {
+},
+["Virga - Kel'Thuzad"] = {
+},
+["Evilrivers - Kel'Thuzad"] = {
+},
 ["Beefyrivers - Arthas"] = {
 },
-["Mahntaiaga - Arthas"] = {
+["Wildeadoriah - The Scryers"] = {
+},
+["Rapids - Argent Dawn"] = {
+},
+["Rivulet - Mal'Ganis"] = {
+},
+["Seep - Kel'Thuzad"] = {
+},
+["Floe - Mal'Ganis"] = {
+},
+["Geyser - Mal'Ganis"] = {
+},
+["Rime - Kel'Thuzad"] = {
 },
 },
 }

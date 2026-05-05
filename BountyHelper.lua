@@ -57,18 +57,13 @@ BountyHelperDB = {
 },
 ["CLASS"] = "WARRIOR",
 },
-["Shoal-Kel'Thuzad"] = {
+["Asperse-Kel'Thuzad"] = {
 [1530] = {
 {
-[16] = 1763301670,
+[16] = 1763390016,
 },
 },
-[1676] = {
-{
-[16] = 1763301670,
-},
-},
-["CLASS"] = "WARLOCK",
+["CLASS"] = "PRIEST",
 },
 ["Flumes-Kel'Thuzad"] = {
 [1530] = {
@@ -91,13 +86,18 @@ BountyHelperDB = {
 },
 },
 },
-["Asperse-Kel'Thuzad"] = {
+["Shoal-Kel'Thuzad"] = {
 [1530] = {
 {
-[16] = 1763390016,
+[16] = 1763301670,
 },
 },
-["CLASS"] = "PRIEST",
+[1676] = {
+{
+[16] = 1763301670,
+},
+},
+["CLASS"] = "WARLOCK",
 },
 },
 ["hideIgnored"] = false,
@@ -106,8 +106,8 @@ BountyHelperDB = {
 ["ignoreList"] = {
 },
 ["hideRaids"] = false,
-["searchText"] = "",
 ["hideOwned"] = true,
+["searchText"] = "",
 ["hideDungeons"] = false,
 }
 dbBH = {

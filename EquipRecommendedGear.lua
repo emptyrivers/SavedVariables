@@ -1,6 +1,7 @@
 
 EquipRecommendedGear_Settings = {
-["runAfterQuest"] = false,
+["runAfterQuest"] = true,
 ["debug"] = false,
 ["chatMessage"] = 1,
+["includeWeapons"] = true,
 }

@@ -1,58 +1,80 @@
 
 MythicDungeonToolsDB = {
 ["profileKeys"] = {
-["Calestin - Sargeras"] = "Default",
-["Loess - Kel'Thuzad"] = "Loess - Kel'Thuzad",
+["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
 ["Strid - Kel'Thuzad"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
+["Esker - Kel'Thuzad"] = "Default",
 ["Remaxxing - Kel'Thuzad"] = "Remaxxing - Kel'Thuzad",
+["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
+["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
+["Mangrove - Argent Dawn"] = "Default",
+["Flumina - Argent Dawn"] = "Default",
+["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
+["Quag - Argent Dawn"] = "Quag - Argent Dawn",
+["Slush - Mal'Ganis"] = "Slush - Mal'Ganis",
+["Aquifer - Kel'Thuzad"] = "Aquifer - Kel'Thuzad",
+["Moraine - Kel'Thuzad"] = "Moraine - Kel'Thuzad",
+["Gelae - Kel'Thuzad"] = "Default",
+["Riptides - Argent Dawn"] = "Default",
+["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Darick - Eredar"] = "Darick - Eredar",
+["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Spume - Argent Dawn"] = "Spume - Argent Dawn",
+["Cataracts - Argent Dawn"] = "Default",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Baffle - Mal'Ganis"] = "Baffle - Mal'Ganis",
+["Geosmin - Kel'Thuzad"] = "Geosmin - Kel'Thuzad",
+["Asperos - Kel'Thuzad"] = "Default",
+["Lather - Mal'Ganis"] = "Lather - Mal'Ganis",
+["Mothugeon - Argent Dawn"] = "Default",
+["Emptyrivers - Argent Dawn"] = "Default",
+["Karst - Argent Dawn"] = "Default",
+["Roberia - Eredar"] = "Roberia - Eredar",
+["Estuary - Argent Dawn"] = "Default",
+["Loess - Kel'Thuzad"] = "Loess - Kel'Thuzad",
+["Dukasuka - Eredar"] = "Dukasuka - Eredar",
+["Stream - Argent Dawn"] = "Default",
+["Cirque - Kel'Thuzad"] = "Cirque - Kel'Thuzad",
 ["Naturerivers - Korgath"] = "Default",
 ["Cascades - Kel'Thuzad"] = "Cascades - Kel'Thuzad",
 ["Doneer - Eredar"] = "Default",
-["Mangrove - Argent Dawn"] = "Default",
+["Brook - Argent Dawn"] = "Brook - Argent Dawn",
 ["Temprivers - Kel'Thuzad"] = "Temprivers - Kel'Thuzad",
 ["Inundito - Kel'Thuzad"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
-["Emptystreams - Argent Dawn"] = "Default",
-["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
+["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
 ["Alluvium - Argent Dawn"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
-["Confluence - Argent Dawn"] = "Default",
-["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
-["Gelae - Kel'Thuzad"] = "Default",
-["Benthos - Argent Dawn"] = "Default",
-["Alandere - Argent Dawn"] = "Default",
-["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
-["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
-["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
-["Riptides - Argent Dawn"] = "Default",
-["Aquifer - Kel'Thuzad"] = "Aquifer - Kel'Thuzad",
-["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
-["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
-["Lotic - Argent Dawn"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
-["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
 ["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
-["Saellindris - Kel'Thuzad"] = "Default",
-["Cataracts - Argent Dawn"] = "Default",
-["Darick - Eredar"] = "Darick - Eredar",
-["Dukasuka - Eredar"] = "Dukasuka - Eredar",
-["Emptyrivers - Sargeras"] = "Default",
+["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
 ["Zimuures - Argent Dawn"] = "Default",
-["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
-["Geosmin - Kel'Thuzad"] = "Geosmin - Kel'Thuzad",
-["Asperos - Kel'Thuzad"] = "Default",
-["Flumina - Argent Dawn"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
-["Mothugeon - Argent Dawn"] = "Default",
-["Stream - Argent Dawn"] = "Default",
+["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
+["Alandere - Argent Dawn"] = "Default",
+["Surge - Argent Dawn"] = "Surge - Argent Dawn",
+["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
+["Lotic - Argent Dawn"] = "Default",
+["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
+["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Confluence - Argent Dawn"] = "Default",
+["Calestin - Sargeras"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Wildeadoriah - The Scryers"] = "Default",
+["Emptystreams - Argent Dawn"] = "Default",
+["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
+["Benthos - Argent Dawn"] = "Default",
+["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
+["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
 ["Riparium - Argent Dawn"] = "Default",
-["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
-["Emptyrivers - Argent Dawn"] = "Default",
-["Karst - Argent Dawn"] = "Default",
 ["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
-["Roberia - Eredar"] = "Roberia - Eredar",
-["Estuary - Argent Dawn"] = "Default",
+["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
+["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
+["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
 },
 ["global"] = {
 ["anchorTo"] = "CENTER",
@@ -121,11 +143,11 @@ MythicDungeonToolsDB = {
 },
 },
 ["anchorFrom"] = "CENTER",
-["latestDungeonSeen"] = 123,
+["latestDungeonSeen"] = 150,
 ["nonFullscreenScale"] = 1.131443552927928,
 ["MDI"] = {
 },
-["maximized"] = false,
+["latestSeenDungeonList"] = 9,
 ["presets"] = {
 {
 {
@@ -718,19 +740,19 @@ nil,
 [11] = {
 3,
 },
+["color"] = "fffb3e",
+[8] = {
+2,
+},
+[3] = {
+7,
+},
 [12] = {
 3,
 2,
 6,
 5,
 },
-[8] = {
-2,
-},
-[10] = {
-4,
-},
-["color"] = "fffb3e",
 [5] = {
 4,
 3,
@@ -738,8 +760,8 @@ nil,
 [9] = {
 4,
 },
-[3] = {
-7,
+[10] = {
+4,
 },
 },
 {
@@ -824,10 +846,6 @@ nil,
 5,
 },
 ["color"] = "a1ff3e",
-[4] = {
-},
-[12] = {
-},
 [14] = {
 28,
 27,
@@ -840,15 +858,19 @@ nil,
 13,
 15,
 },
+[12] = {
+},
+[4] = {
+},
 },
 {
 {
 },
 ["color"] = "ff3eff",
+[4] = {
+},
 [15] = {
 8,
-},
-[4] = {
 },
 [14] = {
 32,
@@ -1140,26 +1162,26 @@ nil,
 [24] = {
 3,
 },
-[16] = {
-7,
+[23] = {
+2,
 },
 [32] = {
 4,
 10,
 14,
 },
-[33] = {
-7,
-8,
-},
+["color"] = "a1ff3e",
 [14] = {
 7,
 8,
 },
-[23] = {
-2,
+[16] = {
+7,
 },
-["color"] = "a1ff3e",
+[33] = {
+7,
+8,
+},
 },
 {
 [20] = {
@@ -1293,16 +1315,16 @@ nil,
 [15] = {
 2,
 },
-["color"] = "3effff",
+[29] = {
+1,
+},
 [36] = {
 11,
 },
 [9] = {
 6,
 },
-[29] = {
-1,
-},
+["color"] = "3effff",
 },
 {
 {
@@ -1508,11 +1530,11 @@ nil,
 15,
 },
 ["color"] = "a1ff3e",
-[9] = {
-4,
-},
 [5] = {
 8,
+},
+[9] = {
+4,
 },
 [22] = {
 16,
@@ -2637,11 +2659,6 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -2880,11 +2897,11 @@ nil,
 34,
 35,
 },
-[12] = {
-11,
-},
 [4] = {
 23,
+},
+[12] = {
+11,
 },
 ["color"] = "ff3eff",
 },
@@ -2978,6 +2995,11 @@ nil,
 ["color"] = "ff9b3e",
 },
 },
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 ["uid"] = "fMoMDyw8Uis",
 },
@@ -7298,16 +7320,16 @@ true,
 },
 [10] = {
 },
+[23] = {
+},
+[11] = {
+},
+[22] = {
+},
 [12] = {
 },
 [21] = {
 1,
-},
-[22] = {
-},
-[23] = {
-},
-[11] = {
 },
 },
 {
@@ -7511,11 +7533,11 @@ nil,
 4,
 3,
 },
-[9] = {
-2,
-},
 [15] = {
 1,
+},
+[9] = {
+2,
 },
 },
 {
@@ -7641,16 +7663,9 @@ nil,
 [29] = {
 1,
 },
-[22] = {
-7,
-4,
-8,
-9,
-5,
-6,
-2,
-1,
+[6] = {
 3,
+2,
 },
 [20] = {
 1,
@@ -7662,9 +7677,16 @@ nil,
 1,
 2,
 },
-[6] = {
-3,
+[22] = {
+7,
+4,
+8,
+9,
+5,
+6,
 2,
+1,
+3,
 },
 [23] = {
 2,
@@ -7694,12 +7716,12 @@ nil,
 },
 ["currentPull"] = 8,
 ["currentSublevel"] = 1,
-["teeming"] = false,
-["currentDungeonIdx"] = 35,
 ["poiAssignments"] = {
 {
 },
 },
+["currentDungeonIdx"] = 35,
+["teeming"] = false,
 ["selection"] = {
 8,
 },
@@ -7810,6 +7832,11 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Raider.IO Weekly Route - Bunten",
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
@@ -7955,11 +7982,11 @@ nil,
 4,
 3,
 },
-[15] = {
-1,
-},
 [9] = {
 2,
+},
+[15] = {
+1,
 },
 ["color"] = "3effff",
 },
@@ -8171,11 +8198,6 @@ nil,
 },
 },
 },
-["text"] = "Raider.IO Weekly Route - Bunten",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
 ["uid"] = "STwEuLn4r)a",
 },
 {
@@ -8276,11 +8298,6 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -8530,6 +8547,11 @@ nil,
 ["color"] = "ff3e9e",
 },
 },
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 ["uid"] = "4yhAWdIoju(",
 },
@@ -8603,11 +8625,6 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "PUG-Friendly: Raider.IO's Weekly Route 2",
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -8857,6 +8874,11 @@ nil,
 ["color"] = "ff3e9e",
 },
 },
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route 2",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 ["uid"] = "V26RqDjg1Z1",
 },
@@ -8938,11 +8960,6 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -9224,6 +9241,11 @@ true,
 ["color"] = "ff3e3e",
 },
 },
+},
+["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 ["uid"] = "r4RL)hGeU3A",
 },
@@ -9970,10 +9992,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -10294,10 +10316,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -10618,10 +10640,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -10942,10 +10964,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -11266,10 +11288,10 @@ nil,
 [21] = {
 3,
 },
+["color"] = "ff3e3e",
 [12] = {
 2,
 },
-["color"] = "ff3e3e",
 [26] = {
 },
 [5] = {
@@ -12364,11 +12386,11 @@ nil,
 3,
 2,
 },
-[7] = {
-3,
-},
 [9] = {
 1,
+},
+[7] = {
+3,
 },
 },
 {
@@ -12677,12 +12699,12 @@ nil,
 [3] = {
 3,
 },
+[9] = {
+4,
+},
 [7] = {
 6,
 7,
-},
-[9] = {
-4,
 },
 },
 {
@@ -13295,6 +13317,11 @@ true,
 ["freeholdJoined"] = false,
 ["beguiling"] = 1,
 },
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Raider.IO Weekly Route - Bunten",
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
@@ -13348,11 +13375,6 @@ true,
 },
 },
 },
-},
-["text"] = "Raider.IO Weekly Route - Bunten",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
 },
 ["uid"] = "8mGwvfb1GXg",
 },
@@ -13554,6 +13576,13 @@ nil,
 ["difficulty"] = 10,
 ["uid"] = "4IsLGmijhU(",
 ["week"] = 1,
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
+["text"] = "Default 2",
+["objects"] = {
+},
 ["value"] = {
 ["currentPull"] = 5,
 ["currentSublevel"] = 1,
@@ -13828,13 +13857,6 @@ nil,
 },
 },
 },
-},
-["text"] = "Default 2",
-["objects"] = {
-},
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
 },
 },
 {
@@ -14213,10 +14235,6 @@ true,
 },
 ["week"] = 2,
 ["uid"] = "yZ9eYxDUGOE",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -14512,6 +14530,10 @@ true,
 },
 },
 },
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
 ["text"] = "PUG-Friendly: Raider.IO's Weekly Route",
 ["mdi"] = {
 ["freehold"] = 1,
@@ -14524,13 +14546,6 @@ true,
 ["difficulty"] = 12,
 ["uid"] = "wjw)KTyrIRA",
 ["week"] = 1,
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
-["text"] = "Prio",
-["objects"] = {
-},
 ["value"] = {
 ["currentPull"] = 16,
 ["currentSublevel"] = 1,
@@ -14825,6 +14840,13 @@ true,
 },
 },
 },
+["text"] = "Prio",
+["objects"] = {
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
+},
 },
 {
 ["value"] = 0,
@@ -14859,43 +14881,6 @@ true,
 ["uid"] = "UTLFFBPvf51",
 ["week"] = 1,
 ["wagoID"] = "drIFqCVFI",
-["colorPaletteInfo"] = {
-["colorPaletteIdx"] = 4,
-["autoColoring"] = true,
-},
-["text"] = "Tactyks PUG Friendly",
-["objects"] = {
-{
-["d"] = {
-358.78440067811,
--343.89239285187,
-1,
-true,
-"Beware of Chef Chewie as he patrols around the room",
-},
-["n"] = true,
-},
-{
-["d"] = {
-452.41811545241,
--140.47603349209,
-1,
-true,
-"Not pulling G25 and G27 gives you less space to fight this boss, so if you aren't pressed for time you can pull them to make the boss fight easier, but you'll be VERY over count.",
-},
-["n"] = true,
-},
-{
-["d"] = {
-525.8248921305,
--447.85696653702,
-1,
-true,
-"Jump over the railing here to avoid G41",
-},
-["n"] = true,
-},
-},
 ["value"] = {
 ["currentPull"] = 24,
 ["currentSublevel"] = 1,
@@ -15088,7 +15073,8 @@ nil,
 },
 [13] = {
 },
-["color"] = "ff3eff",
+[22] = {
+},
 [14] = {
 2,
 3,
@@ -15100,18 +15086,17 @@ nil,
 [12] = {
 11,
 },
-[22] = {
-},
+["color"] = "ff3eff",
 },
 {
 [21] = {
 2,
 1,
 },
+[23] = {
+},
 [17] = {
 1,
-},
-[23] = {
 },
 ["color"] = "3eff9e",
 },
@@ -15337,6 +15322,43 @@ nil,
 {
 },
 },
+},
+["text"] = "Tactyks PUG Friendly",
+["objects"] = {
+{
+["d"] = {
+358.78440067811,
+-343.89239285187,
+1,
+true,
+"Beware of Chef Chewie as he patrols around the room",
+},
+["n"] = true,
+},
+{
+["d"] = {
+452.41811545241,
+-140.47603349209,
+1,
+true,
+"Not pulling G25 and G27 gives you less space to fight this boss, so if you aren't pressed for time you can pull them to make the boss fight easier, but you'll be VERY over count.",
+},
+["n"] = true,
+},
+{
+["d"] = {
+525.8248921305,
+-447.85696653702,
+1,
+true,
+"Jump over the railing here to avoid G41",
+},
+["n"] = true,
+},
+},
+["colorPaletteInfo"] = {
+["colorPaletteIdx"] = 4,
+["autoColoring"] = true,
 },
 },
 {
@@ -16613,17 +16635,17 @@ nil,
 [2] = {
 27,
 },
-[5] = {
-31,
-30,
-34,
-},
-["color"] = "ff3eff",
 [9] = {
 7,
 8,
 10,
 11,
+},
+["color"] = "ff3eff",
+[5] = {
+31,
+30,
+34,
 },
 [16] = {
 1,
@@ -16890,11 +16912,6 @@ nil,
 {
 ["difficulty"] = 2,
 ["uid"] = "sTskgX3xej(",
-["colorPaletteInfo"] = {
-["colorPaletteIdx"] = 4,
-["autoColoring"] = true,
-},
-["wagoID"] = "hknAL92pp",
 ["value"] = {
 ["currentPull"] = 3,
 ["currentSublevel"] = 1,
@@ -17113,13 +17130,13 @@ nil,
 [9] = {
 },
 ["color"] = "a1ff3e",
-[11] = {
+[21] = {
 },
 [22] = {
 },
 [23] = {
 },
-[21] = {
+[11] = {
 },
 },
 {
@@ -17261,20 +17278,25 @@ nil,
 },
 [15] = {
 },
-[9] = {
+[30] = {
+1,
+2,
 },
 ["color"] = "a1ff3e",
 [14] = {
 },
-[30] = {
-1,
-2,
+[9] = {
 },
 [27] = {
 1,
 },
 },
 },
+},
+["wagoID"] = "hknAL92pp",
+["colorPaletteInfo"] = {
+["colorPaletteIdx"] = 4,
+["autoColoring"] = true,
 },
 ["text"] = "Tactyks PUG Friendly",
 ["objects"] = {
@@ -17378,10 +17400,6 @@ true,
 },
 ["week"] = 6,
 ["uid"] = "U98Z1N3Xp8E",
-["colorPaletteInfo"] = {
-["autoColoring"] = true,
-["colorPaletteIdx"] = 4,
-},
 ["value"] = {
 ["currentPull"] = 1,
 ["currentSublevel"] = 1,
@@ -17484,12 +17502,12 @@ nil,
 8,
 },
 ["color"] = "3eff3e",
+[12] = {
+4,
+},
 [9] = {
 7,
 8,
-},
-[12] = {
-4,
 },
 },
 {
@@ -17497,11 +17515,11 @@ nil,
 11,
 },
 ["color"] = "ff3e9e",
-[9] = {
-12,
-},
 [12] = {
 8,
+},
+[9] = {
+12,
 },
 },
 {
@@ -17663,6 +17681,10 @@ nil,
 [6] = {
 },
 },
+},
+["colorPaletteInfo"] = {
+["autoColoring"] = true,
+["colorPaletteIdx"] = 4,
 },
 ["text"] = "Motherlode w/ Skip",
 ["mdi"] = {
@@ -17843,13 +17865,13 @@ nil,
 [8] = {
 4,
 },
-[7] = {
-4,
-3,
-},
 [9] = {
 8,
 7,
+},
+[7] = {
+4,
+3,
 },
 },
 {
@@ -17874,13 +17896,13 @@ nil,
 19,
 },
 ["color"] = "3e3eff",
-[7] = {
-11,
-12,
-},
 [9] = {
 12,
 11,
+},
+[7] = {
+11,
+12,
 },
 },
 {
@@ -17889,11 +17911,11 @@ nil,
 7,
 },
 ["color"] = "a1ff3e",
-[9] = {
-14,
+[7] = {
 13,
 },
-[7] = {
+[9] = {
+14,
 13,
 },
 },
@@ -18124,13 +18146,13 @@ nil,
 [8] = {
 4,
 },
-[7] = {
-4,
-3,
-},
 [9] = {
 8,
 7,
+},
+[7] = {
+4,
+3,
 },
 },
 {
@@ -18153,13 +18175,13 @@ nil,
 19,
 },
 ["color"] = "3effff",
-[7] = {
-11,
-12,
-},
 [9] = {
 12,
 11,
+},
+[7] = {
+11,
+12,
 },
 },
 {
@@ -18168,11 +18190,11 @@ nil,
 7,
 20,
 },
-[7] = {
-13,
-},
 [9] = {
 14,
+13,
+},
+[7] = {
 13,
 },
 },
@@ -18514,8 +18536,27 @@ true,
 ["text"] = "<New Route>",
 },
 },
+[150] = {
+{
+["difficulty"] = 2,
+["week"] = 1,
+["value"] = {
+["currentPull"] = 1,
+["currentSublevel"] = 1,
+["currentDungeonIdx"] = 150,
+["selection"] = {
+1,
 },
-["scale"] = 1.131443552927928,
+["pulls"] = {
+{
+["color"] = "ff3eff",
+},
+},
+},
+},
+},
+},
+["currentDifficulty"] = 2,
 ["toolbar"] = {
 ["color"] = {
 ["b"] = 0.988235354423523,
@@ -18523,7 +18564,14 @@ true,
 ["r"] = 0.9764706492424011,
 },
 },
-["currentDifficulty"] = 2,
+["minimap"] = {
+["minimapPos"] = 304.3254193684146,
+["showInCompartment"] = true,
+},
+["maximized"] = false,
+["version"] = 611,
+["xoffset"] = -108.765754699707,
+["scale"] = 1.131443552927928,
 ["currentPreset"] = {
 nil,
 nil,
@@ -18543,14 +18591,6 @@ nil,
 [119] = 2,
 [120] = 4,
 [123] = 2,
-},
-["currentDungeonIdx"] = 30,
-["version"] = 564,
-["xoffset"] = -108.765754699707,
-["latestSeenDungeonList"] = 9,
-["minimap"] = {
-["minimapPos"] = 304.3254193684146,
-["showInCompartment"] = true,
 },
 ["yoffset"] = -35.53034210205078,
 },

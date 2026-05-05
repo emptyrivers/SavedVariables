@@ -551,10 +551,6 @@ BetterAddonListDB = {
 ["WeakAuras"] = true,
 ["TSM"] = true,
 },
-["!Combat"] = {
-["Macros"] = true,
-["Talents"] = true,
-},
 ["WeakAuras"] = {
 ["Development"] = true,
 },
@@ -562,6 +558,10 @@ BetterAddonListDB = {
 ["Altoholic"] = true,
 ["Talents"] = true,
 ["Macros"] = true,
+},
+["!Combat"] = {
+["Macros"] = true,
+["Talents"] = true,
 },
 },
 ["protected"] = {

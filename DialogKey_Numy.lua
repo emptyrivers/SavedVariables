@@ -15,17 +15,18 @@ DialogKeyNumyDB = {
 },
 ["ignoreDisabledButtons"] = false,
 ["dontClickSummons"] = true,
-["useSoulstoneRez"] = false,
+["dialogBlacklist"] = {
+},
+["numKeysForGossip"] = true,
 ["dontClickRevives"] = false,
 ["numKeysForPlayerChoice"] = true,
 ["ignoreInProgressQuests"] = true,
 ["handleSpecFrame"] = true,
 ["dontClickDuels"] = true,
 ["dontAcceptInstanceLocks"] = false,
+["useSoulstoneRez"] = false,
 ["handleCraftingOrders"] = true,
-["numKeysForGossip"] = true,
 ["riskyNumKeysForGossip"] = true,
 ["dontClickReleases"] = false,
-["dialogBlacklist"] = {
-},
+["treatNumpadAsNumbers"] = true,
 }

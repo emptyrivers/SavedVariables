@@ -1,6 +1,6 @@
 
 TomeOfTele_OptionsGlobal = {
-["scale"] = 1.5,
+["scale"] = 1.3,
 ["hideConsumable"] = true,
 ["extraSpellsAndItems"] = {
 },
@@ -11,23 +11,24 @@ TomeOfTele_OptionsGlobal = {
 "TOP",
 nil,
 "TOP",
-21.86668968200684,
--88.35211181640625,
+-152.1065979003906,
+-35.01889038085938,
 },
 },
-["theme"] = "Default",
+["theme"] = "Flat",
 ["hideSpells"] = true,
 ["groupRaids"] = true,
 ["showInWrongZone"] = false,
 ["favourites"] = {
 },
 ["hideItems"] = false,
+["hideChallenge"] = false,
 ["sortOrder"] = {
 },
-["groupDungeons"] = true,
-["hideChallenge"] = true,
+["groupDungeons"] = false,
 ["showDungeonNames"] = true,
-["heightScalePercent"] = 100,
+["heightScalePercent"] = 250,
+["sort"] = 3,
 ["randomHearth"] = true,
 ["alwaysShowSpells"] = {
 },
