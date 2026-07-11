@@ -34,6 +34,12 @@ BountyHelperDB = {
 [16] = 1765632284,
 },
 },
+["CLASS"] = "DEMONHUNTER",
+[1676] = {
+{
+[16] = 1765632284,
+},
+},
 [1712] = {
 {
 [16] = 1765632284,
@@ -42,12 +48,19 @@ BountyHelperDB = {
 [16] = 1765632284,
 },
 },
-["CLASS"] = "DEMONHUNTER",
+},
+["Shoal-Kel'Thuzad"] = {
+[1530] = {
+{
+[16] = 1763301670,
+},
+},
 [1676] = {
 {
-[16] = 1765632284,
+[16] = 1763301670,
 },
 },
+["CLASS"] = "WARLOCK",
 },
 ["Glaciers-Kel'Thuzad"] = {
 [1530] = {
@@ -71,6 +84,12 @@ BountyHelperDB = {
 [16] = 1764854633,
 },
 },
+["CLASS"] = "SHAMAN",
+[1676] = {
+{
+[16] = 1764854633,
+},
+},
 [1712] = {
 {
 [16] = 1764854633,
@@ -79,25 +98,17 @@ BountyHelperDB = {
 [16] = 1764854633,
 },
 },
-["CLASS"] = "SHAMAN",
-[1676] = {
+},
+["Gyre-Kel'Thuzad"] = {
+[2549] = {
 {
-[16] = 1764854633,
+[16] = 1779194731,
 },
-},
-},
-["Shoal-Kel'Thuzad"] = {
-[1530] = {
 {
-[16] = 1763301670,
+[16] = 1779194731,
 },
 },
-[1676] = {
-{
-[16] = 1763301670,
-},
-},
-["CLASS"] = "WARLOCK",
+["CLASS"] = "DEATHKNIGHT",
 },
 },
 ["hideIgnored"] = false,
@@ -106,8 +117,8 @@ BountyHelperDB = {
 ["ignoreList"] = {
 },
 ["hideRaids"] = false,
-["hideOwned"] = true,
 ["searchText"] = "",
+["hideOwned"] = true,
 ["hideDungeons"] = false,
 }
 dbBH = {

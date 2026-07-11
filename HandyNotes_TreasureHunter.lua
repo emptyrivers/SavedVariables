@@ -8,6 +8,7 @@ HandyNotes_TreasureHunterDB = {
 ["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 ["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
 ["Mangrove - Argent Dawn"] = "Default",
+["Bwaagh - Feathermoon"] = "Bwaagh - Feathermoon",
 ["Flumina - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
@@ -17,8 +18,10 @@ HandyNotes_TreasureHunterDB = {
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
 ["Darick - Eredar"] = "Darick - Eredar",
 ["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
 ["Spume - Argent Dawn"] = "Spume - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
@@ -49,25 +52,31 @@ HandyNotes_TreasureHunterDB = {
 ["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
 ["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Default",
+["Quag - Argent Dawn"] = "Quag - Argent Dawn",
+["Brook - Argent Dawn"] = "Brook - Argent Dawn",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
 ["Saellindris - Kel'Thuzad"] = "Default",
+["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
+["Calestin - Sargeras"] = "Default",
 ["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
 ["Emptyrivers - Sargeras"] = "Default",
-["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
-["Sverdrup - Argent Dawn"] = "Default",
-["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
-["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
 ["Wildeadoriah - The Scryers"] = "Default",
-["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
-["Confluence - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
 ["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Confluence - Argent Dawn"] = "Default",
+["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Brine - Argent Dawn"] = "Brine - Argent Dawn",
 ["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
-["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
-["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
-["Calestin - Sargeras"] = "Default",
 ["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Levee - Argent Dawn"] = "Levee - Argent Dawn",
 },
 ["profiles"] = {
 ["Seep - Kel'Thuzad"] = {
@@ -83,6 +92,8 @@ HandyNotes_TreasureHunterDB = {
 ["Docks - Kel'Thuzad"] = {
 },
 ["Mangrove - Argent Dawn"] = {
+},
+["Bwaagh - Feathermoon"] = {
 },
 ["Flumina - Argent Dawn"] = {
 },
@@ -102,9 +113,13 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Brack - Mal'Ganis"] = {
 },
+["Talamahyn - Kel'Thuzad"] = {
+},
 ["Darick - Eredar"] = {
 },
 ["Falls - Mal'Ganis"] = {
+},
+["Fathom - Argent Dawn"] = {
 },
 ["Spume - Argent Dawn"] = {
 },
@@ -172,6 +187,8 @@ HandyNotes_TreasureHunterDB = {
 },
 ["Rosefin - Argent Dawn"] = {
 },
+["Bayou - Kel'Thuzad"] = {
+},
 ["Lotic - Argent Dawn"] = {
 ["groupsHidden"] = {
 ["junk"] = true,
@@ -182,13 +199,35 @@ HandyNotes_TreasureHunterDB = {
 [10053] = true,
 },
 },
+["Quag - Argent Dawn"] = {
+},
+["Brook - Argent Dawn"] = {
+},
+["Meander - Kel'Thuzad"] = {
+},
 ["Saellindris - Kel'Thuzad"] = {
+},
+["Calestin - Sargeras"] = {
+},
+["Neva - Kel'Thuzad"] = {
 },
 ["Cataracts - Argent Dawn"] = {
 },
 ["Emptyrivers - Sargeras"] = {
 },
-["Calestin - Sargeras"] = {
+["Bwaagh - Mal'Ganis"] = {
+},
+["Riparium - Argent Dawn"] = {
+},
+["Mire - Mal'Ganis"] = {
+},
+["Flumes - Kel'Thuzad"] = {
+},
+["Geyser - Mal'Ganis"] = {
+},
+["Confluence - Argent Dawn"] = {
+},
+["Rill - Kel'Thuzad"] = {
 },
 ["Esker - Kel'Thuzad"] = {
 ["achievementsHidden"] = {
@@ -198,31 +237,19 @@ HandyNotes_TreasureHunterDB = {
 ["evershiftingmirror"] = true,
 },
 },
-["Meander - Kel'Thuzad"] = {
-},
-["Mire - Mal'Ganis"] = {
-},
-["Geyser - Mal'Ganis"] = {
-},
-["Riparium - Argent Dawn"] = {
-},
-["Rill - Kel'Thuzad"] = {
-},
-["Confluence - Argent Dawn"] = {
-},
 ["Wildeadoriah - The Scryers"] = {
 },
-["Flumes - Kel'Thuzad"] = {
+["Brine - Argent Dawn"] = {
 },
 ["Rivulet - Mal'Ganis"] = {
 },
-["Dussrasande - Kel'Thuzad"] = {
+["Rime - Kel'Thuzad"] = {
 },
 ["Floe - Mal'Ganis"] = {
 },
-["Neva - Kel'Thuzad"] = {
+["Dussrasande - Kel'Thuzad"] = {
 },
-["Rime - Kel'Thuzad"] = {
+["Levee - Argent Dawn"] = {
 },
 },
 }

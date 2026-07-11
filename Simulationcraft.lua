@@ -1,5 +1,61 @@
 
 SimulationCraftDB = {
+["char"] = {
+["Rapids - Argent Dawn"] = {
+["bonusRolls"] = {
+{
+["currency"] = 3418,
+["ts"] = 1783373460,
+["source"] = 268466,
+["season"] = 34,
+["keyLevel"] = 12,
+["spec"] = 266,
+["context"] = 16,
+["itemId"] = 260312,
+},
+{
+["currency"] = 3418,
+["ts"] = 1783376640,
+["source"] = 268469,
+["season"] = 34,
+["keyLevel"] = 13,
+["spec"] = 266,
+["context"] = 16,
+["itemId"] = 151305,
+},
+{
+["currency"] = 3418,
+["ts"] = 1783379100,
+["source"] = 268473,
+["season"] = 34,
+["keyLevel"] = 14,
+["spec"] = 266,
+["context"] = 16,
+["itemId"] = 250223,
+},
+{
+["currency"] = 3418,
+["ts"] = 1783381140,
+["source"] = 268467,
+["season"] = 34,
+["keyLevel"] = 13,
+["spec"] = 266,
+["context"] = 16,
+["itemId"] = 251205,
+},
+{
+["currency"] = 3418,
+["ts"] = 1783544520,
+["source"] = 275228,
+["season"] = 34,
+["keyLevel"] = 4,
+["spec"] = 266,
+["context"] = 5,
+["itemId"] = 268291,
+},
+},
+},
+},
 ["profileKeys"] = {
 ["Calestin - Sargeras"] = "Default",
 ["Strid - Kel'Thuzad"] = "Default",
@@ -8,6 +64,7 @@ SimulationCraftDB = {
 ["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 ["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
 ["Mangrove - Argent Dawn"] = "Default",
+["Bwaagh - Feathermoon"] = "Bwaagh - Feathermoon",
 ["Flumina - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
@@ -17,8 +74,10 @@ SimulationCraftDB = {
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
 ["Darick - Eredar"] = "Darick - Eredar",
 ["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
 ["Spume - Argent Dawn"] = "Spume - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
@@ -53,33 +112,37 @@ SimulationCraftDB = {
 ["Alandere - Argent Dawn"] = "Default",
 ["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
-["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
-["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
-["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
-["Lotic - Argent Dawn"] = "Default",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
-["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
-["Mahntaiaga - Arthas"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
-["Emptystreams - Argent Dawn"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
-["Quag - Argent Dawn"] = "Quag - Argent Dawn",
-["Brook - Argent Dawn"] = "Brook - Argent Dawn",
-["Confluence - Argent Dawn"] = "Default",
-["Benthos - Argent Dawn"] = "Default",
-["Esker - Kel'Thuzad"] = "Default",
-["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
-["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
-["Ailisuul - Arthas"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
-["Beefyrivers - Arthas"] = "Default",
-["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
-["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
-["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
-["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
 ["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
+["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
+["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
+["Beefyrivers - Arthas"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
+["Ailisuul - Arthas"] = "Default",
+["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
+["Esker - Kel'Thuzad"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
+["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
+["Confluence - Argent Dawn"] = "Default",
+["Brook - Argent Dawn"] = "Brook - Argent Dawn",
+["Emptystreams - Argent Dawn"] = "Default",
+["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
+["Mahntaiaga - Arthas"] = "Default",
+["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Riparium - Argent Dawn"] = "Default",
+["Brine - Argent Dawn"] = "Brine - Argent Dawn",
+["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
+["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Quag - Argent Dawn"] = "Quag - Argent Dawn",
+["Levee - Argent Dawn"] = "Levee - Argent Dawn",
 },
 ["profiles"] = {
 ["Calestin - Sargeras"] = {
@@ -95,6 +158,8 @@ SimulationCraftDB = {
 ["Docks - Kel'Thuzad"] = {
 },
 ["Mangrove - Argent Dawn"] = {
+},
+["Bwaagh - Feathermoon"] = {
 },
 ["Flumina - Argent Dawn"] = {
 ["frame"] = {
@@ -118,9 +183,13 @@ SimulationCraftDB = {
 },
 ["Brack - Mal'Ganis"] = {
 },
+["Talamahyn - Kel'Thuzad"] = {
+},
 ["Darick - Eredar"] = {
 },
 ["Falls - Mal'Ganis"] = {
+},
+["Fathom - Argent Dawn"] = {
 },
 ["Spume - Argent Dawn"] = {
 },
@@ -139,11 +208,11 @@ SimulationCraftDB = {
 ["Mothugeon - Argent Dawn"] = {
 },
 ["Default"] = {
-["minimap"] = {
-["minimapPos"] = 306.2228285802488,
-},
 ["frame"] = {
 ["ofsx"] = 6.669384310953319e-05,
+},
+["minimap"] = {
+["minimapPos"] = 306.2228285802488,
 },
 },
 ["Emptyrivers - Argent Dawn"] = {
@@ -207,45 +276,21 @@ SimulationCraftDB = {
 },
 ["Rosefin - Argent Dawn"] = {
 },
+["Rime - Kel'Thuzad"] = {
+},
+["Geyser - Mal'Ganis"] = {
+},
 ["Seep - Kel'Thuzad"] = {
 },
-["Fjord - Mal'Ganis"] = {
+["Esker - Kel'Thuzad"] = {
+},
+["Bayou - Kel'Thuzad"] = {
 },
 ["Meander - Kel'Thuzad"] = {
 },
+["Beefyrivers - Arthas"] = {
+},
 ["Lotic - Argent Dawn"] = {
-},
-["Mire - Mal'Ganis"] = {
-},
-["Dussrasande - Kel'Thuzad"] = {
-},
-["Dannius - Argent Dawn"] = {
-},
-["Saellindris - Kel'Thuzad"] = {
-},
-["Wildeadoriah - The Scryers"] = {
-},
-["Ailisuul - Arthas"] = {
-},
-["Emptystreams - Argent Dawn"] = {
-},
-["Emptyrivers - Sargeras"] = {
-},
-["Rapids - Argent Dawn"] = {
-},
-["Quag - Argent Dawn"] = {
-},
-["Brook - Argent Dawn"] = {
-},
-["Confluence - Argent Dawn"] = {
-},
-["Shoal - Kel'Thuzad"] = {
-},
-["Benthos - Argent Dawn"] = {
-},
-["Rill - Kel'Thuzad"] = {
-},
-["Bog - Kel'Thuzad"] = {
 },
 ["Riparium - Argent Dawn"] = {
 ["frame"] = {
@@ -253,17 +298,49 @@ SimulationCraftDB = {
 ["ofsy"] = -48.00022506713867,
 },
 },
-["Beefyrivers - Arthas"] = {
+["Bog - Kel'Thuzad"] = {
+},
+["Dussrasande - Kel'Thuzad"] = {
+},
+["Saellindris - Kel'Thuzad"] = {
+},
+["Benthos - Argent Dawn"] = {
+},
+["Shoal - Kel'Thuzad"] = {
+},
+["Confluence - Argent Dawn"] = {
+},
+["Emptyrivers - Sargeras"] = {
+},
+["Bwaagh - Mal'Ganis"] = {
+},
+["Brook - Argent Dawn"] = {
+},
+["Quag - Argent Dawn"] = {
+},
+["Emptystreams - Argent Dawn"] = {
+},
+["Ailisuul - Arthas"] = {
+},
+["Dannius - Argent Dawn"] = {
+},
+["Rill - Kel'Thuzad"] = {
+},
+["Mire - Mal'Ganis"] = {
+},
+["Wildeadoriah - The Scryers"] = {
+},
+["Brine - Argent Dawn"] = {
 },
 ["Rivulet - Mal'Ganis"] = {
 },
-["Esker - Kel'Thuzad"] = {
+["Fjord - Mal'Ganis"] = {
 },
 ["Floe - Mal'Ganis"] = {
 },
-["Geyser - Mal'Ganis"] = {
+["Rapids - Argent Dawn"] = {
 },
-["Rime - Kel'Thuzad"] = {
+["Levee - Argent Dawn"] = {
 },
 },
 }

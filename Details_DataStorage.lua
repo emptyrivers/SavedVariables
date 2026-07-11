@@ -3,9 +3,23 @@ DetailsDataStorage = {
 ["normal"] = {
 [2898] = {
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736565118,
+["guild"] = "House Stalwart",
 ["elapsed"] = 125.1219999999885,
+["date"] = "21:11 10/01/25",
+["servertime"] = 1736565117,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 82838711,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 87314370,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 76482125,
@@ -48,24 +62,8 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1736565117,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 82838711,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 87314370,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:11 10/01/25",
 },
 {
-["date"] = "21:07 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 57420831,
@@ -118,6 +116,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738206424,
+["date"] = "21:07 29/01/25",
 ["elapsed"] = 156.857,
 ["servertime"] = 1738206424,
 ["HEALER"] = {
@@ -132,11 +132,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738206424,
+["guild"] = "House Stalwart",
 },
 },
 [2902] = {
 {
+["date"] = "20:49 18/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 60851972,
@@ -214,8 +216,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1729302547,
-["date"] = "20:49 18/10/24",
 ["elapsed"] = 101.1359999999986,
 ["servertime"] = 1729302546,
 ["HEALER"] = {
@@ -230,12 +230,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1729302547,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1729907101,
+["guild"] = "House Stalwart",
 ["elapsed"] = 106.4800000000105,
+["date"] = "20:45 25/10/24",
+["servertime"] = 1729907100,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 46377114,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 53120376,
+["itemLevel"] = 611.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 64266366,
@@ -303,39 +317,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1729907100,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 46377114,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 53120376,
-["itemLevel"] = 611.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:45 25/10/24",
 },
 {
-["time"] = 1730511681,
 ["guild"] = "House Stalwart",
+["time"] = 1730511681,
 ["elapsed"] = 92.83600000001024,
-["date"] = "20:41 01/11/24",
-["servertime"] = 1730511681,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 31365821,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 32300792,
-["itemLevel"] = 617.5,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 69401146,
@@ -398,10 +384,22 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1730511681,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 31365821,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 32300792,
+["itemLevel"] = 617.5,
+["classId"] = 13,
+},
+},
+["date"] = "20:41 01/11/24",
 },
 {
-["date"] = "20:43 08/11/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 67456424,
@@ -464,6 +462,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1731120211,
+["date"] = "20:43 08/11/24",
 ["elapsed"] = 90.39700000000084,
 ["servertime"] = 1731120210,
 ["HEALER"] = {
@@ -478,12 +478,21 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1731120211,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736563843,
+["guild"] = "House Stalwart",
 ["elapsed"] = 71.71700000000419,
+["date"] = "20:50 10/01/25",
+["servertime"] = 1736563843,
+["HEALER"] = {
+["Xerimok"] = {
+["total"] = 35955448,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 25229643,
@@ -531,36 +540,13 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1736563843,
-["HEALER"] = {
-["Xerimok"] = {
-["total"] = 35955448,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:50 10/01/25",
 },
 },
 [3129] = {
 {
-["time"] = 1755132549,
 ["guild"] = "House Stalwart",
+["time"] = 1755132549,
 ["elapsed"] = 449.4320000000298,
-["date"] = "19:49 13/08/25",
-["servertime"] = 1755132549,
-["HEALER"] = {
-["Mykellcat"] = {
-["total"] = 1152049927,
-["itemLevel"] = 692.25,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 100748117,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Burnadine"] = {
 ["total"] = 52443350,
@@ -597,28 +583,103 @@ DetailsDataStorage = {
 ["itemLevel"] = 678,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 486552833,
-["itemLevel"] = 689.125,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 1027964535,
+["itemLevel"] = 682.9375,
+["classId"] = 1,
 },
 ["Erixi"] = {
 ["total"] = 855624236,
 ["itemLevel"] = 679.4375,
 ["classId"] = 7,
 },
-["Giulietta"] = {
-["total"] = 1027964535,
-["itemLevel"] = 682.9375,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 486552833,
+["itemLevel"] = 689.125,
+["classId"] = 12,
 },
 },
+["servertime"] = 1755132549,
+["HEALER"] = {
+["Mykellcat"] = {
+["total"] = 1152049927,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 100748117,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "19:49 13/08/25",
 },
 {
-["time"] = 1755737049,
 ["guild"] = "House Stalwart",
+["time"] = 1755737049,
 ["elapsed"] = 241.5610000000452,
-["date"] = "19:44 20/08/25",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 487325613,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 302174602,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 653631537,
+["itemLevel"] = 685.1875,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 769094910,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Artanos"] = {
+["total"] = 270031606,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 434667665,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 658320739,
+["itemLevel"] = 687.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 630859627,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 466381580,
+["itemLevel"] = 681.375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 272954641,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 92762214,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 575346762,
+["itemLevel"] = 687.375,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1755737049,
 ["HEALER"] = {
 ["Bleddwen"] = {
@@ -637,70 +698,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 487325613,
-["itemLevel"] = 684.375,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 302174602,
-["itemLevel"] = 692.8125,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 653631537,
-["itemLevel"] = 685.1875,
-["classId"] = 13,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 272954641,
-["itemLevel"] = 697.625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 270031606,
-["itemLevel"] = 674.4375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 434667665,
-["itemLevel"] = 687,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 658320739,
-["itemLevel"] = 687.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 575346762,
-["itemLevel"] = 687.375,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 466381580,
-["itemLevel"] = 681.375,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 769094910,
-["itemLevel"] = 694.0625,
-["classId"] = 1,
-},
-["Burnadine"] = {
-["total"] = 92762214,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Elayna"] = {
-["total"] = 630859627,
-["itemLevel"] = 690.9375,
-["classId"] = 3,
-},
-},
+["date"] = "19:44 20/08/25",
 },
 {
+["date"] = "19:39 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 229795096,
@@ -722,10 +724,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.875,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 555132471,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 499337383,
+["itemLevel"] = 709,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 343342026,
@@ -742,10 +744,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 499337383,
-["itemLevel"] = 709,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 555132471,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 349972047,
@@ -768,8 +770,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756946341,
-["date"] = "19:39 03/09/25",
 ["elapsed"] = 146.3080000000045,
 ["servertime"] = 1756946341,
 ["HEALER"] = {
@@ -784,26 +784,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756946341,
 },
 {
-["time"] = 1762393480,
 ["guild"] = "House Stalwart",
+["time"] = 1762393480,
 ["elapsed"] = 176.4740000000456,
-["date"] = "19:44 05/11/25",
-["servertime"] = 1762393480,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 357797973,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 349943299,
-["itemLevel"] = 717.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 470216738,
@@ -836,8 +822,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1762393480,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 357797973,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 349943299,
+["itemLevel"] = 717.125,
+["classId"] = 13,
+},
+},
+["date"] = "19:44 05/11/25",
 },
 {
+["date"] = "19:45 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 261132268,
@@ -854,20 +856,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 603242906,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 512447020,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1051782010,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 512447020,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 603242906,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 844274908,
@@ -890,8 +892,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1762998354,
-["date"] = "19:45 12/11/25",
 ["elapsed"] = 351.6050000000105,
 ["servertime"] = 1762998353,
 ["HEALER"] = {
@@ -906,28 +906,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1762998354,
 },
 },
 [3131] = {
 {
-["time"] = 1755134596,
 ["guild"] = "House Stalwart",
+["time"] = 1755134596,
 ["elapsed"] = 308.7750000000233,
-["date"] = "20:23 13/08/25",
-["servertime"] = 1755134596,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 580439655,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Mykellcat"] = {
-["total"] = 861328966,
-["itemLevel"] = 692.25,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 355499890,
@@ -964,28 +950,103 @@ DetailsDataStorage = {
 ["itemLevel"] = 678,
 ["classId"] = 4,
 },
-["Giulietta"] = {
-["total"] = 561498452,
-["itemLevel"] = 682.9375,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 346358041,
+["itemLevel"] = 689.125,
+["classId"] = 12,
 },
 ["Elayna"] = {
 ["total"] = 814776576,
 ["itemLevel"] = 682.9375,
 ["classId"] = 3,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 346358041,
-["itemLevel"] = 689.125,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 561498452,
+["itemLevel"] = 682.9375,
+["classId"] = 1,
 },
 },
+["servertime"] = 1755134596,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 580439655,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 861328966,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["date"] = "20:23 13/08/25",
 },
 {
-["time"] = 1755737751,
 ["guild"] = "House Stalwart",
+["time"] = 1755737751,
 ["elapsed"] = 243.1060000000289,
-["date"] = "19:55 20/08/25",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 193692670,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 399136307,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 655486682,
+["itemLevel"] = 685.1875,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 933804694,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Artanos"] = {
+["total"] = 403885430,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 416191456,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 842439848,
+["itemLevel"] = 687.125,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 697443625,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 581257403,
+["itemLevel"] = 681.375,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 268988426,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 94111219,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 781456576,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1755737751,
 ["HEALER"] = {
 ["Bleddwen"] = {
@@ -1004,70 +1065,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 193692670,
-["itemLevel"] = 684.375,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 399136307,
-["itemLevel"] = 692.8125,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 655486682,
-["itemLevel"] = 685.1875,
-["classId"] = 13,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 268988426,
-["itemLevel"] = 697.625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 403885430,
-["itemLevel"] = 674.4375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 416191456,
-["itemLevel"] = 687,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 842439848,
-["itemLevel"] = 687.125,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 781456576,
-["itemLevel"] = 687.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 581257403,
-["itemLevel"] = 681.375,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 933804694,
-["itemLevel"] = 694.0625,
-["classId"] = 1,
-},
-["Burnadine"] = {
-["total"] = 94111219,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Elayna"] = {
-["total"] = 697443625,
-["itemLevel"] = 690.9375,
-["classId"] = 3,
-},
-},
+["date"] = "19:55 20/08/25",
 },
 {
+["date"] = "19:48 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 218571110,
@@ -1089,10 +1091,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.875,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 785755780,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 653162020,
+["itemLevel"] = 709,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 337148781,
@@ -1109,10 +1111,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 653162020,
-["itemLevel"] = 709,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 785755780,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 413251153,
@@ -1135,8 +1137,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756946923,
-["date"] = "19:48 03/09/25",
 ["elapsed"] = 179.2790000000023,
 ["servertime"] = 1756946923,
 ["HEALER"] = {
@@ -1151,9 +1151,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756946923,
 },
 {
+["date"] = "19:54 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 229477017,
@@ -1170,20 +1172,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 573601371,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 728877274,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 971524145,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 728877274,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 573601371,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 539646556,
@@ -1206,8 +1208,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1762998851,
-["date"] = "19:54 12/11/25",
 ["elapsed"] = 130.255999999994,
 ["servertime"] = 1762998850,
 ["HEALER"] = {
@@ -1222,26 +1222,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1762998851,
 },
 {
-["time"] = 1763604493,
 ["guild"] = "House Stalwart",
+["time"] = 1763604493,
 ["elapsed"] = 110.3960000000079,
-["date"] = "20:08 19/11/25",
-["servertime"] = 1763604492,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 178979529,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 246465614,
-["itemLevel"] = 717.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 232727696,
@@ -1294,27 +1280,27 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-},
-},
-[3009] = {
-{
-["time"] = 1741225523,
-["guild"] = "House Stalwart",
-["elapsed"] = 266.7910000000011,
-["date"] = "19:45 05/03/25",
-["servertime"] = 1741225523,
+["servertime"] = 1763604492,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 289010101,
+["total"] = 178979529,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 241424754,
-["itemLevel"] = 625.25,
+["total"] = 246465614,
+["itemLevel"] = 717.375,
 ["classId"] = 13,
 },
 },
+["date"] = "20:08 19/11/25",
+},
+},
+[3009] = {
+{
+["guild"] = "House Stalwart",
+["time"] = 1741225523,
+["elapsed"] = 266.7910000000011,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 318381317,
@@ -1372,8 +1358,24 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["servertime"] = 1741225523,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 289010101,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 241424754,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["date"] = "19:45 05/03/25",
 },
 {
+["date"] = "19:49 12/03/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 270587897,
@@ -1431,8 +1433,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1741826957,
-["date"] = "19:49 12/03/25",
 ["elapsed"] = 226.4100000000326,
 ["servertime"] = 1741826956,
 ["HEALER"] = {
@@ -1442,12 +1442,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1741826957,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742431481,
+["guild"] = "House Stalwart",
 ["elapsed"] = 179.1199999999953,
+["date"] = "19:44 19/03/25",
+["servertime"] = 1742431480,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 141695123,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 105165247,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 320287562,
@@ -1500,25 +1514,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742431480,
+},
+{
+["time"] = 1743036446,
+["guild"] = "House Stalwart",
+["elapsed"] = 197.0359999999928,
+["date"] = "19:47 26/03/25",
+["servertime"] = 1743036445,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 141695123,
+["total"] = 137258354,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 105165247,
-["itemLevel"] = 630.875,
+["total"] = 90287668,
+["itemLevel"] = 637.75,
 ["classId"] = 13,
 },
 },
-["date"] = "19:44 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743036446,
-["elapsed"] = 197.0359999999928,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 153044254,
@@ -1566,39 +1580,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743036445,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 137258354,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 90287668,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "19:47 26/03/25",
 },
 {
-["time"] = 1743641260,
 ["guild"] = "House Stalwart",
+["time"] = 1743641260,
 ["elapsed"] = 142.080999999991,
-["date"] = "19:47 02/04/25",
-["servertime"] = 1743641259,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 109779260,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 105896092,
-["itemLevel"] = 641.5,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 319885163,
@@ -1651,30 +1637,25 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1744245704,
-["guild"] = "House Stalwart",
-["elapsed"] = 139.5849999999628,
-["date"] = "19:41 09/04/25",
-["servertime"] = 1744245703,
+["servertime"] = 1743641259,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 143895004,
+["total"] = 109779260,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 102109461,
-["itemLevel"] = 646.9375,
+["total"] = 105896092,
+["itemLevel"] = 641.5,
 ["classId"] = 13,
 },
-["Mykellqt-Sargeras"] = {
-["total"] = 263122364,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
 },
+["date"] = "19:47 02/04/25",
 },
+{
+["guild"] = "House Stalwart",
+["time"] = 1744245704,
+["elapsed"] = 139.5849999999628,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 140572342,
@@ -1722,8 +1703,29 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1744245703,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 143895004,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 102109461,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 263122364,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "19:41 09/04/25",
 },
 {
+["date"] = "21:04 13/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 208747927,
@@ -1771,8 +1773,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1749866671,
-["date"] = "21:04 13/06/25",
 ["elapsed"] = 160.5590000000084,
 ["servertime"] = 1749866671,
 ["HEALER"] = {
@@ -1787,28 +1787,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1749866671,
 },
 },
 [3011] = {
 {
-["time"] = 1741227924,
 ["guild"] = "House Stalwart",
+["time"] = 1741227924,
 ["elapsed"] = 420.3989999999994,
-["date"] = "20:25 05/03/25",
-["servertime"] = 1741227923,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 74529084,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 238933327,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 317647020,
@@ -1866,8 +1852,24 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["servertime"] = 1741227923,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 74529084,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 238933327,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["date"] = "20:25 05/03/25",
 },
 {
+["date"] = "20:17 12/03/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 227205378,
@@ -1925,8 +1927,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1741828678,
-["date"] = "20:17 12/03/25",
 ["elapsed"] = 244.2140000000363,
 ["servertime"] = 1741828677,
 ["HEALER"] = {
@@ -1941,12 +1941,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1741828678,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742432544,
+["guild"] = "House Stalwart",
 ["elapsed"] = 221.1070000000182,
+["date"] = "20:02 19/03/25",
+["servertime"] = 1742432543,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 124910433,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 108238910,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 241603181,
@@ -1999,25 +2013,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742432543,
+},
+{
+["time"] = 1743037531,
+["guild"] = "House Stalwart",
+["elapsed"] = 225.4840000000113,
+["date"] = "20:05 26/03/25",
+["servertime"] = 1743037530,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 124910433,
+["total"] = 127338424,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 108238910,
-["itemLevel"] = 630.875,
+["total"] = 52153012,
+["itemLevel"] = 637.75,
 ["classId"] = 13,
 },
 },
-["date"] = "20:02 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743037531,
-["elapsed"] = 225.4840000000113,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 101084098,
@@ -2065,22 +2079,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743037530,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 127338424,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 52153012,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "20:05 26/03/25",
 },
 {
+["date"] = "21:21 13/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 114056225,
@@ -2128,8 +2130,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1749867711,
-["date"] = "21:21 13/06/25",
 ["elapsed"] = 183.8640000000014,
 ["servertime"] = 1749867710,
 ["HEALER"] = {
@@ -2144,28 +2144,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1749867711,
 },
 },
 [3013] = {
 {
-["time"] = 1741231331,
 ["guild"] = "House Stalwart",
+["time"] = 1741231331,
 ["elapsed"] = 333.6859999999997,
-["date"] = "21:22 05/03/25",
-["servertime"] = 1741231330,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 103637955,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 111986814,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 351758075,
@@ -2223,10 +2209,22 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["servertime"] = 1741231330,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 103637955,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 111986814,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["date"] = "21:22 05/03/25",
 },
 {
-["date"] = "20:51 14/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 243538631,
@@ -2269,6 +2267,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1742003464,
+["date"] = "20:51 14/03/25",
 ["elapsed"] = 215.6440000000002,
 ["servertime"] = 1742003463,
 ["HEALER"] = {
@@ -2278,12 +2278,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1742003464,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742433955,
+["guild"] = "House Stalwart",
 ["elapsed"] = 207.2700000000186,
+["date"] = "20:25 19/03/25",
+["servertime"] = 1742433954,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 104505146,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 76220640,
+["itemLevel"] = 631.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 279693735,
@@ -2336,25 +2350,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742433954,
+},
+{
+["time"] = 1743038929,
+["guild"] = "House Stalwart",
+["elapsed"] = 185.2939999999944,
+["date"] = "20:28 26/03/25",
+["servertime"] = 1743038928,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 104505146,
+["total"] = 72192969,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 76220640,
-["itemLevel"] = 631.875,
+["total"] = 61604854,
+["itemLevel"] = 638.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "20:25 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743038929,
-["elapsed"] = 185.2939999999944,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 82546229,
@@ -2402,22 +2416,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743038928,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 72192969,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 61604854,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:28 26/03/25",
 },
 {
+["date"] = "21:39 13/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 97582962,
@@ -2465,8 +2467,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1749868749,
-["date"] = "21:39 13/06/25",
 ["elapsed"] = 122.8539999999921,
 ["servertime"] = 1749868748,
 ["HEALER"] = {
@@ -2481,13 +2481,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1749868749,
 },
 },
 [3015] = {
 {
-["date"] = "21:30 14/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 208990655,
@@ -2530,6 +2528,8 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["time"] = 1742005805,
+["date"] = "21:30 14/03/25",
 ["elapsed"] = 287.6009999999951,
 ["servertime"] = 1742005804,
 ["HEALER"] = {
@@ -2539,12 +2539,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1742005805,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742436094,
+["guild"] = "House Stalwart",
 ["elapsed"] = 263.3779999999679,
+["date"] = "21:01 19/03/25",
+["servertime"] = 1742436093,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 180060410,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 120011042,
+["itemLevel"] = 631.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 322670501,
@@ -2597,25 +2611,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742436093,
+},
+{
+["time"] = 1743040782,
+["guild"] = "House Stalwart",
+["elapsed"] = 243.7200000000012,
+["date"] = "20:59 26/03/25",
+["servertime"] = 1743040781,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 180060410,
+["total"] = 154714248,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 120011042,
-["itemLevel"] = 631.875,
+["total"] = 101065178,
+["itemLevel"] = 638.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "21:01 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743040782,
-["elapsed"] = 243.7200000000012,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 115808971,
@@ -2663,44 +2677,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743040781,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 154714248,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 101065178,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:59 26/03/25",
 },
 {
-["time"] = 1744246190,
 ["guild"] = "House Stalwart",
+["time"] = 1744246190,
 ["elapsed"] = 184.484000000055,
-["date"] = "19:49 09/04/25",
-["servertime"] = 1744246189,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 147987565,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 115184733,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 186514599,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 111823224,
@@ -2748,10 +2729,27 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1744246189,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 147987565,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 115184733,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 186514599,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "19:49 09/04/25",
 },
 {
-["date"] = "22:24 13/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 111473838,
@@ -2799,6 +2797,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1749871470,
+["date"] = "22:24 13/06/25",
 ["elapsed"] = 202.1350000000093,
 ["servertime"] = 1749871470,
 ["HEALER"] = {
@@ -2813,31 +2813,33 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749871470,
+["guild"] = "House Stalwart",
 },
 },
 [3133] = {
 {
+["date"] = "20:59 15/08/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 238114786,
 ["itemLevel"] = 690.1875,
 ["classId"] = 10,
 },
-["Rylacus"] = {
-["total"] = 506731762,
-["itemLevel"] = 679.6875,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 663503646,
+["itemLevel"] = 682.9375,
+["classId"] = 13,
 },
 ["Erixi"] = {
 ["total"] = 661714482,
 ["itemLevel"] = 686.3125,
 ["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 663503646,
-["itemLevel"] = 682.9375,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 506731762,
+["itemLevel"] = 679.6875,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 198610128,
@@ -2855,8 +2857,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1755309579,
-["date"] = "20:59 15/08/25",
 ["elapsed"] = 261.7299999999996,
 ["servertime"] = 1755309578,
 ["HEALER"] = {
@@ -2871,13 +2871,74 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1755309579,
 },
 {
-["time"] = 1755740910,
 ["guild"] = "House Stalwart",
+["time"] = 1755740910,
 ["elapsed"] = 177.5430000000051,
-["date"] = "20:48 20/08/25",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 430372171,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 226320411,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 513829481,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 695021371,
+["itemLevel"] = 694.3125,
+["classId"] = 1,
+},
+["Artanos"] = {
+["total"] = 375097965,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 300227998,
+["itemLevel"] = 687.875,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 546055119,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 483739073,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 384032784,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 284119618,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 262723121,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 621238892,
+["itemLevel"] = 689.625,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1755740910,
 ["HEALER"] = {
 ["Bleddwen"] = {
@@ -2896,72 +2957,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 430372171,
-["itemLevel"] = 684.375,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 226320411,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Anguis"] = {
-["total"] = 513829481,
-["itemLevel"] = 685.5625,
-["classId"] = 13,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 284119618,
-["itemLevel"] = 697.625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 375097965,
-["itemLevel"] = 674.4375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 300227998,
-["itemLevel"] = 687.875,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 546055119,
-["itemLevel"] = 687.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 621238892,
-["itemLevel"] = 689.625,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 384032784,
-["itemLevel"] = 681.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 695021371,
-["itemLevel"] = 694.3125,
-["classId"] = 1,
-},
-["Sverdrup"] = {
-["total"] = 262723121,
-["itemLevel"] = 692.8125,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 483739073,
-["itemLevel"] = 691.3125,
-["classId"] = 3,
-},
-},
+["date"] = "20:48 20/08/25",
 },
 {
-["date"] = "20:50 27/08/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 176366596,
@@ -3024,6 +3022,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1756345803,
+["date"] = "20:50 27/08/25",
 ["elapsed"] = 145.2700000000186,
 ["servertime"] = 1756345802,
 ["HEALER"] = {
@@ -3038,9 +3038,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1756345803,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:24 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 193844180,
@@ -3062,10 +3064,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.6875,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 476372267,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 563119124,
+["itemLevel"] = 708.1875,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 344073116,
@@ -3082,10 +3084,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 563119124,
-["itemLevel"] = 708.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 476372267,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 389656428,
@@ -3108,8 +3110,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756949049,
-["date"] = "20:24 03/09/25",
 ["elapsed"] = 131.6900000000023,
 ["servertime"] = 1756949049,
 ["HEALER"] = {
@@ -3124,9 +3124,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756949049,
 },
 {
+["date"] = "20:48 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 370815976,
@@ -3143,15 +3145,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 61190388,
-["itemLevel"] = 719.875,
-["classId"] = 7,
-},
 ["Elayna"] = {
 ["total"] = 694850193,
 ["itemLevel"] = 722.5,
 ["classId"] = 3,
+},
+["Erixi"] = {
+["total"] = 61190388,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 583569578,
@@ -3174,8 +3176,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1763002088,
-["date"] = "20:48 12/11/25",
 ["elapsed"] = 310.9610000000102,
 ["servertime"] = 1763002087,
 ["HEALER"] = {
@@ -3195,14 +3195,28 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1763002088,
 },
 },
 [2918] = {
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736565620,
+["guild"] = "House Stalwart",
 ["elapsed"] = 121.6070000000036,
+["date"] = "21:20 10/01/25",
+["servertime"] = 1736565619,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 94970571,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 86095267,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 59149353,
@@ -3250,24 +3264,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1736565619,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 94970571,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 86095267,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:20 10/01/25",
 },
 {
-["date"] = "21:16 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 54720778,
@@ -3320,6 +3318,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738207008,
+["date"] = "21:16 29/01/25",
 ["elapsed"] = 114.2829999999999,
 ["servertime"] = 1738207007,
 ["HEALER"] = {
@@ -3334,11 +3334,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738207008,
+["guild"] = "House Stalwart",
 },
 },
 [2921] = {
 {
+["date"] = "21:09 18/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 204900393,
@@ -3416,8 +3418,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1729303794,
-["date"] = "21:09 18/10/24",
 ["elapsed"] = 331.9900000000052,
 ["servertime"] = 1729303793,
 ["HEALER"] = {
@@ -3432,12 +3432,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1729303794,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1729908159,
+["guild"] = "House Stalwart",
 ["elapsed"] = 260.6699999999983,
+["date"] = "21:02 25/10/24",
+["servertime"] = 1729908158,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 180588919,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 158622135,
+["itemLevel"] = 611.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 187887029,
@@ -3505,39 +3519,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1729908158,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 180588919,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 158622135,
-["itemLevel"] = 611.875,
-["classId"] = 13,
-},
-},
-["date"] = "21:02 25/10/24",
 },
 {
-["time"] = 1730512583,
 ["guild"] = "House Stalwart",
+["time"] = 1730512583,
 ["elapsed"] = 190.7609999999404,
-["date"] = "20:56 01/11/24",
-["servertime"] = 1730512582,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 78233227,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 79084616,
-["itemLevel"] = 617.1333333333333,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 152471135,
@@ -3600,10 +3586,22 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1730512582,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 78233227,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 79084616,
+["itemLevel"] = 617.1333333333333,
+["classId"] = 13,
+},
+},
+["date"] = "20:56 01/11/24",
 },
 {
-["date"] = "20:58 08/11/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 172692538,
@@ -3666,6 +3664,8 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
+["time"] = 1731121108,
+["date"] = "20:58 08/11/24",
 ["elapsed"] = 207.9480000000003,
 ["servertime"] = 1731121107,
 ["HEALER"] = {
@@ -3680,12 +3680,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1731121108,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736567947,
+["guild"] = "House Stalwart",
 ["elapsed"] = 270.3509999999951,
+["date"] = "21:59 10/01/25",
+["servertime"] = 1736567946,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 200397747,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 137550338,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 112088310,
@@ -3738,24 +3752,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1736567946,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 200397747,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 137550338,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:59 10/01/25",
 },
 {
-["date"] = "21:39 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 128866125,
@@ -3808,6 +3806,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738208372,
+["date"] = "21:39 29/01/25",
 ["elapsed"] = 275.029,
 ["servertime"] = 1738208371,
 ["HEALER"] = {
@@ -3822,11 +3822,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738208372,
+["guild"] = "House Stalwart",
 },
 },
 [2919] = {
 {
+["date"] = "22:42 11/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 91377213,
@@ -3884,8 +3886,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1728704564,
-["date"] = "22:42 11/10/24",
 ["elapsed"] = 180.640000000014,
 ["servertime"] = 1728704564,
 ["HEALER"] = {
@@ -3900,12 +3900,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1728704564,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736566978,
+["guild"] = "House Stalwart",
 ["elapsed"] = 163.7380000000121,
+["date"] = "21:42 10/01/25",
+["servertime"] = 1736566977,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 100042421,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 83708446,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 64078619,
@@ -3958,24 +3972,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1736566977,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 100042421,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 83708446,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:42 10/01/25",
 },
 {
-["date"] = "21:32 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 62696104,
@@ -4028,6 +4026,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738207940,
+["date"] = "21:32 29/01/25",
 ["elapsed"] = 150.6890000000003,
 ["servertime"] = 1738207940,
 ["HEALER"] = {
@@ -4042,28 +4042,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738207940,
+["guild"] = "House Stalwart",
 },
 },
 [3010] = {
 {
-["time"] = 1741226627,
 ["guild"] = "House Stalwart",
+["time"] = 1741226627,
 ["elapsed"] = 276.4359999999997,
-["date"] = "20:03 05/03/25",
-["servertime"] = 1741226626,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 125138319,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 161821083,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 253675768,
@@ -4121,8 +4107,24 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["servertime"] = 1741226626,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 125138319,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 161821083,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["date"] = "20:03 05/03/25",
 },
 {
+["date"] = "19:58 12/03/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 227850790,
@@ -4180,8 +4182,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1741827527,
-["date"] = "19:58 12/03/25",
 ["elapsed"] = 202.030999999959,
 ["servertime"] = 1741827526,
 ["HEALER"] = {
@@ -4191,12 +4191,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1741827527,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742431957,
+["guild"] = "House Stalwart",
 ["elapsed"] = 184.9349999999977,
+["date"] = "19:52 19/03/25",
+["servertime"] = 1742431957,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 118186688,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 78503556,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 254639916,
@@ -4249,25 +4263,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742431957,
+},
+{
+["time"] = 1743036939,
+["guild"] = "House Stalwart",
+["elapsed"] = 186.1939999999886,
+["date"] = "19:55 26/03/25",
+["servertime"] = 1743036939,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 118186688,
+["total"] = 78136812,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 78503556,
-["itemLevel"] = 630.875,
+["total"] = 54526327,
+["itemLevel"] = 637.75,
 ["classId"] = 13,
 },
 },
-["date"] = "19:52 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743036939,
-["elapsed"] = 186.1939999999886,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 118194341,
@@ -4315,22 +4329,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743036939,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 78136812,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 54526327,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "19:55 26/03/25",
 },
 {
+["date"] = "21:13 13/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 97058620,
@@ -4378,8 +4380,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1749867180,
-["date"] = "21:13 13/06/25",
 ["elapsed"] = 134.6620000000112,
 ["servertime"] = 1749867180,
 ["HEALER"] = {
@@ -4394,28 +4394,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1749867180,
 },
 },
 [3122] = {
 {
-["time"] = 1755139532,
 ["guild"] = "House Stalwart",
+["time"] = 1755139532,
 ["elapsed"] = 413.179999999993,
-["date"] = "21:45 13/08/25",
-["servertime"] = 1755139531,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 864315722,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Mykellcat"] = {
-["total"] = 1322235273,
-["itemLevel"] = 692.25,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Burnadine"] = {
 ["total"] = 466727671,
@@ -4437,43 +4423,118 @@ DetailsDataStorage = {
 ["itemLevel"] = 674.1875,
 ["classId"] = 10,
 },
-["Giulietta"] = {
-["total"] = 1169947452,
-["itemLevel"] = 683.375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 1010228175,
-["itemLevel"] = 683.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 859275489,
-["itemLevel"] = 678.4375,
-["classId"] = 4,
-},
 ["Beamindemon-Proudmoore"] = {
 ["total"] = 699276194,
 ["itemLevel"] = 689.125,
 ["classId"] = 12,
-},
-["Sverdrup"] = {
-["total"] = 593178351,
-["itemLevel"] = 679.3125,
-["classId"] = 10,
 },
 ["Erixi"] = {
 ["total"] = 1186115722,
 ["itemLevel"] = 679.875,
 ["classId"] = 7,
 },
+["Rylacus"] = {
+["total"] = 859275489,
+["itemLevel"] = 678.4375,
+["classId"] = 4,
 },
+["Giulietta"] = {
+["total"] = 1169947452,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 593178351,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 1010228175,
+["itemLevel"] = 683.75,
+["classId"] = 3,
+},
+},
+["servertime"] = 1755139531,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 864315722,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 1322235273,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["date"] = "21:45 13/08/25",
 },
 {
-["time"] = 1755739838,
 ["guild"] = "House Stalwart",
+["time"] = 1755739838,
 ["elapsed"] = 316.8410000000149,
-["date"] = "20:30 20/08/25",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 1058262409,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 584095409,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 1041444946,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 1402385134,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Artanos"] = {
+["total"] = 719221562,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 742063009,
+["itemLevel"] = 687.0625,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 1582608941,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 940365668,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 967543471,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 604222555,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 573248881,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 885058519,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1755739838,
 ["HEALER"] = {
 ["Bleddwen"] = {
@@ -4492,70 +4553,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 1058262409,
-["itemLevel"] = 684.375,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 584095409,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Anguis"] = {
-["total"] = 1041444946,
-["itemLevel"] = 685.5625,
-["classId"] = 13,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 604222555,
-["itemLevel"] = 697.625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 719221562,
-["itemLevel"] = 674.4375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 742063009,
-["itemLevel"] = 687.0625,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 1582608941,
-["itemLevel"] = 687.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 885058519,
-["itemLevel"] = 687.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 967543471,
-["itemLevel"] = 681.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 1402385134,
-["itemLevel"] = 694.0625,
-["classId"] = 1,
-},
-["Sverdrup"] = {
-["total"] = 573248881,
-["itemLevel"] = 692.8125,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 940365668,
-["itemLevel"] = 691.3125,
-["classId"] = 3,
-},
-},
+["date"] = "20:30 20/08/25",
 },
 {
+["date"] = "20:17 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 671963081,
@@ -4577,10 +4579,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.875,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 1092007706,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1174737021,
+["itemLevel"] = 709,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 605481196,
@@ -4597,10 +4599,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1174737021,
-["itemLevel"] = 709,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1092007706,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 867449276,
@@ -4623,8 +4625,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756948633,
-["date"] = "20:17 03/09/25",
 ["elapsed"] = 220.073000000004,
 ["servertime"] = 1756948632,
 ["HEALER"] = {
@@ -4639,9 +4639,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756948633,
 },
 {
+["date"] = "20:29 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 672814168,
@@ -4658,20 +4660,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 1002986136,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1443859176,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1196034921,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1443859176,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1002986136,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1001249529,
@@ -4694,8 +4696,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1763000975,
-["date"] = "20:29 12/11/25",
 ["elapsed"] = 207.8690000000061,
 ["servertime"] = 1763000974,
 ["HEALER"] = {
@@ -4710,11 +4710,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1763000975,
 },
 },
 [2922] = {
 {
+["date"] = "21:18 18/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 145269464,
@@ -4792,8 +4794,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1729304286,
-["date"] = "21:18 18/10/24",
 ["elapsed"] = 294.948000000004,
 ["servertime"] = 1729304285,
 ["HEALER"] = {
@@ -4808,12 +4808,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1729304286,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1729908770,
+["guild"] = "House Stalwart",
 ["elapsed"] = 247.3579999999929,
+["date"] = "21:12 25/10/24",
+["servertime"] = 1729908769,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 172690162,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 133433557,
+["itemLevel"] = 611.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 114918037,
@@ -4886,39 +4900,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1729908769,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 172690162,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 133433557,
-["itemLevel"] = 611.875,
-["classId"] = 13,
-},
-},
-["date"] = "21:12 25/10/24",
 },
 {
-["time"] = 1730512988,
 ["guild"] = "House Stalwart",
+["time"] = 1730512988,
 ["elapsed"] = 232.4590000000317,
-["date"] = "21:03 01/11/24",
-["servertime"] = 1730512988,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 93327614,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 101070744,
-["itemLevel"] = 617.5,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 64898776,
@@ -4981,11 +4967,39 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1730512988,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 93327614,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 101070744,
+["itemLevel"] = 617.5,
+["classId"] = 13,
+},
+},
+["date"] = "21:03 01/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736568476,
+["guild"] = "House Stalwart",
 ["elapsed"] = 276.4799999999959,
+["date"] = "22:07 10/01/25",
+["servertime"] = 1736568475,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 152655530,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 155188230,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 82833161,
@@ -5038,24 +5052,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1736568475,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 152655530,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 155188230,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "22:07 10/01/25",
 },
 {
-["date"] = "21:50 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 84946076,
@@ -5108,6 +5106,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738209019,
+["date"] = "21:50 29/01/25",
 ["elapsed"] = 272.3099999999995,
 ["servertime"] = 1738209019,
 ["HEALER"] = {
@@ -5122,11 +5122,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738209019,
+["guild"] = "House Stalwart",
 },
 },
 [2917] = {
 {
+["date"] = "20:57 18/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 73256374,
@@ -5204,8 +5206,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1729303073,
-["date"] = "20:57 18/10/24",
 ["elapsed"] = 127.1459999999934,
 ["servertime"] = 1729303072,
 ["HEALER"] = {
@@ -5220,12 +5220,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1729303073,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1729907614,
+["guild"] = "House Stalwart",
 ["elapsed"] = 142.2219999999943,
+["date"] = "20:53 25/10/24",
+["servertime"] = 1729907613,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 92990136,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 57435743,
+["itemLevel"] = 611.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 71037413,
@@ -5293,39 +5307,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1729907613,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 92990136,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 57435743,
-["itemLevel"] = 611.875,
-["classId"] = 13,
-},
-},
-["date"] = "20:53 25/10/24",
 },
 {
-["time"] = 1730512143,
 ["guild"] = "House Stalwart",
+["time"] = 1730512143,
 ["elapsed"] = 113.2419999999693,
-["date"] = "20:49 01/11/24",
-["servertime"] = 1730512142,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 47318791,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 55018352,
-["itemLevel"] = 617.5,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 76973182,
@@ -5388,10 +5374,22 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1730512142,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 47318791,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 55018352,
+["itemLevel"] = 617.5,
+["classId"] = 13,
+},
+},
+["date"] = "20:49 01/11/24",
 },
 {
-["date"] = "20:51 08/11/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 77803103,
@@ -5454,6 +5452,8 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
+["time"] = 1731120691,
+["date"] = "20:51 08/11/24",
 ["elapsed"] = 113.2719999999972,
 ["servertime"] = 1731120690,
 ["HEALER"] = {
@@ -5468,12 +5468,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1731120691,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736564560,
+["guild"] = "House Stalwart",
 ["elapsed"] = 237.3650000000052,
+["date"] = "21:02 10/01/25",
+["servertime"] = 1736564559,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 207261604,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 166560809,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 96991327,
@@ -5516,24 +5530,8 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1736564559,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 207261604,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 166560809,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:02 10/01/25",
 },
 {
-["date"] = "20:58 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 82097630,
@@ -5586,6 +5584,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738205908,
+["date"] = "20:58 29/01/25",
 ["elapsed"] = 233.5830000000001,
 ["servertime"] = 1738205907,
 ["HEALER"] = {
@@ -5600,11 +5600,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738205908,
+["guild"] = "House Stalwart",
 },
 },
 [2920] = {
 {
+["date"] = "22:49 11/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 82483135,
@@ -5662,8 +5664,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1728704957,
-["date"] = "22:49 11/10/24",
 ["elapsed"] = 143.4260000000359,
 ["servertime"] = 1728704956,
 ["HEALER"] = {
@@ -5678,12 +5678,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1728704957,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1736566136,
+["guild"] = "House Stalwart",
 ["elapsed"] = 113.880999999994,
+["date"] = "21:28 10/01/25",
+["servertime"] = 1736566135,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 78842635,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 62339965,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 47057020,
@@ -5731,24 +5745,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1736566135,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 78842635,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 62339965,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:28 10/01/25",
 },
 {
-["date"] = "21:23 29/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 51878838,
@@ -5796,6 +5794,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1738207421,
+["date"] = "21:23 29/01/25",
 ["elapsed"] = 117.9180000000001,
 ["servertime"] = 1738207420,
 ["HEALER"] = {
@@ -5810,28 +5810,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1738207421,
+["guild"] = "House Stalwart",
 },
 },
 [3130] = {
 {
-["time"] = 1755135523,
 ["guild"] = "House Stalwart",
+["time"] = 1755135523,
 ["elapsed"] = 375.5289999999804,
-["date"] = "20:38 13/08/25",
-["servertime"] = 1755135522,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 209343463,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Mykellcat"] = {
-["total"] = 947971005,
-["itemLevel"] = 692.25,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 531719209,
@@ -5868,28 +5854,103 @@ DetailsDataStorage = {
 ["itemLevel"] = 678,
 ["classId"] = 4,
 },
-["Giulietta"] = {
-["total"] = 1079893105,
-["itemLevel"] = 682.9375,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 545726046,
+["itemLevel"] = 689.125,
+["classId"] = 12,
 },
 ["Elayna"] = {
 ["total"] = 912379135,
 ["itemLevel"] = 682.9375,
 ["classId"] = 3,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 545726046,
-["itemLevel"] = 689.125,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 1079893105,
+["itemLevel"] = 682.9375,
+["classId"] = 1,
 },
 },
+["servertime"] = 1755135522,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 209343463,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 947971005,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["date"] = "20:38 13/08/25",
 },
 {
-["time"] = 1755738393,
 ["guild"] = "House Stalwart",
+["time"] = 1755738393,
 ["elapsed"] = 261.1040000000503,
-["date"] = "20:06 20/08/25",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 657155925,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Sverdrup"] = {
+["total"] = 518348474,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Anguis"] = {
+["total"] = 871646834,
+["itemLevel"] = 685.1875,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 221575348,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Artanos"] = {
+["total"] = 632737624,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 656132485,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 932700888,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 709051789,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 582894945,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 371714958,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Burnadine"] = {
+["total"] = 388754151,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Erixi"] = {
+["total"] = 707196891,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1755738392,
 ["HEALER"] = {
 ["Bleddwen"] = {
@@ -5908,70 +5969,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 657155925,
-["itemLevel"] = 684.375,
-["classId"] = 11,
-},
-["Sverdrup"] = {
-["total"] = 518348474,
-["itemLevel"] = 692.8125,
-["classId"] = 10,
-},
-["Anguis"] = {
-["total"] = 871646834,
-["itemLevel"] = 685.1875,
-["classId"] = 13,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 371714958,
-["itemLevel"] = 697.625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 632737624,
-["itemLevel"] = 674.4375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 656132485,
-["itemLevel"] = 687,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 932700888,
-["itemLevel"] = 687.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 707196891,
-["itemLevel"] = 687.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 582894945,
-["itemLevel"] = 681.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 221575348,
-["itemLevel"] = 694.0625,
-["classId"] = 1,
-},
-["Burnadine"] = {
-["total"] = 388754151,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Elayna"] = {
-["total"] = 709051789,
-["itemLevel"] = 690.9375,
-["classId"] = 3,
-},
-},
+["date"] = "20:06 20/08/25",
 },
 {
+["date"] = "19:58 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 301382411,
@@ -5993,10 +5995,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.875,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 828705101,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 851762048,
+["itemLevel"] = 709,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 497999724,
@@ -6013,10 +6015,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 851762048,
-["itemLevel"] = 709,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 828705101,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 612625528,
@@ -6039,8 +6041,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756947510,
-["date"] = "19:58 03/09/25",
 ["elapsed"] = 169.4880000000048,
 ["servertime"] = 1756947509,
 ["HEALER"] = {
@@ -6055,9 +6055,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756947510,
 },
 {
+["date"] = "20:02 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 391806971,
@@ -6074,20 +6076,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 754186193,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 834494445,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 953862613,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 834494445,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 754186193,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 612101482,
@@ -6110,8 +6112,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1762999330,
-["date"] = "20:02 12/11/25",
 ["elapsed"] = 201.0860000000102,
 ["servertime"] = 1762999329,
 ["HEALER"] = {
@@ -6126,26 +6126,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1762999330,
 },
 {
-["time"] = 1763604918,
 ["guild"] = "House Stalwart",
+["time"] = 1763604918,
 ["elapsed"] = 119.1140000000014,
-["date"] = "20:15 19/11/25",
-["servertime"] = 1763604917,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 181680490,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 186996875,
-["itemLevel"] = 717.375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 197718678,
@@ -6198,27 +6184,27 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1763604917,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 181680490,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 186996875,
+["itemLevel"] = 717.375,
+["classId"] = 13,
+},
+},
+["date"] = "20:15 19/11/25",
 },
 },
 [3132] = {
 {
-["time"] = 1755138483,
 ["guild"] = "House Stalwart",
+["time"] = 1755138483,
 ["elapsed"] = 368.2519999999786,
-["date"] = "21:28 13/08/25",
-["servertime"] = 1755138483,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 469765569,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Mykellcat"] = {
-["total"] = 705147028,
-["itemLevel"] = 692.25,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Burnadine"] = {
 ["total"] = 535754130,
@@ -6240,43 +6226,118 @@ DetailsDataStorage = {
 ["itemLevel"] = 674.1875,
 ["classId"] = 10,
 },
-["Giulietta"] = {
-["total"] = 1145993015,
-["itemLevel"] = 683.375,
-["classId"] = 1,
-},
-["Elayna"] = {
-["total"] = 939634164,
-["itemLevel"] = 683.75,
-["classId"] = 3,
-},
-["Rylacus"] = {
-["total"] = 714778515,
-["itemLevel"] = 678.4375,
-["classId"] = 4,
-},
 ["Beamindemon-Proudmoore"] = {
 ["total"] = 508181522,
 ["itemLevel"] = 689.125,
 ["classId"] = 12,
-},
-["Sverdrup"] = {
-["total"] = 511618341,
-["itemLevel"] = 679.3125,
-["classId"] = 10,
 },
 ["Erixi"] = {
 ["total"] = 924166074,
 ["itemLevel"] = 679.875,
 ["classId"] = 7,
 },
+["Rylacus"] = {
+["total"] = 714778515,
+["itemLevel"] = 678.4375,
+["classId"] = 4,
 },
+["Giulietta"] = {
+["total"] = 1145993015,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Sverdrup"] = {
+["total"] = 511618341,
+["itemLevel"] = 679.3125,
+["classId"] = 10,
+},
+["Elayna"] = {
+["total"] = 939634164,
+["itemLevel"] = 683.75,
+["classId"] = 3,
+},
+},
+["servertime"] = 1755138483,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 469765569,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Mykellcat"] = {
+["total"] = 705147028,
+["itemLevel"] = 692.25,
+["classId"] = 11,
+},
+},
+["date"] = "21:28 13/08/25",
 },
 {
-["time"] = 1755739195,
 ["guild"] = "House Stalwart",
+["time"] = 1755739195,
 ["elapsed"] = 264.5879999999888,
-["date"] = "20:19 20/08/25",
+["DAMAGER"] = {
+["Keydan"] = {
+["total"] = 736520930,
+["itemLevel"] = 684.375,
+["classId"] = 11,
+},
+["Burnadine"] = {
+["total"] = 350498231,
+["itemLevel"] = 0,
+["classId"] = 9,
+},
+["Anguis"] = {
+["total"] = 994955781,
+["itemLevel"] = 685.5625,
+["classId"] = 13,
+},
+["Giulietta"] = {
+["total"] = 1061968622,
+["itemLevel"] = 694.0625,
+["classId"] = 1,
+},
+["Artanos"] = {
+["total"] = 562947540,
+["itemLevel"] = 674.4375,
+["classId"] = 8,
+},
+["Nil"] = {
+["total"] = 646038050,
+["itemLevel"] = 687,
+["classId"] = 10,
+},
+["Kadria"] = {
+["total"] = 820568719,
+["itemLevel"] = 687.5,
+["classId"] = 11,
+},
+["Elayna"] = {
+["total"] = 725404682,
+["itemLevel"] = 690.9375,
+["classId"] = 3,
+},
+["Rylacus"] = {
+["total"] = 608647055,
+["itemLevel"] = 681.75,
+["classId"] = 4,
+},
+["Beamindemon-Proudmoore"] = {
+["total"] = 404354667,
+["itemLevel"] = 697.625,
+["classId"] = 12,
+},
+["Sverdrup"] = {
+["total"] = 478918979,
+["itemLevel"] = 692.8125,
+["classId"] = 10,
+},
+["Erixi"] = {
+["total"] = 860080793,
+["itemLevel"] = 687.75,
+["classId"] = 7,
+},
+},
 ["servertime"] = 1755739194,
 ["HEALER"] = {
 ["Bleddwen"] = {
@@ -6295,70 +6356,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["DAMAGER"] = {
-["Keydan"] = {
-["total"] = 736520930,
-["itemLevel"] = 684.375,
-["classId"] = 11,
-},
-["Burnadine"] = {
-["total"] = 350498231,
-["itemLevel"] = 0,
-["classId"] = 9,
-},
-["Anguis"] = {
-["total"] = 994955781,
-["itemLevel"] = 685.5625,
-["classId"] = 13,
-},
-["Beamindemon-Proudmoore"] = {
-["total"] = 404354667,
-["itemLevel"] = 697.625,
-["classId"] = 12,
-},
-["Artanos"] = {
-["total"] = 562947540,
-["itemLevel"] = 674.4375,
-["classId"] = 8,
-},
-["Nil"] = {
-["total"] = 646038050,
-["itemLevel"] = 687,
-["classId"] = 10,
-},
-["Kadria"] = {
-["total"] = 820568719,
-["itemLevel"] = 687.5,
-["classId"] = 11,
-},
-["Erixi"] = {
-["total"] = 860080793,
-["itemLevel"] = 687.75,
-["classId"] = 7,
-},
-["Rylacus"] = {
-["total"] = 608647055,
-["itemLevel"] = 681.75,
-["classId"] = 4,
-},
-["Giulietta"] = {
-["total"] = 1061968622,
-["itemLevel"] = 694.0625,
-["classId"] = 1,
-},
-["Sverdrup"] = {
-["total"] = 478918979,
-["itemLevel"] = 692.8125,
-["classId"] = 10,
-},
-["Elayna"] = {
-["total"] = 725404682,
-["itemLevel"] = 690.9375,
-["classId"] = 3,
-},
-},
+["date"] = "20:19 20/08/25",
 },
 {
+["date"] = "20:09 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 364334839,
@@ -6380,10 +6382,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.875,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 972391756,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 703121035,
+["itemLevel"] = 709,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 496685195,
@@ -6400,10 +6402,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 703121035,
-["itemLevel"] = 709,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 972391756,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 590709561,
@@ -6426,8 +6428,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756948189,
-["date"] = "20:09 03/09/25",
 ["elapsed"] = 193.2050000000018,
 ["servertime"] = 1756948189,
 ["HEALER"] = {
@@ -6442,9 +6442,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756948189,
 },
 {
+["date"] = "20:21 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 449189374,
@@ -6461,20 +6463,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 803282119,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 758594444,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1303564090,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 758594444,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 803282119,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 965745116,
@@ -6497,8 +6499,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1763000466,
-["date"] = "20:21 12/11/25",
 ["elapsed"] = 263.7589999999909,
 ["servertime"] = 1763000465,
 ["HEALER"] = {
@@ -6513,36 +6513,23 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1763000466,
 },
 },
 [3134] = {
 {
+["date"] = "21:30 15/08/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 703312790,
-["itemLevel"] = 679.6875,
-["classId"] = 4,
-},
-["Sverdrup"] = {
-["total"] = 740317483,
-["itemLevel"] = 690.1875,
-["classId"] = 10,
-},
-["Giulietta"] = {
-["total"] = 1044490249,
-["itemLevel"] = 683.375,
-["classId"] = 1,
-},
-["Erixi"] = {
-["total"] = 1090940687,
-["itemLevel"] = 686.3125,
-["classId"] = 7,
-},
 ["Anguis"] = {
 ["total"] = 1165681898,
 ["itemLevel"] = 682.9375,
 ["classId"] = 13,
+},
+["Burnadine"] = {
+["total"] = 336394051,
+["itemLevel"] = 0,
+["classId"] = 9,
 },
 ["Beamindemon-Proudmoore"] = {
 ["total"] = 583403466,
@@ -6554,14 +6541,27 @@ DetailsDataStorage = {
 ["itemLevel"] = 683.75,
 ["classId"] = 3,
 },
-["Burnadine"] = {
-["total"] = 336394051,
-["itemLevel"] = 0,
-["classId"] = 9,
+["Rylacus"] = {
+["total"] = 703312790,
+["itemLevel"] = 679.6875,
+["classId"] = 4,
+},
+["Giulietta"] = {
+["total"] = 1044490249,
+["itemLevel"] = 683.375,
+["classId"] = 1,
+},
+["Erixi"] = {
+["total"] = 1090940687,
+["itemLevel"] = 686.3125,
+["classId"] = 7,
+},
+["Sverdrup"] = {
+["total"] = 740317483,
+["itemLevel"] = 690.1875,
+["classId"] = 10,
 },
 },
-["time"] = 1755311416,
-["date"] = "21:30 15/08/25",
 ["elapsed"] = 399.3600000000006,
 ["servertime"] = 1755311415,
 ["HEALER"] = {
@@ -6576,31 +6576,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1755311416,
 },
 {
-["time"] = 1755741717,
 ["guild"] = "House Stalwart",
+["time"] = 1755741717,
 ["elapsed"] = 313.2619999999879,
-["date"] = "21:01 20/08/25",
-["servertime"] = 1755741716,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 494796393,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 497217477,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1049482235,
-["itemLevel"] = 703.3125,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 805880680,
@@ -6647,26 +6628,43 @@ DetailsDataStorage = {
 ["itemLevel"] = 682.8125,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 520562323,
-["itemLevel"] = 697.625,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 1247887703,
+["itemLevel"] = 694.3125,
+["classId"] = 1,
 },
 ["Erixi"] = {
 ["total"] = 973613321,
 ["itemLevel"] = 689.625,
 ["classId"] = 7,
 },
-["Giulietta"] = {
-["total"] = 1247887703,
-["itemLevel"] = 694.3125,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 520562323,
+["itemLevel"] = 697.625,
+["classId"] = 12,
 },
 },
+["servertime"] = 1755741716,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 494796393,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 497217477,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1049482235,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["date"] = "21:01 20/08/25",
 },
 {
-["date"] = "21:03 27/08/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 390243643,
@@ -6729,6 +6727,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1756346581,
+["date"] = "21:03 27/08/25",
 ["elapsed"] = 334.9180000000633,
 ["servertime"] = 1756346580,
 ["HEALER"] = {
@@ -6743,9 +6743,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1756346581,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:35 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 309455659,
@@ -6767,10 +6769,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.6875,
 ["classId"] = 1,
 },
-["Elayna"] = {
-["total"] = 879020485,
-["itemLevel"] = 708.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 801476349,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Artanos"] = {
 ["total"] = 451186379,
@@ -6787,10 +6789,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 801476349,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 879020485,
+["itemLevel"] = 708.1875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 500383057,
@@ -6813,8 +6815,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756949704,
-["date"] = "20:35 03/09/25",
 ["elapsed"] = 193.8269999999975,
 ["servertime"] = 1756949704,
 ["HEALER"] = {
@@ -6829,26 +6829,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756949704,
 },
 {
-["time"] = 1760758514,
 ["guild"] = "House Stalwart",
+["time"] = 1760758514,
 ["elapsed"] = 149.0109999999986,
-["date"] = "22:35 17/10/25",
-["servertime"] = 1760758514,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 246708830,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 368602742,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 284385836,
@@ -6885,10 +6871,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 769214534,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 950932559,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 642493187,
@@ -6905,31 +6891,31 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.9375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 950932559,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 769214534,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1761362516,
-["guild"] = "House Stalwart",
-["elapsed"] = 142.8450000000012,
-["date"] = "22:21 24/10/25",
-["servertime"] = 1761362516,
+["servertime"] = 1760758514,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 288110565,
+["total"] = 246708830,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 384665869,
-["itemLevel"] = 714.1875,
+["total"] = 368602742,
+["itemLevel"] = 712.5625,
 ["classId"] = 13,
 },
 },
+["date"] = "22:35 17/10/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761362516,
+["elapsed"] = 142.8450000000012,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 320965025,
@@ -6941,10 +6927,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi"] = {
-["total"] = 976894163,
-["itemLevel"] = 716.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 690672027,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 336419586,
@@ -6961,10 +6947,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.6875,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 690672027,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 976894163,
+["itemLevel"] = 716.875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 698320283,
@@ -6987,8 +6973,24 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["servertime"] = 1761362516,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 288110565,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 384665869,
+["itemLevel"] = 714.1875,
+["classId"] = 13,
+},
+},
+["date"] = "22:21 24/10/25",
 },
 {
+["date"] = "20:57 31/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 330090086,
@@ -7010,15 +7012,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 710,
 ["classId"] = 4,
 },
-["Fortybelow-Proudmoore"] = {
-["total"] = 893864018,
-["itemLevel"] = 722.125,
-["classId"] = 6,
-},
 ["Heikuro"] = {
 ["total"] = 1092236553,
 ["itemLevel"] = 722.0625,
 ["classId"] = 12,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 893864018,
+["itemLevel"] = 722.125,
+["classId"] = 6,
 },
 ["Elayna"] = {
 ["total"] = 925367586,
@@ -7026,8 +7028,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1761962230,
-["date"] = "20:57 31/10/25",
 ["elapsed"] = 176.2310000000289,
 ["servertime"] = 1761962229,
 ["HEALER"] = {
@@ -7042,26 +7042,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761962230,
 },
 {
-["time"] = 1762394059,
 ["guild"] = "House Stalwart",
+["time"] = 1762394059,
 ["elapsed"] = 209.0280000000494,
-["date"] = "19:54 05/11/25",
-["servertime"] = 1762394059,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 393430426,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 346635101,
-["itemLevel"] = 717.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 672331759,
@@ -7094,8 +7080,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1762394059,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 393430426,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 346635101,
+["itemLevel"] = 717.125,
+["classId"] = 13,
+},
+},
+["date"] = "19:54 05/11/25",
 },
 {
+["date"] = "20:57 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 326552974,
@@ -7112,20 +7114,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 830554655,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1019439860,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1055558632,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1019439860,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 830554655,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 638232786,
@@ -7148,8 +7150,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1763002650,
-["date"] = "20:57 12/11/25",
 ["elapsed"] = 168.7629999999772,
 ["servertime"] = 1763002649,
 ["HEALER"] = {
@@ -7164,28 +7164,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1763002650,
 },
 },
 [3012] = {
 {
-["time"] = 1741230317,
 ["guild"] = "House Stalwart",
+["time"] = 1741230317,
 ["elapsed"] = 366.5749999999989,
-["date"] = "21:05 05/03/25",
-["servertime"] = 1741230316,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 318272239,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 208302520,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 391420268,
@@ -7243,8 +7229,24 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["servertime"] = 1741230316,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 318272239,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 208302520,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["date"] = "21:05 05/03/25",
 },
 {
+["date"] = "20:30 12/03/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 356883853,
@@ -7302,8 +7304,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1741829426,
-["date"] = "20:30 12/03/25",
 ["elapsed"] = 320.9640000000363,
 ["servertime"] = 1741829425,
 ["HEALER"] = {
@@ -7318,12 +7318,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1741829426,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742433304,
+["guild"] = "House Stalwart",
 ["elapsed"] = 288.829000000027,
+["date"] = "20:15 19/03/25",
+["servertime"] = 1742433303,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 153434679,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 115346557,
+["itemLevel"] = 630.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 383845487,
@@ -7376,25 +7390,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742433303,
+},
+{
+["time"] = 1743038080,
+["guild"] = "House Stalwart",
+["elapsed"] = 257.3559999999998,
+["date"] = "20:14 26/03/25",
+["servertime"] = 1743038079,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 153434679,
+["total"] = 114547134,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 115346557,
-["itemLevel"] = 630.875,
+["total"] = 80771365,
+["itemLevel"] = 637.75,
 ["classId"] = 13,
 },
 },
-["date"] = "20:15 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743038080,
-["elapsed"] = 257.3559999999998,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 174171242,
@@ -7442,22 +7456,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743038079,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 114547134,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 80771365,
-["itemLevel"] = 637.75,
-["classId"] = 13,
-},
-},
-["date"] = "20:14 26/03/25",
 },
 {
+["date"] = "21:31 13/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 186625876,
@@ -7505,8 +7507,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1749868267,
-["date"] = "21:31 13/06/25",
 ["elapsed"] = 257.2760000000126,
 ["servertime"] = 1749868266,
 ["HEALER"] = {
@@ -7521,28 +7521,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1749868267,
 },
 },
 [3014] = {
 {
-["time"] = 1741232900,
 ["guild"] = "House Stalwart",
+["time"] = 1741232900,
 ["elapsed"] = 375.7040000000015,
-["date"] = "21:48 05/03/25",
-["servertime"] = 1741232899,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 256224022,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 291711859,
-["itemLevel"] = 625.25,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 334887857,
@@ -7600,10 +7586,22 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["servertime"] = 1741232899,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 256224022,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 291711859,
+["itemLevel"] = 625.25,
+["classId"] = 13,
+},
+},
+["date"] = "21:48 05/03/25",
 },
 {
-["date"] = "21:09 14/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 239730851,
@@ -7646,6 +7644,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1742004548,
+["date"] = "21:09 14/03/25",
 ["elapsed"] = 253.5620000000054,
 ["servertime"] = 1742004547,
 ["HEALER"] = {
@@ -7655,12 +7655,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1742004548,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742435564,
+["guild"] = "House Stalwart",
 ["elapsed"] = 244.36599999998,
+["date"] = "20:52 19/03/25",
+["servertime"] = 1742435563,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 171996130,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 138514780,
+["itemLevel"] = 631.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 291893030,
@@ -7713,25 +7727,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1742435563,
+},
+{
+["time"] = 1743040286,
+["guild"] = "House Stalwart",
+["elapsed"] = 256.0040000000008,
+["date"] = "20:51 26/03/25",
+["servertime"] = 1743040285,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 171996130,
+["total"] = 149230547,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 138514780,
-["itemLevel"] = 631.875,
+["total"] = 108415877,
+["itemLevel"] = 638.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "20:52 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743040286,
-["elapsed"] = 256.0040000000008,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 156401138,
@@ -7779,44 +7793,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743040285,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 149230547,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 108415877,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:51 26/03/25",
 },
 {
-["time"] = 1744247222,
 ["guild"] = "House Stalwart",
+["time"] = 1744247222,
 ["elapsed"] = 179.2229999999981,
-["date"] = "20:07 09/04/25",
-["servertime"] = 1744247221,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 98240445,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 129793838,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 214162356,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 110230410,
@@ -7864,10 +7845,27 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1744247221,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 98240445,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 129793838,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 214162356,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "20:07 09/04/25",
 },
 {
-["date"] = "22:10 13/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 209175136,
@@ -7915,6 +7913,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1749870607,
+["date"] = "22:10 13/06/25",
 ["elapsed"] = 299.2880000000005,
 ["servertime"] = 1749870606,
 ["HEALER"] = {
@@ -7929,13 +7929,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749870607,
+["guild"] = "House Stalwart",
 },
 },
 [3016] = {
 {
-["date"] = "22:36 14/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 373658238,
@@ -7978,6 +7976,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1742009798,
+["date"] = "22:36 14/03/25",
 ["elapsed"] = 388.0210000000079,
 ["servertime"] = 1742009798,
 ["HEALER"] = {
@@ -7987,12 +7987,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1742009798,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742436784,
+["guild"] = "House Stalwart",
 ["elapsed"] = 389.4800000000396,
+["date"] = "21:13 19/03/25",
+["servertime"] = 1742436783,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 268556519,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 173339400,
+["itemLevel"] = 633.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 470725066,
@@ -8045,25 +8059,25 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["servertime"] = 1742436783,
+},
+{
+["time"] = 1743041498,
+["guild"] = "House Stalwart",
+["elapsed"] = 332.9900000000052,
+["date"] = "21:11 26/03/25",
+["servertime"] = 1743041497,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 268556519,
+["total"] = 184527788,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 173339400,
-["itemLevel"] = 633.875,
+["total"] = 118289503,
+["itemLevel"] = 638.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "21:13 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743041498,
-["elapsed"] = 332.9900000000052,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 198966288,
@@ -8111,44 +8125,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743041497,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 184527788,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 118289503,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:11 26/03/25",
 },
 {
-["time"] = 1744246681,
 ["guild"] = "House Stalwart",
+["time"] = 1744246681,
 ["elapsed"] = 259.9989999999525,
-["date"] = "19:58 09/04/25",
-["servertime"] = 1744246680,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 240141462,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 231046941,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 391150598,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 169387040,
@@ -8196,10 +8177,27 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1744246680,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 240141462,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 231046941,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 391150598,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "19:58 09/04/25",
 },
 {
-["date"] = "22:33 13/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 217587330,
@@ -8247,6 +8245,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1749872031,
+["date"] = "22:33 13/06/25",
 ["elapsed"] = 364.0100000000093,
 ["servertime"] = 1749872031,
 ["HEALER"] = {
@@ -8261,33 +8261,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749872031,
+["guild"] = "House Stalwart",
 },
 },
 [3135] = {
 {
-["time"] = 1755744232,
 ["guild"] = "House Stalwart",
+["time"] = 1755744232,
 ["elapsed"] = 491.7440000000061,
-["date"] = "21:43 20/08/25",
-["servertime"] = 1755744232,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 671170906,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 581989350,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1393377129,
-["itemLevel"] = 703.3125,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 829152466,
@@ -8334,26 +8315,43 @@ DetailsDataStorage = {
 ["itemLevel"] = 682.8125,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 460977996,
-["itemLevel"] = 697.625,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 1299794456,
+["itemLevel"] = 694.3125,
+["classId"] = 1,
 },
 ["Erixi"] = {
 ["total"] = 987086389,
 ["itemLevel"] = 689.625,
 ["classId"] = 7,
 },
-["Giulietta"] = {
-["total"] = 1299794456,
-["itemLevel"] = 694.3125,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 460977996,
+["itemLevel"] = 697.625,
+["classId"] = 12,
 },
 },
+["servertime"] = 1755744232,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 671170906,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 581989350,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1393377129,
+["itemLevel"] = 703.3125,
+["classId"] = 11,
+},
+},
+["date"] = "21:43 20/08/25",
 },
 {
-["date"] = "21:30 27/08/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 311567196,
@@ -8416,6 +8414,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1756348200,
+["date"] = "21:30 27/08/25",
 ["elapsed"] = 441.4789999998175,
 ["servertime"] = 1756348199,
 ["HEALER"] = {
@@ -8435,9 +8435,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1756348200,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:54 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 380908881,
@@ -8459,10 +8461,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.6875,
 ["classId"] = 1,
 },
-["Elayna"] = {
-["total"] = 1262513211,
-["itemLevel"] = 708.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1144151090,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Artanos"] = {
 ["total"] = 179402121,
@@ -8479,10 +8481,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1144151090,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1262513211,
+["itemLevel"] = 708.1875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 785908700,
@@ -8505,8 +8507,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756950885,
-["date"] = "20:54 03/09/25",
 ["elapsed"] = 432.8020000000033,
 ["servertime"] = 1756950885,
 ["HEALER"] = {
@@ -8521,26 +8521,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756950885,
 },
 {
-["time"] = 1760759001,
 ["guild"] = "House Stalwart",
+["time"] = 1760759001,
 ["elapsed"] = 312.6969999999856,
-["date"] = "22:43 17/10/25",
-["servertime"] = 1760759000,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 272104860,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 407843200,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 382414419,
@@ -8572,10 +8558,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 683195733,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 903139822,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 771692896,
@@ -8592,31 +8578,31 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.9375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 903139822,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 683195733,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1761362966,
-["guild"] = "House Stalwart",
-["elapsed"] = 286.8029999999999,
-["date"] = "22:29 24/10/25",
-["servertime"] = 1761362965,
+["servertime"] = 1760759000,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 382281701,
+["total"] = 272104860,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 397673105,
-["itemLevel"] = 714.1875,
+["total"] = 407843200,
+["itemLevel"] = 712.5625,
 ["classId"] = 13,
 },
 },
+["date"] = "22:43 17/10/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761362966,
+["elapsed"] = 286.8029999999999,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 317411179,
@@ -8628,10 +8614,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi"] = {
-["total"] = 822693416,
-["itemLevel"] = 716.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 728005101,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 492652137,
@@ -8648,10 +8634,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.6875,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 728005101,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 822693416,
+["itemLevel"] = 716.875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 896571224,
@@ -8674,8 +8660,24 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["servertime"] = 1761362965,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 382281701,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 397673105,
+["itemLevel"] = 714.1875,
+["classId"] = 13,
+},
+},
+["date"] = "22:29 24/10/25",
 },
 {
+["date"] = "21:06 31/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 125397046,
@@ -8697,15 +8699,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 710,
 ["classId"] = 4,
 },
-["Fortybelow-Proudmoore"] = {
-["total"] = 1479120082,
-["itemLevel"] = 722.125,
-["classId"] = 6,
-},
 ["Heikuro"] = {
 ["total"] = 349245770,
 ["itemLevel"] = 722.0625,
 ["classId"] = 12,
+},
+["Fortybelow-Proudmoore"] = {
+["total"] = 1479120082,
+["itemLevel"] = 722.125,
+["classId"] = 6,
 },
 ["Elayna"] = {
 ["total"] = 1140714971,
@@ -8713,8 +8715,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1761962763,
-["date"] = "21:06 31/10/25",
 ["elapsed"] = 374.0819999999367,
 ["servertime"] = 1761962762,
 ["HEALER"] = {
@@ -8729,26 +8729,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761962763,
 },
 {
-["time"] = 1762394827,
 ["guild"] = "House Stalwart",
+["time"] = 1762394827,
 ["elapsed"] = 414.1550000000279,
-["date"] = "20:07 05/11/25",
-["servertime"] = 1762394826,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 508485713,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 571622571,
-["itemLevel"] = 717.125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 523007255,
@@ -8781,8 +8767,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1762394826,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 508485713,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 571622571,
+["itemLevel"] = 717.125,
+["classId"] = 13,
+},
+},
+["date"] = "20:07 05/11/25",
 },
 {
+["date"] = "21:09 12/11/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 145429524,
@@ -8799,20 +8801,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.9375,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 786773035,
-["itemLevel"] = 722.5,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1018828912,
+["itemLevel"] = 719.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1346466350,
 ["itemLevel"] = 722.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1018828912,
-["itemLevel"] = 719.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 786773035,
+["itemLevel"] = 722.5,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1002303785,
@@ -8835,8 +8837,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1763003394,
-["date"] = "21:09 12/11/25",
 ["elapsed"] = 384.3489999999874,
 ["servertime"] = 1763003393,
 ["HEALER"] = {
@@ -8851,7 +8851,7 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1763003394,
 },
 },
 },
@@ -8869,8 +8869,8 @@ DetailsDataStorage = {
 ["dps_best"] = 936209.8013881344,
 ["dps_best_raid"] = 14080036.86775045,
 ["time_fasterkill_when"] = 1735783813,
-["dps_best_when"] = 1737598280,
 ["dps_best_raid_when"] = 1732160274,
+["dps_best_when"] = 1737598280,
 },
 ["normal"] = {
 ["time_incombat"] = 1263.324000000106,
@@ -8880,8 +8880,8 @@ DetailsDataStorage = {
 ["dps_best"] = 836300.860072104,
 ["dps_best_raid"] = 13380236.1866456,
 ["time_fasterkill_when"] = 1736565118,
-["dps_best_when"] = 1738206424,
 ["dps_best_raid_when"] = 1727917466,
+["dps_best_when"] = 1738206424,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 333.3269999999684,
@@ -8889,149 +8889,28 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 523471.0533355554,
-["dps_best_when"] = 1733815620,
-["time_fasterkill_when"] = 1733267276,
 ["dps_best_raid_when"] = 1733267276,
+["time_fasterkill_when"] = 1733267276,
+["dps_best_when"] = 1733815620,
 ["dps_best_raid"] = 9748308.919745749,
 },
 },
 ["heroic"] = {
-[2898] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 5,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[2902] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 1,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3129] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 9,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3131] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 12,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3009] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 11,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[2918] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 14,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[2920] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 33,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3015] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 39,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3135] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 127,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[2922] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 117,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3014] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 33,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3012] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 28,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
 [2917] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 20,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3177] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -9047,6 +8926,72 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3130] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3012] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 28,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2902] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 14,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3178] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3131] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 12,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
 },
@@ -9058,63 +9003,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3010] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 7,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3011] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 7,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
-},
-[3130] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 6,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3132] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 11,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3134] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 49,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
 },
 [2919] = {
 ["time_incombat"] = 0,
@@ -9124,13 +9014,13 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
-[2921] = {
+[3179] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 17,
+["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -9138,10 +9028,43 @@ DetailsDataStorage = {
 ["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
 },
-[3016] = {
+[3132] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 118,
+["wipes"] = 11,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3014] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 33,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2920] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 33,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3306] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_when"] = 0,
@@ -9157,341 +9080,13 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
-},
-},
-[3009] = {
-["normal"] = {
-["time_incombat"] = 1535.420000000032,
-["time_fasterkill"] = 139.5849999999628,
-["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 1622533.332163067,
-["dps_best_when"] = 1743974919,
-["time_fasterkill_when"] = 1744245704,
-["dps_best_raid_when"] = 1744245704,
-["dps_best_raid"] = 25050376.3871543,
-},
-["heroic"] = {
-["time_incombat"] = 4926.262999999723,
-["time_fasterkill"] = 163.801999999996,
-["wipes"] = 0,
-["kills"] = 20,
-["dps_best"] = 2035880.635149343,
-["dps_best_raid"] = 28488880.06822461,
-["time_fasterkill_when"] = 1752108305,
-["dps_best_raid_when"] = 1749084394,
-["dps_best_when"] = 1744770773,
-},
-},
-[3015] = {
-["normal"] = {
-["time_incombat"] = 2037.051000000036,
-["time_fasterkill"] = 184.484000000055,
-["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 1225601.237368421,
-["dps_best_raid"] = 17359948.46707057,
-["time_fasterkill_when"] = 1744246190,
-["dps_best_raid_when"] = 1744246190,
-["dps_best_when"] = 1744073139,
-},
-["heroic"] = {
-["time_incombat"] = 4398.989999999942,
-["time_fasterkill"] = 241.5610000000015,
-["wipes"] = 0,
-["kills"] = 14,
-["dps_best"] = 2378707.439538014,
-["dps_best_when"] = 1750299409,
-["time_fasterkill_when"] = 1752113089,
-["dps_best_raid_when"] = 1752113089,
-["dps_best_raid"] = 18317905.402776,
-},
-},
-[3129] = {
-["normal"] = {
-["time_incombat"] = 1860.731000000219,
-["time_fasterkill"] = 146.3080000000045,
-["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 3036321.042417326,
-["dps_best_when"] = 1755899079,
-["time_fasterkill_when"] = 1756946341,
-["dps_best_raid_when"] = 1756946341,
-["dps_best_raid"] = 53378088.01979221,
-},
-["heroic"] = {
-["time_incombat"] = 4028.815000000048,
-["time_fasterkill"] = 236.0679999999993,
-["wipes"] = 0,
-["kills"] = 13,
-["dps_best"] = 3870046.280491246,
-["dps_best_raid"] = 70874251.29200082,
-["time_fasterkill_when"] = 1756833855,
-["dps_best_when"] = 1758087170,
-["dps_best_raid_when"] = 1756833855,
-},
-},
-[3131] = {
-["normal"] = {
-["time_incombat"] = 1382.667999999998,
-["time_fasterkill"] = 110.3960000000079,
-["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 4047985.423863229,
-["dps_best_when"] = 1755899836,
-["time_fasterkill_when"] = 1763604493,
-["dps_best_raid_when"] = 1756946923,
-["dps_best_raid"] = 53554033.08809107,
-},
-["heroic"] = {
-["time_incombat"] = 3681.507999999915,
-["time_fasterkill"] = 236.1069999999891,
-["wipes"] = 0,
-["kills"] = 12,
-["dps_best"] = 4527331.250449862,
-["dps_best_raid"] = 91098513.83906871,
-["time_fasterkill_when"] = 1756834490,
-["dps_best_when"] = 1758088375,
-["dps_best_raid_when"] = 1756834490,
-},
-},
-[3133] = {
-["normal"] = {
-["time_incombat"] = 1477.600000000027,
-["time_fasterkill"] = 131.6900000000023,
-["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 2748788.310549841,
-["dps_best_raid_when"] = 1756949049,
-["time_fasterkill_when"] = 1756949049,
-["dps_best_when"] = 1759002084,
-["dps_best_raid"] = 57990259.41225503,
-},
-["heroic"] = {
-["time_incombat"] = 3113.027999999904,
-["time_fasterkill"] = 224.7429999999586,
-["wipes"] = 0,
-["kills"] = 12,
-["dps_best"] = 4316826.468464184,
-["dps_best_raid"] = 78489252.17192721,
-["time_fasterkill_when"] = 1758091187,
-["dps_best_when"] = 1758091187,
-["dps_best_raid_when"] = 1756837126,
-},
-},
-[2918] = {
-["heroic"] = {
-["time_incombat"] = 4234.110999999988,
-["time_fasterkill"] = 175.3110000000161,
-["wipes"] = 0,
-["kills"] = 16,
-["dps_best"] = 874409.7102226049,
-["dps_best_when"] = 1731879437,
-["time_fasterkill_when"] = 1735784198,
-["dps_best_raid_when"] = 1728526728,
-["dps_best_raid"] = 13666832.16696159,
-},
-["normal"] = {
-["time_incombat"] = 1259.561999999995,
-["time_fasterkill"] = 114.2829999999999,
-["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 966846.3551777264,
-["dps_best_raid"] = 13680458.6260239,
-["time_fasterkill_when"] = 1738207008,
-["dps_best_when"] = 1738207008,
-["dps_best_raid_when"] = 1727917891,
-},
-["raidfinder"] = {
-["time_incombat"] = 532.6239999999525,
-["time_fasterkill"] = 265.8800000000047,
-["wipes"] = 0,
-["kills"] = 2,
-["dps_best"] = 498546.5502822032,
-["dps_best_raid"] = 7537347.077628873,
-["time_fasterkill_when"] = 1733816254,
-["dps_best_when"] = 1728945379,
-["dps_best_raid_when"] = 1733816254,
-},
-},
-[3013] = {
-["heroic"] = {
-["time_incombat"] = 4739.224999999991,
-["time_fasterkill"] = 222.939000000013,
-["wipes"] = 0,
-["kills"] = 16,
-["dps_best"] = 2184510.386268497,
-["dps_best_raid"] = 20595347.43710839,
-["time_fasterkill_when"] = 1750296850,
-["dps_best_raid_when"] = 1744251755,
-["dps_best_when"] = 1750296850,
-},
-["normal"] = {
-["time_incombat"] = 1341.047000000004,
-["time_fasterkill"] = 122.8539999999921,
-["wipes"] = 0,
-["kills"] = 6,
-["dps_best"] = 1234256.801516542,
-["dps_best_when"] = 1743978533,
-["time_fasterkill_when"] = 1749868749,
-["dps_best_raid_when"] = 1743978533,
-["dps_best_raid"] = 16082894.33186517,
-},
-["raidfinder"] = {
-["time_incombat"] = 409.4180000000051,
-["time_fasterkill"] = 200.9949999999953,
-["wipes"] = 0,
-["kills"] = 2,
-["dps_best"] = 2072477.356174039,
-["dps_best_raid_when"] = 1747340644,
-["time_fasterkill_when"] = 1747340644,
-["dps_best_when"] = 1747330902,
-["dps_best_raid"] = 18106009.39824416,
-},
-},
-[2922] = {
-["normal"] = {
-["time_incombat"] = 3215.511000000036,
-["time_fasterkill"] = 232.2800000000025,
-["wipes"] = 0,
-["kills"] = 11,
-["dps_best"] = 897143.6918444837,
-["dps_best_raid_when"] = 1731121799,
-["time_fasterkill_when"] = 1731121799,
-["dps_best_when"] = 1731830816,
-["dps_best_raid"] = 9774495.699156087,
-},
-["heroic"] = {
-["time_incombat"] = 4735.303999999906,
-["time_fasterkill"] = 385.9279999999853,
-["wipes"] = 0,
-["kills"] = 10,
-["dps_best"] = 644105.5151057807,
-["dps_best_when"] = 1733973979,
-["time_fasterkill_when"] = 1735787898,
-["dps_best_raid_when"] = 1732159579,
-["dps_best_raid"] = 10488210.99474371,
-},
-["raidfinder"] = {
-["time_incombat"] = 3130.558999999965,
-["time_fasterkill"] = 281.9729999999981,
-["wipes"] = 0,
-["kills"] = 8,
-["dps_best"] = 964069.651970497,
-["dps_best_raid_when"] = 1733441366,
-["time_fasterkill_when"] = 1733441366,
-["dps_best_when"] = 1737931990,
-["dps_best_raid"] = 8733879.587762006,
-},
-},
-[3014] = {
-["normal"] = {
-["time_incombat"] = 1830.95199999998,
-["time_fasterkill"] = 179.2229999999981,
-["wipes"] = 0,
-["kills"] = 7,
-["dps_best"] = 1387628.814459459,
-["dps_best_when"] = 1744072476,
-["time_fasterkill_when"] = 1744247222,
-["dps_best_raid_when"] = 1744247222,
-["dps_best_raid"] = 19170630.33204464,
-},
-["heroic"] = {
-["time_incombat"] = 4760.307999999963,
-["time_fasterkill"] = 239.4429999999993,
-["wipes"] = 0,
-["kills"] = 15,
-["dps_best"] = 2189197.377207662,
-["dps_best_raid"] = 21809955.49289601,
-["time_fasterkill_when"] = 1752112174,
-["dps_best_raid_when"] = 1749088481,
-["dps_best_when"] = 1750298235,
-},
-},
-["normal"] = {
-[2898] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 1,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3131] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 2,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3009] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 2,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3011] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3013] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 6,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
 },
 [3015] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_when"] = 0,
-},
-[3133] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[2918] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
+["wipes"] = 39,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -9502,18 +9097,18 @@ DetailsDataStorage = {
 [2921] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 23,
+["wipes"] = 17,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
-[2919] = {
+[3181] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 2,
+["wipes"] = 3,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -9521,7 +9116,73 @@ DetailsDataStorage = {
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
 },
-[3122] = {
+[3134] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 49,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3016] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 118,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2898] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 5,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2922] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 117,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3182] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3009] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 11,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3159] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
 ["wipes"] = 2,
@@ -9535,95 +9196,40 @@ DetailsDataStorage = {
 [3010] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
+["wipes"] = 7,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3176] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
+["dps_best_when"] = 0,
 },
-[2920] = {
+[3129] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 2,
+["wipes"] = 9,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
-[2922] = {
+[3011] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 14,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[2917] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 5,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3132] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3134] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_raid"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
-["dps_best_raid_when"] = 0,
-},
-[3012] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 5,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3014] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 6,
-["kills"] = 0,
-["dps_best"] = 0,
-["dps_best_when"] = 0,
-["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
-["dps_best_raid"] = 0,
-},
-[3016] = {
-["time_incombat"] = 0,
-["time_fasterkill"] = 0,
-["wipes"] = 3,
+["wipes"] = 7,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
@@ -9634,13 +9240,561 @@ DetailsDataStorage = {
 [3135] = {
 ["time_incombat"] = 0,
 ["time_fasterkill"] = 0,
-["wipes"] = 23,
+["wipes"] = 127,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3180] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
 ["kills"] = 0,
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+},
+},
+[3133] = {
+["normal"] = {
+["time_incombat"] = 1477.600000000027,
+["time_fasterkill"] = 131.6900000000023,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 2748788.310549841,
+["dps_best_when"] = 1759002084,
+["time_fasterkill_when"] = 1756949049,
+["dps_best_raid_when"] = 1756949049,
+["dps_best_raid"] = 57990259.41225503,
+},
+["heroic"] = {
+["time_incombat"] = 3113.027999999904,
+["time_fasterkill"] = 224.7429999999586,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 4316826.468464184,
+["dps_best_raid"] = 78489252.17192721,
+["time_fasterkill_when"] = 1758091187,
+["dps_best_raid_when"] = 1756837126,
+["dps_best_when"] = 1758091187,
+},
+},
+[3015] = {
+["normal"] = {
+["time_incombat"] = 2037.051000000036,
+["time_fasterkill"] = 184.484000000055,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 1225601.237368421,
+["dps_best_raid"] = 17359948.46707057,
+["time_fasterkill_when"] = 1744246190,
+["dps_best_when"] = 1744073139,
+["dps_best_raid_when"] = 1744246190,
+},
+["heroic"] = {
+["time_incombat"] = 4398.989999999942,
+["time_fasterkill"] = 241.5610000000015,
+["wipes"] = 0,
+["kills"] = 14,
+["dps_best"] = 2378707.439538014,
+["dps_best_raid_when"] = 1752113089,
+["time_fasterkill_when"] = 1752113089,
+["dps_best_when"] = 1750299409,
+["dps_best_raid"] = 18317905.402776,
+},
+},
+[3129] = {
+["normal"] = {
+["time_incombat"] = 1860.731000000219,
+["time_fasterkill"] = 146.3080000000045,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 3036321.042417326,
+["dps_best_raid_when"] = 1756946341,
+["time_fasterkill_when"] = 1756946341,
+["dps_best_when"] = 1755899079,
+["dps_best_raid"] = 53378088.01979221,
+},
+["heroic"] = {
+["time_incombat"] = 4028.815000000048,
+["time_fasterkill"] = 236.0679999999993,
+["wipes"] = 0,
+["kills"] = 13,
+["dps_best"] = 3870046.280491246,
+["dps_best_raid"] = 70874251.29200082,
+["time_fasterkill_when"] = 1756833855,
+["dps_best_raid_when"] = 1756833855,
+["dps_best_when"] = 1758087170,
+},
+},
+[3131] = {
+["normal"] = {
+["time_incombat"] = 1382.667999999998,
+["time_fasterkill"] = 110.3960000000079,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 4047985.423863229,
+["dps_best_raid_when"] = 1756946923,
+["time_fasterkill_when"] = 1763604493,
+["dps_best_when"] = 1755899836,
+["dps_best_raid"] = 53554033.08809107,
+},
+["heroic"] = {
+["time_incombat"] = 3681.507999999915,
+["time_fasterkill"] = 236.1069999999891,
+["wipes"] = 0,
+["kills"] = 12,
+["dps_best"] = 4527331.250449862,
+["dps_best_raid"] = 91098513.83906871,
+["time_fasterkill_when"] = 1756834490,
+["dps_best_raid_when"] = 1756834490,
+["dps_best_when"] = 1758088375,
+},
+},
+[3009] = {
+["normal"] = {
+["time_incombat"] = 1535.420000000032,
+["time_fasterkill"] = 139.5849999999628,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 1622533.332163067,
+["dps_best_raid_when"] = 1744245704,
+["time_fasterkill_when"] = 1744245704,
+["dps_best_when"] = 1743974919,
+["dps_best_raid"] = 25050376.3871543,
+},
+["heroic"] = {
+["time_incombat"] = 4926.262999999723,
+["time_fasterkill"] = 163.801999999996,
+["wipes"] = 0,
+["kills"] = 20,
+["dps_best"] = 2035880.635149343,
+["dps_best_raid"] = 28488880.06822461,
+["time_fasterkill_when"] = 1752108305,
+["dps_best_when"] = 1744770773,
+["dps_best_raid_when"] = 1749084394,
+},
+},
+[3135] = {
+["normal"] = {
+["time_incombat"] = 4166.94199999973,
+["time_fasterkill"] = 286.8029999999999,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 2682333.023437858,
+["dps_best_raid"] = 29116459.01542175,
+["time_fasterkill_when"] = 1761362966,
+["dps_best_raid_when"] = 1761362966,
+["dps_best_when"] = 1755904538,
+},
+["heroic"] = {
+["time_incombat"] = 1216.407000000007,
+["time_fasterkill"] = 592.9130000000005,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 2258537.220474402,
+["dps_best_raid_when"] = 1760757864,
+["time_fasterkill_when"] = 1760757864,
+["dps_best_when"] = 1760757864,
+["dps_best_raid"] = 32295343.11779297,
+},
+},
+[3013] = {
+["heroic"] = {
+["time_incombat"] = 4739.224999999991,
+["time_fasterkill"] = 222.939000000013,
+["wipes"] = 0,
+["kills"] = 16,
+["dps_best"] = 2184510.386268497,
+["dps_best_raid"] = 20595347.43710839,
+["time_fasterkill_when"] = 1750296850,
+["dps_best_when"] = 1750296850,
+["dps_best_raid_when"] = 1744251755,
+},
+["normal"] = {
+["time_incombat"] = 1341.047000000004,
+["time_fasterkill"] = 122.8539999999921,
+["wipes"] = 0,
+["kills"] = 6,
+["dps_best"] = 1234256.801516542,
+["dps_best_raid_when"] = 1743978533,
+["time_fasterkill_when"] = 1749868749,
+["dps_best_when"] = 1743978533,
+["dps_best_raid"] = 16082894.33186517,
+},
+["raidfinder"] = {
+["time_incombat"] = 409.4180000000051,
+["time_fasterkill"] = 200.9949999999953,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 2072477.356174039,
+["dps_best_when"] = 1747330902,
+["time_fasterkill_when"] = 1747340644,
+["dps_best_raid_when"] = 1747340644,
+["dps_best_raid"] = 18106009.39824416,
+},
+},
+[2922] = {
+["normal"] = {
+["time_incombat"] = 3215.511000000036,
+["time_fasterkill"] = 232.2800000000025,
+["wipes"] = 0,
+["kills"] = 11,
+["dps_best"] = 897143.6918444837,
+["dps_best_when"] = 1731830816,
+["time_fasterkill_when"] = 1731121799,
+["dps_best_raid_when"] = 1731121799,
+["dps_best_raid"] = 9774495.699156087,
+},
+["heroic"] = {
+["time_incombat"] = 4735.303999999906,
+["time_fasterkill"] = 385.9279999999853,
+["wipes"] = 0,
+["kills"] = 10,
+["dps_best"] = 644105.5151057807,
+["dps_best_raid_when"] = 1732159579,
+["time_fasterkill_when"] = 1735787898,
+["dps_best_when"] = 1733973979,
+["dps_best_raid"] = 10488210.99474371,
+},
+["raidfinder"] = {
+["time_incombat"] = 3130.558999999965,
+["time_fasterkill"] = 281.9729999999981,
+["wipes"] = 0,
+["kills"] = 8,
+["dps_best"] = 964069.651970497,
+["dps_best_when"] = 1737931990,
+["time_fasterkill_when"] = 1733441366,
+["dps_best_raid_when"] = 1733441366,
+["dps_best_raid"] = 8733879.587762006,
+},
+},
+[3014] = {
+["normal"] = {
+["time_incombat"] = 1830.95199999998,
+["time_fasterkill"] = 179.2229999999981,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 1387628.814459459,
+["dps_best_raid_when"] = 1744247222,
+["time_fasterkill_when"] = 1744247222,
+["dps_best_when"] = 1744072476,
+["dps_best_raid"] = 19170630.33204464,
+},
+["heroic"] = {
+["time_incombat"] = 4760.307999999963,
+["time_fasterkill"] = 239.4429999999993,
+["wipes"] = 0,
+["kills"] = 15,
+["dps_best"] = 2189197.377207662,
+["dps_best_raid"] = 21809955.49289601,
+["time_fasterkill_when"] = 1752112174,
+["dps_best_when"] = 1750298235,
+["dps_best_raid_when"] = 1749088481,
+},
+},
+["normal"] = {
+[2898] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3181] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3009] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3011] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 23,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3131] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3133] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3135] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 23,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3013] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2922] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 14,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2919] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3010] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3015] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[3178] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3180] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3306] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3122] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3182] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2920] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 2,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3159] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 5,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3132] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3134] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[3012] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 5,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3014] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[3016] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 },
 [2919] = {
@@ -9652,8 +9806,8 @@ DetailsDataStorage = {
 ["dps_best"] = 906262.2421370354,
 ["dps_best_raid"] = 14626776.974566,
 ["time_fasterkill_when"] = 1738207940,
-["dps_best_when"] = 1738207940,
 ["dps_best_raid_when"] = 1727919083,
+["dps_best_when"] = 1738207940,
 },
 ["heroic"] = {
 ["time_incombat"] = 4401.897999999914,
@@ -9663,8 +9817,8 @@ DetailsDataStorage = {
 ["dps_best"] = 978410.4016889585,
 ["dps_best_raid"] = 15605604.12841284,
 ["time_fasterkill_when"] = 1735785313,
-["dps_best_raid_when"] = 1730341052,
 ["dps_best_when"] = 1737600248,
+["dps_best_raid_when"] = 1730341052,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 1067.599999999919,
@@ -9672,9 +9826,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 3,
 ["dps_best"] = 673838.6053038426,
-["dps_best_raid_when"] = 1728946100,
-["time_fasterkill_when"] = 1727472399,
 ["dps_best_when"] = 1727472399,
+["time_fasterkill_when"] = 1727472399,
+["dps_best_raid_when"] = 1728946100,
 ["dps_best_raid"] = 8759630.311462518,
 },
 },
@@ -9687,8 +9841,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1566146.46705564,
 ["dps_best_raid"] = 19401188.57076643,
 ["time_fasterkill_when"] = 1752108707,
-["dps_best_when"] = 1744771300,
 ["dps_best_raid_when"] = 1750899524,
+["dps_best_when"] = 1744771300,
 },
 ["normal"] = {
 ["time_incombat"] = 1207.219999999956,
@@ -9696,9 +9850,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 6,
 ["dps_best"] = 1108385.881919437,
-["dps_best_when"] = 1743975450,
-["time_fasterkill_when"] = 1749867180,
 ["dps_best_raid_when"] = 1743975450,
+["time_fasterkill_when"] = 1749867180,
+["dps_best_when"] = 1743975450,
 ["dps_best_raid"] = 17911126.27712349,
 },
 ["raidfinder"] = {
@@ -9707,9 +9861,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 1,
 ["dps_best"] = 1982923.769209434,
-["dps_best_raid_when"] = 1747329278,
-["time_fasterkill_when"] = 1747329278,
 ["dps_best_when"] = 1747329278,
+["time_fasterkill_when"] = 1747329278,
+["dps_best_raid_when"] = 1747329278,
 ["dps_best_raid"] = 20930058.08933335,
 },
 },
@@ -9722,8 +9876,8 @@ DetailsDataStorage = {
 ["dps_best"] = 747567.172230076,
 ["dps_best_raid"] = 13644128.80675545,
 ["time_fasterkill_when"] = 1736563843,
-["dps_best_when"] = 1730511681,
 ["dps_best_raid_when"] = 1729302547,
+["dps_best_when"] = 1730511681,
 },
 ["heroic"] = {
 ["time_incombat"] = 4603.117999999944,
@@ -9733,8 +9887,8 @@ DetailsDataStorage = {
 ["dps_best"] = 836983.7833553166,
 ["dps_best_raid"] = 11975066.25576393,
 ["time_fasterkill_when"] = 1735782742,
-["dps_best_when"] = 1731713697,
 ["dps_best_raid_when"] = 1730335587,
+["dps_best_when"] = 1731713697,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 561.0879999999961,
@@ -9744,8 +9898,8 @@ DetailsDataStorage = {
 ["dps_best"] = 360741.4645826383,
 ["dps_best_raid"] = 7562294.100389034,
 ["time_fasterkill_when"] = 1733266175,
-["dps_best_raid_when"] = 1733266175,
 ["dps_best_when"] = 1726528559,
+["dps_best_raid_when"] = 1733266175,
 },
 },
 [2917] = {
@@ -9757,8 +9911,8 @@ DetailsDataStorage = {
 ["dps_best"] = 745171.6390217986,
 ["dps_best_raid"] = 13126668.38211095,
 ["time_fasterkill_when"] = 1732154244,
-["dps_best_when"] = 1733968598,
 ["dps_best_raid_when"] = 1732154244,
+["dps_best_when"] = 1733968598,
 },
 ["normal"] = {
 ["time_incombat"] = 1918.257999999915,
@@ -9768,8 +9922,8 @@ DetailsDataStorage = {
 ["dps_best"] = 765926.8613587965,
 ["dps_best_raid"] = 13143482.46110839,
 ["time_fasterkill_when"] = 1730512143,
-["dps_best_when"] = 1730869731,
 ["dps_best_raid_when"] = 1729303073,
+["dps_best_when"] = 1730869731,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 442.0440000000308,
@@ -9777,9 +9931,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 681958.0431334041,
-["dps_best_when"] = 1733815056,
-["time_fasterkill_when"] = 1733266731,
 ["dps_best_raid_when"] = 1733266731,
+["time_fasterkill_when"] = 1733266731,
+["dps_best_when"] = 1733815056,
 ["dps_best_raid"] = 7919326.18316677,
 },
 },
@@ -9790,9 +9944,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 7,
 ["dps_best"] = 4444709.090236279,
-["dps_best_when"] = 1755295869,
-["time_fasterkill_when"] = 1763000975,
 ["dps_best_raid_when"] = 1756948633,
+["time_fasterkill_when"] = 1763000975,
+["dps_best_when"] = 1755295869,
 ["dps_best_raid"] = 76713783.83990629,
 },
 ["heroic"] = {
@@ -9803,8 +9957,8 @@ DetailsDataStorage = {
 ["dps_best"] = 5624708.146345072,
 ["dps_best_raid"] = 108365947.1494149,
 ["time_fasterkill_when"] = 1758089986,
-["dps_best_when"] = 1758089986,
 ["dps_best_raid_when"] = 1756836535,
+["dps_best_when"] = 1758089986,
 },
 },
 [2920] = {
@@ -9816,8 +9970,8 @@ DetailsDataStorage = {
 ["dps_best"] = 856819.1370459038,
 ["dps_best_raid"] = 10154893.37943067,
 ["time_fasterkill_when"] = 1736566136,
-["dps_best_when"] = 1738207421,
 ["dps_best_raid_when"] = 1730871974,
+["dps_best_when"] = 1738207421,
 },
 ["heroic"] = {
 ["time_incombat"] = 3813.610999999962,
@@ -9827,8 +9981,8 @@ DetailsDataStorage = {
 ["dps_best"] = 947188.7914292166,
 ["dps_best_raid"] = 13745608.64192425,
 ["time_fasterkill_when"] = 1735784674,
-["dps_best_when"] = 1737599498,
 ["dps_best_raid_when"] = 1730339982,
+["dps_best_when"] = 1737599498,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 727.4730000000562,
@@ -9836,9 +9990,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 3,
 ["dps_best"] = 557215.0249091784,
-["dps_best_raid_when"] = 1728946583,
-["time_fasterkill_when"] = 1728946583,
 ["dps_best_when"] = 1727472911,
+["time_fasterkill_when"] = 1728946583,
+["dps_best_raid_when"] = 1728946583,
 ["dps_best_raid"] = 7316436.752032929,
 },
 },
@@ -9851,8 +10005,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_raid_when"] = 0,
 ["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
 },
 [3011] = {
 ["time_incombat"] = 0,
@@ -9860,9 +10014,9 @@ DetailsDataStorage = {
 ["wipes"] = 1,
 ["kills"] = 0,
 ["dps_best"] = 0,
-["dps_best_raid_when"] = 0,
-["time_fasterkill_when"] = 0,
 ["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
 ["dps_best_raid"] = 0,
 },
 [3013] = {
@@ -9873,8 +10027,8 @@ DetailsDataStorage = {
 ["dps_best"] = 0,
 ["dps_best_raid"] = 0,
 ["time_fasterkill_when"] = 0,
-["dps_best_when"] = 0,
 ["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
 },
 },
 [3011] = {
@@ -9886,8 +10040,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2318112.304631748,
 ["dps_best_raid"] = 18920850.31650887,
 ["time_fasterkill_when"] = 1752109304,
-["dps_best_when"] = 1750295055,
 ["dps_best_raid_when"] = 1749085477,
+["dps_best_when"] = 1750295055,
 },
 ["normal"] = {
 ["time_incombat"] = 1604.157000000045,
@@ -9895,9 +10049,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 6,
 ["dps_best"] = 965217.6234132503,
-["dps_best_when"] = 1743976123,
-["time_fasterkill_when"] = 1749867711,
 ["dps_best_raid_when"] = 1743976123,
+["time_fasterkill_when"] = 1749867711,
+["dps_best_when"] = 1743976123,
 ["dps_best_raid"] = 13267259.02895377,
 },
 ["raidfinder"] = {
@@ -9906,9 +10060,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 1949729.507436799,
-["dps_best_raid_when"] = 1747329730,
-["time_fasterkill_when"] = 1747329730,
 ["dps_best_when"] = 1747329730,
+["time_fasterkill_when"] = 1747329730,
+["dps_best_raid_when"] = 1747329730,
 ["dps_best_raid"] = 16800646.94207367,
 },
 },
@@ -9919,9 +10073,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 7,
 ["dps_best"] = 4682325.516798425,
-["dps_best_when"] = 1755900689,
-["time_fasterkill_when"] = 1763604918,
 ["dps_best_raid_when"] = 1756947510,
+["time_fasterkill_when"] = 1763604918,
+["dps_best_when"] = 1755900689,
 ["dps_best_raid"] = 65519620.43920327,
 },
 ["heroic"] = {
@@ -9932,8 +10086,8 @@ DetailsDataStorage = {
 ["dps_best"] = 6441747.809697507,
 ["dps_best_raid"] = 103639529.3690201,
 ["time_fasterkill_when"] = 1756835122,
-["dps_best_when"] = 1758087800,
 ["dps_best_raid_when"] = 1756835122,
+["dps_best_when"] = 1758087800,
 },
 },
 [3132] = {
@@ -9943,9 +10097,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 6,
 ["dps_best"] = 4275309.915055797,
-["dps_best_when"] = 1755901508,
-["time_fasterkill_when"] = 1756948189,
 ["dps_best_raid_when"] = 1756948189,
+["time_fasterkill_when"] = 1756948189,
+["dps_best_when"] = 1755901508,
 ["dps_best_raid"] = 58812535.85569678,
 },
 ["heroic"] = {
@@ -9956,8 +10110,8 @@ DetailsDataStorage = {
 ["dps_best"] = 5400128.943209769,
 ["dps_best_raid"] = 102740299.2501775,
 ["time_fasterkill_when"] = 1756835881,
-["dps_best_when"] = 1758089173,
 ["dps_best_raid_when"] = 1756433420,
+["dps_best_when"] = 1758089173,
 },
 },
 [3134] = {
@@ -9969,8 +10123,8 @@ DetailsDataStorage = {
 ["dps_best"] = 3670616.095495044,
 ["dps_best_raid"] = 58861544.7641461,
 ["time_fasterkill_when"] = 1761362516,
-["dps_best_when"] = 1760758514,
 ["dps_best_raid_when"] = 1756949704,
+["dps_best_when"] = 1760758514,
 },
 ["heroic"] = {
 ["time_incombat"] = 3367.478000000068,
@@ -9980,8 +10134,8 @@ DetailsDataStorage = {
 ["dps_best"] = 4631284.903924477,
 ["dps_best_raid"] = 73378899.53745188,
 ["time_fasterkill_when"] = 1761185201,
-["dps_best_raid_when"] = 1756839105,
 ["dps_best_when"] = 1756839105,
+["dps_best_raid_when"] = 1756839105,
 },
 },
 [3012] = {
@@ -9993,8 +10147,8 @@ DetailsDataStorage = {
 ["dps_best"] = 2842474.674227667,
 ["dps_best_raid"] = 23312364.73028186,
 ["time_fasterkill_when"] = 1752109900,
-["dps_best_raid_when"] = 1746062139,
 ["dps_best_when"] = 1750295689,
+["dps_best_raid_when"] = 1746062139,
 },
 ["normal"] = {
 ["time_incombat"] = 1842.739000000076,
@@ -10002,9 +10156,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 6,
 ["dps_best"] = 1479655.764664822,
-["dps_best_when"] = 1743977281,
-["time_fasterkill_when"] = 1749868267,
 ["dps_best_raid_when"] = 1743977281,
+["time_fasterkill_when"] = 1749868267,
+["dps_best_when"] = 1743977281,
 ["dps_best_raid"] = 19107208.24247517,
 },
 ["raidfinder"] = {
@@ -10013,9 +10167,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 2266861.328281348,
-["dps_best_raid_when"] = 1747340058,
-["time_fasterkill_when"] = 1747330187,
 ["dps_best_when"] = 1747330187,
+["time_fasterkill_when"] = 1747330187,
+["dps_best_raid_when"] = 1747340058,
 ["dps_best_raid"] = 21187021.27205804,
 },
 },
@@ -10028,8 +10182,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1049296.132944663,
 ["dps_best_raid"] = 16337950.66602174,
 ["time_fasterkill_when"] = 1730512583,
-["dps_best_when"] = 1731828689,
 ["dps_best_raid_when"] = 1730512583,
+["dps_best_when"] = 1731828689,
 },
 ["heroic"] = {
 ["time_incombat"] = 5622.091000000027,
@@ -10039,8 +10193,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1020817.327499344,
 ["dps_best_raid"] = 16907697.79735417,
 ["time_fasterkill_when"] = 1735785856,
-["dps_best_when"] = 1737601368,
 ["dps_best_raid_when"] = 1730342476,
+["dps_best_when"] = 1737601368,
 },
 ["raidfinder"] = {
 ["time_incombat"] = 1760.827999999951,
@@ -10050,8 +10204,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1384200.85428461,
 ["dps_best_raid"] = 13140468.90381332,
 ["time_fasterkill_when"] = 1733440961,
-["dps_best_raid_when"] = 1731541889,
 ["dps_best_when"] = 1733440961,
+["dps_best_raid_when"] = 1731541889,
 },
 },
 [3016] = {
@@ -10063,8 +10217,8 @@ DetailsDataStorage = {
 ["dps_best"] = 1234087.523284261,
 ["dps_best_raid"] = 18047656.62101297,
 ["time_fasterkill_when"] = 1744246681,
-["dps_best_raid_when"] = 1744056310,
 ["dps_best_when"] = 1744056310,
+["dps_best_raid_when"] = 1744056310,
 },
 ["heroic"] = {
 ["time_incombat"] = 4423.121000000101,
@@ -10072,9 +10226,9 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 9,
 ["dps_best"] = 2367386.979603286,
-["dps_best_raid_when"] = 1748659691,
-["time_fasterkill_when"] = 1751510167,
 ["dps_best_when"] = 1750301911,
+["time_fasterkill_when"] = 1751510167,
+["dps_best_raid_when"] = 1748659691,
 ["dps_best_raid"] = 19085425.63105242,
 },
 ["raidfinder"] = {
@@ -10083,34 +10237,45 @@ DetailsDataStorage = {
 ["wipes"] = 0,
 ["kills"] = 2,
 ["dps_best"] = 2073131.665133775,
-["dps_best_raid_when"] = 1746143012,
-["time_fasterkill_when"] = 1746143012,
 ["dps_best_when"] = 1746143012,
+["time_fasterkill_when"] = 1746143012,
+["dps_best_raid_when"] = 1746143012,
 ["dps_best_raid"] = 21824545.54288301,
 },
 },
-[3135] = {
-["normal"] = {
-["time_incombat"] = 4166.94199999973,
-["time_fasterkill"] = 286.8029999999999,
-["wipes"] = 0,
-["kills"] = 10,
-["dps_best"] = 2682333.023437858,
-["dps_best_raid"] = 29116459.01542175,
-["time_fasterkill_when"] = 1761362966,
-["dps_best_when"] = 1755904538,
-["dps_best_raid_when"] = 1761362966,
-},
+[2918] = {
 ["heroic"] = {
-["time_incombat"] = 1216.407000000007,
-["time_fasterkill"] = 592.9130000000005,
+["time_incombat"] = 4234.110999999988,
+["time_fasterkill"] = 175.3110000000161,
+["wipes"] = 0,
+["kills"] = 16,
+["dps_best"] = 874409.7102226049,
+["dps_best_raid_when"] = 1728526728,
+["time_fasterkill_when"] = 1735784198,
+["dps_best_when"] = 1731879437,
+["dps_best_raid"] = 13666832.16696159,
+},
+["normal"] = {
+["time_incombat"] = 1259.561999999995,
+["time_fasterkill"] = 114.2829999999999,
+["wipes"] = 0,
+["kills"] = 7,
+["dps_best"] = 966846.3551777264,
+["dps_best_raid"] = 13680458.6260239,
+["time_fasterkill_when"] = 1738207008,
+["dps_best_raid_when"] = 1727917891,
+["dps_best_when"] = 1738207008,
+},
+["raidfinder"] = {
+["time_incombat"] = 532.6239999999525,
+["time_fasterkill"] = 265.8800000000047,
 ["wipes"] = 0,
 ["kills"] = 2,
-["dps_best"] = 2258537.220474402,
-["dps_best_when"] = 1760757864,
-["time_fasterkill_when"] = 1760757864,
-["dps_best_raid_when"] = 1760757864,
-["dps_best_raid"] = 32295343.11779297,
+["dps_best"] = 498546.5502822032,
+["dps_best_raid"] = 7537347.077628873,
+["time_fasterkill_when"] = 1733816254,
+["dps_best_raid_when"] = 1733816254,
+["dps_best_when"] = 1728945379,
 },
 },
 },
@@ -10122,8 +10287,6 @@ DetailsDataStorage = {
 ["heroic"] = {
 [2898] = {
 {
-["date"] = "20:13 16/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 96696396,
@@ -10196,6 +10359,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729127597,
+["date"] = "20:13 16/10/24",
 ["elapsed"] = 205.0100000000093,
 ["servertime"] = 1729127596,
 ["HEALER"] = {
@@ -10210,11 +10375,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729127597,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:27 23/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 119653714,
@@ -10241,10 +10404,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
-["Rylacus-ArgentDawn"] = {
-["total"] = 147276602,
-["itemLevel"] = 616,
-["classId"] = 4,
+["Nil-ArgentDawn"] = {
+["total"] = 200792654,
+["itemLevel"] = 619.25,
+["classId"] = 10,
 },
 ["Nidokiv-ArgentDawn"] = {
 ["total"] = 75348538,
@@ -10286,12 +10449,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 621.375,
 ["classId"] = 1,
 },
-["Nil-ArgentDawn"] = {
-["total"] = 200792654,
-["itemLevel"] = 619.25,
-["classId"] = 10,
+["Rylacus-ArgentDawn"] = {
+["total"] = 147276602,
+["itemLevel"] = 616,
+["classId"] = 4,
 },
 },
+["time"] = 1729733269,
+["date"] = "20:27 23/10/24",
 ["elapsed"] = 234.1739999999991,
 ["servertime"] = 1729733268,
 ["HEALER"] = {
@@ -10306,11 +10471,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729733269,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:12 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 104188616,
@@ -10393,6 +10556,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730337163,
+["date"] = "20:12 30/10/24",
 ["elapsed"] = 194.9269999999669,
 ["servertime"] = 1730337163,
 ["HEALER"] = {
@@ -10407,31 +10572,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730337163,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1731725472,
 ["guild"] = "House Stalwart",
+["time"] = 1731725472,
 ["elapsed"] = 187.3469999999506,
-["date"] = "20:51 15/11/24",
-["servertime"] = 1731725472,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 133530135,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 148191034,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 234395797,
-["itemLevel"] = 617.875,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 92352639,
@@ -10494,20 +10640,30 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1732160274,
-["guild"] = "House Stalwart",
-["elapsed"] = 159.0549999999967,
-["date"] = "21:37 20/11/24",
-["servertime"] = 1732160273,
+["servertime"] = 1731725472,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 95067595,
+["total"] = 133530135,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok-ArgentDawn"] = {
+["total"] = 148191034,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
 },
+["Zephyrri-ArgentDawn"] = {
+["total"] = 234395797,
+["itemLevel"] = 617.875,
+["classId"] = 7,
+},
+},
+["date"] = "20:51 15/11/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1732160274,
+["elapsed"] = 159.0549999999967,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 104316542,
@@ -10575,11 +10731,34 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732160273,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 95067595,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "21:37 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733365238,
+["guild"] = "House Stalwart",
 ["elapsed"] = 181.0210000000079,
+["date"] = "20:20 04/12/24",
+["servertime"] = 1733365238,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 153785190,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 105020302,
+["itemLevel"] = 630.25,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 103957810,
@@ -10642,25 +10821,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733365238,
+},
+{
+["time"] = 1733969154,
+["guild"] = "House Stalwart",
+["elapsed"] = 165.6430000000401,
+["date"] = "20:05 11/12/24",
+["servertime"] = 1733969153,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 153785190,
+["total"] = 101038824,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 105020302,
-["itemLevel"] = 630.25,
-["classId"] = 11,
+["Xerimok-ArgentDawn"] = {
+["total"] = 98285656,
+["itemLevel"] = 620.125,
+["classId"] = 13,
 },
 },
-["date"] = "20:20 04/12/24",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733969154,
-["elapsed"] = 165.6430000000401,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 118680165,
@@ -10718,44 +10897,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733969153,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 101038824,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 98285656,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "20:05 11/12/24",
 },
 {
-["time"] = 1734574643,
 ["guild"] = "House Stalwart",
+["time"] = 1734574643,
 ["elapsed"] = 201.2339999999967,
-["date"] = "20:17 18/12/24",
-["servertime"] = 1734574642,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 124199000,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 128298895,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 110885586,
-["itemLevel"] = 604.875,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 76511632,
@@ -10808,20 +10954,37 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1734574642,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 124199000,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 128298895,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 110885586,
+["itemLevel"] = 604.875,
+["classId"] = 5,
+},
+},
+["date"] = "20:17 18/12/24",
 },
 {
-["date"] = "20:10 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 221271013,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 220973178,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 188457938,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 157849184,
@@ -10833,15 +10996,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Angélique"] = {
-["total"] = 109750046,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 71107790,
+["itemLevel"] = 630.875,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 188457938,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 220973178,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 140566793,
@@ -10858,12 +11021,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Kadria"] = {
-["total"] = 71107790,
-["itemLevel"] = 630.875,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 109750046,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
 },
 },
+["time"] = 1735783813,
+["date"] = "20:10 01/01/25",
 ["elapsed"] = 148.6539999999804,
 ["servertime"] = 1735783812,
 ["HEALER"] = {
@@ -10878,12 +11043,26 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735783813,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1737598280,
+["guild"] = "House Stalwart",
 ["elapsed"] = 169.6700000000419,
+["date"] = "20:11 22/01/25",
+["servertime"] = 1737598279,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 132517390,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 115865373,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 66823651,
@@ -10931,22 +11110,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1737598279,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 132517390,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 115865373,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:11 22/01/25",
 },
 {
+["date"] = "20:29 05/02/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 70515460,
@@ -10994,8 +11161,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1738808940,
-["date"] = "20:29 05/02/25",
 ["elapsed"] = 176.6940000000177,
 ["servertime"] = 1738808940,
 ["HEALER"] = {
@@ -11010,11 +11175,13 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1738808940,
 },
 },
 [2902] = {
 {
+["date"] = "20:48 27/09/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 142599477,
@@ -11077,8 +11244,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1727488096,
-["date"] = "20:48 27/09/24",
 ["elapsed"] = 403.0139999999665,
 ["servertime"] = 1727488096,
 ["HEALER"] = {
@@ -11093,11 +11258,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1727488096,
 },
 {
-["date"] = "19:47 16/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 143724245,
@@ -11165,6 +11328,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729126050,
+["date"] = "19:47 16/10/24",
 ["elapsed"] = 247.2839999999851,
 ["servertime"] = 1729126050,
 ["HEALER"] = {
@@ -11179,11 +11344,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729126050,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:51 23/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 132321018,
@@ -11205,15 +11368,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.25,
 ["classId"] = 10,
 },
-["Hydeon-ArgentDawn"] = {
-["total"] = 195703748,
-["itemLevel"] = 617.3125,
-["classId"] = 5,
-},
 ["Lleandryn-ArgentDawn"] = {
 ["total"] = 203121630,
 ["itemLevel"] = 0,
 ["classId"] = 3,
+},
+["Hydeon-ArgentDawn"] = {
+["total"] = 195703748,
+["itemLevel"] = 617.3125,
+["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
 ["total"] = 16885452,
@@ -11251,6 +11414,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729731087,
+["date"] = "19:51 23/10/24",
 ["elapsed"] = 275.6300000000047,
 ["servertime"] = 1729731086,
 ["HEALER"] = {
@@ -11265,11 +11430,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729731087,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:46 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 147841193,
@@ -11347,6 +11510,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730335587,
+["date"] = "19:46 30/10/24",
 ["elapsed"] = 233.3080000000191,
 ["servertime"] = 1730335586,
 ["HEALER"] = {
@@ -11361,9 +11526,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730335587,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "19:47 13/11/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 155930642,
@@ -11410,15 +11577,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 621.5,
 ["classId"] = 7,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 231406016,
-["itemLevel"] = 625.9375,
-["classId"] = 11,
-},
 ["Beamindemon-Proudmoore"] = {
 ["total"] = 116250612,
 ["itemLevel"] = 631.3125,
 ["classId"] = 12,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 231406016,
+["itemLevel"] = 625.9375,
+["classId"] = 11,
 },
 ["Lleandryn-ArgentDawn"] = {
 ["total"] = 190388579,
@@ -11431,8 +11598,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1731548875,
-["date"] = "19:47 13/11/24",
 ["elapsed"] = 226.4290000000037,
 ["servertime"] = 1731548875,
 ["HEALER"] = {
@@ -11452,21 +11617,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1731548875,
 },
 {
-["time"] = 1732153618,
 ["guild"] = "House Stalwart",
+["time"] = 1732153618,
 ["elapsed"] = 201.6409999999996,
-["date"] = "19:46 20/11/24",
-["servertime"] = 1732153617,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 74378291,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 120811731,
@@ -11529,11 +11685,34 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732153617,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 74378291,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "19:46 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733363714,
+["guild"] = "House Stalwart",
 ["elapsed"] = 211.4380000000238,
+["date"] = "19:55 04/12/24",
+["servertime"] = 1733363713,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 146360546,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 92486604,
+["itemLevel"] = 630.25,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 136173226,
@@ -11591,25 +11770,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733363713,
+},
+{
+["time"] = 1733967978,
+["guild"] = "House Stalwart",
+["elapsed"] = 208.9130000000587,
+["date"] = "19:46 11/12/24",
+["servertime"] = 1733967977,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 146360546,
+["total"] = 63729854,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 92486604,
-["itemLevel"] = 630.25,
-["classId"] = 11,
+["Xerimok-ArgentDawn"] = {
+["total"] = 90101846,
+["itemLevel"] = 620.125,
+["classId"] = 13,
 },
 },
-["date"] = "19:55 04/12/24",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733967978,
-["elapsed"] = 208.9130000000587,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 112235190,
@@ -11667,44 +11846,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733967977,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 63729854,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 90101846,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "19:46 11/12/24",
 },
 {
-["time"] = 1734573164,
 ["guild"] = "House Stalwart",
+["time"] = 1734573164,
 ["elapsed"] = 209.0639999999985,
-["date"] = "19:52 18/12/24",
-["servertime"] = 1734573163,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 96194647,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 95446819,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 131054095,
-["itemLevel"] = 604.875,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 77457188,
@@ -11757,25 +11903,30 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1735354111,
-["guild"] = "House Stalwart",
-["elapsed"] = 199.7210000000196,
-["date"] = "20:48 27/12/24",
-["servertime"] = 1735354110,
+["servertime"] = 1734573163,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 97318978,
-["itemLevel"] = 156.5,
+["total"] = 96194647,
+["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 105150802,
-["itemLevel"] = 623.1875,
+["total"] = 95446819,
+["itemLevel"] = 620.5625,
 ["classId"] = 13,
 },
+["Mykellqt-Sargeras"] = {
+["total"] = 131054095,
+["itemLevel"] = 604.875,
+["classId"] = 5,
 },
+},
+["date"] = "19:52 18/12/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1735354111,
+["elapsed"] = 199.7210000000196,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 73136171,
@@ -11818,20 +11969,32 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1735354110,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 97318978,
+["itemLevel"] = 156.5,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 105150802,
+["itemLevel"] = 623.1875,
+["classId"] = 13,
+},
+},
+["date"] = "20:48 27/12/24",
 },
 {
-["date"] = "19:52 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 229337389,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 236194283,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 211323110,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 111599902,
@@ -11843,15 +12006,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Kadria"] = {
-["total"] = 81358643,
-["itemLevel"] = 630.875,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 145086264,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 211323110,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 236194283,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 183505296,
@@ -11868,12 +12031,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Angélique"] = {
-["total"] = 145086264,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 81358643,
+["itemLevel"] = 630.875,
+["classId"] = 11,
 },
 },
+["time"] = 1735782742,
+["date"] = "19:52 01/01/25",
 ["elapsed"] = 183.0510000000068,
 ["servertime"] = 1735782742,
 ["HEALER"] = {
@@ -11888,11 +12053,9 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735782742,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:49 22/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 90240049,
@@ -11940,6 +12103,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1737596998,
+["date"] = "19:49 22/01/25",
 ["elapsed"] = 254.9329999999609,
 ["servertime"] = 1737596997,
 ["HEALER"] = {
@@ -11954,9 +12119,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1737596998,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:00 05/02/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Burnadine"] = {
 ["total"] = 150688134,
@@ -12004,8 +12171,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1738807214,
-["date"] = "20:00 05/02/25",
 ["elapsed"] = 246.3719999999739,
 ["servertime"] = 1738807213,
 ["HEALER"] = {
@@ -12020,11 +12185,13 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1738807214,
 },
 },
 [3129] = {
 {
+["date"] = "21:40 22/08/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 346587198,
@@ -12046,10 +12213,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 694.75,
 ["classId"] = 1,
 },
-["Erixi"] = {
-["total"] = 951553045,
-["itemLevel"] = 689.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1186858946,
+["itemLevel"] = 691.3125,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 133036166,
@@ -12066,10 +12233,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 688.375,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1186858946,
-["itemLevel"] = 691.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 951553045,
+["itemLevel"] = 689.625,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 720083114,
@@ -12092,8 +12259,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1755916814,
-["date"] = "21:40 22/08/25",
 ["elapsed"] = 487.9779999998864,
 ["servertime"] = 1755916813,
 ["HEALER"] = {
@@ -12113,11 +12278,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1755916814,
 },
 {
-["date"] = "21:44 27/08/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 415757691,
@@ -12180,6 +12343,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1756349052,
+["date"] = "21:44 27/08/25",
 ["elapsed"] = 439.2120000000577,
 ["servertime"] = 1756349051,
 ["HEALER"] = {
@@ -12199,9 +12364,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1756349052,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "21:17 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 374815760,
@@ -12223,10 +12390,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.6875,
 ["classId"] = 1,
 },
-["Elayna"] = {
-["total"] = 995236841,
-["itemLevel"] = 709.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 900142343,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Artanos"] = {
 ["total"] = 511057393,
@@ -12243,10 +12410,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 900142343,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 995236841,
+["itemLevel"] = 709.75,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 746768773,
@@ -12269,8 +12436,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756952263,
-["date"] = "21:17 03/09/25",
 ["elapsed"] = 293.8070000000007,
 ["servertime"] = 1756952262,
 ["HEALER"] = {
@@ -12290,31 +12455,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756952263,
 },
 {
-["time"] = 1758156367,
 ["guild"] = "House Stalwart",
+["time"] = 1758156367,
 ["elapsed"] = 294.804999999993,
-["date"] = "19:46 17/09/25",
-["servertime"] = 1758156367,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 624459065,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 693619242,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 937515994,
-["itemLevel"] = 714.6875,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 287094386,
@@ -12341,10 +12487,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 711.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1178236256,
-["itemLevel"] = 713.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1130850274,
+["itemLevel"] = 708.875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 819183132,
@@ -12361,16 +12507,33 @@ DetailsDataStorage = {
 ["itemLevel"] = 699.125,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1130850274,
-["itemLevel"] = 708.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1178236256,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
 },
 },
+["servertime"] = 1758156367,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 624459065,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 693619242,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 937515994,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["date"] = "19:46 17/09/25",
 },
 {
-["date"] = "19:47 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 344185282,
@@ -12387,10 +12550,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 6,
 },
-["Erixi"] = {
-["total"] = 1106683035,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 771837023,
+["itemLevel"] = 712.25,
+["classId"] = 3,
 },
 ["Nil"] = {
 ["total"] = 810981744,
@@ -12402,10 +12565,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 771837023,
-["itemLevel"] = 712.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1106683035,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 736469914,
@@ -12428,6 +12591,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1758761264,
+["date"] = "19:47 24/09/25",
 ["elapsed"] = 270.7609999999986,
 ["servertime"] = 1758761263,
 ["HEALER"] = {
@@ -12447,11 +12612,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758761264,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:49 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 381461759,
@@ -12478,10 +12641,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1021609218,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1045363029,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 744138090,
@@ -12498,12 +12661,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1045363029,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1021609218,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759366153,
+["date"] = "19:49 01/10/25",
 ["elapsed"] = 258.3709999999846,
 ["servertime"] = 1759366152,
 ["HEALER"] = {
@@ -12518,11 +12683,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759366153,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:44 08/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 396351942,
@@ -12534,10 +12697,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.8125,
 ["classId"] = 10,
 },
-["Erixi"] = {
-["total"] = 1023963646,
-["itemLevel"] = 713.4375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 974681421,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 679231101,
@@ -12554,10 +12717,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 974681421,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1023963646,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 791010251,
@@ -12580,6 +12743,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1759970663,
+["date"] = "19:44 08/10/25",
 ["elapsed"] = 284.9020000000019,
 ["servertime"] = 1759970663,
 ["HEALER"] = {
@@ -12594,31 +12759,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759970663,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760575595,
 ["guild"] = "House Stalwart",
+["time"] = 1760575595,
 ["elapsed"] = 270.2540000000008,
-["date"] = "19:46 15/10/25",
-["servertime"] = 1760575594,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 456577445,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 623624250,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1018074692,
-["itemLevel"] = 718.75,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 349694479,
@@ -12640,10 +12786,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi"] = {
-["total"] = 1040543748,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1034502103,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 785658957,
@@ -12660,17 +12806,50 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.125,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1034502103,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1040543748,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 },
+["servertime"] = 1760575594,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 456577445,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 623624250,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1018074692,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["date"] = "19:46 15/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761180621,
+["guild"] = "House Stalwart",
 ["elapsed"] = 314.9510000000009,
+["date"] = "19:50 22/10/25",
+["servertime"] = 1761180620,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1068958077,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 540026006,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 410917359,
@@ -12702,10 +12881,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.4375,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 749268827,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1265300121,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 499542057,
@@ -12722,28 +12901,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1265300121,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 749268827,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 },
-["servertime"] = 1761180620,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 1068958077,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 540026006,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-},
-["date"] = "19:50 22/10/25",
 },
 {
+["date"] = "19:44 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 414188919,
@@ -12791,8 +12958,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761785078,
-["date"] = "19:44 29/10/25",
 ["elapsed"] = 325.8769999999786,
 ["servertime"] = 1761785077,
 ["HEALER"] = {
@@ -12807,33 +12972,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761785078,
 },
 },
 [3131] = {
 {
-["time"] = 1756519257,
 ["guild"] = "House Stalwart",
+["time"] = 1756519257,
 ["elapsed"] = 339.9819999998435,
-["date"] = "21:00 29/08/25",
-["servertime"] = 1756519256,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 859334003,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 815716052,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1511049976,
-["itemLevel"] = 707.5,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 485218051,
@@ -12891,8 +13037,29 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1756519256,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 859334003,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 815716052,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1511049976,
+["itemLevel"] = 707.5,
+["classId"] = 11,
+},
+},
+["date"] = "21:00 29/08/25",
 },
 {
+["date"] = "21:31 03/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 508741050,
@@ -12914,10 +13081,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.6875,
 ["classId"] = 1,
 },
-["Elayna"] = {
-["total"] = 1110502416,
-["itemLevel"] = 709.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1096171656,
+["itemLevel"] = 705.3125,
+["classId"] = 7,
 },
 ["Artanos"] = {
 ["total"] = 607271472,
@@ -12934,10 +13101,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.75,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1096171656,
-["itemLevel"] = 705.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1110502416,
+["itemLevel"] = 709.75,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 756708536,
@@ -12960,8 +13127,6 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
-["time"] = 1756953091,
-["date"] = "21:31 03/09/25",
 ["elapsed"] = 324.0979999999981,
 ["servertime"] = 1756953090,
 ["HEALER"] = {
@@ -12981,31 +13146,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1756953091,
 },
 {
-["time"] = 1758157352,
 ["guild"] = "House Stalwart",
+["time"] = 1758157352,
 ["elapsed"] = 410.2300000000396,
-["date"] = "20:02 17/09/25",
-["servertime"] = 1758157351,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 998031864,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 911999472,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1418300864,
-["itemLevel"] = 714.6875,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 828231421,
@@ -13027,20 +13173,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 693.625,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 434878440,
-["itemLevel"] = 713.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1912826881,
+["itemLevel"] = 708.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1625588472,
 ["itemLevel"] = 711.3125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1912826881,
-["itemLevel"] = 708.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 434878440,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 931950928,
@@ -13063,10 +13209,27 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["servertime"] = 1758157351,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 998031864,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 911999472,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1418300864,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:02 17/09/25",
 },
 {
-["date"] = "20:00 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 488329721,
@@ -13083,10 +13246,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 6,
 },
-["Elayna"] = {
-["total"] = 998861878,
-["itemLevel"] = 712.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1334583081,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Nil"] = {
 ["total"] = 484675417,
@@ -13098,10 +13261,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1334583081,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 998861878,
+["itemLevel"] = 712.25,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 968627258,
@@ -13124,6 +13287,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1758762057,
+["date"] = "20:00 24/09/25",
 ["elapsed"] = 288.7839999999851,
 ["servertime"] = 1758762056,
 ["HEALER"] = {
@@ -13143,11 +13308,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758762057,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:05 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 458707240,
@@ -13179,10 +13342,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1089086658,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1214572600,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 896104004,
@@ -13199,12 +13362,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1214572600,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1089086658,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759367137,
+["date"] = "20:05 01/10/25",
 ["elapsed"] = 260.5570000000298,
 ["servertime"] = 1759367136,
 ["HEALER"] = {
@@ -13219,11 +13384,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759367137,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:56 08/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 497290483,
@@ -13235,10 +13398,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.8125,
 ["classId"] = 10,
 },
-["Erixi"] = {
-["total"] = 1344744084,
-["itemLevel"] = 713.4375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1299187465,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 925309051,
@@ -13255,10 +13418,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1299187465,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1344744084,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1008750256,
@@ -13281,6 +13444,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1759971367,
+["date"] = "19:56 08/10/25",
 ["elapsed"] = 313.689000000013,
 ["servertime"] = 1759971366,
 ["HEALER"] = {
@@ -13295,31 +13460,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759971367,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760576315,
 ["guild"] = "House Stalwart",
+["time"] = 1760576315,
 ["elapsed"] = 335.1119999999937,
-["date"] = "19:58 15/10/25",
-["servertime"] = 1760576315,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 741245160,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 925192544,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1133657929,
-["itemLevel"] = 718.75,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 507506152,
@@ -13341,10 +13487,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi"] = {
-["total"] = 1401529005,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1418541951,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1108373167,
@@ -13361,17 +13507,55 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.125,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1418541951,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1401529005,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 },
+["servertime"] = 1760576315,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 741245160,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 925192544,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1133657929,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["date"] = "19:58 15/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761181378,
+["guild"] = "House Stalwart",
 ["elapsed"] = 250.2220000000671,
+["date"] = "20:02 22/10/25",
+["servertime"] = 1761181377,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 669859644,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 706507396,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 908284840,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 491015149,
@@ -13403,10 +13587,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.4375,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1146617774,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1231315441,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 994105545,
@@ -13423,33 +13607,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1231315441,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1146617774,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 },
-["servertime"] = 1761181377,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 669859644,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 706507396,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 908284840,
-["itemLevel"] = 719.6875,
-["classId"] = 11,
-},
-},
-["date"] = "20:02 22/10/25",
 },
 {
+["date"] = "19:57 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 586265841,
@@ -13497,8 +13664,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761785856,
-["date"] = "19:57 29/10/25",
 ["elapsed"] = 348.935999999987,
 ["servertime"] = 1761785855,
 ["HEALER"] = {
@@ -13513,13 +13678,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761785856,
 },
 },
 [3009] = {
 {
-["date"] = "22:22 14/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 266194087,
@@ -13562,6 +13725,8 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["time"] = 1742008942,
+["date"] = "22:22 14/03/25",
 ["elapsed"] = 375.3850000000093,
 ["servertime"] = 1742008941,
 ["HEALER"] = {
@@ -13571,12 +13736,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1742008942,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1742438174,
+["guild"] = "House Stalwart",
 ["elapsed"] = 324.755999999994,
+["date"] = "21:36 19/03/25",
+["servertime"] = 1742438173,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 319131068,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 252504439,
+["itemLevel"] = 633.875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 555456492,
@@ -13629,25 +13808,25 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["servertime"] = 1742438173,
+},
+{
+["time"] = 1743042763,
+["guild"] = "House Stalwart",
+["elapsed"] = 313.1720000000059,
+["date"] = "21:32 26/03/25",
+["servertime"] = 1743042762,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 319131068,
+["total"] = 332728224,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 252504439,
-["itemLevel"] = 633.875,
+["total"] = 199746290,
+["itemLevel"] = 638.5625,
 ["classId"] = 13,
 },
 },
-["date"] = "21:36 19/03/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1743042763,
-["elapsed"] = 313.1720000000059,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 260960595,
@@ -13695,44 +13874,11 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1743042762,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 332728224,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 199746290,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:32 26/03/25",
 },
 {
-["time"] = 1744247932,
 ["guild"] = "House Stalwart",
+["time"] = 1744247932,
 ["elapsed"] = 265.7539999999572,
-["date"] = "20:18 09/04/25",
-["servertime"] = 1744247931,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 380090908,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 311096679,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 529030394,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 200357372,
@@ -13780,25 +13926,35 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1747269861,
-["guild"] = "House Stalwart",
-["elapsed"] = 246.3379999999888,
-["date"] = "19:44 14/05/25",
-["servertime"] = 1747269860,
+["servertime"] = 1744247931,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 335720484,
+["total"] = 380090908,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 311096679,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
 },
+["Mykellqt-Sargeras"] = {
+["total"] = 529030394,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "20:18 09/04/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1747269861,
+["elapsed"] = 246.3379999999888,
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 427342559,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 455808731,
+["itemLevel"] = 651.375,
+["classId"] = 13,
 },
 ["Burnadine"] = {
 ["total"] = 342100998,
@@ -13810,15 +13966,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 576575240,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 512891248,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 455808731,
-["itemLevel"] = 651.375,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 427342559,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 518820513,
@@ -13830,16 +13986,23 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 512891248,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 576575240,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747269860,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 335720484,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "19:44 14/05/25",
 },
 {
-["date"] = "19:41 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 259719248,
@@ -13856,10 +14019,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 673.8125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 645958920,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 591349450,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
 },
 ["Anguis"] = {
 ["total"] = 525599866,
@@ -13876,12 +14039,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 677,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 591349450,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 645958920,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
 },
 },
+["time"] = 1748479266,
+["date"] = "19:41 28/05/25",
 ["elapsed"] = 237.6929999999993,
 ["servertime"] = 1748479265,
 ["HEALER"] = {
@@ -13891,11 +14056,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748479266,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:46 04/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 650229827,
@@ -13948,6 +14111,8 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["time"] = 1749084394,
+["date"] = "19:46 04/06/25",
 ["elapsed"] = 188.774000000034,
 ["servertime"] = 1749084394,
 ["HEALER"] = {
@@ -13962,26 +14127,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749084394,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1749689428,
 ["guild"] = "House Stalwart",
+["time"] = 1749689428,
 ["elapsed"] = 195.2889999999898,
-["date"] = "19:50 11/06/25",
-["servertime"] = 1749689427,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 355025405,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 288181619,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 558189541,
@@ -14034,11 +14185,39 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1749689427,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 355025405,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 288181619,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["date"] = "19:50 11/06/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1750293950,
+["guild"] = "House Stalwart",
 ["elapsed"] = 233.7050000000745,
+["date"] = "19:45 18/06/25",
+["servertime"] = 1750293949,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 304843583,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 264702913,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 427999858,
@@ -14050,20 +14229,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 639.75,
 ["classId"] = 10,
 },
-["Anguis"] = {
-["total"] = 671657440,
-["itemLevel"] = 668.4375,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 353101198,
+["itemLevel"] = 665.9375,
+["classId"] = 4,
 },
 ["Erixi"] = {
 ["total"] = 593933349,
 ["itemLevel"] = 675.5625,
 ["classId"] = 7,
 },
-["Rylacus"] = {
-["total"] = 353101198,
-["itemLevel"] = 665.9375,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 671657440,
+["itemLevel"] = 668.4375,
+["classId"] = 13,
 },
 ["Angelica"] = {
 ["total"] = 503477422,
@@ -14081,24 +14260,8 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["servertime"] = 1750293949,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 304843583,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 264702913,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-},
-["date"] = "19:45 18/06/25",
 },
 {
-["date"] = "19:48 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 232644031,
@@ -14161,6 +14324,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1750898925,
+["date"] = "19:48 25/06/25",
 ["elapsed"] = 198.5349999999162,
 ["servertime"] = 1750898924,
 ["HEALER"] = {
@@ -14175,9 +14340,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1750898925,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "19:49 02/07/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 409548195,
@@ -14220,8 +14387,6 @@ DetailsDataStorage = {
 ["classId"] = 4,
 },
 },
-["time"] = 1751503765,
-["date"] = "19:49 02/07/25",
 ["elapsed"] = 228.8479999999981,
 ["servertime"] = 1751503764,
 ["HEALER"] = {
@@ -14236,9 +14401,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1751503765,
 },
 {
+["date"] = "19:45 09/07/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 537483093,
@@ -14291,8 +14458,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1752108305,
-["date"] = "19:45 09/07/25",
 ["elapsed"] = 163.801999999996,
 ["servertime"] = 1752108305,
 ["HEALER"] = {
@@ -14307,26 +14472,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1752108305,
 },
 {
-["time"] = 1752713386,
 ["guild"] = "House Stalwart",
+["time"] = 1752713386,
 ["elapsed"] = 192.8509999999951,
-["date"] = "19:49 16/07/25",
-["servertime"] = 1752713385,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 373907648,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 397235016,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 229013379,
@@ -14379,32 +14530,27 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
+["servertime"] = 1752713385,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 373907648,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 397235016,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["date"] = "19:49 16/07/25",
 },
 },
 [2918] = {
 {
-["time"] = 1728094266,
 ["guild"] = "House Stalwart",
+["time"] = 1728094266,
 ["elapsed"] = 384.4020000000019,
-["date"] = "21:11 04/10/24",
-["servertime"] = 1728094265,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 225876059,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 218339945,
-["itemLevel"] = 610.8125,
-["classId"] = 13,
-},
-["Keydan-ArgentDawn"] = {
-["total"] = 265930768,
-["itemLevel"] = 610.625,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 168591365,
@@ -14467,10 +14613,27 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1728094265,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 225876059,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 218339945,
+["itemLevel"] = 610.8125,
+["classId"] = 13,
+},
+["Keydan-ArgentDawn"] = {
+["total"] = 265930768,
+["itemLevel"] = 610.625,
+["classId"] = 11,
+},
+},
+["date"] = "21:11 04/10/24",
 },
 {
-["date"] = "20:22 16/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 140144418,
@@ -14543,6 +14706,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729128125,
+["date"] = "20:22 16/10/24",
 ["elapsed"] = 280.8040000000037,
 ["servertime"] = 1729128125,
 ["HEALER"] = {
@@ -14557,11 +14722,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729128125,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:37 23/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 153283190,
@@ -14588,10 +14751,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
-["Rylacus-ArgentDawn"] = {
-["total"] = 185544712,
-["itemLevel"] = 616,
-["classId"] = 4,
+["Nil-ArgentDawn"] = {
+["total"] = 214127627,
+["itemLevel"] = 619.25,
+["classId"] = 10,
 },
 ["Nidokiv-ArgentDawn"] = {
 ["total"] = 228759564,
@@ -14633,12 +14796,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 621.375,
 ["classId"] = 1,
 },
-["Nil-ArgentDawn"] = {
-["total"] = 214127627,
-["itemLevel"] = 619.25,
-["classId"] = 10,
+["Rylacus-ArgentDawn"] = {
+["total"] = 185544712,
+["itemLevel"] = 616,
+["classId"] = 4,
 },
 },
+["time"] = 1729733821,
+["date"] = "20:37 23/10/24",
 ["elapsed"] = 268.9440000000031,
 ["servertime"] = 1729733820,
 ["HEALER"] = {
@@ -14653,11 +14818,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729733821,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:35 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 157788086,
@@ -14740,6 +14903,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730338522,
+["date"] = "20:35 30/10/24",
 ["elapsed"] = 266.8099999999977,
 ["servertime"] = 1730338521,
 ["HEALER"] = {
@@ -14754,31 +14919,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730338522,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1731725994,
 ["guild"] = "House Stalwart",
+["time"] = 1731725994,
 ["elapsed"] = 281.375,
-["date"] = "20:59 15/11/24",
-["servertime"] = 1731725993,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 222006145,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 243335504,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 381403653,
-["itemLevel"] = 617.875,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 187611099,
@@ -14841,20 +14987,30 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1732160684,
-["guild"] = "House Stalwart",
-["elapsed"] = 202.3909999999996,
-["date"] = "21:44 20/11/24",
-["servertime"] = 1732160683,
+["servertime"] = 1731725993,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 150209974,
+["total"] = 222006145,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok-ArgentDawn"] = {
+["total"] = 243335504,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
 },
+["Zephyrri-ArgentDawn"] = {
+["total"] = 381403653,
+["itemLevel"] = 617.875,
+["classId"] = 7,
+},
+},
+["date"] = "20:59 15/11/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1732160684,
+["elapsed"] = 202.3909999999996,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 138360619,
@@ -14922,11 +15078,34 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732160683,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 150209974,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "21:44 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733365890,
+["guild"] = "House Stalwart",
 ["elapsed"] = 256.5469999999914,
+["date"] = "20:31 04/12/24",
+["servertime"] = 1733365889,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 240495286,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 333629800,
+["itemLevel"] = 630.25,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 153750947,
@@ -14989,25 +15168,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733365889,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 240495286,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 333629800,
-["itemLevel"] = 630.25,
-["classId"] = 11,
-},
-},
-["date"] = "20:31 04/12/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733969599,
+["guild"] = "House Stalwart",
 ["elapsed"] = 221.6790000000037,
+["date"] = "20:13 11/12/24",
+["servertime"] = 1733969599,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 132698731,
+["itemLevel"] = 234.75,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 133115767,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 154665441,
@@ -15065,44 +15244,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733969599,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 132698731,
-["itemLevel"] = 234.75,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 133115767,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "20:13 11/12/24",
 },
 {
-["time"] = 1734575108,
 ["guild"] = "House Stalwart",
+["time"] = 1734575108,
 ["elapsed"] = 235.4809999999998,
-["date"] = "20:25 18/12/24",
-["servertime"] = 1734575108,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 151565415,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 122385037,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 198392714,
-["itemLevel"] = 606.6875,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 94994499,
@@ -15155,20 +15301,37 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1734575108,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 151565415,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 122385037,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 198392714,
+["itemLevel"] = 606.6875,
+["classId"] = 5,
+},
+},
+["date"] = "20:25 18/12/24",
 },
 {
-["date"] = "20:16 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 265517608,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 239400804,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 191548378,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 164821938,
@@ -15180,15 +15343,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Angélique"] = {
-["total"] = 149690885,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 83166879,
+["itemLevel"] = 630.875,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 191548378,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 239400804,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 190554494,
@@ -15205,12 +15368,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Kadria"] = {
-["total"] = 83166879,
-["itemLevel"] = 630.875,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 149690885,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
 },
 },
+["time"] = 1735784198,
+["date"] = "20:16 01/01/25",
 ["elapsed"] = 175.3110000000161,
 ["servertime"] = 1735784197,
 ["HEALER"] = {
@@ -15225,12 +15390,26 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735784198,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1737598852,
+["guild"] = "House Stalwart",
 ["elapsed"] = 231.4309999999823,
+["date"] = "20:20 22/01/25",
+["servertime"] = 1737598851,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 200774155,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 159717596,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 86050246,
@@ -15283,22 +15462,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1737598851,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 200774155,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 159717596,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:20 22/01/25",
 },
 {
+["date"] = "20:36 05/02/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 124715027,
@@ -15346,8 +15513,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1738809413,
-["date"] = "20:36 05/02/25",
 ["elapsed"] = 293.0219999999972,
 ["servertime"] = 1738809412,
 ["HEALER"] = {
@@ -15362,11 +15527,13 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1738809413,
 },
 },
 [2920] = {
 {
+["date"] = "20:58 11/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 176026568,
@@ -15419,8 +15586,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1728698335,
-["date"] = "20:58 11/10/24",
 ["elapsed"] = 356.0710000000545,
 ["servertime"] = 1728698335,
 ["HEALER"] = {
@@ -15440,11 +15605,9 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1728698335,
 },
 {
-["date"] = "20:37 16/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 175285861,
@@ -15517,6 +15680,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729129032,
+["date"] = "20:37 16/10/24",
 ["elapsed"] = 318.6529999999329,
 ["servertime"] = 1729129032,
 ["HEALER"] = {
@@ -15531,11 +15696,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729129032,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:05 23/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 180251204,
@@ -15608,6 +15771,8 @@ DetailsDataStorage = {
 ["classId"] = 4,
 },
 },
+["time"] = 1729735530,
+["date"] = "21:05 23/10/24",
 ["elapsed"] = 391.0790000000125,
 ["servertime"] = 1729735529,
 ["HEALER"] = {
@@ -15627,11 +15792,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729735530,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:59 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 172360561,
@@ -15714,6 +15877,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730339982,
+["date"] = "20:59 30/10/24",
 ["elapsed"] = 278.3870000000461,
 ["servertime"] = 1730339981,
 ["HEALER"] = {
@@ -15728,9 +15893,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730339982,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:44 06/11/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 177350141,
@@ -15757,10 +15924,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 616.0625,
 ["classId"] = 8,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 254280233,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
+["Hydeon-ArgentDawn"] = {
+["total"] = 156527822,
+["itemLevel"] = 621,
+["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
 ["total"] = 40006833,
@@ -15792,14 +15959,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 624,
 ["classId"] = 1,
 },
-["Hydeon-ArgentDawn"] = {
-["total"] = 156527822,
-["itemLevel"] = 621,
-["classId"] = 5,
+["Lleandryn-ArgentDawn"] = {
+["total"] = 254280233,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
 },
 },
-["time"] = 1730947455,
-["date"] = "20:44 06/11/24",
 ["elapsed"] = 325.5500000000466,
 ["servertime"] = 1730947454,
 ["HEALER"] = {
@@ -15814,31 +15979,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1730947455,
 },
 {
-["time"] = 1731726670,
 ["guild"] = "House Stalwart",
+["time"] = 1731726670,
 ["elapsed"] = 275.4459999999963,
-["date"] = "21:11 15/11/24",
-["servertime"] = 1731726669,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 149842505,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 272503678,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 359783905,
-["itemLevel"] = 617.875,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 168269104,
@@ -15901,20 +16047,30 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1732161233,
-["guild"] = "House Stalwart",
-["elapsed"] = 285.3830000000016,
-["date"] = "21:53 20/11/24",
-["servertime"] = 1732161232,
+["servertime"] = 1731726669,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 195534823,
+["total"] = 149842505,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok-ArgentDawn"] = {
+["total"] = 272503678,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
 },
+["Zephyrri-ArgentDawn"] = {
+["total"] = 359783905,
+["itemLevel"] = 617.875,
+["classId"] = 7,
+},
+},
+["date"] = "21:11 15/11/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1732161233,
+["elapsed"] = 285.3830000000016,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 174377575,
@@ -15982,11 +16138,34 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732161232,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 195534823,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "21:53 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733367768,
+["guild"] = "House Stalwart",
 ["elapsed"] = 268.9759999999951,
+["date"] = "21:02 04/12/24",
+["servertime"] = 1733367768,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 239464467,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 369982319,
+["itemLevel"] = 630.625,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 169367082,
@@ -16049,25 +16228,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733367768,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 239464467,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 369982319,
-["itemLevel"] = 630.625,
-["classId"] = 11,
-},
-},
-["date"] = "21:02 04/12/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733970158,
+["guild"] = "House Stalwart",
 ["elapsed"] = 243.1879999999655,
+["date"] = "20:22 11/12/24",
+["servertime"] = 1733970157,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 167911524,
+["itemLevel"] = 624.4666666666667,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 166524330,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 163877624,
@@ -16125,44 +16304,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733970157,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 167911524,
-["itemLevel"] = 624.4666666666667,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 166524330,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "20:22 11/12/24",
 },
 {
-["time"] = 1734575730,
 ["guild"] = "House Stalwart",
+["time"] = 1734575730,
 ["elapsed"] = 304.4940000000061,
-["date"] = "20:35 18/12/24",
-["servertime"] = 1734575730,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 79809616,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 209886299,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 273499755,
-["itemLevel"] = 606.6875,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 114021455,
@@ -16215,20 +16361,37 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1734575730,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 79809616,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 209886299,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 273499755,
+["itemLevel"] = 606.6875,
+["classId"] = 5,
+},
+},
+["date"] = "20:35 18/12/24",
 },
 {
-["date"] = "20:24 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 315229190,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 252458237,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 101082761,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 206071350,
@@ -16240,15 +16403,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Angélique"] = {
-["total"] = 161804987,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 108409856,
+["itemLevel"] = 631.2,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 101082761,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 252458237,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 204862058,
@@ -16265,12 +16428,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Kadria"] = {
-["total"] = 108409856,
-["itemLevel"] = 631.2,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 161804987,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
 },
 },
+["time"] = 1735784674,
+["date"] = "20:24 01/01/25",
 ["elapsed"] = 232.0210000000079,
 ["servertime"] = 1735784673,
 ["HEALER"] = {
@@ -16285,12 +16450,26 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735784674,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1737599498,
+["guild"] = "House Stalwart",
 ["elapsed"] = 260.2289999999339,
+["date"] = "20:31 22/01/25",
+["servertime"] = 1737599497,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 243960983,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 194292878,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 101733854,
@@ -16343,22 +16522,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1737599497,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 243960983,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 194292878,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:31 22/01/25",
 },
 {
+["date"] = "20:47 05/02/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 122985183,
@@ -16406,8 +16573,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1738810039,
-["date"] = "20:47 05/02/25",
 ["elapsed"] = 274.1339999999618,
 ["servertime"] = 1738810039,
 ["HEALER"] = {
@@ -16422,28 +16587,14 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1738810039,
 },
 },
 [3015] = {
 {
-["time"] = 1745033912,
 ["guild"] = "House Stalwart",
+["time"] = 1745033912,
 ["elapsed"] = 360.755000000001,
-["date"] = "22:38 18/04/25",
-["servertime"] = 1745033912,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 469713233,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 377667457,
-["itemLevel"] = 647.9375,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 569470173,
@@ -16496,40 +16647,45 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
-},
-{
-["time"] = 1747275851,
-["guild"] = "House Stalwart",
-["elapsed"] = 311.7899999999791,
-["date"] = "21:24 14/05/25",
-["servertime"] = 1747275850,
+["servertime"] = 1745033912,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 372915356,
+["total"] = 469713233,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 377667457,
+["itemLevel"] = 647.9375,
+["classId"] = 13,
 },
+},
+["date"] = "22:38 18/04/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1747275851,
+["elapsed"] = 311.7899999999791,
 ["DAMAGER"] = {
-["Kadria"] = {
-["total"] = 238293790,
-["itemLevel"] = 667.5,
-["classId"] = 11,
+["Zephyrri"] = {
+["total"] = 569595475,
+["itemLevel"] = 669.8125,
+["classId"] = 7,
 },
 ["Burnadine"] = {
 ["total"] = 326658001,
 ["itemLevel"] = 657.75,
 ["classId"] = 9,
 },
-["Zephyrri"] = {
-["total"] = 569595475,
-["itemLevel"] = 669.8125,
-["classId"] = 7,
+["Kadria"] = {
+["total"] = 238293790,
+["itemLevel"] = 667.5,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 647131939,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 561252073,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 374551924,
@@ -16546,16 +16702,23 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 561252073,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 647131939,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747275850,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 372915356,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "21:24 14/05/25",
 },
 {
-["date"] = "20:56 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 191511937,
@@ -16598,6 +16761,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1748483767,
+["date"] = "20:56 28/05/25",
 ["elapsed"] = 334.9959999999846,
 ["servertime"] = 1748483766,
 ["HEALER"] = {
@@ -16607,12 +16772,31 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748483767,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1749090156,
+["guild"] = "House Stalwart",
 ["elapsed"] = 315.8680000000168,
+["date"] = "21:22 04/06/25",
+["servertime"] = 1749090155,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 355966152,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 509417058,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 285661214,
+["itemLevel"] = 669.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 633720783,
@@ -16660,44 +16844,11 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
-["servertime"] = 1749090155,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 355966152,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 509417058,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 285661214,
-["itemLevel"] = 669.6875,
-["classId"] = 11,
-},
-},
-["date"] = "21:22 04/06/25",
 },
 {
-["time"] = 1749694569,
 ["guild"] = "House Stalwart",
+["time"] = 1749694569,
 ["elapsed"] = 301.9260000000068,
-["date"] = "21:16 11/06/25",
-["servertime"] = 1749694568,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 328308957,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 214143379,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 630306557,
@@ -16750,8 +16901,24 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1749694568,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 328308957,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 214143379,
+["itemLevel"] = 657.5,
+["classId"] = 13,
+},
+},
+["date"] = "21:16 11/06/25",
 },
 {
+["date"] = "21:16 18/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 183675988,
@@ -16804,8 +16971,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1750299409,
-["date"] = "21:16 18/06/25",
 ["elapsed"] = 251.9649999999674,
 ["servertime"] = 1750299408,
 ["HEALER"] = {
@@ -16820,11 +16985,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1750299409,
 },
 {
-["date"] = "21:26 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 198872236,
@@ -16882,6 +17045,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1750904807,
+["date"] = "21:26 25/06/25",
 ["elapsed"] = 348.62099999981,
 ["servertime"] = 1750904807,
 ["HEALER"] = {
@@ -16901,26 +17066,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1750904807,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1751508192,
 ["guild"] = "House Stalwart",
+["time"] = 1751508192,
 ["elapsed"] = 280.6190000001807,
-["date"] = "21:03 02/07/25",
-["servertime"] = 1751508191,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 413227748,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 536571236,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 255256843,
@@ -16968,25 +17119,25 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-},
-{
-["time"] = 1752113089,
-["guild"] = "House Stalwart",
-["elapsed"] = 241.5610000000015,
-["date"] = "21:04 09/07/25",
-["servertime"] = 1752113088,
+["servertime"] = 1751508191,
 ["HEALER"] = {
+["Kadria"] = {
+["total"] = 413227748,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
 ["Bleddwen"] = {
-["total"] = 463873074,
+["total"] = 536571236,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Xerimok"] = {
-["total"] = 316935898,
-["itemLevel"] = 0,
-["classId"] = 13,
 },
+["date"] = "21:03 02/07/25",
 },
+{
+["guild"] = "House Stalwart",
+["time"] = 1752113089,
+["elapsed"] = 241.5610000000015,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 589162043,
@@ -17039,25 +17190,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1752717609,
-["guild"] = "House Stalwart",
-["elapsed"] = 263.0279999999912,
-["date"] = "21:00 16/07/25",
-["servertime"] = 1752717608,
+["servertime"] = 1752113088,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 422346659,
+["total"] = 463873074,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 452478616,
+["total"] = 316935898,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 },
+["date"] = "21:04 09/07/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1752717609,
+["elapsed"] = 263.0279999999912,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 197463890,
@@ -17110,32 +17261,27 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-},
-},
-[3135] = {
-{
-["time"] = 1760757864,
-["guild"] = "House Stalwart",
-["elapsed"] = 592.9130000000005,
-["date"] = "22:24 17/10/25",
-["servertime"] = 1760757863,
+["servertime"] = 1752717608,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 992282889,
+["total"] = 422346659,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 1897088891,
-["itemLevel"] = 712.5625,
+["total"] = 452478616,
+["itemLevel"] = 0,
 ["classId"] = 13,
 },
-["Mykellcat"] = {
-["total"] = 2427124413,
-["itemLevel"] = 719.25,
-["classId"] = 11,
+},
+["date"] = "21:00 16/07/25",
 },
 },
+[3135] = {
+{
+["guild"] = "House Stalwart",
+["time"] = 1760757864,
+["elapsed"] = 592.9130000000005,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 817022211,
@@ -17172,10 +17318,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1815013836,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1929061274,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1189391638,
@@ -17192,36 +17338,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.9375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1929061274,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1815013836,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1761361975,
-["guild"] = "House Stalwart",
-["elapsed"] = 623.494000000006,
-["date"] = "22:12 24/10/25",
-["servertime"] = 1761361974,
+["servertime"] = 1760757863,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 1308447025,
+["total"] = 992282889,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 1807674965,
-["itemLevel"] = 714.1875,
+["total"] = 1897088891,
+["itemLevel"] = 712.5625,
 ["classId"] = 13,
 },
 ["Mykellcat"] = {
-["total"] = 2422173626,
-["itemLevel"] = 720.3125,
+["total"] = 2427124413,
+["itemLevel"] = 719.25,
 ["classId"] = 11,
 },
 },
+["date"] = "22:24 17/10/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1761361975,
+["elapsed"] = 623.494000000006,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 810541353,
@@ -17233,10 +17379,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi"] = {
-["total"] = 2199238542,
-["itemLevel"] = 716.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1932277011,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 86159873,
@@ -17253,10 +17399,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.6875,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1932277011,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2199238542,
+["itemLevel"] = 716.875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1483962014,
@@ -17279,12 +17425,29 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["servertime"] = 1761361974,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1308447025,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1807674965,
+["itemLevel"] = 714.1875,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 2422173626,
+["itemLevel"] = 720.3125,
+["classId"] = 11,
+},
+},
+["date"] = "22:12 24/10/25",
 },
 },
 [3013] = {
 {
-["date"] = "21:17 04/04/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 467962587,
@@ -17337,6 +17500,8 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
+["time"] = 1743819454,
+["date"] = "21:17 04/04/25",
 ["elapsed"] = 339.4130000000005,
 ["servertime"] = 1743819453,
 ["HEALER"] = {
@@ -17351,26 +17516,17 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1743819454,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1747273072,
 ["guild"] = "House Stalwart",
+["time"] = 1747273072,
 ["elapsed"] = 322.2149999999674,
-["date"] = "20:37 14/05/25",
-["servertime"] = 1747273071,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 307131969,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 396050716,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 394968361,
+["itemLevel"] = 651.25,
+["classId"] = 13,
 },
 ["Burnadine"] = {
 ["total"] = 242222179,
@@ -17382,15 +17538,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 630520100,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 549249503,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 394968361,
-["itemLevel"] = 651.25,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 396050716,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 553836288,
@@ -17402,16 +17558,23 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 549249503,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 630520100,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747273071,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 307131969,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:37 14/05/25",
 },
 {
-["date"] = "20:25 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 198361174,
@@ -17454,6 +17617,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1748481937,
+["date"] = "20:25 28/05/25",
 ["elapsed"] = 321.7830000000249,
 ["servertime"] = 1748481936,
 ["HEALER"] = {
@@ -17463,12 +17628,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748481937,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1749087308,
+["guild"] = "House Stalwart",
 ["elapsed"] = 242.9839999999967,
+["date"] = "20:35 04/06/25",
+["servertime"] = 1749087307,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 352103296,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 197912373,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 555035317,
@@ -17521,39 +17700,11 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
-["servertime"] = 1749087307,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 352103296,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 197912373,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:35 04/06/25",
 },
 {
-["time"] = 1749691922,
 ["guild"] = "House Stalwart",
+["time"] = 1749691922,
 ["elapsed"] = 311.9869999999937,
-["date"] = "20:32 11/06/25",
-["servertime"] = 1749691921,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 375979658,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 335126994,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 707980183,
@@ -17606,8 +17757,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1749691921,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 375979658,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 335126994,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:32 11/06/25",
 },
 {
+["date"] = "20:34 18/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 173767146,
@@ -17660,8 +17827,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1750296850,
-["date"] = "20:34 18/06/25",
 ["elapsed"] = 222.939000000013,
 ["servertime"] = 1750296849,
 ["HEALER"] = {
@@ -17676,11 +17841,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1750296850,
 },
 {
-["date"] = "21:01 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 182694395,
@@ -17738,6 +17901,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1750903297,
+["date"] = "21:01 25/06/25",
 ["elapsed"] = 253.6419999999926,
 ["servertime"] = 1750903297,
 ["HEALER"] = {
@@ -17757,26 +17922,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1750903297,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1751506397,
 ["guild"] = "House Stalwart",
+["time"] = 1751506397,
 ["elapsed"] = 266.6189999999479,
-["date"] = "20:33 02/07/25",
-["servertime"] = 1751506396,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 516417679,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 518099866,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 246183337,
@@ -17824,25 +17975,25 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-},
-{
-["time"] = 1752111101,
-["guild"] = "House Stalwart",
-["elapsed"] = 275.7649999999994,
-["date"] = "20:31 09/07/25",
-["servertime"] = 1752111100,
+["servertime"] = 1751506396,
 ["HEALER"] = {
+["Kadria"] = {
+["total"] = 516417679,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
 ["Bleddwen"] = {
-["total"] = 556134911,
+["total"] = 518099866,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Xerimok"] = {
-["total"] = 431025890,
-["itemLevel"] = 0,
-["classId"] = 13,
 },
+["date"] = "20:33 02/07/25",
 },
+{
+["guild"] = "House Stalwart",
+["time"] = 1752111101,
+["elapsed"] = 275.7649999999994,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 645551032,
@@ -17895,25 +18046,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1752715562,
-["guild"] = "House Stalwart",
-["elapsed"] = 234.252999999997,
-["date"] = "20:26 16/07/25",
-["servertime"] = 1752715562,
+["servertime"] = 1752111100,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 485879754,
+["total"] = 556134911,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 341424346,
+["total"] = 431025890,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 },
+["date"] = "20:31 09/07/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1752715562,
+["elapsed"] = 234.252999999997,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 177772658,
@@ -17966,27 +18117,32 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
+["servertime"] = 1752715562,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 485879754,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 341424346,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["date"] = "20:26 16/07/25",
 },
 },
 [3014] = {
 {
-["time"] = 1747274601,
 ["guild"] = "House Stalwart",
+["time"] = 1747274601,
 ["elapsed"] = 346.6730000000098,
-["date"] = "21:03 14/05/25",
-["servertime"] = 1747274600,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 482444634,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 496759507,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 649591799,
+["itemLevel"] = 652.625,
+["classId"] = 13,
 },
 ["Burnadine"] = {
 ["total"] = 299679393,
@@ -17998,15 +18154,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 749135874,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 660953955,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 649591799,
-["itemLevel"] = 652.625,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 496759507,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 296316300,
@@ -18018,17 +18174,35 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 660953955,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 749135874,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747274600,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 482444634,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "21:03 14/05/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1748051244,
+["guild"] = "House Stalwart",
 ["elapsed"] = 255.7290000000212,
+["date"] = "20:47 23/05/25",
+["servertime"] = 1748051243,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 326582252,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 190359672,
@@ -18076,19 +18250,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1748051243,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 326582252,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
-["date"] = "20:47 23/05/25",
 },
 {
-["date"] = "20:37 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 278608878,
@@ -18131,6 +18294,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1748482679,
+["date"] = "20:37 28/05/25",
 ["elapsed"] = 337.2599999999802,
 ["servertime"] = 1748482679,
 ["HEALER"] = {
@@ -18140,12 +18305,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748482679,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1749088481,
+["guild"] = "House Stalwart",
 ["elapsed"] = 289.3919999999926,
+["date"] = "20:54 04/06/25",
+["servertime"] = 1749088480,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 455931072,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 488077517,
+["itemLevel"] = 655.6875,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 671471747,
@@ -18198,39 +18377,11 @@ DetailsDataStorage = {
 ["classId"] = 12,
 },
 },
-["servertime"] = 1749088480,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 455931072,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 488077517,
-["itemLevel"] = 655.6875,
-["classId"] = 13,
-},
-},
-["date"] = "20:54 04/06/25",
 },
 {
-["time"] = 1749692472,
 ["guild"] = "House Stalwart",
+["time"] = 1749692472,
 ["elapsed"] = 261.9259999999777,
-["date"] = "20:41 11/06/25",
-["servertime"] = 1749692472,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 317187654,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 347598691,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 626015308,
@@ -18283,8 +18434,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1749692472,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 317187654,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 347598691,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:41 11/06/25",
 },
 {
+["date"] = "20:57 18/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 241908274,
@@ -18337,8 +18504,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1750298235,
-["date"] = "20:57 18/06/25",
 ["elapsed"] = 331.6290000000736,
 ["servertime"] = 1750298235,
 ["HEALER"] = {
@@ -18353,11 +18518,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1750298235,
 },
 {
-["date"] = "21:12 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 259629576,
@@ -18415,6 +18578,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1750903925,
+["date"] = "21:12 25/06/25",
 ["elapsed"] = 325.6740000001155,
 ["servertime"] = 1750903924,
 ["HEALER"] = {
@@ -18434,26 +18599,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1750903925,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1751507578,
 ["guild"] = "House Stalwart",
+["time"] = 1751507578,
 ["elapsed"] = 266.1849999998231,
-["date"] = "20:52 02/07/25",
-["servertime"] = 1751507577,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 507081242,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 476903310,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 287337382,
@@ -18501,25 +18652,25 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-},
-{
-["time"] = 1752112174,
-["guild"] = "House Stalwart",
-["elapsed"] = 239.4429999999993,
-["date"] = "20:49 09/07/25",
-["servertime"] = 1752112173,
+["servertime"] = 1751507577,
 ["HEALER"] = {
+["Kadria"] = {
+["total"] = 507081242,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
 ["Bleddwen"] = {
-["total"] = 449998646,
+["total"] = 476903310,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Xerimok"] = {
-["total"] = 411961449,
-["itemLevel"] = 0,
-["classId"] = 13,
 },
+["date"] = "20:52 02/07/25",
 },
+{
+["guild"] = "House Stalwart",
+["time"] = 1752112174,
+["elapsed"] = 239.4429999999993,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 647756272,
@@ -18572,25 +18723,25 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1752716252,
-["guild"] = "House Stalwart",
-["elapsed"] = 257.6420000000217,
-["date"] = "20:37 16/07/25",
-["servertime"] = 1752716252,
+["servertime"] = 1752112173,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 409745093,
+["total"] = 449998646,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 440537563,
+["total"] = 411961449,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 },
+["date"] = "20:49 09/07/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1752716252,
+["elapsed"] = 257.6420000000217,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 165979450,
@@ -18643,12 +18794,24 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
+["servertime"] = 1752716252,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 409745093,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 440537563,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["date"] = "20:37 16/07/25",
 },
 },
 [3012] = {
 {
-["date"] = "22:11 28/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 842021220,
@@ -18701,6 +18864,8 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["time"] = 1743217919,
+["date"] = "22:11 28/03/25",
 ["elapsed"] = 438.4539999999979,
 ["servertime"] = 1743217918,
 ["HEALER"] = {
@@ -18715,26 +18880,17 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1743217919,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1747271420,
 ["guild"] = "House Stalwart",
+["time"] = 1747271420,
 ["elapsed"] = 330.7710000000079,
-["date"] = "20:10 14/05/25",
-["servertime"] = 1747271419,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 388441083,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 482602572,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 583013628,
+["itemLevel"] = 651.25,
+["classId"] = 13,
 },
 ["Burnadine"] = {
 ["total"] = 369436871,
@@ -18746,15 +18902,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 605457758,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 693958238,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 583013628,
-["itemLevel"] = 651.25,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 482602572,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 796385733,
@@ -18766,16 +18922,23 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 693958238,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 605457758,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747271419,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 388441083,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:10 14/05/25",
 },
 {
-["date"] = "20:11 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 428937169,
@@ -18818,6 +18981,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1748481103,
+["date"] = "20:11 28/05/25",
 ["elapsed"] = 347.7289999999921,
 ["servertime"] = 1748481102,
 ["HEALER"] = {
@@ -18827,11 +18992,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748481103,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:14 04/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 853883608,
@@ -18884,6 +19047,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1749086084,
+["date"] = "20:14 04/06/25",
 ["elapsed"] = 295.6489999999758,
 ["servertime"] = 1749086083,
 ["HEALER"] = {
@@ -18898,26 +19063,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749086084,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1749691084,
 ["guild"] = "House Stalwart",
+["time"] = 1749691084,
 ["elapsed"] = 293.3229999999749,
-["date"] = "20:18 11/06/25",
-["servertime"] = 1749691083,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 309875893,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 226843987,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 671738890,
@@ -18970,8 +19121,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1749691083,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 309875893,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 226843987,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:18 11/06/25",
 },
 {
+["date"] = "20:14 18/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 277501478,
@@ -19019,8 +19186,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1750295689,
-["date"] = "20:14 18/06/25",
 ["elapsed"] = 309.25,
 ["servertime"] = 1750295688,
 ["HEALER"] = {
@@ -19035,11 +19200,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1750295689,
 },
 {
-["date"] = "20:26 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 286546402,
@@ -19102,6 +19265,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1750901202,
+["date"] = "20:26 25/06/25",
 ["elapsed"] = 304.3200000000652,
 ["servertime"] = 1750901201,
 ["HEALER"] = {
@@ -19116,26 +19281,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1750901202,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1751505614,
 ["guild"] = "House Stalwart",
+["time"] = 1751505614,
 ["elapsed"] = 302.3379999999888,
-["date"] = "20:20 02/07/25",
-["servertime"] = 1751505613,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 475604446,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 524128280,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 344571500,
@@ -19183,8 +19334,24 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1751505613,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 475604446,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 524128280,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:20 02/07/25",
 },
 {
+["date"] = "20:11 09/07/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 638031706,
@@ -19237,8 +19404,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1752109900,
-["date"] = "20:11 09/07/25",
 ["elapsed"] = 253.6499999999942,
 ["servertime"] = 1752109899,
 ["HEALER"] = {
@@ -19253,26 +19418,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1752109900,
 },
 {
-["time"] = 1752714915,
 ["guild"] = "House Stalwart",
+["time"] = 1752714915,
 ["elapsed"] = 278.7589999999909,
-["date"] = "20:15 16/07/25",
-["servertime"] = 1752714914,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 470231683,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 340747206,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 292298351,
@@ -19325,10 +19476,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
+["servertime"] = 1752714914,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 470231683,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 340747206,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["date"] = "20:15 16/07/25",
 },
 },
 [2917] = {
 {
+["date"] = "22:24 20/09/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 149299977,
@@ -19396,8 +19563,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1726889083,
-["date"] = "22:24 20/09/24",
 ["elapsed"] = 421.1080000000002,
 ["servertime"] = 1726889082,
 ["HEALER"] = {
@@ -19412,11 +19577,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1726889083,
 },
 {
-["date"] = "20:02 16/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 129867758,
@@ -19489,6 +19652,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729126939,
+["date"] = "20:02 16/10/24",
 ["elapsed"] = 263.1380000000354,
 ["servertime"] = 1729126939,
 ["HEALER"] = {
@@ -19503,11 +19668,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729126939,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:14 23/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 180300575,
@@ -19534,10 +19697,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 624.3125,
 ["classId"] = 8,
 },
-["Rylacus-ArgentDawn"] = {
-["total"] = 173218189,
-["itemLevel"] = 616,
-["classId"] = 4,
+["Nil-ArgentDawn"] = {
+["total"] = 253796993,
+["itemLevel"] = 619.25,
+["classId"] = 10,
 },
 ["Nidokiv-ArgentDawn"] = {
 ["total"] = 283037383,
@@ -19579,12 +19742,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 621.375,
 ["classId"] = 1,
 },
-["Nil-ArgentDawn"] = {
-["total"] = 253796993,
-["itemLevel"] = 619.25,
-["classId"] = 10,
+["Rylacus-ArgentDawn"] = {
+["total"] = 173218189,
+["itemLevel"] = 616,
+["classId"] = 4,
 },
 },
+["time"] = 1729732484,
+["date"] = "20:14 23/10/24",
 ["elapsed"] = 373.3220000000001,
 ["servertime"] = 1729732484,
 ["HEALER"] = {
@@ -19599,11 +19764,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729732484,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:00 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 149654986,
@@ -19681,6 +19844,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730336415,
+["date"] = "20:00 30/10/24",
 ["elapsed"] = 254.8660000000382,
 ["servertime"] = 1730336414,
 ["HEALER"] = {
@@ -19695,9 +19860,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730336415,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "19:58 13/11/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 163688449,
@@ -19749,15 +19916,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 621.5,
 ["classId"] = 7,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 320458610,
-["itemLevel"] = 625.9375,
-["classId"] = 11,
-},
 ["Beamindemon-Proudmoore"] = {
 ["total"] = 118449195,
 ["itemLevel"] = 631.3125,
 ["classId"] = 12,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 320458610,
+["itemLevel"] = 625.9375,
+["classId"] = 11,
 },
 ["Lleandryn-ArgentDawn"] = {
 ["total"] = 76772492,
@@ -19770,8 +19937,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1731549518,
-["date"] = "19:58 13/11/24",
 ["elapsed"] = 247.7710000000079,
 ["servertime"] = 1731549517,
 ["HEALER"] = {
@@ -19786,21 +19951,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1731549518,
 },
 {
-["time"] = 1732154244,
 ["guild"] = "House Stalwart",
+["time"] = 1732154244,
 ["elapsed"] = 182.4600000000028,
-["date"] = "19:57 20/11/24",
-["servertime"] = 1732154243,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 64239639,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 120089931,
@@ -19863,11 +20019,34 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732154243,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 64239639,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "19:57 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733364595,
+["guild"] = "House Stalwart",
 ["elapsed"] = 198.560999999987,
+["date"] = "20:09 04/12/24",
+["servertime"] = 1733364594,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 143839416,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 107369007,
+["itemLevel"] = 630.25,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 121725978,
@@ -19930,25 +20109,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733364594,
+},
+{
+["time"] = 1733968598,
+["guild"] = "House Stalwart",
+["elapsed"] = 235.3020000000252,
+["date"] = "19:56 11/12/24",
+["servertime"] = 1733968598,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 143839416,
+["total"] = 115854238,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 107369007,
-["itemLevel"] = 630.25,
-["classId"] = 11,
+["Xerimok-ArgentDawn"] = {
+["total"] = 140813255,
+["itemLevel"] = 620.125,
+["classId"] = 13,
 },
 },
-["date"] = "20:09 04/12/24",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1733968598,
-["elapsed"] = 235.3020000000252,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 175340377,
@@ -20006,44 +20185,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733968598,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 115854238,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 140813255,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "19:56 11/12/24",
 },
 {
-["time"] = 1734573824,
 ["guild"] = "House Stalwart",
+["time"] = 1734573824,
 ["elapsed"] = 209.2810000000027,
-["date"] = "20:03 18/12/24",
-["servertime"] = 1734573824,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 123111003,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 127343684,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 124085388,
-["itemLevel"] = 604.875,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 78074724,
@@ -20096,20 +20242,37 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1734573824,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 123111003,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 127343684,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 124085388,
+["itemLevel"] = 604.875,
+["classId"] = 5,
+},
+},
+["date"] = "20:03 18/12/24",
 },
 {
-["date"] = "20:01 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 273628963,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 252988255,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 205596304,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 50852844,
@@ -20121,15 +20284,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Angélique"] = {
-["total"] = 174976592,
-["itemLevel"] = 618.3125,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 83833053,
+["itemLevel"] = 630.875,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 205596304,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 252988255,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 195126587,
@@ -20146,12 +20309,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Kadria"] = {
-["total"] = 83833053,
-["itemLevel"] = 630.875,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 174976592,
+["itemLevel"] = 618.3125,
+["classId"] = 12,
 },
 },
+["time"] = 1735783299,
+["date"] = "20:01 01/01/25",
 ["elapsed"] = 185.5359999999928,
 ["servertime"] = 1735783299,
 ["HEALER"] = {
@@ -20166,9 +20331,11 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735783299,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:18 05/02/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 127114270,
@@ -20216,8 +20383,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1738808296,
-["date"] = "20:18 05/02/25",
 ["elapsed"] = 265.8540000000503,
 ["servertime"] = 1738808295,
 ["HEALER"] = {
@@ -20232,33 +20397,14 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1738808296,
 },
 },
 [3122] = {
 {
-["time"] = 1757126306,
 ["guild"] = "House Stalwart",
+["time"] = 1757126306,
 ["elapsed"] = 462.5129999999917,
-["date"] = "21:38 05/09/25",
-["servertime"] = 1757126306,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 1178382035,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 1097154919,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 2306000313,
-["itemLevel"] = 712.125,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1069786988,
@@ -20295,10 +20441,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 707.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 2236822993,
-["itemLevel"] = 706.375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2039206534,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1418942881,
@@ -20315,36 +20461,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.6875,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 2039206534,
-["itemLevel"] = 710.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2236822993,
+["itemLevel"] = 706.375,
+["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1758162654,
-["guild"] = "House Stalwart",
-["elapsed"] = 444.9969999999739,
-["date"] = "21:30 17/09/25",
-["servertime"] = 1758162653,
+["servertime"] = 1757126306,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 1109096114,
+["total"] = 1178382035,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 1123395487,
+["total"] = 1097154919,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 ["Mykellcat"] = {
-["total"] = 1988757639,
-["itemLevel"] = 714.6875,
+["total"] = 2306000313,
+["itemLevel"] = 712.125,
 ["classId"] = 11,
 },
 },
+["date"] = "21:38 05/09/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1758162654,
+["elapsed"] = 444.9969999999739,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1286461082,
@@ -20366,20 +20512,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 694,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 2205563785,
-["itemLevel"] = 713.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1496892951,
+["itemLevel"] = 709.9375,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 2853545642,
 ["itemLevel"] = 711.3125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1496892951,
-["itemLevel"] = 709.9375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2205563785,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1763196976,
@@ -20402,10 +20548,27 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["servertime"] = 1758162653,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 1109096114,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1123395487,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1988757639,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["date"] = "21:30 17/09/25",
 },
 {
-["date"] = "20:38 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1006874225,
@@ -20422,10 +20585,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.0625,
 ["classId"] = 6,
 },
-["Elayna"] = {
-["total"] = 1540242257,
-["itemLevel"] = 711.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2141136967,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Nil"] = {
 ["total"] = 563263929,
@@ -20437,10 +20600,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 2141136967,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1540242257,
+["itemLevel"] = 711.6875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1586927975,
@@ -20463,6 +20626,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1758764323,
+["date"] = "20:38 24/09/25",
 ["elapsed"] = 377.8470000000089,
 ["servertime"] = 1758764323,
 ["HEALER"] = {
@@ -20482,11 +20647,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758764323,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:57 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 941447355,
@@ -20518,10 +20681,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1717015904,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1932098135,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1663747095,
@@ -20538,12 +20701,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1932098135,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1717015904,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759370238,
+["date"] = "20:57 01/10/25",
 ["elapsed"] = 372.0900000000256,
 ["servertime"] = 1759370237,
 ["HEALER"] = {
@@ -20563,11 +20728,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1759370238,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:04 08/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 997924504,
@@ -20594,10 +20757,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Elayna"] = {
-["total"] = 2053133116,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2313207583,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1680353158,
@@ -20614,12 +20777,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.6875,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 2313207583,
-["itemLevel"] = 713.4375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2053133116,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 },
+["time"] = 1759975499,
+["date"] = "21:04 08/10/25",
 ["elapsed"] = 436.4470000000001,
 ["servertime"] = 1759975498,
 ["HEALER"] = {
@@ -20634,31 +20799,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759975499,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760578644,
 ["guild"] = "House Stalwart",
+["time"] = 1760578644,
 ["elapsed"] = 365.1009999999951,
-["date"] = "20:37 15/10/25",
-["servertime"] = 1760578644,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 976440828,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 1074529378,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1622487755,
-["itemLevel"] = 718.75,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 998595549,
@@ -20685,10 +20831,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.8125,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 2096645622,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2257261815,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1696934771,
@@ -20705,17 +20851,55 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.125,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 2257261815,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2096645622,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
+["servertime"] = 1760578644,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 976440828,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1074529378,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1622487755,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["date"] = "20:37 15/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761183358,
+["guild"] = "House Stalwart",
 ["elapsed"] = 327.7709999999497,
+["date"] = "20:35 22/10/25",
+["servertime"] = 1761183357,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 935375571,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1076758995,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1377536496,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 871357889,
@@ -20747,10 +20931,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.4375,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1823722742,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1680162418,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1615124525,
@@ -20767,33 +20951,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1680162418,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1823722742,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 },
-["servertime"] = 1761183357,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 935375571,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 1076758995,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1377536496,
-["itemLevel"] = 719.6875,
-["classId"] = 11,
-},
-},
-["date"] = "20:35 22/10/25",
 },
 {
+["date"] = "20:41 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 797534998,
@@ -20846,8 +21013,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761788467,
-["date"] = "20:41 29/10/25",
 ["elapsed"] = 332.5199999999604,
 ["servertime"] = 1761788466,
 ["HEALER"] = {
@@ -20862,28 +21027,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761788467,
 },
 },
 [2922] = {
 {
-["time"] = 1732935777,
 ["guild"] = "House Stalwart",
+["time"] = 1732935777,
 ["elapsed"] = 486.9729999999981,
-["date"] = "21:02 29/11/24",
-["servertime"] = 1732935776,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 363409668,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 284318948,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 303156274,
@@ -20941,30 +21092,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-},
-{
-["time"] = 1733540424,
-["guild"] = "House Stalwart",
-["elapsed"] = 507.4790000000503,
-["date"] = "21:00 06/12/24",
-["servertime"] = 1733540423,
+["servertime"] = 1732935776,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 421341183,
+["total"] = 363409668,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 423778904,
-["itemLevel"] = 630.8125,
-["classId"] = 11,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 628390346,
-["itemLevel"] = 620.75,
-["classId"] = 7,
+["Xerimok-ArgentDawn"] = {
+["total"] = 284318948,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
 },
 },
+["date"] = "21:02 29/11/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1733540424,
+["elapsed"] = 507.4790000000503,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 313242984,
@@ -21027,11 +21173,44 @@ DetailsDataStorage = {
 ["classId"] = 4,
 },
 },
+["servertime"] = 1733540423,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 421341183,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 423778904,
+["itemLevel"] = 630.8125,
+["classId"] = 11,
+},
+["Zephyrri-ArgentDawn"] = {
+["total"] = 628390346,
+["itemLevel"] = 620.75,
+["classId"] = 7,
+},
+},
+["date"] = "21:00 06/12/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733973979,
+["guild"] = "House Stalwart",
 ["elapsed"] = 479.6659999999683,
+["date"] = "21:26 11/12/24",
+["servertime"] = 1733973979,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 286868004,
+["itemLevel"] = 624.4666666666667,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 295538226,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 308955516,
@@ -21089,24 +21268,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733973979,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 286868004,
-["itemLevel"] = 624.4666666666667,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 295538226,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "21:26 11/12/24",
 },
 {
-["date"] = "21:53 18/12/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 292818094,
@@ -21159,6 +21322,8 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
+["time"] = 1734580439,
+["date"] = "21:53 18/12/24",
 ["elapsed"] = 490.1310000000085,
 ["servertime"] = 1734580438,
 ["HEALER"] = {
@@ -21178,11 +21343,9 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1734580439,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "22:46 27/12/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 201343630,
@@ -21220,6 +21383,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1735361216,
+["date"] = "22:46 27/12/24",
 ["elapsed"] = 500.7700000000186,
 ["servertime"] = 1735361215,
 ["HEALER"] = {
@@ -21239,41 +21404,39 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1735361216,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:18 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 500224374,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 418795346,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 408439273,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 276195625,
 ["itemLevel"] = 625.375,
 ["classId"] = 8,
 },
-["Nil"] = {
-["total"] = 290436857,
-["itemLevel"] = 623,
-["classId"] = 10,
+["Confluence"] = {
+["total"] = 208993534,
+["itemLevel"] = 619.3125,
+["classId"] = 2,
 },
 ["Kadria"] = {
 ["total"] = 156657363,
 ["itemLevel"] = 631.2,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 408439273,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 418795346,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 342052617,
@@ -21290,12 +21453,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Confluence"] = {
-["total"] = 208993534,
-["itemLevel"] = 619.3125,
-["classId"] = 2,
+["Nil"] = {
+["total"] = 290436857,
+["itemLevel"] = 623,
+["classId"] = 10,
 },
 },
+["time"] = 1735787898,
+["date"] = "21:18 01/01/25",
 ["elapsed"] = 385.9279999999853,
 ["servertime"] = 1735787898,
 ["HEALER"] = {
@@ -21310,9 +21475,11 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735787898,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "21:10 08/01/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 212884830,
@@ -21329,25 +21496,25 @@ DetailsDataStorage = {
 ["itemLevel"] = 635.8125,
 ["classId"] = 8,
 },
-["Angélique"] = {
-["total"] = 152282009,
-["itemLevel"] = 620.0625,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 227243105,
+["itemLevel"] = 634.125,
+["classId"] = 11,
 },
 ["Artanos"] = {
 ["total"] = 276162889,
 ["itemLevel"] = 626.1875,
 ["classId"] = 8,
 },
-["Confluence"] = {
-["total"] = 282926781,
-["itemLevel"] = 620.875,
-["classId"] = 2,
+["Nil"] = {
+["total"] = 377745495,
+["itemLevel"] = 623.1875,
+["classId"] = 10,
 },
-["Kadria"] = {
-["total"] = 227243105,
-["itemLevel"] = 634.125,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 152282009,
+["itemLevel"] = 620.0625,
+["classId"] = 12,
 },
 ["Elayna"] = {
 ["total"] = 470159135,
@@ -21369,14 +21536,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Nil"] = {
-["total"] = 377745495,
-["itemLevel"] = 623.1875,
-["classId"] = 10,
+["Confluence"] = {
+["total"] = 282926781,
+["itemLevel"] = 620.875,
+["classId"] = 2,
 },
 },
-["time"] = 1736392258,
-["date"] = "21:10 08/01/25",
 ["elapsed"] = 496.0129999999999,
 ["servertime"] = 1736392258,
 ["HEALER"] = {
@@ -21396,9 +21561,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1736392258,
 },
 {
+["date"] = "21:37 22/01/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 215344019,
@@ -21451,8 +21618,6 @@ DetailsDataStorage = {
 ["classId"] = 4,
 },
 },
-["time"] = 1737603472,
-["date"] = "21:37 22/01/25",
 ["elapsed"] = 488.9079999999376,
 ["servertime"] = 1737603471,
 ["HEALER"] = {
@@ -21467,26 +21632,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1737603472,
 },
 {
-["time"] = 1738814346,
 ["guild"] = "House Stalwart",
+["time"] = 1738814346,
 ["elapsed"] = 417.5329999999376,
-["date"] = "21:59 05/02/25",
-["servertime"] = 1738814346,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 397329603,
-["itemLevel"] = 628.1333333333333,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 486060745,
-["itemLevel"] = 628.5625,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Burnadine"] = {
 ["total"] = 263173238,
@@ -21534,10 +21685,26 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1738814346,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 397329603,
+["itemLevel"] = 628.1333333333333,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 486060745,
+["itemLevel"] = 628.5625,
+["classId"] = 7,
+},
+},
+["date"] = "21:59 05/02/25",
 },
 },
 [3010] = {
 {
+["date"] = "21:25 21/03/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 465327596,
@@ -21554,15 +21721,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 652.8125,
 ["classId"] = 7,
 },
-["Giulietta"] = {
-["total"] = 413072356,
-["itemLevel"] = 642.375,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 307081275,
+["itemLevel"] = 658.25,
+["classId"] = 12,
 },
-["Nil"] = {
-["total"] = 91193163,
-["itemLevel"] = 626.625,
-["classId"] = 10,
+["Confluence"] = {
+["total"] = 289708026,
+["itemLevel"] = 654.9375,
+["classId"] = 2,
 },
 ["Kadria"] = {
 ["total"] = 522875921,
@@ -21579,24 +21746,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 642.6875,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 307081275,
-["itemLevel"] = 658.25,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 413072356,
+["itemLevel"] = 642.375,
+["classId"] = 1,
 },
 ["Erixi"] = {
 ["total"] = 387086533,
 ["itemLevel"] = 644.8125,
 ["classId"] = 7,
 },
-["Confluence"] = {
-["total"] = 289708026,
-["itemLevel"] = 654.9375,
-["classId"] = 2,
+["Nil"] = {
+["total"] = 91193163,
+["itemLevel"] = 626.625,
+["classId"] = 10,
 },
 },
-["time"] = 1742610339,
-["date"] = "21:25 21/03/25",
 ["elapsed"] = 393.4040000000005,
 ["servertime"] = 1742610338,
 ["HEALER"] = {
@@ -21606,12 +21771,26 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1742610339,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1743043458,
+["guild"] = "House Stalwart",
 ["elapsed"] = 337.9060000000027,
+["date"] = "21:44 26/03/25",
+["servertime"] = 1743043457,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 134005418,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 171810143,
+["itemLevel"] = 638.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 175703536,
@@ -21659,44 +21838,11 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["servertime"] = 1743043457,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 134005418,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 171810143,
-["itemLevel"] = 638.5625,
-["classId"] = 13,
-},
-},
-["date"] = "21:44 26/03/25",
 },
 {
-["time"] = 1744248452,
 ["guild"] = "House Stalwart",
+["time"] = 1744248452,
 ["elapsed"] = 271.4589999999153,
-["date"] = "20:27 09/04/25",
-["servertime"] = 1744248451,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 232933563,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 222019643,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 540768535,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 155119307,
@@ -21744,25 +21890,35 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1747270312,
-["guild"] = "House Stalwart",
-["elapsed"] = 222.4629999999888,
-["date"] = "19:51 14/05/25",
-["servertime"] = 1747270311,
+["servertime"] = 1744248451,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 309982283,
+["total"] = 232933563,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 222019643,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
 },
+["Mykellqt-Sargeras"] = {
+["total"] = 540768535,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "20:27 09/04/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1747270312,
+["elapsed"] = 222.4629999999888,
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 275350754,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 348583223,
+["itemLevel"] = 651.375,
+["classId"] = 13,
 },
 ["Burnadine"] = {
 ["total"] = 106014497,
@@ -21774,15 +21930,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 487631644,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 430923056,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 348583223,
-["itemLevel"] = 651.375,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 275350754,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 547348634,
@@ -21794,16 +21950,23 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 430923056,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 487631644,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747270311,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 309982283,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "19:51 14/05/25",
 },
 {
-["date"] = "19:49 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 54139016,
@@ -21820,10 +21983,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 673.8125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 550561866,
-["itemLevel"] = 675.5625,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 524378774,
+["itemLevel"] = 673.3125,
+["classId"] = 7,
 },
 ["Anguis"] = {
 ["total"] = 426871973,
@@ -21840,12 +22003,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 677,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 524378774,
-["itemLevel"] = 673.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 550561866,
+["itemLevel"] = 675.5625,
+["classId"] = 3,
 },
 },
+["time"] = 1748479780,
+["date"] = "19:49 28/05/25",
 ["elapsed"] = 239.7930000000051,
 ["servertime"] = 1748479779,
 ["HEALER"] = {
@@ -21855,11 +22020,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748479780,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "19:55 04/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 535134256,
@@ -21912,6 +22075,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1749084931,
+["date"] = "19:55 04/06/25",
 ["elapsed"] = 218.5050000000047,
 ["servertime"] = 1749084931,
 ["HEALER"] = {
@@ -21926,26 +22091,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749084931,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1749689884,
 ["guild"] = "House Stalwart",
+["time"] = 1749689884,
 ["elapsed"] = 232.8280000000086,
-["date"] = "19:58 11/06/25",
-["servertime"] = 1749689884,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 374448138,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 269275209,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 278071279,
@@ -21998,11 +22149,39 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1749689884,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 374448138,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 269275209,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["date"] = "19:58 11/06/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1750294480,
+["guild"] = "House Stalwart",
 ["elapsed"] = 224.0089999999618,
+["date"] = "19:54 18/06/25",
+["servertime"] = 1750294479,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 205548436,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 274105851,
+["itemLevel"] = 659.4375,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 190075668,
@@ -22050,24 +22229,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1750294479,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 205548436,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 274105851,
-["itemLevel"] = 659.4375,
-["classId"] = 13,
-},
-},
-["date"] = "19:54 18/06/25",
 },
 {
-["date"] = "19:58 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 164010398,
@@ -22130,6 +22293,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1750899524,
+["date"] = "19:58 25/06/25",
 ["elapsed"] = 202.4279999998398,
 ["servertime"] = 1750899524,
 ["HEALER"] = {
@@ -22144,9 +22309,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1750899524,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "19:59 02/07/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 230787919,
@@ -22189,8 +22356,6 @@ DetailsDataStorage = {
 ["classId"] = 4,
 },
 },
-["time"] = 1751504353,
-["date"] = "19:59 02/07/25",
 ["elapsed"] = 217.9740000001621,
 ["servertime"] = 1751504353,
 ["HEALER"] = {
@@ -22205,9 +22370,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1751504353,
 },
 {
+["date"] = "19:51 09/07/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 412186750,
@@ -22260,8 +22427,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1752108707,
-["date"] = "19:51 09/07/25",
 ["elapsed"] = 183.5740000000078,
 ["servertime"] = 1752108706,
 ["HEALER"] = {
@@ -22276,26 +22441,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1752108707,
 },
 {
-["time"] = 1752713801,
 ["guild"] = "House Stalwart",
+["time"] = 1752713801,
 ["elapsed"] = 220.2890000000189,
-["date"] = "19:56 16/07/25",
-["servertime"] = 1752713800,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 307152817,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 195905315,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 146754462,
@@ -22348,10 +22499,26 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
+["servertime"] = 1752713800,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 307152817,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 195905315,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+},
+["date"] = "19:56 16/07/25",
 },
 },
 [3011] = {
 {
+["date"] = "21:47 21/03/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 392789130,
@@ -22368,15 +22535,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 652.8125,
 ["classId"] = 7,
 },
-["Giulietta"] = {
-["total"] = 354953233,
-["itemLevel"] = 642.375,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 286666223,
+["itemLevel"] = 658.25,
+["classId"] = 12,
 },
-["Nil"] = {
-["total"] = 103356076,
-["itemLevel"] = 630.0625,
-["classId"] = 10,
+["Confluence"] = {
+["total"] = 252939717,
+["itemLevel"] = 654.9375,
+["classId"] = 2,
 },
 ["Kadria"] = {
 ["total"] = 453652273,
@@ -22393,24 +22560,22 @@ DetailsDataStorage = {
 ["itemLevel"] = 642.6875,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 286666223,
-["itemLevel"] = 658.25,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 354953233,
+["itemLevel"] = 642.375,
+["classId"] = 1,
 },
 ["Erixi"] = {
 ["total"] = 426707656,
 ["itemLevel"] = 645.25,
 ["classId"] = 7,
 },
-["Confluence"] = {
-["total"] = 252939717,
-["itemLevel"] = 654.9375,
-["classId"] = 2,
+["Nil"] = {
+["total"] = 103356076,
+["itemLevel"] = 630.0625,
+["classId"] = 10,
 },
 },
-["time"] = 1742611630,
-["date"] = "21:47 21/03/25",
 ["elapsed"] = 382.3580000000002,
 ["servertime"] = 1742611630,
 ["HEALER"] = {
@@ -22420,11 +22585,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1742611630,
 },
 {
-["date"] = "21:01 28/03/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 450169017,
@@ -22477,6 +22640,8 @@ DetailsDataStorage = {
 ["classId"] = 1,
 },
 },
+["time"] = 1743213715,
+["date"] = "21:01 28/03/25",
 ["elapsed"] = 331.505999999994,
 ["servertime"] = 1743213715,
 ["HEALER"] = {
@@ -22491,31 +22656,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1743213715,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1744249082,
 ["guild"] = "House Stalwart",
+["time"] = 1744249082,
 ["elapsed"] = 254.2409999999218,
-["date"] = "20:38 09/04/25",
-["servertime"] = 1744249081,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 292690351,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 226067476,
-["itemLevel"] = 646.9375,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 462378855,
-["itemLevel"] = 650.3125,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 167883691,
@@ -22563,25 +22709,35 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1747270820,
-["guild"] = "House Stalwart",
-["elapsed"] = 231.570000000007,
-["date"] = "20:00 14/05/25",
-["servertime"] = 1747270819,
+["servertime"] = 1744249081,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 310799882,
+["total"] = 292690351,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 226067476,
+["itemLevel"] = 646.9375,
+["classId"] = 13,
 },
+["Mykellqt-Sargeras"] = {
+["total"] = 462378855,
+["itemLevel"] = 650.3125,
+["classId"] = 5,
+},
+},
+["date"] = "20:38 09/04/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1747270820,
+["elapsed"] = 231.570000000007,
 ["DAMAGER"] = {
-["Rylacus"] = {
-["total"] = 283286999,
-["itemLevel"] = 661.0625,
-["classId"] = 4,
+["Anguis"] = {
+["total"] = 344092876,
+["itemLevel"] = 651.25,
+["classId"] = 13,
 },
 ["Burnadine"] = {
 ["total"] = 133896204,
@@ -22593,15 +22749,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 667.5,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 444554714,
-["itemLevel"] = 673.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 421490024,
+["itemLevel"] = 665.75,
+["classId"] = 7,
 },
-["Anguis"] = {
-["total"] = 344092876,
-["itemLevel"] = 651.25,
-["classId"] = 13,
+["Rylacus"] = {
+["total"] = 283286999,
+["itemLevel"] = 661.0625,
+["classId"] = 4,
 },
 ["Giulietta"] = {
 ["total"] = 423244572,
@@ -22613,16 +22769,23 @@ DetailsDataStorage = {
 ["itemLevel"] = 672.5,
 ["classId"] = 2,
 },
-["Erixi"] = {
-["total"] = 421490024,
-["itemLevel"] = 665.75,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 444554714,
+["itemLevel"] = 673.3125,
+["classId"] = 3,
 },
 },
+["servertime"] = 1747270819,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 310799882,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:00 14/05/25",
 },
 {
-["date"] = "20:00 28/05/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 182049175,
@@ -22665,6 +22828,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1748480438,
+["date"] = "20:00 28/05/25",
 ["elapsed"] = 243.1900000000023,
 ["servertime"] = 1748480437,
 ["HEALER"] = {
@@ -22674,11 +22839,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1748480438,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:04 04/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 404864952,
@@ -22731,6 +22894,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1749085477,
+["date"] = "20:04 04/06/25",
 ["elapsed"] = 202.6809999999823,
 ["servertime"] = 1749085477,
 ["HEALER"] = {
@@ -22745,26 +22910,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1749085477,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1749690462,
 ["guild"] = "House Stalwart",
+["time"] = 1749690462,
 ["elapsed"] = 208.9759999999951,
-["date"] = "20:07 11/06/25",
-["servertime"] = 1749690461,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 350662469,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 231879012,
-["itemLevel"] = 656.875,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 428824996,
@@ -22817,8 +22968,24 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1749690461,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 350662469,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 231879012,
+["itemLevel"] = 656.875,
+["classId"] = 13,
+},
+},
+["date"] = "20:07 11/06/25",
 },
 {
+["date"] = "20:04 18/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 168672550,
@@ -22866,8 +23033,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1750295055,
-["date"] = "20:04 18/06/25",
 ["elapsed"] = 197.0889999999199,
 ["servertime"] = 1750295054,
 ["HEALER"] = {
@@ -22882,11 +23047,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1750295055,
 },
 {
-["date"] = "20:13 25/06/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 151543551,
@@ -22949,6 +23112,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1750900425,
+["date"] = "20:13 25/06/25",
 ["elapsed"] = 220.6450000000186,
 ["servertime"] = 1750900424,
 ["HEALER"] = {
@@ -22963,26 +23128,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1750900425,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1751505054,
 ["guild"] = "House Stalwart",
+["time"] = 1751505054,
 ["elapsed"] = 216.8349999999628,
-["date"] = "20:10 02/07/25",
-["servertime"] = 1751505053,
-["HEALER"] = {
-["Kadria"] = {
-["total"] = 373712200,
-["itemLevel"] = 637.75,
-["classId"] = 11,
-},
-["Bleddwen"] = {
-["total"] = 316047161,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Artanos"] = {
 ["total"] = 297680124,
@@ -23025,8 +23176,24 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1751505053,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 373712200,
+["itemLevel"] = 637.75,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 316047161,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:10 02/07/25",
 },
 {
+["date"] = "20:01 09/07/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 398826893,
@@ -23079,8 +23246,6 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1752109304,
-["date"] = "20:01 09/07/25",
 ["elapsed"] = 175.7710000000079,
 ["servertime"] = 1752109303,
 ["HEALER"] = {
@@ -23095,26 +23260,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1752109304,
 },
 {
-["time"] = 1752714368,
 ["guild"] = "House Stalwart",
+["time"] = 1752714368,
 ["elapsed"] = 186.6050000000105,
-["date"] = "20:06 16/07/25",
-["servertime"] = 1752714367,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 308519639,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 277538926,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 142106623,
@@ -23167,32 +23318,27 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-},
-},
-[3130] = {
-{
-["time"] = 1756521708,
-["guild"] = "House Stalwart",
-["elapsed"] = 357.5509999999777,
-["date"] = "21:41 29/08/25",
-["servertime"] = 1756521707,
+["servertime"] = 1752714367,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 690703424,
+["total"] = 308519639,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 712535650,
+["total"] = 277538926,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
-["Mykellcat"] = {
-["total"] = 1507475043,
-["itemLevel"] = 707.5,
-["classId"] = 11,
+},
+["date"] = "20:06 16/07/25",
 },
 },
+[3130] = {
+{
+["guild"] = "House Stalwart",
+["time"] = 1756521708,
+["elapsed"] = 357.5509999999777,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 757411511,
@@ -23250,30 +23396,30 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1757123553,
-["guild"] = "House Stalwart",
-["elapsed"] = 368.30799999999,
-["date"] = "20:52 05/09/25",
-["servertime"] = 1757123553,
+["servertime"] = 1756521707,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 527364986,
+["total"] = 690703424,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 942130803,
+["total"] = 712535650,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 ["Mykellcat"] = {
-["total"] = 1674268998,
-["itemLevel"] = 712.125,
+["total"] = 1507475043,
+["itemLevel"] = 707.5,
 ["classId"] = 11,
 },
 },
+["date"] = "21:41 29/08/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1757123553,
+["elapsed"] = 368.30799999999,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 813886481,
@@ -23331,30 +23477,30 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-},
-{
-["time"] = 1758158519,
-["guild"] = "House Stalwart",
-["elapsed"] = 277.2870000000112,
-["date"] = "20:21 17/09/25",
-["servertime"] = 1758158519,
+["servertime"] = 1757123553,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 588261480,
+["total"] = 527364986,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 598584671,
+["total"] = 942130803,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 ["Mykellcat"] = {
-["total"] = 989327751,
-["itemLevel"] = 714.6875,
+["total"] = 1674268998,
+["itemLevel"] = 712.125,
 ["classId"] = 11,
 },
 },
+["date"] = "20:52 05/09/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1758158519,
+["elapsed"] = 277.2870000000112,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 759880036,
@@ -23376,20 +23522,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 693.625,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 1344744104,
-["itemLevel"] = 713.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1652550354,
+["itemLevel"] = 708.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1506177151,
 ["itemLevel"] = 711.3125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1652550354,
-["itemLevel"] = 708.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1344744104,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1087914787,
@@ -23412,10 +23558,27 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["servertime"] = 1758158519,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 588261480,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 598584671,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 989327751,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:21 17/09/25",
 },
 {
-["date"] = "20:12 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 573280052,
@@ -23432,10 +23595,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 6,
 },
-["Elayna"] = {
-["total"] = 1076005992,
-["itemLevel"] = 712.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1408538631,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Nil"] = {
 ["total"] = 929208047,
@@ -23447,10 +23610,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1408538631,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1076005992,
+["itemLevel"] = 712.25,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 924699317,
@@ -23473,6 +23636,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1758762748,
+["date"] = "20:12 24/09/25",
 ["elapsed"] = 244.8260000000009,
 ["servertime"] = 1758762747,
 ["HEALER"] = {
@@ -23492,11 +23657,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758762748,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:22 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 597414954,
@@ -23528,10 +23691,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1374030350,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1234404329,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1066646726,
@@ -23548,12 +23711,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1234404329,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1374030350,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759368146,
+["date"] = "20:22 01/10/25",
 ["elapsed"] = 248.7399999999907,
 ["servertime"] = 1759368145,
 ["HEALER"] = {
@@ -23573,11 +23738,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1759368146,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:08 08/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 941412227,
@@ -23599,15 +23762,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 705.625,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 1850763800,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
-},
 ["Erixi"] = {
 ["total"] = 2332169485,
 ["itemLevel"] = 713.4375,
 ["classId"] = 7,
+},
+["Elayna"] = {
+["total"] = 1850763800,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 582564731,
@@ -23630,6 +23793,8 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["time"] = 1759972120,
+["date"] = "20:08 08/10/25",
 ["elapsed"] = 332.4219999999914,
 ["servertime"] = 1759972120,
 ["HEALER"] = {
@@ -23644,31 +23809,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759972120,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760576975,
 ["guild"] = "House Stalwart",
+["time"] = 1760576975,
 ["elapsed"] = 259.0550000000076,
-["date"] = "20:09 15/10/25",
-["servertime"] = 1760576975,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 513114159,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 675400510,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1067717713,
-["itemLevel"] = 718.75,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 556325258,
@@ -23690,10 +23836,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Erixi"] = {
-["total"] = 1514558366,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1322453552,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1241001612,
@@ -23710,17 +23856,55 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.125,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1322453552,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1514558366,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 },
+["servertime"] = 1760576975,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 513114159,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 675400510,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1067717713,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["date"] = "20:09 15/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761181990,
+["guild"] = "House Stalwart",
 ["elapsed"] = 234.0039999999572,
+["date"] = "20:13 22/10/25",
+["servertime"] = 1761181990,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 535401104,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 663640000,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 864332798,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 579771994,
@@ -23752,10 +23936,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.4375,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1427425231,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1571370009,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1029289720,
@@ -23772,33 +23956,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1571370009,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1427425231,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 },
-["servertime"] = 1761181990,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 535401104,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 663640000,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 864332798,
-["itemLevel"] = 719.6875,
-["classId"] = 11,
-},
-},
-["date"] = "20:13 22/10/25",
 },
 {
+["date"] = "20:07 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 566880588,
@@ -23846,8 +24013,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761786471,
-["date"] = "20:07 29/10/25",
 ["elapsed"] = 245.3020000000252,
 ["servertime"] = 1761786470,
 ["HEALER"] = {
@@ -23862,33 +24027,14 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761786471,
 },
 },
 [3132] = {
 {
-["time"] = 1757124689,
 ["guild"] = "House Stalwart",
+["time"] = 1757124689,
 ["elapsed"] = 415.2489999999962,
-["date"] = "21:11 05/09/25",
-["servertime"] = 1757124688,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 827027499,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 779408722,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1295337069,
-["itemLevel"] = 712.125,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 700015155,
@@ -23925,10 +24071,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 707.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1713862151,
-["itemLevel"] = 706.375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1727570701,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1241696950,
@@ -23945,36 +24091,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.6875,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 1727570701,
-["itemLevel"] = 710.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1713862151,
+["itemLevel"] = 706.375,
+["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1758159422,
-["guild"] = "House Stalwart",
-["elapsed"] = 433.6630000000005,
-["date"] = "20:37 17/09/25",
-["servertime"] = 1758159421,
+["servertime"] = 1757124688,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 762537548,
+["total"] = 827027499,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 864569540,
+["total"] = 779408722,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 ["Mykellcat"] = {
-["total"] = 1136666052,
-["itemLevel"] = 714.6875,
+["total"] = 1295337069,
+["itemLevel"] = 712.125,
 ["classId"] = 11,
 },
 },
+["date"] = "21:11 05/09/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1758159422,
+["elapsed"] = 433.6630000000005,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 913482412,
@@ -23996,20 +24142,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 693.625,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 1886191838,
-["itemLevel"] = 713.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1708685394,
+["itemLevel"] = 708.875,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 2002760623,
 ["itemLevel"] = 711.3125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1708685394,
-["itemLevel"] = 708.875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1886191838,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1458342238,
@@ -24032,10 +24178,27 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["servertime"] = 1758159421,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 762537548,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 864569540,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1136666052,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["date"] = "20:37 17/09/25",
 },
 {
-["date"] = "20:27 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 767619121,
@@ -24052,10 +24215,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.0625,
 ["classId"] = 6,
 },
-["Elayna"] = {
-["total"] = 1292733173,
-["itemLevel"] = 712.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1735044975,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Nil"] = {
 ["total"] = 386062836,
@@ -24067,10 +24230,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1735044975,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1292733173,
+["itemLevel"] = 712.25,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1287006804,
@@ -24093,6 +24256,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1758763677,
+["date"] = "20:27 24/09/25",
 ["elapsed"] = 396.984999999986,
 ["servertime"] = 1758763676,
 ["HEALER"] = {
@@ -24112,11 +24277,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758763677,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:39 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 851314042,
@@ -24148,10 +24311,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 2043409201,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1512953171,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1308458514,
@@ -24168,12 +24331,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1512953171,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2043409201,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759369149,
+["date"] = "20:39 01/10/25",
 ["elapsed"] = 408.6329999999725,
 ["servertime"] = 1759369148,
 ["HEALER"] = {
@@ -24193,11 +24358,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1759369149,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:26 08/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 877895144,
@@ -24229,10 +24392,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 0,
 ["classId"] = 9,
 },
-["Elayna"] = {
-["total"] = 1673486915,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1668661399,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1357168202,
@@ -24249,12 +24412,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.6875,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1668661399,
-["itemLevel"] = 713.4375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1673486915,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 },
+["time"] = 1759973200,
+["date"] = "20:26 08/10/25",
 ["elapsed"] = 421.7339999999967,
 ["servertime"] = 1759973199,
 ["HEALER"] = {
@@ -24269,31 +24434,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1759973200,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760577922,
 ["guild"] = "House Stalwart",
+["time"] = 1760577922,
 ["elapsed"] = 388.0500000000029,
-["date"] = "20:25 15/10/25",
-["servertime"] = 1760577922,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 624790772,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 853823800,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 770402611,
-["itemLevel"] = 718.75,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 659350523,
@@ -24320,10 +24466,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.8125,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 1640340788,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1836836710,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1485813418,
@@ -24340,17 +24486,55 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.125,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1836836710,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1640340788,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
+["servertime"] = 1760577922,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 624790772,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 853823800,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 770402611,
+["itemLevel"] = 718.75,
+["classId"] = 11,
+},
+},
+["date"] = "20:25 15/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761182711,
+["guild"] = "House Stalwart",
 ["elapsed"] = 315.25,
+["date"] = "20:25 22/10/25",
+["servertime"] = 1761182711,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 546545989,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 549663842,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 694023322,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 624657617,
@@ -24382,10 +24566,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 718.4375,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1283254988,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1664349330,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1125516681,
@@ -24402,33 +24586,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1664349330,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1283254988,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 },
-["servertime"] = 1761182711,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 546545989,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 549663842,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 694023322,
-["itemLevel"] = 719.6875,
-["classId"] = 11,
-},
-},
-["date"] = "20:25 22/10/25",
 },
 {
+["date"] = "20:30 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 555510241,
@@ -24481,8 +24648,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761787812,
-["date"] = "20:30 29/10/25",
 ["elapsed"] = 318.0800000000163,
 ["servertime"] = 1761787811,
 ["HEALER"] = {
@@ -24497,11 +24662,13 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761787812,
 },
 },
 [3134] = {
 {
+["date"] = "22:19 19/09/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 929609650,
@@ -24533,10 +24700,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 711.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1877807498,
-["itemLevel"] = 710.3125,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2029155035,
+["itemLevel"] = 714.8125,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1194818856,
@@ -24553,14 +24720,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 702.8125,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 2029155035,
-["itemLevel"] = 714.8125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1877807498,
+["itemLevel"] = 710.3125,
+["classId"] = 7,
 },
 },
-["time"] = 1758338383,
-["date"] = "22:19 19/09/25",
 ["elapsed"] = 466.5429999999979,
 ["servertime"] = 1758338382,
 ["HEALER"] = {
@@ -24580,11 +24745,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1758338383,
 },
 {
-["date"] = "21:20 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 918163262,
@@ -24601,10 +24764,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.0625,
 ["classId"] = 6,
 },
-["Elayna"] = {
-["total"] = 1936088404,
-["itemLevel"] = 712.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2319417378,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Nil"] = {
 ["total"] = 598940874,
@@ -24616,10 +24779,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 2319417378,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1936088404,
+["itemLevel"] = 712.25,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1460519168,
@@ -24642,6 +24805,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1758766856,
+["date"] = "21:20 24/09/25",
 ["elapsed"] = 425.6820000000007,
 ["servertime"] = 1758766855,
 ["HEALER"] = {
@@ -24661,11 +24826,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758766856,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:26 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1092685730,
@@ -24697,10 +24860,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 2094392909,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2334697455,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1458128366,
@@ -24717,12 +24880,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 2334697455,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2094392909,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759372006,
+["date"] = "21:26 01/10/25",
 ["elapsed"] = 469.4980000000214,
 ["servertime"] = 1759372005,
 ["HEALER"] = {
@@ -24742,11 +24907,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1759372006,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:20 10/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1008581607,
@@ -24778,10 +24941,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 2071483892,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 2054607646,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1710613507,
@@ -24798,12 +24961,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 715.3125,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 2054607646,
-["itemLevel"] = 713.4375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2071483892,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 },
+["time"] = 1760149234,
+["date"] = "21:20 10/10/25",
 ["elapsed"] = 427.2329999999784,
 ["servertime"] = 1760149233,
 ["HEALER"] = {
@@ -24823,31 +24988,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1760149234,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760753190,
 ["guild"] = "House Stalwart",
+["time"] = 1760753190,
 ["elapsed"] = 443.0510000000359,
-["date"] = "21:06 17/10/25",
-["servertime"] = 1760753190,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 731485743,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 1052171709,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1985691521,
-["itemLevel"] = 719.25,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1018245113,
@@ -24884,10 +25030,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 2082832042,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1752892995,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 1516195313,
@@ -24904,17 +25050,55 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.9375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1752892995,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 2082832042,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
+["servertime"] = 1760753190,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 731485743,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1052171709,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1985691521,
+["itemLevel"] = 719.25,
+["classId"] = 11,
+},
+},
+["date"] = "21:06 17/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761185201,
+["guild"] = "House Stalwart",
 ["elapsed"] = 355.8730000000214,
+["date"] = "21:06 22/10/25",
+["servertime"] = 1761185200,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 733979327,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 1064736405,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 1527488355,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 919392526,
@@ -24946,10 +25130,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.625,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1954157017,
-["itemLevel"] = 714.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1903640199,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 1403642394,
@@ -24966,33 +25150,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 1903640199,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1954157017,
+["itemLevel"] = 714.0625,
+["classId"] = 7,
 },
 },
-["servertime"] = 1761185200,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 733979327,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 1064736405,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 1527488355,
-["itemLevel"] = 719.6875,
-["classId"] = 11,
-},
-},
-["date"] = "21:06 22/10/25",
 },
 {
+["date"] = "21:31 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 878390154,
@@ -25045,8 +25212,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761791506,
-["date"] = "21:31 29/10/25",
 ["elapsed"] = 397.585000000021,
 ["servertime"] = 1761791505,
 ["HEALER"] = {
@@ -25066,13 +25231,11 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761791506,
 },
 },
 [2919] = {
 {
-["date"] = "21:20 16/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 224828204,
@@ -25145,6 +25308,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1729131602,
+["date"] = "21:20 16/10/24",
 ["elapsed"] = 398.7639999999665,
 ["servertime"] = 1729131601,
 ["HEALER"] = {
@@ -25159,11 +25324,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729131602,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:30 23/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 314250715,
@@ -25231,6 +25394,8 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["time"] = 1729737035,
+["date"] = "21:30 23/10/24",
 ["elapsed"] = 518.4709999999905,
 ["servertime"] = 1729737034,
 ["HEALER"] = {
@@ -25250,11 +25415,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1729737035,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:17 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 245547290,
@@ -25342,6 +25505,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730341052,
+["date"] = "21:17 30/10/24",
 ["elapsed"] = 387.7519999999786,
 ["servertime"] = 1730341051,
 ["HEALER"] = {
@@ -25356,9 +25521,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730341052,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "21:16 06/11/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 248348819,
@@ -25385,10 +25552,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 616.0625,
 ["classId"] = 8,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 306866731,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
+["Hydeon-ArgentDawn"] = {
+["total"] = 431713399,
+["itemLevel"] = 621,
+["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
 ["total"] = 216302525,
@@ -25420,14 +25587,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 624,
 ["classId"] = 1,
 },
-["Hydeon-ArgentDawn"] = {
-["total"] = 431713399,
-["itemLevel"] = 621,
-["classId"] = 5,
+["Lleandryn-ArgentDawn"] = {
+["total"] = 306866731,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
 },
 },
-["time"] = 1730949406,
-["date"] = "21:16 06/11/24",
 ["elapsed"] = 387.2609999999404,
 ["servertime"] = 1730949406,
 ["HEALER"] = {
@@ -25442,31 +25607,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1730949406,
 },
 {
-["time"] = 1731727488,
 ["guild"] = "House Stalwart",
+["time"] = 1731727488,
 ["elapsed"] = 328.5210000000661,
-["date"] = "21:24 15/11/24",
-["servertime"] = 1731727487,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 316160963,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 342135587,
-["itemLevel"] = 619.3125,
-["classId"] = 13,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 444257421,
-["itemLevel"] = 617.875,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 222026002,
@@ -25534,20 +25680,30 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1732161898,
-["guild"] = "House Stalwart",
-["elapsed"] = 323.3029999999999,
-["date"] = "22:04 20/11/24",
-["servertime"] = 1732161897,
+["servertime"] = 1731727487,
 ["HEALER"] = {
 ["Bleddwen-ArgentDawn"] = {
-["total"] = 222011182,
+["total"] = 316160963,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok-ArgentDawn"] = {
+["total"] = 342135587,
+["itemLevel"] = 619.3125,
+["classId"] = 13,
 },
+["Zephyrri-ArgentDawn"] = {
+["total"] = 444257421,
+["itemLevel"] = 617.875,
+["classId"] = 7,
+},
+},
+["date"] = "21:24 15/11/24",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1732161898,
+["elapsed"] = 323.3029999999999,
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 232721048,
@@ -25615,11 +25771,34 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732161897,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 222011182,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "22:04 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733368714,
+["guild"] = "House Stalwart",
 ["elapsed"] = 385.1669999999867,
+["date"] = "21:18 04/12/24",
+["servertime"] = 1733368714,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 363271651,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 506396296,
+["itemLevel"] = 630.625,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 266554603,
@@ -25682,25 +25861,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733368714,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 363271651,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 506396296,
-["itemLevel"] = 630.625,
-["classId"] = 11,
-},
-},
-["date"] = "21:18 04/12/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733970849,
+["guild"] = "House Stalwart",
 ["elapsed"] = 321.0550000000512,
+["date"] = "20:34 11/12/24",
+["servertime"] = 1733970849,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 258152021,
+["itemLevel"] = 624.4666666666667,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 232357162,
+["itemLevel"] = 620.125,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 223961648,
@@ -25758,44 +25937,11 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733970849,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 258152021,
-["itemLevel"] = 624.4666666666667,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 232357162,
-["itemLevel"] = 620.125,
-["classId"] = 13,
-},
-},
-["date"] = "20:34 11/12/24",
 },
 {
-["time"] = 1734576471,
 ["guild"] = "House Stalwart",
+["time"] = 1734576471,
 ["elapsed"] = 342.820000000007,
-["date"] = "20:47 18/12/24",
-["servertime"] = 1734576470,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 287395532,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 216967692,
-["itemLevel"] = 620.5625,
-["classId"] = 13,
-},
-["Mykellqt-Sargeras"] = {
-["total"] = 338759483,
-["itemLevel"] = 606.6875,
-["classId"] = 5,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 141035529,
@@ -25848,20 +25994,37 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1734576470,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 287395532,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 216967692,
+["itemLevel"] = 620.5625,
+["classId"] = 13,
+},
+["Mykellqt-Sargeras"] = {
+["total"] = 338759483,
+["itemLevel"] = 606.6875,
+["classId"] = 5,
+},
+},
+["date"] = "20:47 18/12/24",
 },
 {
-["date"] = "20:35 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 237459783,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 406656559,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 335567119,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 308465640,
@@ -25873,15 +26036,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Angélique"] = {
-["total"] = 301839213,
-["itemLevel"] = 618.9375,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 133509378,
+["itemLevel"] = 630.875,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 335567119,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 406656559,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 282108908,
@@ -25898,12 +26061,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Kadria"] = {
-["total"] = 133509378,
-["itemLevel"] = 630.875,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 301839213,
+["itemLevel"] = 618.9375,
+["classId"] = 12,
 },
 },
+["time"] = 1735785313,
+["date"] = "20:35 01/01/25",
 ["elapsed"] = 314.3640000000014,
 ["servertime"] = 1735785312,
 ["HEALER"] = {
@@ -25918,12 +26083,26 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735785313,
+["guild"] = "House Stalwart",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1737600248,
+["guild"] = "House Stalwart",
 ["elapsed"] = 342.6180000000168,
+["date"] = "20:44 22/01/25",
+["servertime"] = 1737600247,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 294014511,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 289104181,
+["itemLevel"] = 623.5625,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 144155095,
@@ -25976,22 +26155,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1737600247,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 294014511,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 289104181,
-["itemLevel"] = 623.5625,
-["classId"] = 13,
-},
-},
-["date"] = "20:44 22/01/25",
 },
 {
+["date"] = "21:07 05/02/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 177309070,
@@ -26039,8 +26206,6 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
-["time"] = 1738811236,
-["date"] = "21:07 05/02/25",
 ["elapsed"] = 351.8019999999087,
 ["servertime"] = 1738811236,
 ["HEALER"] = {
@@ -26055,11 +26220,13 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1738811236,
 },
 },
 [2921] = {
 {
+["date"] = "21:51 18/10/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 447315728,
@@ -26137,8 +26304,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1729306303,
-["date"] = "21:51 18/10/24",
 ["elapsed"] = 642.4539999999979,
 ["servertime"] = 1729306302,
 ["HEALER"] = {
@@ -26153,11 +26318,9 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1729306303,
 },
 {
-["date"] = "21:41 30/10/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 330918719,
@@ -26245,6 +26408,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["time"] = 1730342476,
+["date"] = "21:41 30/10/24",
 ["elapsed"] = 452.6830000000191,
 ["servertime"] = 1730342476,
 ["HEALER"] = {
@@ -26259,9 +26424,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1730342476,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "21:28 06/11/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 336157215,
@@ -26288,10 +26455,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 616.0625,
 ["classId"] = 8,
 },
-["Lleandryn-ArgentDawn"] = {
-["total"] = 335072877,
-["itemLevel"] = 621.1875,
-["classId"] = 3,
+["Hydeon-ArgentDawn"] = {
+["total"] = 549542195,
+["itemLevel"] = 621,
+["classId"] = 5,
 },
 ["Burnadine-ArgentDawn"] = {
 ["total"] = 31944602,
@@ -26323,14 +26490,12 @@ DetailsDataStorage = {
 ["itemLevel"] = 624,
 ["classId"] = 1,
 },
-["Hydeon-ArgentDawn"] = {
-["total"] = 549542195,
-["itemLevel"] = 621,
-["classId"] = 5,
+["Lleandryn-ArgentDawn"] = {
+["total"] = 335072877,
+["itemLevel"] = 621.1875,
+["classId"] = 3,
 },
 },
-["time"] = 1730950089,
-["date"] = "21:28 06/11/24",
 ["elapsed"] = 438.8539999998175,
 ["servertime"] = 1730950088,
 ["HEALER"] = {
@@ -26345,9 +26510,11 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1730950089,
 },
 {
+["date"] = "20:09 13/11/24",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 356896074,
@@ -26399,15 +26566,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 621.5,
 ["classId"] = 7,
 },
-["Kadria-ArgentDawn"] = {
-["total"] = 587868248,
-["itemLevel"] = 625.9375,
-["classId"] = 11,
-},
 ["Beamindemon-Proudmoore"] = {
 ["total"] = 324034812,
 ["itemLevel"] = 631.3125,
 ["classId"] = 12,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 587868248,
+["itemLevel"] = 625.9375,
+["classId"] = 11,
 },
 ["Lleandryn-ArgentDawn"] = {
 ["total"] = 417788731,
@@ -26420,8 +26587,6 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["time"] = 1731550176,
-["date"] = "20:09 13/11/24",
 ["elapsed"] = 424.939000000013,
 ["servertime"] = 1731550175,
 ["HEALER"] = {
@@ -26436,21 +26601,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1731550176,
 },
 {
-["time"] = 1732154868,
 ["guild"] = "House Stalwart",
+["time"] = 1732154868,
 ["elapsed"] = 373.0839999999989,
-["date"] = "20:07 20/11/24",
-["servertime"] = 1732154868,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 198858829,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 342525564,
@@ -26513,11 +26669,39 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
+["servertime"] = 1732154868,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 198858829,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "20:07 20/11/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733369771,
+["guild"] = "House Stalwart",
 ["elapsed"] = 453.7860000000219,
+["date"] = "21:36 04/12/24",
+["servertime"] = 1733369771,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 316124174,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Kadria-ArgentDawn"] = {
+["total"] = 333358909,
+["itemLevel"] = 630.625,
+["classId"] = 11,
+},
+["Zephyrri-ArgentDawn"] = {
+["total"] = 456020361,
+["itemLevel"] = 620.75,
+["classId"] = 7,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 362809786,
@@ -26575,30 +26759,25 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["servertime"] = 1733369771,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 316124174,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Kadria-ArgentDawn"] = {
-["total"] = 333358909,
-["itemLevel"] = 630.625,
-["classId"] = 11,
-},
-["Zephyrri-ArgentDawn"] = {
-["total"] = 456020361,
-["itemLevel"] = 620.75,
-["classId"] = 7,
-},
-},
-["date"] = "21:36 04/12/24",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1733971914,
+["guild"] = "House Stalwart",
 ["elapsed"] = 390.7010000000009,
+["date"] = "20:51 11/12/24",
+["servertime"] = 1733971914,
+["HEALER"] = {
+["Bleddwen-ArgentDawn"] = {
+["total"] = 149756568,
+["itemLevel"] = 624.4666666666667,
+["classId"] = 11,
+},
+["Xerimok-ArgentDawn"] = {
+["total"] = 202431207,
+["itemLevel"] = 619.7333333333333,
+["classId"] = 13,
+},
+},
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 364251138,
@@ -26656,24 +26835,8 @@ DetailsDataStorage = {
 ["classId"] = 8,
 },
 },
-["servertime"] = 1733971914,
-["HEALER"] = {
-["Bleddwen-ArgentDawn"] = {
-["total"] = 149756568,
-["itemLevel"] = 624.4666666666667,
-["classId"] = 11,
-},
-["Xerimok-ArgentDawn"] = {
-["total"] = 202431207,
-["itemLevel"] = 619.7333333333333,
-["classId"] = 13,
-},
-},
-["date"] = "20:51 11/12/24",
 },
 {
-["date"] = "21:05 18/12/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Esker"] = {
 ["total"] = 393350074,
@@ -26726,6 +26889,8 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
+["time"] = 1734577549,
+["date"] = "21:05 18/12/24",
 ["elapsed"] = 486.695000000007,
 ["servertime"] = 1734577548,
 ["HEALER"] = {
@@ -26745,11 +26910,9 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["time"] = 1734577549,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "22:13 27/12/24",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 245752437,
@@ -26792,6 +26955,8 @@ DetailsDataStorage = {
 ["classId"] = 6,
 },
 },
+["time"] = 1735359207,
+["date"] = "22:13 27/12/24",
 ["elapsed"] = 443.3479999999981,
 ["servertime"] = 1735359207,
 ["HEALER"] = {
@@ -26806,21 +26971,19 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["time"] = 1735359207,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:44 01/01/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Permaphrost-Proudmoore"] = {
 ["total"] = 623272963,
 ["itemLevel"] = 635.375,
 ["classId"] = 8,
 },
-["Erixi"] = {
-["total"] = 545420079,
-["itemLevel"] = 628.25,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 350356866,
+["itemLevel"] = 634.75,
+["classId"] = 3,
 },
 ["Artanos"] = {
 ["total"] = 329915481,
@@ -26832,15 +26995,15 @@ DetailsDataStorage = {
 ["itemLevel"] = 619.3125,
 ["classId"] = 2,
 },
-["Angélique"] = {
-["total"] = 367338926,
-["itemLevel"] = 618.9375,
-["classId"] = 12,
+["Kadria"] = {
+["total"] = 185743775,
+["itemLevel"] = 631.2,
+["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 350356866,
-["itemLevel"] = 634.75,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 545420079,
+["itemLevel"] = 628.25,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 404788178,
@@ -26857,12 +27020,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 623.8125,
 ["classId"] = 5,
 },
-["Kadria"] = {
-["total"] = 185743775,
-["itemLevel"] = 631.2,
-["classId"] = 11,
+["Angélique"] = {
+["total"] = 367338926,
+["itemLevel"] = 618.9375,
+["classId"] = 12,
 },
 },
+["time"] = 1735785856,
+["date"] = "20:44 01/01/25",
 ["elapsed"] = 330.6540000000096,
 ["servertime"] = 1735785856,
 ["HEALER"] = {
@@ -26877,9 +27042,11 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1735785856,
+["guild"] = "House Stalwart",
 },
 {
+["date"] = "20:56 08/01/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 191276487,
@@ -26947,8 +27114,6 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["time"] = 1736391409,
-["date"] = "20:56 08/01/25",
 ["elapsed"] = 395.9660000000001,
 ["servertime"] = 1736391409,
 ["HEALER"] = {
@@ -26963,9 +27128,11 @@ DetailsDataStorage = {
 ["classId"] = 5,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1736391409,
 },
 {
+["date"] = "21:02 22/01/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 207571845,
@@ -27018,8 +27185,6 @@ DetailsDataStorage = {
 ["classId"] = 4,
 },
 },
-["time"] = 1737601368,
-["date"] = "21:02 22/01/25",
 ["elapsed"] = 391.9090000001015,
 ["servertime"] = 1737601367,
 ["HEALER"] = {
@@ -27034,26 +27199,12 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1737601368,
 },
 {
-["time"] = 1738811933,
 ["guild"] = "House Stalwart",
+["time"] = 1738811933,
 ["elapsed"] = 397.0180000000401,
-["date"] = "21:18 05/02/25",
-["servertime"] = 1738811932,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 291681529,
-["itemLevel"] = 628.1333333333333,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 375442239,
-["itemLevel"] = 628.5625,
-["classId"] = 7,
-},
-},
 ["DAMAGER"] = {
 ["Burnadine"] = {
 ["total"] = 148083492,
@@ -27101,13 +27252,41 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
+["servertime"] = 1738811932,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 291681529,
+["itemLevel"] = 628.1333333333333,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 375442239,
+["itemLevel"] = 628.5625,
+["classId"] = 7,
+},
+},
+["date"] = "21:18 05/02/25",
 },
 },
 [3016] = {
 {
-["guild"] = "House Stalwart",
 ["time"] = 1748058378,
+["guild"] = "House Stalwart",
 ["elapsed"] = 491.9239999999991,
+["date"] = "22:46 23/05/25",
+["servertime"] = 1748058377,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 601681891,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 1059939353,
+["itemLevel"] = 668.0625,
+["classId"] = 7,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 419039459,
@@ -27150,22 +27329,10 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["servertime"] = 1748058377,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 601681891,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Zephyrri"] = {
-["total"] = 1059939353,
-["itemLevel"] = 668.0625,
-["classId"] = 7,
-},
-},
-["date"] = "22:46 23/05/25",
 },
 {
+["date"] = "21:48 30/05/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1050559668,
@@ -27218,8 +27385,6 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
-["time"] = 1748659691,
-["date"] = "21:48 30/05/25",
 ["elapsed"] = 501.3450000000012,
 ["servertime"] = 1748659690,
 ["HEALER"] = {
@@ -27234,12 +27399,36 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1748659691,
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1749091291,
+["guild"] = "House Stalwart",
 ["elapsed"] = 556.369000000006,
+["date"] = "21:41 04/06/25",
+["servertime"] = 1749091291,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 853299658,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 747417731,
+["itemLevel"] = 655.4375,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 870651353,
+["itemLevel"] = 669.6875,
+["classId"] = 11,
+},
+["Zephyrri"] = {
+["total"] = 1219948889,
+["itemLevel"] = 668.0625,
+["classId"] = 7,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 1086387685,
@@ -27266,51 +27455,46 @@ DetailsDataStorage = {
 ["itemLevel"] = 664.125,
 ["classId"] = 4,
 },
-["Beamindemon-Proudmoore"] = {
-["total"] = 507674926,
-["itemLevel"] = 675,
-["classId"] = 12,
+["Giulietta"] = {
+["total"] = 1077466599,
+["itemLevel"] = 678.0625,
+["classId"] = 1,
 },
 ["Elayna"] = {
 ["total"] = 1269993600,
 ["itemLevel"] = 676.75,
 ["classId"] = 3,
 },
-["Giulietta"] = {
-["total"] = 1077466599,
-["itemLevel"] = 678.0625,
-["classId"] = 1,
+["Beamindemon-Proudmoore"] = {
+["total"] = 507674926,
+["itemLevel"] = 675,
+["classId"] = 12,
 },
 },
-["servertime"] = 1749091291,
+},
+{
+["time"] = 1749866043,
+["guild"] = "House Stalwart",
+["elapsed"] = 529.8190000000177,
+["date"] = "20:54 13/06/25",
+["servertime"] = 1749866042,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 853299658,
+["total"] = 885173473,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 747417731,
-["itemLevel"] = 655.4375,
+["total"] = 717671659,
+["itemLevel"] = 657.5,
 ["classId"] = 13,
 },
-["Kadria"] = {
-["total"] = 870651353,
-["itemLevel"] = 669.6875,
-["classId"] = 11,
-},
 ["Zephyrri"] = {
-["total"] = 1219948889,
+["total"] = 1176174693,
 ["itemLevel"] = 668.0625,
 ["classId"] = 7,
 },
 },
-["date"] = "21:41 04/06/25",
-},
-{
-["guild"] = "House Stalwart",
-["time"] = 1749866043,
-["elapsed"] = 529.8190000000177,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 529860682,
@@ -27353,27 +27537,10 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
-["servertime"] = 1749866042,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 885173473,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 717671659,
-["itemLevel"] = 657.5,
-["classId"] = 13,
-},
-["Zephyrri"] = {
-["total"] = 1176174693,
-["itemLevel"] = 668.0625,
-["classId"] = 7,
-},
-},
-["date"] = "20:54 13/06/25",
 },
 {
+["date"] = "21:58 18/06/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 441562371,
@@ -27421,8 +27588,6 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-["time"] = 1750301911,
-["date"] = "21:58 18/06/25",
 ["elapsed"] = 480.3379999999888,
 ["servertime"] = 1750301910,
 ["HEALER"] = {
@@ -27442,31 +27607,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1750301911,
 },
 {
-["time"] = 1751077885,
 ["guild"] = "House Stalwart",
+["time"] = 1751077885,
 ["elapsed"] = 517.2900000000373,
-["date"] = "21:31 27/06/25",
-["servertime"] = 1751077885,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 1079062609,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 932206508,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 1110729535,
-["itemLevel"] = 674,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 505309654,
@@ -27514,25 +27660,30 @@ DetailsDataStorage = {
 ["classId"] = 3,
 },
 },
-},
-{
-["time"] = 1751510167,
-["guild"] = "House Stalwart",
-["elapsed"] = 429.8000000000466,
-["date"] = "21:36 02/07/25",
-["servertime"] = 1751510166,
+["servertime"] = 1751077885,
 ["HEALER"] = {
-["Kadria"] = {
-["total"] = 1152773505,
-["itemLevel"] = 680.4375,
-["classId"] = 11,
-},
 ["Bleddwen"] = {
-["total"] = 1023461500,
+["total"] = 1079062609,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
+["Xerimok"] = {
+["total"] = 932206508,
+["itemLevel"] = 0,
+["classId"] = 13,
 },
+["Kadria"] = {
+["total"] = 1110729535,
+["itemLevel"] = 674,
+["classId"] = 11,
+},
+},
+["date"] = "21:31 27/06/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1751510167,
+["elapsed"] = 429.8000000000466,
 ["DAMAGER"] = {
 ["Sverdrup"] = {
 ["total"] = 440547541,
@@ -27580,30 +27731,25 @@ DetailsDataStorage = {
 ["classId"] = 2,
 },
 },
+["servertime"] = 1751510166,
+["HEALER"] = {
+["Kadria"] = {
+["total"] = 1152773505,
+["itemLevel"] = 680.4375,
+["classId"] = 11,
+},
+["Bleddwen"] = {
+["total"] = 1023461500,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+},
+["date"] = "21:36 02/07/25",
 },
 {
-["time"] = 1752113761,
 ["guild"] = "House Stalwart",
+["time"] = 1752113761,
 ["elapsed"] = 436.3990000000049,
-["date"] = "21:16 09/07/25",
-["servertime"] = 1752113760,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 919369352,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 821537661,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Kadria"] = {
-["total"] = 1120155571,
-["itemLevel"] = 682.5,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 418522434,
@@ -27651,10 +27797,27 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["servertime"] = 1752113760,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 919369352,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 821537661,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Kadria"] = {
+["total"] = 1120155571,
+["itemLevel"] = 682.5,
+["classId"] = 11,
+},
+},
+["date"] = "21:16 09/07/25",
 },
 {
-["date"] = "21:16 16/07/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 475768795,
@@ -27702,6 +27865,8 @@ DetailsDataStorage = {
 ["classId"] = 7,
 },
 },
+["time"] = 1752718611,
+["date"] = "21:16 16/07/25",
 ["elapsed"] = 479.8369999999995,
 ["servertime"] = 1752718610,
 ["HEALER"] = {
@@ -27721,33 +27886,14 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1752718611,
+["guild"] = "House Stalwart",
 },
 },
 [3133] = {
 {
-["time"] = 1757128249,
 ["guild"] = "House Stalwart",
+["time"] = 1757128249,
 ["elapsed"] = 278.3990000000049,
-["date"] = "22:10 05/09/25",
-["servertime"] = 1757128248,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 668082449,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 584383558,
-["itemLevel"] = 0,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 552191524,
-["itemLevel"] = 711.75,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 447381699,
@@ -27784,10 +27930,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 707.6875,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 993017987,
-["itemLevel"] = 706.375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1029193218,
+["itemLevel"] = 710.3125,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 718653280,
@@ -27804,36 +27950,36 @@ DetailsDataStorage = {
 ["itemLevel"] = 706.6875,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 1029193218,
-["itemLevel"] = 710.3125,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 993017987,
+["itemLevel"] = 706.375,
+["classId"] = 7,
 },
 },
-},
-{
-["time"] = 1758163675,
-["guild"] = "House Stalwart",
-["elapsed"] = 291.179999999993,
-["date"] = "21:47 17/09/25",
-["servertime"] = 1758163674,
+["servertime"] = 1757128248,
 ["HEALER"] = {
 ["Bleddwen"] = {
-["total"] = 536528018,
+["total"] = 668082449,
 ["itemLevel"] = 0,
 ["classId"] = 11,
 },
 ["Xerimok"] = {
-["total"] = 564165131,
+["total"] = 584383558,
 ["itemLevel"] = 0,
 ["classId"] = 13,
 },
 ["Mykellcat"] = {
-["total"] = 926600208,
-["itemLevel"] = 714.6875,
+["total"] = 552191524,
+["itemLevel"] = 711.75,
 ["classId"] = 11,
 },
 },
+["date"] = "22:10 05/09/25",
+},
+{
+["guild"] = "House Stalwart",
+["time"] = 1758163675,
+["elapsed"] = 291.179999999993,
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 472246442,
@@ -27855,20 +28001,20 @@ DetailsDataStorage = {
 ["itemLevel"] = 694,
 ["classId"] = 8,
 },
-["Elayna"] = {
-["total"] = 1183002988,
-["itemLevel"] = 713.6875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1117681037,
+["itemLevel"] = 709.9375,
+["classId"] = 7,
 },
 ["Kadria"] = {
 ["total"] = 1212349509,
 ["itemLevel"] = 711.3125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1117681037,
-["itemLevel"] = 709.9375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1183002988,
+["itemLevel"] = 713.6875,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 811726417,
@@ -27891,10 +28037,27 @@ DetailsDataStorage = {
 ["classId"] = 9,
 },
 },
+["servertime"] = 1758163674,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 536528018,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 564165131,
+["itemLevel"] = 0,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 926600208,
+["itemLevel"] = 714.6875,
+["classId"] = 11,
+},
+},
+["date"] = "21:47 17/09/25",
 },
 {
-["date"] = "20:57 24/09/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 401311494,
@@ -27911,10 +28074,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.0625,
 ["classId"] = 6,
 },
-["Elayna"] = {
-["total"] = 990043320,
-["itemLevel"] = 712.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1124855277,
+["itemLevel"] = 712.0625,
+["classId"] = 7,
 },
 ["Nil"] = {
 ["total"] = 687493348,
@@ -27926,10 +28089,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 713.125,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1124855277,
-["itemLevel"] = 712.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 990043320,
+["itemLevel"] = 712.25,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 752233777,
@@ -27952,6 +28115,8 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
+["time"] = 1758765463,
+["date"] = "20:57 24/09/25",
 ["elapsed"] = 246.1669999999867,
 ["servertime"] = 1758765463,
 ["HEALER"] = {
@@ -27971,11 +28136,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1758765463,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "21:05 01/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 446906032,
@@ -28007,10 +28170,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 714.4375,
 ["classId"] = 11,
 },
-["Erixi"] = {
-["total"] = 1217960031,
-["itemLevel"] = 712.625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 985726537,
+["itemLevel"] = 712.4375,
+["classId"] = 3,
 },
 ["Rylacus"] = {
 ["total"] = 858013952,
@@ -28027,12 +28190,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 709.9375,
 ["classId"] = 12,
 },
-["Elayna"] = {
-["total"] = 985726537,
-["itemLevel"] = 712.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1217960031,
+["itemLevel"] = 712.625,
+["classId"] = 7,
 },
 },
+["time"] = 1759370735,
+["date"] = "21:05 01/10/25",
 ["elapsed"] = 277.4579999999842,
 ["servertime"] = 1759370734,
 ["HEALER"] = {
@@ -28052,11 +28217,9 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1759370735,
+["guild"] = "House Stalwart",
 },
 {
-["date"] = "20:46 10/10/25",
-["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 406993158,
@@ -28083,10 +28246,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 716.3125,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 1034397254,
-["itemLevel"] = 715.4375,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1267940744,
+["itemLevel"] = 713.4375,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 842003123,
@@ -28103,12 +28266,14 @@ DetailsDataStorage = {
 ["itemLevel"] = 715.3125,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1267940744,
-["itemLevel"] = 713.4375,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 1034397254,
+["itemLevel"] = 715.4375,
+["classId"] = 3,
 },
 },
+["time"] = 1760147212,
+["date"] = "20:46 10/10/25",
 ["elapsed"] = 260.5489999999991,
 ["servertime"] = 1760147211,
 ["HEALER"] = {
@@ -28128,31 +28293,12 @@ DetailsDataStorage = {
 ["classId"] = 11,
 },
 },
-["time"] = 1760147212,
+["guild"] = "House Stalwart",
 },
 {
-["time"] = 1760579782,
 ["guild"] = "House Stalwart",
+["time"] = 1760579782,
 ["elapsed"] = 261.2799999999988,
-["date"] = "20:56 15/10/25",
-["servertime"] = 1760579782,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 525303064,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 597180384,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 858015240,
-["itemLevel"] = 719.25,
-["classId"] = 11,
-},
-},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 372541686,
@@ -28179,10 +28325,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 715.25,
 ["classId"] = 10,
 },
-["Elayna"] = {
-["total"] = 976508040,
-["itemLevel"] = 717.1875,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1124717377,
+["itemLevel"] = 713.1875,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 863187728,
@@ -28199,17 +28345,55 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.9375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1124717377,
-["itemLevel"] = 713.1875,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 976508040,
+["itemLevel"] = 717.1875,
+["classId"] = 3,
 },
 },
+["servertime"] = 1760579782,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 525303064,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 597180384,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 858015240,
+["itemLevel"] = 719.25,
+["classId"] = 11,
+},
+},
+["date"] = "20:56 15/10/25",
 },
 {
-["guild"] = "House Stalwart",
 ["time"] = 1761184426,
+["guild"] = "House Stalwart",
 ["elapsed"] = 238.6670000000158,
+["date"] = "20:53 22/10/25",
+["servertime"] = 1761184425,
+["HEALER"] = {
+["Bleddwen"] = {
+["total"] = 436766808,
+["itemLevel"] = 0,
+["classId"] = 11,
+},
+["Xerimok"] = {
+["total"] = 413517957,
+["itemLevel"] = 712.5625,
+["classId"] = 13,
+},
+["Mykellcat"] = {
+["total"] = 774063205,
+["itemLevel"] = 719.6875,
+["classId"] = 11,
+},
+},
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 460165746,
@@ -28241,10 +28425,10 @@ DetailsDataStorage = {
 ["itemLevel"] = 717.625,
 ["classId"] = 11,
 },
-["Elayna"] = {
-["total"] = 907933424,
-["itemLevel"] = 720.25,
-["classId"] = 3,
+["Erixi"] = {
+["total"] = 1107545460,
+["itemLevel"] = 714.0625,
+["classId"] = 7,
 },
 ["Rylacus"] = {
 ["total"] = 808629994,
@@ -28261,33 +28445,16 @@ DetailsDataStorage = {
 ["itemLevel"] = 719.375,
 ["classId"] = 12,
 },
-["Erixi"] = {
-["total"] = 1107545460,
-["itemLevel"] = 714.0625,
-["classId"] = 7,
+["Elayna"] = {
+["total"] = 907933424,
+["itemLevel"] = 720.25,
+["classId"] = 3,
 },
 },
-["servertime"] = 1761184425,
-["HEALER"] = {
-["Bleddwen"] = {
-["total"] = 436766808,
-["itemLevel"] = 0,
-["classId"] = 11,
-},
-["Xerimok"] = {
-["total"] = 413517957,
-["itemLevel"] = 712.5625,
-["classId"] = 13,
-},
-["Mykellcat"] = {
-["total"] = 774063205,
-["itemLevel"] = 719.6875,
-["classId"] = 11,
-},
-},
-["date"] = "20:53 22/10/25",
 },
 {
+["date"] = "20:49 29/10/25",
+["guild"] = "House Stalwart",
 ["DAMAGER"] = {
 ["Keydan"] = {
 ["total"] = 376290124,
@@ -28340,8 +28507,6 @@ DetailsDataStorage = {
 ["classId"] = 10,
 },
 },
-["time"] = 1761788999,
-["date"] = "20:49 29/10/25",
 ["elapsed"] = 249.9830000000075,
 ["servertime"] = 1761788998,
 ["HEALER"] = {
@@ -28356,7 +28521,7 @@ DetailsDataStorage = {
 ["classId"] = 13,
 },
 },
-["guild"] = "House Stalwart",
+["time"] = 1761788999,
 },
 },
 },

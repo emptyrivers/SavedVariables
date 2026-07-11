@@ -1,56 +1,5 @@
 
 LariasWeeklyChecklistDB = {
-["profileKeys"] = {
-["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
-["Loess - Kel'Thuzad"] = "Loess - Kel'Thuzad",
-["Stream - Argent Dawn"] = "Stream - Argent Dawn",
-["Remaxxing - Kel'Thuzad"] = "Remaxxing - Kel'Thuzad",
-["Cascades - Kel'Thuzad"] = "Cascades - Kel'Thuzad",
-["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
-["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
-["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
-["Quag - Argent Dawn"] = "Quag - Argent Dawn",
-["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
-["Slush - Mal'Ganis"] = "Slush - Mal'Ganis",
-["Aquifer - Kel'Thuzad"] = "Aquifer - Kel'Thuzad",
-["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
-["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
-["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
-["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
-["Surge - Argent Dawn"] = "Surge - Argent Dawn",
-["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
-["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
-["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
-["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
-["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
-["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
-["Brook - Argent Dawn"] = "Brook - Argent Dawn",
-["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
-["Cirque - Kel'Thuzad"] = "Cirque - Kel'Thuzad",
-["Spume - Argent Dawn"] = "Spume - Argent Dawn",
-["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
-["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
-["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
-["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
-["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
-["Moraine - Kel'Thuzad"] = "Moraine - Kel'Thuzad",
-["Baffle - Mal'Ganis"] = "Baffle - Mal'Ganis",
-["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
-["Geosmin - Kel'Thuzad"] = "Geosmin - Kel'Thuzad",
-["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
-["Lather - Mal'Ganis"] = "Lather - Mal'Ganis",
-["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
-["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
-["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
-["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
-["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
-["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
-["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
-["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
-["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
-["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
-},
 ["global"] = {
 ["mainFrameWin"] = {
 ["y"] = -23.80976915359497,
@@ -75,48 +24,48 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "",
 },
 ["Loess - Kel'Thuzad"] = {
-["startAtSectionId"] = "",
+["showChangeWeekBtn"] = true,
 ["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
-["showGreatVault"] = true,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["collapsedSections"] = {
+["_lariasDefaultsApplied"] = true,
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Stream - Argent Dawn"] = {
-["startAtSectionId"] = "",
-["_sectionCompletedSeedVer2"] = "29",
+["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showGreatVault"] = true,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["_lariasDefaultsApplied"] = true,
-["collapsedSections"] = {
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
-["showScaleSlider"] = true,
+["_lariasDefaultsApplied"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Remaxxing - Kel'Thuzad"] = {
 ["_sectionCompletedSeedVer2"] = "29",
@@ -134,26 +83,26 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "",
 },
 ["Cascades - Kel'Thuzad"] = {
-["startAtSectionId"] = "",
-["_sectionCompletedSeedVer2"] = "29",
+["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showGreatVault"] = true,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["_lariasDefaultsApplied"] = true,
-["collapsedSections"] = {
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
-["showScaleSlider"] = true,
+["_lariasDefaultsApplied"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Docks - Kel'Thuzad"] = {
 ["_sectionCompletedSeedVer2"] = "30",
@@ -171,51 +120,66 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "",
 },
 ["Mangrove - Argent Dawn"] = {
-["showChangeWeekBtn"] = true,
+["startAtSectionId"] = "",
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
+["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
+},
+["showScaleSlider"] = true,
+["showIlvlRefBtn"] = true,
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
+},
+["Bwaagh - Feathermoon"] = {
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
 },
 ["_lariasDefaultsApplied"] = true,
-["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
 ["startAtSectionId"] = "",
 },
 ["Shoal - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
-["_sectionCompletedSeedVer2"] = "29",
+["startAtSectionId"] = "",
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
+["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
 },
 ["Quag - Argent Dawn"] = {
-["_sectionCompletedSeedVer2"] = "29",
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
 },
@@ -230,26 +194,26 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "",
 },
 ["Alluvium - Argent Dawn"] = {
-["startAtSectionId"] = "",
+["showChangeWeekBtn"] = true,
 ["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
-["showGreatVault"] = true,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["_lariasDefaultsApplied"] = true,
-["collapsedSections"] = {
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
-["showScaleSlider"] = true,
+["_lariasDefaultsApplied"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Slush - Mal'Ganis"] = {
 ["_sectionCompletedSeedVer2"] = "30",
@@ -266,95 +230,199 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Aquifer - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
-["_sectionCompletedSeedVer2"] = "29",
+["Levee - Argent Dawn"] = {
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
+["startAtSectionId"] = "",
+},
+["Flumes - Kel'Thuzad"] = {
+["startAtSectionId"] = "",
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
+["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
+},
+["showScaleSlider"] = true,
+["showIlvlRefBtn"] = true,
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
+},
+["Aquifer - Kel'Thuzad"] = {
+["startAtSectionId"] = "",
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["showGreatVault"] = true,
+["showCurrency"] = true,
+["checked"] = {
+},
+["sectionCompleted"] = {
 },
 ["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
+},
+["hideCompletedSections"] = true,
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
 },
 ["Asperse - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
+["startAtSectionId"] = "",
 ["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
+["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
 },
 ["Gelae - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
+["startAtSectionId"] = "",
 ["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
+["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
+},
+["showScaleSlider"] = true,
+["showIlvlRefBtn"] = true,
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
+},
+["Brack - Mal'Ganis"] = {
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
 },
 ["_lariasDefaultsApplied"] = true,
-["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
 ["startAtSectionId"] = "",
 },
 ["Benthos - Argent Dawn"] = {
-["startAtSectionId"] = "",
+["showChangeWeekBtn"] = true,
 ["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
-["showGreatVault"] = true,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["_lariasDefaultsApplied"] = true,
-["collapsedSections"] = {
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
-["showScaleSlider"] = true,
+["_lariasDefaultsApplied"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Bog - Kel'Thuzad"] = {
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
+["startAtSectionId"] = "",
+},
+["Rime - Kel'Thuzad"] = {
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
+["startAtSectionId"] = "",
+},
+["Emptyrivers - Argent Dawn"] = {
+["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "29",
+["debug"] = false,
+["showCharPickerBtn"] = true,
+["showCurrency"] = true,
+["checked"] = {
+},
+["sectionCompleted"] = {
+},
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
+},
+["hideCompletedSections"] = true,
+["_migrated"] = true,
+["collapsedSections"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["showIlvlRefBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
+},
+["Talamahyn - Kel'Thuzad"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
@@ -399,34 +467,48 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Brack - Mal'Ganis"] = {
-["_sectionCompletedSeedVer2"] = "30",
-["debug"] = false,
-["sectionCompleted"] = {
-},
-["_migrated"] = true,
-["trackingSnapshot"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["checked"] = {
-},
-["collapsedSections"] = {
-},
+["Neva - Kel'Thuzad"] = {
 ["startAtSectionId"] = "",
-},
-["Rime - Kel'Thuzad"] = {
-["_sectionCompletedSeedVer2"] = "30",
+["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
+["showGreatVault"] = true,
+["showCurrency"] = true,
+["checked"] = {
+},
 ["sectionCompleted"] = {
 },
+["showScaleSlider"] = true,
+["collapsedSections"] = {
+},
+["hideCompletedSections"] = true,
 ["_migrated"] = true,
 ["trackingSnapshot"] = {
 },
 ["_lariasDefaultsApplied"] = true,
+["showIlvlRefBtn"] = true,
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
+},
+["Meander - Kel'Thuzad"] = {
+["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["showCharPickerBtn"] = true,
+["showCurrency"] = true,
 ["checked"] = {
 },
+["sectionCompleted"] = {
+},
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
+},
+["hideCompletedSections"] = true,
+["_migrated"] = true,
 ["collapsedSections"] = {
 },
+["_lariasDefaultsApplied"] = true,
+["showIlvlRefBtn"] = true,
+["showGreatVault"] = true,
 ["startAtSectionId"] = "",
 },
 ["Falls - Mal'Ganis"] = {
@@ -444,60 +526,23 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Meander - Kel'Thuzad"] = {
-["startAtSectionId"] = "",
-["_sectionCompletedSeedVer2"] = "30",
-["debug"] = false,
-["showGreatVault"] = true,
-["showCurrency"] = true,
-["checked"] = {
-},
-["sectionCompleted"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["collapsedSections"] = {
-},
-["hideCompletedSections"] = true,
-["_migrated"] = true,
-["trackingSnapshot"] = {
-},
-["showScaleSlider"] = true,
-["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
-},
-["Mire - Mal'Ganis"] = {
-["_sectionCompletedSeedVer2"] = "30",
-["debug"] = false,
-["sectionCompleted"] = {
-},
-["_migrated"] = true,
-["trackingSnapshot"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["checked"] = {
-},
-["collapsedSections"] = {
-},
-["startAtSectionId"] = "",
-},
-["Rivulet - Mal'Ganis"] = {
-["_sectionCompletedSeedVer2"] = "30",
-["debug"] = false,
-["sectionCompleted"] = {
-},
-["_migrated"] = true,
-["trackingSnapshot"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["checked"] = {
-},
-["collapsedSections"] = {
-},
-["startAtSectionId"] = "",
-},
 ["Brook - Argent Dawn"] = {
-["_sectionCompletedSeedVer2"] = "29",
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
+["startAtSectionId"] = "",
+},
+["Bayou - Kel'Thuzad"] = {
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
 },
@@ -512,8 +557,30 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "",
 },
 ["Sverdrup - Argent Dawn"] = {
-["showChangeWeekBtn"] = true,
+["startAtSectionId"] = "",
 ["_sectionCompletedSeedVer2"] = "29",
+["debug"] = false,
+["showGreatVault"] = true,
+["showCurrency"] = true,
+["checked"] = {
+},
+["sectionCompleted"] = {
+},
+["showScaleSlider"] = true,
+["collapsedSections"] = {
+},
+["hideCompletedSections"] = true,
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["showIlvlRefBtn"] = true,
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
+},
+["Glaciers - Kel'Thuzad"] = {
+["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
@@ -533,22 +600,7 @@ LariasWeeklyChecklistDB = {
 ["showGreatVault"] = true,
 ["startAtSectionId"] = "",
 },
-["Cirque - Kel'Thuzad"] = {
-["_sectionCompletedSeedVer2"] = "30",
-["debug"] = false,
-["sectionCompleted"] = {
-},
-["_migrated"] = true,
-["trackingSnapshot"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["checked"] = {
-},
-["collapsedSections"] = {
-},
-["startAtSectionId"] = "",
-},
-["Spume - Argent Dawn"] = {
+["Fathom - Argent Dawn"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
@@ -564,50 +616,28 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "",
 },
 ["Confluence - Argent Dawn"] = {
-["showChangeWeekBtn"] = true,
+["startAtSectionId"] = "",
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["_lariasDefaultsApplied"] = true,
-["trackingSnapshot"] = {
+["showScaleSlider"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
 },
-["showScaleSlider"] = true,
+["_lariasDefaultsApplied"] = true,
 ["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
-},
-["Cataracts - Argent Dawn"] = {
+["showCharPickerBtn"] = true,
 ["showChangeWeekBtn"] = true,
-["_sectionCompletedSeedVer2"] = "29",
-["debug"] = false,
-["showCharPickerBtn"] = true,
-["showCurrency"] = true,
-["checked"] = {
 },
-["sectionCompleted"] = {
-},
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
-},
-["hideCompletedSections"] = true,
-["_migrated"] = true,
-["collapsedSections"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
-},
-["Fjord - Mal'Ganis"] = {
+["Spume - Argent Dawn"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
@@ -637,7 +667,22 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Riptides - Argent Dawn"] = {
+["Fjord - Mal'Ganis"] = {
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
+["startAtSectionId"] = "",
+},
+["Cataracts - Argent Dawn"] = {
 ["startAtSectionId"] = "",
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
@@ -647,23 +692,25 @@ LariasWeeklyChecklistDB = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
+["_lariasDefaultsApplied"] = true,
 ["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
 ["trackingSnapshot"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
 ["showCharPickerBtn"] = true,
 ["showChangeWeekBtn"] = true,
 },
-["Moraine - Kel'Thuzad"] = {
+["Rapids - Argent Dawn"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
 },
+["_newestSeenRemoteVersion"] = "",
+["_newestSeenRemoteSender"] = "",
 ["_migrated"] = true,
 ["trackingSnapshot"] = {
 },
@@ -689,7 +736,7 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Rapids - Argent Dawn"] = {
+["Moraine - Kel'Thuzad"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["sectionCompleted"] = {
@@ -704,27 +751,64 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Geosmin - Kel'Thuzad"] = {
-["startAtSectionId"] = "",
+["Bwaagh - Mal'Ganis"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showGreatVault"] = true,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
+["startAtSectionId"] = "",
+},
+["Riptides - Argent Dawn"] = {
+["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
 ["_lariasDefaultsApplied"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
 ["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
+},
+["Geosmin - Kel'Thuzad"] = {
 ["showChangeWeekBtn"] = true,
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["showCharPickerBtn"] = true,
+["showCurrency"] = true,
+["checked"] = {
+},
+["sectionCompleted"] = {
+},
+["showScaleSlider"] = true,
+["trackingSnapshot"] = {
+},
+["hideCompletedSections"] = true,
+["_migrated"] = true,
+["collapsedSections"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["showIlvlRefBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Gyre - Kel'Thuzad"] = {
 ["_sectionCompletedSeedVer2"] = "30",
@@ -742,7 +826,7 @@ LariasWeeklyChecklistDB = {
 ["trackingSnapshot"] = {
 ["leftGrid"] = {
 {
-["complete"] = 0,
+["available"] = true,
 ["maxIlvl"] = 0,
 ["slots"] = {
 {
@@ -758,10 +842,10 @@ LariasWeeklyChecklistDB = {
 ["ilvl"] = 0,
 },
 },
-["available"] = true,
+["complete"] = 0,
 },
 {
-["complete"] = 0,
+["available"] = true,
 ["maxIlvl"] = 0,
 ["slots"] = {
 {
@@ -777,10 +861,10 @@ LariasWeeklyChecklistDB = {
 ["ilvl"] = 0,
 },
 },
-["available"] = true,
+["complete"] = 0,
 },
 {
-["complete"] = 0,
+["available"] = true,
 ["maxIlvl"] = 0,
 ["slots"] = {
 {
@@ -796,7 +880,7 @@ LariasWeeklyChecklistDB = {
 ["ilvl"] = 0,
 },
 },
-["available"] = true,
+["complete"] = 0,
 },
 },
 ["leftLines"] = {
@@ -837,8 +921,8 @@ LariasWeeklyChecklistDB = {
 ["qty"] = 56,
 },
 {
-["type"] = "catalyst",
 ["qty"] = 1,
+["type"] = "catalyst",
 },
 {
 ["id"] = 3212,
@@ -862,15 +946,15 @@ LariasWeeklyChecklistDB = {
 ["startAtSectionId"] = "db70d77d",
 ["showCharPickerBtn"] = true,
 ["showGreatVault"] = true,
-["collapsedSections"] = {
-["067d2566"] = true,
-},
+["showScaleSlider"] = true,
 ["debug"] = false,
 ["_migrated"] = true,
 ["_newestSeenRemoteSheetVersion"] = "30",
 ["_newestSeenRemoteSender"] = "",
 ["showIlvlRefBtn"] = true,
-["showScaleSlider"] = true,
+["collapsedSections"] = {
+["067d2566"] = true,
+},
 ["showChangeWeekBtn"] = true,
 },
 ["Lather - Mal'Ganis"] = {
@@ -888,27 +972,23 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Glaciers - Kel'Thuzad"] = {
-["startAtSectionId"] = "",
-["_sectionCompletedSeedVer2"] = "30",
+["Virga - Kel'Thuzad"] = {
 ["debug"] = false,
-["showGreatVault"] = true,
 ["showCurrency"] = true,
+["showChangeWeekBtn"] = true,
+["showCharPickerBtn"] = true,
 ["checked"] = {
 },
-["sectionCompleted"] = {
-},
-["showScaleSlider"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["trackingSnapshot"] = {
+["collapsedSections"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
 },
 ["Rill - Kel'Thuzad"] = {
 ["_sectionCompletedSeedVer2"] = "30",
@@ -925,43 +1005,36 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Virga - Kel'Thuzad"] = {
+["Mire - Mal'Ganis"] = {
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCurrency"] = true,
-["startAtSectionId"] = "",
-["showGreatVault"] = true,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
 ["checked"] = {
 },
 ["collapsedSections"] = {
 },
-["hideCompletedSections"] = true,
-["_migrated"] = true,
-["trackingSnapshot"] = {
-},
-["showScaleSlider"] = true,
-["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["startAtSectionId"] = "",
 },
 ["Riparium - Argent Dawn"] = {
-["startAtSectionId"] = "",
+["showChangeWeekBtn"] = true,
 ["_sectionCompletedSeedVer2"] = "29",
 ["debug"] = false,
-["showGreatVault"] = true,
+["showCharPickerBtn"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["collapsedSections"] = {
-},
-["hideCompletedSections"] = true,
-["_migrated"] = true,
+["_lariasDefaultsApplied"] = true,
 ["trackingSnapshot"] = {
 ["leftGrid"] = {
 {
-["available"] = true,
+["complete"] = 0,
 ["maxIlvl"] = 0,
 ["slots"] = {
 {
@@ -977,10 +1050,10 @@ LariasWeeklyChecklistDB = {
 ["ilvl"] = 0,
 },
 },
-["complete"] = 0,
+["available"] = true,
 },
 {
-["available"] = true,
+["complete"] = 0,
 ["maxIlvl"] = 0,
 ["slots"] = {
 {
@@ -996,10 +1069,10 @@ LariasWeeklyChecklistDB = {
 ["ilvl"] = 0,
 },
 },
-["complete"] = 0,
+["available"] = true,
 },
 {
-["available"] = true,
+["complete"] = 0,
 ["maxIlvl"] = 0,
 ["slots"] = {
 {
@@ -1015,7 +1088,7 @@ LariasWeeklyChecklistDB = {
 ["ilvl"] = 0,
 },
 },
-["complete"] = 0,
+["available"] = true,
 },
 },
 ["leftLines"] = {
@@ -1056,8 +1129,8 @@ LariasWeeklyChecklistDB = {
 ["qty"] = 0,
 },
 {
-["qty"] = 2,
 ["type"] = "catalyst",
+["qty"] = 2,
 },
 {
 ["id"] = 3212,
@@ -1077,36 +1150,48 @@ LariasWeeklyChecklistDB = {
 },
 },
 },
-["_lariasDefaultsApplied"] = true,
-["showIlvlRefBtn"] = true,
-["showCharPickerBtn"] = true,
-["showChangeWeekBtn"] = true,
+["hideCompletedSections"] = true,
+["_migrated"] = true,
+["collapsedSections"] = {
 },
-["Esker - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
+["showScaleSlider"] = true,
+["showIlvlRefBtn"] = true,
+["showGreatVault"] = true,
+["startAtSectionId"] = "",
+},
+["Brine - Argent Dawn"] = {
 ["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
-["showCurrency"] = true,
-["checked"] = {
-},
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
+["_migrated"] = true,
 ["trackingSnapshot"] = {
 },
-["hideCompletedSections"] = true,
-["_migrated"] = true,
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
 ["collapsedSections"] = {
 },
-["_lariasDefaultsApplied"] = true,
-["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
 ["startAtSectionId"] = "",
 },
-["Emptyrivers - Argent Dawn"] = {
+["Rivulet - Mal'Ganis"] = {
+["_sectionCompletedSeedVer2"] = "30",
+["debug"] = false,
+["sectionCompleted"] = {
+},
+["_migrated"] = true,
+["trackingSnapshot"] = {
+},
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
+["collapsedSections"] = {
+},
 ["startAtSectionId"] = "",
-["_sectionCompletedSeedVer2"] = "29",
+},
+["Esker - Kel'Thuzad"] = {
+["startAtSectionId"] = "",
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
 ["showGreatVault"] = true,
 ["showCurrency"] = true,
@@ -1125,28 +1210,6 @@ LariasWeeklyChecklistDB = {
 ["showIlvlRefBtn"] = true,
 ["showCharPickerBtn"] = true,
 ["showChangeWeekBtn"] = true,
-},
-["Flumes - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
-["_sectionCompletedSeedVer2"] = "29",
-["debug"] = false,
-["showCharPickerBtn"] = true,
-["showCurrency"] = true,
-["checked"] = {
-},
-["sectionCompleted"] = {
-},
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
-},
-["hideCompletedSections"] = true,
-["_migrated"] = true,
-["collapsedSections"] = {
-},
-["_lariasDefaultsApplied"] = true,
-["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
 },
 ["Floe - Mal'Ganis"] = {
 ["_sectionCompletedSeedVer2"] = "30",
@@ -1163,49 +1226,42 @@ LariasWeeklyChecklistDB = {
 },
 ["startAtSectionId"] = "",
 },
-["Neva - Kel'Thuzad"] = {
-["showChangeWeekBtn"] = true,
-["_sectionCompletedSeedVer2"] = "29",
+["Cirque - Kel'Thuzad"] = {
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
-["showCurrency"] = true,
-["checked"] = {
-},
 ["sectionCompleted"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["_migrated"] = true,
 ["trackingSnapshot"] = {
 },
-["hideCompletedSections"] = true,
-["_migrated"] = true,
+["_lariasDefaultsApplied"] = true,
+["checked"] = {
+},
 ["collapsedSections"] = {
 },
-["showScaleSlider"] = true,
-["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
 ["startAtSectionId"] = "",
 },
 ["Estuary - Argent Dawn"] = {
-["showChangeWeekBtn"] = true,
-["_sectionCompletedSeedVer2"] = "29",
+["startAtSectionId"] = "",
+["_sectionCompletedSeedVer2"] = "30",
 ["debug"] = false,
-["showCharPickerBtn"] = true,
+["showGreatVault"] = true,
 ["showCurrency"] = true,
 ["checked"] = {
 },
 ["sectionCompleted"] = {
 },
-["showScaleSlider"] = true,
-["trackingSnapshot"] = {
+["_lariasDefaultsApplied"] = true,
+["collapsedSections"] = {
 },
 ["hideCompletedSections"] = true,
 ["_migrated"] = true,
-["collapsedSections"] = {
+["trackingSnapshot"] = {
 },
-["_lariasDefaultsApplied"] = true,
+["showScaleSlider"] = true,
 ["showIlvlRefBtn"] = true,
-["showGreatVault"] = true,
-["startAtSectionId"] = "",
+["showCharPickerBtn"] = true,
+["showChangeWeekBtn"] = true,
 },
 },
 ["charClasses"] = {
@@ -1214,6 +1270,64 @@ LariasWeeklyChecklistDB = {
 },
 ["_prefsMigrated"] = true,
 ["uiScalePct"] = 150,
+},
+["profileKeys"] = {
+["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
+["Loess - Kel'Thuzad"] = "Loess - Kel'Thuzad",
+["Stream - Argent Dawn"] = "Stream - Argent Dawn",
+["Remaxxing - Kel'Thuzad"] = "Remaxxing - Kel'Thuzad",
+["Cascades - Kel'Thuzad"] = "Cascades - Kel'Thuzad",
+["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
+["Mangrove - Argent Dawn"] = "Mangrove - Argent Dawn",
+["Bwaagh - Feathermoon"] = "Bwaagh - Feathermoon",
+["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
+["Quag - Argent Dawn"] = "Quag - Argent Dawn",
+["Alluvium - Argent Dawn"] = "Alluvium - Argent Dawn",
+["Slush - Mal'Ganis"] = "Slush - Mal'Ganis",
+["Levee - Argent Dawn"] = "Levee - Argent Dawn",
+["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
+["Aquifer - Kel'Thuzad"] = "Aquifer - Kel'Thuzad",
+["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
+["Gelae - Kel'Thuzad"] = "Gelae - Kel'Thuzad",
+["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Benthos - Argent Dawn"] = "Benthos - Argent Dawn",
+["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
+["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Emptyrivers - Argent Dawn"] = "Emptyrivers - Argent Dawn",
+["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
+["Surge - Argent Dawn"] = "Surge - Argent Dawn",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
+["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
+["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
+["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Brook - Argent Dawn"] = "Brook - Argent Dawn",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
+["Sverdrup - Argent Dawn"] = "Sverdrup - Argent Dawn",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
+["Confluence - Argent Dawn"] = "Confluence - Argent Dawn",
+["Spume - Argent Dawn"] = "Spume - Argent Dawn",
+["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
+["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
+["Cataracts - Argent Dawn"] = "Cataracts - Argent Dawn",
+["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
+["Baffle - Mal'Ganis"] = "Baffle - Mal'Ganis",
+["Moraine - Kel'Thuzad"] = "Moraine - Kel'Thuzad",
+["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
+["Riptides - Argent Dawn"] = "Riptides - Argent Dawn",
+["Geosmin - Kel'Thuzad"] = "Geosmin - Kel'Thuzad",
+["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
+["Lather - Mal'Ganis"] = "Lather - Mal'Ganis",
+["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
+["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Riparium - Argent Dawn"] = "Riparium - Argent Dawn",
+["Brine - Argent Dawn"] = "Brine - Argent Dawn",
+["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
+["Esker - Kel'Thuzad"] = "Esker - Kel'Thuzad",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Cirque - Kel'Thuzad"] = "Cirque - Kel'Thuzad",
+["Estuary - Argent Dawn"] = "Estuary - Argent Dawn",
 },
 ["profiles"] = {
 ["Seep - Kel'Thuzad"] = {
@@ -1230,6 +1344,8 @@ LariasWeeklyChecklistDB = {
 },
 ["Mangrove - Argent Dawn"] = {
 },
+["Bwaagh - Feathermoon"] = {
+},
 ["Shoal - Kel'Thuzad"] = {
 },
 ["Quag - Argent Dawn"] = {
@@ -1238,55 +1354,67 @@ LariasWeeklyChecklistDB = {
 },
 ["Slush - Mal'Ganis"] = {
 },
+["Levee - Argent Dawn"] = {
+},
+["Flumes - Kel'Thuzad"] = {
+},
 ["Aquifer - Kel'Thuzad"] = {
 },
 ["Asperse - Kel'Thuzad"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
 },
+["Brack - Mal'Ganis"] = {
+},
 ["Benthos - Argent Dawn"] = {
 },
 ["Bog - Kel'Thuzad"] = {
+},
+["Rime - Kel'Thuzad"] = {
+},
+["Emptyrivers - Argent Dawn"] = {
+},
+["Talamahyn - Kel'Thuzad"] = {
 },
 ["Surge - Argent Dawn"] = {
 },
 ["Geyser - Mal'Ganis"] = {
 },
-["Brack - Mal'Ganis"] = {
-},
-["Rime - Kel'Thuzad"] = {
-},
-["Falls - Mal'Ganis"] = {
+["Neva - Kel'Thuzad"] = {
 },
 ["Meander - Kel'Thuzad"] = {
 },
-["Mire - Mal'Ganis"] = {
-},
-["Rivulet - Mal'Ganis"] = {
+["Falls - Mal'Ganis"] = {
 },
 ["Brook - Argent Dawn"] = {
 },
+["Bayou - Kel'Thuzad"] = {
+},
 ["Sverdrup - Argent Dawn"] = {
 },
-["Cirque - Kel'Thuzad"] = {
+["Glaciers - Kel'Thuzad"] = {
 },
-["Spume - Argent Dawn"] = {
+["Fathom - Argent Dawn"] = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Cataracts - Argent Dawn"] = {
-},
-["Fjord - Mal'Ganis"] = {
+["Spume - Argent Dawn"] = {
 },
 ["Weir - Kel'Thuzad"] = {
 },
-["Riptides - Argent Dawn"] = {
+["Fjord - Mal'Ganis"] = {
 },
-["Moraine - Kel'Thuzad"] = {
+["Cataracts - Argent Dawn"] = {
+},
+["Rapids - Argent Dawn"] = {
 },
 ["Baffle - Mal'Ganis"] = {
 },
-["Rapids - Argent Dawn"] = {
+["Moraine - Kel'Thuzad"] = {
+},
+["Bwaagh - Mal'Ganis"] = {
+},
+["Riptides - Argent Dawn"] = {
 },
 ["Geosmin - Kel'Thuzad"] = {
 },
@@ -1294,23 +1422,23 @@ LariasWeeklyChecklistDB = {
 },
 ["Lather - Mal'Ganis"] = {
 },
-["Glaciers - Kel'Thuzad"] = {
+["Virga - Kel'Thuzad"] = {
 },
 ["Rill - Kel'Thuzad"] = {
 },
-["Virga - Kel'Thuzad"] = {
+["Mire - Mal'Ganis"] = {
 },
 ["Riparium - Argent Dawn"] = {
 },
+["Brine - Argent Dawn"] = {
+},
+["Rivulet - Mal'Ganis"] = {
+},
 ["Esker - Kel'Thuzad"] = {
-},
-["Emptyrivers - Argent Dawn"] = {
-},
-["Flumes - Kel'Thuzad"] = {
 },
 ["Floe - Mal'Ganis"] = {
 },
-["Neva - Kel'Thuzad"] = {
+["Cirque - Kel'Thuzad"] = {
 },
 ["Estuary - Argent Dawn"] = {
 },

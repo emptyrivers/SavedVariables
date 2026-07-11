@@ -8,6 +8,7 @@ DevToolDatabase = {
 ["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 ["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
 ["Mangrove - Argent Dawn"] = "Default",
+["Bwaagh - Feathermoon"] = "Bwaagh - Feathermoon",
 ["Flumina - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Quag - Argent Dawn"] = "Quag - Argent Dawn",
@@ -17,8 +18,11 @@ DevToolDatabase = {
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
 ["Darick - Eredar"] = "Darick - Eredar",
 ["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Orhok - Mal'Ganis"] = "Orhok - Mal'Ganis",
+["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
 ["Spume - Argent Dawn"] = "Spume - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
@@ -51,32 +55,37 @@ DevToolDatabase = {
 ["Alandere - Argent Dawn"] = "Default",
 ["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
+["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
 ["Lotic - Argent Dawn"] = "Default",
 ["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
-["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
-["Saellindris - Kel'Thuzad"] = "Default",
-["Calestin - Sargeras"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
-["Emptyrivers - Sargeras"] = "Default",
-["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
-["Wildeadoriah - The Scryers"] = "Default",
-["Emptystreams - Argent Dawn"] = "Default",
-["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
-["Benthos - Argent Dawn"] = "Default",
-["Confluence - Argent Dawn"] = "Default",
-["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
-["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
-["Riparium - Argent Dawn"] = "Default",
-["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
-["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
 ["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
+["Calestin - Sargeras"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
+["Emptyrivers - Sargeras"] = "Default",
+["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
+["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Confluence - Argent Dawn"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
+["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
+["Emptystreams - Argent Dawn"] = "Default",
+["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Wildeadoriah - The Scryers"] = "Default",
+["Brine - Argent Dawn"] = "Brine - Argent Dawn",
+["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
+["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
 ["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
-["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
-["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
+["Levee - Argent Dawn"] = "Levee - Argent Dawn",
 },
 ["profiles"] = {
 ["Seep - Kel'Thuzad"] = {
+["fontSize"] = 17,
 ["history"] = {
 "UUFDB",
 "DevTool",
@@ -86,7 +95,6 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["fontSize"] = 17,
 },
 ["Strid - Kel'Thuzad"] = {
 },
@@ -119,6 +127,8 @@ DevToolDatabase = {
 },
 ["Mangrove - Argent Dawn"] = {
 },
+["Bwaagh - Feathermoon"] = {
+},
 ["Flumina - Argent Dawn"] = {
 ["isSideBarOpen"] = false,
 ["fontSize"] = 16,
@@ -145,6 +155,7 @@ DevToolDatabase = {
 ["Moraine - Kel'Thuzad"] = {
 },
 ["Gelae - Kel'Thuzad"] = {
+["fontSize"] = 16,
 ["history"] = {
 "NumberFontNormal",
 "DevTool",
@@ -154,15 +165,37 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["fontSize"] = 16,
 },
 ["Riptides - Argent Dawn"] = {
 },
 ["Brack - Mal'Ganis"] = {
 },
+["Talamahyn - Kel'Thuzad"] = {
+["isSideBarOpen"] = false,
+["fontSize"] = 16,
+["isWndOpen"] = true,
+},
 ["Darick - Eredar"] = {
 },
 ["Falls - Mal'Ganis"] = {
+["fontSize"] = 18,
+["collResizeWidth"] = 462.582275390625,
+},
+["Orhok - Mal'Ganis"] = {
+["isSideBarOpen"] = false,
+["fontSize"] = 18,
+["history"] = {
+"CloneBay",
+"DevTool",
+"find LFR",
+"find SLASH",
+"find Data DevTool",
+"startswith DevTool",
+"DevTool.settings.history",
+},
+["collResizeWidth"] = 806.5785522460938,
+},
+["Fathom - Argent Dawn"] = {
 },
 ["Spume - Argent Dawn"] = {
 },
@@ -210,7 +243,6 @@ DevToolDatabase = {
 ["collResizeWidth"] = 333.038818359375,
 },
 ["Emptyrivers - Argent Dawn"] = {
-["fontSize"] = 17,
 ["history"] = {
 "RAID_CLASS_COLORS",
 "BisectorResults",
@@ -221,6 +253,7 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
+["fontSize"] = 17,
 },
 ["Karst - Argent Dawn"] = {
 ["fontSize"] = 16,
@@ -238,7 +271,6 @@ DevToolDatabase = {
 ["collResizeWidth"] = 250.0001220703125,
 },
 ["Roberia - Eredar"] = {
-["fontSize"] = 16,
 ["history"] = {
 "TomTomDB",
 "GliderAddOnDB",
@@ -252,6 +284,7 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
+["fontSize"] = 16,
 },
 ["Estuary - Argent Dawn"] = {
 ["isSideBarOpen"] = false,
@@ -273,13 +306,13 @@ DevToolDatabase = {
 ["Loess - Kel'Thuzad"] = {
 },
 ["Dukasuka - Eredar"] = {
-["fontSize"] = 16,
 ["history"] = {
 "find Data DevTool",
 "find SLASH",
 "DevTool",
 "find LFR",
 },
+["fontSize"] = 16,
 },
 ["Stream - Argent Dawn"] = {
 },
@@ -359,10 +392,11 @@ DevToolDatabase = {
 ["collResizeWidth"] = 249.9998779296875,
 },
 ["Headcut - Argent Dawn"] = {
-["collResizeWidth"] = 481.63525390625,
 ["fontSize"] = 16,
+["collResizeWidth"] = 481.63525390625,
 },
 ["Gyre - Kel'Thuzad"] = {
+["collResizeWidth"] = 250.0001220703125,
 ["fontSize"] = 15,
 },
 ["Asperse - Kel'Thuzad"] = {
@@ -377,13 +411,29 @@ DevToolDatabase = {
 },
 ["Rosefin - Argent Dawn"] = {
 },
+["Bayou - Kel'Thuzad"] = {
+},
+["Rime - Kel'Thuzad"] = {
+["fontSize"] = 16,
+["history"] = {
+"CloneBayDB",
+"CloneBay",
+"DevTool",
+"find LFR",
+"find SLASH",
+"find Data DevTool",
+"startswith DevTool",
+"DevTool.settings.history",
+},
+["collResizeWidth"] = 882.4865112304688,
+},
+["Geyser - Mal'Ganis"] = {
+},
 ["Lotic - Argent Dawn"] = {
 },
 ["Dussrasande - Kel'Thuzad"] = {
 },
-["Fjord - Mal'Ganis"] = {
-},
-["Saellindris - Kel'Thuzad"] = {
+["Shoal - Kel'Thuzad"] = {
 },
 ["Confluence - Argent Dawn"] = {
 ["history"] = {
@@ -398,12 +448,16 @@ DevToolDatabase = {
 "DevTool.settings.history",
 },
 },
+["Saellindris - Kel'Thuzad"] = {
+},
 ["Calestin - Sargeras"] = {
 },
-["Sverdrup - Argent Dawn"] = {
-["fontSize"] = 15,
+["Riparium - Argent Dawn"] = {
+["fontSize"] = 16,
 ["history"] = {
-"BISECT_DBG",
+"Enum",
+"Troubleshooter2",
+"Troubleshooter",
 "DevTool",
 "find LFR",
 "find SLASH",
@@ -411,12 +465,15 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["collResizeWidth"] = 249.9996337890625,
+["collResizeWidth"] = 250.002685546875,
+},
+["Mire - Mal'Ganis"] = {
 },
 ["Emptyrivers - Sargeras"] = {
 },
+["Bwaagh - Mal'Ganis"] = {
+},
 ["Glaciers - Kel'Thuzad"] = {
-["fontSize"] = 15,
 ["history"] = {
 "AllTheThingsProfiles",
 "AllTheThingsAD",
@@ -429,12 +486,25 @@ DevToolDatabase = {
 "startswith DevTool",
 "DevTool.settings.history",
 },
+["fontSize"] = 15,
 },
-["Wildeadoriah - The Scryers"] = {
+["Rapids - Argent Dawn"] = {
+["tArgs"] = {
+"+",
 },
-["Emptystreams - Argent Dawn"] = {
+["fontSize"] = 14,
+["history"] = {
+"CloneBay",
+"CloneBayDB",
+"DevTool",
+"find LFR",
+"find SLASH",
+"find Data DevTool",
+"startswith DevTool",
+"DevTool.settings.history",
 },
-["Weir - Kel'Thuzad"] = {
+["isSideBarOpen"] = false,
+["collResizeWidth"] = 787.8577880859375,
 },
 ["Benthos - Argent Dawn"] = {
 ["isSideBarOpen"] = false,
@@ -452,18 +522,16 @@ nil,
 },
 ["collResizeWidth"] = 249.9991455078125,
 },
-["Rapids - Argent Dawn"] = {
+["Weir - Kel'Thuzad"] = {
+},
+["Emptystreams - Argent Dawn"] = {
 },
 ["Rill - Kel'Thuzad"] = {
 },
-["Mire - Mal'Ganis"] = {
-},
-["Riparium - Argent Dawn"] = {
-["fontSize"] = 16,
+["Sverdrup - Argent Dawn"] = {
+["fontSize"] = 15,
 ["history"] = {
-"Enum",
-"Troubleshooter2",
-"Troubleshooter",
+"BISECT_DBG",
 "DevTool",
 "find LFR",
 "find SLASH",
@@ -471,19 +539,33 @@ nil,
 "startswith DevTool",
 "DevTool.settings.history",
 },
-["collResizeWidth"] = 250.002685546875,
+["collResizeWidth"] = 249.9996337890625,
 },
-["Brook - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
+},
+["Brine - Argent Dawn"] = {
 },
 ["Rivulet - Mal'Ganis"] = {
+["isSideBarOpen"] = false,
+["fontSize"] = 17,
+["history"] = {
+"CloneBay",
+"DevTool",
+"find LFR",
+"find SLASH",
+"find Data DevTool",
+"startswith DevTool",
+"DevTool.settings.history",
 },
-["Shoal - Kel'Thuzad"] = {
+["collResizeWidth"] = 599.2964477539062,
+},
+["Fjord - Mal'Ganis"] = {
 },
 ["Floe - Mal'Ganis"] = {
 },
-["Geyser - Mal'Ganis"] = {
+["Brook - Argent Dawn"] = {
 },
-["Rime - Kel'Thuzad"] = {
+["Levee - Argent Dawn"] = {
 },
 },
 }

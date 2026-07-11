@@ -8,6 +8,7 @@ HandyNotesDB = {
 ["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 ["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
 ["Mangrove - Argent Dawn"] = "Default",
+["Bwaagh - Feathermoon"] = "Bwaagh - Feathermoon",
 ["Flumina - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
@@ -17,8 +18,10 @@ HandyNotesDB = {
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
 ["Darick - Eredar"] = "Darick - Eredar",
 ["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
 ["Spume - Argent Dawn"] = "Spume - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
@@ -53,30 +56,34 @@ HandyNotesDB = {
 ["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
 ["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
-["Lotic - Argent Dawn"] = "Default",
 ["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
+["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
 ["Calestin - Sargeras"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
 ["Wildeadoriah - The Scryers"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
 ["Emptystreams - Argent Dawn"] = "Default",
 ["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
 ["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
+["Emptyrivers - Sargeras"] = "Default",
+["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
 ["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Default",
 ["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
-["Evilrivers - Kel'Thuzad"] = "Default",
 ["Quag - Argent Dawn"] = "Quag - Argent Dawn",
-["Riparium - Argent Dawn"] = "Default",
 ["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Evilrivers - Kel'Thuzad"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Brine - Argent Dawn"] = "Brine - Argent Dawn",
 ["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
-["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
-["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
 ["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
-["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Zimuures - Argent Dawn"] = "Default",
+["Levee - Argent Dawn"] = "Levee - Argent Dawn",
 },
 ["profiles"] = {
 ["Seep - Kel'Thuzad"] = {
@@ -92,6 +99,8 @@ HandyNotesDB = {
 ["Docks - Kel'Thuzad"] = {
 },
 ["Mangrove - Argent Dawn"] = {
+},
+["Bwaagh - Feathermoon"] = {
 },
 ["Flumina - Argent Dawn"] = {
 },
@@ -111,9 +120,13 @@ HandyNotesDB = {
 },
 ["Brack - Mal'Ganis"] = {
 },
+["Talamahyn - Kel'Thuzad"] = {
+},
 ["Darick - Eredar"] = {
 },
 ["Falls - Mal'Ganis"] = {
+},
+["Fathom - Argent Dawn"] = {
 },
 ["Spume - Argent Dawn"] = {
 },
@@ -185,19 +198,19 @@ HandyNotesDB = {
 },
 ["Calestin - Sargeras"] = {
 },
-["Lotic - Argent Dawn"] = {
-},
 ["Fjord - Mal'Ganis"] = {
 },
-["Mire - Mal'Ganis"] = {
+["Bayou - Kel'Thuzad"] = {
+},
+["Rime - Kel'Thuzad"] = {
 },
 ["Dussrasande - Kel'Thuzad"] = {
 },
-["Saellindris - Kel'Thuzad"] = {
+["Lotic - Argent Dawn"] = {
 },
-["Glaciers - Kel'Thuzad"] = {
+["Mire - Mal'Ganis"] = {
 },
-["Emptystreams - Argent Dawn"] = {
+["Sverdrup - Argent Dawn"] = {
 },
 ["Riparium - Argent Dawn"] = {
 ["enabledPlugins"] = {
@@ -205,7 +218,7 @@ HandyNotesDB = {
 ["Handynotes_Pandaria"] = false,
 },
 },
-["Emptyrivers - Sargeras"] = {
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Shoal - Kel'Thuzad"] = {
 },
@@ -213,29 +226,37 @@ HandyNotesDB = {
 },
 ["Rapids - Argent Dawn"] = {
 },
+["Emptyrivers - Sargeras"] = {
+},
+["Bwaagh - Mal'Ganis"] = {
+},
 ["Meander - Kel'Thuzad"] = {
 },
 ["Emptyrivers - Arthas"] = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
-},
 ["Zimuures - Argent Dawn"] = {
-},
-["Wildeadoriah - The Scryers"] = {
 },
 ["Quag - Argent Dawn"] = {
 },
+["Evilrivers - Kel'Thuzad"] = {
+},
+["Glaciers - Kel'Thuzad"] = {
+},
+["Wildeadoriah - The Scryers"] = {
+},
+["Brine - Argent Dawn"] = {
+},
 ["Rivulet - Mal'Ganis"] = {
-},
-["Sverdrup - Argent Dawn"] = {
-},
-["Floe - Mal'Ganis"] = {
 },
 ["Geyser - Mal'Ganis"] = {
 },
-["Rime - Kel'Thuzad"] = {
+["Floe - Mal'Ganis"] = {
+},
+["Emptystreams - Argent Dawn"] = {
+},
+["Levee - Argent Dawn"] = {
 },
 },
 }
@@ -248,6 +269,7 @@ HandyNotes_HandyNotesDB = {
 ["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 ["Docks - Kel'Thuzad"] = "Docks - Kel'Thuzad",
 ["Mangrove - Argent Dawn"] = "Default",
+["Bwaagh - Feathermoon"] = "Bwaagh - Feathermoon",
 ["Flumina - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Neva - Kel'Thuzad",
 ["Weir - Kel'Thuzad"] = "Weir - Kel'Thuzad",
@@ -257,8 +279,10 @@ HandyNotes_HandyNotesDB = {
 ["Gelae - Kel'Thuzad"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
+["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
 ["Darick - Eredar"] = "Darick - Eredar",
 ["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
+["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
 ["Spume - Argent Dawn"] = "Spume - Argent Dawn",
 ["Cataracts - Argent Dawn"] = "Default",
 ["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
@@ -293,30 +317,34 @@ HandyNotes_HandyNotesDB = {
 ["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
 ["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
-["Lotic - Argent Dawn"] = "Default",
 ["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
+["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
 ["Calestin - Sargeras"] = "Default",
-["Saellindris - Kel'Thuzad"] = "Default",
-["Sverdrup - Argent Dawn"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
+["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
 ["Wildeadoriah - The Scryers"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
+["Saellindris - Kel'Thuzad"] = "Default",
 ["Emptystreams - Argent Dawn"] = "Default",
 ["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
 ["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
+["Emptyrivers - Sargeras"] = "Default",
+["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
 ["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
 ["Confluence - Argent Dawn"] = "Default",
 ["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
-["Evilrivers - Kel'Thuzad"] = "Default",
 ["Quag - Argent Dawn"] = "Quag - Argent Dawn",
-["Riparium - Argent Dawn"] = "Default",
 ["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Evilrivers - Kel'Thuzad"] = "Default",
+["Sverdrup - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Brine - Argent Dawn"] = "Brine - Argent Dawn",
 ["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
-["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
-["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
 ["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
-["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
+["Zimuures - Argent Dawn"] = "Default",
+["Levee - Argent Dawn"] = "Levee - Argent Dawn",
 },
 ["profiles"] = {
 ["Seep - Kel'Thuzad"] = {
@@ -332,6 +360,8 @@ HandyNotes_HandyNotesDB = {
 ["Docks - Kel'Thuzad"] = {
 },
 ["Mangrove - Argent Dawn"] = {
+},
+["Bwaagh - Feathermoon"] = {
 },
 ["Flumina - Argent Dawn"] = {
 },
@@ -351,9 +381,13 @@ HandyNotes_HandyNotesDB = {
 },
 ["Brack - Mal'Ganis"] = {
 },
+["Talamahyn - Kel'Thuzad"] = {
+},
 ["Darick - Eredar"] = {
 },
 ["Falls - Mal'Ganis"] = {
+},
+["Fathom - Argent Dawn"] = {
 },
 ["Spume - Argent Dawn"] = {
 },
@@ -425,23 +459,23 @@ HandyNotes_HandyNotesDB = {
 },
 ["Calestin - Sargeras"] = {
 },
-["Lotic - Argent Dawn"] = {
-},
 ["Fjord - Mal'Ganis"] = {
 },
-["Mire - Mal'Ganis"] = {
+["Bayou - Kel'Thuzad"] = {
+},
+["Rime - Kel'Thuzad"] = {
 },
 ["Dussrasande - Kel'Thuzad"] = {
 },
-["Saellindris - Kel'Thuzad"] = {
+["Lotic - Argent Dawn"] = {
 },
-["Glaciers - Kel'Thuzad"] = {
+["Mire - Mal'Ganis"] = {
 },
-["Emptystreams - Argent Dawn"] = {
+["Sverdrup - Argent Dawn"] = {
 },
 ["Riparium - Argent Dawn"] = {
 },
-["Emptyrivers - Sargeras"] = {
+["Saellindris - Kel'Thuzad"] = {
 },
 ["Meander - Kel'Thuzad"] = {
 },
@@ -449,29 +483,37 @@ HandyNotes_HandyNotesDB = {
 },
 ["Rapids - Argent Dawn"] = {
 },
+["Emptyrivers - Sargeras"] = {
+},
+["Bwaagh - Mal'Ganis"] = {
+},
 ["Emptyrivers - Arthas"] = {
 },
 ["Zimuures - Argent Dawn"] = {
 },
 ["Confluence - Argent Dawn"] = {
 },
-["Evilrivers - Kel'Thuzad"] = {
-},
 ["Shoal - Kel'Thuzad"] = {
-},
-["Wildeadoriah - The Scryers"] = {
 },
 ["Quag - Argent Dawn"] = {
 },
+["Evilrivers - Kel'Thuzad"] = {
+},
+["Glaciers - Kel'Thuzad"] = {
+},
+["Wildeadoriah - The Scryers"] = {
+},
+["Brine - Argent Dawn"] = {
+},
 ["Rivulet - Mal'Ganis"] = {
-},
-["Sverdrup - Argent Dawn"] = {
-},
-["Floe - Mal'Ganis"] = {
 },
 ["Geyser - Mal'Ganis"] = {
 },
-["Rime - Kel'Thuzad"] = {
+["Floe - Mal'Ganis"] = {
+},
+["Emptystreams - Argent Dawn"] = {
+},
+["Levee - Argent Dawn"] = {
 },
 },
 }

@@ -1,9 +1,9 @@
 
 TotemFrameRelocationDB = {
-["yOffset"] = -13,
-["parentAnchor"] = "BOTTOMLEFT",
-["parentFrameName"] = "UUF_Player",
-["totemFrameAnchor"] = "TOPLEFT",
-["xOffset"] = -22,
 ["useSquareMask"] = true,
+["parentFrameName"] = "UUF_Player",
+["xOffset"] = -22,
+["totemFrameAnchor"] = "TOPLEFT",
+["parentAnchor"] = "BOTTOMLEFT",
+["yOffset"] = -13,
 }

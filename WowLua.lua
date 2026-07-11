@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-["currentPage"] = 11,
+["currentPage"] = 14,
 ["fontSize"] = 16,
 ["pages"] = {
 {
@@ -52,8 +52,23 @@ WowLua_DB = {
 {
 ["untitled"] = true,
 ["name"] = "Untitled 27",
+["content"] = "for i = 1, C_SpellBook.HasPetSpells() do\n   local spellBookItemInfo = C_SpellBook.GetSpellBookItemInfo(i, Enum.SpellBookSpellBank.Pet)\n   local id = spellBookItemInfo.actionID\n   local spellID = bit.band(0xFFFFFF, id)\n   -- not sure what the non-spell IDs are\n   local spellName = spellID > 100 and C_Spell.GetSpellName(spellID) or C_SpellBook.GetSpellBookItemName(i, Enum.SpellBookSpellBank.Pet)\n   local hasActionButton = C_ActionBar.HasPetActionButtons(id)\n   print(i, \"Pet\", id, spellID, spellName, hasActionButton)\nend",
+},
+{
+["untitled"] = true,
+["name"] = "Untitled 28",
+["content"] = "CloneBayDB.overlays.LowGraphics = nil\nCloneBayDB.chars[CloneBay.charKey].overlayOrder = {}\nCloneBayDB.chars[CloneBay.charKey].deltas = {}",
+},
+{
+["untitled"] = true,
+["name"] = "Untitled 29",
 ["content"] = "",
 },
+{
+["untitled"] = true,
+["name"] = "Untitled 30",
+["content"] = "local function resolvePetActionByTexture(texture)\n   if not texture then return nil end\n   local numPet = C_SpellBook.HasPetSpells() or 0\n   for i = 1, numPet do\n      local info = C_SpellBook.GetSpellBookItemInfo(i, Enum.SpellBookSpellBank.Pet)\n      print(i, info.name, info.iconID)\n      if info and info.iconID == texture then\n         local _, packedID = C_SpellBook.GetSpellBookItemType(i, Enum.SpellBookSpellBank.Pet)\n         return packedID, info.name\n      end\n   end\nend\nprint'----'\nprint(resolvePetActionByTexture(457329))\nprint'done'\n",
 },
-["untitled"] = 28,
+},
+["untitled"] = 31,
 }

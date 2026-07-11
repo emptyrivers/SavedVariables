@@ -2,20 +2,19 @@
 OPie_SavedData = {
 ["CharProfiles"] = {
 },
-["_OPieVersion"] = "8.3.3 (4.141)",
+["_OPieVersion"] = "8.6.2 (4.143)",
 ["_StoreVersion"] = 122,
 ["_GameLocale"] = "enUS",
 ["CenterActions"] = {
 ["Mounts"] = "ABuen6efgHt",
 },
 ["_StoreVersion2"] = 122,
-["_GameVersion"] = "12.0.5",
+["_GameVersion"] = "12.0.7",
 ["ProfileStorage"] = {
 ["default"] = {
 ["RotationTokens"] = {
-["OPCTAt"] = "OPCHSv",
-["ABuenmguorg"] = "ABueWLq98ww",
-["ABueQGb6sIe"] = "ABueW323kLw",
+["OPCTAt"] = "OPCHSco",
+["ABueQGb6sIe"] = "ABueW3pCH3w",
 },
 ["RingOptions"] = {
 ["Teleport1#CenterAction"] = true,
@@ -32,14 +31,14 @@ OPie_SavedData = {
 ["SpecMenu"] = "F3",
 ["MageTools"] = "F4",
 ["Mounts"] = "F7",
-["WorldMarkers"] = "SHIFT-C",
-["RaidSymbols"] = "CTRL-C",
 ["OPieTracking"] = false,
-["HerosPath"] = "F5",
+["RaidSymbols"] = "CTRL-C",
 ["Teleportal"] = "F2",
-["nsformtoys"] = "CTRL-`",
-["OPieAutoQuest"] = "CTRL-X",
+["HerosPath"] = "F5",
 ["onsumables"] = "F6",
+["nsformtoys"] = "CTRL-`",
+["WorldMarkers"] = "SHIFT-C",
+["OPieAutoQuest"] = "CTRL-X",
 ["CommonTrades"] = "ALT-`",
 },
 },
@@ -93,50 +92,103 @@ OPie_SavedData = {
 ["vm"] = 3,
 ["id"] = "/cast [@player,nomod][@target,help,nodead][@none] {{spell:8936}}",
 },
-["name"] = "Feral",
 ["limit"] = "DRUID",
-["hotkey"] = "[form:bear/cat] BUTTON5; ALT-BUTTON5",
-["save"] = true,
+["name"] = "Feral",
 ["vm"] = 127,
+["save"] = true,
+["hotkey"] = "[form:bear/cat] BUTTON5; ALT-BUTTON5",
 ["v"] = 4,
 },
-["ysmPortals"] = {
+["Aquatic"] = {
 {
-["sliceToken"] = "ABuenUDBC0r",
-["id"] = 410080,
+"mount",
+1837,
+["sliceToken"] = "ABuen6efgHw",
 },
 {
-["sliceToken"] = "ABuenUGSsip",
-["id"] = 424142,
+"mount",
+1653,
+["sliceToken"] = "ABuen6efgHe",
 },
 {
-["sliceToken"] = "ABueW4BZhLw",
-["id"] = 445424,
+"mount",
+1692,
+["sliceToken"] = "ABuen6efgHr",
 },
-["name"] = "Path of the Worldbreaker",
-["internal"] = true,
+["name"] = "Aquatic",
 ["save"] = true,
+["internal"] = true,
 },
 ["OPieDeletedRings"] = {
 ["MageTravel"] = true,
 },
-["Flying2"] = {
+["Portal"] = {
 {
-"mount",
-516,
-["sliceToken"] = "ABuenG8ciuw",
+["id"] = 446534,
+["sliceToken"] = "ABueQ00w=zw",
 },
 {
-"mount",
-450,
-["sliceToken"] = "ABuenBRY12w",
+["id"] = 395289,
+["sliceToken"] = "ABuenmguorl",
 },
 {
-"mount",
-1959,
-["sliceToken"] = "ABuem4pPpMw",
+["id"] = 344597,
+["sliceToken"] = "ABuenmguorz",
 },
-["name"] = "Flying",
+{
+["id"] = 281402,
+["sliceToken"] = "ABuenmguor5",
+},
+{
+["id"] = 224871,
+["sliceToken"] = "ABuenmguorx",
+},
+{
+["id"] = 176244,
+["sliceToken"] = "ABuenmguorc",
+},
+{
+["id"] = 132626,
+["sliceToken"] = "ABuenmguorv",
+},
+{
+["id"] = 88346,
+["sliceToken"] = "ABuenmguorb",
+},
+{
+["id"] = 53142,
+["sliceToken"] = "ABuenmguor6",
+},
+{
+["id"] = 35717,
+["sliceToken"] = "ABuenmguorn",
+},
+{
+["id"] = 120146,
+["sliceToken"] = "ABuenmguorm",
+},
+{
+["id"] = 49361,
+["sliceToken"] = "ABuenmguorQ",
+},
+{
+["id"] = 32267,
+["sliceToken"] = "ABuenmguorW",
+},
+{
+["id"] = 11420,
+["sliceToken"] = "ABuenmguorE",
+},
+{
+["id"] = 11418,
+["sliceToken"] = "ABuenmguor7",
+},
+{
+["id"] = 11417,
+["sliceToken"] = "ABuenmguorR",
+},
+["name"] = "Portal",
+["limit"] = "MAGE",
 ["internal"] = true,
 ["save"] = true,
 },
@@ -152,8 +204,8 @@ OPie_SavedData = {
 ["sliceToken"] = "ABuenE4Bncw",
 },
 ["name"] = "Food",
-["save"] = true,
 ["internal"] = true,
+["save"] = true,
 },
 ["MageTools"] = {
 {
@@ -186,11 +238,11 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCMTn",
 ["vm"] = 3,
 },
-["name"] = "Utility",
 ["limit"] = "MAGE",
-["vm"] = 125,
-["save"] = true,
+["name"] = "Utility",
 ["hotkey"] = "BUTTON5",
+["save"] = true,
+["vm"] = 125,
 ["v"] = 4,
 },
 ["mogrifiers"] = {
@@ -220,85 +272,76 @@ OPie_SavedData = {
 ["sliceToken"] = "ABueWhjAzrw",
 },
 ["name"] = "Utility NPCs",
+["internal"] = true,
+["save"] = true,
+},
+["Flying2"] = {
+{
+"mount",
+516,
+["sliceToken"] = "ABuenG8ciuw",
+},
+{
+"mount",
+450,
+["sliceToken"] = "ABuenBRY12w",
+},
+{
+"mount",
+1959,
+["sliceToken"] = "ABuem4pPpMw",
+},
+["name"] = "Flying",
 ["save"] = true,
 ["internal"] = true,
 },
-["OPieFlagStore"] = {
-["StoreVersion"] = 3,
-},
-["onsumables"] = {
+["Teleportal"] = {
 {
 "ring",
-"Drinks",
-["sliceToken"] = "ABuenmguorU",
-},
-{
-"item",
-211495,
-["sliceToken"] = "ABuen6w3r/w",
-},
-{
-"item",
-124640,
-["sliceToken"] = "ABuen6w3r/e",
-},
-{
-"item",
-204370,
-["sliceToken"] = "ABuen6w3r/t",
-},
-{
-"item",
-191395,
-["sliceToken"] = "ABuen6w3r/1",
-},
-{
-"ring",
-"Food",
-["sliceToken"] = "ABuen6w3r/u",
+"Teleport1",
+["sliceToken"] = "ABuenmguorg",
 ["embed"] = false,
+["rotationMode"] = "reset",
 },
 {
 "ring",
-"Elixirs",
-["sliceToken"] = "ABuen6w3r/i",
+"Portal",
+["sliceToken"] = "ABuenmguorT",
+["embed"] = false,
+["rotationMode"] = "reset",
 },
-{
-"ring",
-"Runes",
-["sliceToken"] = "ABuen6w3r/2",
-},
-["name"] = "Consumables",
 ["save"] = true,
+["limit"] = "MAGE",
+["name"] = "Teleportal",
 },
 ["ndsPortals"] = {
 {
-["sliceToken"] = "ABueWa3Kk11",
 ["id"] = 354462,
+["sliceToken"] = "ABueWa3Kk11",
 },
 {
-["sliceToken"] = "ABueWxRkKow",
 ["id"] = 354464,
+["sliceToken"] = "ABueWxRkKow",
 },
 {
-["sliceToken"] = "ABueWcOjaQe",
 ["id"] = 373274,
+["sliceToken"] = "ABueWcOjaQe",
 },
 {
-["sliceToken"] = "ABueWcOjaQr",
 ["id"] = 445418,
+["sliceToken"] = "ABueWcOjaQr",
 },
 {
-["sliceToken"] = "ABue7Y2ZsLw",
 ["id"] = 354465,
+["sliceToken"] = "ABue7Y2ZsLw",
 },
 {
-["sliceToken"] = "ABue782KNuw",
 ["id"] = 367416,
+["sliceToken"] = "ABue782KNuw",
 },
 ["name"] = "Path of the Banshee Queen",
-["save"] = true,
 ["internal"] = true,
+["save"] = true,
 },
 ["Drinks"] = {
 {
@@ -318,8 +361,8 @@ OPie_SavedData = {
 ["sliceToken"] = "ABuenYlwkOw",
 },
 ["name"] = "Drinks",
-["save"] = true,
 ["internal"] = true,
+["save"] = true,
 },
 ["Teleport1"] = {
 {
@@ -446,8 +489,8 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "OPCTAc",
 ["id"] = "/cast {{spell:50977}}; {{spell:193753}}; {{spell:126892}}; {{spell:193759}}; {{spell:556}}",
+["sliceToken"] = "OPCTAc",
 ["vm"] = 2,
 },
 {
@@ -512,85 +555,14 @@ OPie_SavedData = {
 ["sliceToken"] = "ABue7px3Z5w",
 ["id"] = 1231411,
 },
-["name"] = "Specializations and Travel",
-["hotkey"] = "ALT-H",
 ["save"] = true,
-["vm"] = 127,
 ["v"] = 8,
+["name"] = "Specializations and Travel",
+["vm"] = 127,
+["hotkey"] = "ALT-H",
+["dropTokens"] = {
+["OPCTAh"] = 1,
 },
-["theSeasons"] = {
-{
-["sliceToken"] = "ABue7SwI1X1",
-["id"] = 354465,
-},
-{
-["sliceToken"] = "ABue7SwI1Xt",
-["id"] = 367416,
-},
-{
-["sliceToken"] = "ABue7SwI1Xy",
-["id"] = 445444,
-},
-{
-["sliceToken"] = "ABue7SwI1Xu",
-["id"] = 445414,
-},
-{
-["sliceToken"] = "ABue7SwI1Xi",
-["id"] = 445417,
-},
-{
-["sliceToken"] = "ABue7SwI1X2",
-["id"] = 1216786,
-},
-{
-["sliceToken"] = "ABue7SwI1Xo",
-["id"] = 1237215,
-},
-["name"] = "Path of the Seasons",
-["save"] = true,
-["internal"] = true,
-},
-["MoPPortals"] = {
-{
-["sliceToken"] = "ABuenU0YrVw",
-["id"] = 131204,
-},
-{
-["sliceToken"] = "ABuenU0YrVe",
-["id"] = 131205,
-},
-{
-["sliceToken"] = "ABuenU0YrVr",
-["id"] = 131206,
-},
-{
-["sliceToken"] = "ABuenU0YrV1",
-["id"] = 131222,
-},
-{
-["sliceToken"] = "ABuenU0YrVt",
-["id"] = 131225,
-},
-{
-["sliceToken"] = "ABuenU0YrVy",
-["id"] = 131231,
-},
-{
-["sliceToken"] = "ABuenU0YrVu",
-["id"] = 131229,
-},
-{
-["sliceToken"] = "ABuenU0YrVi",
-["id"] = 131232,
-},
-{
-["sliceToken"] = "ABuenU0YrV2",
-["id"] = 131228,
-},
-["name"] = "Path of the Last Emperor",
-["save"] = true,
-["internal"] = true,
 },
 ["ookingpets"] = {
 {
@@ -622,179 +594,214 @@ OPie_SavedData = {
 ["save"] = true,
 ["internal"] = true,
 },
-["BfAPortals"] = {
+["theSeasons"] = {
 {
-["sliceToken"] = "ABuenUDBC0w",
-["id"] = 410071,
+["id"] = 354465,
+["sliceToken"] = "ABue7SwI1X1",
 },
 {
-["sliceToken"] = "ABuenUDBC0e",
-["id"] = 410074,
+["id"] = 367416,
+["sliceToken"] = "ABue7SwI1Xt",
 },
 {
-["sliceToken"] = "ABuenUGSsi2",
-["id"] = 424167,
+["id"] = 445444,
+["sliceToken"] = "ABue7SwI1Xy",
 },
 {
-["sliceToken"] = "ABuenUGSsid",
-["id"] = 424187,
+["id"] = 445414,
+["sliceToken"] = "ABue7SwI1Xu",
 },
 {
-["sliceToken"] = "ABueWgxXYJw",
-["id"] = 445418,
+["id"] = 445417,
+["sliceToken"] = "ABue7SwI1Xi",
 },
-["name"] = "Path of the Unending Conflict",
+{
+["id"] = 1216786,
+["sliceToken"] = "ABue7SwI1X2",
+},
+{
+["id"] = 1237215,
+["sliceToken"] = "ABue7SwI1Xo",
+},
+["name"] = "Path of the Seasons",
 ["internal"] = true,
 ["save"] = true,
+},
+["ghtPortals"] = {
+{
+["id"] = 393256,
+["sliceToken"] = "ABuemP5HLDe",
+},
+{
+["id"] = 393262,
+["sliceToken"] = "ABueWwaJ1Jw",
+},
+{
+["id"] = 393267,
+["sliceToken"] = "ABuenSsKa8w",
+},
+{
+["id"] = 393276,
+["sliceToken"] = "ABuenUDBC0a",
+},
+{
+["id"] = 393279,
+["sliceToken"] = "ABuenU0Rste",
+},
+{
+["id"] = 393283,
+["sliceToken"] = "ABuenUDBC0s",
+},
+{
+["id"] = 393222,
+["sliceToken"] = "ABuenUDBC03",
+},
+{
+["id"] = 424197,
+["sliceToken"] = "ABuenUGSsio",
+},
+["name"] = "Path of the Dragon",
+["save"] = true,
+["internal"] = true,
+},
+["Elixirs"] = {
+{
+"item",
+191341,
+["sliceToken"] = "ABuen6w3r/p",
+},
+["name"] = "Elixirs",
+["save"] = true,
+["internal"] = true,
+},
+["BfAPortals"] = {
+{
+["id"] = 410071,
+["sliceToken"] = "ABuenUDBC0w",
+},
+{
+["id"] = 410074,
+["sliceToken"] = "ABuenUDBC0e",
+},
+{
+["id"] = 424167,
+["sliceToken"] = "ABuenUGSsi2",
+},
+{
+["id"] = 424187,
+["sliceToken"] = "ABuenUGSsid",
+},
+{
+["id"] = 445418,
+["sliceToken"] = "ABueWgxXYJw",
+},
+["name"] = "Path of the Unending Conflict",
+["save"] = true,
+["internal"] = true,
 },
 ["ionPortals"] = {
 {
-["sliceToken"] = "ABuenUDBC0f",
 ["id"] = 410078,
+["sliceToken"] = "ABuenUDBC0f",
 },
 {
-["sliceToken"] = "ABuenU0Rstr",
 ["id"] = 393766,
+["sliceToken"] = "ABuenU0Rstr",
 },
 {
-["sliceToken"] = "ABuenUGSsis",
 ["id"] = 424153,
+["sliceToken"] = "ABuenUGSsis",
 },
 {
-["sliceToken"] = "ABuenUGSsia",
 ["id"] = 424163,
+["sliceToken"] = "ABuenUGSsia",
 },
 {
-["sliceToken"] = "ABueRiDfnzw",
 ["id"] = 393764,
+["sliceToken"] = "ABueRiDfnzw",
 },
 ["name"] = "Path of the Sargerei",
-["internal"] = true,
 ["save"] = true,
+["internal"] = true,
 },
 ["WoDPortals"] = {
 {
-["sliceToken"] = "ABueWwaJ1Je",
 ["id"] = 159898,
+["sliceToken"] = "ABueWwaJ1Je",
 },
 {
-["sliceToken"] = "ABuenUGSsi3",
 ["id"] = 159901,
+["sliceToken"] = "ABuenUGSsi3",
 },
 {
-["sliceToken"] = "ABuenU0Rstw",
 ["id"] = 159899,
+["sliceToken"] = "ABuenU0Rstw",
 },
 {
-["sliceToken"] = "ABueWwaJ1Jr",
 ["id"] = 159896,
+["sliceToken"] = "ABueWwaJ1Jr",
 },
 ["name"] = "Path of the Iron Horde",
-["save"] = true,
 ["internal"] = true,
-},
-["agonriding"] = {
-{
-"mount",
-1591,
-["sliceToken"] = "ABuen6w3r/s",
-},
-{
-"mount",
-1744,
-["sliceToken"] = "ABuen6w3r/3",
-},
-{
-"mount",
-1563,
-["sliceToken"] = "ABuen6w3r/d",
-},
-{
-"mount",
-1589,
-["sliceToken"] = "ABuen6w3r/f",
-},
-{
-"mount",
-1590,
-["sliceToken"] = "ABuen6w3r/g",
-},
-{
-"mount",
-1588,
-["sliceToken"] = "ABuen6w3r/h",
-},
-["name"] = "Dragonriding",
 ["save"] = true,
-["internal"] = true,
 },
-["Portal"] = {
+["onsumables"] = {
 {
-["id"] = 446534,
-["sliceToken"] = "ABueQ00w=zw",
-},
-{
-["id"] = 395289,
-["sliceToken"] = "ABuenmguorl",
+"ring",
+"Drinks",
+["sliceToken"] = "ABuenmguorU",
 },
 {
-["id"] = 344597,
-["sliceToken"] = "ABuenmguorz",
+"item",
+211495,
+["sliceToken"] = "ABuen6w3r/w",
 },
 {
-["id"] = 281402,
-["sliceToken"] = "ABuenmguor5",
+"item",
+124640,
+["sliceToken"] = "ABuen6w3r/e",
 },
 {
-["id"] = 224871,
-["sliceToken"] = "ABuenmguorx",
+"item",
+204370,
+["sliceToken"] = "ABuen6w3r/t",
 },
 {
-["id"] = 176244,
-["sliceToken"] = "ABuenmguorc",
+"item",
+191395,
+["sliceToken"] = "ABuen6w3r/1",
 },
 {
-["id"] = 132626,
-["sliceToken"] = "ABuenmguorv",
+"ring",
+"Food",
+["sliceToken"] = "ABuen6w3r/u",
+["embed"] = false,
 },
 {
-["id"] = 88346,
-["sliceToken"] = "ABuenmguorb",
+"ring",
+"Elixirs",
+["sliceToken"] = "ABuen6w3r/i",
 },
 {
-["id"] = 53142,
-["sliceToken"] = "ABuenmguor6",
+"ring",
+"Runes",
+["sliceToken"] = "ABuen6w3r/2",
+},
+["name"] = "Consumables",
+["save"] = true,
+},
+["elveTravel"] = {
+{
+"toy",
+243056,
+["sliceToken"] = "ABue7SwI1Xw",
 },
 {
-["id"] = 35717,
-["sliceToken"] = "ABuenmguorn",
+"toy",
+230850,
+["sliceToken"] = "ABue7SwI1Xe",
 },
-{
-["id"] = 120146,
-["sliceToken"] = "ABuenmguorm",
-},
-{
-["id"] = 49361,
-["sliceToken"] = "ABuenmguorQ",
-},
-{
-["id"] = 32267,
-["sliceToken"] = "ABuenmguorW",
-},
-{
-["id"] = 11420,
-["sliceToken"] = "ABuenmguorE",
-},
-{
-["id"] = 11418,
-["sliceToken"] = "ABuenmguor7",
-},
-{
-["id"] = 11417,
-["sliceToken"] = "ABuenmguorR",
-},
-["name"] = "Portal",
-["limit"] = "MAGE",
+["name"] = "Path of the Delver",
 ["internal"] = true,
 ["save"] = true,
 },
@@ -818,15 +825,46 @@ OPie_SavedData = {
 ["internal"] = true,
 ["save"] = true,
 },
-["Elixirs"] = {
+["MoPPortals"] = {
 {
-"item",
-191341,
-["sliceToken"] = "ABuen6w3r/p",
+["id"] = 131204,
+["sliceToken"] = "ABuenU0YrVw",
 },
-["name"] = "Elixirs",
-["save"] = true,
+{
+["id"] = 131205,
+["sliceToken"] = "ABuenU0YrVe",
+},
+{
+["id"] = 131206,
+["sliceToken"] = "ABuenU0YrVr",
+},
+{
+["id"] = 131222,
+["sliceToken"] = "ABuenU0YrV1",
+},
+{
+["id"] = 131225,
+["sliceToken"] = "ABuenU0YrVt",
+},
+{
+["id"] = 131231,
+["sliceToken"] = "ABuenU0YrVy",
+},
+{
+["id"] = 131229,
+["sliceToken"] = "ABuenU0YrVu",
+},
+{
+["id"] = 131232,
+["sliceToken"] = "ABuenU0YrVi",
+},
+{
+["id"] = 131228,
+["sliceToken"] = "ABuenU0YrV2",
+},
+["name"] = "Path of the Last Emperor",
 ["internal"] = true,
+["save"] = true,
 },
 ["WarlockLTS"] = {
 {
@@ -889,94 +927,10 @@ OPie_SavedData = {
 },
 ["limit"] = "WARLOCK",
 ["name"] = "Utility",
-["vm"] = 125,
-["save"] = true,
 ["hotkey"] = "F4",
+["save"] = true,
+["vm"] = 125,
 ["v"] = 5,
-},
-["Teleportal"] = {
-{
-"ring",
-"Teleport1",
-["sliceToken"] = "ABuenmguorg",
-["embed"] = false,
-["rotationMode"] = "reset",
-},
-{
-"ring",
-"Portal",
-["sliceToken"] = "ABuenmguorT",
-["embed"] = false,
-["rotationMode"] = "reset",
-},
-["save"] = true,
-["name"] = "Teleportal",
-["limit"] = "MAGE",
-},
-["elveTravel"] = {
-{
-"toy",
-243056,
-["sliceToken"] = "ABue7SwI1Xw",
-},
-{
-"toy",
-230850,
-["sliceToken"] = "ABue7SwI1Xe",
-},
-["name"] = "Path of the Delver",
-["save"] = true,
-["internal"] = true,
-},
-["hinPortals"] = {
-{
-["sliceToken"] = "ABueWa3Kk1e",
-["id"] = 445417,
-},
-{
-["sliceToken"] = "ABueWdzHBVw",
-["id"] = 445414,
-},
-{
-["sliceToken"] = "ABueWz1hE9w",
-["id"] = 445416,
-},
-{
-["sliceToken"] = "ABueWcOjaQw",
-["id"] = 445269,
-},
-{
-["sliceToken"] = "ABue7px3Z5e",
-["id"] = 1226482,
-},
-{
-["sliceToken"] = "ABue76k=GFw",
-["id"] = 445444,
-},
-{
-["sliceToken"] = "ABue76k=GFe",
-["id"] = 445443,
-},
-{
-["sliceToken"] = "ABue76k=GFr",
-["id"] = 445440,
-},
-{
-["sliceToken"] = "ABue76k=GF1",
-["id"] = 445441,
-},
-{
-["sliceToken"] = "ABue76k=GFt",
-["id"] = 1216786,
-},
-{
-["sliceToken"] = "ABue77uPBQw",
-["id"] = 1237215,
-},
-["offset"] = 0,
-["name"] = "Path of the Harbinger",
-["internal"] = true,
-["save"] = true,
 },
 ["CommonHearth"] = {
 {
@@ -1084,6 +1038,12 @@ OPie_SavedData = {
 "toy",
 265100,
 ["sliceToken"] = "OPCHScw",
+["vm"] = 2,
+},
+{
+"toy",
+264367,
+["sliceToken"] = "OPCHSmc",
 ["vm"] = 2,
 },
 {
@@ -1201,13 +1161,101 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 ["save"] = true,
-["v"] = 11,
+["v"] = 12,
 ["name"] = "Hearthstones",
 ["internal"] = true,
 ["vm"] = 127,
 ["dropTokens"] = {
 ["OPCHSh"] = 1,
 },
+},
+["ExtraPortals"] = {
+{
+["id"] = "/cast [mod] {{spell:120146}}; {{spell:120145}}",
+["sliceToken"] = "OPCMEa",
+["vm"] = 3,
+},
+{
+["id"] = "/cast [mod] {{spell:49360}}; {{spell:49359}}",
+["sliceToken"] = "OPCMEm",
+["vm"] = 3,
+},
+{
+["id"] = "/cast [mod] {{spell:49361}}; {{spell:49358}}",
+["sliceToken"] = "OPCMEn",
+["vm"] = 3,
+},
+{
+["sliceToken"] = "OPCMEb",
+["c"] = "99C5CC",
+["id"] = "/cast [mod] {{spell:88346/88345}}; {{spell:88344/88342}}",
+["vm"] = 3,
+},
+{
+["sliceToken"] = "OPCMEh",
+["c"] = "ff4000",
+["id"] = "/cast [mod] {{spell:176246/176244}}; {{spell:176248/176242}}",
+["vm"] = 3,
+},
+["name"] = "Extra Portals",
+["limit"] = "MAGE",
+["embed"] = true,
+["save"] = true,
+["vm"] = 107,
+["v"] = 1,
+},
+["hinPortals"] = {
+{
+["id"] = 445417,
+["sliceToken"] = "ABueWa3Kk1e",
+},
+{
+["id"] = 445414,
+["sliceToken"] = "ABueWdzHBVw",
+},
+{
+["id"] = 445416,
+["sliceToken"] = "ABueWz1hE9w",
+},
+{
+["id"] = 445269,
+["sliceToken"] = "ABueWcOjaQw",
+},
+{
+["sliceToken"] = "ABue7px3Z5e",
+["id"] = 1226482,
+},
+{
+["id"] = 445444,
+["sliceToken"] = "ABue76k=GFw",
+},
+{
+["id"] = 445443,
+["sliceToken"] = "ABue76k=GFe",
+},
+{
+["id"] = 445440,
+["sliceToken"] = "ABue76k=GFr",
+},
+{
+["id"] = 445441,
+["sliceToken"] = "ABue76k=GF1",
+},
+{
+["id"] = 1216786,
+["sliceToken"] = "ABue76k=GFt",
+},
+{
+["id"] = 1237215,
+["sliceToken"] = "ABue77uPBQw",
+},
+["offset"] = 0,
+["name"] = "Path of the Harbinger",
+["internal"] = true,
+["save"] = true,
+},
+["OPieFlagStore"] = {
+["StoreVersion"] = 3,
 },
 ["Mounts"] = {
 {
@@ -1249,122 +1297,102 @@ OPie_SavedData = {
 ["name"] = "Mounts",
 ["save"] = true,
 },
-["ghtPortals"] = {
+["ysmPortals"] = {
 {
-["sliceToken"] = "ABuemP5HLDe",
-["id"] = 393256,
+["id"] = 410080,
+["sliceToken"] = "ABuenUDBC0r",
 },
 {
-["sliceToken"] = "ABueWwaJ1Jw",
-["id"] = 393262,
+["id"] = 424142,
+["sliceToken"] = "ABuenUGSsip",
 },
 {
-["sliceToken"] = "ABuenSsKa8w",
-["id"] = 393267,
+["id"] = 445424,
+["sliceToken"] = "ABueW4BZhLw",
 },
-{
-["sliceToken"] = "ABuenUDBC0a",
-["id"] = 393276,
-},
-{
-["sliceToken"] = "ABuenU0Rste",
-["id"] = 393279,
-},
-{
-["sliceToken"] = "ABuenUDBC0s",
-["id"] = 393283,
-},
-{
-["sliceToken"] = "ABuenUDBC03",
-["id"] = 393222,
-},
-{
-["sliceToken"] = "ABuenUGSsio",
-["id"] = 424197,
-},
-["name"] = "Path of the Dragon",
-["internal"] = true,
+["name"] = "Path of the Worldbreaker",
 ["save"] = true,
+["internal"] = true,
 },
 ["HerosPath"] = {
 {
 "ring",
 "theSeasons",
 ["sliceToken"] = "ABue7SwI1Xp",
-["embed"] = false,
 ["icon"] = 4352494,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "elveTravel",
 ["sliceToken"] = "ABue7SwI1Xr",
-["embed"] = false,
 ["icon"] = 5512349,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "ysmPortals",
 ["sliceToken"] = "ABuenUDBC0t",
-["embed"] = false,
 ["icon"] = 2734740,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "MoPPortals",
 ["sliceToken"] = "ABuenUDBC0y",
-["icon"] = 572035,
 ["embed"] = false,
+["icon"] = 572035,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "WoDPortals",
 ["sliceToken"] = "ABuenUDBC0u",
-["icon"] = 892829,
 ["embed"] = false,
+["icon"] = 892829,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "ionPortals",
 ["sliceToken"] = "ABuenUDBC0i",
-["embed"] = false,
 ["icon"] = 841221,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "BfAPortals",
 ["sliceToken"] = "ABuenUDBC02",
-["embed"] = false,
 ["icon"] = 2065619,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "ndsPortals",
 ["sliceToken"] = "ABuenUDBC0o",
-["embed"] = false,
 ["icon"] = 3726261,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "ghtPortals",
 ["sliceToken"] = "ABuenUDBC0p",
-["icon"] = 4048813,
 ["embed"] = false,
+["icon"] = 4048813,
 ["rotationMode"] = "jump",
 },
 {
 "ring",
 "hinPortals",
 ["sliceToken"] = "ABueQMGWpkw",
-["embed"] = false,
 ["icon"] = 5948133,
+["embed"] = false,
 ["rotationMode"] = "jump",
 },
 ["name"] = "Hero's Path",
@@ -1412,11 +1440,11 @@ OPie_SavedData = {
 ["sliceToken"] = "OPCDUw",
 ["vm"] = 3,
 },
-["limit"] = "DRUID",
 ["name"] = "Utility",
-["vm"] = 127,
-["save"] = true,
+["limit"] = "DRUID",
 ["hotkey"] = "[noform:bear/cat] BUTTON5; ALT-BUTTON5",
+["save"] = true,
+["vm"] = 127,
 ["v"] = 2,
 },
 ["nsformtoys"] = {
@@ -1493,60 +1521,40 @@ OPie_SavedData = {
 ["name"] = "Transform toys",
 ["save"] = true,
 },
-["Aquatic"] = {
+["agonriding"] = {
 {
 "mount",
-1837,
-["sliceToken"] = "ABuen6efgHw",
+1591,
+["sliceToken"] = "ABuen6w3r/s",
 },
 {
 "mount",
-1653,
-["sliceToken"] = "ABuen6efgHe",
+1744,
+["sliceToken"] = "ABuen6w3r/3",
 },
 {
 "mount",
-1692,
-["sliceToken"] = "ABuen6efgHr",
+1563,
+["sliceToken"] = "ABuen6w3r/d",
 },
-["name"] = "Aquatic",
+{
+"mount",
+1589,
+["sliceToken"] = "ABuen6w3r/f",
+},
+{
+"mount",
+1590,
+["sliceToken"] = "ABuen6w3r/g",
+},
+{
+"mount",
+1588,
+["sliceToken"] = "ABuen6w3r/h",
+},
+["name"] = "Dragonriding",
 ["internal"] = true,
 ["save"] = true,
-},
-["ExtraPortals"] = {
-{
-["id"] = "/cast [mod] {{spell:120146}}; {{spell:120145}}",
-["sliceToken"] = "OPCMEa",
-["vm"] = 3,
-},
-{
-["id"] = "/cast [mod] {{spell:49360}}; {{spell:49359}}",
-["sliceToken"] = "OPCMEm",
-["vm"] = 3,
-},
-{
-["id"] = "/cast [mod] {{spell:49361}}; {{spell:49358}}",
-["sliceToken"] = "OPCMEn",
-["vm"] = 3,
-},
-{
-["sliceToken"] = "OPCMEb",
-["c"] = "99C5CC",
-["id"] = "/cast [mod] {{spell:88346/88345}}; {{spell:88344/88342}}",
-["vm"] = 3,
-},
-{
-["sliceToken"] = "OPCMEh",
-["c"] = "ff4000",
-["id"] = "/cast [mod] {{spell:176246/176244}}; {{spell:176248/176242}}",
-["vm"] = 3,
-},
-["limit"] = "MAGE",
-["name"] = "Extra Portals",
-["vm"] = 107,
-["save"] = true,
-["embed"] = true,
-["v"] = 1,
 },
 ["CommonTrades"] = {
 {
@@ -1611,20 +1619,20 @@ OPie_SavedData = {
 ["vm"] = 2,
 },
 {
-["sliceToken"] = "ABuenGTz4Ee",
 ["id"] = 271990,
+["sliceToken"] = "ABuenGTz4Ee",
 },
 {
 ["id"] = 158762,
 ["sliceToken"] = "ABueWV6WDkw",
 },
 {
-["sliceToken"] = "OPCCTu",
 ["id"] = 53428,
+["sliceToken"] = "OPCCTu",
 },
 {
-["sliceToken"] = "ABuenGTz4Et",
 ["id"] = 2550,
+["sliceToken"] = "ABuenGTz4Et",
 },
 {
 "battlepet",
@@ -1644,20 +1652,20 @@ OPie_SavedData = {
 ["save"] = true,
 ["v"] = 7,
 ["name"] = "Trade Skills",
-["hotkey"] = "ALT-T",
 ["vm"] = 127,
+["hotkey"] = "ALT-T",
 ["dropTokens"] = {
 ["OPCCTc"] = 1,
-["OPCCTb"] = 1,
+["OPCCTfj"] = 1,
 ["OPCCTl"] = 1,
 ["OPCCTg"] = 1,
 ["OPCCTr"] = 1,
 ["OPCCTi"] = 1,
 ["OPCCTt"] = 1,
 ["OPCCTj"] = 1,
-["OPCCTfj"] = 1,
-["OPCCTe"] = 1,
 ["OPCCTa"] = 1,
+["OPCCTe"] = 1,
+["OPCCTb"] = 1,
 },
 },
 },
