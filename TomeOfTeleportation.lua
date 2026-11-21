@@ -11,28 +11,28 @@ TomeOfTele_OptionsGlobal = {
 "TOP",
 nil,
 "TOP",
--150.5065460205078,
-3.381164312362671,
+111.3599853515625,
+-72.3521728515625,
 },
 },
 ["theme"] = "Flat",
 ["hideSpells"] = true,
-["showInWrongZone"] = false,
-["groupRaids"] = true,
-["favourites"] = {
+["alwaysShowSpells"] = {
 },
-["hideItems"] = false,
-["hideChallenge"] = false,
-["showDungeonNames"] = true,
+["groupRaids"] = true,
+["randomHearth"] = true,
+["allCovenants"] = false,
+["sort"] = 3,
+["heightScalePercent"] = 100,
 ["sortOrder"] = {
 },
 ["groupDungeons"] = false,
-["heightScalePercent"] = 250,
-["sort"] = 3,
-["allCovenants"] = false,
-["randomHearth"] = true,
-["alwaysShowSpells"] = {
+["showDungeonNames"] = true,
+["hideChallenge"] = true,
+["hideItems"] = false,
+["favourites"] = {
 },
+["showInWrongZone"] = false,
 }
 TomeOfTele_IconGlobal = {
 }

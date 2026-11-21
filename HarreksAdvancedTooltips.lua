@@ -1,5 +1,5 @@
 
 HATDB = {
+["useModifier"] = true,
 ["modifierKey"] = "shift",
-["useModifier"] = false,
 }

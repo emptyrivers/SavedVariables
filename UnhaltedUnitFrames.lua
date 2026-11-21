@@ -2,6 +2,9 @@
 UUFDB = {
 ["namespaces"] = {
 },
+["global"] = {
+["UseGlobalProfile"] = true,
+},
 ["profileKeys"] = {
 ["Seep - Kel'Thuzad"] = "Default",
 ["Esker - Kel'Thuzad"] = "Default",
@@ -15,24 +18,29 @@ UUFDB = {
 ["Slush - Mal'Ganis"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
 ["Moraine - Kel'Thuzad"] = "Default",
+["Shoal - Kel'Thuzad"] = "Default",
+["Squall - Argent Dawn"] = "Default",
 ["Riptides - Argent Dawn"] = "Default",
 ["Brack - Mal'Ganis"] = "Default",
+["Mire - Mal'Ganis"] = "Default",
 ["Talamahyn - Kel'Thuzad"] = "Default",
+["Splash - Kel'Thuzad"] = "Default",
 ["Surge - Argent Dawn"] = "Default",
 ["Geyser - Mal'Ganis"] = "Default",
-["Levee - Argent Dawn"] = "Default",
+["Gyre - Kel'Thuzad"] = "Default",
+["Atoll - Mal'Ganis"] = "Default",
 ["Falls - Mal'Ganis"] = "Default",
-["Shoal - Kel'Thuzad"] = "Default",
+["Stream - Argent Dawn"] = "Default",
 ["Bayou - Kel'Thuzad"] = "Default",
 ["Orhok - Mal'Ganis"] = "Default",
-["Stream - Argent Dawn"] = "Default",
-["Fathom - Argent Dawn"] = "Default",
 ["Bog - Kel'Thuzad"] = "Default",
-["Spume - Argent Dawn"] = "Default",
+["Fathom - Argent Dawn"] = "Default",
 ["Aquifer - Kel'Thuzad"] = "Default",
+["Spume - Argent Dawn"] = "Default",
 ["Flumes - Kel'Thuzad"] = "Default",
-["Fjord - Mal'Ganis"] = "Default",
+["Rime - Kel'Thuzad"] = "Default",
 ["Cataracts - Argent Dawn"] = "Default",
+["Docks - Argent Dawn"] = "Default",
 ["Quag - Argent Dawn"] = "Default",
 ["Bwaagh - Mal'Ganis"] = "Default",
 ["Baffle - Mal'Ganis"] = "Default",
@@ -40,19 +48,16 @@ UUFDB = {
 ["Geosmin - Kel'Thuzad"] = "Default",
 ["Mangrove - Argent Dawn"] = "Default",
 ["Lather - Mal'Ganis"] = "Default",
-["Rime - Kel'Thuzad"] = "Default",
+["Fjord - Mal'Ganis"] = "Default",
 ["Rill - Kel'Thuzad"] = "Default",
-["Brook - Argent Dawn"] = "Default",
+["Font - Kel'Thuzad"] = "Default",
 ["Riparium - Argent Dawn"] = "Default",
 ["Brine - Argent Dawn"] = "Default",
 ["Rivulet - Mal'Ganis"] = "Default",
-["Gyre - Kel'Thuzad"] = "Default",
+["Levee - Argent Dawn"] = "Default",
 ["Floe - Mal'Ganis"] = "Default",
-["Mire - Mal'Ganis"] = "Default",
+["Brook - Argent Dawn"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
-},
-["global"] = {
-["UseGlobalProfile"] = true,
 },
 ["profiles"] = {
 ["Default"] = {
@@ -142,20 +147,20 @@ UUFDB = {
 0.61,
 0,
 },
-[11] = {
-0,
-0.5,
-1,
+[17] = {
+0.79,
+0.26,
+0.99,
 },
 [6] = {
 0,
 0.82,
 1,
 },
-[17] = {
-0.79,
-0.26,
-0.99,
+[11] = {
+0,
+0.5,
+1,
 },
 },
 },
@@ -167,13 +172,8 @@ UUFDB = {
 ["UseCustomAbbreviations"] = false,
 ["Separator"] = "||",
 ["ToTSeparator"] = "»",
-["UIScale"] = {
-["Enabled"] = false,
-["Scale"] = 1,
-},
 ["Fonts"] = {
 ["Font"] = "Friz Quadrata TT",
-["FontFlag"] = "OUTLINE",
 ["Shadow"] = {
 ["Enabled"] = false,
 ["YPos"] = -1,
@@ -185,6 +185,11 @@ UUFDB = {
 1,
 },
 },
+["FontFlag"] = "OUTLINE",
+},
+["UIScale"] = {
+["Enabled"] = false,
+["Scale"] = 1,
 },
 },
 ["Units"] = {
@@ -193,11 +198,7 @@ UUFDB = {
 ["ForceHideBlizzard"] = true,
 ["Tags"] = {
 ["TagThree"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "[powercolor][curpp]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "RIGHT",
@@ -205,14 +206,14 @@ UUFDB = {
 -3,
 2,
 },
-["Tag"] = "[powercolor][curpp]",
-},
-["TagOne"] = {
 ["Colour"] = {
 1,
 1,
 1,
 },
+},
+["TagOne"] = {
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -220,14 +221,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
-},
-["TagTwo"] = {
 ["Colour"] = {
 1,
 1,
 1,
 },
+},
+["TagTwo"] = {
+["Tag"] = "[curhp:abbr]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "RIGHT",
@@ -235,14 +236,14 @@ UUFDB = {
 -3,
 0,
 },
-["Tag"] = "[curhp:abbr]",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -250,14 +251,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -265,35 +266,38 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 },
 ["HealPrediction"] = {
 ["Absorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = true,
+["Position"] = "LEFT",
 ["Colour"] = {
 1,
 0.8,
 0,
 1,
 },
-["Position"] = "LEFT",
 },
 ["HealAbsorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
 ["Colour"] = {
 0.5019607843137255,
 0.2509803921568627,
 1,
 1,
 },
-["Position"] = "RIGHT",
 },
 },
 ["Auras"] = {
-["FrameStrata"] = "LOW",
 ["Buffs"] = {
 ["Enabled"] = true,
 ["OnlyShowPlayer"] = false,
@@ -321,24 +325,9 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 4,
 ["Wrap"] = 4,
+["Num"] = 4,
 ["Size"] = 34,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
 },
 ["Debuffs"] = {
 ["Enabled"] = true,
@@ -367,10 +356,26 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
 ["Wrap"] = 3,
+["Num"] = 3,
 ["Size"] = 34,
 },
+["AuraDuration"] = {
+["Colour"] = {
+1,
+1,
+1,
+},
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["FrameStrata"] = "LOW",
 },
 ["CastBar"] = {
 ["Enabled"] = true,
@@ -390,22 +395,22 @@ UUFDB = {
 0.2509803921568627,
 },
 ["Inverse"] = false,
-["Height"] = 24,
-["Foreground"] = {
-0.5019607843137255,
-0.5019607843137255,
+["Text"] = {
+["Duration"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"RIGHT",
+-3,
+0,
+},
+["Colour"] = {
+1,
+1,
 1,
 },
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
 },
-["Icon"] = {
-["Enabled"] = true,
-["Position"] = "LEFT",
-},
-["Text"] = {
 ["SpellName"] = {
 ["Enabled"] = true,
 ["FontSize"] = 12,
@@ -422,62 +427,96 @@ UUFDB = {
 1,
 },
 },
-["Duration"] = {
+},
+["Foreground"] = {
+0.5019607843137255,
+0.5019607843137255,
+1,
+},
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Icon"] = {
 ["Enabled"] = true,
-["FontSize"] = 12,
+["Position"] = "LEFT",
+},
+["Height"] = 24,
+},
+["Indicators"] = {
+["Resting"] = {
+["Enabled"] = true,
 ["Layout"] = {
-"RIGHT",
-"RIGHT",
--3,
+"LEFT",
+"TOPLEFT",
+3,
 0,
 },
+["Texture"] = "RESTING0",
+["Size"] = 16,
+},
+["Combat"] = {
+["Enabled"] = true,
+["Layout"] = {
+"CENTER",
+"TOP",
+0,
+0,
+},
+["Texture"] = "COMBAT0",
+["Size"] = 16,
+},
+["LeaderAssistantIndicator"] = {
+["Enabled"] = true,
+["Layout"] = {
+"TOPLEFT",
+"TOPLEFT",
+3,
+-3,
+},
+["Size"] = 16,
+},
+["Mouseover"] = {
+["Enabled"] = true,
+["HighlightOpacity"] = 0.75,
+["Style"] = "GRADIENT",
 ["Colour"] = {
 1,
 1,
 1,
 },
 },
+["RaidTargetMarker"] = {
+["Enabled"] = true,
+["Layout"] = {
+"CENTER",
+"TOP",
+0,
+0,
 },
-},
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
+["Size"] = 24,
 },
 },
 ["AlternativePowerBar"] = {
 ["Enabled"] = true,
-["Height"] = 5,
-["Inverse"] = false,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
 ["Foreground"] = {
 0.03137254901960784,
 0.03137254901960784,
 0.03137254901960784,
 },
+["Inverse"] = false,
 ["Layout"] = {
 "LEFT",
 "BOTTOMLEFT",
 3,
 1,
+},
+["Height"] = 5,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
 },
 ["ColourByType"] = true,
 ["Width"] = 100,
@@ -511,12 +550,12 @@ UUFDB = {
 ["ColourBackgroundByType"] = false,
 ["ColourByClass"] = false,
 ["Inverse"] = false,
-["Height"] = 3,
 ["Foreground"] = {
 0.03137254901960784,
 0.03137254901960784,
 0.03137254901960784,
 },
+["Height"] = 3,
 ["Background"] = {
 0.5019607843137255,
 0.5019607843137255,
@@ -525,38 +564,286 @@ UUFDB = {
 ["ColourByType"] = true,
 ["Smooth"] = true,
 },
-["Indicators"] = {
-["Resting"] = {
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["ColourBackgroundByClass"] = false,
+},
+},
+["boss"] = {
 ["Enabled"] = true,
+["ForceHideBlizzard"] = true,
+["Tags"] = {
+["TagThree"] = {
+["Tag"] = "[powercolor][curpp]",
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"BOTTOMRIGHT",
+-3,
+2,
+},
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+["TagOne"] = {
+["Tag"] = "[name]",
+["FontSize"] = 12,
 ["Layout"] = {
 "LEFT",
-"TOPLEFT",
+"LEFT",
 3,
 0,
 },
-["Size"] = 16,
-["Texture"] = "RESTING0",
+["Colour"] = {
+1,
+1,
+1,
 },
-["Combat"] = {
-["Enabled"] = true,
+},
+["TagTwo"] = {
+["Tag"] = "[curhp:abbr]",
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"RIGHT",
+-3,
+0,
+},
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+["TagFour"] = {
+["Tag"] = "",
+["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
-"TOP",
+"CENTER",
 0,
 0,
 },
-["Size"] = 16,
-["Texture"] = "COMBAT0",
+["Colour"] = {
+1,
+1,
+1,
 },
-["LeaderAssistantIndicator"] = {
+},
+["TagFive"] = {
+["Tag"] = "",
+["FontSize"] = 12,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+},
+["HealPrediction"] = {
+["Absorbs"] = {
 ["Enabled"] = true,
+["UseStripedTexture"] = true,
+["Position"] = "LEFT",
+["Colour"] = {
+1,
+0.8,
+0,
+1,
+},
+},
+["HealAbsorbs"] = {
+["Enabled"] = true,
+["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
+["Colour"] = {
+0.5019607843137255,
+0.2509803921568627,
+1,
+1,
+},
+},
+},
+["Auras"] = {
+["Buffs"] = {
+["Enabled"] = true,
+["OnlyShowPlayer"] = false,
+["Layout"] = {
+"LEFT",
+"RIGHT",
+1,
+0,
+1,
+},
+["GrowthDirection"] = "RIGHT",
+["WrapDirection"] = "UP",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Wrap"] = 3,
+["Num"] = 3,
+["Size"] = 42,
+},
+["Debuffs"] = {
+["Enabled"] = false,
+["OnlyShowPlayer"] = false,
+["Layout"] = {
+"BOTTOMRIGHT",
+"TOPRIGHT",
+0,
+1,
+1,
+},
+["GrowthDirection"] = "LEFT",
+["WrapDirection"] = "UP",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Wrap"] = 4,
+["Num"] = 4,
+["Size"] = 34,
+},
+["AuraDuration"] = {
+["Colour"] = {
+1,
+1,
+1,
+},
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["FrameStrata"] = "LOW",
+},
+["CastBar"] = {
+["Enabled"] = true,
+["MatchParentWidth"] = true,
 ["Layout"] = {
 "TOPLEFT",
-"TOPLEFT",
-3,
--3,
+"BOTTOMLEFT",
+0,
+-1,
 },
-["Size"] = 16,
+["FrameStrata"] = "MEDIUM",
+["Width"] = 244,
+["ColourByClass"] = false,
+["NotInterruptibleColour"] = {
+1,
+0.2509803921568627,
+0.2509803921568627,
+},
+["Inverse"] = false,
+["Text"] = {
+["Duration"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"RIGHT",
+-3,
+0,
+},
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+["SpellName"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"LEFT",
+"LEFT",
+3,
+0,
+},
+["MaxChars"] = 15,
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+},
+["Foreground"] = {
+0.5019607843137255,
+0.5019607843137255,
+1,
+},
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Icon"] = {
+["Enabled"] = true,
+["Position"] = "LEFT",
+},
+["Height"] = 24,
+},
+["Indicators"] = {
+["Target"] = {
+["Enabled"] = true,
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["Mouseover"] = {
 ["Enabled"] = true,
@@ -579,17 +866,78 @@ UUFDB = {
 ["Size"] = 24,
 },
 },
+["Portrait"] = {
+["Enabled"] = true,
+["Zoom"] = 0.3,
+["Layout"] = {
+"RIGHT",
+"LEFT",
+-1,
+0,
 },
-["targettarget"] = {
+["UseClassPortrait"] = false,
+["Size"] = 42,
+},
+["Frame"] = {
+["GrowthDirection"] = "DOWN",
+["Height"] = 42,
+["Layout"] = {
+"CENTER",
+"CENTER",
+550.1,
+-0.1,
+26,
+},
+["FrameStrata"] = "LOW",
+["Width"] = 244,
+},
+["PowerBar"] = {
+["Enabled"] = false,
+["BackgroundMultiplier"] = 0.75,
+["ColourBackgroundByType"] = false,
+["ColourByClass"] = false,
+["Inverse"] = false,
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["Height"] = 3,
+["Background"] = {
+0.5019607843137255,
+0.5019607843137255,
+0.5019607843137255,
+},
+["ColourByType"] = true,
+["Smooth"] = true,
+},
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["ColourBackgroundByClass"] = false,
+},
+},
+["focus"] = {
 ["Enabled"] = true,
 ["ForceHideBlizzard"] = true,
 ["Tags"] = {
 ["TagThree"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -597,14 +945,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagOne"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "[name]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -612,14 +960,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "[name]",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagTwo"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -627,14 +975,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -642,14 +990,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -657,37 +1005,40 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 },
 ["HealPrediction"] = {
 ["Absorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = true,
+["Position"] = "LEFT",
 ["Colour"] = {
 1,
 0.8,
 0,
 1,
 },
-["Position"] = "LEFT",
 },
 ["HealAbsorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
 ["Colour"] = {
 0.5019607843137255,
 0.2509803921568627,
 1,
 1,
 },
-["Position"] = "RIGHT",
 },
 },
 ["Auras"] = {
-["FrameStrata"] = "LOW",
 ["Buffs"] = {
-["Enabled"] = false,
+["Enabled"] = true,
 ["OnlyShowPlayer"] = false,
 ["Layout"] = {
 "RIGHT",
@@ -713,24 +1064,9 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
-["Wrap"] = 3,
+["Wrap"] = 1,
+["Num"] = 1,
 ["Size"] = 22,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
 },
 ["Debuffs"] = {
 ["Enabled"] = false,
@@ -759,74 +1095,93 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
 ["Wrap"] = 3,
+["Num"] = 3,
 ["Size"] = 22,
 },
+["AuraDuration"] = {
+["Colour"] = {
+1,
+1,
+1,
 },
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
-},
-},
-["Portrait"] = {
-["Enabled"] = false,
-["Zoom"] = 0.3,
 ["Layout"] = {
-"RIGHT",
-"LEFT",
--1,
+"CENTER",
+"CENTER",
+0,
 0,
 },
-["UseClassPortrait"] = false,
-["Size"] = 22,
-},
-["Frame"] = {
-["AnchorParent"] = "UUF_Target",
-["Height"] = 22,
-["Layout"] = {
-"TOPRIGHT",
-"BOTTOMRIGHT",
-0,
--26.1,
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
 },
 ["FrameStrata"] = "LOW",
-["Width"] = 122,
 },
-["PowerBar"] = {
-["Enabled"] = false,
-["BackgroundMultiplier"] = 0.75,
-["ColourBackgroundByType"] = false,
+["CastBar"] = {
+["Enabled"] = true,
+["MatchParentWidth"] = true,
+["Layout"] = {
+"BOTTOMLEFT",
+"TOPLEFT",
+0,
+1,
+},
+["FrameStrata"] = "MEDIUM",
+["Width"] = 244,
 ["ColourByClass"] = false,
+["NotInterruptibleColour"] = {
+1,
+0.2509803921568627,
+0.2509803921568627,
+},
 ["Inverse"] = false,
-["Height"] = 3,
+["Text"] = {
+["Duration"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"RIGHT",
+-3,
+0,
+},
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+["SpellName"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"LEFT",
+"LEFT",
+3,
+0,
+},
+["MaxChars"] = 15,
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+},
 ["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
+0.5019607843137255,
+0.5019607843137255,
+1,
 },
 ["Background"] = {
-0.5019607843137255,
-0.5019607843137255,
-0.5019607843137255,
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
 },
-["ColourByType"] = true,
-["Smooth"] = true,
+["Icon"] = {
+["Enabled"] = false,
+["Position"] = "LEFT",
+},
+["Height"] = 24,
 },
 ["Indicators"] = {
 ["Target"] = {
@@ -850,284 +1205,12 @@ UUFDB = {
 ["RaidTargetMarker"] = {
 ["Enabled"] = true,
 ["Layout"] = {
-"LEFT",
-"TOPLEFT",
-3,
-0,
-},
-["Size"] = 16,
-},
-},
-},
-["focus"] = {
-["Enabled"] = true,
-["ForceHideBlizzard"] = true,
-["Tags"] = {
-["TagThree"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
-["FontSize"] = 12,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["Tag"] = "",
-},
-["TagOne"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
-["FontSize"] = 12,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["Tag"] = "[name]",
-},
-["TagTwo"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
-["FontSize"] = 12,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["Tag"] = "",
-},
-["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
-["FontSize"] = 12,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["Tag"] = "",
-},
-["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
-["FontSize"] = 12,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["Tag"] = "",
-},
-},
-["HealPrediction"] = {
-["Absorbs"] = {
-["Enabled"] = true,
-["UseStripedTexture"] = true,
-["Colour"] = {
-1,
-0.8,
-0,
-1,
-},
-["Position"] = "LEFT",
-},
-["HealAbsorbs"] = {
-["Enabled"] = true,
-["UseStripedTexture"] = false,
-["Colour"] = {
-0.5019607843137255,
-0.2509803921568627,
-1,
-1,
-},
-["Position"] = "RIGHT",
-},
-},
-["Auras"] = {
-["FrameStrata"] = "LOW",
-["Buffs"] = {
-["Enabled"] = true,
-["OnlyShowPlayer"] = false,
-["Layout"] = {
 "RIGHT",
-"LEFT",
--1,
-0,
-1,
-},
-["GrowthDirection"] = "LEFT",
-["WrapDirection"] = "UP",
-["Count"] = {
-["Layout"] = {
-"BOTTOMRIGHT",
-"BOTTOMRIGHT",
-0,
-2,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-1,
-},
-},
-["Num"] = 1,
-["Wrap"] = 1,
-["Size"] = 22,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-["Debuffs"] = {
-["Enabled"] = false,
-["OnlyShowPlayer"] = false,
-["Layout"] = {
-"LEFT",
-"RIGHT",
-1,
-0,
-1,
-},
-["GrowthDirection"] = "RIGHT",
-["WrapDirection"] = "UP",
-["Count"] = {
-["Layout"] = {
-"BOTTOMRIGHT",
-"BOTTOMRIGHT",
-0,
-2,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-1,
-},
-},
-["Num"] = 3,
-["Wrap"] = 3,
-["Size"] = 22,
-},
-},
-["CastBar"] = {
-["Enabled"] = true,
-["MatchParentWidth"] = true,
-["Layout"] = {
-"BOTTOMLEFT",
-"TOPLEFT",
-0,
-1,
-},
-["FrameStrata"] = "MEDIUM",
-["Width"] = 244,
-["ColourByClass"] = false,
-["NotInterruptibleColour"] = {
-1,
-0.2509803921568627,
-0.2509803921568627,
-},
-["Inverse"] = false,
-["Height"] = 24,
-["Foreground"] = {
-0.5019607843137255,
-0.5019607843137255,
-1,
-},
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
-["Icon"] = {
-["Enabled"] = false,
-["Position"] = "LEFT",
-},
-["Text"] = {
-["SpellName"] = {
-["Enabled"] = true,
-["FontSize"] = 12,
-["Layout"] = {
-"LEFT",
-"LEFT",
-3,
-0,
-},
-["MaxChars"] = 15,
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-["Duration"] = {
-["Enabled"] = true,
-["FontSize"] = 12,
-["Layout"] = {
-"RIGHT",
-"RIGHT",
+"TOPRIGHT",
 -3,
 0,
 },
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-},
-},
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
+["Size"] = 16,
 },
 },
 ["Portrait"] = {
@@ -1160,12 +1243,12 @@ UUFDB = {
 ["ColourBackgroundByType"] = false,
 ["ColourByClass"] = false,
 ["Inverse"] = false,
-["Height"] = 3,
 ["Foreground"] = {
 0.03137254901960784,
 0.03137254901960784,
 0.03137254901960784,
 },
+["Height"] = 3,
 ["Background"] = {
 0.5019607843137255,
 0.5019607843137255,
@@ -1174,35 +1257,25 @@ UUFDB = {
 ["ColourByType"] = true,
 ["Smooth"] = true,
 },
-["Indicators"] = {
-["Target"] = {
-["Enabled"] = false,
-["Colour"] = {
-1,
-1,
-1,
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
 },
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
 },
-["Mouseover"] = {
-["Enabled"] = true,
-["HighlightOpacity"] = 0.75,
-["Style"] = "GRADIENT",
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-["RaidTargetMarker"] = {
-["Enabled"] = true,
-["Layout"] = {
-"RIGHT",
-"TOPRIGHT",
--3,
-0,
-},
-["Size"] = 16,
-},
+["ColourBackgroundByClass"] = false,
 },
 },
 ["target"] = {
@@ -1210,11 +1283,7 @@ UUFDB = {
 ["ForceHideBlizzard"] = true,
 ["Tags"] = {
 ["TagThree"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "[powercolor][curpp]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "RIGHT",
@@ -1222,14 +1291,14 @@ UUFDB = {
 -3,
 2,
 },
-["Tag"] = "[powercolor][curpp]",
-},
-["TagOne"] = {
 ["Colour"] = {
 1,
 1,
 1,
 },
+},
+["TagOne"] = {
+["Tag"] = "[name]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "LEFT",
@@ -1237,14 +1306,14 @@ UUFDB = {
 3,
 0,
 },
-["Tag"] = "[name]",
-},
-["TagTwo"] = {
 ["Colour"] = {
 1,
 1,
 1,
 },
+},
+["TagTwo"] = {
+["Tag"] = "[curhp:abbr]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "RIGHT",
@@ -1252,14 +1321,14 @@ UUFDB = {
 -3,
 0,
 },
-["Tag"] = "[curhp:abbr]",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1267,14 +1336,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1282,31 +1351,35 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 },
 ["HealPrediction"] = {
 ["Absorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = true,
+["Position"] = "LEFT",
 ["Colour"] = {
 1,
 0.8,
 0,
 1,
 },
-["Position"] = "LEFT",
 },
 ["HealAbsorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
 ["Colour"] = {
 0.5019607843137255,
 0.2509803921568627,
 1,
 1,
 },
-["Position"] = "RIGHT",
 },
 },
 ["Range"] = {
@@ -1315,7 +1388,6 @@ UUFDB = {
 ["InRange"] = 1,
 },
 ["Auras"] = {
-["FrameStrata"] = "LOW",
 ["Buffs"] = {
 ["Enabled"] = true,
 ["OnlyShowPlayer"] = false,
@@ -1343,24 +1415,9 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
 ["Wrap"] = 3,
+["Num"] = 3,
 ["Size"] = 34,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
 },
 ["Debuffs"] = {
 ["Enabled"] = true,
@@ -1389,10 +1446,26 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 4,
 ["Wrap"] = 4,
+["Num"] = 4,
 ["Size"] = 34,
 },
+["AuraDuration"] = {
+["Colour"] = {
+1,
+1,
+1,
+},
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["FrameStrata"] = "LOW",
 },
 ["CastBar"] = {
 ["Enabled"] = true,
@@ -1412,22 +1485,22 @@ UUFDB = {
 0.2509803921568627,
 },
 ["Inverse"] = false,
-["Height"] = 24,
-["Foreground"] = {
-0.5019607843137255,
-0.5019607843137255,
+["Text"] = {
+["Duration"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"RIGHT",
+-3,
+0,
+},
+["Colour"] = {
+1,
+1,
 1,
 },
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
 },
-["Icon"] = {
-["Enabled"] = true,
-["Position"] = "LEFT",
-},
-["Text"] = {
 ["SpellName"] = {
 ["Enabled"] = true,
 ["FontSize"] = 12,
@@ -1444,85 +1517,22 @@ UUFDB = {
 1,
 },
 },
-["Duration"] = {
+},
+["Foreground"] = {
+0.5019607843137255,
+0.5019607843137255,
+1,
+},
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Icon"] = {
 ["Enabled"] = true,
-["FontSize"] = 12,
-["Layout"] = {
-"RIGHT",
-"RIGHT",
--3,
-0,
+["Position"] = "LEFT",
 },
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-},
-},
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
-},
-},
-["Portrait"] = {
-["Enabled"] = false,
-["Zoom"] = 0.3,
-["Layout"] = {
-"LEFT",
-"RIGHT",
-1,
-0,
-},
-["UseClassPortrait"] = false,
-["Size"] = 42,
-},
-["Frame"] = {
-["Height"] = 42,
-["Layout"] = {
-"CENTER",
-"CENTER",
-425.1,
--275.1,
-},
-["FrameStrata"] = "LOW",
-["Width"] = 244,
-},
-["PowerBar"] = {
-["Enabled"] = false,
-["BackgroundMultiplier"] = 0.75,
-["ColourBackgroundByType"] = false,
-["ColourByClass"] = false,
-["Inverse"] = false,
-["Height"] = 3,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
-},
-["Background"] = {
-0.5019607843137255,
-0.5019607843137255,
-0.5019607843137255,
-},
-["ColourByType"] = true,
-["Smooth"] = true,
+["Height"] = 24,
 },
 ["Indicators"] = {
 ["Combat"] = {
@@ -1533,8 +1543,8 @@ UUFDB = {
 0,
 0,
 },
-["Size"] = 16,
 ["Texture"] = "COMBAT0",
+["Size"] = 16,
 },
 ["Target"] = {
 ["Enabled"] = false,
@@ -1575,17 +1585,76 @@ UUFDB = {
 ["Size"] = 24,
 },
 },
+["Portrait"] = {
+["Enabled"] = false,
+["Zoom"] = 0.3,
+["Layout"] = {
+"LEFT",
+"RIGHT",
+1,
+0,
+},
+["UseClassPortrait"] = false,
+["Size"] = 42,
+},
+["Frame"] = {
+["Height"] = 42,
+["Layout"] = {
+"CENTER",
+"CENTER",
+425.1,
+-275.1,
+},
+["FrameStrata"] = "LOW",
+["Width"] = 244,
+},
+["PowerBar"] = {
+["Enabled"] = false,
+["BackgroundMultiplier"] = 0.75,
+["ColourBackgroundByType"] = false,
+["ColourByClass"] = false,
+["Inverse"] = false,
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["Height"] = 3,
+["Background"] = {
+0.5019607843137255,
+0.5019607843137255,
+0.5019607843137255,
+},
+["ColourByType"] = true,
+["Smooth"] = true,
+},
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["ColourBackgroundByClass"] = false,
+},
 },
 ["focustarget"] = {
 ["Enabled"] = true,
 ["ForceHideBlizzard"] = true,
 ["Tags"] = {
 ["TagThree"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1593,14 +1662,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagOne"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "[name]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1608,14 +1677,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "[name]",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagTwo"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1623,14 +1692,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1638,14 +1707,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1653,35 +1722,38 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 },
 ["HealPrediction"] = {
 ["Absorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = true,
+["Position"] = "LEFT",
 ["Colour"] = {
 1,
 0.8,
 0,
 1,
 },
-["Position"] = "LEFT",
 },
 ["HealAbsorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
 ["Colour"] = {
 0.5019607843137255,
 0.2509803921568627,
 1,
 1,
 },
-["Position"] = "RIGHT",
 },
 },
 ["Auras"] = {
-["FrameStrata"] = "LOW",
 ["Buffs"] = {
 ["Enabled"] = false,
 ["OnlyShowPlayer"] = false,
@@ -1709,24 +1781,9 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
 ["Wrap"] = 3,
+["Num"] = 3,
 ["Size"] = 22,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
 },
 ["Debuffs"] = {
 ["Enabled"] = false,
@@ -1755,29 +1812,55 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
 ["Wrap"] = 3,
+["Num"] = 3,
 ["Size"] = 22,
 },
+["AuraDuration"] = {
+["Colour"] = {
+1,
+1,
+1,
 },
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
 },
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["FrameStrata"] = "LOW",
+},
+["Indicators"] = {
+["Target"] = {
+["Enabled"] = false,
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+["Mouseover"] = {
+["Enabled"] = true,
+["HighlightOpacity"] = 0.75,
+["Style"] = "GRADIENT",
+["Colour"] = {
+1,
+1,
+1,
+},
+},
+["RaidTargetMarker"] = {
+["Enabled"] = true,
+["Layout"] = {
+"LEFT",
+"TOPLEFT",
+3,
+0,
+},
+["Size"] = 16,
 },
 },
 ["Portrait"] = {
@@ -1810,12 +1893,12 @@ UUFDB = {
 ["ColourBackgroundByType"] = false,
 ["ColourByClass"] = false,
 ["Inverse"] = false,
-["Height"] = 3,
 ["Foreground"] = {
 0.03137254901960784,
 0.03137254901960784,
 0.03137254901960784,
 },
+["Height"] = 3,
 ["Background"] = {
 0.5019607843137255,
 0.5019607843137255,
@@ -1824,35 +1907,25 @@ UUFDB = {
 ["ColourByType"] = true,
 ["Smooth"] = true,
 },
-["Indicators"] = {
-["Target"] = {
-["Enabled"] = false,
-["Colour"] = {
-1,
-1,
-1,
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
 },
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
 },
-["Mouseover"] = {
-["Enabled"] = true,
-["HighlightOpacity"] = 0.75,
-["Style"] = "GRADIENT",
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-["RaidTargetMarker"] = {
-["Enabled"] = true,
-["Layout"] = {
-"LEFT",
-"TOPLEFT",
-3,
-0,
-},
-["Size"] = 16,
-},
+["ColourBackgroundByClass"] = false,
 },
 },
 ["pet"] = {
@@ -1860,11 +1933,7 @@ UUFDB = {
 ["ForceHideBlizzard"] = true,
 ["Tags"] = {
 ["TagThree"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1872,14 +1941,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagOne"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "[name]",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1887,14 +1956,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "[name]",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagTwo"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1902,14 +1971,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1917,14 +1986,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -1932,35 +2001,38 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 },
 ["HealPrediction"] = {
 ["Absorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = true,
+["Position"] = "LEFT",
 ["Colour"] = {
 1,
 0.8,
 0,
 1,
 },
-["Position"] = "LEFT",
 },
 ["HealAbsorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
 ["Colour"] = {
 0.5019607843137255,
 0.2509803921568627,
 1,
 1,
 },
-["Position"] = "RIGHT",
 },
 },
 ["Auras"] = {
-["FrameStrata"] = "LOW",
 ["Buffs"] = {
 ["Enabled"] = false,
 ["OnlyShowPlayer"] = false,
@@ -1988,24 +2060,9 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 1,
 ["Wrap"] = 1,
+["Num"] = 1,
 ["Size"] = 22,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
 },
 ["Debuffs"] = {
 ["Enabled"] = false,
@@ -2034,10 +2091,26 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 3,
 ["Wrap"] = 3,
+["Num"] = 3,
 ["Size"] = 22,
 },
+["AuraDuration"] = {
+["Colour"] = {
+1,
+1,
+1,
+},
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["FrameStrata"] = "LOW",
 },
 ["CastBar"] = {
 ["Enabled"] = false,
@@ -2057,22 +2130,22 @@ UUFDB = {
 0.2509803921568627,
 },
 ["Inverse"] = false,
-["Height"] = 24,
-["Foreground"] = {
-0.5019607843137255,
-0.5019607843137255,
+["Text"] = {
+["Duration"] = {
+["Enabled"] = true,
+["FontSize"] = 12,
+["Layout"] = {
+"RIGHT",
+"RIGHT",
+-3,
+0,
+},
+["Colour"] = {
+1,
+1,
 1,
 },
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
 },
-["Icon"] = {
-["Enabled"] = false,
-["Position"] = "LEFT",
-},
-["Text"] = {
 ["SpellName"] = {
 ["Enabled"] = true,
 ["FontSize"] = 12,
@@ -2089,41 +2162,51 @@ UUFDB = {
 1,
 },
 },
-["Duration"] = {
-["Enabled"] = true,
-["FontSize"] = 12,
-["Layout"] = {
-"RIGHT",
-"RIGHT",
--3,
-0,
 },
+["Foreground"] = {
+0.5019607843137255,
+0.5019607843137255,
+1,
+},
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Icon"] = {
+["Enabled"] = false,
+["Position"] = "LEFT",
+},
+["Height"] = 24,
+},
+["Indicators"] = {
+["Target"] = {
+["Enabled"] = false,
 ["Colour"] = {
 1,
 1,
 1,
 },
 },
+["Mouseover"] = {
+["Enabled"] = true,
+["HighlightOpacity"] = 0.75,
+["Style"] = "GRADIENT",
+["Colour"] = {
+1,
+1,
+1,
 },
 },
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
+["RaidTargetMarker"] = {
+["Enabled"] = false,
+["Layout"] = {
+"LEFT",
+"TOPLEFT",
+3,
+0,
 },
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
+["Size"] = 16,
 },
 },
 ["Portrait"] = {
@@ -2156,12 +2239,12 @@ UUFDB = {
 ["ColourBackgroundByType"] = false,
 ["ColourByClass"] = false,
 ["Inverse"] = false,
-["Height"] = 3,
 ["Foreground"] = {
 0.03137254901960784,
 0.03137254901960784,
 0.03137254901960784,
 },
+["Height"] = 3,
 ["Background"] = {
 0.5019607843137255,
 0.5019607843137255,
@@ -2170,92 +2253,78 @@ UUFDB = {
 ["ColourByType"] = true,
 ["Smooth"] = true,
 },
-["Indicators"] = {
-["Target"] = {
-["Enabled"] = false,
-["Colour"] = {
-1,
-1,
-1,
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["ColourBackgroundByClass"] = false,
 },
 },
-["Mouseover"] = {
-["Enabled"] = true,
-["HighlightOpacity"] = 0.75,
-["Style"] = "GRADIENT",
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-["RaidTargetMarker"] = {
-["Enabled"] = false,
-["Layout"] = {
-"LEFT",
-"TOPLEFT",
-3,
-0,
-},
-["Size"] = 16,
-},
-},
-},
-["boss"] = {
+["targettarget"] = {
 ["Enabled"] = true,
 ["ForceHideBlizzard"] = true,
 ["Tags"] = {
 ["TagThree"] = {
+["Tag"] = "",
+["FontSize"] = 12,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
 ["Colour"] = {
 1,
 1,
 1,
 },
-["FontSize"] = 12,
-["Layout"] = {
-"RIGHT",
-"BOTTOMRIGHT",
--3,
-2,
-},
-["Tag"] = "[powercolor][curpp]",
 },
 ["TagOne"] = {
+["Tag"] = "[name]",
+["FontSize"] = 12,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
 ["Colour"] = {
 1,
 1,
 1,
 },
-["FontSize"] = 12,
-["Layout"] = {
-"LEFT",
-"LEFT",
-3,
-0,
-},
-["Tag"] = "[name]",
 },
 ["TagTwo"] = {
+["Tag"] = "",
+["FontSize"] = 12,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
 ["Colour"] = {
 1,
 1,
 1,
 },
-["FontSize"] = 12,
-["Layout"] = {
-"RIGHT",
-"RIGHT",
--3,
-0,
-},
-["Tag"] = "[curhp:abbr]",
 },
 ["TagFour"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -2263,14 +2332,14 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 ["TagFive"] = {
-["Colour"] = {
-1,
-1,
-1,
-},
+["Tag"] = "",
 ["FontSize"] = 12,
 ["Layout"] = {
 "CENTER",
@@ -2278,89 +2347,46 @@ UUFDB = {
 0,
 0,
 },
-["Tag"] = "",
+["Colour"] = {
+1,
+1,
+1,
+},
 },
 },
 ["HealPrediction"] = {
 ["Absorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = true,
+["Position"] = "LEFT",
 ["Colour"] = {
 1,
 0.8,
 0,
 1,
 },
-["Position"] = "LEFT",
 },
 ["HealAbsorbs"] = {
 ["Enabled"] = true,
 ["UseStripedTexture"] = false,
+["Position"] = "RIGHT",
 ["Colour"] = {
 0.5019607843137255,
 0.2509803921568627,
 1,
 1,
 },
-["Position"] = "RIGHT",
 },
 },
 ["Auras"] = {
-["FrameStrata"] = "LOW",
 ["Buffs"] = {
-["Enabled"] = true,
-["OnlyShowPlayer"] = false,
-["Layout"] = {
-"LEFT",
-"RIGHT",
-1,
-0,
-1,
-},
-["GrowthDirection"] = "RIGHT",
-["WrapDirection"] = "UP",
-["Count"] = {
-["Layout"] = {
-"BOTTOMRIGHT",
-"BOTTOMRIGHT",
-0,
-2,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-1,
-},
-},
-["Num"] = 3,
-["Wrap"] = 3,
-["Size"] = 42,
-},
-["AuraDuration"] = {
-["ScaleByIconSize"] = false,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-0,
-},
-["FontSize"] = 12,
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-["Debuffs"] = {
 ["Enabled"] = false,
 ["OnlyShowPlayer"] = false,
 ["Layout"] = {
-"BOTTOMRIGHT",
-"TOPRIGHT",
+"RIGHT",
+"LEFT",
+-1,
 0,
-1,
 1,
 },
 ["GrowthDirection"] = "LEFT",
@@ -2380,146 +2406,61 @@ UUFDB = {
 1,
 },
 },
-["Num"] = 4,
-["Wrap"] = 4,
-["Size"] = 34,
+["Wrap"] = 3,
+["Num"] = 3,
+["Size"] = 22,
 },
-},
-["CastBar"] = {
-["Enabled"] = true,
-["MatchParentWidth"] = true,
+["Debuffs"] = {
+["Enabled"] = false,
+["OnlyShowPlayer"] = false,
 ["Layout"] = {
-"TOPLEFT",
-"BOTTOMLEFT",
+"LEFT",
+"RIGHT",
+1,
 0,
--1,
-},
-["FrameStrata"] = "MEDIUM",
-["Width"] = 244,
-["ColourByClass"] = false,
-["NotInterruptibleColour"] = {
-1,
-0.2509803921568627,
-0.2509803921568627,
-},
-["Inverse"] = false,
-["Height"] = 24,
-["Foreground"] = {
-0.5019607843137255,
-0.5019607843137255,
 1,
 },
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
+["GrowthDirection"] = "RIGHT",
+["WrapDirection"] = "UP",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
 },
-["Icon"] = {
-["Enabled"] = true,
-["Position"] = "LEFT",
-},
-["Text"] = {
-["SpellName"] = {
-["Enabled"] = true,
 ["FontSize"] = 12,
-["Layout"] = {
-"LEFT",
-"LEFT",
-3,
-0,
+["Colour"] = {
+1,
+1,
+1,
+1,
 },
-["MaxChars"] = 15,
+},
+["Wrap"] = 3,
+["Num"] = 3,
+["Size"] = 22,
+},
+["AuraDuration"] = {
 ["Colour"] = {
 1,
 1,
 1,
 },
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
 },
-["Duration"] = {
-["Enabled"] = true,
 ["FontSize"] = 12,
-["Layout"] = {
-"RIGHT",
-"RIGHT",
--3,
-0,
-},
-["Colour"] = {
-1,
-1,
-1,
-},
-},
-},
-},
-["HealthBar"] = {
-["ColourWhenTapped"] = true,
-["AnchorToCooldownViewer"] = false,
-["ForegroundOpacity"] = 0.8,
-["BackgroundOpacity"] = 1,
-["ColourByClass"] = true,
-["Inverse"] = false,
-["ColourByReaction"] = true,
-["Background"] = {
-0.1333333333333333,
-0.1333333333333333,
-0.1333333333333333,
-},
-["ColourBackgroundByClass"] = false,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
-},
-},
-["Portrait"] = {
-["Enabled"] = true,
-["Zoom"] = 0.3,
-["Layout"] = {
-"RIGHT",
-"LEFT",
--1,
-0,
-},
-["UseClassPortrait"] = false,
-["Size"] = 42,
-},
-["Frame"] = {
-["Width"] = 244,
-["Height"] = 42,
-["Layout"] = {
-"CENTER",
-"CENTER",
-550.1,
--0.1,
-26,
+["ScaleByIconSize"] = false,
 },
 ["FrameStrata"] = "LOW",
-["GrowthDirection"] = "DOWN",
-},
-["PowerBar"] = {
-["Enabled"] = false,
-["BackgroundMultiplier"] = 0.75,
-["ColourBackgroundByType"] = false,
-["ColourByClass"] = false,
-["Inverse"] = false,
-["Height"] = 3,
-["Foreground"] = {
-0.03137254901960784,
-0.03137254901960784,
-0.03137254901960784,
-},
-["Background"] = {
-0.5019607843137255,
-0.5019607843137255,
-0.5019607843137255,
-},
-["ColourByType"] = true,
-["Smooth"] = true,
 },
 ["Indicators"] = {
 ["Target"] = {
-["Enabled"] = true,
+["Enabled"] = false,
 ["Colour"] = {
 1,
 1,
@@ -2539,16 +2480,84 @@ UUFDB = {
 ["RaidTargetMarker"] = {
 ["Enabled"] = true,
 ["Layout"] = {
-"CENTER",
-"TOP",
+"LEFT",
+"TOPLEFT",
+3,
 0,
+},
+["Size"] = 16,
+},
+},
+["Portrait"] = {
+["Enabled"] = false,
+["Zoom"] = 0.3,
+["Layout"] = {
+"RIGHT",
+"LEFT",
+-1,
 0,
 },
-["Size"] = 24,
+["UseClassPortrait"] = false,
+["Size"] = 22,
+},
+["Frame"] = {
+["AnchorParent"] = "UUF_Target",
+["Height"] = 22,
+["Layout"] = {
+"TOPRIGHT",
+"BOTTOMRIGHT",
+0,
+-26.1,
+},
+["FrameStrata"] = "LOW",
+["Width"] = 122,
+},
+["PowerBar"] = {
+["Enabled"] = false,
+["BackgroundMultiplier"] = 0.75,
+["ColourBackgroundByType"] = false,
+["ColourByClass"] = false,
+["Inverse"] = false,
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["Height"] = 3,
+["Background"] = {
+0.5019607843137255,
+0.5019607843137255,
+0.5019607843137255,
+},
+["ColourByType"] = true,
+["Smooth"] = true,
+},
+["HealthBar"] = {
+["ColourWhenTapped"] = true,
+["AnchorToCooldownViewer"] = false,
+["ForegroundOpacity"] = 0.8,
+["BackgroundOpacity"] = 1,
+["ColourByClass"] = true,
+["Inverse"] = false,
+["ColourByReaction"] = true,
+["Background"] = {
+0.1333333333333333,
+0.1333333333333333,
+0.1333333333333333,
+},
+["Foreground"] = {
+0.03137254901960784,
+0.03137254901960784,
+0.03137254901960784,
+},
+["ColourBackgroundByClass"] = false,
 },
 },
 },
 },
+["global"] = {
+["UseGlobalProfile"] = false,
+["GlobalProfileName"] = "Default",
 },
 ["General"] = {
 ["TagUpdateInterval"] = 0,
@@ -2562,19 +2571,235 @@ UUFDB = {
 },
 ["UIScale"] = {
 ["Scale"] = 0.71,
+["Enabled"] = false,
 },
 ["Fonts"] = {
 ["Font"] = "Fira Sans Condensed Black",
 ["Shadow"] = {
 ["Enabled"] = true,
 },
+["Raid"] = {
+["Font"] = "Fira Sans Condensed Black",
+["Shadow"] = {
+["Enabled"] = true,
 },
 },
-["global"] = {
-["UseGlobalProfile"] = false,
-["GlobalProfileName"] = "Default",
+},
 },
 ["Units"] = {
+["targettarget"] = {
+["Frame"] = {
+["Layout"] = {
+nil,
+nil,
+nil,
+-25,
+},
+},
+},
+["player"] = {
+["SecondaryPowerBar"] = {
+["Enabled"] = true,
+},
+["Tags"] = {
+["TagThree"] = {
+["FontSize"] = 16,
+["Layout"] = {
+"BOTTOMRIGHT",
+},
+["Tag"] = "[powercolor][curpp:manapercent:abbr]",
+},
+["TagTwo"] = {
+["FontSize"] = 16,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+},
+},
+["TagOne"] = {
+["FontSize"] = 18,
+["Layout"] = {
+"BOTTOMLEFT",
+"BOTTOMLEFT",
+2,
+1,
+},
+["Tag"] = "[name:colour]",
+},
+},
+["Auras"] = {
+["Debuffs"] = {
+["ShowType"] = true,
+["Wrap"] = 5,
+["Num"] = 10,
+["Size"] = 24,
+},
+["Containers"] = {
+["Container #2"] = {
+["SpellIDs"] = {
+[264689] = true,
+[80354] = true,
+[160455] = true,
+[390435] = true,
+[95809] = true,
+[57723] = true,
+[57724] = true,
+[124255] = true,
+[206151] = true,
+[71041] = true,
+},
+["Num"] = 12,
+["Size"] = 24,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["ShowDecimalSeconds"] = false,
+["HideDuration"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["CandidateFilters"] = {
+["isFromPlayerOrPlayerPet"] = false,
+},
+["Wrap"] = 4,
+["Border"] = true,
+["GrowthDirection"] = "LEFT",
+["Sorting"] = "BLIZZARD",
+["WrapDirection"] = "UP",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Type"] = "Debuffs",
+["AnchorParent"] = "Frame",
+["Layout"] = {
+"BOTTOMRIGHT",
+"TOPRIGHT",
+0,
+1,
+1,
+},
+["ShowType"] = false,
+["Filters"] = {
+["Others"] = true,
+},
+},
+["Container #1"] = {
+["SpellIDs"] = {
+},
+["Num"] = 12,
+["Size"] = 24,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["FontSize"] = 12,
+["ShowDecimalSeconds"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["HideDuration"] = false,
+["ScaleByIconSize"] = false,
+},
+["CandidateFilters"] = {
+},
+["Wrap"] = 4,
+["Border"] = true,
+["GrowthDirection"] = "RIGHT",
+["Sorting"] = "BLIZZARD",
+["WrapDirection"] = "UP",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Type"] = "Buffs",
+["AnchorParent"] = "Frame",
+["Layout"] = {
+"BOTTOMLEFT",
+"TOPLEFT",
+0,
+1,
+1,
+},
+["ShowType"] = false,
+["Filters"] = {
+["ExternalDefensivePlayer"] = true,
+},
+},
+},
+["Buffs"] = {
+["Enabled"] = false,
+["OnlyShowPlayer"] = true,
+},
+},
+["CastBar"] = {
+["Enabled"] = true,
+["MatchParentWidth"] = false,
+["Width"] = 272.9,
+["Height"] = 20,
+["Text"] = {
+["SpellName"] = {
+["MaxChars"] = 25,
+},
+},
+},
+["AlternativePowerBar"] = {
+["Layout"] = {
+"TOP",
+"BOTTOM",
+nil,
+0,
+},
+["Width"] = 242,
+},
+["Frame"] = {
+["Height"] = 46,
+["Layout"] = {
+"TOPRIGHT",
+nil,
+-240,
+-210,
+},
+},
+["PowerBar"] = {
+["Enabled"] = true,
+},
+},
 ["boss"] = {
 ["Auras"] = {
 ["Debuffs"] = {
@@ -2586,7 +2811,6 @@ nil,
 0,
 },
 ["GrowthDirection"] = "RIGHT",
-["Filter"] = "HARMFUL||PLAYER",
 ["Size"] = 26,
 },
 },
@@ -2594,32 +2818,23 @@ nil,
 ["Layout"] = {
 nil,
 nil,
-375,
-88.5,
+384.013916015625,
+99.01654052734375,
 39.3,
 },
 },
-["PowerBar"] = {
-["Enabled"] = true,
-},
-["Portrait"] = {
-["Enabled"] = false,
-},
 },
 ["focus"] = {
-["Auras"] = {
-["Buffs"] = {
-["Enabled"] = false,
-},
-},
 ["Frame"] = {
-["AnchorParent"] = "UUF_Target",
+["AnchorParent"] = "UUF_Player",
+["Height"] = 22,
 ["Layout"] = {
-nil,
-nil,
-nil,
-36,
+"TOP",
+"BOTTOM",
+0,
+-25,
 },
+["Width"] = 122,
 },
 },
 ["target"] = {
@@ -2640,7 +2855,6 @@ nil,
 "CENTER",
 0,
 },
-["Tag"] = "[curhpperhp:abbr]",
 },
 ["TagOne"] = {
 ["FontSize"] = 18,
@@ -2658,6 +2872,123 @@ nil,
 ["ShowType"] = true,
 ["Size"] = 24,
 },
+["Containers"] = {
+["Container #2"] = {
+["SpellIDs"] = {
+},
+["Num"] = 12,
+["Size"] = 24,
+["Wrap"] = 4,
+["ShowType"] = true,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["ShowDecimalSeconds"] = false,
+["HideDuration"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["Border"] = true,
+["GrowthDirection"] = "LEFT",
+["Sorting"] = "BLIZZARD",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["AnchorParent"] = "Frame",
+["Type"] = "Debuffs",
+["WrapDirection"] = "UP",
+["Layout"] = {
+"BOTTOMRIGHT",
+"TOPRIGHT",
+0,
+1,
+1,
+},
+["CandidateFilters"] = {
+},
+["Filters"] = {
+["Player"] = true,
+},
+},
+["Container #1"] = {
+["SpellIDs"] = {
+},
+["Num"] = 12,
+["Size"] = 24,
+["Wrap"] = 4,
+["ShowType"] = true,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["FontSize"] = 12,
+["ShowDecimalSeconds"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["HideDuration"] = false,
+["ScaleByIconSize"] = false,
+},
+["Border"] = true,
+["GrowthDirection"] = "RIGHT",
+["Sorting"] = "BLIZZARD",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["AnchorParent"] = "Frame",
+["Type"] = "Buffs",
+["WrapDirection"] = "UP",
+["Layout"] = {
+"BOTTOMLEFT",
+"TOPLEFT",
+0,
+1,
+1,
+},
+["CandidateFilters"] = {
+["maxDuration"] = true,
+},
+["Filters"] = {
+["Others"] = true,
+},
+},
+},
 ["Buffs"] = {
 ["ShowType"] = true,
 ["Wrap"] = 5,
@@ -2670,105 +3001,518 @@ nil,
 ["Layout"] = {
 "TOPLEFT",
 nil,
-250,
--200,
+240,
+-210,
 },
 },
-["PowerBar"] = {
+},
+["raid"] = {
+["Enabled"] = false,
+["HealthBar"] = {
+["DispelHighlight"] = {
+["Style"] = "GRADIENT",
+},
+},
+["Tags"] = {
+["TagOne"] = {
+["Layout"] = {
+"TOPRIGHT",
+"TOPRIGHT",
+-3,
+},
+},
+},
+["HealPrediction"] = {
+["HealAbsorbs"] = {
+["UseStripedTexture"] = true,
+},
+["IncomingHeal"] = {
 ["Enabled"] = true,
+},
+},
+["Auras"] = {
+["Containers"] = {
+["Container #1"] = {
+["SpellIDs"] = {
+[17] = true,
+[194384] = true,
+[1253593] = true,
+},
+["Num"] = 4,
+["Filters"] = {
+},
+["CandidateFilters"] = {
+["maxDuration"] = true,
+["isFromPlayerOrPlayerPet"] = true,
+},
+["ShowType"] = false,
+["Wrap"] = 4,
+["Border"] = true,
+["GrowthDirection"] = "RIGHT",
+["Layout"] = {
+"BOTTOMLEFT",
+"BOTTOMLEFT",
+3,
+1,
+1,
+},
+["AnchorParent"] = "Frame",
+["WrapDirection"] = "UP",
+["Type"] = "Buffs",
+["Count"] = {
+["FontSize"] = 12,
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Sorting"] = "BLIZZARD",
+["Duration"] = {
+["ScaleByIconSize"] = false,
+["FontSize"] = 12,
+["HideDuration"] = true,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["ShowDecimalSeconds"] = false,
+["ShowCooldownSwipe"] = true,
+},
+["Size"] = 10,
+},
+["Container #3"] = {
+["SpellIDs"] = {
+[264689] = true,
+[80354] = true,
+[160455] = true,
+[390435] = true,
+[95809] = true,
+[57723] = true,
+[57724] = true,
+[124255] = true,
+[71041] = true,
+[206151] = true,
+},
+["Num"] = 6,
+["Filters"] = {
+["RaidInCombat"] = true,
+},
+["CandidateFilters"] = {
+},
+["ShowType"] = false,
+["Wrap"] = 4,
+["Border"] = true,
+["GrowthDirection"] = "LEFT",
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+-3,
+1,
+1,
+},
+["AnchorParent"] = "Frame",
+["WrapDirection"] = "UP",
+["Type"] = "Debuffs",
+["Count"] = {
+["FontSize"] = 12,
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Sorting"] = "BLIZZARD",
+["Duration"] = {
+["ScaleByIconSize"] = false,
+["FontSize"] = 12,
+["HideDuration"] = true,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["ShowDecimalSeconds"] = false,
+["ShowCooldownSwipe"] = true,
+},
+["Size"] = 10,
+},
+["Container #2"] = {
+["SpellIDs"] = {
+},
+["Num"] = 6,
+["Filters"] = {
+["BigDefensive"] = true,
+["BigDefensivePlayer"] = true,
+["ExternalDefensivePlayer"] = true,
+["ExternalDefensive"] = true,
+},
+["CandidateFilters"] = {
+},
+["ShowType"] = false,
+["Wrap"] = 6,
+["Border"] = true,
+["GrowthDirection"] = "RIGHT",
+["Layout"] = {
+"TOPLEFT",
+"TOPLEFT",
+0,
+1,
+1,
+},
+["AnchorParent"] = "Frame",
+["WrapDirection"] = "DOWN",
+["Type"] = "Buffs",
+["Count"] = {
+["FontSize"] = 12,
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["Sorting"] = "BLIZZARD",
+["Duration"] = {
+["ScaleByIconSize"] = false,
+["FontSize"] = 12,
+["HideDuration"] = true,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["ShowDecimalSeconds"] = false,
+["ShowCooldownSwipe"] = true,
+},
+["Size"] = 20,
+},
+},
+},
+["Indicators"] = {
+["Role"] = {
+["Enabled"] = true,
+["ShowDamager"] = true,
+["Layout"] = {
+"TOPLEFT",
+"TOPLEFT",
+3,
+},
+},
+},
+["Frame"] = {
+["Layout"] = {
+nil,
+nil,
+171.616455078125,
+12.118896484375,
+},
+["GrowthDirection"] = "DOWN_LEFT",
+},
+["ForceHideBlizzard"] = false,
+},
+["party"] = {
+["Enabled"] = false,
+["ForceHideBlizzard"] = false,
+["Tags"] = {
+["TagTwo"] = {
+["Tag"] = "[status]",
+},
+["TagOne"] = {
+["Layout"] = {
+"LEFT",
+"LEFT",
+3,
+3,
+},
+},
+},
+["HealPrediction"] = {
+["HealAbsorbs"] = {
+["MatchParentHeight"] = true,
+["UseStripedTexture"] = true,
+},
+["IncomingHeal"] = {
+["Enabled"] = true,
+},
+},
+["Auras"] = {
+["Containers"] = {
+["Container #1"] = {
+["SpellIDs"] = {
+[17] = true,
+[1253593] = true,
+[194384] = true,
+},
+["Num"] = 4,
+["Size"] = 10,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["HideDuration"] = false,
+["ShowDecimalSeconds"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["CandidateFilters"] = {
+["maxDuration"] = true,
+["isFromPlayerOrPlayerPet"] = true,
+},
+["Wrap"] = 2,
+["Border"] = true,
+["GrowthDirection"] = "RIGHT",
+["Sorting"] = "BLIZZARD",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["AnchorParent"] = "Frame",
+["Type"] = "Buffs",
+["WrapDirection"] = "UP",
+["Layout"] = {
+"BOTTOMLEFT",
+"BOTTOMLEFT",
+3,
+1,
+1,
+},
+["ShowType"] = false,
+["Filters"] = {
+["Player"] = true,
+},
+},
+["Container #3"] = {
+["SpellIDs"] = {
+[264689] = true,
+[80354] = true,
+[160455] = true,
+[390435] = true,
+[95809] = true,
+[57723] = true,
+[57724] = true,
+[124255] = true,
+[206151] = true,
+[71041] = true,
+},
+["Num"] = 6,
+["Size"] = 10,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["HideDuration"] = false,
+["ShowDecimalSeconds"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["CandidateFilters"] = {
+},
+["Wrap"] = 2,
+["Border"] = true,
+["GrowthDirection"] = "LEFT",
+["Sorting"] = "BLIZZARD",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["AnchorParent"] = "Frame",
+["Type"] = "Debuffs",
+["WrapDirection"] = "UP",
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+-3,
+1,
+1,
+},
+["ShowType"] = false,
+["Filters"] = {
+},
+},
+["Container #2"] = {
+["SpellIDs"] = {
+},
+["Num"] = 6,
+["Size"] = 20,
+["Duration"] = {
+["ShowCooldownSwipe"] = true,
+["HideDuration"] = false,
+["ShowDecimalSeconds"] = false,
+["InverseCooldownSwipe"] = true,
+["DecimalThreshold"] = 3,
+["Layout"] = {
+"CENTER",
+"CENTER",
+0,
+0,
+},
+["FontSize"] = 12,
+["ScaleByIconSize"] = false,
+},
+["CandidateFilters"] = {
+},
+["Wrap"] = 6,
+["Border"] = true,
+["GrowthDirection"] = "RIGHT",
+["Sorting"] = "BLIZZARD",
+["Count"] = {
+["Layout"] = {
+"BOTTOMRIGHT",
+"BOTTOMRIGHT",
+0,
+2,
+},
+["FontSize"] = 12,
+["HideStacks"] = false,
+["Colour"] = {
+1,
+1,
+1,
+1,
+},
+},
+["AnchorParent"] = "Frame",
+["Type"] = "Buffs",
+["WrapDirection"] = "DOWN",
+["Layout"] = {
+"TOPLEFT",
+"TOPLEFT",
+0,
+1,
+1,
+},
+["ShowType"] = false,
+["Filters"] = {
+["BigDefensive"] = true,
+["ExternalDefensive"] = true,
+["BigDefensivePlayer"] = true,
+["ExternalDefensivePlayer"] = true,
+},
+},
+},
+},
+["Indicators"] = {
+["Phase"] = {
+["Size"] = 12,
+},
+["LeaderAssistantIndicator"] = {
+["Layout"] = {
+"TOPRIGHT",
+nil,
+nil,
+-3,
+},
+["Size"] = 14,
+},
+["ResurrectIndicator"] = {
+["Size"] = 18,
+},
+["Role"] = {
+["Layout"] = {
+nil,
+nil,
+3,
+-3,
+},
+["Size"] = 12,
+},
+},
+["Frame"] = {
+["Layout"] = {
+"LEFT",
+"LEFT",
+258.7526245117188,
+31.64939880371094,
+},
+["Width"] = 90,
+["SortBy"] = "INDEX",
+},
+["HealthBar"] = {
+["ColourBackdropWhenDead"] = true,
+["DispelHighlight"] = {
+["Style"] = "GRADIENT",
+},
 },
 },
 ["pet"] = {
 ["Frame"] = {
+["Height"] = 10,
 ["Layout"] = {
 "BOTTOMLEFT",
 "TOPLEFT",
 nil,
-36,
+13.46475219726563,
 },
-},
-},
-["player"] = {
-["Tags"] = {
-["TagThree"] = {
-["FontSize"] = 16,
-["Layout"] = {
-"BOTTOMRIGHT",
-},
-["Tag"] = "[powercolor][curpp:manapercent:abbr]",
-},
-["TagTwo"] = {
-["FontSize"] = 16,
-["Layout"] = {
-"CENTER",
-"CENTER",
-0,
-},
-["Tag"] = "[curhpperhp:abbr]",
-},
-["TagOne"] = {
-["FontSize"] = 18,
-["Layout"] = {
-"BOTTOMLEFT",
-"BOTTOMLEFT",
-2,
-1,
-},
-["Tag"] = "[name:colour]",
-},
-},
-["Auras"] = {
-["Buffs"] = {
-["Enabled"] = false,
-["OnlyShowPlayer"] = true,
-},
-["Debuffs"] = {
-["ShowType"] = true,
-["Wrap"] = 5,
-["Num"] = 10,
-["Size"] = 24,
-},
-},
-["CastBar"] = {
-["MatchParentWidth"] = false,
-["Layout"] = {
-nil,
-"TOPRIGHT",
-112.1000000000001,
--5,
-},
-["Width"] = 272.9,
-["Height"] = 19.4,
-["Text"] = {
-["SpellName"] = {
-["MaxChars"] = 25,
-},
-},
-},
-["AlternativePowerBar"] = {
-["Enabled"] = false,
-["Layout"] = {
-"TOP",
-"BOTTOM",
-nil,
-0,
-},
-["Width"] = 242,
-},
-["Frame"] = {
-["Height"] = 46,
-["Layout"] = {
-"TOPRIGHT",
-nil,
--250,
--200,
-},
-},
-["PowerBar"] = {
-["Enabled"] = true,
-},
-["SecondaryPowerBar"] = {
-["Enabled"] = true,
 },
 },
 },

@@ -14,7 +14,7 @@ nil,
 -332.1723022460938,
 123.8623046875,
 },
-["autoClose"] = true,
+["autoClose"] = false,
 ["hidecompartment"] = false,
 ["whitelist"] = {
 ["ZygorGuidesViewerMapIcon"] = true,

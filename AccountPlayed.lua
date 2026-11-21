@@ -1,7 +1,7 @@
 
 AccountPlayedDB = {
 ["Kel'Thuzad-Flumes"] = {
-["time"] = 124390,
+["time"] = 124409,
 ["class"] = "SHAMAN",
 },
 ["ArgentDawn-Stream"] = {
@@ -9,11 +9,11 @@ AccountPlayedDB = {
 ["class"] = "HUNTER",
 },
 ["Kel'Thuzad-Rime"] = {
-["time"] = 79992,
+["time"] = 85577,
 ["class"] = "WARLOCK",
 },
 ["ArgentDawn-Confluence"] = {
-["time"] = 1717560,
+["time"] = 1748864,
 ["class"] = "PALADIN",
 },
 ["Kel'Thuzad-Docks"] = {
@@ -28,16 +28,24 @@ AccountPlayedDB = {
 ["time"] = 114523,
 ["class"] = "PRIEST",
 },
+["ArgentDawn-Squall"] = {
+["time"] = 53,
+["class"] = "SHAMAN",
+},
 ["Mal'Ganis-Slush"] = {
-["time"] = 7341,
+["time"] = 7457,
 ["class"] = "ROGUE",
 },
 ["Kel'Thuzad-Meander"] = {
-["time"] = 33467,
+["time"] = 34128,
 ["class"] = "PALADIN",
 },
+["ArgentDawn-Docks"] = {
+["time"] = 11,
+["class"] = "DRUID",
+},
 ["Mal'Ganis-Floe"] = {
-["time"] = 8994,
+["time"] = 13339,
 ["class"] = "PRIEST",
 },
 ["Kel'Thuzad-Neva"] = {
@@ -45,23 +53,23 @@ AccountPlayedDB = {
 ["class"] = "HUNTER",
 },
 ["Kel'Thuzad-Rill"] = {
-["time"] = 38178,
+["time"] = 74404,
 ["class"] = "MAGE",
 },
 ["Kel'Thuzad-Weir"] = {
-["time"] = 19846,
+["time"] = 19867,
 ["class"] = "DRUID",
 },
 ["Kel'Thuzad-Bayou"] = {
-["time"] = 44161,
+["time"] = 44795,
 ["class"] = "HUNTER",
 },
 ["Kel'Thuzad-Glaciers"] = {
-["time"] = 39244,
+["time"] = 41816,
 ["class"] = "WARRIOR",
 },
 ["ArgentDawn-Riptides"] = {
-["time"] = 2248807,
+["time"] = 2262284,
 ["class"] = "SHAMAN",
 },
 ["Kel'Thuzad-Shoal"] = {
@@ -69,7 +77,7 @@ AccountPlayedDB = {
 ["class"] = "WARLOCK",
 },
 ["Kel'Thuzad-Bog"] = {
-["time"] = 3592,
+["time"] = 3608,
 ["class"] = "EVOKER",
 },
 ["ArgentDawn-Brine"] = {
@@ -77,31 +85,43 @@ AccountPlayedDB = {
 ["class"] = "DEATHKNIGHT",
 },
 ["Kel'Thuzad-Cascades"] = {
-["time"] = 699965,
+["time"] = 703190,
 ["class"] = "DEMONHUNTER",
 },
+["Mal'Ganis-Baffle"] = {
+["time"] = 417,
+["class"] = "DRUID",
+},
 ["ArgentDawn-Estuary"] = {
-["time"] = 1418666,
+["time"] = 1493560,
 ["class"] = "ROGUE",
 },
 ["Kel'Thuzad-Esker"] = {
-["time"] = 2536872,
+["time"] = 2557700,
 ["class"] = "WARRIOR",
 },
-["ArgentDawn-Fathom"] = {
-["time"] = 480,
-["class"] = "PRIEST",
+["Mal'Ganis-Mire"] = {
+["time"] = 21742,
+["class"] = "EVOKER",
 },
-["Mal'Ganis-Brack"] = {
-["time"] = 817,
-["class"] = "DEATHKNIGHT",
+["Kel'Thuzad-Splash"] = {
+["time"] = 7520,
+["class"] = "MONK",
 },
 ["Kel'Thuzad-Aquifer"] = {
 ["time"] = 26235,
 ["class"] = "ROGUE",
 },
+["ArgentDawn-Spume"] = {
+["time"] = 136,
+["class"] = "WARRIOR",
+},
+["ArgentDawn-Brook"] = {
+["time"] = 3145372,
+["class"] = "MAGE",
+},
 ["Kel'Thuzad-Gyre"] = {
-["time"] = 954580,
+["time"] = 989773,
 ["class"] = "DEATHKNIGHT",
 },
 ["Mal'Ganis-Geyser"] = {
@@ -112,84 +132,86 @@ AccountPlayedDB = {
 ["time"] = 5624,
 ["class"] = "HUNTER",
 },
-["ArgentDawn-Levee"] = {
-["time"] = 171,
-["class"] = "DRUID",
+["Mal'Ganis-Falls"] = {
+["time"] = 84490,
+["class"] = "DEMONHUNTER",
 },
 ["Kel'Thuzad-Geosmin"] = {
 ["time"] = 24918,
 ["class"] = "MONK",
 },
-["Mal'Ganis-Lather"] = {
-["time"] = 4030,
-["class"] = "SHAMAN",
-},
 ["ArgentDawn-Rapids"] = {
-["time"] = 4132895,
+["time"] = 4194582,
 ["class"] = "WARLOCK",
 },
 ["Kel'Thuzad-Cirque"] = {
 ["time"] = 454945,
 ["class"] = "PRIEST",
 },
-["Kel'Thuzad-Seep"] = {
-["time"] = 11735,
-["class"] = "MONK",
-},
 ["Mal'Ganis-Rivulet"] = {
-["time"] = 14976,
+["time"] = 17705,
 ["class"] = "PALADIN",
 },
-["ArgentDawn-Mangrove"] = {
-["time"] = 258722,
-["class"] = "DRUID",
+["Kel'Thuzad-Seep"] = {
+["time"] = 12421,
+["class"] = "MONK",
 },
 ["ArgentDawn-Cataracts"] = {
-["time"] = 240946,
+["time"] = 249633,
 ["class"] = "DEMONHUNTER",
 },
+["ArgentDawn-Mangrove"] = {
+["time"] = 259407,
+["class"] = "DRUID",
+},
+["ArgentDawn-Levee"] = {
+["time"] = 44735,
+["class"] = "DRUID",
+},
 ["ArgentDawn-Surge"] = {
-["time"] = 4250243,
+["time"] = 4327831,
 ["class"] = "MONK",
 },
 ["ArgentDawn-Benthos"] = {
 ["time"] = 390581,
 ["class"] = "DEATHKNIGHT",
 },
-["ArgentDawn-Spume"] = {
-["time"] = 136,
-["class"] = "WARRIOR",
+["Mal'Ganis-Lather"] = {
+["time"] = 4030,
+["class"] = "SHAMAN",
 },
-["Mal'Ganis-Falls"] = {
-["time"] = 70411,
-["class"] = "DEMONHUNTER",
+["Mal'Ganis-Brack"] = {
+["time"] = 817,
+["class"] = "DEATHKNIGHT",
 },
-["ArgentDawn-Brook"] = {
-["time"] = 3135911,
-["class"] = "MAGE",
+["ArgentDawn-Fathom"] = {
+["time"] = 4532,
+["class"] = "PRIEST",
 },
-["Mal'Ganis-Mire"] = {
-["time"] = 11703,
-["class"] = "EVOKER",
+["Kel'Thuzad-Font"] = {
+["time"] = 1269284,
+["class"] = "PRIEST",
 },
-["Mal'Ganis-Baffle"] = {
-["time"] = 390,
-["class"] = "DRUID",
+["Mal'Ganis-Atoll"] = {
+["time"] = 153,
+["class"] = "HUNTER",
 },
 }
 AccountPlayedMinimapDB = {
 ["y"] = -74.24621202458748,
 ["x"] = -74.2462120245875,
-["hidden"] = false,
+["minimapPos"] = 225,
 ["locked"] = true,
+["showInCompartment"] = true,
+["hide"] = false,
 }
 AccountPlayedPopupDB = {
 ["y"] = 50.28150939941406,
 ["x"] = -93.14643859863281,
 ["point"] = "CENTER",
-["height"] = 387.2300720214844,
 ["useYears"] = true,
-["valueMode"] = "both",
+["height"] = 387.2300720214844,
 ["textScale"] = 1,
+["valueMode"] = "both",
 ["width"] = 664.2255249023438,
 }

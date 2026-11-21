@@ -1,6 +1,6 @@
 
 WowLua_DB = {
-["currentPage"] = 14,
+["currentPage"] = 16,
 ["fontSize"] = 16,
 ["pages"] = {
 {
@@ -69,6 +69,16 @@ WowLua_DB = {
 ["name"] = "Untitled 30",
 ["content"] = "local function resolvePetActionByTexture(texture)\n   if not texture then return nil end\n   local numPet = C_SpellBook.HasPetSpells() or 0\n   for i = 1, numPet do\n      local info = C_SpellBook.GetSpellBookItemInfo(i, Enum.SpellBookSpellBank.Pet)\n      print(i, info.name, info.iconID)\n      if info and info.iconID == texture then\n         local _, packedID = C_SpellBook.GetSpellBookItemType(i, Enum.SpellBookSpellBank.Pet)\n         return packedID, info.name\n      end\n   end\nend\nprint'----'\nprint(resolvePetActionByTexture(457329))\nprint'done'\n",
 },
+{
+["untitled"] = true,
+["name"] = "Untitled 31",
+["content"] = "for _,m in ipairs({C_Map.GetBestMapForUnit(\"player\"),C_Map.GetMapInfo(C_Map.GetBestMapForUnit(\"player\")).parentMapID}) do\n   for _,id in ipairs(C_AreaPoiInfo.GetAreaPOIForMap(m)) do\n      local i=C_AreaPoiInfo.GetAreaPOIInfo(m,id)\n      if i and i.atlasName and i.atlasName:find(\"Locked\") then \n         print(id,i.name,\"set\",i.tooltipWidgetSet,\"secs\",C_AreaPoiInfo.GetAreaPOISecondsLeft(id),\"event\",i.isCurrentEvent)\n         for _,w in ipairs(i.tooltipWidgetSet and C_UIWidgetManager.GetAllWidgetsBySetID(i.tooltipWidgetSet) or {}) do\n            print(\" widget\",w.widgetID,w.widgetType)\n         end\n      end\n   end\nend\nprint'-----'\n\nfor _,id in ipairs({7674,7675}) do local w=C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo(id) print(id,w and w.shownState,w and w.text) end\n\n\nprint(SecondsToTime(C_DateAndTime.GetSecondsUntilWeeklyReset()))\n\n\nlocal r=C_DateAndTime.GetSecondsUntilWeeklyReset() print(\"reset in\",r,\"since reset\",604800-r) local seen={} for _,c in ipairs(C_Map.GetMapChildrenInfo(2537,3,true)) do for _,id in ipairs(C_AreaPoiInfo.GetAreaPOIForMap(c.mapID)) do local i=C_AreaPoiInfo.GetAreaPOIInfo(c.mapID,id) if i and i.atlasName and i.atlasName:find(\"Capstone\") and not seen[id] then seen[id]=1 local t=\"\" for _,w in ipairs(i.tooltipWidgetSet and C_UIWidgetManager.GetAllWidgetsBySetID(i.tooltipWidgetSet) or {}) do local v=w.widgetType==8 and C_UIWidgetManager.GetTextWithStateWidgetVisualizationInfo(w.widgetID) if v then t=t..\" | \"..v.text end end print(c.mapID,id,i.name,i.atlasName,\"secs\",C_AreaPoiInfo.GetAreaPOISecondsLeft(id),t) end end end",
 },
-["untitled"] = 31,
+{
+["untitled"] = true,
+["name"] = "Untitled 32",
+["content"] = "",
+},
+},
+["untitled"] = 33,
 }

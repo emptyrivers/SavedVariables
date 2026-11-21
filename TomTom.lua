@@ -12,6 +12,7 @@ TomTomDB = {
 ["Riptides - Argent Dawn"] = "Default",
 ["Testrivers - Arthas"] = "Default",
 ["Darick - Eredar"] = "Default",
+["Atoll - Mal'Ganis"] = "Default",
 ["Falls - Mal'Ganis"] = "Default",
 ["Shachein - Arthas"] = "Default",
 ["Fathom - Argent Dawn"] = "Default",
@@ -51,6 +52,7 @@ TomTomDB = {
 ["Luckyrivers - Korgath"] = "Default",
 ["Mecharivers - Sargeras"] = "Default",
 ["Emptyrivers - Bleeding Hollow"] = "Default",
+["Font - Kel'Thuzad"] = "Default",
 ["Brine - Argent Dawn"] = "Default",
 ["Rivulet - Mal'Ganis"] = "Default",
 ["Floe - Mal'Ganis"] = "Default",
@@ -77,79 +79,82 @@ TomTomDB = {
 ["Cataracts - Argent Dawn"] = "Default",
 ["Angryrivers - Korgath"] = "Default",
 ["Baffle - Mal'Ganis"] = "Default",
+["Splash - Kel'Thuzad"] = "Default",
 ["Serenerivers - Korgath"] = "Default",
 ["Rime - Kel'Thuzad"] = "Default",
-["Geyser - Mal'Ganis"] = "Default",
-["Riversticks - Bleeding Hollow"] = "Default",
+["Bwaagh - Mal'Ganis"] = "Default",
 ["Slush - Mal'Ganis"] = "Default",
+["Mire - Mal'Ganis"] = "Default",
+["Riversticks - Bleeding Hollow"] = "Default",
+["Squall - Argent Dawn"] = "Default",
 ["Karst - Argent Dawn"] = "Default",
-["Mangrove - Argent Dawn"] = "Default",
+["Wildeadoriah - The Scryers"] = "Default",
 ["Skankyrivers - Arthas"] = "Default",
 ["Estuary - Argent Dawn"] = "Default",
 ["Boringrivers - Korgath"] = "Default",
 ["Rapidrivers - Arthas"] = "Default",
 ["Seep - Kel'Thuzad"] = "Default",
-["Quag - Argent Dawn"] = "Default",
-["Wildeadoriah - The Scryers"] = "Default",
-["Naturerivers - Korgath"] = "Default",
-["Sacredrivers - Korgath"] = "Default",
 ["Evilrivers - Kel'Thuzad"] = "Default",
+["Quag - Argent Dawn"] = "Default",
+["Naturerivers - Korgath"] = "Default",
+["Edgyrivers - Kel'Thuzad"] = "Default",
 ["Deadrivers - Korgath"] = "Default",
+["Caladiir - Kel'Thuzad"] = "Default",
 ["Glaciers - Kel'Thuzad"] = "Default",
-["Mindrivers - Korgath"] = "Default",
 ["Temprivers - Kel'Thuzad"] = "Default",
+["Mindrivers - Korgath"] = "Default",
 ["Inundito - Kel'Thuzad"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
 ["Serenerivers - Bleeding Hollow"] = "Default",
 ["Flumes - Kel'Thuzad"] = "Default",
-["Caladiir - Kel'Thuzad"] = "Default",
 ["Tinyrivers - Arthas"] = "Default",
+["Crazyrivers - Arthas"] = "Default",
 ["Asperos - Kel'Thuzad"] = "Default",
 ["Imnotamonk - Korgath"] = "Default",
 ["Sassyrivers - Arthas"] = "Default",
 ["Headcut - Argent Dawn"] = "Default",
-["Crazyrivers - Arthas"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
 ["Asperse - Kel'Thuzad"] = "Default",
 ["Greedyrivers - Arthas"] = "Default",
-["Brightrivers - Korgath"] = "Default",
-["Benthos - Argent Dawn"] = "Default",
+["Bog - Kel'Thuzad"] = "Default",
+["Zimuures - Argent Dawn"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
-["Loess - Kel'Thuzad"] = "Default",
 ["Meander - Kel'Thuzad"] = "Default",
+["Ailisuul - Arthas"] = "Default",
 ["Savattellir - Arthas"] = "Default",
 ["Surge - Argent Dawn"] = "Default",
 ["Rosefin - Argent Dawn"] = "Default",
 ["Hiddenrivers - Korgath"] = "Default",
-["Dussrasande - Kel'Thuzad"] = "Default",
+["Lotic - Argent Dawn"] = "Default",
 ["Smaz - Mug'thol"] = "Default",
 ["Bittydots - Korgath"] = "Default",
 ["Bayou - Kel'Thuzad"] = "Default",
 ["Wildrivers - Arthas"] = "Default",
-["Lotic - Argent Dawn"] = "Default",
+["Dussrasande - Kel'Thuzad"] = "Default",
 ["Blindrivers - Korgath"] = "Default",
 ["Evilrivers - Korgath"] = "Default",
-["Ailisuul - Arthas"] = "Default",
 ["Gyre - Kel'Thuzad"] = "Default",
+["Loess - Kel'Thuzad"] = "Default",
 ["Saellindris - Kel'Thuzad"] = "Default",
+["Brightrivers - Korgath"] = "Default",
 ["Emptyrivers - Korgath"] = "Default",
-["Bog - Kel'Thuzad"] = "Default",
-["Zimuures - Argent Dawn"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
 ["Tinyrivers - Kel'Thuzad"] = "Default",
+["Emptyrivers - Sargeras"] = "Default",
 ["Serenerivers - Kel'Thuzad"] = "Default",
 ["Brook - Argent Dawn"] = "Default",
 ["Dannius - Argent Dawn"] = "Default",
 ["Neva - Kel'Thuzad"] = "Default",
-["Edgyrivers - Kel'Thuzad"] = "Default",
-["Rill - Kel'Thuzad"] = "Default",
+["Docks - Argent Dawn"] = "Default",
 ["Rapids - Argent Dawn"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
+["Rill - Kel'Thuzad"] = "Default",
 ["Ragingrivers - Arthas"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
+["Mangrove - Argent Dawn"] = "Default",
 ["Magicrivers - Korgath"] = "Default",
-["Mire - Mal'Ganis"] = "Default",
+["Geyser - Mal'Ganis"] = "Default",
 ["Tinyrivers - Sargeras"] = "Default",
-["Bwaagh - Mal'Ganis"] = "Default",
 ["Levee - Argent Dawn"] = "Default",
+["Sacredrivers - Korgath"] = "Default",
 },
 ["profiles"] = {
 ["Default"] = {
@@ -160,6 +165,8 @@ TomTomDB = {
 ["corpse_arrow"] = false,
 },
 ["arrow"] = {
+["scale"] = 1.25,
+["lock"] = true,
 ["exactcolor"] = {
 nil,
 0.9647059440612793,
@@ -170,11 +177,11 @@ nil,
 "CENTER",
 nil,
 "CENTER",
--4.807548046112061,
--59.85918045043945,
+-20.43286895751953,
+-29.81185340881348,
 },
 ["closestusecontinent"] = true,
-["scale"] = 1.25,
+["enable"] = false,
 },
 ["mapcoords"] = {
 ["cursorenable"] = false,
@@ -191,8 +198,10 @@ nil,
 },
 },
 }
-TomTomWaypoints = nil
 TomTomWaypointsM = {
+["global"] = {
+["pinFlagsLive"] = true,
+},
 ["profileKeys"] = {
 ["Calestin - Sargeras"] = "Default",
 ["Strid - Kel'Thuzad"] = "Default",
@@ -214,6 +223,7 @@ TomTomWaypointsM = {
 ["Luckyrivers - Sargeras"] = "Default",
 ["Talamahyn - Kel'Thuzad"] = "Talamahyn - Kel'Thuzad",
 ["Darick - Eredar"] = "Darick - Eredar",
+["Atoll - Mal'Ganis"] = "Atoll - Mal'Ganis",
 ["Falls - Mal'Ganis"] = "Falls - Mal'Ganis",
 ["Fathom - Argent Dawn"] = "Fathom - Argent Dawn",
 ["Spume - Argent Dawn"] = "Spume - Argent Dawn",
@@ -238,56 +248,60 @@ TomTomWaypointsM = {
 ["Cascades - Kel'Thuzad"] = "Cascades - Kel'Thuzad",
 ["Doneer - Eredar"] = "Default",
 ["Meander - Kel'Thuzad"] = "Meander - Kel'Thuzad",
+["Splash - Kel'Thuzad"] = "Splash - Kel'Thuzad",
 ["Temprivers - Kel'Thuzad"] = "Temprivers - Kel'Thuzad",
 ["Inundito - Kel'Thuzad"] = "Default",
 ["Ochrian - Argent Dawn"] = "Default",
+["Squall - Argent Dawn"] = "Squall - Argent Dawn",
 ["Flumes - Kel'Thuzad"] = "Flumes - Kel'Thuzad",
+["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
 ["Alluvium - Argent Dawn"] = "Default",
 ["Rapids - Argent Dawn"] = "Rapids - Argent Dawn",
 ["Rime - Kel'Thuzad"] = "Rime - Kel'Thuzad",
+["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
 ["Headcut - Argent Dawn"] = "Default",
 ["Confluence - Argent Dawn"] = "Default",
 ["Asperse - Kel'Thuzad"] = "Asperse - Kel'Thuzad",
-["Brack - Mal'Ganis"] = "Brack - Mal'Ganis",
-["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
-["Benthos - Argent Dawn"] = "Default",
+["Riparium - Argent Dawn"] = "Default",
 ["Emptyrivers - Arthas"] = "Default",
-["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
-["Alandere - Argent Dawn"] = "Default",
+["Benthos - Argent Dawn"] = "Default",
 ["Bog - Kel'Thuzad"] = "Bog - Kel'Thuzad",
+["Evilrivers - Kel'Thuzad"] = "Default",
+["Alandere - Argent Dawn"] = "Default",
+["Geyser - Mal'Ganis"] = "Geyser - Mal'Ganis",
 ["Surge - Argent Dawn"] = "Surge - Argent Dawn",
 ["Rosefin - Argent Dawn"] = "Rosefin - Argent Dawn",
 ["Savattellir - Arthas"] = "Default",
-["Riparium - Argent Dawn"] = "Default",
-["Brook - Argent Dawn"] = "Brook - Argent Dawn",
-["Evilrivers - Kel'Thuzad"] = "Default",
-["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
+["Quag - Argent Dawn"] = "Quag - Argent Dawn",
+["Ailisuul - Arthas"] = "Default",
 ["Sverdrup - Argent Dawn"] = "Default",
+["Bayou - Kel'Thuzad"] = "Bayou - Kel'Thuzad",
 ["Dussrasande - Kel'Thuzad"] = "Dussrasande - Kel'Thuzad",
+["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
 ["Lotic - Argent Dawn"] = "Default",
-["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
+["Emptyrivers - Sargeras"] = "Default",
 ["Zimuures - Argent Dawn"] = "Default",
 ["Gyre - Kel'Thuzad"] = "Gyre - Kel'Thuzad",
 ["Saellindris - Kel'Thuzad"] = "Default",
 ["Beefyrivers - Arthas"] = "Default",
-["Emptyrivers - Sargeras"] = "Default",
 ["Glaciers - Kel'Thuzad"] = "Glaciers - Kel'Thuzad",
+["Dannius - Argent Dawn"] = "Dannius - Argent Dawn",
 ["Ragingrivers - Arthas"] = "Default",
 ["Bwaagh - Mal'Ganis"] = "Bwaagh - Mal'Ganis",
-["Shoal - Kel'Thuzad"] = "Shoal - Kel'Thuzad",
 ["Emptystreams - Argent Dawn"] = "Default",
+["Brook - Argent Dawn"] = "Brook - Argent Dawn",
 ["Emptyrivers - Bleeding Hollow"] = "Default",
-["Ailisuul - Arthas"] = "Default",
-["Quag - Argent Dawn"] = "Quag - Argent Dawn",
+["Docks - Argent Dawn"] = "Docks - Argent Dawn",
+["Mire - Mal'Ganis"] = "Mire - Mal'Ganis",
 ["Rill - Kel'Thuzad"] = "Rill - Kel'Thuzad",
-["Seep - Kel'Thuzad"] = "Seep - Kel'Thuzad",
+["Font - Kel'Thuzad"] = "Font - Kel'Thuzad",
 ["Wildeadoriah - The Scryers"] = "Default",
 ["Brine - Argent Dawn"] = "Brine - Argent Dawn",
 ["Rivulet - Mal'Ganis"] = "Rivulet - Mal'Ganis",
 ["Fjord - Mal'Ganis"] = "Fjord - Mal'Ganis",
 ["Floe - Mal'Ganis"] = "Floe - Mal'Ganis",
-["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 ["Levee - Argent Dawn"] = "Levee - Argent Dawn",
+["Virga - Kel'Thuzad"] = "Virga - Kel'Thuzad",
 },
 ["profiles"] = {
 ["Calestin - Sargeras"] = {
@@ -329,6 +343,8 @@ TomTomWaypointsM = {
 ["Talamahyn - Kel'Thuzad"] = {
 },
 ["Darick - Eredar"] = {
+},
+["Atoll - Mal'Ganis"] = {
 },
 ["Falls - Mal'Ganis"] = {
 },
@@ -372,20 +388,20 @@ TomTomWaypointsM = {
 ["minimap"] = {
 },
 },
-["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["title"] = "Ny'alotha Obelisk",
+["desc"] = "Retrieving data",
+["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
 ["arrivaldistance"] = 15,
 ["crazy"] = true,
-["worldmap_displayID"] = 122197,
+["minimap_displayID"] = 122197,
 ["persistent"] = true,
-["desc"] = "Retrieving data",
+["minimap"] = true,
 ["silent"] = true,
 ["cleardistance"] = 10,
-["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["minimap_displayID"] = 122197,
-["from"] = "ATT",
 ["sourcePath"] = "npcID153297",
-["minimap"] = true,
+["from"] = "ATT",
+["worldmap_displayID"] = 122197,
+["title"] = "Ny'alotha Obelisk",
+["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
 ["world"] = true,
 },
 ["1530:837000000:276000000:Retrieving data"] = {
@@ -402,16 +418,16 @@ TomTomWaypointsM = {
 ["minimap"] = {
 },
 },
-["title"] = "Retrieving data",
+["sourcePath"] = "npcID153297",
 ["persistent"] = true,
-["minimap"] = true,
+["desc"] = "Retrieving data",
 ["silent"] = true,
 ["cleardistance"] = 10,
-["sourcePath"] = "npcID153297",
+["title"] = "Retrieving data",
 ["from"] = "ATT",
 ["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
 ["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["desc"] = "Retrieving data",
+["minimap"] = true,
 ["world"] = true,
 },
 },
@@ -430,16 +446,16 @@ TomTomWaypointsM = {
 ["minimap"] = {
 },
 },
-["title"] = "Encrypted Chest",
+["sourcePath"] = "objectID467191",
 ["persistent"] = true,
-["minimap"] = true,
+["desc"] = "Encrypted Chest",
 ["silent"] = true,
 ["cleardistance"] = 10,
-["sourcePath"] = "objectID467191",
+["title"] = "Encrypted Chest",
 ["from"] = "ATT",
 ["minimap_icon"] = 133639,
 ["worldmap_icon"] = 133639,
-["desc"] = "Encrypted Chest",
+["minimap"] = true,
 ["world"] = true,
 },
 ["2255:561000000:179000000:Encrypted Chest"] = {
@@ -456,16 +472,16 @@ TomTomWaypointsM = {
 ["minimap"] = {
 },
 },
-["title"] = "Encrypted Chest",
+["sourcePath"] = "objectID467191",
 ["persistent"] = true,
-["minimap"] = true,
+["desc"] = "Encrypted Chest",
 ["silent"] = true,
 ["cleardistance"] = 10,
-["sourcePath"] = "objectID467191",
+["title"] = "Encrypted Chest",
 ["from"] = "ATT",
 ["minimap_icon"] = 133639,
 ["worldmap_icon"] = 133639,
-["desc"] = "Encrypted Chest",
+["minimap"] = true,
 ["world"] = true,
 },
 ["2255:564000000:175000000:Encrypted Chest"] = {
@@ -482,16 +498,16 @@ TomTomWaypointsM = {
 ["minimap"] = {
 },
 },
-["title"] = "Encrypted Chest",
+["sourcePath"] = "objectID467191",
 ["persistent"] = true,
-["minimap"] = true,
+["desc"] = "Encrypted Chest",
 ["silent"] = true,
 ["cleardistance"] = 10,
-["sourcePath"] = "objectID467191",
+["title"] = "Encrypted Chest",
 ["from"] = "ATT",
 ["minimap_icon"] = 133639,
 ["worldmap_icon"] = 133639,
-["desc"] = "Encrypted Chest",
+["minimap"] = true,
 ["world"] = true,
 },
 },
@@ -560,23 +576,22 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 28960,
 ["side"] = 1,
 [17] = {
 60.7,
 14.2,
 },
+["quest"] = 28960,
 },
 {
-["quest"] = 28961,
 ["side"] = 1,
 [17] = {
 44.4,
 87.7,
 },
+["quest"] = 28961,
 },
 {
-["quest"] = 28959,
 ["side"] = 2,
 [17] = {
 40.5,
@@ -685,31 +700,34 @@ TomTomWaypointsM = {
 },
 ["88,17"] = false,
 },
+["quest"] = 28959,
 },
 {
 ["extra"] = 3,
+["side"] = 3,
+["quest"] = 12404,
 [111] = {
 56.2,
 81.8,
-["107,111"] = {
-["y"] = 0.6048762202262878,
-["x"] = 0.8859148621559143,
+["108,111"] = {
+["y"] = 0.3295267224311829,
+["x"] = 0.3115153610706329,
 },
 ["109,111"] = {
 ["y"] = 2.056288480758667,
 ["x"] = 0.01474145520478487,
 },
-["101,111"] = {
-["y"] = 0.6877992153167725,
-["x"] = 0.4348621368408203,
+["107,111"] = {
+["y"] = 0.6048762202262878,
+["x"] = 0.8859148621559143,
 },
 ["100,111"] = {
 ["y"] = 1.064986109733582,
 ["x"] = 0.02680439129471779,
 },
-["108,111"] = {
-["y"] = 0.3295267224311829,
-["x"] = 0.3115153610706329,
+["101,111"] = {
+["y"] = 0.6877992153167725,
+["x"] = 0.4348621368408203,
 },
 ["102,111"] = {
 ["y"] = 1.229596138000488,
@@ -720,8 +738,6 @@ TomTomWaypointsM = {
 ["x"] = 0.634964644908905,
 },
 },
-["side"] = 3,
-["quest"] = 12404,
 },
 {
 ["extra"] = 3,
@@ -746,8 +762,8 @@ TomTomWaypointsM = {
 },
 {
 ["extra"] = 2,
-["quest"] = 12340,
 ["side"] = 1,
+["quest"] = 12340,
 [52] = {
 56.76,
 47.31,
@@ -755,8 +771,8 @@ TomTomWaypointsM = {
 },
 {
 ["extra"] = 2,
-["quest"] = 12340,
 ["side"] = 1,
+["quest"] = 12340,
 [52] = {
 52.9,
 53.6,
@@ -767,51 +783,51 @@ TomTomWaypointsM = {
 48.1,
 47.8,
 ["18,94"] = false,
-["78,94"] = false,
-["10,94"] = false,
 ["69,94"] = false,
+["64,94"] = false,
+["78,94"] = false,
 ["23,94"] = false,
 ["199,94"] = false,
-["94,94"] = {
-["y"] = 0.4780000746250153,
-["x"] = 0.4810000956058502,
-},
+["83,94"] = false,
 ["13,94"] = {
 ["y"] = 0.1511656790971756,
 ["x"] = 0.5554184317588806,
 },
 ["63,94"] = false,
-["64,94"] = false,
-["76,94"] = false,
+["10,94"] = false,
+["110,94"] = {
+["y"] = 0.8446763157844543,
+["x"] = 0.3761372864246368,
+},
 ["12,94"] = false,
 ["85,94"] = false,
 ["95,94"] = {
 ["y"] = -0.547991156578064,
 ["x"] = 0.4766958057880402,
 },
-["83,94"] = false,
-["1,94"] = false,
-["71,94"] = false,
-["81,94"] = false,
+["94,94"] = {
+["y"] = 0.4780000746250153,
+["x"] = 0.4810000956058502,
+},
 ["947,94"] = {
 ["y"] = 0.3301621675491333,
 ["x"] = 0.9121707677841187,
 },
+["71,94"] = false,
+["198,94"] = false,
+["1,94"] = false,
 ["70,94"] = false,
 ["66,94"] = false,
 ["2070,94"] = false,
-["198,94"] = false,
-["110,94"] = {
-["y"] = 0.8446763157844543,
-["x"] = 0.3761372864246368,
-},
+["81,94"] = false,
+["22,94"] = false,
 ["88,94"] = false,
 ["122,94"] = {
 ["y"] = 1.846310377120972,
 ["x"] = 0.4671788811683655,
 },
-["22,94"] = false,
 ["65,94"] = false,
+["76,94"] = false,
 },
 ["side"] = 2,
 ["quest"] = 12364,
@@ -1052,7 +1068,6 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
-["quest"] = 13472,
 ["side"] = 3,
 [126] = {
 37.95,
@@ -1083,7 +1098,7 @@ TomTomWaypointsM = {
 ["78,126"] = false,
 ["50,126"] = false,
 ["94,126"] = false,
-["224,126"] = false,
+["70,126"] = false,
 ["81,126"] = false,
 ["21,126"] = false,
 ["1,126"] = false,
@@ -1091,23 +1106,23 @@ TomTomWaypointsM = {
 ["13,126"] = false,
 ["199,126"] = false,
 ["88,126"] = false,
-["241,126"] = false,
-["947,126"] = false,
-["95,126"] = false,
-["51,126"] = false,
-["49,126"] = false,
 ["125,126"] = {
 ["y"] = 0.5721374154090881,
 ["x"] = 0.4221411943435669,
 },
+["947,126"] = false,
+["95,126"] = false,
+["51,126"] = false,
+["49,126"] = false,
+["241,126"] = false,
 ["36,126"] = false,
 ["37,126"] = false,
-["70,126"] = false,
+["224,126"] = false,
 ["210,126"] = false,
 },
+["quest"] = 13472,
 },
 {
-["quest"] = 28973,
 ["side"] = 2,
 [241] = {
 53.4,
@@ -1176,9 +1191,9 @@ TomTomWaypointsM = {
 ["85,241"] = false,
 ["65,241"] = false,
 },
+["quest"] = 28973,
 },
 {
-["quest"] = 28974,
 ["side"] = 2,
 [241] = {
 45.1,
@@ -1247,9 +1262,9 @@ TomTomWaypointsM = {
 ["85,241"] = false,
 ["65,241"] = false,
 },
+["quest"] = 28974,
 },
 {
-["quest"] = 28975,
 ["side"] = 2,
 [241] = {
 75.3,
@@ -1358,9 +1373,9 @@ TomTomWaypointsM = {
 ["x"] = 4.678755283355713,
 },
 },
+["quest"] = 28975,
 },
 {
-["quest"] = 28976,
 ["side"] = 2,
 [241] = {
 75.4,
@@ -1429,38 +1444,39 @@ TomTomWaypointsM = {
 ["85,241"] = false,
 ["65,241"] = false,
 },
+["quest"] = 28976,
 },
 {
-["quest"] = 28977,
 ["side"] = 1,
 [241] = {
 60.4,
 58.2,
 },
+["quest"] = 28977,
 },
 {
-["quest"] = 28978,
 ["side"] = 1,
 [241] = {
 49.6,
 30.4,
 },
+["quest"] = 28978,
 },
 {
-["quest"] = 28979,
 ["side"] = 1,
 [241] = {
 43.6,
 57.3,
 },
+["quest"] = 28979,
 },
 {
-["quest"] = 28980,
 ["side"] = 1,
 [241] = {
 79.5,
 78.5,
 },
+["quest"] = 28980,
 },
 {
 [198] = {
@@ -1546,17 +1562,17 @@ TomTomWaypointsM = {
 [198] = {
 18.7,
 37.3,
-["1,198"] = {
-["y"] = -0.9450904130935669,
-["x"] = -0.04526966065168381,
+["85,198"] = {
+["y"] = -2.287979364395142,
+["x"] = -1.025205850601196,
 },
 ["70,198"] = {
 ["y"] = -2.049458026885986,
 ["x"] = 0.1425020694732666,
 },
-["69,198"] = {
-["y"] = -1.620097041130066,
-["x"] = 1.030907273292542,
+["63,198"] = {
+["y"] = -0.1214580163359642,
+["x"] = 0.5936070680618286,
 },
 ["64,198"] = {
 ["y"] = -3.104473114013672,
@@ -1566,9 +1582,9 @@ TomTomWaypointsM = {
 ["y"] = -4.502625465393066,
 ["x"] = 0.6098560094833374,
 },
-["85,198"] = {
-["y"] = -2.287979364395142,
-["x"] = -1.025205850601196,
+["1,198"] = {
+["y"] = -0.9450904130935669,
+["x"] = -0.04526966065168381,
 },
 ["88,198"] = {
 ["y"] = -8.608076095581055,
@@ -1606,9 +1622,9 @@ TomTomWaypointsM = {
 ["y"] = 0.2922350764274597,
 ["x"] = 0.5105934143066406,
 },
-["63,198"] = {
-["y"] = -0.1214580163359642,
-["x"] = 0.5936070680618286,
+["69,198"] = {
+["y"] = -1.620097041130066,
+["x"] = 1.030907273292542,
 },
 },
 ["side"] = 3,
@@ -1708,8 +1724,8 @@ TomTomWaypointsM = {
 7.3,
 },
 ["extra"] = 2,
-["quest"] = 29016,
 ["side"] = 3,
+["quest"] = 29016,
 },
 {
 [1527] = {
@@ -1736,8 +1752,8 @@ TomTomWaypointsM = {
 33,
 },
 ["extra"] = 2,
-["quest"] = 29017,
 ["side"] = 3,
+["quest"] = 29017,
 },
 {
 [1527] = {
@@ -1751,7 +1767,6 @@ TomTomWaypointsM = {
 ["waypoint"] = false,
 },
 {
-["quest"] = 32020,
 ["side"] = 2,
 [418] = {
 28.25,
@@ -1776,17 +1791,17 @@ TomTomWaypointsM = {
 ["x"] = 0.5138558149337769,
 },
 ["78,418"] = false,
-["113,418"] = false,
-["198,418"] = false,
-["13,418"] = false,
 ["69,418"] = false,
+["198,418"] = false,
 ["65,418"] = false,
+["113,418"] = false,
+["13,418"] = false,
 ["21,418"] = false,
 ["51,418"] = false,
 ["63,418"] = false,
 ["71,418"] = false,
 ["15,418"] = false,
-["1,418"] = false,
+["224,418"] = false,
 ["81,418"] = false,
 ["37,418"] = false,
 ["83,418"] = false,
@@ -1816,13 +1831,14 @@ TomTomWaypointsM = {
 ["y"] = 0.87221360206604,
 ["x"] = 0.8437615036964417,
 },
-["224,418"] = false,
+["1,418"] = false,
 ["50,418"] = false,
 ["371,418"] = {
 ["y"] = 1.149105787277222,
 ["x"] = -0.02457587234675884,
 },
 },
+["quest"] = 32020,
 },
 {
 [392] = {
@@ -1833,7 +1849,6 @@ TomTomWaypointsM = {
 ["quest"] = 32022,
 },
 {
-["quest"] = 32034,
 ["side"] = 3,
 [418] = {
 51.45,
@@ -1858,17 +1873,17 @@ TomTomWaypointsM = {
 ["x"] = 0.6876241564750671,
 },
 ["78,418"] = false,
-["113,418"] = false,
-["198,418"] = false,
-["13,418"] = false,
 ["69,418"] = false,
+["198,418"] = false,
 ["65,418"] = false,
+["113,418"] = false,
+["13,418"] = false,
 ["21,418"] = false,
 ["51,418"] = false,
 ["63,418"] = false,
 ["71,418"] = false,
 ["15,418"] = false,
-["1,418"] = false,
+["224,418"] = false,
 ["81,418"] = false,
 ["37,418"] = false,
 ["83,418"] = false,
@@ -1898,16 +1913,16 @@ TomTomWaypointsM = {
 ["y"] = 1.105051040649414,
 ["x"] = 1.046953558921814,
 },
-["224,418"] = false,
+["1,418"] = false,
 ["50,418"] = false,
 ["371,418"] = {
 ["y"] = 1.327642440795898,
 ["x"] = 0.1311520934104919,
 },
 },
+["quest"] = 32034,
 },
 {
-["quest"] = 32036,
 ["side"] = 3,
 [418] = {
 75.96,
@@ -1932,17 +1947,17 @@ TomTomWaypointsM = {
 ["x"] = 0.8712045550346375,
 },
 ["78,418"] = false,
-["113,418"] = false,
-["198,418"] = false,
-["13,418"] = false,
 ["69,418"] = false,
+["198,418"] = false,
 ["65,418"] = false,
+["113,418"] = false,
+["13,418"] = false,
 ["21,418"] = false,
 ["51,418"] = false,
 ["63,418"] = false,
 ["71,418"] = false,
 ["15,418"] = false,
-["1,418"] = false,
+["224,418"] = false,
 ["81,418"] = false,
 ["37,418"] = false,
 ["83,418"] = false,
@@ -1972,16 +1987,16 @@ TomTomWaypointsM = {
 ["y"] = 0.4888507723808289,
 ["x"] = 1.261618971824646,
 },
-["224,418"] = false,
+["1,418"] = false,
 ["50,418"] = false,
 ["371,418"] = {
 ["y"] = 0.8551480770111084,
 ["x"] = 0.2956733703613281,
 },
 },
+["quest"] = 32036,
 },
 {
-["quest"] = 32047,
 ["side"] = 2,
 [418] = {
 61.03,
@@ -2006,17 +2021,17 @@ TomTomWaypointsM = {
 ["x"] = 0.7593784928321838,
 },
 ["78,418"] = false,
-["113,418"] = false,
-["198,418"] = false,
-["13,418"] = false,
 ["69,418"] = false,
+["198,418"] = false,
 ["65,418"] = false,
+["113,418"] = false,
+["13,418"] = false,
 ["21,418"] = false,
 ["51,418"] = false,
 ["63,418"] = false,
 ["71,418"] = false,
 ["15,418"] = false,
-["1,418"] = false,
+["224,418"] = false,
 ["81,418"] = false,
 ["37,418"] = false,
 ["83,418"] = false,
@@ -2046,13 +2061,14 @@ TomTomWaypointsM = {
 ["y"] = 0.6480454206466675,
 ["x"] = 1.130857706069946,
 },
-["224,418"] = false,
+["1,418"] = false,
 ["50,418"] = false,
 ["371,418"] = {
 ["y"] = 0.9772164821624756,
 ["x"] = 0.1954569667577744,
 },
 },
+["quest"] = 32047,
 },
 {
 [393] = {
@@ -2074,34 +2090,34 @@ TomTomWaypointsM = {
 ["81,207"] = false,
 ["422,207"] = false,
 ["125,207"] = false,
-["947,207"] = false,
 ["63,207"] = false,
+["947,207"] = false,
 ["76,207"] = false,
-["17,207"] = false,
+["65,207"] = false,
 ["122,207"] = false,
-["198,207"] = false,
+["85,207"] = false,
 ["627,207"] = false,
 ["37,207"] = false,
 ["117,207"] = false,
-["65,207"] = false,
+["17,207"] = false,
 ["13,207"] = false,
 ["23,207"] = false,
-["15,207"] = false,
+["69,207"] = false,
 ["25,207"] = false,
 ["630,207"] = false,
 ["199,207"] = false,
 ["650,207"] = false,
 ["127,207"] = false,
-["424,207"] = false,
-["85,207"] = false,
+["1,207"] = false,
+["198,207"] = false,
 ["95,207"] = false,
 ["83,207"] = false,
 ["50,207"] = false,
-["22,207"] = false,
+["371,207"] = false,
 ["376,207"] = false,
 ["619,207"] = false,
 ["875,207"] = false,
-["14,207"] = false,
+["424,207"] = false,
 ["70,207"] = false,
 ["120,207"] = false,
 ["49,207"] = false,
@@ -2117,14 +2133,14 @@ TomTomWaypointsM = {
 ["18,207"] = false,
 ["115,207"] = false,
 ["78,207"] = false,
-["1,207"] = false,
+["14,207"] = false,
 ["26,207"] = false,
 ["224,207"] = false,
 ["116,207"] = false,
 ["210,207"] = false,
-["69,207"] = false,
+["15,207"] = false,
 ["88,207"] = false,
-["371,207"] = false,
+["22,207"] = false,
 ["94,207"] = false,
 ["84,207"] = false,
 ["110,207"] = false,
@@ -2157,20 +2173,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 12335,
 ["side"] = 1,
 [87] = {
 18.6,
 51.3,
 },
+["quest"] = 12335,
 },
 {
-["quest"] = 12336,
 ["side"] = 1,
 [84] = {
 60.5,
 75.2,
 },
+["quest"] = 12336,
 },
 {
 [48] = {
@@ -2189,28 +2205,28 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 12343,
 ["side"] = 1,
 [56] = {
 10.8,
 60.9,
 },
+["quest"] = 12343,
 },
 {
-["quest"] = 12344,
 ["side"] = 1,
 [47] = {
 73.9,
 44.4,
 },
+["quest"] = 12344,
 },
 {
-["quest"] = 12351,
 ["side"] = 1,
 [26] = {
 14.2,
 44.7,
 },
+["quest"] = 12351,
 },
 {
 [18] = {
@@ -2328,12 +2344,12 @@ TomTomWaypointsM = {
 ["waypoint"] = false,
 },
 {
-["quest"] = 12368,
 ["side"] = 2,
 [90] = {
 67.7,
 37.9,
 },
+["quest"] = 12368,
 },
 {
 [21] = {
@@ -2344,17 +2360,20 @@ TomTomWaypointsM = {
 ["198,21"] = false,
 ["65,21"] = false,
 ["81,21"] = false,
-["76,21"] = false,
+["71,21"] = false,
 ["70,21"] = false,
 ["1,21"] = false,
-["71,21"] = false,
+["76,21"] = false,
 ["2070,21"] = false,
-["78,21"] = false,
+["10,21"] = false,
 ["199,21"] = false,
-["69,21"] = false,
+["23,21"] = {
+["y"] = 1.20405638217926,
+["x"] = -0.9398320317268372,
+},
 ["12,21"] = false,
 ["88,21"] = false,
-["10,21"] = false,
+["78,21"] = false,
 ["14,21"] = {
 ["y"] = -0.2630452513694763,
 ["x"] = -0.7558842897415161,
@@ -2375,10 +2394,7 @@ TomTomWaypointsM = {
 ["y"] = 1.011068820953369,
 ["x"] = -0.2522167265415192,
 },
-["23,21"] = {
-["y"] = 1.20405638217926,
-["x"] = -0.9398320317268372,
-},
+["69,21"] = false,
 ["13,21"] = {
 ["y"] = 0.3944087624549866,
 ["x"] = 0.4091871976852417,
@@ -2555,10 +2571,10 @@ TomTomWaypointsM = {
 ["1,14"] = false,
 ["85,14"] = false,
 ["95,14"] = false,
-["63,14"] = false,
+["81,14"] = false,
 ["83,14"] = false,
 ["71,14"] = false,
-["81,14"] = false,
+["63,14"] = false,
 ["241,14"] = {
 ["y"] = -0.352850079536438,
 ["x"] = 0.2065654098987579,
@@ -2581,7 +2597,6 @@ TomTomWaypointsM = {
 ["quest"] = 12380,
 },
 {
-["quest"] = 12382,
 ["side"] = 2,
 [50] = {
 37.3,
@@ -2662,17 +2677,17 @@ TomTomWaypointsM = {
 ["y"] = 5.414207935333252,
 ["x"] = -0.4647921919822693,
 },
-["14,50"] = {
-["y"] = 5.299464225769043,
-["x"] = -0.3858189284801483,
+["36,50"] = {
+["y"] = 2.592569828033447,
+["x"] = -0.2154227644205093,
 },
 ["50,50"] = {
 ["y"] = 0.5169999003410339,
 ["x"] = 0.3730006814002991,
 },
-["36,50"] = {
-["y"] = 2.592569828033447,
-["x"] = -0.2154227644205093,
+["14,50"] = {
+["y"] = 5.299464225769043,
+["x"] = -0.3858189284801483,
 },
 ["66,50"] = false,
 ["22,50"] = {
@@ -2682,6 +2697,7 @@ TomTomWaypointsM = {
 ["64,50"] = false,
 ["198,50"] = false,
 },
+["quest"] = 12382,
 },
 {
 [51] = {
@@ -2756,18 +2772,17 @@ TomTomWaypointsM = {
 ["81,51"] = false,
 ["70,51"] = false,
 ["66,51"] = false,
-["69,51"] = false,
+["95,51"] = false,
 ["122,51"] = false,
 ["2070,51"] = false,
 ["85,51"] = false,
-["95,51"] = false,
+["69,51"] = false,
 ["65,51"] = false,
 },
 ["quest"] = 12384,
 ["side"] = 2,
 },
 {
-["quest"] = 12387,
 ["side"] = 2,
 [26] = {
 78.2,
@@ -2816,6 +2831,7 @@ TomTomWaypointsM = {
 ["94,26"] = false,
 ["85,26"] = false,
 },
+["quest"] = 12387,
 },
 {
 [210] = {
@@ -2883,9 +2899,9 @@ TomTomWaypointsM = {
 ["y"] = 6.07336950302124,
 ["x"] = 0.5618460774421692,
 },
-["241,210"] = {
-["y"] = 3.500355243682861,
-["x"] = -0.5562664866447449,
+["37,210"] = {
+["y"] = 2.8164222240448,
+["x"] = 0.299907922744751,
 },
 ["65,210"] = false,
 ["2070,210"] = false,
@@ -2904,13 +2920,13 @@ TomTomWaypointsM = {
 },
 ["85,210"] = false,
 ["95,210"] = false,
+["241,210"] = {
+["y"] = 3.500355243682861,
+["x"] = -0.5562664866447449,
+},
 ["49,210"] = {
 ["y"] = 3.470877647399902,
 ["x"] = -0.7683338522911072,
-},
-["37,210"] = {
-["y"] = 2.8164222240448,
-["x"] = 0.299907922744751,
 },
 ["36,210"] = {
 ["y"] = 3.55862283706665,
@@ -2984,7 +3000,6 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 28955,
 ["side"] = 3,
 [15] = {
 65.9,
@@ -3026,12 +3041,12 @@ TomTomWaypointsM = {
 ["95,15"] = false,
 ["63,15"] = false,
 ["85,15"] = false,
-["199,15"] = false,
-["81,15"] = false,
 ["71,15"] = false,
-["13,15"] = {
-["y"] = 0.6542587280273438,
-["x"] = 0.5423930287361145,
+["81,15"] = false,
+["199,15"] = false,
+["21,15"] = {
+["y"] = 2.947587966918945,
+["x"] = 1.756133913993835,
 },
 ["110,15"] = false,
 ["14,15"] = {
@@ -3044,26 +3059,26 @@ TomTomWaypointsM = {
 ["y"] = 2.488786935806274,
 ["x"] = 1.187817215919495,
 },
-["21,15"] = {
-["y"] = 2.947587966918945,
-["x"] = 1.756133913993835,
+["13,15"] = {
+["y"] = 0.6542587280273438,
+["x"] = 0.5423930287361145,
 },
 ["23,15"] = {
 ["y"] = 3.829115390777588,
 ["x"] = 0.4063909351825714,
 },
 },
+["quest"] = 28955,
 },
 {
-["quest"] = 28956,
 ["side"] = 1,
 [15] = {
 20.9,
 56.2,
 },
+["quest"] = 28956,
 },
 {
-["quest"] = 28957,
 ["side"] = 2,
 [15] = {
 18.3,
@@ -3105,12 +3120,12 @@ TomTomWaypointsM = {
 ["95,15"] = false,
 ["63,15"] = false,
 ["85,15"] = false,
-["199,15"] = false,
-["81,15"] = false,
 ["71,15"] = false,
-["13,15"] = {
-["y"] = 0.6595335006713867,
-["x"] = 0.5065147876739502,
+["81,15"] = false,
+["199,15"] = false,
+["21,15"] = {
+["y"] = 2.998733758926392,
+["x"] = 1.40810489654541,
 },
 ["110,15"] = false,
 ["14,15"] = {
@@ -3123,15 +3138,16 @@ TomTomWaypointsM = {
 ["y"] = 2.53296422958374,
 ["x"] = 0.8872061371803284,
 },
-["21,15"] = {
-["y"] = 2.998733758926392,
-["x"] = 1.40810489654541,
+["13,15"] = {
+["y"] = 0.6595335006713867,
+["x"] = 0.5065147876739502,
 },
 ["23,15"] = {
 ["y"] = 3.882402420043945,
 ["x"] = 0.04379336163401604,
 },
 },
+["quest"] = 28957,
 },
 {
 [25] = {
@@ -3209,15 +3225,14 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 28964,
 ["side"] = 1,
 [50] = {
 53.1,
 66.9,
 },
+["quest"] = 28964,
 },
 {
-["quest"] = 28965,
 ["side"] = 3,
 [32] = {
 39.4,
@@ -3263,10 +3278,13 @@ TomTomWaypointsM = {
 ["y"] = 3.625140905380249,
 ["x"] = 0.9372857213020325,
 },
-["10,32"] = false,
-["66,32"] = false,
-["94,32"] = false,
 ["78,32"] = false,
+["70,32"] = false,
+["22,32"] = {
+["y"] = 3.645311832427979,
+["x"] = 0.3764416873455048,
+},
+["10,32"] = false,
 ["88,32"] = false,
 ["12,32"] = false,
 ["76,32"] = false,
@@ -3275,15 +3293,12 @@ TomTomWaypointsM = {
 ["y"] = 2.993665218353272,
 ["x"] = 0.02155578881502152,
 },
-["70,32"] = false,
+["66,32"] = false,
 ["36,32"] = {
 ["y"] = 0.04658010229468346,
 ["x"] = 0.2339554876089096,
 },
-["22,32"] = {
-["y"] = 3.645311832427979,
-["x"] = 0.3764416873455048,
-},
+["94,32"] = false,
 ["95,32"] = false,
 ["26,32"] = {
 ["y"] = 3.331128358840942,
@@ -3306,6 +3321,7 @@ TomTomWaypointsM = {
 ["x"] = -0.3505203723907471,
 },
 },
+["quest"] = 28965,
 },
 {
 [21] = {
@@ -3316,17 +3332,20 @@ TomTomWaypointsM = {
 ["198,21"] = false,
 ["65,21"] = false,
 ["81,21"] = false,
-["76,21"] = false,
+["71,21"] = false,
 ["70,21"] = false,
 ["1,21"] = false,
-["71,21"] = false,
+["76,21"] = false,
 ["2070,21"] = false,
-["78,21"] = false,
+["10,21"] = false,
 ["199,21"] = false,
-["69,21"] = false,
+["23,21"] = {
+["y"] = 0.9706788659095764,
+["x"] = -0.9617112278938293,
+},
 ["12,21"] = false,
 ["88,21"] = false,
-["10,21"] = false,
+["78,21"] = false,
 ["14,21"] = {
 ["y"] = -0.5335363149642944,
 ["x"] = -0.7812504768371582,
@@ -3347,10 +3366,7 @@ TomTomWaypointsM = {
 ["y"] = 0.7922776937484741,
 ["x"] = -0.2727285027503967,
 },
-["23,21"] = {
-["y"] = 0.9706788659095764,
-["x"] = -0.9617112278938293,
-},
+["69,21"] = false,
 ["13,21"] = {
 ["y"] = 0.3713071346282959,
 ["x"] = 0.4070222973823547,
@@ -3443,11 +3459,11 @@ TomTomWaypointsM = {
 ["81,51"] = false,
 ["70,51"] = false,
 ["66,51"] = false,
-["69,51"] = false,
+["95,51"] = false,
 ["122,51"] = false,
 ["2070,51"] = false,
 ["85,51"] = false,
-["95,51"] = false,
+["69,51"] = false,
 ["65,51"] = false,
 },
 ["quest"] = 28967,
@@ -3527,9 +3543,9 @@ TomTomWaypointsM = {
 ["y"] = 5.666352272033691,
 ["x"] = 0.5112001895904541,
 },
-["241,210"] = {
-["y"] = 3.151482820510864,
-["x"] = -0.5996859073638916,
+["37,210"] = {
+["y"] = 2.286685228347778,
+["x"] = 0.2339710891246796,
 },
 ["65,210"] = false,
 ["2070,210"] = false,
@@ -3548,13 +3564,13 @@ TomTomWaypointsM = {
 },
 ["85,210"] = false,
 ["95,210"] = false,
+["241,210"] = {
+["y"] = 3.151482820510864,
+["x"] = -0.5996859073638916,
+},
 ["49,210"] = {
 ["y"] = 2.754892110824585,
 ["x"] = -0.8574263453483582,
-},
-["37,210"] = {
-["y"] = 2.286685228347778,
-["x"] = 0.2339710891246796,
 },
 ["36,210"] = {
 ["y"] = 2.974746942520142,
@@ -3569,15 +3585,14 @@ TomTomWaypointsM = {
 ["quest"] = 28969,
 },
 {
-["quest"] = 28970,
 ["side"] = 1,
 [26] = {
 66.2,
 44.4,
 },
+["quest"] = 28970,
 },
 {
-["quest"] = 28971,
 ["side"] = 2,
 [26] = {
 31.9,
@@ -3634,6 +3649,7 @@ TomTomWaypointsM = {
 ["x"] = 0.4820325374603272,
 },
 },
+["quest"] = 28971,
 },
 {
 [18] = {
@@ -3823,13 +3839,16 @@ TomTomWaypointsM = {
 },
 ["70,201"] = false,
 ["69,201"] = false,
-["63,201"] = false,
+["198,201"] = false,
 ["83,201"] = false,
 ["25,201"] = {
 ["y"] = 2.043695688247681,
 ["x"] = -0.2970308363437653,
 },
-["198,201"] = false,
+["37,201"] = {
+["y"] = -1.207905888557434,
+["x"] = -0.5067628026008606,
+},
 ["71,201"] = false,
 ["21,201"] = {
 ["y"] = 2.43228816986084,
@@ -3875,10 +3894,7 @@ TomTomWaypointsM = {
 ["y"] = -2.625221014022827,
 ["x"] = -2.143085241317749,
 },
-["37,201"] = {
-["y"] = -1.207905888557434,
-["x"] = -0.5067628026008606,
-},
+["63,201"] = false,
 ["22,201"] = {
 ["y"] = 2.968742847442627,
 ["x"] = -0.6692200303077698,
@@ -3892,7 +3908,6 @@ TomTomWaypointsM = {
 ["quest"] = 28981,
 },
 {
-["quest"] = 28982,
 ["side"] = 3,
 [205] = {
 49.2,
@@ -4001,17 +4016,17 @@ TomTomWaypointsM = {
 ["x"] = -1.524689555168152,
 },
 },
+["quest"] = 28982,
 },
 {
-["quest"] = 28983,
 ["side"] = 1,
 [205] = {
 49.7,
 57.4,
 },
+["quest"] = 28983,
 },
 {
-["quest"] = 28984,
 ["side"] = 2,
 [205] = {
 51.5,
@@ -4120,6 +4135,7 @@ TomTomWaypointsM = {
 ["x"] = -1.495715022087097,
 },
 },
+["quest"] = 28984,
 },
 {
 [204] = {
@@ -4196,7 +4212,10 @@ TomTomWaypointsM = {
 ["71,204"] = false,
 ["83,204"] = false,
 ["65,204"] = false,
-["81,204"] = false,
+["37,204"] = {
+["y"] = -0.5992470383644104,
+["x"] = -1.327469825744629,
+},
 ["17,204"] = {
 ["y"] = -1.650795459747315,
 ["x"] = -2.003167867660523,
@@ -4217,10 +4236,7 @@ TomTomWaypointsM = {
 ["y"] = 0.6530054807662964,
 ["x"] = 0.2952568531036377,
 },
-["37,204"] = {
-["y"] = -0.5992470383644104,
-["x"] = -1.327469825744629,
-},
+["81,204"] = false,
 ["84,204"] = {
 ["y"] = -1.24600088596344,
 ["x"] = -2.543843269348145,
@@ -4257,17 +4273,14 @@ TomTomWaypointsM = {
 ["x"] = 0.4866796135902405,
 },
 ["65,22"] = false,
+["94,22"] = false,
 ["85,22"] = false,
-["26,22"] = {
-["y"] = -0.02880434691905975,
-["x"] = 0.02102143876254559,
-},
 ["69,22"] = false,
-["88,22"] = false,
+["66,22"] = false,
 ["78,22"] = false,
 ["71,22"] = false,
 ["122,22"] = false,
-["66,22"] = false,
+["88,22"] = false,
 ["947,22"] = {
 ["y"] = 0.4391629993915558,
 ["x"] = 0.8753961324691772,
@@ -4278,17 +4291,20 @@ TomTomWaypointsM = {
 ["198,22"] = false,
 ["110,22"] = false,
 ["70,22"] = false,
-["2070,22"] = false,
-["22,22"] = {
-["y"] = 0.6370000839233398,
-["x"] = 0.4820004403591156,
-},
 ["23,22"] = {
 ["y"] = 0.8050491809844971,
 ["x"] = -0.1566675901412964,
 },
+["22,22"] = {
+["y"] = 0.6370000839233398,
+["x"] = 0.4820004403591156,
+},
+["2070,22"] = false,
 ["76,22"] = false,
-["94,22"] = false,
+["26,22"] = {
+["y"] = -0.02880434691905975,
+["x"] = 0.02102143876254559,
+},
 ["95,22"] = false,
 ["83,22"] = false,
 ["18,22"] = {
@@ -4308,20 +4324,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 28990,
 ["side"] = 1,
 [56] = {
 26.1,
 25.9,
 },
+["quest"] = 28990,
 },
 {
-["quest"] = 28991,
 ["side"] = 1,
 [56] = {
 58.1,
 39.2,
 },
+["quest"] = 28991,
 },
 {
 [57] = {
@@ -4356,20 +4372,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 12348,
 ["side"] = 1,
 [66] = {
 66.3,
 6.7,
 },
+["quest"] = 12348,
 },
 {
-["quest"] = 12350,
 ["side"] = 1,
 [69] = {
 46.3,
 45.2,
 },
+["quest"] = 12350,
 },
 {
 {
@@ -4411,17 +4427,17 @@ TomTomWaypointsM = {
 ["y"] = 1.371426463127136,
 ["x"] = 0.2389901131391525,
 },
-["71,1"] = {
-["y"] = -1.270541548728943,
-["x"] = 0.6417124271392822,
+["70,1"] = {
+["y"] = -0.6776384711265564,
+["x"] = 0.7077808976173401,
 },
 ["12,1"] = {
 ["y"] = 0.4879441261291504,
 ["x"] = 0.591238260269165,
 },
-["70,1"] = {
-["y"] = -0.6776384711265564,
-["x"] = 0.7077808976173401,
+["71,1"] = {
+["y"] = -1.270541548728943,
+["x"] = 0.6417124271392822,
 },
 ["199,1"] = {
 ["y"] = -0.02716431394219399,
@@ -4456,7 +4472,6 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
-["quest"] = 12362,
 ["side"] = 2,
 [7] = {
 46.8,
@@ -4486,6 +4501,7 @@ TomTomWaypointsM = {
 ["x"] = -0.3056398034095764,
 },
 },
+["quest"] = 12362,
 },
 {
 [85] = {
@@ -4696,7 +4712,6 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
-["quest"] = 12381,
 ["side"] = 2,
 [66] = {
 24.1,
@@ -4713,9 +4728,9 @@ TomTomWaypointsM = {
 ["y"] = 0.8889821171760559,
 ["x"] = -0.5130245685577393,
 },
-["70,66"] = {
-["y"] = -0.1250966191291809,
-["x"] = -0.7856830954551697,
+["81,66"] = {
+["y"] = -1.580573678016663,
+["x"] = -0.04102825000882149,
 },
 ["199,66"] = {
 ["y"] = 0.3641806542873383,
@@ -4729,9 +4744,9 @@ TomTomWaypointsM = {
 ["y"] = -0.8083570003509521,
 ["x"] = -0.8143567442893982,
 },
-["69,66"] = {
-["y"] = -0.1664414256811142,
-["x"] = 0.3297602832317352,
+["70,66"] = {
+["y"] = -0.1250966191291809,
+["x"] = -0.7856830954551697,
 },
 ["66,66"] = {
 ["y"] = 0.6830001473426819,
@@ -4741,9 +4756,9 @@ TomTomWaypointsM = {
 ["y"] = 1.071367025375366,
 ["x"] = -2.52279806137085,
 },
-["81,66"] = {
-["y"] = -1.580573678016663,
-["x"] = -0.04102825000882149,
+["69,66"] = {
+["y"] = -0.1664414256811142,
+["x"] = 0.3297602832317352,
 },
 ["71,66"] = {
 ["y"] = -0.8683478236198425,
@@ -4758,9 +4773,9 @@ TomTomWaypointsM = {
 ["x"] = -3.826770782470703,
 },
 },
+["quest"] = 12381,
 },
 {
-["quest"] = 12386,
 ["side"] = 2,
 [69] = {
 74.8,
@@ -4818,6 +4833,7 @@ TomTomWaypointsM = {
 ["x"] = 0.7479997873306274,
 },
 },
+["quest"] = 12386,
 },
 {
 [10] = {
@@ -4964,7 +4980,6 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
-["quest"] = 12401,
 ["side"] = 3,
 [81] = {
 55.5,
@@ -5018,22 +5033,23 @@ TomTomWaypointsM = {
 ["x"] = -0.264611542224884,
 },
 },
+["quest"] = 12401,
 },
 {
-["quest"] = 28951,
 ["side"] = 1,
 [62] = {
 50.8,
 18.8,
 },
+["quest"] = 28951,
 },
 {
-["quest"] = 28952,
 ["side"] = 1,
 [69] = {
 51.1,
 17.8,
 },
+["quest"] = 28952,
 },
 {
 [63] = {
@@ -5143,13 +5159,13 @@ TomTomWaypointsM = {
 ["y"] = 0.4818715751171112,
 ["x"] = 0.1670979857444763,
 },
-["12,63"] = {
-["y"] = 0.3776949644088745,
-["x"] = 0.4780606031417847,
-},
 ["71,63"] = {
 ["y"] = -1.833053350448608,
 ["x"] = 0.06425459682941437,
+},
+["12,63"] = {
+["y"] = 0.3776949644088745,
+["x"] = 0.4780606031417847,
 },
 ["70,63"] = {
 ["y"] = -1.450428247451782,
@@ -5215,13 +5231,13 @@ TomTomWaypointsM = {
 ["y"] = 0.4757192134857178,
 ["x"] = 0.1480790972709656,
 },
-["12,63"] = {
-["y"] = 0.364690899848938,
-["x"] = 0.4379444122314453,
-},
 ["71,63"] = {
 ["y"] = -1.899402499198914,
 ["x"] = -0.1404272168874741,
+},
+["12,63"] = {
+["y"] = 0.364690899848938,
+["x"] = 0.4379444122314453,
 },
 ["70,63"] = {
 ["y"] = -1.541580080986023,
@@ -5279,9 +5295,9 @@ TomTomWaypointsM = {
 ["y"] = -3.476499080657959,
 ["x"] = 2.342115163803101,
 },
-["947,76"] = {
-["y"] = 0.4723799824714661,
-["x"] = 0.2443425357341766,
+["78,76"] = {
+["y"] = -3.852184295654297,
+["x"] = 1.906777024269104,
 },
 ["83,76"] = {
 ["y"] = 1.282535314559937,
@@ -5295,9 +5311,9 @@ TomTomWaypointsM = {
 ["y"] = -1.591053247451782,
 ["x"] = 1.056522607803345,
 },
-["85,76"] = {
-["y"] = -0.9043658971786499,
-["x"] = 1.733605742454529,
+["76,76"] = {
+["y"] = 0.5019999146461487,
+["x"] = 0.5709998607635498,
 },
 ["66,76"] = {
 ["y"] = -1.028473138809204,
@@ -5315,13 +5331,13 @@ TomTomWaypointsM = {
 ["y"] = -6.302322387695313,
 ["x"] = 6.743386268615723,
 },
-["78,76"] = {
-["y"] = -3.852184295654297,
-["x"] = 1.906777024269104,
+["947,76"] = {
+["y"] = 0.4723799824714661,
+["x"] = 0.2443425357341766,
 },
-["76,76"] = {
-["y"] = 0.5019999146461487,
-["x"] = 0.5709998607635498,
+["85,76"] = {
+["y"] = -0.9043658971786499,
+["x"] = 1.733605742454529,
 },
 ["69,76"] = {
 ["y"] = -1.2738196849823,
@@ -5332,7 +5348,6 @@ TomTomWaypointsM = {
 ["quest"] = 28992,
 },
 {
-["quest"] = 28993,
 ["side"] = 3,
 [66] = {
 56.8,
@@ -5349,9 +5364,9 @@ TomTomWaypointsM = {
 ["y"] = 0.7457867860794067,
 ["x"] = -0.2571631371974945,
 },
-["70,66"] = {
-["y"] = -0.2818443477153778,
-["x"] = -0.5056569576263428,
+["81,66"] = {
+["y"] = -1.78329598903656,
+["x"] = 0.3212235569953919,
 },
 ["199,66"] = {
 ["y"] = 0.2531620264053345,
@@ -5365,9 +5380,9 @@ TomTomWaypointsM = {
 ["y"] = -0.9953858256340027,
 ["x"] = -0.4802346229553223,
 },
-["69,66"] = {
-["y"] = -0.2848480939865112,
-["x"] = 0.5412907600402832,
+["70,66"] = {
+["y"] = -0.2818443477153778,
+["x"] = -0.5056569576263428,
 },
 ["66,66"] = {
 ["y"] = 0.5000004768371582,
@@ -5377,9 +5392,9 @@ TomTomWaypointsM = {
 ["y"] = 0.2829337120056152,
 ["x"] = -1.114283680915833,
 },
-["81,66"] = {
-["y"] = -1.78329598903656,
-["x"] = 0.3212235569953919,
+["69,66"] = {
+["y"] = -0.2848480939865112,
+["x"] = 0.5412907600402832,
 },
 ["71,66"] = {
 ["y"] = -0.9824441075325012,
@@ -5394,6 +5409,7 @@ TomTomWaypointsM = {
 ["x"] = -2.981560945510864,
 },
 },
+["quest"] = 28993,
 },
 {
 [77] = {
@@ -5476,7 +5492,6 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 28996,
 ["side"] = 2,
 [69] = {
 41.4,
@@ -5534,9 +5549,9 @@ TomTomWaypointsM = {
 ["x"] = 0.414000004529953,
 },
 },
+["quest"] = 28996,
 },
 {
-["quest"] = 28998,
 ["side"] = 2,
 [69] = {
 52,
@@ -5594,6 +5609,7 @@ TomTomWaypointsM = {
 ["x"] = 0.5199999213218689,
 },
 },
+["quest"] = 28998,
 },
 {
 [10] = {
@@ -5652,7 +5668,6 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
-["quest"] = 29004,
 ["side"] = 2,
 [199] = {
 39.3,
@@ -5678,9 +5693,9 @@ TomTomWaypointsM = {
 ["x"] = 0.5060751438140869,
 },
 },
+["quest"] = 29004,
 },
 {
-["quest"] = 29005,
 ["side"] = 2,
 [199] = {
 40.7,
@@ -5710,30 +5725,31 @@ TomTomWaypointsM = {
 ["x"] = 2.086037397384644,
 },
 },
+["quest"] = 29005,
 },
 {
-["quest"] = 29006,
 ["side"] = 1,
 [199] = {
 39,
 11,
 },
+["quest"] = 29006,
 },
 {
-["quest"] = 29007,
 ["side"] = 1,
 [199] = {
 65.6,
 46.6,
 },
+["quest"] = 29007,
 },
 {
-["quest"] = 29008,
 ["side"] = 1,
 [199] = {
 49.1,
 68.5,
 },
+["quest"] = 29008,
 },
 {
 [65] = {
@@ -5880,7 +5896,6 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
-["quest"] = 29018,
 ["side"] = 3,
 [78] = {
 55.2,
@@ -5917,15 +5932,16 @@ TomTomWaypointsM = {
 ["y"] = 1.561467289924622,
 ["x"] = 0.1017275080084801,
 },
-["12,78"] = {
-["y"] = 0.8073835372924805,
-["x"] = 0.5047763586044312,
-},
 ["947,78"] = {
 ["y"] = 0.6851623058319092,
 ["x"] = 0.1797637939453125,
 },
+["12,78"] = {
+["y"] = 0.8073835372924805,
+["x"] = 0.5047763586044312,
 },
+},
+["quest"] = 29018,
 },
 {
 [97] = {
@@ -5968,28 +5984,28 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 12354,
 ["side"] = 1,
 [102] = {
 67.2,
 49,
 },
+["quest"] = 12354,
 },
 {
-["quest"] = 12355,
 ["side"] = 1,
 [102] = {
 41.9,
 26.2,
 },
+["quest"] = 12355,
 },
 {
-["quest"] = 12356,
 ["side"] = 1,
 [108] = {
 56.6,
 53.2,
 },
+["quest"] = 12356,
 },
 {
 [107] = {
@@ -6000,20 +6016,20 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 12358,
 ["side"] = 1,
 [105] = {
 35.8,
 63.8,
 },
+["quest"] = 12358,
 },
 {
-["quest"] = 12359,
 ["side"] = 1,
 [105] = {
 61,
 68.1,
 },
+["quest"] = 12359,
 },
 {
 [104] = {
@@ -6028,21 +6044,18 @@ TomTomWaypointsM = {
 43.7,
 71.1,
 ["18,94"] = false,
-["78,94"] = false,
-["64,94"] = false,
-["23,94"] = false,
 ["69,94"] = false,
+["10,94"] = false,
+["23,94"] = false,
+["78,94"] = false,
 ["199,94"] = false,
 ["13,94"] = {
 ["y"] = 0.1793437749147415,
 ["x"] = 0.5500994920730591,
 },
 ["63,94"] = false,
-["10,94"] = false,
-["110,94"] = {
-["y"] = 1.792933821678162,
-["x"] = 0.1972622573375702,
-},
+["64,94"] = false,
+["76,94"] = false,
 ["12,94"] = false,
 ["85,94"] = false,
 ["95,94"] = {
@@ -6050,15 +6063,15 @@ TomTomWaypointsM = {
 ["x"] = 0.411029189825058,
 },
 ["83,94"] = false,
-["198,94"] = false,
-["71,94"] = false,
 ["81,94"] = false,
-["1,94"] = false,
-["70,94"] = false,
+["71,94"] = false,
+["198,94"] = false,
 ["947,94"] = {
 ["y"] = 0.3452370166778565,
 ["x"] = 0.9093251824378967,
 },
+["70,94"] = false,
+["1,94"] = false,
 ["2070,94"] = false,
 ["66,94"] = false,
 ["65,94"] = false,
@@ -6067,8 +6080,11 @@ TomTomWaypointsM = {
 ["y"] = 2.191110849380493,
 ["x"] = 0.4020468592643738,
 },
+["110,94"] = {
+["y"] = 1.792933821678162,
+["x"] = 0.1972622573375702,
+},
 ["22,94"] = false,
-["76,94"] = false,
 },
 ["side"] = 2,
 ["quest"] = 12365,
@@ -6090,18 +6106,18 @@ TomTomWaypointsM = {
 ["y"] = 0.3677904009819031,
 ["x"] = 0.9125739336013794,
 },
-["23,95"] = false,
+["12,95"] = false,
 ["70,95"] = false,
 ["13,95"] = {
 ["y"] = 0.221500962972641,
 ["x"] = 0.5561720728874207,
 },
 ["198,95"] = false,
-["1,95"] = false,
-["12,95"] = false,
+["10,95"] = false,
+["23,95"] = false,
 ["22,95"] = false,
 ["199,95"] = false,
-["10,95"] = false,
+["64,95"] = false,
 ["63,95"] = false,
 ["71,95"] = false,
 ["2070,95"] = false,
@@ -6109,7 +6125,7 @@ TomTomWaypointsM = {
 ["81,95"] = false,
 ["65,95"] = false,
 ["83,95"] = false,
-["64,95"] = false,
+["1,95"] = false,
 ["95,95"] = {
 ["y"] = 0.3199998438358307,
 ["x"] = 0.486000120639801,
@@ -6152,7 +6168,6 @@ TomTomWaypointsM = {
 ["quest"] = 12389,
 },
 {
-["quest"] = 12390,
 ["side"] = 2,
 [102] = {
 30.7,
@@ -6162,9 +6177,9 @@ TomTomWaypointsM = {
 ["x"] = 0.2899665832519531,
 },
 },
+["quest"] = 12390,
 },
 {
-["quest"] = 12391,
 ["side"] = 2,
 [108] = {
 48.8,
@@ -6174,6 +6189,7 @@ TomTomWaypointsM = {
 ["x"] = 0.4894306659698486,
 },
 },
+["quest"] = 12391,
 },
 {
 [107] = {
@@ -6192,7 +6208,6 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
-["quest"] = 12393,
 ["side"] = 2,
 [105] = {
 53.4,
@@ -6202,9 +6217,9 @@ TomTomWaypointsM = {
 ["x"] = 0.4034995436668396,
 },
 },
+["quest"] = 12393,
 },
 {
-["quest"] = 12394,
 ["side"] = 2,
 [105] = {
 76.2,
@@ -6218,6 +6233,7 @@ TomTomWaypointsM = {
 ["x"] = 0.7619998455047607,
 },
 },
+["quest"] = 12394,
 },
 {
 [104] = {
@@ -6232,7 +6248,6 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
-["quest"] = 12403,
 ["side"] = 3,
 [102] = {
 78.5,
@@ -6242,9 +6257,9 @@ TomTomWaypointsM = {
 ["x"] = 0.4275561571121216,
 },
 },
+["quest"] = 12403,
 },
 {
-["quest"] = 12406,
 ["side"] = 3,
 [105] = {
 62.9,
@@ -6258,6 +6273,7 @@ TomTomWaypointsM = {
 ["x"] = 0.6289998888969421,
 },
 },
+["quest"] = 12406,
 },
 {
 [109] = {
@@ -6515,19 +6531,19 @@ TomTomWaypointsM = {
 ["14,116"] = false,
 ["22,116"] = false,
 ["12,116"] = false,
-["94,116"] = false,
-["110,116"] = false,
-["210,116"] = false,
 ["66,116"] = false,
-["76,116"] = false,
+["110,116"] = false,
+["78,116"] = false,
 ["1,116"] = false,
+["76,116"] = false,
+["94,116"] = false,
+["122,116"] = false,
 ["947,116"] = {
 ["y"] = 0.182095929980278,
 ["x"] = 0.5352049469947815,
 },
-["122,116"] = false,
 ["36,116"] = false,
-["198,116"] = false,
+["125,116"] = false,
 ["64,116"] = false,
 ["88,116"] = false,
 ["241,116"] = false,
@@ -6542,9 +6558,9 @@ TomTomWaypointsM = {
 ["y"] = 7.252313613891602,
 ["x"] = 5.545824527740479,
 },
-["125,116"] = false,
+["198,116"] = false,
 ["224,116"] = false,
-["78,116"] = false,
+["210,116"] = false,
 ["120,116"] = {
 ["y"] = 1.464833855628967,
 ["x"] = 0.5693272948265076,
@@ -6589,19 +6605,19 @@ TomTomWaypointsM = {
 ["14,116"] = false,
 ["22,116"] = false,
 ["12,116"] = false,
-["94,116"] = false,
-["110,116"] = false,
-["210,116"] = false,
 ["66,116"] = false,
-["76,116"] = false,
+["110,116"] = false,
+["78,116"] = false,
 ["1,116"] = false,
+["76,116"] = false,
+["94,116"] = false,
+["122,116"] = false,
 ["947,116"] = {
 ["y"] = 0.169719323515892,
 ["x"] = 0.5677551627159119,
 },
-["122,116"] = false,
 ["36,116"] = false,
-["198,116"] = false,
+["125,116"] = false,
 ["64,116"] = false,
 ["88,116"] = false,
 ["241,116"] = false,
@@ -6616,9 +6632,9 @@ TomTomWaypointsM = {
 ["y"] = 5.602469444274902,
 ["x"] = 9.693818092346191,
 },
-["125,116"] = false,
+["198,116"] = false,
 ["224,116"] = false,
-["78,116"] = false,
+["210,116"] = false,
 ["120,116"] = {
 ["y"] = 1.334183216094971,
 ["x"] = 0.8977981209754944,
@@ -6671,14 +6687,17 @@ TomTomWaypointsM = {
 },
 ["25,119"] = false,
 ["15,119"] = false,
-["69,119"] = false,
-["83,119"] = false,
+["81,119"] = false,
+["95,119"] = false,
 ["65,119"] = false,
 ["2070,119"] = false,
 ["199,119"] = false,
-["81,119"] = false,
+["63,119"] = false,
 ["71,119"] = false,
-["95,119"] = false,
+["127,119"] = {
+["y"] = 0.5146360397338867,
+["x"] = -1.587377667427063,
+},
 ["85,119"] = false,
 ["12,119"] = false,
 ["22,119"] = false,
@@ -6690,11 +6709,8 @@ TomTomWaypointsM = {
 ["51,119"] = false,
 ["49,119"] = false,
 ["37,119"] = false,
-["127,119"] = {
-["y"] = 0.5146360397338867,
-["x"] = -1.587377667427063,
-},
-["63,119"] = false,
+["83,119"] = false,
+["69,119"] = false,
 ["126,119"] = {
 ["y"] = 1.084205508232117,
 ["x"] = -8.611462593078613,
@@ -6710,44 +6726,44 @@ TomTomWaypointsM = {
 ["side"] = 3,
 },
 {
-["quest"] = 13433,
 ["side"] = 1,
 [117] = {
 58.4,
 62.8,
 },
+["quest"] = 13433,
 },
 {
-["quest"] = 13434,
 ["side"] = 1,
 [117] = {
 30.8,
 41.5,
 },
+["quest"] = 13434,
 },
 {
-["quest"] = 13435,
 ["side"] = 1,
 [117] = {
 60.5,
 15.9,
 },
+["quest"] = 13435,
 },
 {
-["quest"] = 13436,
 ["side"] = 1,
 [114] = {
 58.5,
 67.9,
 },
+["quest"] = 13436,
 },
 {
-["quest"] = 13437,
 ["side"] = 1,
 [114] = {
 57.1,
 18.8,
 },
+["quest"] = 13437,
 },
 {
 [115] = {
@@ -6766,15 +6782,14 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 13448,
 ["side"] = 1,
 [120] = {
 28.7,
 74.3,
 },
+["quest"] = 13448,
 },
 {
-["quest"] = 13452,
 ["side"] = 3,
 [117] = {
 25.4,
@@ -6807,21 +6822,21 @@ TomTomWaypointsM = {
 ["y"] = 2.00181770324707,
 ["x"] = 0.6713858246803284,
 },
-["85,117"] = false,
+["125,117"] = false,
 ["95,117"] = false,
-["63,117"] = false,
+["81,117"] = false,
 ["83,117"] = false,
 ["71,117"] = false,
-["81,117"] = false,
+["63,117"] = false,
 ["49,117"] = false,
 ["2070,117"] = false,
-["126,117"] = {
-["y"] = 14.03329849243164,
-["x"] = 6.834639072418213,
-},
 ["113,117"] = {
 ["y"] = 0.8280194997787476,
 ["x"] = 0.6739035844802856,
+},
+["126,117"] = {
+["y"] = 14.03329849243164,
+["x"] = 6.834639072418213,
 },
 ["947,117"] = {
 ["y"] = 0.2329647243022919,
@@ -6842,7 +6857,7 @@ TomTomWaypointsM = {
 ["36,117"] = false,
 ["66,117"] = false,
 ["94,117"] = false,
-["125,117"] = false,
+["85,117"] = false,
 ["18,117"] = false,
 ["26,117"] = false,
 ["117,117"] = {
@@ -6850,6 +6865,7 @@ TomTomWaypointsM = {
 ["x"] = 0.2540002465248108,
 },
 },
+["quest"] = 13452,
 },
 {
 [115] = {
@@ -6975,8 +6991,8 @@ TomTomWaypointsM = {
 ["10,115"] = false,
 ["110,115"] = false,
 ["1,115"] = false,
-["95,115"] = false,
 ["49,115"] = false,
+["95,115"] = false,
 ["63,115"] = false,
 ["25,115"] = false,
 ["50,115"] = false,
@@ -7012,7 +7028,6 @@ TomTomWaypointsM = {
 ["quest"] = 13459,
 },
 {
-["quest"] = 13460,
 ["side"] = 3,
 [114] = {
 78.4,
@@ -7049,25 +7064,25 @@ TomTomWaypointsM = {
 ["17,114"] = false,
 ["241,114"] = false,
 ["125,114"] = false,
+["95,114"] = false,
+["85,114"] = false,
+["122,114"] = false,
+["14,114"] = false,
+["2070,114"] = false,
+["26,114"] = false,
 ["126,114"] = {
 ["y"] = 7.905794620513916,
 ["x"] = -5.567111015319824,
 },
 ["63,114"] = false,
-["122,114"] = false,
-["22,114"] = false,
-["2070,114"] = false,
-["26,114"] = false,
-["95,114"] = false,
-["85,114"] = false,
 ["18,114"] = false,
-["65,114"] = false,
+["83,114"] = false,
 ["81,114"] = false,
 ["71,114"] = false,
 ["110,114"] = false,
 ["51,114"] = false,
 ["10,114"] = false,
-["14,114"] = false,
+["22,114"] = false,
 ["12,114"] = false,
 ["127,114"] = {
 ["y"] = 1.926222443580627,
@@ -7075,11 +7090,11 @@ TomTomWaypointsM = {
 },
 ["69,114"] = false,
 ["37,114"] = false,
-["49,114"] = false,
-["36,114"] = false,
-["83,114"] = false,
-["224,114"] = false,
 ["210,114"] = false,
+["36,114"] = false,
+["65,114"] = false,
+["224,114"] = false,
+["49,114"] = false,
 ["21,114"] = false,
 ["15,114"] = false,
 ["76,114"] = false,
@@ -7092,9 +7107,9 @@ TomTomWaypointsM = {
 ["x"] = -0.9013350009918213,
 },
 },
+["quest"] = 13460,
 },
 {
-["quest"] = 13461,
 ["side"] = 3,
 [120] = {
 41.1,
@@ -7158,9 +7173,9 @@ TomTomWaypointsM = {
 ["x"] = 0.9274299144744873,
 },
 },
+["quest"] = 13461,
 },
 {
-["quest"] = 13462,
 ["side"] = 3,
 [120] = {
 30.9,
@@ -7228,9 +7243,9 @@ TomTomWaypointsM = {
 ["x"] = 0.6609972715377808,
 },
 },
+["quest"] = 13462,
 },
 {
-["quest"] = 13464,
 ["side"] = 2,
 [117] = {
 49.5,
@@ -7263,21 +7278,21 @@ TomTomWaypointsM = {
 ["y"] = 1.585229754447937,
 ["x"] = 0.8762426972389221,
 },
-["85,117"] = false,
+["125,117"] = false,
 ["95,117"] = false,
-["63,117"] = false,
+["81,117"] = false,
 ["83,117"] = false,
 ["71,117"] = false,
-["81,117"] = false,
+["63,117"] = false,
 ["49,117"] = false,
 ["2070,117"] = false,
-["126,117"] = {
-["y"] = 8.772662162780762,
-["x"] = 9.421611785888672,
-},
 ["113,117"] = {
 ["y"] = 0.6707544326782227,
 ["x"] = 0.7512431144714355,
+},
+["126,117"] = {
+["y"] = 8.772662162780762,
+["x"] = 9.421611785888672,
 },
 ["947,117"] = {
 ["y"] = 0.1935010999441147,
@@ -7298,7 +7313,7 @@ TomTomWaypointsM = {
 ["36,117"] = false,
 ["66,117"] = false,
 ["94,117"] = false,
-["125,117"] = false,
+["85,117"] = false,
 ["18,117"] = false,
 ["26,117"] = false,
 ["117,117"] = {
@@ -7306,9 +7321,9 @@ TomTomWaypointsM = {
 ["x"] = 0.4950000941753388,
 },
 },
+["quest"] = 13464,
 },
 {
-["quest"] = 13465,
 ["side"] = 2,
 [117] = {
 52.1,
@@ -7341,21 +7356,21 @@ TomTomWaypointsM = {
 ["y"] = 2.056229114532471,
 ["x"] = 0.8983434438705444,
 },
-["85,117"] = false,
+["125,117"] = false,
 ["95,117"] = false,
-["63,117"] = false,
+["81,117"] = false,
 ["83,117"] = false,
 ["71,117"] = false,
-["81,117"] = false,
+["63,117"] = false,
 ["49,117"] = false,
 ["2070,117"] = false,
-["126,117"] = {
-["y"] = 14.7204008102417,
-["x"] = 9.700703620910645,
-},
 ["113,117"] = {
 ["y"] = 0.8485602140426636,
 ["x"] = 0.7595868110656738,
+},
+["126,117"] = {
+["y"] = 14.7204008102417,
+["x"] = 9.700703620910645,
 },
 ["947,117"] = {
 ["y"] = 0.2381191551685333,
@@ -7376,7 +7391,7 @@ TomTomWaypointsM = {
 ["36,117"] = false,
 ["66,117"] = false,
 ["94,117"] = false,
-["125,117"] = false,
+["85,117"] = false,
 ["18,117"] = false,
 ["26,117"] = false,
 ["117,117"] = {
@@ -7384,9 +7399,9 @@ TomTomWaypointsM = {
 ["x"] = 0.5210000872612,
 },
 },
+["quest"] = 13465,
 },
 {
-["quest"] = 13466,
 ["side"] = 2,
 [117] = {
 79.2,
@@ -7419,21 +7434,21 @@ TomTomWaypointsM = {
 ["y"] = 1.753565430641174,
 ["x"] = 1.128701210021973,
 },
-["85,117"] = false,
+["125,117"] = false,
 ["95,117"] = false,
-["63,117"] = false,
+["81,117"] = false,
 ["83,117"] = false,
 ["71,117"] = false,
-["81,117"] = false,
+["63,117"] = false,
 ["49,117"] = false,
 ["2070,117"] = false,
-["126,117"] = {
-["y"] = 10.89838981628418,
-["x"] = 12.60970687866211,
-},
 ["113,117"] = {
 ["y"] = 0.7343024015426636,
 ["x"] = 0.8465536832809448,
+},
+["126,117"] = {
+["y"] = 10.89838981628418,
+["x"] = 12.60970687866211,
 },
 ["947,117"] = {
 ["y"] = 0.2094476372003555,
@@ -7454,7 +7469,7 @@ TomTomWaypointsM = {
 ["36,117"] = false,
 ["66,117"] = false,
 ["94,117"] = false,
-["125,117"] = false,
+["85,117"] = false,
 ["18,117"] = false,
 ["26,117"] = false,
 ["117,117"] = {
@@ -7462,9 +7477,9 @@ TomTomWaypointsM = {
 ["x"] = 0.7919999957084656,
 },
 },
+["quest"] = 13466,
 },
 {
-["quest"] = 13467,
 ["side"] = 2,
 [114] = {
 76.7,
@@ -7501,25 +7516,25 @@ TomTomWaypointsM = {
 ["17,114"] = false,
 ["241,114"] = false,
 ["125,114"] = false,
+["95,114"] = false,
+["85,114"] = false,
+["122,114"] = false,
+["14,114"] = false,
+["2070,114"] = false,
+["26,114"] = false,
 ["126,114"] = {
 ["y"] = 6.697872638702393,
 ["x"] = -5.741103649139404,
 },
 ["63,114"] = false,
-["122,114"] = false,
-["22,114"] = false,
-["2070,114"] = false,
-["26,114"] = false,
-["95,114"] = false,
-["85,114"] = false,
 ["18,114"] = false,
-["65,114"] = false,
+["83,114"] = false,
 ["81,114"] = false,
 ["71,114"] = false,
 ["110,114"] = false,
 ["51,114"] = false,
 ["10,114"] = false,
-["14,114"] = false,
+["22,114"] = false,
 ["12,114"] = false,
 ["127,114"] = {
 ["y"] = 1.676267981529236,
@@ -7527,11 +7542,11 @@ TomTomWaypointsM = {
 },
 ["69,114"] = false,
 ["37,114"] = false,
-["49,114"] = false,
-["36,114"] = false,
-["83,114"] = false,
-["224,114"] = false,
 ["210,114"] = false,
+["36,114"] = false,
+["65,114"] = false,
+["224,114"] = false,
+["49,114"] = false,
 ["21,114"] = false,
 ["15,114"] = false,
 ["76,114"] = false,
@@ -7544,9 +7559,9 @@ TomTomWaypointsM = {
 ["x"] = -0.9175439476966858,
 },
 },
+["quest"] = 13467,
 },
 {
-["quest"] = 13468,
 ["side"] = 2,
 [114] = {
 41.8,
@@ -7583,25 +7598,25 @@ TomTomWaypointsM = {
 ["17,114"] = false,
 ["241,114"] = false,
 ["125,114"] = false,
+["95,114"] = false,
+["85,114"] = false,
+["122,114"] = false,
+["14,114"] = false,
+["2070,114"] = false,
+["26,114"] = false,
 ["126,114"] = {
 ["y"] = 8.438097953796387,
 ["x"] = -9.313111305236816,
 },
 ["63,114"] = false,
-["122,114"] = false,
-["22,114"] = false,
-["2070,114"] = false,
-["26,114"] = false,
-["95,114"] = false,
-["85,114"] = false,
 ["18,114"] = false,
-["65,114"] = false,
+["83,114"] = false,
 ["81,114"] = false,
 ["71,114"] = false,
 ["110,114"] = false,
 ["51,114"] = false,
 ["10,114"] = false,
-["14,114"] = false,
+["22,114"] = false,
 ["12,114"] = false,
 ["127,114"] = {
 ["y"] = 2.03637170791626,
@@ -7609,11 +7624,11 @@ TomTomWaypointsM = {
 },
 ["69,114"] = false,
 ["37,114"] = false,
-["49,114"] = false,
-["36,114"] = false,
-["83,114"] = false,
-["224,114"] = false,
 ["210,114"] = false,
+["36,114"] = false,
+["65,114"] = false,
+["224,114"] = false,
+["49,114"] = false,
 ["21,114"] = false,
 ["15,114"] = false,
 ["76,114"] = false,
@@ -7626,6 +7641,7 @@ TomTomWaypointsM = {
 ["x"] = -1.250308752059937,
 },
 },
+["quest"] = 13468,
 },
 {
 [115] = {
@@ -7673,8 +7689,8 @@ TomTomWaypointsM = {
 ["10,115"] = false,
 ["110,115"] = false,
 ["1,115"] = false,
-["95,115"] = false,
 ["49,115"] = false,
+["95,115"] = false,
 ["63,115"] = false,
 ["25,115"] = false,
 ["50,115"] = false,
@@ -7788,7 +7804,6 @@ TomTomWaypointsM = {
 ["quest"] = 13470,
 },
 {
-["quest"] = 13471,
 ["side"] = 2,
 [120] = {
 67.6,
@@ -7856,6 +7871,7 @@ TomTomWaypointsM = {
 ["x"] = 1.619632959365845,
 },
 },
+["quest"] = 13471,
 },
 {
 [125] = {
@@ -7921,7 +7937,6 @@ TomTomWaypointsM = {
 ["side"] = 2,
 },
 {
-["quest"] = 13501,
 ["side"] = 2,
 [114] = {
 49.7,
@@ -7958,25 +7973,25 @@ TomTomWaypointsM = {
 ["17,114"] = false,
 ["241,114"] = false,
 ["125,114"] = false,
+["95,114"] = false,
+["85,114"] = false,
+["122,114"] = false,
+["14,114"] = false,
+["2070,114"] = false,
+["26,114"] = false,
 ["126,114"] = {
 ["y"] = 3.89303469657898,
 ["x"] = -8.504548072814941,
 },
 ["63,114"] = false,
-["122,114"] = false,
-["22,114"] = false,
-["2070,114"] = false,
-["26,114"] = false,
-["95,114"] = false,
-["85,114"] = false,
 ["18,114"] = false,
-["65,114"] = false,
+["83,114"] = false,
 ["81,114"] = false,
 ["71,114"] = false,
 ["110,114"] = false,
 ["51,114"] = false,
 ["10,114"] = false,
-["14,114"] = false,
+["22,114"] = false,
 ["12,114"] = false,
 ["127,114"] = {
 ["y"] = 1.09586501121521,
@@ -7984,11 +7999,11 @@ TomTomWaypointsM = {
 },
 ["69,114"] = false,
 ["37,114"] = false,
-["49,114"] = false,
-["36,114"] = false,
-["83,114"] = false,
-["224,114"] = false,
 ["210,114"] = false,
+["36,114"] = false,
+["65,114"] = false,
+["224,114"] = false,
+["49,114"] = false,
 ["21,114"] = false,
 ["15,114"] = false,
 ["76,114"] = false,
@@ -8001,9 +8016,9 @@ TomTomWaypointsM = {
 ["x"] = -1.174983859062195,
 },
 },
+["quest"] = 13501,
 },
 {
-["quest"] = 13548,
 ["side"] = 2,
 [120] = {
 37.1,
@@ -8071,6 +8086,7 @@ TomTomWaypointsM = {
 ["x"] = 0.8229464292526245,
 },
 },
+["quest"] = 13548,
 },
 {
 [371] = {
@@ -8191,11 +8207,11 @@ TomTomWaypointsM = {
 ["198,422"] = false,
 ["113,422"] = false,
 ["10,422"] = false,
+["1,422"] = false,
 ["371,422"] = {
 ["y"] = 1.025489211082459,
 ["x"] = -0.2481842488050461,
 },
-["1,422"] = false,
 ["18,422"] = false,
 ["14,422"] = false,
 ["22,422"] = false,
@@ -8265,11 +8281,11 @@ TomTomWaypointsM = {
 ["y"] = 0.3179115056991577,
 ["x"] = -0.1193878576159477,
 },
+["1,422"] = false,
 ["371,422"] = {
 ["y"] = 0.7279758453369141,
 ["x"] = -0.2428193539381027,
 },
-["1,422"] = false,
 ["18,422"] = false,
 ["14,422"] = false,
 ["22,422"] = false,
@@ -8287,7 +8303,6 @@ TomTomWaypointsM = {
 ["quest"] = 32024,
 },
 {
-["quest"] = 32026,
 ["side"] = 3,
 [433] = {
 54.9,
@@ -8337,13 +8352,13 @@ TomTomWaypointsM = {
 ["113,433"] = false,
 ["110,433"] = false,
 ["70,433"] = false,
-["22,433"] = false,
+["18,433"] = false,
 ["50,433"] = false,
 ["26,433"] = false,
-["18,433"] = false,
+["22,433"] = false,
 ["1,433"] = false,
-["64,433"] = false,
 ["10,433"] = false,
+["64,433"] = false,
 ["198,433"] = false,
 ["94,433"] = false,
 ["78,433"] = false,
@@ -8355,6 +8370,7 @@ TomTomWaypointsM = {
 ["36,433"] = false,
 ["14,433"] = false,
 },
+["quest"] = 32026,
 },
 {
 [371] = {
@@ -8719,7 +8735,6 @@ TomTomWaypointsM = {
 ["side"] = 1,
 },
 {
-["quest"] = 32037,
 ["side"] = 3,
 [379] = {
 57.4,
@@ -8751,7 +8766,7 @@ TomTomWaypointsM = {
 ["66,379"] = false,
 ["85,379"] = false,
 ["78,379"] = false,
-["14,379"] = false,
+["122,379"] = false,
 ["25,379"] = false,
 ["81,379"] = false,
 ["199,379"] = false,
@@ -8767,11 +8782,11 @@ TomTomWaypointsM = {
 ["y"] = 0.599000096321106,
 ["x"] = 0.5740001201629639,
 },
-["2070,379"] = false,
+["37,379"] = false,
 ["69,379"] = false,
 ["1,379"] = false,
 ["49,379"] = false,
-["37,379"] = false,
+["2070,379"] = false,
 ["22,379"] = false,
 ["17,379"] = false,
 ["94,379"] = false,
@@ -8781,15 +8796,15 @@ TomTomWaypointsM = {
 ["x"] = 0.02932431921362877,
 },
 ["51,379"] = false,
-["122,379"] = false,
+["14,379"] = false,
 ["63,379"] = false,
 ["95,379"] = false,
 ["83,379"] = false,
 ["21,379"] = false,
 },
+["quest"] = 32037,
 },
 {
-["quest"] = 32039,
 ["side"] = 3,
 [379] = {
 72.7,
@@ -8821,7 +8836,7 @@ TomTomWaypointsM = {
 ["66,379"] = false,
 ["85,379"] = false,
 ["78,379"] = false,
-["14,379"] = false,
+["122,379"] = false,
 ["25,379"] = false,
 ["81,379"] = false,
 ["199,379"] = false,
@@ -8837,11 +8852,11 @@ TomTomWaypointsM = {
 ["y"] = 0.921999990940094,
 ["x"] = 0.7270000576972961,
 },
-["2070,379"] = false,
+["37,379"] = false,
 ["69,379"] = false,
 ["1,379"] = false,
 ["49,379"] = false,
-["37,379"] = false,
+["2070,379"] = false,
 ["22,379"] = false,
 ["17,379"] = false,
 ["94,379"] = false,
@@ -8851,15 +8866,15 @@ TomTomWaypointsM = {
 ["x"] = 0.1664400100708008,
 },
 ["51,379"] = false,
-["122,379"] = false,
+["14,379"] = false,
 ["63,379"] = false,
 ["95,379"] = false,
 ["83,379"] = false,
 ["21,379"] = false,
 },
+["quest"] = 32039,
 },
 {
-["quest"] = 32040,
 ["side"] = 2,
 [379] = {
 62.7,
@@ -8867,21 +8882,21 @@ TomTomWaypointsM = {
 ["117,379"] = false,
 ["15,379"] = false,
 ["13,379"] = false,
-["65,379"] = false,
+["113,379"] = false,
 ["424,379"] = {
 ["y"] = 0.4272822141647339,
 ["x"] = 0.5051306486129761,
 },
-["83,379"] = false,
+["65,379"] = false,
 ["224,379"] = false,
 ["95,379"] = false,
 ["85,379"] = false,
-["125,379"] = false,
+["110,379"] = false,
 ["25,379"] = false,
 ["81,379"] = false,
 ["199,379"] = false,
-["10,379"] = false,
-["110,379"] = false,
+["78,379"] = false,
+["125,379"] = false,
 ["210,379"] = false,
 ["18,379"] = false,
 ["17,379"] = false,
@@ -8889,9 +8904,9 @@ TomTomWaypointsM = {
 ["36,379"] = false,
 ["26,379"] = false,
 ["88,379"] = false,
-["78,379"] = false,
-["76,379"] = false,
-["12,379"] = false,
+["10,379"] = false,
+["126,379"] = false,
+["84,379"] = false,
 ["947,379"] = {
 ["y"] = 0.7926115989685059,
 ["x"] = 0.4822038412094116,
@@ -8924,25 +8939,25 @@ TomTomWaypointsM = {
 ["120,379"] = false,
 ["63,379"] = false,
 ["115,379"] = false,
-["84,379"] = false,
+["12,379"] = false,
 ["23,379"] = false,
 ["371,379"] = {
 ["y"] = 0.299201250076294,
 ["x"] = 0.07682191580533981,
 },
 ["51,379"] = false,
-["126,379"] = false,
+["76,379"] = false,
 ["379,379"] = {
 ["y"] = 0.8050000071525574,
 ["x"] = 0.627000093460083,
 },
 ["116,379"] = false,
-["113,379"] = false,
+["83,379"] = false,
 ["21,379"] = false,
 },
+["quest"] = 32040,
 },
 {
-["quest"] = 32041,
 ["side"] = 3,
 [379] = {
 64.2,
@@ -8974,7 +8989,7 @@ TomTomWaypointsM = {
 ["66,379"] = false,
 ["85,379"] = false,
 ["78,379"] = false,
-["14,379"] = false,
+["122,379"] = false,
 ["25,379"] = false,
 ["81,379"] = false,
 ["199,379"] = false,
@@ -8990,11 +9005,11 @@ TomTomWaypointsM = {
 ["y"] = 0.612000048160553,
 ["x"] = 0.6420000791549683,
 },
-["2070,379"] = false,
+["37,379"] = false,
 ["69,379"] = false,
 ["1,379"] = false,
 ["49,379"] = false,
-["37,379"] = false,
+["2070,379"] = false,
 ["22,379"] = false,
 ["17,379"] = false,
 ["94,379"] = false,
@@ -9004,23 +9019,23 @@ TomTomWaypointsM = {
 ["x"] = 0.09026461839675903,
 },
 ["51,379"] = false,
-["122,379"] = false,
+["14,379"] = false,
 ["63,379"] = false,
 ["95,379"] = false,
 ["83,379"] = false,
 ["21,379"] = false,
 },
+["quest"] = 32041,
 },
 {
-["quest"] = 32042,
 ["side"] = 1,
 [379] = {
 54.1,
 82.8,
 },
+["quest"] = 32042,
 },
 {
-["quest"] = 32043,
 ["side"] = 3,
 [388] = {
 71.1,
@@ -9060,14 +9075,11 @@ TomTomWaypointsM = {
 ["22,388"] = false,
 ["49,388"] = false,
 ["17,388"] = false,
-["15,388"] = false,
 ["69,388"] = false,
+["15,388"] = false,
 ["1,388"] = false,
 ["13,388"] = false,
-["947,388"] = {
-["y"] = 0.7907160520553589,
-["x"] = 0.4514884054660797,
-},
+["224,388"] = false,
 ["88,388"] = false,
 ["379,388"] = {
 ["y"] = 0.7845050096511841,
@@ -9076,7 +9088,10 @@ TomTomWaypointsM = {
 ["81,388"] = false,
 ["26,388"] = false,
 ["14,388"] = false,
-["224,388"] = false,
+["947,388"] = {
+["y"] = 0.7907160520553589,
+["x"] = 0.4514884054660797,
+},
 ["66,388"] = false,
 ["10,388"] = false,
 ["95,388"] = false,
@@ -9088,6 +9103,7 @@ TomTomWaypointsM = {
 ["50,388"] = false,
 ["94,388"] = false,
 },
+["quest"] = 32043,
 },
 {
 [1530] = {
@@ -9102,7 +9118,6 @@ TomTomWaypointsM = {
 ["quest"] = 32044,
 },
 {
-["quest"] = 32046,
 ["side"] = 3,
 [376] = {
 19.8,
@@ -9170,9 +9185,9 @@ TomTomWaypointsM = {
 ["x"] = -0.06443068385124207,
 },
 },
+["quest"] = 32046,
 },
 {
-["quest"] = 32048,
 ["side"] = 3,
 [376] = {
 83.6,
@@ -9240,6 +9255,7 @@ TomTomWaypointsM = {
 ["x"] = 0.2941590547561646,
 },
 },
+["quest"] = 32048,
 },
 {
 [371] = {
@@ -9258,13 +9274,10 @@ TomTomWaypointsM = {
 ["95,371"] = false,
 ["71,371"] = false,
 ["81,371"] = false,
-["126,371"] = false,
-["83,371"] = false,
 ["198,371"] = false,
-["947,371"] = {
-["y"] = 0.7754671573638916,
-["x"] = 0.5036742687225342,
-},
+["83,371"] = false,
+["126,371"] = false,
+["85,371"] = false,
 ["69,371"] = false,
 ["14,371"] = false,
 ["10,371"] = false,
@@ -9313,8 +9326,8 @@ TomTomWaypointsM = {
 ["25,371"] = false,
 ["13,371"] = false,
 ["23,371"] = false,
-["1,371"] = false,
 ["21,371"] = false,
+["1,371"] = false,
 ["116,371"] = false,
 ["51,371"] = false,
 ["210,371"] = false,
@@ -9327,13 +9340,15 @@ TomTomWaypointsM = {
 ["120,371"] = false,
 ["117,371"] = false,
 ["113,371"] = false,
-["85,371"] = false,
+["947,371"] = {
+["y"] = 0.7754671573638916,
+["x"] = 0.5036742687225342,
+},
 },
 ["side"] = 2,
 ["quest"] = 32050,
 },
 {
-["quest"] = 32051,
 ["side"] = 3,
 [379] = {
 62.3,
@@ -9365,7 +9380,7 @@ TomTomWaypointsM = {
 ["66,379"] = false,
 ["85,379"] = false,
 ["78,379"] = false,
-["14,379"] = false,
+["122,379"] = false,
 ["25,379"] = false,
 ["81,379"] = false,
 ["199,379"] = false,
@@ -9381,11 +9396,11 @@ TomTomWaypointsM = {
 ["y"] = 0.2899999618530273,
 ["x"] = 0.6229999661445618,
 },
-["2070,379"] = false,
+["37,379"] = false,
 ["69,379"] = false,
 ["1,379"] = false,
 ["49,379"] = false,
-["37,379"] = false,
+["2070,379"] = false,
 ["22,379"] = false,
 ["17,379"] = false,
 ["94,379"] = false,
@@ -9395,27 +9410,27 @@ TomTomWaypointsM = {
 ["x"] = 0.0732371062040329,
 },
 ["51,379"] = false,
-["122,379"] = false,
+["14,379"] = false,
 ["63,379"] = false,
 ["95,379"] = false,
 ["83,379"] = false,
 ["21,379"] = false,
 },
+["quest"] = 32051,
 },
 {
 [590] = {
 47.5,
 37.8,
 },
-["quest"] = 39657,
 ["side"] = 3,
 [582] = {
 44,
 52,
 },
+["quest"] = 39657,
 },
 {
-["quest"] = 43055,
 ["side"] = 3,
 [627] = {
 48.1,
@@ -9446,8 +9461,8 @@ TomTomWaypointsM = {
 ["241,627"] = false,
 ["199,627"] = false,
 ["25,627"] = false,
+["26,627"] = false,
 ["2070,627"] = false,
-["14,627"] = false,
 ["70,627"] = false,
 ["619,627"] = {
 ["y"] = 0.6427389979362488,
@@ -9463,7 +9478,7 @@ TomTomWaypointsM = {
 ["50,627"] = false,
 ["198,627"] = false,
 ["36,627"] = false,
-["26,627"] = false,
+["14,627"] = false,
 ["22,627"] = false,
 ["12,627"] = false,
 ["76,627"] = false,
@@ -9478,17 +9493,17 @@ TomTomWaypointsM = {
 ["10,627"] = false,
 ["379,627"] = false,
 },
+["quest"] = 43055,
 },
 {
-["quest"] = 43056,
 ["side"] = 1,
 [627] = {
 41.8,
 64.2,
 },
+["quest"] = 43056,
 },
 {
-["quest"] = 43057,
 ["side"] = 2,
 [627] = {
 66.8,
@@ -9508,7 +9523,7 @@ TomTomWaypointsM = {
 ["199,627"] = false,
 ["21,627"] = false,
 ["65,627"] = false,
-["50,627"] = false,
+["115,627"] = false,
 ["125,627"] = false,
 ["15,627"] = false,
 ["37,627"] = false,
@@ -9525,7 +9540,7 @@ TomTomWaypointsM = {
 ["y"] = 0.6378007531166077,
 ["x"] = 0.4658996164798737,
 },
-["84,627"] = false,
+["50,627"] = false,
 ["127,627"] = false,
 ["947,627"] = {
 ["y"] = 0.4575163722038269,
@@ -9549,7 +9564,7 @@ TomTomWaypointsM = {
 ["25,627"] = false,
 ["371,627"] = false,
 ["51,627"] = false,
-["115,627"] = false,
+["84,627"] = false,
 ["198,627"] = false,
 ["36,627"] = false,
 ["14,627"] = false,
@@ -9570,6 +9585,7 @@ TomTomWaypointsM = {
 ["10,627"] = false,
 ["379,627"] = false,
 },
+["quest"] = 43057,
 },
 {
 ["extra"] = 3,
@@ -9594,28 +9610,30 @@ TomTomWaypointsM = {
 },
 {
 ["extra"] = 3,
+["side"] = 3,
+["quest"] = 12404,
 [111] = {
 28.1,
 49,
-["107,111"] = {
-["y"] = 0.5273288488388062,
-["x"] = 0.8194791674613953,
+["108,111"] = {
+["y"] = 0.250184178352356,
+["x"] = 0.2435421347618103,
 },
 ["109,111"] = {
 ["y"] = 1.979436635971069,
 ["x"] = -0.05109813436865807,
 },
-["101,111"] = {
-["y"] = 0.6632637977600098,
-["x"] = 0.4138450026512146,
+["107,111"] = {
+["y"] = 0.5273288488388062,
+["x"] = 0.8194791674613953,
 },
 ["100,111"] = {
 ["y"] = 0.9820436239242554,
 ["x"] = -0.04426730424165726,
 },
-["108,111"] = {
-["y"] = 0.250184178352356,
-["x"] = 0.2435421347618103,
+["101,111"] = {
+["y"] = 0.6632637977600098,
+["x"] = 0.4138450026512146,
 },
 ["102,111"] = {
 ["y"] = 1.144385576248169,
@@ -9626,8 +9644,6 @@ TomTomWaypointsM = {
 ["x"] = 0.5673046112060547,
 },
 },
-["side"] = 3,
-["quest"] = 12404,
 },
 nil,
 {
@@ -9775,44 +9791,44 @@ nil,
 ["side"] = 3,
 },
 {
-["quest"] = 75667,
 ["side"] = 3,
 [2024] = {
 47.03,
 40.26,
 },
+["quest"] = 75667,
 },
 {
-["quest"] = 75668,
 ["side"] = 3,
 [2024] = {
 62.78,
 57.73,
 },
+["quest"] = 75668,
 },
 {
-["quest"] = 75669,
 ["side"] = 3,
 [2024] = {
 12.38,
 49.34,
 },
+["quest"] = 75669,
 },
 {
-["quest"] = 75670,
 ["side"] = 3,
 [2024] = {
 65.5,
 16.25,
 },
+["quest"] = 75670,
 },
 {
-["quest"] = 75671,
 ["side"] = 3,
 [2024] = {
 18.81,
 24.55,
 },
+["quest"] = 75671,
 },
 {
 [2151] = {
@@ -10000,60 +10016,60 @@ nil,
 ["side"] = 3,
 },
 {
-["quest"] = 84579,
 ["side"] = 3,
 [2255] = {
 58.96,
 18.62,
 },
+["quest"] = 84579,
 },
 {
-["quest"] = 84580,
 ["side"] = 3,
 [2255] = {
 77.95,
 62.78,
 },
+["quest"] = 84580,
 },
 {
-["quest"] = 84582,
 ["side"] = 3,
 [2255] = {
 56.86,
 38.97,
 },
+["quest"] = 84582,
 },
 {
-["quest"] = 84581,
 ["side"] = 3,
 [2255] = {
 44.85,
 66.27,
 },
+["quest"] = 84581,
 },
 {
-["quest"] = 84576,
 ["side"] = 3,
 [2213] = {
 62.05,
 41.37,
 },
+["quest"] = 84576,
 },
 {
-["quest"] = 84578,
 ["side"] = 3,
 [2213] = {
 49.73,
 22.24,
 },
+["quest"] = 84578,
 },
 {
-["quest"] = 84577,
 ["side"] = 3,
 [2216] = {
 57.43,
 38.49,
 },
+["quest"] = 84577,
 },
 {
 [2215] = {
@@ -10088,12 +10104,12 @@ nil,
 ["side"] = 3,
 },
 {
-["quest"] = 84564,
 ["side"] = 3,
 [2339] = {
 45.01,
 47.31,
 },
+["quest"] = 84564,
 },
 {
 [2248] = {
@@ -10151,7 +10167,6 @@ nil,
 "Interface\\GossipFrame\\GossipGossipIcon",
 },
 },
-["quest"] = 54709,
 ["side"] = 2,
 [1163] = {
 50.71,
@@ -10178,7 +10193,7 @@ nil,
 ["x"] = 0.557671070098877,
 },
 ["113,1163"] = false,
-["66,1163"] = false,
+["88,1163"] = false,
 ["78,1163"] = false,
 ["71,1163"] = false,
 ["64,1163"] = false,
@@ -10189,14 +10204,14 @@ nil,
 ["650,1163"] = false,
 ["210,1163"] = false,
 ["12,1163"] = false,
-["85,1163"] = false,
-["116,1163"] = false,
-["127,1163"] = false,
-["95,1163"] = false,
 ["63,1163"] = false,
+["116,1163"] = false,
+["424,1163"] = false,
+["95,1163"] = false,
+["127,1163"] = false,
 ["422,1163"] = false,
 ["65,1163"] = false,
-["110,1163"] = false,
+["125,1163"] = false,
 ["18,1163"] = false,
 ["198,1163"] = false,
 ["37,1163"] = false,
@@ -10214,17 +10229,18 @@ nil,
 ["36,1163"] = false,
 ["83,1163"] = false,
 ["70,1163"] = false,
-["424,1163"] = false,
+["85,1163"] = false,
 ["49,1163"] = false,
-["125,1163"] = false,
+["110,1163"] = false,
 ["627,1163"] = false,
 ["76,1163"] = false,
 ["122,1163"] = false,
 ["120,1163"] = false,
 ["126,1163"] = false,
-["88,1163"] = false,
+["66,1163"] = false,
 ["15,1163"] = false,
 },
+["quest"] = 54709,
 },
 ["world"] = true,
 },
@@ -10235,3678 +10251,12 @@ nil,
 ["Naturerivers - Korgath"] = {
 },
 ["Cascades - Kel'Thuzad"] = {
-[66] = {
-["66:260999321.93756:773999512.19559:Bonfire (Desecrate) (Desolace, 11769)"] = {
-66,
-0.260999321937561,
-0.7739995121955872,
-["arrivaldistance"] = 15,
-["crazy"] = true,
-["persistent"] = true,
-["minimap"] = true,
-["cleardistance"] = 10,
-["title"] = "Bonfire (Desecrate) (Desolace, 11769)",
-["from"] = "CandyBuckets",
-["callbacks"] = {
-["distance"] = {
-},
-["minimap"] = {
-},
-["world"] = {
-},
-},
-["quest"] = {
-["module"] = {
-["patterns"] = {
-"^%s*[Hh][Oo][Nn][Oo][Rr]%s+[Tt][Hh][Ee]%s+[Ff][Ll][Aa][Mm][Ee]%s*$",
-"^%s*[Ee][Hh][Rr][Tt]%s+[Dd][Ii][Ee]%s+[Ff][Ll][Aa][Mm][Mm][Ee]%s*$",
-"^%s*[Hh][Oo][Nn][Rr][Aa][Rr]%s+[Ll][Aa]%s+[Ll][Ll][Aa][Mm][Aa]%s*$",
-"^%s*[Hh][Oo][Nn][Oo][Rr][Ee][Rr]%s+[Ll][Aa]%s+[Ff][Ll][Aa][Mm][Mm][Ee]%s*$",
-"^%s*[Oo][Nn][Oo][Rr][Aa]%s+[Ii][Ll]%s+[Ff][Aa][Ll][Òò]%s*$",
-"^%s*[Rr][Ee][Vv][Ee][Rr][Ee][Nn][Cc][Ii][Ee]%s+[Aa]%s+[Cc][Hh][Aa][Mm][Aa]%s*$",
-"^%s*[Пп][Оо][Кк][Лл][Оо][Нн][Ее][Нн][Ии][Ее]%s+[Оо][Гг][Нн][Юю]%s*$",
-"^%s*불꽃에%s+경의를%s*$",
-"^%s*祭拜这团火焰%s*$",
-"^%s*[Dd][Ee][Ss][Ee][Cc][Rr][Aa][Tt][Ee]%s+[Tt][Hh][Ii][Ss]%s+[Ff][Ii][Rr][Ee]%s*%!%s*$",
-"^%s*[Ee][Nn][Tt][Ww][Ee][Ii][Hh][Tt]%s+[Dd][Ii][Ee][Ss][Ee][Ss]%s+[Ff][Ee][Uu][Ee][Rr]%s*%!%s*$",
-"^%s*%¡%s*[Pp][Rr][Oo][Ff][Aa][Nn][Aa]%s+[Ee][Ss][Tt][Ee]%s+[Ff][Uu][Ee][Gg][Oo]%s*%!%s*$",
-"^%s*[Dd][Éé][Ss][Aa][Cc][Rr][Aa][Ll][Ii][Ss][Ee][Zz]%s+[Cc][Ee]%s+[Ff][Ee][Uu]%s*%!%s*$",
-"^%s*[Dd][Ii][Ss][Ss][Aa][Cc][Rr][Aa]%s+[Qq][Uu][Ee][Ss][Tt][Oo]%s+[Ff][Aa][Ll][Òò]%s*%!%s*$",
-"^%s*[Pp][Rr][Oo][Ff][Aa][Nn][Ee]%s+[Oo]%s+[Ff][Oo][Gg][Oo]%s*%!%s*$",
-"^%s*[Оо][Сс][Кк][Вв][Ее][Рр][Нн][Ее][Нн][Ии][Ее]%s+[Оо][Гг][Нн][Яя]%s*$",
-"^%s*화톳불%s+모독%s*%!%s*$",
-"^%s*亵渎这团火焰%s*%！%s*$",
-},
-["title"] = {
-"Bonfire (Desecrate)",
-"Bonfire (Honor)",
-"Bonfire (Phased)",
-},
-["loaded"] = true,
-["event"] = "midsummer",
-["quests"] = {
-{
-["extra"] = 1,
-[17] = {
-55.2,
-15.3,
-},
-["quest"] = 11737,
-["side"] = 2,
-},
-{
-["extra"] = 3,
-[17] = {
-48.16,
-7.29,
-},
-["quest"] = 11737,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11808,
-[17] = {
-55.54,
-14.89,
-["62,17"] = false,
-["66,17"] = false,
-["83,17"] = false,
-["76,17"] = false,
-["63,17"] = false,
-["12,17"] = false,
-["65,17"] = false,
-},
-},
-{
-["extra"] = 3,
-["side"] = 1,
-["quest"] = 11808,
-[17] = {
-48.16,
-7.29,
-["62,17"] = false,
-["66,17"] = false,
-["83,17"] = false,
-["76,17"] = false,
-["63,17"] = false,
-["12,17"] = false,
-["65,17"] = false,
-},
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 28917,
-[17] = {
-46.29,
-14.02,
-["62,17"] = false,
-["66,17"] = false,
-["83,17"] = false,
-["76,17"] = false,
-["63,17"] = false,
-["12,17"] = false,
-["65,17"] = false,
-},
-},
-{
-["extra"] = 3,
-["side"] = 1,
-["quest"] = 28917,
-[17] = {
-48.16,
-7.29,
-["62,17"] = false,
-["66,17"] = false,
-["83,17"] = false,
-["76,17"] = false,
-["63,17"] = false,
-["12,17"] = false,
-["65,17"] = false,
-},
-},
-{
-["extra"] = 2,
-[17] = {
-46,
-14,
-},
-["quest"] = 28930,
-["side"] = 2,
-},
-{
-["extra"] = 3,
-[17] = {
-48.16,
-7.29,
-},
-["quest"] = 28930,
-["side"] = 2,
-},
-{
-[207] = {
-49.4,
-51.4,
-["63,207"] = false,
-["66,207"] = false,
-["65,207"] = false,
-["62,207"] = false,
-["76,207"] = false,
-["12,207"] = false,
-["83,207"] = false,
-},
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 29036,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11580,
-[21] = {
-49.6,
-38.7,
-["62,21"] = false,
-["63,21"] = false,
-["76,21"] = false,
-["12,21"] = false,
-["66,21"] = false,
-["65,21"] = false,
-["83,21"] = false,
-},
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11581,
-[52] = {
-45.2,
-62.3,
-},
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11583,
-[52] = {
-45,
-62,
-["83,52"] = false,
-["66,52"] = false,
-["76,52"] = false,
-["62,52"] = false,
-["12,52"] = false,
-["63,52"] = false,
-["65,52"] = false,
-},
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11584,
-[21] = {
-50,
-38,
-},
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11732,
-[14] = {
-44.58,
-46.05,
-},
-},
-{
-["extra"] = 3,
-["side"] = 2,
-["quest"] = 11732,
-[14] = {
-38.24,
-90.1,
-},
-},
-{
-["extra"] = 1,
-[36] = {
-68.6,
-59.9,
-},
-["quest"] = 11739,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11742,
-[27] = {
-53.8,
-44.7,
-},
-},
-{
-["extra"] = 1,
-[47] = {
-73.2,
-54.9,
-},
-["quest"] = 11743,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11745,
-[37] = {
-43.2,
-63,
-},
-},
-{
-["extra"] = 1,
-[48] = {
-32.3,
-40.4,
-},
-["quest"] = 11749,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11751,
-[49] = {
-24.4,
-53.9,
-},
-},
-{
-["extra"] = 1,
-[26] = {
-14.53,
-49.8,
-},
-["quest"] = 11755,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[22] = {
-43.6,
-82.5,
-},
-["quest"] = 11756,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[56] = {
-13.3,
-47.3,
-},
-["quest"] = 11757,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11761,
-[210] = {
-51.7,
-67.3,
-},
-},
-{
-["extra"] = 1,
-[14] = {
-69.23,
-42.89,
-["83,14"] = false,
-["62,14"] = false,
-["12,14"] = false,
-["65,14"] = false,
-["76,14"] = false,
-["63,14"] = false,
-["66,14"] = false,
-},
-["side"] = 1,
-["quest"] = 11764,
-},
-{
-["extra"] = 3,
-[14] = {
-38.24,
-90.1,
-["83,14"] = false,
-["62,14"] = false,
-["12,14"] = false,
-["65,14"] = false,
-["76,14"] = false,
-["63,14"] = false,
-["66,14"] = false,
-},
-["side"] = 1,
-["quest"] = 11764,
-},
-{
-["extra"] = 1,
-["quest"] = 11766,
-[15] = {
-24.2,
-37.3,
-["12,15"] = false,
-["83,15"] = false,
-["63,15"] = false,
-["76,15"] = false,
-["62,15"] = false,
-["65,15"] = false,
-["66,15"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[36] = {
-51.5,
-29.3,
-["63,36"] = false,
-["62,36"] = false,
-["12,36"] = false,
-["76,36"] = false,
-["83,36"] = false,
-["65,36"] = false,
-["66,36"] = false,
-},
-["side"] = 1,
-["quest"] = 11768,
-},
-{
-["extra"] = 1,
-[25] = {
-54.5,
-50,
-["83,25"] = false,
-["62,25"] = false,
-["12,25"] = false,
-["65,25"] = false,
-["66,25"] = false,
-["63,25"] = false,
-["76,25"] = false,
-},
-["side"] = 1,
-["quest"] = 11776,
-},
-{
-["extra"] = 1,
-[51] = {
-76.62,
-14.14,
-["62,51"] = false,
-["63,51"] = false,
-["12,51"] = false,
-["83,51"] = false,
-["76,51"] = false,
-["66,51"] = false,
-["65,51"] = false,
-},
-["side"] = 1,
-["quest"] = 11781,
-},
-{
-["extra"] = 1,
-[26] = {
-76.63,
-74.63,
-["83,26"] = false,
-["62,26"] = false,
-["63,26"] = false,
-["12,26"] = false,
-["76,26"] = false,
-["65,26"] = false,
-["66,26"] = false,
-},
-["quest"] = 11784,
-["side"] = 1,
-},
-{
-[18] = {
-56.9,
-51.8,
-["62,18"] = false,
-["83,18"] = false,
-["65,18"] = false,
-["12,18"] = false,
-["76,18"] = false,
-["63,18"] = false,
-["66,18"] = false,
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11786,
-},
-{
-[18] = {
-69.46,
-62.8,
-["62,18"] = false,
-["83,18"] = false,
-["65,18"] = false,
-["12,18"] = false,
-["76,18"] = false,
-["63,18"] = false,
-["66,18"] = false,
-},
-["extra"] = 3,
-["side"] = 1,
-["quest"] = 11786,
-},
-{
-[210] = {
-50.6,
-70.7,
-["62,210"] = false,
-["63,210"] = false,
-["83,210"] = false,
-["65,210"] = false,
-["12,210"] = false,
-["76,210"] = false,
-["66,210"] = false,
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11801,
-},
-{
-["extra"] = 2,
-[14] = {
-44.3,
-46.02,
-["83,14"] = false,
-["62,14"] = false,
-["12,14"] = false,
-["65,14"] = false,
-["76,14"] = false,
-["63,14"] = false,
-["66,14"] = false,
-},
-["side"] = 1,
-["quest"] = 11804,
-},
-{
-["extra"] = 3,
-[14] = {
-38.24,
-90.1,
-["83,14"] = false,
-["62,14"] = false,
-["12,14"] = false,
-["65,14"] = false,
-["76,14"] = false,
-["63,14"] = false,
-["66,14"] = false,
-},
-["side"] = 1,
-["quest"] = 11804,
-},
-{
-["extra"] = 2,
-[36] = {
-68,
-60,
-["63,36"] = false,
-["62,36"] = false,
-["12,36"] = false,
-["76,36"] = false,
-["83,36"] = false,
-["65,36"] = false,
-["66,36"] = false,
-},
-["side"] = 1,
-["quest"] = 11810,
-},
-{
-[27] = {
-54,
-45,
-["83,27"] = false,
-["12,27"] = false,
-["76,27"] = false,
-["65,27"] = false,
-["66,27"] = false,
-["63,27"] = false,
-["62,27"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11813,
-},
-{
-["extra"] = 2,
-[47] = {
-73,
-55,
-["63,47"] = false,
-["65,47"] = false,
-["66,47"] = false,
-["76,47"] = false,
-["62,47"] = false,
-["83,47"] = false,
-["12,47"] = false,
-},
-["quest"] = 11814,
-["side"] = 1,
-},
-{
-[37] = {
-43.47,
-62.6,
-["12,37"] = false,
-["62,37"] = false,
-["76,37"] = false,
-["66,37"] = false,
-["65,37"] = false,
-["83,37"] = false,
-["63,37"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11816,
-},
-{
-["extra"] = 2,
-[48] = {
-32,
-40,
-["83,48"] = false,
-["76,48"] = false,
-["12,48"] = false,
-["65,48"] = false,
-["62,48"] = false,
-["63,48"] = false,
-["66,48"] = false,
-},
-["side"] = 1,
-["quest"] = 11820,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11822,
-[49] = {
-24,
-53,
-["83,49"] = false,
-["62,49"] = false,
-["12,49"] = false,
-["66,49"] = false,
-["65,49"] = false,
-["76,49"] = false,
-["63,49"] = false,
-},
-},
-{
-["extra"] = 2,
-[26] = {
-14.34,
-50.08,
-["83,26"] = false,
-["62,26"] = false,
-["63,26"] = false,
-["12,26"] = false,
-["76,26"] = false,
-["65,26"] = false,
-["66,26"] = false,
-},
-["quest"] = 11826,
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[22] = {
-43,
-82,
-["66,22"] = false,
-["65,22"] = false,
-["76,22"] = false,
-["63,22"] = false,
-["62,22"] = false,
-["12,22"] = false,
-["83,22"] = false,
-},
-["side"] = 1,
-["quest"] = 11827,
-},
-{
-["extra"] = 2,
-["quest"] = 11828,
-[56] = {
-13,
-47,
-["12,56"] = false,
-["62,56"] = false,
-["83,56"] = false,
-["65,56"] = false,
-["63,56"] = false,
-["76,56"] = false,
-["66,56"] = false,
-},
-["side"] = 1,
-},
-{
-[210] = {
-51,
-67,
-["62,210"] = false,
-["63,210"] = false,
-["83,210"] = false,
-["65,210"] = false,
-["12,210"] = false,
-["76,210"] = false,
-["66,210"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11832,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11837,
-[210] = {
-50,
-70,
-},
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11840,
-[14] = {
-69.36,
-42.58,
-},
-},
-{
-["extra"] = 3,
-["side"] = 2,
-["quest"] = 11840,
-[14] = {
-38.24,
-90.1,
-},
-},
-{
-["extra"] = 2,
-[15] = {
-23.17,
-37.58,
-},
-["quest"] = 11842,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[36] = {
-51,
-29,
-},
-["quest"] = 11844,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[25] = {
-55,
-50,
-},
-["quest"] = 11853,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[51] = {
-76,
-14,
-},
-["quest"] = 11857,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[26] = {
-76.63,
-74.95,
-},
-["quest"] = 11860,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11862,
-[18] = {
-57,
-52,
-},
-},
-{
-["extra"] = 3,
-["side"] = 2,
-["quest"] = 11862,
-[18] = {
-69.46,
-62.8,
-},
-},
-{
-["extra"] = 1,
-[50] = {
-51.6,
-63.3,
-},
-["quest"] = 28910,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 28911,
-[50] = {
-40.7,
-52,
-["83,50"] = false,
-["62,50"] = false,
-["12,50"] = false,
-["66,50"] = false,
-["65,50"] = false,
-["76,50"] = false,
-["63,50"] = false,
-},
-},
-{
-["extra"] = 1,
-[15] = {
-18.5,
-56.1,
-},
-["quest"] = 28912,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[51] = {
-70.1,
-14.8,
-},
-["quest"] = 28916,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[22] = {
-29.1,
-56.4,
-["66,22"] = false,
-["65,22"] = false,
-["76,22"] = false,
-["63,22"] = false,
-["62,22"] = false,
-["12,22"] = false,
-["83,22"] = false,
-},
-["side"] = 1,
-["quest"] = 28918,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 28922,
-[50] = {
-52,
-63.6,
-["83,50"] = false,
-["62,50"] = false,
-["12,50"] = false,
-["66,50"] = false,
-["65,50"] = false,
-["76,50"] = false,
-["63,50"] = false,
-},
-},
-{
-["extra"] = 2,
-[50] = {
-40,
-51,
-},
-["quest"] = 28924,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["quest"] = 28925,
-[15] = {
-19,
-56,
-["12,15"] = false,
-["83,15"] = false,
-["63,15"] = false,
-["76,15"] = false,
-["62,15"] = false,
-["65,15"] = false,
-["66,15"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[51] = {
-70.25,
-15.74,
-["62,51"] = false,
-["63,51"] = false,
-["12,51"] = false,
-["83,51"] = false,
-["76,51"] = false,
-["66,51"] = false,
-["65,51"] = false,
-},
-["side"] = 1,
-["quest"] = 28929,
-},
-{
-["extra"] = 2,
-[22] = {
-29,
-57,
-},
-["quest"] = 28931,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[241] = {
-47,
-28.3,
-},
-["quest"] = 28943,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["quest"] = 28944,
-[241] = {
-53.3,
-46.5,
-["83,241"] = false,
-["66,241"] = false,
-["76,241"] = false,
-["62,241"] = false,
-["12,241"] = false,
-["63,241"] = false,
-["65,241"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 2,
-["quest"] = 28945,
-[241] = {
-47,
-28,
-["83,241"] = false,
-["66,241"] = false,
-["76,241"] = false,
-["62,241"] = false,
-["12,241"] = false,
-["63,241"] = false,
-["65,241"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[241] = {
-53,
-46,
-},
-["quest"] = 28946,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[205] = {
-49.3,
-42,
-["62,205"] = false,
-["63,205"] = false,
-["12,205"] = false,
-["83,205"] = false,
-["66,205"] = false,
-["76,205"] = false,
-["65,205"] = false,
-},
-["quest"] = 29031,
-["side"] = 3,
-},
-{
-["extra"] = 1,
-[63] = {
-86.7,
-41.4,
-},
-["quest"] = 11734,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[62] = {
-49,
-22.5,
-},
-["quest"] = 11740,
-["side"] = 2,
-},
-{
-["extra"] = 3,
-[62] = {
-48.86,
-24.46,
-},
-["quest"] = 11740,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[66] = {
-65.8,
-17,
-},
-["quest"] = 11741,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11744,
-[70] = {
-62.1,
-40.3,
-},
-},
-{
-["extra"] = 1,
-[69] = {
-46.6,
-43.8,
-},
-["quest"] = 11746,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[57] = {
-54.7,
-52.7,
-},
-["quest"] = 11753,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[81] = {
-60.5,
-33.4,
-},
-["quest"] = 11760,
-["side"] = 2,
-},
-{
-["extra"] = 3,
-[81] = {
-78.93,
-21.97,
-},
-["quest"] = 11760,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[71] = {
-52.7,
-30,
-},
-["quest"] = 11762,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[83] = {
-61.3,
-47.1,
-},
-["quest"] = 11763,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[63] = {
-51.6,
-66.8,
-["63,63"] = {
-["y"] = 0.6680001020431519,
-["x"] = 0.5160000324249268,
-},
-["62,63"] = {
-["y"] = 1.419265031814575,
-["x"] = 0.6639666557312012,
-},
-["12,63"] = {
-["y"] = 0.4159238338470459,
-["x"] = 0.4984320998191834,
-},
-["83,63"] = {
-["y"] = 1.631331324577332,
-["x"] = 0.04616811871528626,
-},
-["76,63"] = {
-["y"] = 0.890912652015686,
-["x"] = -0.3803223669528961,
-},
-},
-["side"] = 1,
-["quest"] = 11765,
-},
-nil,
-{
-{
-52,
-47,
-["62,1"] = {
-["y"] = 1.87251877784729,
-["x"] = 1.195538878440857,
-},
-["12,1"] = {
-["y"] = 0.4955593347549439,
-["x"] = 0.5918129682540894,
-},
-["63,1"] = {
-["y"] = 1.176283121109009,
-["x"] = 1.11190676689148,
-},
-["76,1"] = {
-["y"] = 1.422234535217285,
-["x"] = 0.2428252398967743,
-},
-["83,1"] = {
-["y"] = 2.107846975326538,
-["x"] = 0.6049315333366394,
-},
-["65,1"] = {
-["y"] = 0.8269289135932922,
-["x"] = 1.460013031959534,
-},
-["66,1"] = {
-["y"] = 0.1002377420663834,
-["x"] = 1.989694476127625,
-},
-},
-["extra"] = 1,
-["quest"] = 11770,
-["side"] = 1,
-},
-{
-[70] = {
-33.2,
-30.8,
-["76,70"] = {
-["y"] = 2.309598684310913,
-["x"] = -0.1187613978981972,
-},
-["62,70"] = {
-["y"] = 2.629500865936279,
-["x"] = 0.8870896100997925,
-},
-["63,70"] = {
-["y"] = 2.025169849395752,
-["x"] = 0.7661269307136536,
-},
-["65,70"] = {
-["y"] = 1.656481385231018,
-["x"] = 1.122047305107117,
-},
-["83,70"] = {
-["y"] = 2.90367865562439,
-["x"] = 0.2807043790817261,
-},
-["12,70"] = {
-["y"] = 0.6285591125488281,
-["x"] = 0.5376279354095459,
-},
-["66,70"] = {
-["y"] = 1.188631415367127,
-["x"] = 1.546172738075256,
-},
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11771,
-},
-{
-["extra"] = 1,
-["quest"] = 11773,
-[69] = {
-72.5,
-47.6,
-["76,69"] = {
-["y"] = 2.706871509552002,
-["x"] = -0.6847014427185059,
-},
-["62,69"] = {
-["y"] = 2.968401670455933,
-["x"] = 0.4043179452419281,
-},
-["63,69"] = {
-["y"] = 2.405216217041016,
-["x"] = 0.2249269187450409,
-},
-["65,69"] = {
-["y"] = 2.02787184715271,
-["x"] = 0.5930777788162231,
-},
-["83,69"] = {
-["y"] = 3.25997257232666,
-["x"] = -0.2267622202634811,
-},
-["12,69"] = {
-["y"] = 0.6881030797958374,
-["x"] = 0.45281982421875,
-},
-["66,69"] = {
-["y"] = 1.675904989242554,
-["x"] = 0.8519914150238037,
-},
-},
-["side"] = 1,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11777,
-[7] = {
-52,
-59.3,
-["12,7"] = {
-["y"] = 0.5964387059211731,
-["x"] = 0.4808838367462158,
-},
-["83,7"] = {
-["y"] = 2.711479663848877,
-["x"] = -0.05883548781275749,
-},
-["63,7"] = {
-["y"] = 1.820157527923584,
-["x"] = 0.4040164351463318,
-},
-["76,7"] = {
-["y"] = 2.095293998718262,
-["x"] = -0.4974251389503479,
-},
-["62,7"] = {
-["y"] = 2.44668436050415,
-["x"] = 0.564072847366333,
-},
-["65,7"] = {
-["y"] = 1.456138491630554,
-["x"] = 0.7681201100349426,
-},
-["66,7"] = {
-["y"] = 0.925776481628418,
-["x"] = 1.081704258918762,
-},
-},
-},
-{
-["extra"] = 1,
-[65] = {
-53,
-62.4,
-["83,65"] = {
-["y"] = 1.913166880607605,
-["x"] = -0.2872761487960815,
-},
-["12,65"] = {
-["y"] = 0.4630243182182312,
-["x"] = 0.4427067041397095,
-},
-["76,65"] = {
-["y"] = 1.205163478851318,
-["x"] = -0.7521881461143494,
-},
-["65,65"] = {
-["y"] = 0.6240000128746033,
-["x"] = 0.5299997329711914,
-},
-["62,65"] = {
-["y"] = 1.687342405319214,
-["x"] = 0.3467488288879395,
-},
-["63,65"] = {
-["y"] = 0.968624472618103,
-["x"] = 0.1603903919458389,
-},
-},
-["side"] = 1,
-["quest"] = 11780,
-},
-{
-["extra"] = 1,
-[10] = {
-49.9,
-54.2,
-["66,10"] = {
-["y"] = 0.2395668476819992,
-["x"] = 1.534403085708618,
-},
-["12,10"] = {
-["y"] = 0.5125851035118103,
-["x"] = 0.5361900329589844,
-},
-["65,10"] = {
-["y"] = 0.9331228733062744,
-["x"] = 1.113078832626343,
-},
-["83,10"] = {
-["y"] = 2.209724187850952,
-["x"] = 0.2721003890037537,
-},
-["76,10"] = {
-["y"] = 1.535829186439514,
-["x"] = -0.1283567845821381,
-},
-["63,10"] = {
-["y"] = 1.284952044487,
-["x"] = 0.7569509744644165,
-},
-["62,10"] = {
-["y"] = 1.969422698020935,
-["x"] = 0.8789043426513672,
-},
-},
-["side"] = 1,
-["quest"] = 11783,
-},
-{
-["extra"] = 1,
-[81] = {
-50.8,
-41.6,
-["12,81"] = {
-["y"] = 0.7870133519172668,
-["x"] = 0.4387224912643433,
-},
-["66,81"] = {
-["y"] = 2.485329866409302,
-["x"] = 0.7366002798080444,
-},
-["65,81"] = {
-["y"] = 2.644799709320068,
-["x"] = 0.5051491856575012,
-},
-["63,81"] = {
-["y"] = 3.03652286529541,
-["x"] = 0.1349652707576752,
-},
-["62,81"] = {
-["y"] = 3.531359672546387,
-["x"] = 0.3240686058998108,
-},
-["83,81"] = {
-["y"] = 3.8518226146698,
-["x"] = -0.311116486787796,
-},
-["76,81"] = {
-["y"] = 3.366793155670166,
-["x"] = -0.7787755131721497,
-},
-},
-["quest"] = 11800,
-["side"] = 1,
-},
-{
-["extra"] = 3,
-[81] = {
-78.93,
-21.97,
-["12,81"] = {
-["y"] = 0.7653595805168152,
-["x"] = 0.4697446823120117,
-},
-["66,81"] = {
-["y"] = 2.308127880096436,
-["x"] = 0.9905267953872681,
-},
-["65,81"] = {
-["y"] = 2.509739875793457,
-["x"] = 0.6986424326896667,
-},
-["63,81"] = {
-["y"] = 2.898314952850342,
-["x"] = 0.3329322934150696,
-},
-["62,81"] = {
-["y"] = 3.408115148544312,
-["x"] = 0.5006629824638367,
-},
-["83,81"] = {
-["y"] = 3.72225284576416,
-["x"] = -0.125488892197609,
-},
-["76,81"] = {
-["y"] = 3.222320795059204,
-["x"] = -0.5717587471008301,
-},
-},
-["quest"] = 11800,
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[71] = {
-49.8,
-28.07,
-["65,71"] = {
-["y"] = 2.67577075958252,
-["x"] = 1.280746340751648,
-},
-["62,71"] = {
-["y"] = 3.559621334075928,
-["x"] = 1.031928539276123,
-},
-["63,71"] = {
-["y"] = 3.068215608596802,
-["x"] = 0.9284951686859131,
-},
-["76,71"] = {
-["y"] = 3.399922370910645,
-["x"] = 0.05102928355336189,
-},
-["83,71"] = {
-["y"] = 3.881534576416016,
-["x"] = 0.4329521358013153,
-},
-["66,71"] = {
-["y"] = 2.525964498519898,
-["x"] = 1.754437804222107,
-},
-["12,71"] = {
-["y"] = 0.7919788360595703,
-["x"] = 0.5630716681480408,
-},
-},
-["side"] = 1,
-["quest"] = 11802,
-},
-{
-["extra"] = 1,
-[83] = {
-58.13,
-47.29,
-["62,83"] = {
-["y"] = 0.3173843622207642,
-["x"] = 1.173057198524475,
-},
-["12,83"] = {
-["y"] = 0.2223262786865234,
-["x"] = 0.5878636240959167,
-},
-},
-["side"] = 1,
-["quest"] = 11803,
-},
-{
-["extra"] = 2,
-[63] = {
-87,
-42,
-["12,63"] = {
-["y"] = 0.3770682811737061,
-["x"] = 0.5539052486419678,
-},
-["62,63"] = {
-["y"] = 1.198114633560181,
-["x"] = 0.9797484874725342,
-},
-["83,63"] = {
-["y"] = 1.398831129074097,
-["x"] = 0.3781029880046845,
-},
-["76,63"] = {
-["y"] = 0.6316714286804199,
-["x"] = -0.01013990957289934,
-},
-},
-["side"] = 1,
-["quest"] = 11805,
-},
-{
-["extra"] = 2,
-[62] = {
-49,
-23,
-},
-["quest"] = 11811,
-["side"] = 1,
-},
-{
-["extra"] = 3,
-[62] = {
-48.86,
-24.46,
-},
-["quest"] = 11811,
-["side"] = 1,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11812,
-[66] = {
-65,
-17,
-["12,66"] = {
-["y"] = 0.5040842294692993,
-["x"] = 0.4281424880027771,
-},
-["65,66"] = {
-["y"] = 0.8801007866859436,
-["x"] = 0.4391590356826782,
-},
-["66,66"] = {
-["y"] = 0.1700005829334259,
-["x"] = 0.6499996185302734,
-},
-["76,66"] = {
-["y"] = 1.479112029075623,
-["x"] = -0.8493778109550476,
-},
-["63,66"] = {
-["y"] = 1.230694174766541,
-["x"] = 0.06744935363531113,
-},
-["62,66"] = {
-["y"] = 1.92103910446167,
-["x"] = 0.2638417780399323,
-},
-["83,66"] = {
-["y"] = 2.158857345581055,
-["x"] = -0.3744240999221802,
-},
-},
-},
-{
-[70] = {
-62,
-40,
-["76,70"] = {
-["y"] = 2.397168159484863,
-["x"] = 0.1554206758737564,
-},
-["62,70"] = {
-["y"] = 2.704203605651856,
-["x"] = 1.120978951454163,
-},
-["63,70"] = {
-["y"] = 2.108942031860352,
-["x"] = 1.028323173522949,
-},
-["65,70"] = {
-["y"] = 1.738345742225647,
-["x"] = 1.378318309783936,
-},
-["83,70"] = {
-["y"] = 2.982215404510498,
-["x"] = 0.5265577435493469,
-},
-["12,70"] = {
-["y"] = 0.6416841745376587,
-["x"] = 0.5787150859832764,
-},
-["66,70"] = {
-["y"] = 1.296039462089539,
-["x"] = 1.882484078407288,
-},
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11815,
-},
-{
-["extra"] = 2,
-["quest"] = 11817,
-[69] = {
-47,
-44,
-["76,69"] = {
-["y"] = 2.661509513854981,
-["x"] = -1.006076812744141,
-},
-["62,69"] = {
-["y"] = 2.929704904556274,
-["x"] = 0.1301705986261368,
-},
-["63,69"] = {
-["y"] = 2.361821413040161,
-["x"] = -0.08239959925413132,
-},
-["65,69"] = {
-["y"] = 1.985465288162231,
-["x"] = 0.292696475982666,
-},
-["83,69"] = {
-["y"] = 3.219289779663086,
-["x"] = -0.5149328708648682,
-},
-["12,69"] = {
-["y"] = 0.6813041567802429,
-["x"] = 0.4046605825424194,
-},
-["66,69"] = {
-["y"] = 1.620266556739807,
-["x"] = 0.4577927589416504,
-},
-},
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[57] = {
-54.8,
-52.9,
-},
-["side"] = 1,
-["quest"] = 11824,
-},
-{
-["extra"] = 2,
-[81] = {
-60.3,
-33.5,
-["12,81"] = {
-["y"] = 0.7780782580375671,
-["x"] = 0.4491992592811585,
-},
-["66,81"] = {
-["y"] = 2.41221022605896,
-["x"] = 0.8223559856414795,
-},
-["65,81"] = {
-["y"] = 2.589069366455078,
-["x"] = 0.5704954266548157,
-},
-["63,81"] = {
-["y"] = 2.979493379592896,
-["x"] = 0.2018224000930786,
-},
-["62,81"] = {
-["y"] = 3.480504751205444,
-["x"] = 0.3837078213691711,
-},
-["83,81"] = {
-["y"] = 3.798357725143433,
-["x"] = -0.248426616191864,
-},
-["76,81"] = {
-["y"] = 3.307178974151611,
-["x"] = -0.7088621258735657,
-},
-},
-["quest"] = 11831,
-["side"] = 1,
-},
-{
-["extra"] = 3,
-[81] = {
-78.93,
-21.97,
-["12,81"] = {
-["y"] = 0.7653595805168152,
-["x"] = 0.4697446823120117,
-},
-["66,81"] = {
-["y"] = 2.308127880096436,
-["x"] = 0.9905267953872681,
-},
-["65,81"] = {
-["y"] = 2.509739875793457,
-["x"] = 0.6986424326896667,
-},
-["63,81"] = {
-["y"] = 2.898314952850342,
-["x"] = 0.3329322934150696,
-},
-["62,81"] = {
-["y"] = 3.408115148544312,
-["x"] = 0.5006629824638367,
-},
-["83,81"] = {
-["y"] = 3.72225284576416,
-["x"] = -0.125488892197609,
-},
-["76,81"] = {
-["y"] = 3.222320795059204,
-["x"] = -0.5717587471008301,
-},
-},
-["quest"] = 11831,
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[71] = {
-52.64,
-30.26,
-["65,71"] = {
-["y"] = 2.702542781829834,
-["x"] = 1.315464019775391,
-},
-["62,71"] = {
-["y"] = 3.584051370620728,
-["x"] = 1.063614130020142,
-},
-["63,71"] = {
-["y"] = 3.095611810684204,
-["x"] = 0.9640156030654907,
-},
-["76,71"] = {
-["y"] = 3.428560495376587,
-["x"] = 0.08817341923713684,
-},
-["83,71"] = {
-["y"] = 3.90721869468689,
-["x"] = 0.4662584960460663,
-},
-["66,71"] = {
-["y"] = 2.561090230941773,
-["x"] = 1.799998760223389,
-},
-["12,71"] = {
-["y"] = 0.7962711453437805,
-["x"] = 0.5686378479003906,
-},
-},
-["side"] = 1,
-["quest"] = 11833,
-},
-{
-["extra"] = 2,
-[83] = {
-61.24,
-47.25,
-["62,83"] = {
-["y"] = 0.3170037269592285,
-["x"] = 1.202643871307373,
-},
-["12,83"] = {
-["y"] = 0.2222594022750855,
-["x"] = 0.593061089515686,
-},
-},
-["side"] = 1,
-["quest"] = 11834,
-},
-{
-["extra"] = 2,
-[81] = {
-51,
-41,
-},
-["quest"] = 11836,
-["side"] = 2,
-},
-{
-["extra"] = 3,
-[81] = {
-78.93,
-21.97,
-},
-["quest"] = 11836,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[71] = {
-49,
-27,
-},
-["quest"] = 11838,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[83] = {
-58.22,
-47.53,
-},
-["quest"] = 11839,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[63] = {
-51.35,
-66.15,
-},
-["quest"] = 11841,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[66] = {
-26,
-76,
-},
-["quest"] = 11845,
-["side"] = 2,
-},
-{
-{
-52,
-47,
-},
-["extra"] = 2,
-["quest"] = 11846,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11847,
-[70] = {
-33,
-30,
-},
-},
-{
-["extra"] = 2,
-[69] = {
-72,
-47,
-},
-["quest"] = 11849,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[7] = {
-51,
-59,
-},
-["quest"] = 11852,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[65] = {
-52.91,
-62.45,
-},
-["quest"] = 11856,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[10] = {
-50,
-55,
-},
-["quest"] = 11859,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[199] = {
-48.2,
-72.4,
-},
-["quest"] = 28913,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["quest"] = 28914,
-[199] = {
-40.7,
-67.2,
-["63,199"] = {
-["y"] = 2.026549339294434,
-["x"] = 0.5827689170837402,
-},
-["83,199"] = {
-["y"] = 2.904972076416016,
-["x"] = 0.1087752506136894,
-},
-["62,199"] = {
-["y"] = 2.630731105804443,
-["x"] = 0.7235270738601685,
-},
-["76,199"] = {
-["y"] = 2.311040639877319,
-["x"] = -0.3105012774467468,
-},
-["12,199"] = {
-["y"] = 0.6287752389907837,
-["x"] = 0.5088950395584106,
-},
-["66,199"] = {
-["y"] = 1.190400123596191,
-["x"] = 1.31098484992981,
-},
-["65,199"] = {
-["y"] = 1.657829523086548,
-["x"] = 0.9428330659866333,
-},
-},
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[65] = {
-49.6,
-51.1,
-},
-["quest"] = 28915,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 28919,
-[76] = {
-60.4,
-53.5,
-["83,76"] = {
-["y"] = 1.312131762504578,
-["x"] = 0.9287892580032349,
-},
-["62,76"] = {
-["y"] = 1.115647673606873,
-["x"] = 1.503636598587036,
-},
-["12,76"] = {
-["y"] = 0.3625790476799011,
-["x"] = 0.6459362506866455,
-},
-},
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 28920,
-[78] = {
-56.3,
-65.8,
-["83,78"] = {
-["y"] = 3.995971918106079,
-["x"] = 0.09074804186820984,
-},
-["76,78"] = {
-["y"] = 3.52752161026001,
-["x"] = -0.330605685710907,
-},
-["63,78"] = {
-["y"] = 3.190281867980957,
-["x"] = 0.5635433793067932,
-},
-["62,78"] = {
-["y"] = 3.668472051620483,
-["x"] = 0.7063771486282349,
-},
-["65,78"] = {
-["y"] = 2.795056819915772,
-["x"] = 0.9240419864654541,
-},
-["12,78"] = {
-["y"] = 0.8111036419868469,
-["x"] = 0.5058823227882385,
-},
-["66,78"] = {
-["y"] = 2.682470798492432,
-["x"] = 1.286324858665466,
-},
-},
-},
-{
-["extra"] = 1,
-[78] = {
-60,
-62.9,
-},
-["quest"] = 28921,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 28923,
-[76] = {
-60.78,
-53.48,
-},
-},
-{
-["extra"] = 2,
-["quest"] = 28926,
-[199] = {
-48,
-72,
-["63,199"] = {
-["y"] = 2.088259935379028,
-["x"] = 0.6766034364700317,
-},
-["83,199"] = {
-["y"] = 2.962825775146484,
-["x"] = 0.1967609822750092,
-},
-["62,199"] = {
-["y"] = 2.685760498046875,
-["x"] = 0.8072311878204346,
-},
-["76,199"] = {
-["y"] = 2.375548362731934,
-["x"] = -0.2123772650957108,
-},
-["12,199"] = {
-["y"] = 0.6384437680244446,
-["x"] = 0.5235992670059204,
-},
-["66,199"] = {
-["y"] = 1.269521832466126,
-["x"] = 1.431343674659729,
-},
-["65,199"] = {
-["y"] = 1.718134522438049,
-["x"] = 1.034546971321106,
-},
-},
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[199] = {
-41,
-68,
-},
-["quest"] = 28927,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[65] = {
-49,
-51,
-["12,65"] = {
-["y"] = 0.4447470307350159,
-["x"] = 0.4362936615943909,
-},
-["76,65"] = {
-["y"] = 1.083218812942505,
-["x"] = -0.7949835658073425,
-},
-["83,65"] = {
-["y"] = 1.803800940513611,
-["x"] = -0.3256498873233795,
-},
-["62,65"] = {
-["y"] = 1.583315253257752,
-["x"] = 0.3102424740791321,
-},
-["63,65"] = {
-["y"] = 0.8519675731658936,
-["x"] = 0.119465783238411,
-},
-},
-["side"] = 1,
-["quest"] = 28928,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 28932,
-[78] = {
-60,
-63,
-["83,78"] = {
-["y"] = 3.979126691818237,
-["x"] = 0.1130080446600914,
-},
-["76,78"] = {
-["y"] = 3.508738994598389,
-["x"] = -0.3057807385921478,
-},
-["63,78"] = {
-["y"] = 3.172313690185547,
-["x"] = 0.5872831344604492,
-},
-["62,78"] = {
-["y"] = 3.652449131011963,
-["x"] = 0.7275539040565491,
-},
-["65,78"] = {
-["y"] = 2.7774977684021,
-["x"] = 0.947245180606842,
-},
-["12,78"] = {
-["y"] = 0.8082884550094604,
-["x"] = 0.509602427482605,
-},
-["66,78"] = {
-["y"] = 2.659433126449585,
-["x"] = 1.31677508354187,
-},
-},
-},
-{
-["extra"] = 2,
-[78] = {
-56,
-66,
-},
-["quest"] = 28933,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 28947,
-[249] = {
-53.4,
-32,
-},
-},
-{
-["extra"] = 3,
-["side"] = 2,
-["quest"] = 28947,
-[249] = {
-56.02,
-35.14,
-},
-},
-{
-[249] = {
-53,
-34.4,
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 28948,
-},
-{
-[249] = {
-56.02,
-35.14,
-},
-["extra"] = 3,
-["side"] = 1,
-["quest"] = 28948,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 28949,
-[249] = {
-53,
-34,
-},
-},
-{
-["extra"] = 3,
-["side"] = 2,
-["quest"] = 28949,
-[249] = {
-56.02,
-35.14,
-},
-},
-{
-[249] = {
-53,
-32,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 28950,
-},
-{
-[249] = {
-56.02,
-35.14,
-},
-["extra"] = 3,
-["side"] = 1,
-["quest"] = 28950,
-},
-{
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 29030,
-[198] = {
-62.84,
-22.69,
-},
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11735,
-[97] = {
-44.7,
-52.5,
-},
-},
-{
-["extra"] = 1,
-[105] = {
-41.8,
-65.9,
-},
-["quest"] = 11736,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11738,
-[106] = {
-56,
-68.5,
-},
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11747,
-[100] = {
-61.9,
-58.5,
-},
-},
-{
-["extra"] = 1,
-[107] = {
-49.7,
-69.66,
-},
-["quest"] = 11750,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[104] = {
-39.6,
-54.3,
-},
-["quest"] = 11752,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[108] = {
-54.2,
-55.4,
-},
-["quest"] = 11754,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[102] = {
-68.69,
-52.11,
-},
-["quest"] = 11758,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 11759,
-[109] = {
-31.1,
-62.7,
-},
-},
-{
-["extra"] = 1,
-[105] = {
-49.9,
-59,
-},
-["quest"] = 11767,
-["side"] = 1,
-},
-{
-[94] = {
-46.3,
-50.3,
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11772,
-},
-{
-["extra"] = 1,
-[95] = {
-47,
-25.9,
-},
-["side"] = 1,
-["quest"] = 11774,
-},
-{
-[100] = {
-57.3,
-41.8,
-},
-["side"] = 1,
-["quest"] = 11775,
-["extra"] = 1,
-},
-{
-["extra"] = 1,
-[107] = {
-51.12,
-34.02,
-},
-["side"] = 1,
-["quest"] = 11778,
-},
-{
-["extra"] = 1,
-[104] = {
-33.6,
-30.3,
-},
-["side"] = 1,
-["quest"] = 11779,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 11782,
-[108] = {
-51.9,
-43.3,
-},
-},
-{
-["extra"] = 1,
-[102] = {
-35.6,
-51.9,
-},
-["quest"] = 11787,
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[109] = {
-32.3,
-68.4,
-},
-["side"] = 1,
-["quest"] = 11799,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11806,
-[97] = {
-44,
-53,
-["12,97"] = {
-["y"] = 0.27002814412117,
-["x"] = 0.3195057511329651,
-},
-["65,97"] = false,
-["66,97"] = false,
-["76,97"] = false,
-["63,97"] = false,
-["62,97"] = false,
-["83,97"] = false,
-},
-},
-{
-["extra"] = 2,
-[105] = {
-42,
-66,
-},
-["quest"] = 11807,
-["side"] = 1,
-},
-{
-[106] = {
-55,
-69,
-["76,106"] = false,
-["62,106"] = false,
-["63,106"] = false,
-["65,106"] = false,
-["83,106"] = false,
-["12,106"] = {
-["y"] = 0.18960340321064,
-["x"] = 0.3080444037914276,
-},
-["66,106"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11809,
-},
-{
-[100] = {
-62,
-58,
-},
-["side"] = 1,
-["quest"] = 11818,
-["extra"] = 2,
-},
-{
-["extra"] = 2,
-[107] = {
-50.91,
-34.15,
-},
-["quest"] = 11854,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[107] = {
-49.61,
-69.47,
-},
-["side"] = 1,
-["quest"] = 11821,
-},
-{
-["extra"] = 2,
-[104] = {
-40,
-55,
-},
-["side"] = 1,
-["quest"] = 11823,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 11825,
-[108] = {
-55,
-55,
-},
-},
-{
-["extra"] = 2,
-[102] = {
-69,
-52,
-},
-["quest"] = 11829,
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[109] = {
-31,
-63,
-},
-["side"] = 1,
-["quest"] = 11830,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11835,
-[109] = {
-32,
-68,
-},
-},
-{
-["extra"] = 2,
-[105] = {
-50,
-59,
-},
-["quest"] = 11843,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11848,
-[94] = {
-46.4,
-50.6,
-},
-},
-{
-["extra"] = 2,
-[95] = {
-46,
-26,
-},
-["quest"] = 11850,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 11851,
-[100] = {
-57.11,
-42.05,
-},
-},
-{
-["extra"] = 2,
-[104] = {
-33,
-30,
-},
-["quest"] = 11855,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[108] = {
-52,
-43,
-},
-["quest"] = 11858,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[102] = {
-35.44,
-51.61,
-},
-["quest"] = 11863,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[114] = {
-55.1,
-20.2,
-},
-["quest"] = 13440,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[114] = {
-51.1,
-11.9,
-["63,114"] = false,
-["12,114"] = false,
-["83,114"] = false,
-["66,114"] = false,
-["76,114"] = false,
-["65,114"] = false,
-["62,114"] = false,
-},
-["quest"] = 13441,
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[119] = {
-47.9,
-66,
-},
-["quest"] = 13442,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 13443,
-[115] = {
-75.1,
-43.7,
-},
-},
-{
-["extra"] = 1,
-[117] = {
-57.7,
-15.7,
-},
-["quest"] = 13444,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[116] = {
-34.1,
-60.7,
-},
-["quest"] = 13445,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[120] = {
-41.4,
-87,
-},
-["quest"] = 13446,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 13447,
-[127] = {
-77.7,
-74.9,
-},
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 13449,
-[121] = {
-40.4,
-61,
-},
-},
-{
-["extra"] = 1,
-[119] = {
-47.3,
-61.7,
-["12,119"] = false,
-["65,119"] = false,
-["66,119"] = false,
-["76,119"] = false,
-["63,119"] = false,
-["62,119"] = false,
-["83,119"] = false,
-},
-["side"] = 1,
-["quest"] = 13450,
-},
-{
-[115] = {
-38.5,
-48.4,
-["76,115"] = false,
-["65,115"] = false,
-["66,115"] = false,
-["83,115"] = false,
-["12,115"] = false,
-["62,115"] = false,
-["63,115"] = false,
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 13451,
-},
-{
-["extra"] = 1,
-["quest"] = 13453,
-[117] = {
-48.4,
-13.5,
-["83,117"] = false,
-["62,117"] = false,
-["12,117"] = false,
-["65,117"] = false,
-["76,117"] = false,
-["63,117"] = false,
-["66,117"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[116] = {
-19.1,
-61.3,
-["63,116"] = false,
-["62,116"] = false,
-["65,116"] = false,
-["76,116"] = false,
-["66,116"] = false,
-["12,116"] = false,
-["83,116"] = false,
-},
-["side"] = 1,
-["quest"] = 13454,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 13455,
-[120] = {
-40.3,
-85.6,
-["66,120"] = false,
-["76,120"] = false,
-["63,120"] = false,
-["62,120"] = false,
-["83,120"] = false,
-["12,120"] = false,
-["65,120"] = false,
-},
-},
-{
-[127] = {
-80.5,
-53,
-["83,127"] = false,
-["12,127"] = false,
-["62,127"] = false,
-["76,127"] = false,
-["63,127"] = false,
-["66,127"] = false,
-["65,127"] = false,
-},
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 13457,
-},
-{
-[121] = {
-43.2,
-71.4,
-["63,121"] = false,
-["62,121"] = false,
-["12,121"] = false,
-["66,121"] = false,
-["76,121"] = false,
-["83,121"] = false,
-["65,121"] = false,
-},
-["side"] = 1,
-["quest"] = 13458,
-["extra"] = 1,
-},
-{
-["extra"] = 2,
-[114] = {
-55,
-20,
-["63,114"] = false,
-["12,114"] = false,
-["83,114"] = false,
-["66,114"] = false,
-["76,114"] = false,
-["65,114"] = false,
-["62,114"] = false,
-},
-["quest"] = 13485,
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[119] = {
-47,
-66,
-["12,119"] = false,
-["65,119"] = false,
-["66,119"] = false,
-["76,119"] = false,
-["63,119"] = false,
-["62,119"] = false,
-["83,119"] = false,
-},
-["side"] = 1,
-["quest"] = 13486,
-},
-{
-[115] = {
-75,
-44,
-["76,115"] = false,
-["65,115"] = false,
-["66,115"] = false,
-["83,115"] = false,
-["12,115"] = false,
-["62,115"] = false,
-["63,115"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 13487,
-},
-{
-["extra"] = 2,
-["quest"] = 13488,
-[117] = {
-58,
-16,
-["83,117"] = false,
-["62,117"] = false,
-["12,117"] = false,
-["65,117"] = false,
-["76,117"] = false,
-["63,117"] = false,
-["66,117"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 2,
-[116] = {
-34,
-61,
-["63,116"] = false,
-["62,116"] = false,
-["65,116"] = false,
-["76,116"] = false,
-["66,116"] = false,
-["12,116"] = false,
-["83,116"] = false,
-},
-["side"] = 1,
-["quest"] = 13489,
-},
-{
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 13490,
-[120] = {
-42,
-87,
-["66,120"] = false,
-["76,120"] = false,
-["63,120"] = false,
-["62,120"] = false,
-["83,120"] = false,
-["12,120"] = false,
-["65,120"] = false,
-},
-},
-{
-[127] = {
-78,
-75,
-["83,127"] = false,
-["12,127"] = false,
-["62,127"] = false,
-["76,127"] = false,
-["63,127"] = false,
-["66,127"] = false,
-["65,127"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 13491,
-},
-{
-[121] = {
-41,
-61,
-["63,121"] = false,
-["62,121"] = false,
-["12,121"] = false,
-["66,121"] = false,
-["76,121"] = false,
-["83,121"] = false,
-["65,121"] = false,
-},
-["side"] = 1,
-["quest"] = 13492,
-["extra"] = 2,
-},
-{
-["extra"] = 2,
-[114] = {
-51,
-12,
-},
-["quest"] = 13493,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[119] = {
-47,
-62,
-},
-["quest"] = 13494,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 13495,
-[115] = {
-39,
-48,
-},
-},
-{
-["extra"] = 2,
-[117] = {
-48,
-13,
-},
-["quest"] = 13496,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[116] = {
-19,
-61,
-},
-["quest"] = 13497,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[120] = {
-40,
-86,
-},
-["quest"] = 13498,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 13499,
-[127] = {
-80,
-53,
-},
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 13500,
-[121] = {
-43,
-71,
-},
-},
-{
-["extra"] = 1,
-[390] = {
-77.9,
-33.9,
-},
-["side"] = 1,
-["quest"] = 32496,
-},
-{
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 32497,
-[422] = {
-56.07,
-69.58,
-["12,422"] = false,
-["62,422"] = false,
-["76,422"] = false,
-["63,422"] = false,
-["83,422"] = false,
-["65,422"] = false,
-["66,422"] = false,
-},
-},
-{
-[371] = {
-47.2,
-47.2,
-["66,371"] = false,
-["65,371"] = false,
-["12,371"] = false,
-["76,371"] = false,
-["83,371"] = false,
-["62,371"] = false,
-["63,371"] = false,
-},
-["side"] = 3,
-["quest"] = 32498,
-["extra"] = 2,
-},
-{
-["extra"] = 2,
-["quest"] = 32499,
-[418] = {
-74.06,
-9.46,
-["66,418"] = false,
-["65,418"] = false,
-["12,418"] = false,
-["62,418"] = false,
-["63,418"] = false,
-["76,418"] = false,
-["83,418"] = false,
-},
-["side"] = 3,
-},
-{
-["extra"] = 2,
-[379] = {
-71.1,
-90.9,
-["12,379"] = false,
-["62,379"] = false,
-["83,379"] = false,
-["63,379"] = false,
-["76,379"] = false,
-["65,379"] = false,
-["66,379"] = false,
-},
-["quest"] = 32500,
-["side"] = 3,
-},
-{
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 32501,
-[388] = {
-71.5,
-56.3,
-["62,388"] = false,
-["83,388"] = false,
-["63,388"] = false,
-["76,388"] = false,
-["12,388"] = false,
-["65,388"] = false,
-["66,388"] = false,
-},
-},
-{
-["extra"] = 2,
-["quest"] = 32502,
-[376] = {
-51.81,
-51.32,
-["66,376"] = false,
-["76,376"] = false,
-["63,376"] = false,
-["65,376"] = false,
-["12,376"] = false,
-["62,376"] = false,
-["83,376"] = false,
-},
-["side"] = 3,
-},
-{
-["extra"] = 1,
-[390] = {
-79.8,
-37,
-},
-["quest"] = 32503,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[390] = {
-77.8,
-33.1,
-},
-["quest"] = 32509,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[390] = {
-79.6,
-37.2,
-},
-["side"] = 1,
-["quest"] = 32510,
-},
-{
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 44570,
-[542] = {
-48,
-44.7,
-},
-},
-{
-["extra"] = 2,
-[535] = {
-43.5,
-71.8,
-},
-["side"] = 3,
-["quest"] = 44571,
-},
-{
-["extra"] = 2,
-[550] = {
-80.5,
-47.7,
-},
-["side"] = 3,
-["quest"] = 44572,
-},
-{
-["extra"] = 2,
-[543] = {
-43.9,
-93.8,
-},
-["quest"] = 44573,
-["side"] = 3,
-},
-{
-[539] = {
-42.6,
-36,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 44579,
-},
-{
-["extra"] = 2,
-[525] = {
-72.6,
-65,
-},
-["quest"] = 44580,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 44583,
-[525] = {
-72.8,
-65.2,
-},
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 44582,
-[539] = {
-42.8,
-35.9,
-},
-},
-{
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 44574,
-[630] = {
-48.3,
-29.7,
-["62,630"] = false,
-["63,630"] = false,
-["76,630"] = false,
-["65,630"] = false,
-["66,630"] = false,
-["12,630"] = false,
-["83,630"] = false,
-},
-},
-{
-[641] = {
-44.9,
-58,
-["83,641"] = false,
-["12,641"] = false,
-["62,641"] = false,
-["66,641"] = false,
-["76,641"] = false,
-["63,641"] = false,
-["65,641"] = false,
-},
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 44575,
-},
-{
-[650] = {
-55.5,
-84.5,
-["83,650"] = false,
-["76,650"] = false,
-["12,650"] = false,
-["65,650"] = false,
-["66,650"] = false,
-["63,650"] = false,
-["62,650"] = false,
-},
-["side"] = 3,
-["quest"] = 44576,
-["extra"] = 2,
-},
-{
-["extra"] = 2,
-[634] = {
-32.5,
-42.1,
-["83,634"] = false,
-["62,634"] = false,
-["12,634"] = false,
-["76,634"] = false,
-["66,634"] = false,
-["65,634"] = false,
-["63,634"] = false,
-},
-["side"] = 3,
-["quest"] = 44577,
-},
-{
-["extra"] = 2,
-[680] = {
-23,
-58.4,
-["83,680"] = false,
-["66,680"] = false,
-["76,680"] = false,
-["62,680"] = false,
-["12,680"] = false,
-["63,680"] = false,
-["65,680"] = false,
-},
-["side"] = 1,
-["quest"] = 44613,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 44614,
-[680] = {
-30.4,
-45.4,
-},
-},
-{
-["extra"] = 1,
-[680] = {
-30.3,
-45.4,
-["83,680"] = false,
-["66,680"] = false,
-["76,680"] = false,
-["62,680"] = false,
-["12,680"] = false,
-["63,680"] = false,
-["65,680"] = false,
-},
-["side"] = 1,
-["quest"] = 44627,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 44624,
-[680] = {
-22.8,
-58.2,
-},
-},
-{
-["extra"] = 2,
-[895] = {
-76.35,
-49.88,
-["12,895"] = false,
-["62,895"] = false,
-["76,895"] = false,
-["65,895"] = false,
-["66,895"] = false,
-["63,895"] = false,
-["83,895"] = false,
-},
-["side"] = 1,
-["quest"] = 54737,
-},
-{
-["extra"] = 2,
-[942] = {
-35.85,
-51.33,
-["12,942"] = false,
-["62,942"] = false,
-["76,942"] = false,
-["65,942"] = false,
-["66,942"] = false,
-["63,942"] = false,
-["83,942"] = false,
-},
-["quest"] = 54741,
-["side"] = 1,
-},
-{
-[896] = {
-40.22,
-47.6,
-["12,896"] = false,
-["65,896"] = false,
-["83,896"] = false,
-["76,896"] = false,
-["63,896"] = false,
-["66,896"] = false,
-["62,896"] = false,
-},
-["extra"] = 2,
-["side"] = 1,
-["quest"] = 54743,
-},
-{
-["extra"] = 1,
-[895] = {
-76.33,
-49.77,
-},
-["quest"] = 54736,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-[942] = {
-35.9,
-51.42,
-},
-["quest"] = 54739,
-["side"] = 2,
-},
-{
-["extra"] = 1,
-["side"] = 2,
-["quest"] = 54742,
-[896] = {
-40.18,
-47.49,
-},
-},
-{
-["extra"] = 1,
-["side"] = 1,
-["quest"] = 54746,
-[863] = {
-40.09,
-74.21,
-["63,863"] = false,
-["76,863"] = false,
-["12,863"] = false,
-["65,863"] = false,
-["83,863"] = false,
-["62,863"] = false,
-["66,863"] = false,
-},
-},
-{
-["extra"] = 1,
-["quest"] = 54749,
-[864] = {
-55.97,
-47.7,
-["12,864"] = false,
-["76,864"] = false,
-["65,864"] = false,
-["83,864"] = false,
-["62,864"] = false,
-["63,864"] = false,
-["66,864"] = false,
-},
-["side"] = 1,
-},
-{
-["extra"] = 1,
-[862] = {
-53.35,
-48.07,
-["12,862"] = false,
-["62,862"] = false,
-["76,862"] = false,
-["63,862"] = false,
-["83,862"] = false,
-["65,862"] = false,
-["66,862"] = false,
-},
-["side"] = 1,
-["quest"] = 54744,
-},
-{
-["extra"] = 2,
-["side"] = 2,
-["quest"] = 54747,
-[863] = {
-40.03,
-74.3,
-},
-},
-{
-["extra"] = 2,
-[864] = {
-56.01,
-47.76,
-},
-["quest"] = 54750,
-["side"] = 2,
-},
-{
-["extra"] = 2,
-[862] = {
-53.31,
-48.11,
-},
-["quest"] = 54745,
-["side"] = 2,
-},
-{
-[2022] = {
-45.99,
-82.88,
-["66,2022"] = false,
-["12,2022"] = false,
-["83,2022"] = false,
-["62,2022"] = false,
-["63,2022"] = false,
-["76,2022"] = false,
-["65,2022"] = false,
-},
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 75398,
-},
-{
-["extra"] = 2,
-[2023] = {
-63.86,
-35,
-["83,2023"] = false,
-["76,2023"] = false,
-["12,2023"] = false,
-["65,2023"] = false,
-["62,2023"] = false,
-["63,2023"] = false,
-["66,2023"] = false,
-},
-["side"] = 3,
-["quest"] = 75617,
-},
-{
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 75640,
-[2024] = {
-12.21,
-47.57,
-["83,2024"] = false,
-["76,2024"] = false,
-["12,2024"] = false,
-["65,2024"] = false,
-["62,2024"] = false,
-["63,2024"] = false,
-["66,2024"] = false,
-},
-},
-{
-["extra"] = 2,
-[2112] = {
-53.38,
-62.32,
-["83,2112"] = false,
-["62,2112"] = false,
-["12,2112"] = false,
-["65,2112"] = false,
-["66,2112"] = false,
-["63,2112"] = false,
-["76,2112"] = false,
-},
-["side"] = 3,
-["quest"] = 75645,
-},
-{
-["extra"] = 2,
-[2151] = {
-34.98,
-60.89,
-},
-["side"] = 3,
-["quest"] = 75647,
-},
-{
-["extra"] = 2,
-[2133] = {
-55.17,
-55.42,
-["12,2133"] = false,
-["83,2133"] = false,
-["76,2133"] = false,
-["63,2133"] = false,
-["62,2133"] = false,
-["65,2133"] = false,
-["66,2133"] = false,
-},
-["side"] = 3,
-["quest"] = 75650,
-},
-{
-["extra"] = 3,
-[2023] = {
-88.25,
-28.85,
-["83,2023"] = false,
-["76,2023"] = false,
-["12,2023"] = false,
-["65,2023"] = false,
-["62,2023"] = false,
-["63,2023"] = false,
-["66,2023"] = false,
-},
-["side"] = 3,
-["quest"] = 75650,
-},
-{
-["extra"] = 3,
-[2023] = {
-36.27,
-59.01,
-["83,2023"] = false,
-["76,2023"] = false,
-["12,2023"] = false,
-["65,2023"] = false,
-["62,2023"] = false,
-["63,2023"] = false,
-["66,2023"] = false,
-},
-["side"] = 3,
-["quest"] = 75650,
-},
-{
-["extra"] = 3,
-["side"] = 3,
-["quest"] = 75650,
-[2024] = {
-18.91,
-22.87,
-["83,2024"] = false,
-["76,2024"] = false,
-["12,2024"] = false,
-["65,2024"] = false,
-["62,2024"] = false,
-["63,2024"] = false,
-["66,2024"] = false,
-},
-},
-{
-["extra"] = 2,
-[2339] = {
-48.27,
-51.5,
-["63,2339"] = false,
-["12,2339"] = false,
-["62,2339"] = false,
-["66,2339"] = false,
-["65,2339"] = false,
-["83,2339"] = false,
-["76,2339"] = false,
-},
-["quest"] = 87342,
-["side"] = 3,
-},
-{
-["extra"] = 2,
-[2215] = {
-42.42,
-51.59,
-["76,2215"] = false,
-["66,2215"] = false,
-["63,2215"] = false,
-["83,2215"] = false,
-["62,2215"] = false,
-["12,2215"] = false,
-["65,2215"] = false,
-},
-["side"] = 3,
-["quest"] = 87355,
-},
-{
-["extra"] = 2,
-[2255] = {
-55.53,
-43.36,
-["83,2255"] = false,
-["76,2255"] = false,
-["12,2255"] = false,
-["65,2255"] = false,
-["66,2255"] = false,
-["63,2255"] = false,
-["62,2255"] = false,
-},
-["quest"] = 87356,
-["side"] = 3,
-},
-{
-["extra"] = 2,
-[2214] = {
-43.65,
-32.73,
-["76,2214"] = false,
-["12,2214"] = false,
-["63,2214"] = false,
-["83,2214"] = false,
-["62,2214"] = false,
-["65,2214"] = false,
-["66,2214"] = false,
-},
-["side"] = 3,
-["quest"] = 87357,
-},
-{
-[2395] = {
-48.81,
-63.89,
-},
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 92555,
-},
-{
-["extra"] = 2,
-[2393] = {
-48.51,
-81.36,
-},
-["quest"] = 92556,
-["side"] = 3,
-},
-{
-[2437] = {
-54.27,
-16.95,
-},
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 92557,
-},
-{
-["extra"] = 2,
-["quest"] = 92558,
-[2405] = {
-53.7,
-70.08,
-},
-["side"] = 3,
-},
-{
-[2413] = {
-54.37,
-51.4,
-},
-["extra"] = 2,
-["side"] = 3,
-["quest"] = 92559,
-},
-},
-["texture"] = {
-"Interface\\Icons\\Spell_Fire_MasterOfElements",
-"Interface\\Icons\\INV_SummerFest_FireSpirit",
-"Interface\\Icons\\Spell_Shadow_Teleport",
-},
-},
-[66] = {
-26.1,
-77.4,
-["12,66"] = {
-["y"] = 0.5778918862342834,
-["x"] = 0.3806183934211731,
-},
-["65,66"] = {
-["y"] = 1.340457439422607,
-["x"] = 0.1427392959594727,
-},
-["66,66"] = {
-["y"] = 0.7739999890327454,
-["x"] = 0.2609997987747192,
-},
-["76,66"] = {
-["y"] = 1.971550941467285,
-["x"] = -1.166514754295349,
-},
-["63,66"] = {
-["y"] = 1.701780319213867,
-["x"] = -0.2358239889144898,
-},
-["62,66"] = {
-["y"] = 2.341123104095459,
-["x"] = -0.006689988076686859,
-},
-["83,66"] = {
-["y"] = 2.600500822067261,
-["x"] = -0.6587941646575928,
-},
-},
-["side"] = 1,
-["extra"] = 1,
-["quest"] = 11769,
-},
-["world"] = true,
-},
-},
 },
 ["Doneer - Eredar"] = {
 },
 ["Meander - Kel'Thuzad"] = {
+},
+["Splash - Kel'Thuzad"] = {
 },
 ["Temprivers - Kel'Thuzad"] = {
 },
@@ -13914,7 +10264,11 @@ nil,
 },
 ["Ochrian - Argent Dawn"] = {
 },
+["Squall - Argent Dawn"] = {
+},
 ["Flumes - Kel'Thuzad"] = {
+},
+["Seep - Kel'Thuzad"] = {
 },
 ["Alluvium - Argent Dawn"] = {
 },
@@ -13922,85 +10276,27 @@ nil,
 },
 ["Rime - Kel'Thuzad"] = {
 },
+["Brack - Mal'Ganis"] = {
+},
 ["Headcut - Argent Dawn"] = {
 },
 ["Gyre - Kel'Thuzad"] = {
-[86] = {
-["86:640000000:599000000:Messenger Aelor"] = {
-86,
-0.64,
-0.599,
-["crazy"] = true,
-["desc"] = "Messenger Aelor",
-["sourcePath"] = "npcID257544",
-["arrivaldistance"] = 15,
-["callbacks"] = {
-["distance"] = {
-},
-["minimap"] = {
-},
-["world"] = {
-},
-},
-["minimap_displayID"] = 142161,
-["persistent"] = true,
-["minimap"] = true,
-["silent"] = true,
-["cleardistance"] = 10,
-["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["from"] = "ATT",
-["worldmap_displayID"] = 142161,
-["title"] = "Messenger Aelor",
-["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["world"] = true,
-},
-},
-[2339] = {
-["2339:444000000:503000000:Messenger Aelor"] = {
-2339,
-0.444,
-0.503,
-["crazy"] = true,
-["desc"] = "Messenger Aelor",
-["sourcePath"] = "npcID257544",
-["arrivaldistance"] = 15,
-["callbacks"] = {
-["distance"] = {
-},
-["minimap"] = {
-},
-["world"] = {
-},
-},
-["minimap_displayID"] = 142161,
-["persistent"] = true,
-["minimap"] = true,
-["silent"] = true,
-["cleardistance"] = 10,
-["minimap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["from"] = "ATT",
-["worldmap_displayID"] = 142161,
-["title"] = "Messenger Aelor",
-["worldmap_icon"] = "interface/Addons\\AllTheThings\\assets\\Difficulty_Normal",
-["world"] = true,
-},
-},
 },
 ["Asperse - Kel'Thuzad"] = {
 },
-["Brack - Mal'Ganis"] = {
-},
-["Mire - Mal'Ganis"] = {
-},
-["Benthos - Argent Dawn"] = {
+["Wildeadoriah - The Scryers"] = {
 },
 ["Emptyrivers - Arthas"] = {
 },
-["Geyser - Mal'Ganis"] = {
+["Benthos - Argent Dawn"] = {
+},
+["Bog - Kel'Thuzad"] = {
+},
+["Evilrivers - Kel'Thuzad"] = {
 },
 ["Alandere - Argent Dawn"] = {
 },
-["Bog - Kel'Thuzad"] = {
+["Geyser - Mal'Ganis"] = {
 },
 ["Surge - Argent Dawn"] = {
 },
@@ -14008,21 +10304,21 @@ nil,
 },
 ["Savattellir - Arthas"] = {
 },
-["Wildeadoriah - The Scryers"] = {
+["Quag - Argent Dawn"] = {
 },
-["Virga - Kel'Thuzad"] = {
-},
-["Evilrivers - Kel'Thuzad"] = {
-},
-["Bayou - Kel'Thuzad"] = {
+["Sverdrup - Argent Dawn"] = {
 },
 ["Ailisuul - Arthas"] = {
 },
-["Beefyrivers - Arthas"] = {
+["Bayou - Kel'Thuzad"] = {
+},
+["Shoal - Kel'Thuzad"] = {
 },
 ["Lotic - Argent Dawn"] = {
 },
-["Mahntaiaga - Arthas"] = {
+["Beefyrivers - Arthas"] = {
+},
+["Emptyrivers - Sargeras"] = {
 },
 ["Confluence - Argent Dawn"] = {
 },
@@ -14032,27 +10328,55 @@ nil,
 },
 ["Glaciers - Kel'Thuzad"] = {
 },
-["Emptyrivers - Sargeras"] = {
-},
 ["Emptystreams - Argent Dawn"] = {
+},
+["Mahntaiaga - Arthas"] = {
 },
 ["Ragingrivers - Arthas"] = {
 },
 ["Bwaagh - Mal'Ganis"] = {
 },
-["Shoal - Kel'Thuzad"] = {
-},
 ["Dussrasande - Kel'Thuzad"] = {
+},
+["Virga - Kel'Thuzad"] = {
 },
 ["Emptyrivers - Bleeding Hollow"] = {
 },
-["Sverdrup - Argent Dawn"] = {
+["Docks - Argent Dawn"] = {
 },
-["Quag - Argent Dawn"] = {
+["Mire - Mal'Ganis"] = {
 },
 ["Rill - Kel'Thuzad"] = {
+[2413] = {
+["2413:735000000:664000000:|cffFF7D01Sporefall|r"] = {
+2413,
+0.735,
+0.664,
+["crazy"] = true,
+["arrivaldistance"] = 15,
+["callbacks"] = {
+["distance"] = {
 },
-["Seep - Kel'Thuzad"] = {
+["world"] = {
+},
+["minimap"] = {
+},
+},
+["minimap_icon"] = 7852000,
+["persistent"] = true,
+["worldmap_icon"] = 7852000,
+["silent"] = true,
+["cleardistance"] = 10,
+["title"] = "|cffFF7D01Sporefall|r",
+["from"] = "ATT",
+["sourcePath"] = "ROOTNOKEY>headerID-732>mapID2537>mapID2393>headerID-75>instanceID1305",
+["minimap"] = true,
+["desc"] = "|cffFF7D01Sporefall|r",
+["world"] = true,
+},
+},
+},
+["Font - Kel'Thuzad"] = {
 },
 ["Riparium - Argent Dawn"] = {
 },
@@ -14064,9 +10388,9 @@ nil,
 },
 ["Floe - Mal'Ganis"] = {
 },
-["Brook - Argent Dawn"] = {
-},
 ["Levee - Argent Dawn"] = {
+},
+["Brook - Argent Dawn"] = {
 },
 },
 }
