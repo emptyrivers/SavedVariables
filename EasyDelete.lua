@@ -1,0 +1,4 @@
+
+EasyDeleteDB = {
+["style"] = "classic",
+}
